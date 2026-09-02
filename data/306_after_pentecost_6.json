@@ -208,12 +208,14 @@
   "apostle": {
     "reference": "Romains 12 6-14",
     "title": "",
-   "verse_number": 6,
-    "translations": {
+    "interlinear": [
+      {
+        "verse_number": 6,
+        "translations": {
       "segond": "Puisque nous avons des dons différents, selon la grâce qui nous a été accordée, que celui qui a le don de prophétie l'exerce selon l'analogie de la foi ;",
       "darby": "Ayant donc des dons différents, selon la grâce qui nous a été donnée : soit la prophétie, prophétisons selon l'analogie de la foi ;"
-    },
-    "interlinear": [
+        },
+        "interlinear": [
       { "greek": "Ἔχοντες", "gloss": "Ayant" },
       { "greek": "δὲ", "gloss": "or/donc" },
       { "greek": "χαρίσματα", "gloss": "des_dons_de_grâce", "analyse": "Du mot *charisma*. Le charisme n'est pas un talent naturel dont l'Ego pourrait s'enorgueillir, mais une libre circulation de l'Énergie divine incréée à travers un sujet. La diversité des dons n'est pas une source de division (Monde duel) mais la richesse d'un corps unifié." },
