@@ -26,14 +26,22 @@
             </div>
             
             <div id="panel-toggles" class="text-tools">
-               
+
                 <button id="toggle-french" class="tool-btn">Français Intégral</button>
+                <button id="toggle-homily" class="tool-btn">Construire l'homélie</button>
                 <a id="pdf-button-container" href="#" target="_blank" class="pdf-btn" style="display: none;">📄 Voir le PDF</a>
             </div>
             
             <div id="text-selector">
                 <button id="select-gospel" class="active">Évangile</button>
                 <button id="select-apostle">Apôtre</button>
+            </div>
+            <div class="annotation-legend" aria-label="Légende des mots annotés">
+                <span><i class="legend-dot root"></i>Racine</span>
+                <span><i class="legend-dot repetition"></i>Répétition</span>
+                <span><i class="legend-dot translation"></i>Traduction</span>
+                <span><i class="legend-dot theology"></i>Théologie</span>
+                <span><i class="legend-dot analysis"></i>Analyse</span>
             </div>
 
             <h2 id="verse-title">Chargement...</h2>
@@ -43,6 +51,10 @@
             <section id="notes-view" class="analysis-panel">
                 <h3>Notes / Analyse </h3>
                 <p id="my-notes">Chargement de l'analyse...</p>
+                <section id="homiletic-axes-container" class="homiletic-axes" hidden>
+                    <h4>Axes homilétiques</h4>
+                    <div id="homiletic-axes-list"></div>
+                </section>
 <div id="going-further-container" style="display: none; margin-top: 25px; padding: 15px; border-left: 4px solid #0056b3; background-color: #f8f9fa;">
                     <h4 style="margin-top: 0; color: #0056b3;">Pour aller plus loin</h4>
                     <ul id="going-further-list" style="margin-bottom: 0; padding-left: 20px; line-height: 1.6;"></ul>
@@ -67,6 +79,23 @@
                     </form>
                 </div>   
             </section>
+
+            <section id="homily-workspace" class="homily-workspace" hidden>
+                <div class="homily-workspace-header">
+                    <div>
+                        <p class="workspace-kicker">Atelier homilétique</p>
+                        <h3 id="homily-workspace-title">Construire l'homélie</h3>
+                        <p id="homily-save-status" class="homily-save-status" aria-live="polite"></p>
+                    </div>
+                    <button id="close-homily" class="close-homily" type="button" aria-label="Fermer l'atelier">×</button>
+                </div>
+                <div id="homily-fields" class="homily-fields"></div>
+                <div class="homily-actions">
+                    <button id="export-homily-doc" class="tool-btn" type="button">Exporter pour Word</button>
+                    <button id="export-homily-txt" class="tool-btn secondary" type="button">Exporter en texte</button>
+                    <button id="clear-homily" class="tool-btn danger" type="button">Effacer le brouillon</button>
+                </div>
+            </section>
         </div>
 
         <div id="side-panels">
@@ -84,6 +113,15 @@
     <footer id="footer-info">
         <p>Inspiration du projet : **Père Pascal**</p>
     </footer>
+
+    <dialog id="analysis-dialog" class="analysis-dialog" aria-labelledby="analysis-dialog-title">
+        <button id="analysis-dialog-close" class="analysis-dialog-close" type="button" aria-label="Fermer">×</button>
+        <p id="analysis-dialog-type" class="analysis-dialog-type"></p>
+        <h3 id="analysis-dialog-title"></h3>
+        <div id="analysis-dialog-content" class="analysis-dialog-content"></div>
+        <div id="analysis-dialog-related" class="analysis-dialog-related" hidden></div>
+        <p id="analysis-dialog-source" class="analysis-dialog-source" hidden></p>
+    </dialog>
 
     <script src="app.js"></script>
 
