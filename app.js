@@ -74,9 +74,171 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // --- SÉCURITÉ : CHOIX PAR DÉFAUT ---
-    let currentSundayKey = '00_publican_pharisee'; 
+    let currentSundayKey = '00_publican_pharisee';
     let currentReadingType = 'gospel';
     let currentTranslation = 'segond';
+    let currentHomilyReference = '';
+    let currentHomilyReadingTitle = '';
+
+    const defaultHomilyTemplate = [
+        {
+            id: 'theme',
+            title: '1. Parole centrale',
+            prompt: 'Quelle parole ou quel mot-clef portera toute l’homélie ?'
+        },
+        {
+            id: 'text',
+            title: '2. Écoute du texte',
+            prompt: 'Que dit précisément la péricope ? Notez sa progression, ses répétitions et ses oppositions.'
+        },
+        {
+            id: 'gospel',
+            title: '3. Bonne Nouvelle',
+            prompt: 'Qu’est-ce que Dieu accomplit ou révèle ici ? Formulez l’annonce évangélique en une ou deux phrases.'
+        },
+        {
+            id: 'today',
+            title: '4. Passage vers aujourd’hui',
+            prompt: 'Quelle expérience humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?'
+        },
+        {
+            id: 'response',
+            title: '5. Réponse proposée',
+            prompt: 'À quelle conversion, espérance ou action concrète l’assemblée est-elle appelée ?'
+        },
+        {
+            id: 'oral',
+            title: '6. Homélie rédigée',
+            prompt: 'Rédigez ici la version orale : une entrée, un mouvement clair, puis une conclusion mémorable.'
+        }
+    ];
+
+    const getHomilyStorageKey = () =>
+        `lectionnaire:homily:${currentSundayKey}:${currentReadingType}`;
+
+    const readHomilyDraft = () => {
+        try {
+            return JSON.parse(localStorage.getItem(getHomilyStorageKey())) || {};
+        } catch {
+            return {};
+        }
+    };
+
+    const collectHomilyDraft = () => {
+        const draft = {};
+        document.querySelectorAll('#homily-fields textarea').forEach(field => {
+            draft[field.dataset.fieldId] = field.value;
+        });
+        return draft;
+    };
+
+    const saveHomilyDraft = () => {
+        localStorage.setItem(getHomilyStorageKey(), JSON.stringify(collectHomilyDraft()));
+        const status = document.getElementById('homily-save-status');
+        if (status) {
+            status.textContent = `Brouillon sauvegardé sur cet appareil à ${new Date().toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })}.`;
+        }
+    };
+
+    const renderHomilyWorkspace = (reading) => {
+        const fields = document.getElementById('homily-fields');
+        const title = document.getElementById('homily-workspace-title');
+        const status = document.getElementById('homily-save-status');
+        if (!fields) return;
+
+        currentHomilyReference = reading.reference || '';
+        currentHomilyReadingTitle = reading.title || '';
+        const template = Array.isArray(reading.homily_template) && reading.homily_template.length
+            ? reading.homily_template
+            : defaultHomilyTemplate;
+        const draft = readHomilyDraft();
+
+        if (title) title.textContent = `Construire l’homélie — ${currentHomilyReference || currentHomilyReadingTitle}`;
+        if (status) status.textContent = Object.keys(draft).length
+            ? 'Brouillon sauvegardé retrouvé sur cet appareil.'
+            : 'Le brouillon sera sauvegardé automatiquement sur cet appareil.';
+
+        fields.innerHTML = '';
+        template.forEach(section => {
+            const wrapper = document.createElement('div');
+            wrapper.className = 'homily-field';
+
+            const label = document.createElement('label');
+            label.htmlFor = `homily-${section.id}`;
+            label.textContent = section.title;
+
+            const help = document.createElement('p');
+            help.className = 'homily-prompt';
+            help.textContent = section.prompt || '';
+
+            const textarea = document.createElement('textarea');
+            textarea.id = `homily-${section.id}`;
+            textarea.dataset.fieldId = section.id;
+            textarea.dataset.fieldTitle = section.title;
+            textarea.rows = section.id === 'oral' ? 14 : 5;
+            textarea.value = draft[section.id] || '';
+            textarea.placeholder = section.placeholder || 'Écrivez ici…';
+
+            wrapper.append(label, help, textarea);
+            fields.appendChild(wrapper);
+        });
+    };
+
+    const buildHomilyExport = () => {
+        const sections = Array.from(document.querySelectorAll('#homily-fields textarea')).map(field => ({
+            title: field.dataset.fieldTitle,
+            content: field.value.trim()
+        }));
+        return {
+            title: currentHomilyReadingTitle || 'Homélie',
+            reference: currentHomilyReference,
+            sections
+        };
+    };
+
+    const safeFilename = (value) => value
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/[^a-zA-Z0-9]+/g, '-')
+        .replace(/^-|-$/g, '')
+        .toLowerCase();
+
+    const downloadFile = (content, mimeType, extension) => {
+        const exportData = buildHomilyExport();
+        const blob = new Blob([content], { type: mimeType });
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = `homelie-${safeFilename(exportData.reference || exportData.title)}.${extension}`;
+        document.body.appendChild(link);
+        link.click();
+        link.remove();
+        URL.revokeObjectURL(link.href);
+    };
+
+    const inferAnnotationType = annotation => {
+        if (annotation && typeof annotation === 'object' && annotation.type) {
+            return annotation.type;
+        }
+        const content = String(
+            typeof annotation === 'string'
+                ? annotation
+                : annotation && (annotation.content || annotation.title) || ''
+        ).toLowerCase();
+
+        if (/racine|étymolog|etymolog|signifie littéralement|du verbe|préfixe|suffixe/.test(content)) {
+            return 'racine';
+        }
+        if (/répét|repetition|revient|structure|parallél|opposition|chiasme|inclusio/.test(content)) {
+            return 'repetition';
+        }
+        if (/traduit|traduction|segond|darby|mot-à-mot|mot à mot/.test(content)) {
+            return 'traduction';
+        }
+        if (/théolog|spirituel|christ|père|saint-esprit|royaume|grâce|salut/.test(content)) {
+            return 'theologie';
+        }
+        return 'analyse';
+    };
 
     // --- 2. FONCTION DE BASCULEMENT ---
     const changeTranslation = (version) => {
@@ -102,7 +264,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const frenchFull = document.getElementById('french-full-text');
         const myNotes = document.getElementById('my-notes');
         const pdfButtonContainer = document.getElementById('pdf-button-container');
-       const goingFurtherContainer = document.getElementById('going-further-container');
+        const homileticAxesContainer = document.getElementById('homiletic-axes-container');
+        const homileticAxesList = document.getElementById('homiletic-axes-list');
+        const goingFurtherContainer = document.getElementById('going-further-container');
         const goingFurtherList = document.getElementById('going-further-list'); 
         if(mainText) mainText.innerHTML = '<p style="text-align:center;"><em>Chargement...</em></p>';
 
@@ -134,8 +298,12 @@ document.addEventListener('DOMContentLoaded', () => {
                         verset.interlinear.forEach(word => {
                             
                             //  Gestion des bulles d'info
-                            const infoClass = word.analyse ? 'mot-info' : '';
-                            const dataAttr = word.analyse ? `data-analyse="${word.analyse.replace(/"/g, '&quot;')}"` : '';
+                            const annotation = word.annotation || word.analyse;
+                            const annotationType = inferAnnotationType(annotation);
+                            const infoClass = annotation ? `mot-info mot-${annotationType}` : '';
+                            const dataAttr = annotation
+                                ? `data-annotation="${encodeURIComponent(JSON.stringify(annotation))}" tabindex="0" role="button"`
+                                : '';
 
                             wordsHtml += `
                             <div class="word-unit">
@@ -177,6 +345,32 @@ document.addEventListener('DOMContentLoaded', () => {
             // Textes intégraux supplémentaires
             if(greekFull) greekFull.innerText = reading.greek_only || "";
             if(myNotes) myNotes.innerText = reading.personal_analysis || "Pas d'analyse disponible.";
+            if (homileticAxesContainer && homileticAxesList) {
+                const axes = Array.isArray(reading.homiletic_axes) ? reading.homiletic_axes : [];
+                homileticAxesList.innerHTML = '';
+                axes.forEach(axis => {
+                    const article = document.createElement('article');
+                    article.className = 'homiletic-axis';
+                    const title = document.createElement('h5');
+                    title.textContent = axis.title || 'Axe';
+                    article.appendChild(title);
+                    if (axis.content) {
+                        const content = document.createElement('p');
+                        content.textContent = axis.content;
+                        article.appendChild(content);
+                    }
+                    if (Array.isArray(axis.keywords) && axis.keywords.length) {
+                        const keywords = document.createElement('p');
+                        keywords.className = 'axis-keywords';
+                        keywords.textContent = `Mots-clefs : ${axis.keywords.join(' · ')}`;
+                        article.appendChild(keywords);
+                    }
+                    homileticAxesList.appendChild(article);
+                });
+                homileticAxesContainer.hidden = axes.length === 0;
+            }
+            renderHomilyWorkspace(reading);
+
 // --- GESTION DE LA SECTION "POUR ALLER PLUS LOIN" ---
             if (goingFurtherContainer && goingFurtherList) {
                 goingFurtherList.innerHTML = ''; // On vide la liste précédente
@@ -230,6 +424,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if(mainText) mainText.innerHTML = `<p style="color:red; text-align:center;">Erreur : ${error.message}<br><small>(Vérifiez que le fichier data/${sundayKey}.json existe et est valide)</small></p>`;
             if(verseTitle) verseTitle.textContent = "Erreur de chargement";
             if(pdfButtonContainer) pdfButtonContainer.style.display = "none";
+            if(homileticAxesContainer) homileticAxesContainer.hidden = true;
         }
     };
 
@@ -296,28 +491,144 @@ document.addEventListener('DOMContentLoaded', () => {
     if (btnVersionDarby) {
         btnVersionDarby.addEventListener('click', () => changeTranslation('darby'));
     }
-// --- 6. GESTION DES BULLES D'ANALYSE (CLIC) ---
-    // On crée la bulle dynamiquement si elle n'a pas été mise dans le HTML
-    let bulle = document.getElementById('bulle-info');
-    if (!bulle) {
-        bulle = document.createElement('div');
-        bulle.id = 'bulle-info';
-        document.body.appendChild(bulle);
+
+    // --- 6. ATELIER DE CONSTRUCTION DE L'HOMÉLIE ---
+    const homilyWorkspace = document.getElementById('homily-workspace');
+    const toggleHomily = document.getElementById('toggle-homily');
+    const closeHomily = document.getElementById('close-homily');
+    let homilySaveTimer;
+
+    if (toggleHomily && homilyWorkspace) {
+        toggleHomily.addEventListener('click', () => {
+            homilyWorkspace.hidden = !homilyWorkspace.hidden;
+            if (!homilyWorkspace.hidden) {
+                homilyWorkspace.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        });
+    }
+    if (closeHomily && homilyWorkspace) {
+        closeHomily.addEventListener('click', () => {
+            homilyWorkspace.hidden = true;
+        });
     }
 
-    document.addEventListener('click', (e) => {
-        // Si on clique sur un mot qui possède la classe 'mot-info'
-        if (e.target.classList.contains('mot-info')) {
-            e.preventDefault();
-            const contenu = e.target.getAttribute('data-analyse');
-            if (contenu) {
-                bulle.innerHTML = contenu;
-                bulle.style.display = 'block';
-            }
-        } 
-        // Si on clique n'importe où ailleurs, on cache la bulle
-        else if (e.target.id !== 'bulle-info') {
-            bulle.style.display = 'none';
+    const homilyFields = document.getElementById('homily-fields');
+    if (homilyFields) {
+        homilyFields.addEventListener('input', () => {
+            window.clearTimeout(homilySaveTimer);
+            homilySaveTimer = window.setTimeout(saveHomilyDraft, 450);
+        });
+    }
+
+    const exportDoc = document.getElementById('export-homily-doc');
+    if (exportDoc) {
+        exportDoc.addEventListener('click', () => {
+            saveHomilyDraft();
+            const exported = buildHomilyExport();
+            const escapeHtml = value => String(value || '')
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;');
+            const sections = exported.sections
+                .filter(section => section.content)
+                .map(section => `<h2>${escapeHtml(section.title)}</h2><p>${escapeHtml(section.content).replace(/\n/g, '<br>')}</p>`)
+                .join('');
+            const html = `<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>${escapeHtml(exported.title)}</title>
+                <style>body{font-family:Georgia,serif;line-height:1.55;margin:2.5cm}h1{color:#671717}h2{margin-top:1.4em;color:#263c5a;font-size:15pt}p{font-size:12pt}</style>
+                </head><body><h1>${escapeHtml(exported.title)}</h1><p><strong>${escapeHtml(exported.reference)}</strong></p>${sections}</body></html>`;
+            downloadFile(html, 'application/msword;charset=utf-8', 'doc');
+        });
+    }
+
+    const exportTxt = document.getElementById('export-homily-txt');
+    if (exportTxt) {
+        exportTxt.addEventListener('click', () => {
+            saveHomilyDraft();
+            const exported = buildHomilyExport();
+            const sections = exported.sections
+                .filter(section => section.content)
+                .map(section => `${section.title}\n${section.content}`)
+                .join('\n\n');
+            downloadFile(`${exported.title}\n${exported.reference}\n\n${sections}\n`, 'text/plain;charset=utf-8', 'txt');
+        });
+    }
+
+    const clearHomily = document.getElementById('clear-homily');
+    if (clearHomily) {
+        clearHomily.addEventListener('click', () => {
+            if (!window.confirm('Effacer le brouillon de cette lecture sur cet appareil ?')) return;
+            localStorage.removeItem(getHomilyStorageKey());
+            document.querySelectorAll('#homily-fields textarea').forEach(field => {
+                field.value = '';
+            });
+            const status = document.getElementById('homily-save-status');
+            if (status) status.textContent = 'Brouillon effacé.';
+        });
+    }
+
+// --- 7. FENÊTRE D'ANALYSE DES MOTS ---
+    const analysisDialog = document.getElementById('analysis-dialog');
+    const analysisDialogClose = document.getElementById('analysis-dialog-close');
+
+    const openAnnotation = (target) => {
+        if (!analysisDialog || !target) return;
+        const encoded = target.getAttribute('data-annotation');
+        if (!encoded) return;
+
+        let annotation;
+        try {
+            annotation = JSON.parse(decodeURIComponent(encoded));
+        } catch {
+            annotation = decodeURIComponent(encoded);
+        }
+
+        const normalized = typeof annotation === 'string'
+            ? { type: 'analyse', title: target.textContent, content: annotation }
+            : annotation;
+
+        const labels = {
+            analyse: 'Analyse',
+            racine: 'Racine et étymologie',
+            repetition: 'Répétition et structure',
+            traduction: 'Choix de traduction',
+            theologie: 'Lecture théologique'
+        };
+        const type = inferAnnotationType(normalized);
+        document.getElementById('analysis-dialog-type').textContent = labels[type] || labels.analyse;
+        document.getElementById('analysis-dialog-title').textContent = normalized.title || target.textContent;
+        document.getElementById('analysis-dialog-content').textContent = normalized.content || '';
+
+        const related = document.getElementById('analysis-dialog-related');
+        const relatedWords = Array.isArray(normalized.related) ? normalized.related : [];
+        related.hidden = relatedWords.length === 0;
+        related.textContent = relatedWords.length ? `Mots liés : ${relatedWords.join(', ')}` : '';
+
+        const source = document.getElementById('analysis-dialog-source');
+        source.hidden = !normalized.source;
+        source.textContent = normalized.source ? `Source : ${normalized.source}` : '';
+
+        if (typeof analysisDialog.showModal === 'function') analysisDialog.showModal();
+        else analysisDialog.setAttribute('open', '');
+    };
+
+    document.addEventListener('click', (event) => {
+        const target = event.target.closest('.mot-info');
+        if (target) {
+            event.preventDefault();
+            openAnnotation(target);
         }
     });
+
+    document.addEventListener('keydown', (event) => {
+        const target = event.target.closest && event.target.closest('.mot-info');
+        if (target && (event.key === 'Enter' || event.key === ' ')) {
+            event.preventDefault();
+            openAnnotation(target);
+        }
+    });
+
+    if (analysisDialogClose) {
+        analysisDialogClose.addEventListener('click', () => analysisDialog.close());
+    }
  });
