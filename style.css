@@ -272,6 +272,165 @@ main {
     cursor: pointer;
 }
 
+.mot-racine { color: #7b3fa1 !important; border-bottom-color: #7b3fa1 !important; }
+.mot-repetition { color: #1c718a !important; border-bottom-color: #1c718a !important; }
+.mot-traduction { color: #b05d16 !important; border-bottom-color: #b05d16 !important; }
+.mot-theologie { color: #8b1e1e !important; border-bottom-color: #8b1e1e !important; }
+
+.annotation-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 15px;
+    margin: 10px 0 18px;
+    color: #625c53;
+    font-size: .78rem;
+}
+.annotation-legend span { display: inline-flex; align-items: center; gap: 5px; }
+.legend-dot { width: 9px; height: 9px; border-radius: 50%; background: #d35400; }
+.legend-dot.root { background: #7b3fa1; }
+.legend-dot.repetition { background: #1c718a; }
+.legend-dot.translation { background: #b05d16; }
+.legend-dot.theology { background: #8b1e1e; }
+.legend-dot.analysis { background: #d35400; }
+
+.homiletic-axes {
+    margin-top: 24px;
+    padding-top: 18px;
+    border-top: 1px solid #d8caa8;
+}
+.homiletic-axes[hidden] { display: none; }
+.homiletic-axes h4 { margin: 0 0 12px; color: #671717; }
+#homiletic-axes-list { display: grid; gap: 12px; }
+.homiletic-axis {
+    padding: 14px 16px;
+    border-left: 4px solid #8b6b2f;
+    border-radius: 4px;
+    background: #fffaf0;
+}
+.homiletic-axis h5 { margin: 0 0 7px; color: #263c5a; font-size: 1rem; }
+.homiletic-axis p { margin: 0; line-height: 1.55; }
+.homiletic-axis .axis-keywords {
+    margin-top: 8px;
+    color: #8b1e1e;
+    font-size: .84rem;
+    font-weight: 600;
+}
+
+.analysis-dialog {
+    width: min(620px, calc(100vw - 32px));
+    max-height: min(78vh, 720px);
+    padding: 26px;
+    border: 1px solid #bda978;
+    border-radius: 10px;
+    background: #fffdf7;
+    color: #27231d;
+    box-shadow: 0 18px 60px rgba(0, 0, 0, .28);
+}
+
+.analysis-dialog::backdrop { background: rgba(24, 20, 16, .62); }
+.analysis-dialog h3 { margin: 4px 35px 14px 0; color: #671717; }
+.analysis-dialog-type {
+    margin: 0;
+    color: #8b6b2f;
+    font-size: .78rem;
+    font-weight: bold;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+.analysis-dialog-content { white-space: pre-line; line-height: 1.65; }
+.analysis-dialog-related, .analysis-dialog-source {
+    margin-top: 16px;
+    padding-top: 12px;
+    border-top: 1px solid #e0d8c7;
+    color: #5c554a;
+    font-size: .9rem;
+}
+.analysis-dialog-close {
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    width: 34px;
+    height: 34px;
+    border: 0;
+    background: transparent;
+    color: #671717;
+    font-size: 1.8rem;
+    cursor: pointer;
+}
+
+.homily-workspace {
+    margin-top: 28px;
+    padding: 24px;
+    border: 1px solid #cdbd98;
+    border-radius: 8px;
+    background: #fffdf7;
+    box-shadow: 0 5px 20px rgba(64, 48, 24, .09);
+}
+.homily-workspace[hidden] { display: none; }
+.homily-workspace-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 18px;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+.homily-workspace-header h3 { margin: 3px 0; color: #671717; }
+.workspace-kicker {
+    margin: 0;
+    color: #8b6b2f;
+    font-size: .78rem;
+    font-weight: 700;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+.homily-save-status { margin: 6px 0 0; color: #696157; font-size: .85rem; }
+.close-homily {
+    border: 0;
+    background: transparent;
+    color: #671717;
+    font-size: 1.8rem;
+    cursor: pointer;
+}
+.homily-fields { display: grid; gap: 18px; }
+.homily-field label {
+    display: block;
+    margin-bottom: 4px;
+    color: #263c5a;
+    font-weight: 700;
+}
+.homily-prompt { margin: 0 0 8px; color: #625c53; font-size: .9rem; }
+.homily-field textarea {
+    width: 100%;
+    min-height: 110px;
+    padding: 12px;
+    box-sizing: border-box;
+    resize: vertical;
+    border: 1px solid #cfc6b4;
+    border-radius: 5px;
+    background: #fff;
+    color: #26221d;
+    font: 1rem/1.55 Georgia, serif;
+}
+.homily-field textarea:focus {
+    border-color: #8b6b2f;
+    outline: 3px solid rgba(139, 107, 47, .14);
+}
+.homily-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 22px;
+    padding-top: 18px;
+    border-top: 1px solid #ddd2ba;
+}
+.tool-btn.secondary { background: #5b6572; }
+.tool-btn.danger { margin-left: auto; background: #8b1e1e; }
+
+@media (max-width: 640px) {
+    .homily-workspace { padding: 17px; }
+    .tool-btn.danger { margin-left: 0; }
+}
+
 #bulle-info {
     display: none; position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%);
     width: 90%; max-width: 500px; background-color: rgba(44, 62, 80, 0.98); color: #ecf0f1;
