@@ -12,7 +12,7 @@
     "interlinear": [
       { "greek": "Ἐὰν", "gloss": "Si" },
       { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ἀφῆτε", "gloss": "vous_laissez_aller/pardonnez", "analyse": "Le verbe *aphiemi* signifie littéralement 'lâcher prise', 'laisser aller'.C'est l'acte fondamental pour quitter le 'Monde duel'. Refuser de pardonner, c'est figer l'autre dans le passé, en faire un objet de ressentiment. Pardonner, c'est relâcher cette emprise pour restaurer l'autre comme 'sujet' et entrer dans le Royaume UN." },
+      { "greek": "ἀφῆτε", "gloss": "vous_laissez_aller/pardonnez", "annotation": { "type": "racine", "title": "ἀφίημι — laisser aller", "content": "Le verbe ἀφίημι signifie laisser partir, remettre, relâcher. Le pardon n'est donc pas seulement l'effacement juridique d'une dette : il dénoue la relation et libère l'autre de l'image figée que le ressentiment conserve de lui.", "related": ["ἀφήσει", "παραπτώματα"], "source": "Analyse homilétique de la péricope" } },
       { "greek": "τοῖς", "gloss": "aux" },
       { "greek": "ἀνθρώποις", "gloss": "hommes" },
       { "greek": "τὰ", "gloss": "les" },
@@ -65,7 +65,7 @@
       { "greek": "γίνεσθε", "gloss": "devenez_pas" },
       { "greek": "ὡς", "gloss": "comme" },
       { "greek": "οἱ", "gloss": "les" },
-      { "greek": "ὑποκριταὶ", "gloss": "hypocrites", "analyse": "Le mot *hypokritès* désigne l'acteur de théâtre, celui qui porte un masque. Spirituellement, c'est celui qui n'existe que par le regard de l'autre (le Monde duel). Son jeûne n'est pas une kénose (un vide intérieur offert à Dieu), mais une boursouflure de l'ego pour capter l'admiration humaine." },
+      { "greek": "ὑποκριταὶ", "gloss": "hypocrites", "annotation": { "type": "theologie", "title": "ὑποκριτής — le masque", "content": "Le terme désigne d'abord celui qui joue un rôle. Dans la péricope, le jeûne devient mensonge lorsqu'il est ordonné au regard des hommes. L'ascèse véritable retire le masque et replace la personne devant le Père qui voit dans le secret.", "related": ["φανῶσιν", "κρυφαίῳ"], "source": "Synthèse homilétique" } },
       { "greek": "σκυθρωποί,", "gloss": "au_visage_triste" },
       { "greek": "ἀφανίζουσιν", "gloss": "ils_défigurent" },
       { "greek": "γὰρ", "gloss": "car" },
@@ -127,7 +127,7 @@
       { "greek": "τῷ", "gloss": "celui" },
       { "greek": "ἐν", "gloss": "dans" },
       { "greek": "τῷ", "gloss": "le" },
-      { "greek": "κρυφαίῳ·", "gloss": "secret", "analyse": "Le *secret* (krupto) n'est pas une simple cachette physique, c'est la profondeur de l'être. C'est l'espace intime où le sujet rencontre Dieu sans spectateur. L'ascèse orthodoxe vise à descendre dans cette 'crypte' intérieure pour retrouver l'Unité originelle, loin de la fragmentation du monde extérieur." },
+      { "greek": "κρυφαίῳ·", "gloss": "secret", "annotation": { "type": "repetition", "title": "κρυφαίῳ — dans le secret", "content": "Le mot revient deux fois dans le même verset : le Père est dans le secret et voit dans le secret. Cette répétition construit le lieu théologique de l'ascèse : non le spectacle extérieur, mais la rencontre personnelle avec Dieu dans la profondeur du cœur.", "related": ["κρυφαίῳ", "βλέπων"], "source": "Lecture structurelle de Matthieu 6,18" } },
       { "greek": "καὶ", "gloss": "et" },
       { "greek": "ὁ", "gloss": "le" },
       { "greek": "πατήρ", "gloss": "père" },
@@ -216,6 +216,55 @@
       { "greek": "καρδία", "gloss": "cœur", "analyse": "La *kardia* (le cœur) est l'organe central de l'identité profonde de l'homme, l'œil de l'esprit (*nous*). Ce verset pose une loi d'attraction spirituelle absolue : le cœur n'est pas neutre, il s'ancre là où se trouve son pôle d'intérêt. S'il regarde vers le bas, il s'objective et se fragmente ; s'il regarde vers le haut, il devient le sujet unifié en Christ." },
       { "greek": "σου.", "gloss": "de_toi" }
     ]
+  }
+],
+"homiletic_axes": [
+  {
+    "title": "Du regard des hommes au regard du Père",
+    "content": "La péricope oppose l'ascèse jouée devant les hommes à la relation vécue dans le secret. Le mouvement homilétique conduit du masque de l'hypocrite vers la vérité personnelle devant Dieu.",
+    "keywords": ["ὑποκριταί", "φανῶσιν", "κρυφαίῳ"]
+  },
+  {
+    "title": "Le pardon comme passage de la division à la communion",
+    "content": "Pardonner, c'est laisser aller ce qui enferme l'autre dans sa faute. L'entrée en Carême commence ainsi par une restauration de la relation horizontale, inséparable de la relation verticale au Père.",
+    "keywords": ["ἀφίημι", "παραπτώματα", "πατήρ"]
+  },
+  {
+    "title": "Le trésor révèle l'orientation du cœur",
+    "content": "La conclusion ne juxtapose pas un nouveau thème : elle dévoile où conduit l'ascèse. Ce que l'homme garde comme trésor attire et façonne son cœur.",
+    "keywords": ["θησαυρός", "καρδία", "οὐρανός"]
+  }
+],
+"homily_template": [
+  {
+    "id": "theme",
+    "title": "1. Parole centrale",
+    "prompt": "Choisissez le mot ou le mouvement qui unifiera l'homélie : pardonner, le secret, le regard du Père, le trésor ou le cœur."
+  },
+  {
+    "id": "text",
+    "title": "2. Mouvement de la péricope",
+    "prompt": "Relevez la progression : pardon mutuel, jeûne sans masque, trésor céleste, orientation du cœur. Comment ces étapes forment-elles un seul mouvement ?"
+  },
+  {
+    "id": "gospel",
+    "title": "3. Bonne Nouvelle annoncée",
+    "prompt": "Formulez ce que le Père rend possible : libération du ressentiment, vérité dans le secret et réunification du cœur."
+  },
+  {
+    "id": "today",
+    "title": "4. Expérience humaine rejointe",
+    "prompt": "Nommez une situation concrète où le regard des autres, le ressentiment ou l'accumulation divisent aujourd'hui la personne."
+  },
+  {
+    "id": "response",
+    "title": "5. Passage vers le Carême",
+    "prompt": "Proposez une réponse réalisable : demander pardon, relâcher une dette intérieure, jeûner sans se comparer, déplacer son trésor."
+  },
+  {
+    "id": "oral",
+    "title": "6. Homélie rédigée",
+    "prompt": "Rédigez la version destinée à être proclamée, avec une seule idée directrice et une conclusion qui revient à la parole centrale."
   }
 ],
 "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 14 - τὰ παραπτώματα : Traduit par 'offenses' chez Segond et 'fautes' chez Darby. Le mot grec porte l'idée concrète d'une fausse trajectoire, d'un glissement ou d'une chute à côté du chemin, ce qui évite une interprétation purement juridique de la faute.\n• Verset 16 - ἀφανίζουν : Littéralement 'faire disparaître' ou 'rendre invisible'. Traduit par 'se rendre le visage tout défait' ou 'défigurer'. L'ironie grecque montre que l'hypocrite, en voulant trop se faire voir par les hommes, détruit la visibilité réelle de son propre visage originel.\n• Verset 19 - βρῶσις : Segond et Darby traduisent par 'rouille'. La racine évoque plus largement l'action de ronger ou de consommer par usure interne. C'est l'image même de la dégradation automatique de ce qui appartient au monde matériel.\n\nAnalyse spirituelle :\nLe Dimanche du Pardon (Tyrophagie) pose la condition asgétique d'entrée dans le Carême. Le pardon mutuel n'est pas une simple amnistie sociale ou une formalité de politesse ecclésiale. C'est l'outil chirurgical pour briser le 'Monde duel' — ce monde de la réciprocité violente, du ressentiment et du jugement mutuel qui fige l'autre en objet de ma rancune. En accordant le pardon (*aphiemi* : lâcher prise), l'homme renonce à son emprise psychologique sur son frère, libérant ainsi sa propre crypte intérieure (*krypton*) pour que la grâce divine puisse y circuler.\n\nCette kénose relationnelle se double d'une kénose corporelle par le jeûne. Le Christ dénonce violemment la posture de l'acteur de théâtre (*hypokrites*) qui utilise l'ascèse pour nourrir son ego et se donner en spectacle. Un tel jeûne reste emprisonné dans l'horizontalité du regard des hommes. La véritable ascèse s'accomplit dans le secret, là où l'homme abandonne ses masques pour redevenir un authentique 'sujet' devant Dieu. L'enjeu est le positionnement final du cœur (*kardia*), centre de gravité de tout l'être : soit il s'enfonce dans la dispersion des trésors terrestres soumis à l'entropie, soit il s'élève vers le 'Royaume UN', s'unifiant dans l'amour insaisissable du Père." 
@@ -427,6 +476,55 @@
       { "greek": "στῆσαι", "gloss": "maintenir_debout" },
       { "greek": "αὐτόν.", "gloss": "lui" }
     ]
+  }
+],
+"homiletic_axes": [
+  {
+    "title": "Du sommeil au revêtement du Christ",
+    "content": "L'épître décrit une dynamique baptismale et pas seulement morale : se réveiller, déposer les œuvres des ténèbres, revêtir les armes de lumière, puis revêtir le Seigneur Jésus-Christ.",
+    "keywords": ["ὕπνος", "ἀποθώμεθα", "ἐνδυσώμεθα", "φῶς"]
+  },
+  {
+    "title": "Le jeûne éprouvé par l'accueil du frère",
+    "content": "Romains 14 déplace le critère de réussite du Carême. La pratique alimentaire ne porte du fruit que si elle renonce au mépris et au jugement pour accueillir celui que Dieu a déjà accueilli.",
+    "keywords": ["προσλαμβάνεσθε", "ἐξουθενείτω", "κρινέτω"]
+  },
+  {
+    "title": "Tenir debout par la grâce",
+    "content": "La répétition de la racine στα-/στη- concentre la conclusion : le serviteur ne se maintient pas par sa propre performance, mais parce que le Seigneur est puissant pour le tenir debout.",
+    "keywords": ["στήκει", "σταθήσεται", "στῆσαι"]
+  }
+],
+"homily_template": [
+  {
+    "id": "theme",
+    "title": "1. Parole centrale",
+    "prompt": "Choisissez le fil conducteur : réveil, lumière, revêtir le Christ, accueillir le frère ou être tenu debout."
+  },
+  {
+    "id": "text",
+    "title": "2. Mouvement de l'épître",
+    "prompt": "Suivez les verbes de mouvement : se réveiller, déposer, revêtir, marcher, accueillir et tenir debout."
+  },
+  {
+    "id": "gospel",
+    "title": "3. Bonne Nouvelle annoncée",
+    "prompt": "Montrez que le Carême ne repose pas sur la performance individuelle : le Seigneur nous revêt, nous accueille et nous tient debout."
+  },
+  {
+    "id": "today",
+    "title": "4. Expérience humaine rejointe",
+    "prompt": "Où la comparaison religieuse, le mépris ou le jugement fragilisent-ils aujourd'hui la communion ?"
+  },
+  {
+    "id": "response",
+    "title": "5. Conversion proposée",
+    "prompt": "Formulez un passage concret du jugement à l'accueil et de la performance à la confiance dans la grâce."
+  },
+  {
+    "id": "oral",
+    "title": "6. Homélie rédigée",
+    "prompt": "Rédigez la version orale en reliant l'épître à l'Évangile du Pardon et à l'entrée liturgique dans le Carême."
   }
 ],
 "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Chapitre 13, Verset 13 - κώμοις καὶ μέθαις : Les termes grecs sont au pluriel. Darby respecte ce pluriel ('en orgies ni en ivrogneries') qui marque la répétition et l'habitude, tandis que Segond emploie le singulier ('des excès et de l'ivrognerie').\n• Chapitre 14, Verset 1 - προσλαμβάνεσθε : Segond ('Faites accueil') et Darby ('recevez-le') traduisent l'idée d'hospitalité, mais le verbe grec est à la voix moyenne, impliquant de 'prendre l'autre vers soi', de l'associer intimement à sa propre vie, ce qui est beaucoup plus engageant qu'un simple accueil extérieur.\n• Chapitre 14, Verset 3 - ἐξουθενείτω : Souvent traduit par 'mépriser'. Littéralement, c'est 'traiter comme un rien' (ex-ouden-oo). C'est l'essence de l'objectivation : réduire le sujet en face de moi à son seul comportement alimentaire.\n\nAnalyse spirituelle :\nCette épître pose le fondement ontologique du Grand Carême. L'Apôtre nous invite à un réveil absolu : sortir du 'sommeil' du Monde duel, ce monde de la séparation où l'Ego se nourrit de la comparaison avec autrui. Le Carême n'est pas une performance diététique pour prouver notre force, c'est une kénose, un dépouillement ('dépouillons-nous des œuvres des ténèbres') pour revêtir une Personne : le Christ.\n\nLe passage du chapitre 14 applique cette théologie au jeûne orthodoxe. L'ennemi principal du jeûneur n'est pas la viande ou le fromage, c'est l'orgueil et le jugement. Si le jeûne sert à 'mépriser' ou à 'juger' le frère qui ne jeûne pas, il devient une arme des ténèbres. Celui qui juge réintègre immédiatement le Monde duel : il fige son frère et se met à la place du Maître. Le seul jeûne agréable à Dieu est celui qui nous rend capables d'accueillir (*proslambanesthe*) l'autre inconditionnellement, reconnaissant que c'est le Christ seul qui a le pouvoir de nous tenir tous deux debout."
