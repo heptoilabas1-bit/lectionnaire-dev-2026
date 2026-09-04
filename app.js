@@ -140,6 +140,33 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    const addMaterialToHomily = ({ title, content, keywords = [] }) => {
+        const workspace = document.getElementById('homily-workspace');
+        const target = document.querySelector('#homily-fields textarea[data-field-id="text"]')
+            || document.querySelector('#homily-fields textarea');
+        const status = document.getElementById('homily-save-status');
+        if (!workspace || !target) return;
+
+        const block = [
+            title ? `— ${title} —` : '',
+            content || '',
+            keywords.length ? `Mots-clefs : ${keywords.join(' · ')}` : ''
+        ].filter(Boolean).join('\n');
+
+        workspace.hidden = false;
+        if (!target.value.includes(block)) {
+            target.value = target.value.trim()
+                ? `${target.value.trim()}\n\n${block}`
+                : block;
+            saveHomilyDraft();
+            if (status) status.textContent = 'Élément ajouté au brouillon et sauvegardé sur cet appareil.';
+        } else if (status) {
+            status.textContent = 'Cet élément figure déjà dans le brouillon.';
+        }
+        target.focus({ preventScroll: true });
+        workspace.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    };
+
     const renderHomilyWorkspace = (reading) => {
         const fields = document.getElementById('homily-fields');
         const title = document.getElementById('homily-workspace-title');
@@ -365,6 +392,16 @@ document.addEventListener('DOMContentLoaded', () => {
                         keywords.textContent = `Mots-clefs : ${axis.keywords.join(' · ')}`;
                         article.appendChild(keywords);
                     }
+                    const addButton = document.createElement('button');
+                    addButton.type = 'button';
+                    addButton.className = 'axis-add-button';
+                    addButton.textContent = 'Utiliser cet axe dans mon brouillon';
+                    addButton.addEventListener('click', () => addMaterialToHomily({
+                        title: axis.title || 'Axe homilétique',
+                        content: axis.content || '',
+                        keywords: Array.isArray(axis.keywords) ? axis.keywords : []
+                    }));
+                    article.appendChild(addButton);
                     homileticAxesList.appendChild(article);
                 });
                 homileticAxesContainer.hidden = axes.length === 0;
@@ -570,6 +607,8 @@ document.addEventListener('DOMContentLoaded', () => {
 // --- 7. FENÊTRE D'ANALYSE DES MOTS ---
     const analysisDialog = document.getElementById('analysis-dialog');
     const analysisDialogClose = document.getElementById('analysis-dialog-close');
+    const addAnnotationToHomily = document.getElementById('add-annotation-to-homily');
+    let currentAnnotationMaterial = null;
 
     const openAnnotation = (target) => {
         if (!analysisDialog || !target) return;
@@ -595,6 +634,11 @@ document.addEventListener('DOMContentLoaded', () => {
             theologie: 'Lecture théologique'
         };
         const type = inferAnnotationType(normalized);
+        currentAnnotationMaterial = {
+            title: normalized.title || target.textContent,
+            content: normalized.content || '',
+            keywords: [target.textContent.trim()].filter(Boolean)
+        };
         document.getElementById('analysis-dialog-type').textContent = labels[type] || labels.analyse;
         document.getElementById('analysis-dialog-title').textContent = normalized.title || target.textContent;
         document.getElementById('analysis-dialog-content').textContent = normalized.content || '';
@@ -630,5 +674,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (analysisDialogClose) {
         analysisDialogClose.addEventListener('click', () => analysisDialog.close());
+    }
+    if (addAnnotationToHomily) {
+        addAnnotationToHomily.addEventListener('click', () => {
+            if (!currentAnnotationMaterial) return;
+            addMaterialToHomily(currentAnnotationMaterial);
+            analysisDialog.close();
+        });
     }
  });
