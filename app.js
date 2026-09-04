@@ -79,6 +79,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentTranslation = 'segond';
     let currentHomilyReference = '';
     let currentHomilyReadingTitle = '';
+    let calendarSundays = [];
+    let currentCalendarEntry = null;
 
     const defaultHomilyTemplate = [
         {
@@ -583,14 +585,108 @@ document.addEventListener('DOMContentLoaded', () => {
             : `${matchingKeys.length} péricopes classées par période`;
     };
 
+    const populateCalendarSelect = async () => {
+        const calendarSelect = document.getElementById('calendar-select');
+        const calendarStatus = document.getElementById('calendar-status');
+        const calendarReadingNote = document.getElementById('calendar-reading-note');
+        if (!calendarSelect) return;
+
+        try {
+            const response = await fetch('data/calendar_2026.json');
+            if (!response.ok) throw new Error('calendrier indisponible');
+            const calendar = await response.json();
+            const monthFormatter = new Intl.DateTimeFormat('fr-FR', { month: 'long' });
+            const dateFormatter = new Intl.DateTimeFormat('fr-FR', {
+                weekday: 'long', day: 'numeric', month: 'long'
+            });
+            calendarSundays = calendar.sundays;
+            calendarSelect.innerHTML = '<option value="">Choisir un dimanche…</option>';
+            let currentMonth = '';
+            let group = null;
+
+            calendar.sundays.forEach(sunday => {
+                const date = new Date(`${sunday.date}T12:00:00`);
+                const month = monthFormatter.format(date);
+                if (month !== currentMonth) {
+                    currentMonth = month;
+                    group = document.createElement('optgroup');
+                    group.label = month.charAt(0).toUpperCase() + month.slice(1);
+                    calendarSelect.appendChild(group);
+                }
+                const option = document.createElement('option');
+                option.value = sunday.date;
+                const relatedTitle = sunday.key
+                    ? liturgicalList[sunday.key]
+                    : sunday.doxologia_title;
+                const doxologiaTitle = sunday.key && sunday.doxologia_title
+                    ? ` (${sunday.doxologia_title})`
+                    : '';
+                option.textContent = `${dateFormatter.format(date)} — ${relatedTitle}${doxologiaTitle}`;
+                group.appendChild(option);
+            });
+            calendarSelect.addEventListener('change', event => {
+                if (!event.target.value) return;
+                const entry = calendarSundays.find(item => item.date === event.target.value);
+                if (!entry) return;
+                currentCalendarEntry = entry;
+                const search = document.getElementById('sunday-search');
+                if (search) search.value = '';
+                populateSundaySelect();
+                const readingKey = entry.key || entry.readings?.[currentReadingType]?.key;
+                if (readingKey) {
+                    loadTextContext(readingKey, currentReadingType);
+                } else {
+                    showCalendarReadingPending(entry, currentReadingType);
+                }
+                const directSelect = document.getElementById('sunday-select');
+                if (directSelect && readingKey) directSelect.value = readingKey;
+                if (calendarReadingNote) {
+                    calendarReadingNote.hidden = !entry.note;
+                    calendarReadingNote.textContent = entry.note || '';
+                }
+            });
+            if (calendarStatus) {
+                calendarStatus.innerHTML = `Calendrier ${calendar.year} : <a href="${calendar.source.url}" target="_blank" rel="noopener noreferrer">source ${calendar.source.name}</a>.`;
+            }
+        } catch (error) {
+            calendarSelect.innerHTML = '<option value="">Calendrier momentanément indisponible</option>';
+            if (calendarStatus) calendarStatus.textContent = 'La recherche par péricope reste disponible.';
+        }
+    };
+
+    const showCalendarReadingPending = (entry, readingType) => {
+        const reading = entry.readings?.[readingType];
+        const typeLabel = readingType === 'gospel' ? 'Évangile' : 'Apôtre';
+        const title = document.getElementById('verse-title');
+        const mainText = document.getElementById('gospel-text');
+        const notes = document.getElementById('my-notes');
+        const homileticAxes = document.getElementById('homiletic-axes-container');
+        if (title) title.textContent = `${typeLabel} — ${reading?.reference || entry.doxologia_title}`;
+        if (mainText) mainText.innerHTML = '<p class="calendar-pending">Cette lecture propre au calendrier 2026 n’est pas encore reliée à une fiche dans l’application.</p>';
+        if (notes) notes.textContent = 'La référence a été vérifiée dans le calendrier Doxologia. Son contenu ne sera ajouté qu’après identification de la source correspondante dans les données.';
+        if (homileticAxes) homileticAxes.hidden = true;
+        document.querySelectorAll('#text-selector button').forEach(button => button.classList.remove('active'));
+        const activeButton = document.getElementById(`select-${readingType}`);
+        if (activeButton) activeButton.classList.add('active');
+        currentReadingType = readingType;
+    };
+
     populateSundaySelect();
+    populateCalendarSelect();
     loadTextContext(currentSundayKey, currentReadingType);
 
     // --- 5. ÉCOUTEURS D'ÉVÉNEMENTS ---
     const selectElement = document.getElementById('sunday-select');
     if (selectElement) {
         selectElement.addEventListener('change', (e) => {
-            if (e.target.value) loadTextContext(e.target.value, currentReadingType);
+            if (e.target.value) {
+                currentCalendarEntry = null;
+                const calendarSelect = document.getElementById('calendar-select');
+                const calendarReadingNote = document.getElementById('calendar-reading-note');
+                if (calendarSelect) calendarSelect.value = '';
+                if (calendarReadingNote) calendarReadingNote.hidden = true;
+                loadTextContext(e.target.value, currentReadingType);
+            }
         });
     }
     const sundaySearch = document.getElementById('sunday-search');
@@ -600,12 +696,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const btnGospel = document.getElementById('select-gospel');
     if (btnGospel) {
-        btnGospel.addEventListener('click', () => loadTextContext(currentSundayKey, 'gospel'));
+        btnGospel.addEventListener('click', () => {
+            const key = currentCalendarEntry?.key || currentCalendarEntry?.readings?.gospel?.key;
+            if (currentCalendarEntry && !key) showCalendarReadingPending(currentCalendarEntry, 'gospel');
+            else loadTextContext(key || currentSundayKey, 'gospel');
+        });
     }
 
     const btnApostle = document.getElementById('select-apostle');
     if (btnApostle) {
-        btnApostle.addEventListener('click', () => loadTextContext(currentSundayKey, 'apostle'));
+        btnApostle.addEventListener('click', () => {
+            const key = currentCalendarEntry?.key || currentCalendarEntry?.readings?.apostle?.key;
+            if (currentCalendarEntry && !key) showCalendarReadingPending(currentCalendarEntry, 'apostle');
+            else loadTextContext(key || currentSundayKey, 'apostle');
+        });
     }
 
   // --- 5. GESTION DES PANNEAUX LATÉRAUX ---
