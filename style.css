@@ -413,6 +413,22 @@ main {
     text-transform: uppercase;
 }
 .homily-save-status { margin: 6px 0 0; color: #696157; font-size: .85rem; }
+.homily-progress { margin-top: 12px; max-width: 390px; color: #5d5549; font-size: .82rem; }
+.homily-progress-bar {
+    height: 7px;
+    margin-top: 5px;
+    overflow: hidden;
+    border-radius: 999px;
+    background: #e7dfcf;
+}
+.homily-progress-bar span {
+    display: block;
+    width: 0;
+    height: 100%;
+    border-radius: inherit;
+    background: #8b6b2f;
+    transition: width .2s ease;
+}
 .close-homily {
     border: 0;
     background: transparent;
@@ -420,7 +436,15 @@ main {
     font-size: 1.8rem;
     cursor: pointer;
 }
-.homily-fields { display: grid; gap: 18px; }
+.homily-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.homily-field-final {
+    grid-column: 1 / -1;
+    margin-top: 8px;
+    padding-top: 20px;
+    border-top: 2px solid #cdbd98;
+}
+.homily-field-final label { color: #671717; font-size: 1.08rem; }
+.homily-field-final textarea { min-height: 320px; }
 .homily-field label {
     display: block;
     margin-bottom: 4px;
@@ -453,6 +477,7 @@ main {
     border-top: 1px solid #ddd2ba;
 }
 .tool-btn.secondary { background: #5b6572; }
+.tool-btn.outline-btn { background: #8b6b2f; }
 .tool-btn.danger { margin-left: auto; background: #8b1e1e; }
 
 @media (max-width: 640px) {
@@ -479,6 +504,7 @@ main {
 }
 /* Responsive Mobile */
 @media (max-width: 768px) {
+    .homily-fields { grid-template-columns: 1fr; }
     header { flex-direction: column; text-align: center; }
     .side-panel { width: 100%; }
 }
