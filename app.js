@@ -545,6 +545,25 @@ document.addEventListener('DOMContentLoaded', () => {
         .replace(/[\u0300-\u036f]/g, '')
         .toLowerCase();
 
+    const setSelectionMode = mode => {
+        const showCalendar = mode === 'calendar';
+        const calendarPanel = document.getElementById('calendar-panel');
+        const pericopePanel = document.getElementById('pericope-panel');
+        const calendarButton = document.getElementById('mode-calendar');
+        const pericopeButton = document.getElementById('mode-pericope');
+        if (calendarPanel) calendarPanel.hidden = !showCalendar;
+        if (pericopePanel) pericopePanel.hidden = showCalendar;
+        [
+            [calendarButton, showCalendar],
+            [pericopeButton, !showCalendar]
+        ].forEach(([button, active]) => {
+            if (!button) return;
+            button.classList.toggle('active', active);
+            button.setAttribute('aria-selected', String(active));
+            button.tabIndex = active ? 0 : -1;
+        });
+    };
+
     const populateSundaySelect = (query = '') => {
         const select = document.getElementById('sunday-select');
         const status = document.getElementById('sunday-search-status');
@@ -652,6 +671,20 @@ document.addEventListener('DOMContentLoaded', () => {
                     .join(' et ');
                 calendarStatus.innerHTML = `Calendrier ${calendar.year} : <a href="${calendar.source.url}" target="_blank" rel="noopener noreferrer">source officielle ${calendar.source.name}</a>${checks ? `, contrôlée avec ${checks}` : ''}.`;
             }
+            const today = new Date();
+            if (today.getFullYear() === calendar.year) {
+                const localDate = [
+                    today.getFullYear(),
+                    String(today.getMonth() + 1).padStart(2, '0'),
+                    String(today.getDate()).padStart(2, '0')
+                ].join('-');
+                const nextSunday = calendar.sundays.find(sunday => sunday.date >= localDate)
+                    || calendar.sundays[calendar.sundays.length - 1];
+                if (nextSunday) {
+                    calendarSelect.value = nextSunday.date;
+                    calendarSelect.dispatchEvent(new Event('change'));
+                }
+            }
         } catch (error) {
             calendarSelect.innerHTML = '<option value="">Calendrier momentanément indisponible</option>';
             if (calendarStatus) calendarStatus.textContent = 'La recherche par péricope reste disponible.';
@@ -680,6 +713,11 @@ document.addEventListener('DOMContentLoaded', () => {
     loadTextContext(currentSundayKey, currentReadingType);
 
     // --- 5. ÉCOUTEURS D'ÉVÉNEMENTS ---
+    const calendarModeButton = document.getElementById('mode-calendar');
+    const pericopeModeButton = document.getElementById('mode-pericope');
+    if (calendarModeButton) calendarModeButton.addEventListener('click', () => setSelectionMode('calendar'));
+    if (pericopeModeButton) pericopeModeButton.addEventListener('click', () => setSelectionMode('pericope'));
+
     const selectElement = document.getElementById('sunday-select');
     if (selectElement) {
         selectElement.addEventListener('change', (e) => {
