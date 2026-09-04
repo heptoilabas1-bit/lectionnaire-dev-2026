@@ -58,7 +58,7 @@
           { "greek": "ἐν", "gloss": "Dans" },
           { "greek": "ταύταις", "gloss": "ceux-ci" },
           { "greek": "κατέκειτο", "gloss": "était_couchée" },
-         { "greek": "πλῆθος", "gloss": "une_foule", "analyse": "Le *plethos*. La masse aveugle et grégaire. Dans la structure du Monde duel, l'homme n'est pas un Sujet : il est un Objet fondu dans un collectif indifférencié, totalement passif et défini par son attente impuissante[cite: 2]. Cette foule qui 'gît' horizontalement s'oppose radicalement à l'Homme unique que le Christ va cibler." },
+         { "greek": "πλῆθος", "gloss": "une_foule", "analyse": "Le terme *plêthos* désigne la multitude des malades couchés sous les portiques. Le récit déplace ensuite le regard vers « un homme » singulier : Jésus ne traite pas une catégorie abstraite, il entre en relation avec une personne et son histoire." },
           { "greek": "τῶν", "gloss": "des" },
           { "greek": "ἀσθενούντων,", "gloss": "malades/infirmes" },
           { "greek": "τυφλῶν,", "gloss": "aveugles" },
@@ -99,7 +99,7 @@
           { "greek": "ταραχὴν", "gloss": "l'agitation" },
           { "greek": "τοῦ", "gloss": "de_l'" },
           { "greek": "ὕδατος", "gloss": "eau" },
-          { "greek": "ὑγιὴς", "gloss": "sain/guéri" },
+          { "greek": "ὑγιὴς", "gloss": "sain/guéri", "analyse": "L'adjectif *hygiês* peut désigner ce qui est sain, intact ou en bon état. La question de Jésus porte donc sur davantage qu'une performance physique : « veux-tu devenir sain ? » ouvre l'horizon d'une personne restaurée." },
           { "greek": "ἐγίνετο", "gloss": "devenait" },
           { "greek": "ᾧ", "gloss": "de_laquelle" },
           { "greek": "δήποτε", "gloss": "n'importe" },
@@ -117,7 +117,7 @@
           { "greek": "ἦν", "gloss": "Était" },
           { "greek": "δέ", "gloss": "or" },
           { "greek": "τις", "gloss": "un_certain" },
-          { "greek": "ἄνθρωπός", "gloss": "un_homme", "analyse": "L'*anthropos*. Face à la masse informe du verset 3, le Christ isole un individu spécifique pour le sortir de l'anonymat de la masse[cite: 2]. Il le constitue instantanément en Sujet libre en initiant une relation directe avec lui[cite: 2]. La guérison commence par cette extraction spirituelle hors de la matrice collective." },
+          { "greek": "ἄνθρωπός", "gloss": "un_homme", "analyse": "Face à la multitude du verset 3, Jean présente « un homme » que Jésus voit et dont il connaît la longue épreuve. La guérison commence par ce regard personnel : l'infirme n'est plus seulement un malade parmi d'autres." },
           { "greek": "ἐκεῖ", "gloss": "là" },
           { "greek": "τριάκοντα", "gloss": "trente" },
           { "greek": "ὀκτὼ", "gloss": "huit" },
@@ -203,12 +203,12 @@
           { "greek": "ὁ", "gloss": "le" },
           { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
           { "greek": "Ἔγειρε", "gloss": "Lève-toi/Éveille-toi", "analyse": "C'est le verbe de la résurrection (*egeiro*). Le Christ ne guérit pas le paralytique en l'aidant à entrer dans le système compétitif de la piscine (Monde duel). Il pulvérise le système. Il l'appelle directement à la restauration ontologique du Royaume UN : se redresser, retrouver la verticalité du Sujet libre." },
-          { "greek": "ἆρον", "gloss": "prends/soulève", "analyse": "L'impératif du verbe *airo* (soulever, porter), martelé tout au long de la péricope. Il marque la transformation ontologique absolue : l'homme ne subit plus son grabat, il le porte[cite: 2]. Le lit, qui était l'instrument et le symbole de sa paralysie (ce qui l'empêchait d'être un Sujet), devient l'accessoire de sa mobilité[cite: 2]. C'est l'injonction pascale par excellence : dominer la pesanteur matérielle." },
+          { "greek": "ἆρον", "gloss": "prends/soulève", "analyse": "L'impératif du verbe *airô* signifie prendre ou soulever. Répété dans la péricope, il manifeste un renversement : l'homme ne subit plus son grabat, il le porte. Le signe de son immobilité devient la preuve visible de sa marche retrouvée." },
           { "greek": "τὸν", "gloss": "le" },
           { "greek": "κράβαττόν", "gloss": "grabât/petit_lit", "analyse": "Le lit (krabatos) symbolisait son aliénation, sa dépendance, l'objet qui le portait. En lui ordonnant de le porter, le Christ inverse le rapport de force. L'homme n'est plus l'esclave des conditions de sa chute ; il devient maître de son histoire." },
           { "greek": "σου", "gloss": "de_toi" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "περιπάτει", "gloss": "marche", "analyse": "L'injonction de la mise en mouvement continu. Le verbe souligne la permanence de l'action retrouvée[cite: 2]. L'homme guéri n'est plus défini par la fatalité de ce qu'il subit (la paralysie de l'Ego), mais par ce qu'il devient : un marcheur debout, actif et libre." }
+          { "greek": "περιπάτει", "gloss": "marche", "analyse": "La forme verbale invite à une marche qui se prolonge. La guérison n'est pas seulement l'instant où l'homme se relève : elle ouvre une manière nouvelle d'avancer et d'assumer son existence." }
         ]
       },
       {
@@ -230,7 +230,7 @@
           { "greek": "κράβαττον", "gloss": "grabât" },
           { "greek": "αὐτοῦ", "gloss": "de_lui" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "περιπάτει", "gloss": "marche", "analyse": "L'injonction de la mise en mouvement continu. Le verbe souligne la permanence de l'action retrouvée[cite: 2]. L'homme guéri n'est plus défini par la fatalité de ce qu'il subit (la paralysie de l'Ego), mais par ce qu'il devient : un marcheur debout, actif et libre." },
+          { "greek": "περιπάτει", "gloss": "marche" },
           { "greek": "Ἦν", "gloss": "C'était" },
           { "greek": "δὲ", "gloss": "or" },
           { "greek": "σάββατον", "gloss": "sabbat" },
@@ -376,7 +376,7 @@
           "darby": "L'homme s'en alla, et annonça aux Juifs que c'était Jésus qui l'avait guéri."
         },
         "interlinear": [
-          { "greek": "ἀπῆλθεν", "gloss": "il_s'en_alla", "analyse": "Le verbe *aperchomai* (partir, s'éloigner). L'homme, jadis cloué au sol depuis trente-huit ans, est désormais mobile et assume sa liberté[cite: 2]. Son départ n'est pas une fuite, c'est l'acte final de l'éveil du Sujet : il devient capable de rendre compte de son expérience publiquement, quitte à provoquer les autorités[cite: 2]. Il est passé du stade de la plainte ('je n'ai pas') à la position du confesseur ('je marche et je témoigne')." },
+          { "greek": "ἀπῆλθεν", "gloss": "il_s'en_alla", "analyse": "Le verbe *aperchomai* signifie partir ou s'en aller. Celui qui était immobilisé depuis trente-huit ans devient capable de se déplacer et de rendre compte publiquement de ce qui lui est arrivé. Le récit laisse cependant ouverte l'ambiguïté de sa démarche auprès des autorités." },
           { "greek": "ὁ", "gloss": "l'" },
           { "greek": "ἄνθρωπος", "gloss": "homme" },
           { "greek": "καὶ", "gloss": "et" },
@@ -392,6 +392,20 @@
           { "greek": "ὑγιῆ.", "gloss": "sain/guéri" }
         ]
       }
+    ],
+    "homiletic_axes": [
+      { "title": "De la multitude à la personne regardée", "content": "Sous les portiques gît une multitude, mais Jésus voit un homme et connaît la durée de son épreuve. L'homélie peut partir de ce passage de l'anonymat à une relation personnelle.", "keywords": ["πλῆθος", "ἄνθρωπός", "ἰδὼν"] },
+      { "title": "« Veux-tu devenir sain ? »", "content": "La question du Christ ne culpabilise pas le malade et ne nie pas ses trente-huit années d'impuissance. Elle réveille en lui une volonté que le découragement et la répétition avaient peut-être ensevelie.", "keywords": ["Θέλεις", "ὑγιὴς", "γενέσθαι"] },
+      { "title": "Le grabat subi devient le grabat porté", "content": "Les trois impératifs — lève-toi, prends, marche — condensent le mouvement pascal. L'objet qui portait l'homme devient le signe qu'il est désormais debout et en chemin.", "keywords": ["Ἔγειρε", "ἆρον", "περιπάτει"] },
+      { "title": "Guéri, puis retrouvé dans le Temple", "content": "Jésus retrouve l'homme après la guérison et l'appelle à ne plus pécher. Le relèvement physique ouvre ainsi une responsabilité spirituelle ; il n'en constitue pas l'achèvement automatique.", "keywords": ["εὑρίσκει", "μηκέτι", "ἁμάρτανε"] }
+    ],
+    "homily_template": [
+      { "id": "theme", "phase": "inspiration", "title": "1. Parole centrale", "prompt": "Choisissez votre entrée : la foule, le regard de Jésus, « Veux-tu ? », « Je n'ai personne », le grabat, se lever ou marcher." },
+      { "id": "text", "phase": "inspiration", "title": "2. Mouvement de la péricope", "prompt": "Suivez une progression du récit : être couché parmi la foule, être vu et interrogé, recevoir trois verbes d'action, marcher puis être retrouvé dans le Temple." },
+      { "id": "gospel", "phase": "inspiration", "title": "3. Bonne Nouvelle annoncée", "prompt": "Formulez ce que le Christ rend possible : être reconnu comme une personne, sortir d'une répétition impuissante ou porter autrement ce qui nous portait et nous enfermait." },
+      { "id": "today", "phase": "gestation", "title": "4. Paralysie humaine rejointe", "prompt": "Choisissez une immobilité contemporaine — découragement, dépendance, isolement ou attente indéfinie — sans assimiler toute maladie à un manque de volonté ou à un péché." },
+      { "id": "response", "phase": "gestation", "title": "5. Passage proposé", "prompt": "Ouvrez une possibilité plutôt qu'un ordre : entendre la question du Christ, consentir à un premier mouvement, demander une aide ou reprendre en main un « grabat » concret." },
+      { "id": "oral", "phase": "proclamation", "title": "6. Mise en voix", "prompt": "Faites entendre lentement la question « Veux-tu ? », puis donnez un rythme plus ferme aux trois verbes : « Lève-toi, prends, marche ». Gardez une seule image dominante." }
     ],
     "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 7 - Ἄνθρωπον οὐκ ἔχω : Littéralement 'Je n'ai pas d'homme'. Segond et Darby traduisent par 'je n'ai personne', ce qui est correct pour le sens immédiat, mais la formulation grecque pointe vers une absence d'humanité : dans ce lieu de misère, l'humain véritable (le Sujet capable d'amour gratuit) est introuvable. \n• Verset 8 - ἆρον τὸν κράβαττόν σου : Le krabatos (petit lit, grabat) désigne la natte du mendiant pauvre. L'ordre de le 'soulever/prendre' n'est pas un simple conseil de rangement, c'est l'injonction à assumer sa propre vie, à cesser d'en être la victime passive.\n\nAnalyse spirituelle :\nCe quatrième dimanche du temps pascal dépeint l'horreur de l'Ego enfermé dans le 'Monde duel'. La piscine de Béthesda est le symbole du système mondain et religieux : une promesse de salut qui repose sur la compétition. Le premier arrivé est sauvé, les autres sont écrasés. Dans ce système, l'autre n'est jamais un frère, il est un rival qui 'descend avant moi'. La paralysie du malade n'est pas que physique, elle est le symptôme de cet isolement absolu ('Je n'ai pas d'homme').\n\nLe Christ ne participe pas à ce système de compétition. Il incarne le 'Royaume UN'. Il ne jette pas le paralytique dans l'eau ; il court-circuite toute la logique du mérite et de la magie. Par une parole de kénose créatrice ('Lève-toi, prends ton grabat'), Il restaure l'homme en tant que Sujet. Le sabbat, symbole de l'ordre légal et rigide du Monde duel, est délibérément brisé par Jésus, car la Loi n'a aucune valeur si elle s'oppose à la résurrection de la personne. Le paralytique, autrefois objet porté par son grabat et écrasé par les autres, devient un Sujet vertical portant lui-même le symbole de son ancienne mort, marchant librement dans la Lumière pascale."
   },
@@ -464,13 +478,13 @@
           { "greek": "σε", "gloss": "te" },
           { "greek": "Ἰησοῦς", "gloss": "Jésus" },
           { "greek": "Χριστός·", "gloss": "Christ" },
-          { "greek": "**ἀνά**στηθι", "gloss": "lève-toi", "analyse": "Le préfixe **ἀνά** (*ana*, vers le haut) couplé au verbe *histemi* (se tenir debout). C'est la racine même du mot Résurrection (*Anastasis*). Dans l'Apôtre comme dans l'Évangile, ce verbe scelle la victoire sur la mort et la paralysie[cite: 2]. Pierre prolonge l'injonction pascale du Christ : l'Axe vertical vient foudroyer la passivité horizontale de la maladie pour forger un Sujet libre." },
+          { "greek": "ἀνάστηθι", "gloss": "lève-toi", "analyse": "L'impératif appartient à la famille de *anistêmi*, se lever ou se relever, qui exprime aussi la résurrection. Dans l'Apôtre comme dans l'Évangile, la parole reçue remet debout et rend de nouveau capable d'agir." },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "στρῶσον", "gloss": "fais_le_lit" },
+          { "greek": "στρῶσον", "gloss": "fais_le_lit", "analyse": "Pierre demande à Énée de préparer lui-même son lit. Comme le grabat porté dans l'Évangile, ce geste ordinaire rend visible une autonomie retrouvée : la grâce reçue remet la personne en action." },
           { "greek": "σεαυτῷ.", "gloss": "pour_toi-même" },
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "εὐθέως", "gloss": "aussitôt" },
-         { "greek": "**ἀν**έστη", "gloss": "il_se_leva", "analyse": "La réalisation immédiate du commandement par Énée. La force de l'Esprit n'admet aucun délai. Le Sujet, jadis cloué au grabat et défini par sa passivité, s'arrache à la gravité du 'Monde duel' par ce mouvement ascendant (**ἀν-**). Il devient instantanément le témoin actif de la puissance du Ressuscité." }
+         { "greek": "ἀνέστη", "gloss": "il_se_leva", "analyse": "La répétition répond immédiatement à l'impératif adressé à Énée : « lève-toi » — « il se leva ». La parole de guérison devient action et le paralysé retrouve une existence visible au milieu de la communauté." }
         ]
       },
       {
@@ -522,7 +536,7 @@
           { "greek": "ἔργων", "gloss": "d'œuvres" },
           { "greek": "ἀγαθῶν", "gloss": "bonnes" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐλεημοσυνῶν", "gloss": "d'aumônes" },
+          { "greek": "ἐλεημοσυνῶν", "gloss": "d'aumônes", "analyse": "Les œuvres de miséricorde de Tabitha ne sont pas une abstraction : les veuves peuvent montrer les vêtements qu'elle confectionnait. La diaconie a laissé une trace concrète dans le corps de la communauté." },
           { "greek": "ὧν", "gloss": "lesquelles" },
           { "greek": "ἐποίει.", "gloss": "elle_faisait" }
         ]
@@ -591,7 +605,7 @@
           "darby": "Et Pierre, s'étant levé, s'en alla avec eux. Quand il fut arrivé, ils le menèrent dans la chambre haute ; et toutes les veuves se présentèrent à lui en pleurant, et en montrant les tuniques et les vêtements que Dorcas faisait pendant qu'elle était avec elles."
         },
         "interlinear": [
-          { "greek": "**Ἀνα**στὰς", "gloss": "s'étant_levé", "analyse": "Ici, c'est Pierre qui se lève pour suivre les émissaires. L'Apôtre n'est pas un fonctionnaire sédentaire de la Matrice religieuse ; il est perpétuellement mis en mouvement par cette même énergie d'ascension (**Ἀνα-**). Celui qui a été redressé par le Christ transmet à son tour cette force cinétique pour aller libérer l'autre." },
+          { "greek": "Ἀναστὰς", "gloss": "s'étant_levé", "analyse": "Le même champ lexical concerne ici Pierre : il se lève pour accompagner les messagers. Celui qui annonce le relèvement accepte lui-même d'être mis en mouvement par l'appel d'une communauté éprouvée." },
           { "greek": "δὲ", "gloss": "or" },
           { "greek": "Πέτρος", "gloss": "Pierre" },
           { "greek": "συνῆλθεν", "gloss": "alla_avec" },
@@ -672,8 +686,8 @@
           { "greek": "δοὺς", "gloss": "Ayant_donné" },
           { "greek": "δὲ", "gloss": "or" },
           { "greek": "αὐτῇ", "gloss": "à_elle" },
-          { "greek": "χεῖρα", "gloss": "la_main" },
-         { "greek": "**ἀνέ**στησεν", "gloss": "il_la_fit_lever/la_releva", "analyse": "Pierre lui donne la main et la fait lever[cite: 2]. Ce verbe d'action transitive révèle la synergie du Salut. L'Église (le Corps mystique) est cette main tendue qui transmet physiquement l'Énergie verticale de l'**Ἀνά**στασις pour ramener les âmes tombées dans le sommeil mortifère du monde à la station debout du Royaume." },
+          { "greek": "χεῖρα", "gloss": "la_main", "analyse": "Après avoir prié et appelé Tabitha par son nom, Pierre lui donne la main. Cette main ne remplace ni la parole ni l'action de Dieu ; elle accompagne concrètement la personne relevée vers la communion." },
+         { "greek": "ἀνέστησεν", "gloss": "il_la_fit_lever/la_releva", "analyse": "Après la parole et l'ouverture des yeux, Pierre donne la main à Tabitha et la relève. Le geste manifeste une synergie sobre : la vie vient de Dieu, tandis que la main apostolique accompagne le retour de la personne à la communauté." },
           { "greek": "αὐτήν,", "gloss": "elle" },
           { "greek": "φωνήσας", "gloss": "ayant_appelé" },
           { "greek": "δὲ", "gloss": "or" },
@@ -684,7 +698,7 @@
           { "greek": "χήρας", "gloss": "veuves" },
           { "greek": "παρέστησεν", "gloss": "il_présenta" },
           { "greek": "αὐτὴν", "gloss": "elle" },
-          { "greek": "ζῶσαν.", "gloss": "vivante" }
+          { "greek": "ζῶσαν.", "gloss": "vivante", "analyse": "Tabitha est présentée « vivante » aux saints et aux veuves. Le récit s'achève non sur l'exploit de Pierre, mais sur une personne rendue à une communauté qui la reconnaît et la reçoit." }
         ]
       },
       {
@@ -709,6 +723,20 @@
           { "greek": "κύριον.", "gloss": "Seigneur" }
         ]
       }
+    ],
+    "homiletic_axes": [
+      { "title": "« Jésus Christ te guérit » : l'apôtre transparent", "content": "Pierre ne s'attribue pas la guérison d'Énée. Son autorité consiste à désigner le véritable acteur, Jésus Christ, puis à inviter l'homme relevé à agir lui-même.", "keywords": ["ἰᾶταί", "Ἰησοῦς", "Χριστός"] },
+      { "title": "Une même famille de mots met tout le récit debout", "content": "Énée se lève, Pierre se lève pour partir, Tabitha reçoit l'ordre de se lever, puis Pierre la relève. La répétition de la famille ἀνίστημι donne à toute l'épître sa respiration pascale.", "keywords": ["ἀνάστηθι", "Ἀναστὰς", "ἀνέστησεν"] },
+      { "title": "Tabitha demeure une personne au milieu de ses œuvres", "content": "Les vêtements présentés par les veuves témoignent de sa diaconie, mais Pierre l'appelle par son nom. Le récit unit la mémoire des œuvres, la prière et la restauration de la personne vivante dans la communion.", "keywords": ["Ταβιθά", "ἔργων", "ζῶσαν"] },
+      { "title": "De la parole reçue à la main tendue", "content": "Le relèvement de Tabitha comporte une parole, un regard, puis une main donnée. La puissance pascale ne supprime pas le geste humain : elle le rend capable de servir la vie.", "keywords": ["ὀφθαλμοὺς", "χεῖρα", "ἀνέστησεν"] }
+    ],
+    "homily_template": [
+      { "id": "theme", "phase": "inspiration", "title": "1. Parole centrale", "prompt": "Choisissez votre fil : Jésus Christ guérit, se lever, faire soi-même son lit, le nom de Tabitha, les œuvres de miséricorde ou la main tendue." },
+      { "id": "text", "phase": "inspiration", "title": "2. Mouvement de l'épître", "prompt": "Vous pouvez suivre la circulation du relèvement : Énée reçoit la parole, Pierre se met en route, Tabitha ouvre les yeux et la communauté la reçoit vivante." },
+      { "id": "gospel", "phase": "inspiration", "title": "3. Bonne Nouvelle annoncée", "prompt": "Montrez que le Ressuscité continue d'agir : il remet debout, met l'apôtre en mouvement et rend une personne à ceux qui l'aiment." },
+      { "id": "today", "phase": "gestation", "title": "4. Communauté rejointe", "prompt": "Choisissez une expérience humaine : accompagner une personne dépendante, garder mémoire d'une vie donnée, appeler quelqu'un par son nom ou tendre une main sans se mettre au centre." },
+      { "id": "response", "phase": "gestation", "title": "5. Passage proposé", "prompt": "Ouvrez une possibilité : attribuer à Dieu ce qui relève, répondre à un appel sans tarder, prier avant d'agir ou devenir une main discrète au service de la vie." },
+      { "id": "oral", "phase": "proclamation", "title": "6. Mise en voix", "prompt": "Faites revenir le verbe « se lever » comme un refrain discret. Vous pouvez conclure sur l'image très simple de la main donnée à Tabitha." }
     ],
     "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 34 - στρῶσον σεαυτῷ : Littéralement 'fais ton lit pour toi-même'. C'est le même ordre d'autonomie que celui de l'Évangile ('Prends ton grabat'). L'homme guéri n'est plus assisté, il retrouve la dignité d'agir par lui-même.\n• Verset 40 - ἐκβαλὼν δὲ ἔξω πάντας : 'Ayant mis tous (le monde) dehors'. Un geste radical de séparation que la traduction affaiblit parfois ('fit sortir tout le monde'). Pierre expulse littéralement l'agitation mondaine.\n\nAnalyse spirituelle :\nCet extrait des Actes prolonge lumineusement le récit du paralytique de Béthesda. Pierre, renouvelé par l'Esprit Saint de la Pentecôte, ne guérit plus en son propre nom ou avec les méthodes du 'Monde duel' (où l'on s'agite et se compare). Il révèle l'efficacité du Royaume UN.\n\nFace à Énée, cloué sur son grabat depuis huit ans, Pierre s'efface totalement : 'Jésus Christ te guérit'. L'Ego de l'apôtre est devenu transparent. L'homme paralysé retrouve instantanément sa stature de Sujet.\n\nMais c'est avec Tabitha que la bascule est la plus spectaculaire. La chambre haute est remplie des pleurs des veuves qui exhibent les vêtements cousus par la défunte. Cette scène, très humaine, est l'image du Monde duel face à la mort : on objective le défunt à travers ce qu'il a 'fait', on pleure la perte, on est écrasé par la fatalité biologique. Pour que l'Énergie divine opère, Pierre doit briser cette atmosphère étouffante. Il met tout le monde dehors. Dans ce vide silencieux (la kénose par excellence), il se met à genoux, orientant tout son être vers l'Incréé. Alors seulement, il appelle la morte par son nom : 'Tabitha, lève-toi'. Elle n'est plus un cadavre (un objet), elle redevient un Sujet qui ouvre les yeux et s'assied. La Résurrection s'incarne en acte."
   }
