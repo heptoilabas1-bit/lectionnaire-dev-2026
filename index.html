@@ -90,11 +90,16 @@
                         <p class="workspace-kicker">Atelier homilétique</p>
                         <h3 id="homily-workspace-title">Construire l'homélie</h3>
                         <p id="homily-save-status" class="homily-save-status" aria-live="polite"></p>
+                        <div class="homily-progress">
+                            <span id="homily-progress-label">0 étape renseignée</span>
+                            <div id="homily-progress-bar" class="homily-progress-bar" role="progressbar" aria-label="Avancement de l’homélie" aria-valuemin="0" aria-valuemax="6" aria-valuenow="0"><span></span></div>
+                        </div>
                     </div>
                     <button id="close-homily" class="close-homily" type="button" aria-label="Fermer l'atelier">×</button>
                 </div>
                 <div id="homily-fields" class="homily-fields"></div>
                 <div class="homily-actions">
+                    <button id="prepare-homily-outline" class="tool-btn outline-btn" type="button">Reporter le plan dans la rédaction</button>
                     <button id="export-homily-doc" class="tool-btn" type="button">Exporter pour Word</button>
                     <button id="export-homily-txt" class="tool-btn secondary" type="button">Exporter en texte</button>
                     <button id="clear-homily" class="tool-btn danger" type="button">Effacer le brouillon</button>
