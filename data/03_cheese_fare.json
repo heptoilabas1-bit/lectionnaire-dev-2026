@@ -238,31 +238,37 @@
 "homily_template": [
   {
     "id": "theme",
+    "phase": "inspiration",
     "title": "1. Parole centrale",
     "prompt": "Choisissez le mot ou le mouvement qui unifiera l'homélie : pardonner, le secret, le regard du Père, le trésor ou le cœur."
   },
   {
     "id": "text",
+    "phase": "inspiration",
     "title": "2. Mouvement de la péricope",
     "prompt": "Relevez la progression : pardon mutuel, jeûne sans masque, trésor céleste, orientation du cœur. Comment ces étapes forment-elles un seul mouvement ?"
   },
   {
     "id": "gospel",
+    "phase": "inspiration",
     "title": "3. Bonne Nouvelle annoncée",
     "prompt": "Formulez ce que le Père rend possible : libération du ressentiment, vérité dans le secret et réunification du cœur."
   },
   {
     "id": "today",
+    "phase": "gestation",
     "title": "4. Expérience humaine rejointe",
     "prompt": "Nommez une situation concrète où le regard des autres, le ressentiment ou l'accumulation divisent aujourd'hui la personne."
   },
   {
     "id": "response",
+    "phase": "gestation",
     "title": "5. Passage vers le Carême",
     "prompt": "Proposez une réponse réalisable : demander pardon, relâcher une dette intérieure, jeûner sans se comparer, déplacer son trésor."
   },
   {
     "id": "oral",
+    "phase": "expiration",
     "title": "6. Homélie rédigée",
     "prompt": "Rédigez la version destinée à être proclamée, avec une seule idée directrice et une conclusion qui revient à la parole centrale."
   }
@@ -498,31 +504,37 @@
 "homily_template": [
   {
     "id": "theme",
+    "phase": "inspiration",
     "title": "1. Parole centrale",
     "prompt": "Choisissez le fil conducteur : réveil, lumière, revêtir le Christ, accueillir le frère ou être tenu debout."
   },
   {
     "id": "text",
+    "phase": "inspiration",
     "title": "2. Mouvement de l'épître",
     "prompt": "Suivez les verbes de mouvement : se réveiller, déposer, revêtir, marcher, accueillir et tenir debout."
   },
   {
     "id": "gospel",
+    "phase": "inspiration",
     "title": "3. Bonne Nouvelle annoncée",
     "prompt": "Montrez que le Carême ne repose pas sur la performance individuelle : le Seigneur nous revêt, nous accueille et nous tient debout."
   },
   {
     "id": "today",
+    "phase": "gestation",
     "title": "4. Expérience humaine rejointe",
     "prompt": "Où la comparaison religieuse, le mépris ou le jugement fragilisent-ils aujourd'hui la communion ?"
   },
   {
     "id": "response",
+    "phase": "gestation",
     "title": "5. Conversion proposée",
     "prompt": "Formulez un passage concret du jugement à l'accueil et de la performance à la confiance dans la grâce."
   },
   {
     "id": "oral",
+    "phase": "expiration",
     "title": "6. Homélie rédigée",
     "prompt": "Rédigez la version orale en reliant l'épître à l'Évangile du Pardon et à l'entrée liturgique dans le Carême."
   }
