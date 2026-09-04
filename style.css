@@ -455,6 +455,19 @@ main {
 }
 .homily-field-final label { color: #671717; font-size: 1.08rem; }
 .homily-field-final textarea { min-height: 320px; }
+.oral-review {
+    margin-top: 22px;
+    padding: 14px 16px;
+    border: 1px solid #d8cfbe;
+    border-radius: 7px;
+    background: #fff;
+}
+.oral-review summary { color: #263c5a; font-weight: 700; cursor: pointer; }
+.oral-review summary span { color: #756d62; font-size: .85rem; font-weight: 400; }
+.oral-review > p { margin: 10px 0; color: #625c53; font-size: .9rem; }
+.oral-review-list { display: grid; gap: 9px; }
+.oral-review-list label { display: flex; gap: 9px; align-items: flex-start; line-height: 1.4; }
+.oral-review-list input { margin-top: .22em; accent-color: #8b6b2f; }
 .homily-field label {
     display: block;
     margin-bottom: 4px;
