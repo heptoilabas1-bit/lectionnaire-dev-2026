@@ -615,13 +615,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
                 const option = document.createElement('option');
                 option.value = sunday.date;
+                const sourceTitle = sunday.official_title || sunday.doxologia_title;
                 const relatedTitle = sunday.key
                     ? liturgicalList[sunday.key]
-                    : sunday.doxologia_title;
-                const doxologiaTitle = sunday.key && sunday.doxologia_title
-                    ? ` (${sunday.doxologia_title})`
+                    : sourceTitle || liturgicalList[sunday.related_key];
+                const sourceTitleSuffix = sunday.key && sourceTitle
+                    ? ` (${sourceTitle})`
                     : '';
-                option.textContent = `${dateFormatter.format(date)} — ${relatedTitle}${doxologiaTitle}`;
+                option.textContent = `${dateFormatter.format(date)} — ${relatedTitle}${sourceTitleSuffix}`;
                 group.appendChild(option);
             });
             calendarSelect.addEventListener('change', event => {
@@ -646,7 +647,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
             if (calendarStatus) {
-                calendarStatus.innerHTML = `Calendrier ${calendar.year} : <a href="${calendar.source.url}" target="_blank" rel="noopener noreferrer">source ${calendar.source.name}</a>.`;
+                const checks = (calendar.cross_checks || [])
+                    .map(source => `<a href="${source.url}" target="_blank" rel="noopener noreferrer">${source.name}</a>`)
+                    .join(' et ');
+                calendarStatus.innerHTML = `Calendrier ${calendar.year} : <a href="${calendar.source.url}" target="_blank" rel="noopener noreferrer">source officielle ${calendar.source.name}</a>${checks ? `, contrôlée avec ${checks}` : ''}.`;
             }
         } catch (error) {
             calendarSelect.innerHTML = '<option value="">Calendrier momentanément indisponible</option>';
@@ -661,9 +665,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const mainText = document.getElementById('gospel-text');
         const notes = document.getElementById('my-notes');
         const homileticAxes = document.getElementById('homiletic-axes-container');
-        if (title) title.textContent = `${typeLabel} — ${reading?.reference || entry.doxologia_title}`;
+        if (title) title.textContent = `${typeLabel} — ${reading?.reference || entry.official_title || entry.doxologia_title}`;
         if (mainText) mainText.innerHTML = '<p class="calendar-pending">Cette lecture propre au calendrier 2026 n’est pas encore reliée à une fiche dans l’application.</p>';
-        if (notes) notes.textContent = 'La référence a été vérifiée dans le calendrier Doxologia. Son contenu ne sera ajouté qu’après identification de la source correspondante dans les données.';
+        if (notes) notes.textContent = 'La référence a été vérifiée dans le calendrier officiel de la Patriarhie roumaine. Son contenu ne sera ajouté qu’après identification de la source correspondante dans les données.';
         if (homileticAxes) homileticAxes.hidden = true;
         document.querySelectorAll('#text-selector button').forEach(button => button.classList.remove('active'));
         const activeButton = document.getElementById(`select-${readingType}`);
