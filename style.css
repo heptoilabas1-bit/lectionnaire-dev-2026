@@ -273,12 +273,37 @@ main {
 }
 
 #controls {
+    width: min(100%, 650px);
+}
+.selection-title { margin: 0 0 5px; font-size: .9rem; font-weight: 700; }
+.selection-modes {
+    display: inline-flex;
+    padding: 3px;
+    border: 1px solid rgba(255, 255, 255, .55);
+    border-radius: 999px;
+    background: rgba(28, 54, 88, .2);
+}
+.selection-mode {
+    min-height: 34px;
+    padding: 6px 14px;
+    border: 0;
+    border-radius: 999px;
+    background: transparent;
+    color: #fff;
+    font: 700 .84rem Arial, sans-serif;
+    cursor: pointer;
+}
+.selection-mode.active { background: #fff; color: #263c5a; }
+.selection-mode:focus-visible { outline: 3px solid #f5d37a; outline-offset: 2px; }
+.selection-panel {
     display: grid;
     grid-template-columns: minmax(190px, 250px) minmax(250px, 390px);
     gap: 5px 10px;
     align-items: center;
+    margin-top: 9px;
 }
-#controls > label:first-child { grid-column: 1 / -1; font-size: .85rem; font-weight: 700; }
+.selection-panel[hidden] { display: none; }
+.selection-panel > label:first-child { grid-column: 1 / -1; font-size: .82rem; font-weight: 700; }
 #sunday-search,
 #sunday-select,
 #calendar-select {
@@ -294,7 +319,6 @@ main {
 #sunday-select,
 #calendar-select { padding: 7px 9px; }
 .search-status { grid-column: 1 / -1; min-height: 1.2em; font-size: .76rem; opacity: .9; }
-#controls label[for="calendar-select"] { grid-column: 1 / -1; margin-top: 5px; font-size: .85rem; font-weight: 700; }
 #calendar-select { grid-column: 1 / -1; }
 .calendar-status { grid-column: 1 / -1; min-height: 1.2em; font-size: .76rem; opacity: .9; }
 .calendar-status a { color: inherit; }
@@ -583,8 +607,9 @@ main {
 @media (max-width: 768px) {
     .homily-phase-grid { grid-template-columns: 1fr; }
     header { flex-direction: column; text-align: center; }
-    #controls { width: 100%; grid-template-columns: 1fr; margin-top: 12px; text-align: left; }
-    #controls > label:first-child,
+    #controls { width: 100%; margin-top: 12px; text-align: left; }
+    .selection-panel { grid-template-columns: 1fr; }
+    .selection-panel > label:first-child,
     .search-status { grid-column: 1; }
     .side-panel { width: 100%; }
 }
