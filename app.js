@@ -83,31 +83,37 @@ document.addEventListener('DOMContentLoaded', () => {
     const defaultHomilyTemplate = [
         {
             id: 'theme',
+            phase: 'inspiration',
             title: '1. Parole centrale',
             prompt: 'Quelle parole ou quel mot-clef portera toute l’homélie ?'
         },
         {
             id: 'text',
+            phase: 'inspiration',
             title: '2. Écoute du texte',
             prompt: 'Que dit précisément la péricope ? Notez sa progression, ses répétitions et ses oppositions.'
         },
         {
             id: 'gospel',
+            phase: 'inspiration',
             title: '3. Bonne Nouvelle',
             prompt: 'Qu’est-ce que Dieu accomplit ou révèle ici ? Formulez l’annonce évangélique en une ou deux phrases.'
         },
         {
             id: 'today',
+            phase: 'gestation',
             title: '4. Passage vers aujourd’hui',
             prompt: 'Quelle expérience humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?'
         },
         {
             id: 'response',
+            phase: 'gestation',
             title: '5. Réponse proposée',
             prompt: 'À quelle conversion, espérance ou action concrète l’assemblée est-elle appelée ?'
         },
         {
             id: 'oral',
+            phase: 'expiration',
             title: '6. Homélie rédigée',
             prompt: 'Rédigez ici la version orale : une entrée, un mouvement clair, puis une conclusion mémorable.'
         }
@@ -200,8 +206,43 @@ document.addEventListener('DOMContentLoaded', () => {
             ? 'Brouillon sauvegardé retrouvé sur cet appareil.'
             : 'Le brouillon sera sauvegardé automatiquement sur cet appareil.';
 
+        const phases = {
+            inspiration: {
+                title: 'Inspiration — recevoir la Parole',
+                description: 'Écouter les lectures et discerner leur mouvement propre.'
+            },
+            gestation: {
+                title: 'Gestation — laisser la Parole travailler',
+                description: 'Relier la péricope à l’expérience de l’assemblée et à sa réponse.'
+            },
+            expiration: {
+                title: 'Expiration — transmettre',
+                description: 'Donner au chemin parcouru une forme destinée à être proclamée.'
+            }
+        };
+        let currentPhase = '';
+        let phaseGrid = null;
+
         fields.innerHTML = '';
-        template.forEach(section => {
+        template.forEach((section, index) => {
+            const phaseKey = section.phase
+                || (index < 3 ? 'inspiration' : index < template.length - 1 ? 'gestation' : 'expiration');
+            if (phaseKey !== currentPhase) {
+                currentPhase = phaseKey;
+                const phase = phases[phaseKey] || phases.gestation;
+                const group = document.createElement('section');
+                group.className = `homily-phase homily-phase-${phaseKey}`;
+                const heading = document.createElement('h4');
+                heading.textContent = phase.title;
+                const description = document.createElement('p');
+                description.className = 'homily-phase-description';
+                description.textContent = phase.description;
+                phaseGrid = document.createElement('div');
+                phaseGrid.className = 'homily-phase-grid';
+                group.append(heading, description, phaseGrid);
+                fields.appendChild(group);
+            }
+
             const wrapper = document.createElement('div');
             wrapper.className = section.id === 'oral' ? 'homily-field homily-field-final' : 'homily-field';
 
@@ -222,7 +263,7 @@ document.addEventListener('DOMContentLoaded', () => {
             textarea.placeholder = section.placeholder || 'Écrivez ici…';
 
             wrapper.append(label, help, textarea);
-            fields.appendChild(wrapper);
+            phaseGrid.appendChild(wrapper);
         });
         updateHomilyProgress();
     };
