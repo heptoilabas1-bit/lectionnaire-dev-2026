@@ -436,12 +436,22 @@ main {
     font-size: 1.8rem;
     cursor: pointer;
 }
-.homily-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.homily-fields { display: grid; gap: 24px; }
+.homily-phase {
+    padding: 18px;
+    border: 1px solid #ded5c3;
+    border-radius: 7px;
+    background: rgba(255, 255, 255, .62);
+}
+.homily-phase h4 { margin: 0; color: #671717; font-size: 1.05rem; }
+.homily-phase-description { margin: 4px 0 16px; color: #625c53; font-size: .9rem; }
+.homily-phase-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.homily-phase-inspiration { border-left: 4px solid #496b94; }
+.homily-phase-gestation { border-left: 4px solid #8b6b2f; }
+.homily-phase-expiration { border-left: 4px solid #8b1e1e; }
+.homily-phase-expiration .homily-phase-grid { grid-template-columns: 1fr; }
 .homily-field-final {
     grid-column: 1 / -1;
-    margin-top: 8px;
-    padding-top: 20px;
-    border-top: 2px solid #cdbd98;
 }
 .homily-field-final label { color: #671717; font-size: 1.08rem; }
 .homily-field-final textarea { min-height: 320px; }
@@ -504,7 +514,7 @@ main {
 }
 /* Responsive Mobile */
 @media (max-width: 768px) {
-    .homily-fields { grid-template-columns: 1fr; }
+    .homily-phase-grid { grid-template-columns: 1fr; }
     header { flex-direction: column; text-align: center; }
     .side-panel { width: 100%; }
 }
