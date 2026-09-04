@@ -16,7 +16,7 @@
           { "greek": "ἄνθρωπον", "gloss": "un_homme" },
           { "greek": "τυφλὸν", "gloss": "aveugle" },
           { "greek": "ἐκ", "gloss": "depuis" },
-          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΕΝ : L engendrement, la naissance. Dans le Monde duel, la naissance est d abord subie comme une fatalité charnelle, un enfermement biologique aveugle.'>γεν</span><span class='mot-info' data-analyse='Terminaison indiquant l origine (depuis la naissance).'>ετῆς.</span>", "gloss": "la_naissance" }
+          { "greek": "γενετῆς.", "gloss": "la_naissance", "annotation": { "type": "racine", "title": "Depuis la naissance — racine γεν-", "content": "Le groupe ἐκ γενετῆς signifie « depuis la naissance ». La famille γεν- porte les notions de naissance et d'origine. Elle ouvre dans ce récit la question d'une condition reçue, que les disciples interprètent d'abord comme une faute à expliquer.", "related": ["γεννηθῇ", "γονεῖς", "ἐγεννήθη", "γεγεννημένου"], "source": "P. Chantraine, Dictionnaire étymologique de la langue grecque, s.v. γίγνομαι" } }
         ]
       },
       {
@@ -43,7 +43,7 @@
           { "greek": "αὐτοῦ,", "gloss": "de_lui" },
           { "greek": "ἵνα", "gloss": "afin_qu'" },
           { "greek": "τυφλὸς", "gloss": "aveugle" },
-          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΕΝ : L engendrement. Les disciples relient la naissance à une causalité karmique ou morale (la faute).'>γεν</span><span class='mot-info' data-analyse='Subjonctif aoriste passif.'>νηθῇ;</span>", "gloss": "il_soit_né" }
+          { "greek": "γεννηθῇ;", "gloss": "il_soit_né", "annotation": { "type": "racine", "title": "Naître — γεννηθῇ", "content": "Les disciples demandent quelle faute pourrait expliquer qu'il soit « né aveugle ». Jésus refuse d'enfermer la personne et ses parents dans cette causalité morale simpliste et oriente le regard vers la manifestation des œuvres de Dieu.", "related": ["γενετῆς", "ἥμαρτεν", "φανερωθῇ"] } }
         ]
       },
       {
@@ -60,7 +60,7 @@
           { "greek": "ἥμαρτεν", "gloss": "n'a_péché" },
           { "greek": "οὔτε", "gloss": "ni" },
           { "greek": "οἱ", "gloss": "les" },
-         { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΟΝ (dérivée de ΓΕΝ) : Les géniteurs. Face à la pression des pharisiens, la filiation biologique montre ses limites. Enfermés dans la peur du Monde duel, les parents assument la naissance biologique de leur fils mais l abandonnent lors de sa naissance spirituelle.'>γον</span><span class='mot-info' data-analyse='Nominatif pluriel.'>εῖς</span>", "gloss": "parents" },
+         { "greek": "γονεῖς", "gloss": "parents", "annotation": { "type": "racine", "title": "Les parents — γονεῖς", "content": "Le mot appartient à la famille de la naissance et de l'engendrement. Les parents peuvent attester l'identité et la naissance de leur fils, mais la peur de l'exclusion limite leur témoignage sur sa guérison.", "related": ["γενετῆς", "ἐφοβοῦντο", "ἀποσυνάγωγος"], "source": "P. Chantraine, Dictionnaire étymologique de la langue grecque, s.v. γίγνομαι" } },
           { "greek": "αὐτοῦ,", "gloss": "de_lui" },
           { "greek": "ἀλλ’", "gloss": "mais" },
           { "greek": "ἵνα", "gloss": "afin_que" },
@@ -110,9 +110,9 @@
           { "greek": "ἐν", "gloss": "dans" },
           { "greek": "τῷ", "gloss": "le" },
           { "greek": "κόσμῳ", "gloss": "monde" },
-          { "greek": "<span class='mot-info' data-analyse='Le verbe Être au subjonctif. La fréquence pure de la Présence divine, non soumise au Temps.'>ὦ</span>", "gloss": "je_suis" },
+          { "greek": "ὦ", "gloss": "je_suis" },
           { "greek": "φῶς", "gloss": "Lumière" },
-          { "greek": "<span class='mot-info' data-analyse='Le verbe Être à l indicatif. Le Christ s identifie formellement au JE SUIS du buisson ardent.'>εἰμι</span>", "gloss": "je_suis" },
+          { "greek": "εἰμι", "gloss": "je_suis", "annotation": { "type": "theologie", "title": "« Je suis la lumière du monde »", "content": "L'affirmation identifie Jésus à la lumière tant qu'il est dans le monde. Dans le déroulement du récit, cette parole précède immédiatement le geste créateur de la boue et l'envoi à Siloé.", "related": ["φῶς", "κόσμου", "Ἐγώ εἰμι"] } },
           { "greek": "τοῦ", "gloss": "du" },
           { "greek": "κόσμου.", "gloss": "monde" }
         ]
@@ -224,7 +224,7 @@
           { "greek": "ἐκεῖνος", "gloss": "Lui" },
           { "greek": "ἔλεγεν", "gloss": "disait" },
           { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "<span class='mot-info' data-analyse='Le Sujet restauré. L homme guéri prononce exactement les mêmes mots que le Christ. Par l action de la Lumière, il cesse d être un objet passif et aveugle pour devenir un Sujet libre, théophore.'>Ἐγώ εἰμι</span>", "gloss": "C_est_moi/Je_Suis", "analyse": "La réplique exacte du Nom divin. L'homme est recréé à l'image et à la ressemblance." }
+          { "greek": "Ἐγώ εἰμι", "gloss": "C_est_moi/Je_suis", "annotation": { "type": "repetition", "title": "« C'est moi » — Ἐγώ εἰμι", "content": "Face aux voisins qui discutent de son identité, l'homme guéri répond lui-même : « C'est moi ». La répétition de ἐγώ εἰμι fait écho aux paroles de Jésus sans identifier pour autant l'homme au Christ : elle marque ici une identité assumée et un témoignage à la première personne.", "related": ["ὅμοιος", "οἶδα", "μαρτυρία"] } }
         ]
       },
       {
@@ -470,7 +470,7 @@
           { "greek": "ὅτου", "gloss": "que" },
           { "greek": "ἐφώνησαν", "gloss": "ils_aient_appelé" },
           { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΟΝ (dérivée de ΓΕΝ) : Les géniteurs. Ils représentent la filiation purement biologique.'>γον</span><span class='mot-info' data-analyse='Accusatif pluriel.'>εῖς</span>", "gloss": "parents" },
+          { "greek": "γονεῖς", "gloss": "parents" },
           { "greek": "αὐτοῦ", "gloss": "de_lui" }
         ]
       },
@@ -495,7 +495,7 @@
           { "greek": "λέγετε", "gloss": "vous_dites" },
           { "greek": "ὅτι", "gloss": "que" },
           { "greek": "τυφλὸς", "gloss": "aveugle" },
-          { "greek": "<span class='mot-info' data-analyse='Augment temporel.'>ἐ</span><span class='encadre mot-info' data-analyse='La racine ΓΕΝ : L engendrement.'>γεν</span><span class='mot-info' data-analyse='Aoriste passif : l action brute d être né.'>νήθη</span>", "gloss": "il_est_né" },
+          { "greek": "ἐγεννήθη", "gloss": "il_est_né" },
           { "greek": "πῶς", "gloss": "comment" },
           { "greek": "οὖν", "gloss": "donc" },
           { "greek": "βλέπει", "gloss": "il_voit" },
@@ -512,7 +512,7 @@
           { "greek": "ἀπεκρίθησαν", "gloss": "Répondirent" },
           { "greek": "οὖν", "gloss": "donc" },
           { "greek": "οἱ", "gloss": "les" },
-          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΟΝ (dérivée de ΓΕΝ) : Les géniteurs. Face à la pression des pharisiens, la filiation biologique montre ses limites. Enfermés dans la peur du Monde duel, les parents assument la naissance biologique de leur fils mais l abandonnent lors de sa naissance spirituelle.'>γον</span><span class='mot-info' data-analyse='Nominatif pluriel.'>εῖς</span>", "gloss": "parents" },
+          { "greek": "γονεῖς", "gloss": "parents" },
           { "greek": "αὐτοῦ", "gloss": "de_lui" },
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "εἶπαν·", "gloss": "dirent" },
@@ -520,11 +520,11 @@
           { "greek": "ὅτι", "gloss": "que" },
           { "greek": "οὗτός", "gloss": "celui-ci" },
           { "greek": "ἐστιν", "gloss": "est" },
-         { "greek": "<span class='mot-info' data-analyse=' L aliénation biologique : les parents reconnaissent l objet biologique issu de leur chair (notre fils), mais abandonnent le Sujet spirituel face à l hostilité de la Matrice sociale.'>ὁ υἱὸς ἡμῶν</span>", "gloss": "notre_fils" },
+         { "greek": "ὁ υἱὸς ἡμῶν", "gloss": "notre_fils", "annotation": { "type": "analyse", "title": "« Notre fils »", "content": "Les parents reconnaissent sans ambiguïté leur fils et le fait qu'il est né aveugle. Mais, par peur d'être exclus de la synagogue, ils lui laissent porter seul la parole sur sa guérison : « Il a l'âge, interrogez-le »." } },
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "ὅτι", "gloss": "que" },
           { "greek": "τυφλὸς", "gloss": "aveugle" },
-          { "greek": "<span class='mot-info' data-analyse='Augment temporel.'>ἐ</span><span class='encadre mot-info' data-analyse='La racine ΓΕΝ : L engendrement.'>γεν</span><span class='mot-info' data-analyse='Aoriste passif : l action brute d être né.'>νήθη</span>", "gloss": "il_est_né" }
+          { "greek": "ἐγεννήθη", "gloss": "il_est_né" }
         ]
       },
       {
@@ -569,7 +569,7 @@
           { "greek": "ταῦτα", "gloss": "Ces_choses" },
           { "greek": "εἶπαν", "gloss": "dirent" },
           { "greek": "οἱ", "gloss": "les" },
-          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΟΝ (dérivée de ΓΕΝ) : Les géniteurs. Face à la pression des pharisiens, la filiation biologique montre ses limites. Enfermés dans la peur du Monde duel, les parents assument la naissance biologique de leur fils mais l abandonnent lors de sa naissance spirituelle.'>γον</span><span class='mot-info' data-analyse='Nominatif pluriel.'>εῖς</span>", "gloss": "parents" },
+          { "greek": "γονεῖς", "gloss": "parents" },
           { "greek": "αὐτοῦ", "gloss": "de_lui" },
           { "greek": "ὅτι", "gloss": "parce_qu'" },
           { "greek": "ἐφοβοῦντο", "gloss": "ils_craignaient", "analyse": "La peur (phobos) est le ciment de l'aliénation. Les parents préfèrent leur sécurité dans le système clos ('la synagogue') à la liberté du Sujet. Ils acceptent d'être des objets du système plutôt que des témoins de la Lumière." },
@@ -837,7 +837,7 @@
           { "greek": "τις", "gloss": "quelqu'un" },
           { "greek": "ὀφθαλμοὺς", "gloss": "les_yeux" },
           { "greek": "τυφλοῦ", "gloss": "d'un_aveugle" },
-          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΕΝ : L engendrement. Dans le Monde duel, la naissance est subie comme une fatalité charnelle.'>γεγεν</span><span class='mot-info' data-analyse='Participe parfait passif (au génitif). Indique un état figé depuis l origine.'>νημένου.</span>", "gloss": "né/engendré" }
+          { "greek": "γεγεννημένου.", "gloss": "né/engendré", "annotation": { "type": "repetition", "title": "La naissance rappelée", "content": "L'ouverture des yeux d'un homme « né aveugle » est présentée comme un événement sans précédent. Le rappel de sa naissance ne sert plus à chercher un coupable, mais à mesurer la nouveauté du signe.", "related": ["γενετῆς", "ἐγεννήθη", "ἀνέῳξεν"] } }
         ]
       },
       {
@@ -851,7 +851,7 @@
           { "greek": "μὴ", "gloss": "ne...pas" },
           { "greek": "ἦν", "gloss": "il_était" },
           { "greek": "οὗτος", "gloss": "cet_homme" },
-          { "greek": "<span class='encadre mot-info' data-analyse='La préposition EK (Hors de / L Origine). L aveugle donne une leçon de théologie : la véritable naissance biologique (GEN) est transcendée. Le véritable Engendrement provient de l Incréé.'>ἐκ</span>", "gloss": "de" },
+          { "greek": "ἐκ", "gloss": "de" },
           { "greek": "θεοῦ", "gloss": "Dieu" },
           { "greek": "οὐκ", "gloss": "ne_pourrait_rien" },
           { "greek": "ἠδύνατο", "gloss": "il_pouvait" },
@@ -880,7 +880,7 @@
           { "greek": "διδάσκεις", "gloss": "tu_enseignes" },
           { "greek": "ἡμᾶς;", "gloss": "nous" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "<span class='encadre mot-info' data-analyse='Le préfixe EK/EX : Hors de. Le mouvement d extraction spatiale et spirituelle. Il est arraché à la matrice de la synagogue.'>ἐξ</span><span class='mot-info' data-analyse='Du verbe ballo (jeter). Expulsion violente. C est précisément cette exclusion du Monde duel qui permet la rencontre verticale avec le Christ au verset 35.'>έβαλον</span>", "gloss": "ils_le_jetèrent_dehors" },
+          { "greek": "ἐξέβαλον", "gloss": "ils_le_jetèrent_dehors", "annotation": { "type": "repetition", "title": "Jeté dehors — ἐξέβαλον", "content": "L'homme qui maintient son témoignage est expulsé. Jésus apprend cette exclusion et le trouve : le dehors imposé par le groupe devient le lieu inattendu d'un nouveau face-à-face, sans faire de l'exclusion elle-même un bien.", "related": ["ἐφοβοῦντο", "ἀποσυνάγωγος", "εὑρὼν"] } },
           { "greek": "αὐτὸν", "gloss": "lui" },
           { "greek": "ἔξω.", "gloss": "dehors" }
         ]
@@ -896,7 +896,7 @@
           { "greek": "ὁ", "gloss": "le" },
           { "greek": "Ἰησοῦς", "gloss": "Jésus" },
           { "greek": "ὅτι", "gloss": "que" },
-         { "greek": "<span class='encadre mot-info' data-analyse='Le préfixe EK/EX : Hors de. Le mouvement d extraction spatiale et spirituelle. Il est arraché à la matrice de la synagogue.'>ἐξ</span><span class='mot-info' data-analyse='Du verbe ballo (jeter). Expulsion violente. C est précisément cette exclusion du Monde duel qui permet la rencontre verticale avec le Christ au verset 35.'>έβαλον</span>", "gloss": "ils_le_jetèrent_dehors" },
+         { "greek": "ἐξέβαλον", "gloss": "ils_le_jetèrent_dehors" },
           { "greek": "αὐτὸν", "gloss": "lui" },
           { "greek": "ἔξω,", "gloss": "dehors" },
           { "greek": "καὶ", "gloss": "et" },
@@ -948,7 +948,7 @@
           { "greek": "ἑώρακας", "gloss": "tu_l'as_vu" },
           { "greek": "αὐτὸν", "gloss": "lui" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "<span class='mot-info' data-analyse=' L ultime Révélation théophanique. Le Christ unit l ouïe (celui qui parle) et la vision visuelle (tu l as vu). C est le sommet de la péricope : le Logos s offre au Sujet recréé.'>ὁ λαλῶν μετὰ σοῦ ἐκεῖνός ἐστιν.</span>", "gloss": "celui_parlant_avec_toi_c_est_lui", "analyse": "Une seule bulle interactive pour embrasser cette révélation totale. La communication du 'Monde UN' s'accomplit." }
+          { "greek": "ὁ λαλῶν μετὰ σοῦ ἐκεῖνός ἐστιν.", "gloss": "celui_parlant_avec_toi_c_est_lui", "annotation": { "type": "theologie", "title": "Voir et entendre le même Seigneur", "content": "Jésus unit les deux sens au terme du chemin : « Tu l'as vu, et celui qui parle avec toi, c'est lui ». L'homme ne reçoit pas seulement la vue ; il reconnaît dans la parole présente celui qu'il cherchait encore à nommer.", "related": ["ἑώρακας", "λαλῶν", "Πιστεύω"] } }
         ]
       },
       {
@@ -1054,6 +1054,20 @@
           { "greek": "μένει.", "gloss": "demeure" }
         ]
       }
+    ],
+   "homiletic_axes": [
+      { "title": "D'une faute à expliquer aux œuvres à manifester", "content": "Les disciples demandent qui a péché ; Jésus refuse de réduire l'homme à une causalité coupable. Il déplace la question du « pourquoi » vers l'œuvre de Dieu qui peut se manifester dans une histoire blessée.", "keywords": ["ἥμαρτεν", "γεννηθῇ", "φανερωθῇ"] },
+      { "title": "Boue, envoi et lavage : une création mise en chemin", "content": "Jésus fait de la boue, l'applique sur les yeux et envoie l'homme à Siloé, « l'Envoyé ». La guérison associe matière, parole, obéissance libre et retour avec la vue.", "keywords": ["πηλὸν", "Σιλωάμ", "Ἀπεσταλμένος"] },
+      { "title": "Une confession qui grandit avec la vision", "content": "L'homme nomme progressivement Jésus : « l'homme appelé Jésus », puis prophète, homme venu de Dieu, enfin Seigneur devant lequel il se prosterne. La vue reçue mûrit en reconnaissance personnelle.", "keywords": ["ἄνθρωπος", "Προφήτης", "Πιστεύω"] },
+      { "title": "« Une chose je sais » face aux certitudes du groupe", "content": "Les « nous savons » se répètent autour de lui, mais l'homme s'appuie sur une expérience sobre : il était aveugle et maintenant il voit. Son exclusion est suivie d'une nouvelle initiative de Jésus, qui le trouve.", "keywords": ["οἶδα", "ἐξέβαλον", "εὑρὼν"] }
+    ],
+    "homily_template": [
+      { "id": "theme", "phase": "inspiration", "title": "1. Parole centrale", "prompt": "Choisissez votre entrée : naissance, œuvres manifestées, lumière, boue, Siloé, ouverture des yeux, « je sais » ou « je crois »." },
+      { "id": "text", "phase": "inspiration", "title": "2. Chemin de la péricope", "prompt": "Suivez un mouvement : de la question sur le péché à l'œuvre de Dieu ; du lavage à la vue ; ou de « l'homme Jésus » à la confession du Seigneur." },
+      { "id": "gospel", "phase": "inspiration", "title": "3. Bonne Nouvelle annoncée", "prompt": "Formulez ce que le Christ rend possible : être libéré d'une identité imposée, recevoir un regard nouveau ou être retrouvé lorsque le groupe rejette." },
+      { "id": "today", "phase": "gestation", "title": "4. Regard humain rejoint", "prompt": "Choisissez une expérience actuelle — préjugé, étiquette, pression du groupe, peur de témoigner ou certitude qui empêche d'écouter — sans identifier un groupe contemporain aux Pharisiens du récit." },
+      { "id": "response", "phase": "gestation", "title": "5. Passage proposé", "prompt": "Ouvrez une possibilité : renoncer à chercher un coupable, raconter simplement ce que l'on sait, accepter d'être enseigné ou demander au Christ un regard plus vrai." },
+      { "id": "oral", "phase": "proclamation", "title": "6. Mise en voix", "prompt": "Vous pouvez faire revenir comme refrain : « J'étais aveugle, et maintenant je vois ». Faites progresser les différents noms donnés à Jésus jusqu'à « Je crois, Seigneur »." }
     ],
    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἐπέχρισεν τὸν πηλόν : Segond et Darby traduisent par 'oignit de boue' ou 'appliqua la boue'. Le verbe grec est *epichrio* (oindre / frictionner dessus), qui partage la même racine vibratoire que *Christos* (l'Oint). Ce geste de pétrir la boue (*pelos*) avec la salive divine renvoie directement au récit de la Genèse (la création d'Adam à partir du limon de la terre). Le Christ n'utilise pas un remède empirique, Il accomplit un acte de récréation ontologique. Il 'christifie' la matière aveugle pour lui donner la capacité de percevoir l'Incréé.\n\n• Verset 7 - τοῦ Σιλωάμ, ὃ ἑρμηνεύεται Ἀπεσταλμένος : 'Siloé, ce qui signifie Envoyé'. L'Évangéliste insiste lourdement sur la traduction grecque *Apestalmenos*. La piscine de Siloé n'est pas un simple repère géographique ou rituel, c'est une typologie du Christ Lui-même, l'Envoyé du Père. Se laver à Siloé, c'est s'immerger dans la Kénose de l'Envoyé pour être purifié des grilles de lecture déformantes du Monde duel.\n\n• Verset 38 - καὶ προσεκύνησεν αὐτῷ : Traduit par 'il se prosterna devant lui' (Darby) ou 'il l'adora' (Segond). Le terme exact est *proskyneo*. Ce n'est pas une simple révérence sociale ou une politesse orientale envers un prophète respecté. C'est le geste liturgique de l'adoration absolue. C'est le point de bascule métaphysique où l'aveugle-né reconnaît l'identité divine du Fils de Dieu et s'incline devant l'Unique Réalité.\n\nAnalyse spirituelle globale (Les 3 parties) :\n\nLe récit de l'aveugle-né est la démonstration magistrale de la rupture entre le 'Monde duel' et le 'Royaume UN'. Le drame se joue sur le terrain de la vision : comment voir la vérité ?\n\n1. L'illusion du 'Savoir en plein' (Pharisiens) : Le 'Monde duel' ne supporte pas le miracle car il ne supporte pas l'Incréé. Les Pharisiens s'enferment dans leur 'Oidamen' (nous savons). Ce savoir est une forteresse : ils classifient, ils jugent, ils rejettent ('pécheur', 'chassé'). Leur aveuglement est irréversible précisément parce qu'ils affirment 'Nous voyons'. Ils ont saturé leur esprit de dogmes, il n'y a plus de place pour le 'creux' de la Foi.\n\n2. La naissance du Sujet (Aveugle-né) : À l'opposé, l'aveugle-né passe par une kénose sensorielle et intellectuelle. Il commence par ne rien savoir, puis il devient le Sujet de sa propre expérience. Il n'est plus l'objet-mendiant qu'on questionne, mais celui qui remet en question les Pharisiens par la puissance de son témoignage : 'Une chose je sais : j'étais aveugle, maintenant je vois'. Il n'a plus besoin des définitions de la foule, il a rencontré le Fils de Dieu.\n\n3. Le jugement (Krima) : Le Christ opère une inversion des valeurs. Ceux qui se croyaient 'en plein' (voyants) sont révélés comme étant 'en creux' (aveugles par orgueil). Celui qui se reconnaissait 'en creux' (aveugle) devient 'en plein' par la Lumière incréée. La guérison n'est que le signe de cette transfiguration. En adorant le Christ (v. 38), l'aveugle quitte définitivement la caverne mimétique pour entrer dans la communion du Père. L'arbre de vie, la Croix, a fait son œuvre : le Sujet est debout, il n'est plus l'esclave du regard des autres, il voit désormais avec les yeux du cœur."
  },
@@ -1177,7 +1191,7 @@
           { "greek": "ἡ", "gloss": "l'" },
           { "greek": "ἐλπὶς", "gloss": "espoir" },
           { "greek": "τῆς", "gloss": "de_le" },
-          { "greek": "<span class='encadre mot-info' data-analyse='Le profit, l industrie, le gain. La réaction de la Matrice face à l exorcisme : les maîtres ne voient pas une femme libérée, ils voient un capital détruit. Le monde duel valorise toujours l Avoir économique de l Ego au détriment de l Être du Sujet.'>ἐργασία</span>", "gloss": "le_profit/gain" },
+          { "greek": "ἐργασία", "gloss": "le_profit/gain", "annotation": { "type": "analyse", "title": "La disparition du gain", "content": "Les maîtres de la servante constatent que leur espérance de gain a disparu. Le récit dévoile ainsi le conflit entre la libération d'une personne et l'intérêt économique de ceux qui exploitaient sa parole.", "related": ["κυρίοι", "κέρδος", "ἐπιλαβόμενοι"] } },
           { "greek": "αὐτῶν,", "gloss": "d'eux" },
           { "greek": "ἐπιλαβόμενοι", "gloss": "ayant_saisi", "analyse": "Du verbe *epilambanomaï* (saisir avec force, empoigner). C'est le geste réflexe de la préhension du Monde duel. Dès que l'illusion spéculative s'effondre, l'Ego blessé recourt à la violence physique et à la capture pour tenter de ré-objectiver ce qui lui échappe." },
           { "greek": "τὸν", "gloss": "le" },
@@ -1347,7 +1361,7 @@
         "interlinear": [
           { "greek": "ἄφνω", "gloss": "Tout_à_coup" },
           { "greek": "δὲ", "gloss": "or" },
-          { "greek": "<span class='encadre mot-info' data-analyse='Le séisme. Le monde duel enferme les Apôtres dans l obscurité de la prison intérieure, mais la fréquence de leur louange (les hymnes de minuit) provoque une résonance cosmique. L Incréé ne crochète pas les serrures de l Ego, Il en ébranle les fondations.'>σεισμὸς</span>", "gloss": "un_tremblement_de_terre" },
+          { "greek": "σεισμὸς", "gloss": "un_tremblement_de_terre", "annotation": { "type": "theologie", "title": "Les fondements ébranlés", "content": "Le séisme ébranle les fondements de la prison, ouvre les portes et défait les liens. Le récit met en scène une libération qui dépasse Paul et Silas : toutes les portes s'ouvrent et les liens de tous sont détachés.", "related": ["θεμέλια", "θύραι", "δεσμὰ"] } },
           { "greek": "ἐγένετο", "gloss": "il_se_fit" },
           { "greek": "μέγας", "gloss": "grand" },
           { "greek": "ὥστε", "gloss": "de_sorte_que" },
@@ -1356,7 +1370,7 @@
           { "greek": "θεμέλια", "gloss": "fondements" },
           { "greek": "τοῦ", "gloss": "de_le" },
           { "greek": "δεσμωτηρίου·", "gloss": "prison" },
-          { "greek": "<span class='mot-info' data-analyse='Augment et préfixe.'>ἀνεῴχ</span><span class='encadre mot-info' data-analyse='La racine du verbe Anoigo (ouvrir). C est le mot pivot de ce dimanche : c est exactement le même verbe utilisé dans l Évangile de Jean 9 pour l ouverture des yeux de l aveugle ! La prison de fer et la cécité oculaire sont la même prison. Le Souffle divin ouvre toutes les portes du monde clos.'>θησαν</span>", "gloss": "furent_ouvertes" },
+          { "greek": "ἀνεῴχθησαν", "gloss": "furent_ouvertes", "annotation": { "type": "repetition", "title": "Les portes furent ouvertes", "content": "Le verbe « ouvrir » fait écho à l'ouverture des yeux dans Jean 9. L'Évangile ouvre un regard ; l'épître ouvre les portes d'une prison. Dans les deux lectures, l'œuvre de Dieu rend possible une liberté que les personnages ne pouvaient produire seuls.", "related": ["ἀνέῳξεν", "θύραι", "δεσμὰ"] } },
           { "greek": "δὲ", "gloss": "or" },
           { "greek": "παραχρῆμα", "gloss": "à_l'instant" },
           { "greek": "αἱ", "gloss": "les" },
@@ -1376,7 +1390,7 @@
           "darby": "Et le geôlier, s'étant éveillé et voyant les portes de la prison ouvertes, tira son épée et allait se tuer, croyant que les prisonniers s'étaient enfuis."
         },
         "interlinear": [
-          { "greek": "<span class='encadre mot-info' data-analyse='Le préfixe EX (hors de) et hypnos (le sommeil). Tiré hors du sommeil. Le geôlier, qui était le gardien de la Matrice, est brusquement réveillé de son hypnose mondaine. Il passe de l obscurité à la conscience, tout comme l aveugle-né passe des ténèbres à la Lumière.'>ἔξυπνος</span>", "gloss": "tiré_du_sommeil/réveillé" },
+          { "greek": "ἔξυπνος", "gloss": "tiré_du_sommeil/réveillé", "annotation": { "type": "analyse", "title": "Réveillé de son sommeil", "content": "Le geôlier est réveillé de son sommeil. Ce réveil physique ouvre un chemin intérieur : il passe de la peur et du geste suicidaire à la question « Que faut-il que je fasse pour être sauvé ? ».", "related": ["σωθῶ", "φῶτα", "προσέπεσεν"] } },
           { "greek": "δὲ", "gloss": "or" },
           { "greek": "γενόμενος", "gloss": "étant_devenu" },
           { "greek": "ὁ", "gloss": "le" },
@@ -1534,7 +1548,7 @@
           { "greek": "τῶν", "gloss": "les" },
           { "greek": "πληγῶν,", "gloss": "plaies" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "<span class='mot-info' data-analyse='Augment.'>ἐ</span><span class='encadre mot-info' data-analyse='La racine BAPT (immerger). Le geôlier lave les plaies de Paul (horizontalité), et Paul lave le geôlier dans les eaux de la re-naissance (verticalité). C est la réponse exacte à l aveugle de l Évangile qui va se laver à la piscine de Siloé pour recouvrer la vue. L eau brise l ancienne identité.'>βαπτίσ</span><span class='mot-info' data-analyse='Aoriste passif.'>θη</span>", "gloss": "il_fut_baptisé" },
+          { "greek": "ἐβαπτίσθη", "gloss": "il_fut_baptisé", "annotation": { "type": "theologie", "title": "Du lavage des plaies au baptême", "content": "Le geôlier lave les plaies de Paul et Silas, puis il est aussitôt baptisé avec les siens. La proximité des deux gestes relie soin concret, conversion et entrée dans une vie nouvelle.", "related": ["ἔλουσεν", "πληγῶν", "πανοικεί"] } },
           { "greek": "αὐτὸς", "gloss": "lui-même" },
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "οἱ", "gloss": "les" },
@@ -1566,6 +1580,20 @@
           { "greek": "θεῷ.", "gloss": "Dieu" }
         ]
       }
+    ],
+   "homiletic_axes": [
+      { "title": "La libération d'une personne met le profit en crise", "content": "La délivrance de la servante fait disparaître le gain de ses maîtres. L'opposition à Paul et Silas commence lorsque la liberté rendue à une personne dérange un intérêt installé.", "keywords": ["ἐργασία", "ἐπιλαβόμενοι", "φυλακήν"] },
+      { "title": "Dans la nuit, la prière devient parole entendue", "content": "Au cœur de la prison, Paul et Silas prient et chantent tandis que les détenus écoutent attentivement. Avant même l'ouverture des portes, une communion d'écoute traverse l'obscurité.", "keywords": ["μεσονύκτιον", "ὕμνουν", "ἐπηκροῶντο"] },
+      { "title": "Toutes les portes s'ouvrent, mais personne ne fuit", "content": "Le séisme ouvre les portes et détache les liens de tous. Paul transforme pourtant cette liberté en salut pour le geôlier : il demeure présent et arrête son geste de mort.", "keywords": ["σεισμὸς", "θύραι", "δεσμὰ"] },
+      { "title": "Des plaies lavées à la table de la joie", "content": "Le geôlier passe de la garde violente au soin : il lave les plaies, reçoit le baptême, accueille les apôtres chez lui et dresse la table. La conversion devient hospitalité et joie partagée.", "keywords": ["ἔλουσεν", "ἐβαπτίσθη", "τράπεζαν"] }
+    ],
+    "homily_template": [
+      { "id": "theme", "phase": "inspiration", "title": "1. Parole centrale", "prompt": "Choisissez votre fil : libération, profit perdu, nuit, hymne, écoute, portes ouvertes, salut, lavage, baptême ou table." },
+      { "id": "text", "phase": "inspiration", "title": "2. Mouvement de l'épître", "prompt": "Suivez une transformation : de l'exploitation à la prison, de la nuit au chant, des portes ouvertes à la présence de Paul, puis de la peur du geôlier à la joie de sa maison." },
+      { "id": "gospel", "phase": "inspiration", "title": "3. Bonne Nouvelle annoncée", "prompt": "Reliez si vous le souhaitez les deux lectures : Dieu ouvre les yeux et les portes, mais cette ouverture devient surtout une relation, une parole entendue et une vie réorientée." },
+      { "id": "today", "phase": "gestation", "title": "4. Enfermement humain rejoint", "prompt": "Nommez une forme concrète d'exploitation, d'obscurité ou de peur sans réduire les personnes à leur rôle de victime, de maître ou de gardien." },
+      { "id": "response", "phase": "gestation", "title": "5. Passage proposé", "prompt": "Ouvrez une possibilité : chanter dans la nuit, rester pour sauver l'autre, poser la question du salut, laver une plaie ou ouvrir sa table." },
+      { "id": "oral", "phase": "proclamation", "title": "6. Mise en voix", "prompt": "Construisez un contraste sonore entre la nuit silencieuse, le chant entendu et le séisme. Terminez sobrement sur la table et la joie de toute la maison." }
     ],
    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 24 - ἠσφαλίσατο εἰς τὸ ξύλον : Souvent traduit par 'fixa dans les ceps' ou 'serra dans un bloc de bois'. Le mot central est le *xylon* (le bois, l'arbre). Ce terme n'est pas anodin chez Luc ; c'est le même mot qu'il utilise régulièrement dans les Actes pour désigner la Croix du Christ (Actes 5,30 ; 10,39). L'entrave imposée par le monde est une parodie de la Croix. Mais là où le monde utilise le bois pour immobiliser dans la mort, le croyant, uni au Christ, y trouve l'Arbre de Vie.\n\n• Verset 25 - ἐπηκροῶντο αὐτῶν οἱ δέσμιοι : Traduit par 'les prisonniers les entendaient' (Segond) ou 'les écoutaient' (Darby). Le verbe rare *epakroaomai* est bien plus fort qu'une simple écoute passive. Il implique de prêter l'oreille avec attention, de s'immobiliser pour écouter attentivement. Dans l'obscurité totale du cachot (l'aveuglement), la prière chantée crée un espace liturgique qui capte l'attention des âmes emprisonnées avant même le séisme physique.\n\n• Verset 33 - ἔλουσεν ἀπὸ τῶν πληγῶν : 'Il les lava de leurs plaies'. Le verbe *louo* renvoie au bain complet (souvent associé au bain baptismal, *loutron*). Ce geste du geôlier est foudroyant : lui, l'agent de la blessure institutionnelle, devient le ministre de la guérison. En lavant le sang des apôtres, c'est son propre baptême (mentionné juste après : ἐβαπτίσθη) qui commence à s'opérer métaphysiquement.\n\nAnalyse spirituelle de l'Apôtre (L'emprisonnement à Philippes) :\n\nL'écho avec l'Évangile de l'Aveugle-né est saisissant. Dans l'Évangile, nous avons vu la pédagogie du Christ qui refuse le savoir péremptoire ('en plein') des Pharisiens pour opérer dans la faille, le 'creux' de l'aveugle.\n\nIci, dans les Actes, le 'Monde duel' montre son visage le plus répressif : face à la liberté de l'Esprit qui ne se plie pas aux coutumes et aux intérêts financiers (la servante délivrée), l'Ego social arrache les vêtements, frappe et enferme. La prison intérieure est l'espace où le monde sature l'homme pour bloquer l'Incréé. Les apôtres ont les pieds liés dans le xylon (le bois de l'entrave, parodie mondaine de l'Arbre de la Croix).\n\nCependant, c'est au plus profond de cette cécité visuelle (au milieu de la nuit et dans l'enfermement) que s'active la Pédagogie des sens pascaux. Les apôtres ne cherchent pas à forcer les portes, ils chantent. Ils se font 'Voix', et les prisonniers 'écoutent' (ἐπηκροῶντο). L'ouïe supplante la vue.\n\nLe séisme qui suit n'est pas qu'un phénomène tellurique, c'est l'écroulement de la matrice du monde. Toutes les portes s'ouvrent, comme s'ouvrent les yeux de l'aveugle-né. Le drame se déplace alors sur le geôlier. Rouage obéissant du système, il n'a qu'une solution quand la clôture cède : se suicider, car il ignore l'Arbre de Vie. Mais la Voix de Paul l'arrête. En demandant 'Que dois-je faire ?', le geôlier accepte la kénose. Il abandonne l'armure de son savoir de fonctionnaire pour devenir un vrai Sujet. En soignant les plaies et en dressant la table (l'agapè), il consacre sa naissance au Royaume UN."
   }
