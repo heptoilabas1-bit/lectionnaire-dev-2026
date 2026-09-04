@@ -11,8 +11,11 @@
     <header>
         <h1 id="app-title">✝ Lectionnaire Interlinéaire Orthodoxe</h1>
         <div id="controls">
-            <label for="sunday-select">Choisir le Dimanche :</label>
+            <label for="sunday-search">Trouver une péricope</label>
+            <input id="sunday-search" type="search" placeholder="Ex. Pardon, Thomas, Samaritaine…" autocomplete="off">
+            <label class="visually-hidden" for="sunday-select">Choisir le dimanche</label>
             <select id="sunday-select"></select>
+            <span id="sunday-search-status" class="search-status" aria-live="polite"></span>
         </div>
     </header>
 
