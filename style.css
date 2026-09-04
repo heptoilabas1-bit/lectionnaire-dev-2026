@@ -277,11 +277,19 @@ main {
 .mot-traduction { color: #b05d16 !important; border-bottom-color: #b05d16 !important; }
 .mot-theologie { color: #8b1e1e !important; border-bottom-color: #8b1e1e !important; }
 
+.annotation-help {
+    margin: 14px 0 18px;
+    padding: 12px 14px;
+    border-left: 3px solid #8b6b2f;
+    background: #fffaf0;
+}
+.annotation-help > strong { color: #263c5a; }
+.annotation-help > p { margin: 3px 0 9px; color: #625c53; font-size: .9rem; }
 .annotation-legend {
     display: flex;
     flex-wrap: wrap;
     gap: 8px 15px;
-    margin: 10px 0 18px;
+    margin: 0;
     color: #625c53;
     font-size: .78rem;
 }
