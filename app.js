@@ -135,6 +135,8 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelectorAll('#homily-fields textarea').forEach(field => {
             draft[field.dataset.fieldId] = field.value;
         });
+        draft._oralReview = Array.from(document.querySelectorAll('#oral-review-list input:checked'))
+            .map(input => input.value);
         return draft;
     };
 
@@ -264,6 +266,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
             wrapper.append(label, help, textarea);
             phaseGrid.appendChild(wrapper);
+        });
+        const checkedReviewItems = Array.isArray(draft._oralReview) ? draft._oralReview : [];
+        document.querySelectorAll('#oral-review-list input').forEach(input => {
+            input.checked = checkedReviewItems.includes(input.value);
         });
         updateHomilyProgress();
     };
@@ -614,6 +620,11 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    const oralReviewList = document.getElementById('oral-review-list');
+    if (oralReviewList) {
+        oralReviewList.addEventListener('change', saveHomilyDraft);
+    }
+
     const prepareHomilyOutline = document.getElementById('prepare-homily-outline');
     if (prepareHomilyOutline) {
         prepareHomilyOutline.addEventListener('click', () => {
@@ -685,6 +696,9 @@ document.addEventListener('DOMContentLoaded', () => {
             localStorage.removeItem(getHomilyStorageKey());
             document.querySelectorAll('#homily-fields textarea').forEach(field => {
                 field.value = '';
+            });
+            document.querySelectorAll('#oral-review-list input').forEach(input => {
+                input.checked = false;
             });
             updateHomilyProgress();
             const status = document.getElementById('homily-save-status');
