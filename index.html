@@ -11,17 +11,26 @@
     <header>
         <h1 id="app-title">✝ Lectionnaire Interlinéaire Orthodoxe</h1>
         <div id="controls">
-            <label for="sunday-search">Trouver une péricope</label>
-            <input id="sunday-search" type="search" placeholder="Ex. Pardon, Thomas, Samaritaine…" autocomplete="off">
-            <label class="visually-hidden" for="sunday-select">Choisir le dimanche</label>
-            <select id="sunday-select"></select>
-            <span id="sunday-search-status" class="search-status" aria-live="polite"></span>
-            <label for="calendar-select">Ou choisir par date en 2026</label>
-            <select id="calendar-select">
-                <option value="">Chargement du calendrier…</option>
-            </select>
-            <span id="calendar-status" class="calendar-status" aria-live="polite"></span>
-            <p id="calendar-reading-note" class="calendar-reading-note" hidden></p>
+            <p class="selection-title">Choisir les lectures</p>
+            <div class="selection-modes" role="tablist" aria-label="Mode de sélection">
+                <button id="mode-calendar" class="selection-mode active" type="button" role="tab" aria-selected="true" aria-controls="calendar-panel">Par calendrier</button>
+                <button id="mode-pericope" class="selection-mode" type="button" role="tab" aria-selected="false" aria-controls="pericope-panel">Par péricope</button>
+            </div>
+            <div id="calendar-panel" class="selection-panel" role="tabpanel" aria-labelledby="mode-calendar">
+                <label for="calendar-select">Dimanches de 2026</label>
+                <select id="calendar-select">
+                    <option value="">Chargement du calendrier…</option>
+                </select>
+                <span id="calendar-status" class="calendar-status" aria-live="polite"></span>
+                <p id="calendar-reading-note" class="calendar-reading-note" hidden></p>
+            </div>
+            <div id="pericope-panel" class="selection-panel" role="tabpanel" aria-labelledby="mode-pericope" hidden>
+                <label for="sunday-search">Rechercher une péricope</label>
+                <input id="sunday-search" type="search" placeholder="Ex. Pardon, Thomas, Samaritaine…" autocomplete="off">
+                <label class="visually-hidden" for="sunday-select">Choisir le dimanche</label>
+                <select id="sunday-select"></select>
+                <span id="sunday-search-status" class="search-status" aria-live="polite"></span>
+            </div>
         </div>
     </header>
 
