@@ -529,20 +529,58 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // --- 4. INITIALISATION ---
-    const populateSundaySelect = () => {
+    const liturgicalGroups = [
+        { title: 'Triode — préparation au Carême', matches: key => /^0[0-3]_/.test(key) },
+        { title: 'Grand Carême', matches: key => /^1[0-5]_/.test(key) },
+        { title: 'Pentecostaire', matches: key => /^2[1-9]_/.test(key) },
+        { title: 'Cycle de Matthieu', matches: key => /^3(0[2-9]|1[0-7])_/.test(key) },
+        { title: 'Cycle de Luc', matches: key => /^3(1[8-9]|2[0-9]|3[0-2])_/.test(key) },
+        { title: 'Nativité et Théophanie', matches: key => /^9[0-5]_/.test(key) }
+    ];
+
+    const normalizeSearch = value => String(value || '')
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase();
+
+    const populateSundaySelect = (query = '') => {
         const select = document.getElementById('sunday-select');
+        const status = document.getElementById('sunday-search-status');
         if (!select) return;
 
         const sortedKeys = Object.keys(liturgicalList).sort();
+        const normalizedQuery = normalizeSearch(query.trim());
+        const matchingKeys = sortedKeys.filter(key =>
+            !normalizedQuery || normalizeSearch(liturgicalList[key]).includes(normalizedQuery)
+        );
         select.innerHTML = '';
 
-        sortedKeys.forEach(key => {
-            const option = document.createElement('option');
-            option.value = key;
-            option.textContent = liturgicalList[key];
-            select.appendChild(option);
+        liturgicalGroups.forEach(group => {
+            const keys = matchingKeys.filter(group.matches);
+            if (!keys.length) return;
+            const optgroup = document.createElement('optgroup');
+            optgroup.label = group.title;
+            keys.forEach(key => {
+                const option = document.createElement('option');
+                option.value = key;
+                option.textContent = liturgicalList[key];
+                optgroup.appendChild(option);
+            });
+            select.appendChild(optgroup);
         });
-        select.value = currentSundayKey;
+        if (!matchingKeys.length) {
+            const empty = document.createElement('option');
+            empty.textContent = 'Aucune péricope trouvée';
+            empty.disabled = true;
+            select.appendChild(empty);
+        } else if (matchingKeys.includes(currentSundayKey)) {
+            select.value = currentSundayKey;
+        } else {
+            select.selectedIndex = 0;
+        }
+        if (status) status.textContent = normalizedQuery
+            ? `${matchingKeys.length} résultat${matchingKeys.length > 1 ? 's' : ''}`
+            : `${matchingKeys.length} péricopes classées par période`;
     };
 
     populateSundaySelect();
@@ -551,7 +589,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 5. ÉCOUTEURS D'ÉVÉNEMENTS ---
     const selectElement = document.getElementById('sunday-select');
     if (selectElement) {
-        selectElement.addEventListener('change', (e) => loadTextContext(e.target.value, currentReadingType));
+        selectElement.addEventListener('change', (e) => {
+            if (e.target.value) loadTextContext(e.target.value, currentReadingType);
+        });
+    }
+    const sundaySearch = document.getElementById('sunday-search');
+    if (sundaySearch) {
+        sundaySearch.addEventListener('input', event => populateSundaySelect(event.target.value));
     }
 
     const btnGospel = document.getElementById('select-gospel');
