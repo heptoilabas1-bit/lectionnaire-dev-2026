@@ -1,13 +1,27 @@
 {
   "year": 2026,
   "source": {
-    "name": "Doxologia",
-    "url": "https://doxologia.ro/calendar-ortodox/202601"
+    "name": "Patriarhie roumaine",
+    "url": "https://calendar.patriarhia.ro/"
   },
+  "cross_checks": [
+    { "name": "Doxologia", "url": "https://doxologia.ro/calendar-ortodox/202601" },
+    { "name": "CreștinOrtodox", "url": "https://www.crestinortodox.ro/calendar-ortodox" }
+  ],
   "sundays": [
     { "date": "2026-01-04", "key": "93_theophany_before" },
     { "date": "2026-01-11", "key": "94_theophany_after" },
-    { "date": "2026-01-18", "key": "328_after_pentecost_28" },
+    {
+      "date": "2026-01-18",
+      "key": null,
+      "related_key": "328_after_pentecost_28",
+      "official_title": "29e dimanche après la Pentecôte — guérison des dix lépreux",
+      "readings": {
+        "gospel": { "reference": "Luc 17, 12-19", "key": "328_after_pentecost_28" },
+        "apostle": { "reference": "Colossiens 1, 12-18", "key": null }
+      },
+      "note": "L’Évangile correspond à la fiche « Les Dix Lépreux ». Pour cette date, le calendrier officiel indique Colossiens 1, 12-18, tandis que la fiche actuelle contient Colossiens 3, 4-11."
+    },
     { "date": "2026-01-25", "key": "332_after_pentecost_32" },
     { "date": "2026-02-01", "key": "00_publican_pharisee" },
     { "date": "2026-02-08", "key": "01_prodigal_son" },
@@ -65,7 +79,12 @@
     },
     { "date": "2026-09-27", "key": "318_after_pentecost_18" },
     { "date": "2026-10-04", "key": "319_after_pentecost_19" },
-    { "date": "2026-10-11", "key": "321_after_pentecost_21" },
+    {
+      "date": "2026-10-11",
+      "key": "321_after_pentecost_21",
+      "official_title": "21e dimanche après la Pentecôte — dimanche des Pères du VIIe Concile œcuménique",
+      "note": "L’Évangile correspond à la fiche « Le Semeur ». Le calendrier officiel indique Galates 2, 16-20 pour le dimanche et Tite 3, 8-15 pour les saints Pères ; cette seconde épître est celle qui figure actuellement dans la fiche."
+    },
     { "date": "2026-10-18", "key": "320_after_pentecost_20" },
     { "date": "2026-10-25", "key": "323_after_pentecost_23" },
     { "date": "2026-11-01", "key": "322_after_pentecost_22" },
