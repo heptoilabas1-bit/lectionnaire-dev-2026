@@ -567,7 +567,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const populateSundaySelect = (query = '') => {
         const select = document.getElementById('sunday-select');
         const status = document.getElementById('sunday-search-status');
-        if (!select) return;
+        if (!select) return [];
 
         const sortedKeys = Object.keys(liturgicalList).sort();
         const normalizedQuery = normalizeSearch(query.trim());
@@ -602,6 +602,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (status) status.textContent = normalizedQuery
             ? `${matchingKeys.length} résultat${matchingKeys.length > 1 ? 's' : ''}`
             : `${matchingKeys.length} péricopes classées par période`;
+        return matchingKeys;
     };
 
     const populateCalendarSelect = async () => {
@@ -733,7 +734,18 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     const sundaySearch = document.getElementById('sunday-search');
     if (sundaySearch) {
-        sundaySearch.addEventListener('input', event => populateSundaySelect(event.target.value));
+        sundaySearch.addEventListener('input', event => {
+            const query = event.target.value;
+            const matchingKeys = populateSundaySelect(query);
+            if (query.trim() && matchingKeys.length === 1) {
+                currentCalendarEntry = null;
+                const calendarSelect = document.getElementById('calendar-select');
+                const calendarReadingNote = document.getElementById('calendar-reading-note');
+                if (calendarSelect) calendarSelect.value = '';
+                if (calendarReadingNote) calendarReadingNote.hidden = true;
+                loadTextContext(matchingKeys[0], currentReadingType);
+            }
+        });
     }
 
     const btnGospel = document.getElementById('select-gospel');
