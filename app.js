@@ -132,8 +132,23 @@ document.addEventListener('DOMContentLoaded', () => {
         return draft;
     };
 
+    const updateHomilyProgress = () => {
+        const fields = Array.from(document.querySelectorAll('#homily-fields textarea'));
+        const completed = fields.filter(field => field.value.trim()).length;
+        const label = document.getElementById('homily-progress-label');
+        const bar = document.getElementById('homily-progress-bar');
+        if (label) label.textContent = `${completed} ${completed > 1 ? 'étapes renseignées' : 'étape renseignée'} sur ${fields.length}`;
+        if (bar) {
+            bar.setAttribute('aria-valuemax', String(fields.length));
+            bar.setAttribute('aria-valuenow', String(completed));
+            const fill = bar.querySelector('span');
+            if (fill) fill.style.width = fields.length ? `${(completed / fields.length) * 100}%` : '0%';
+        }
+    };
+
     const saveHomilyDraft = () => {
         localStorage.setItem(getHomilyStorageKey(), JSON.stringify(collectHomilyDraft()));
+        updateHomilyProgress();
         const status = document.getElementById('homily-save-status');
         if (status) {
             status.textContent = `Brouillon sauvegardé sur cet appareil à ${new Date().toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })}.`;
@@ -188,7 +203,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fields.innerHTML = '';
         template.forEach(section => {
             const wrapper = document.createElement('div');
-            wrapper.className = 'homily-field';
+            wrapper.className = section.id === 'oral' ? 'homily-field homily-field-final' : 'homily-field';
 
             const label = document.createElement('label');
             label.htmlFor = `homily-${section.id}`;
@@ -209,6 +224,7 @@ document.addEventListener('DOMContentLoaded', () => {
             wrapper.append(label, help, textarea);
             fields.appendChild(wrapper);
         });
+        updateHomilyProgress();
     };
 
     const buildHomilyExport = () => {
@@ -557,6 +573,36 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    const prepareHomilyOutline = document.getElementById('prepare-homily-outline');
+    if (prepareHomilyOutline) {
+        prepareHomilyOutline.addEventListener('click', () => {
+            const planningFields = Array.from(document.querySelectorAll('#homily-fields textarea:not([data-field-id="oral"])'))
+                .filter(field => field.value.trim());
+            const finalField = document.querySelector('#homily-fields textarea[data-field-id="oral"]');
+            const status = document.getElementById('homily-save-status');
+            if (!planningFields.length || !finalField) {
+                if (status) status.textContent = 'Renseignez d’abord au moins une étape de préparation.';
+                return;
+            }
+
+            const outline = planningFields
+                .map(field => `${field.dataset.fieldTitle}\n${field.value.trim()}`)
+                .join('\n\n');
+            const block = `TRAME DE RÉDACTION\n\n${outline}`;
+            if (!finalField.value.includes(block)) {
+                finalField.value = finalField.value.trim()
+                    ? `${finalField.value.trim()}\n\n${block}`
+                    : block;
+                saveHomilyDraft();
+                if (status) status.textContent = 'Le plan a été reporté dans la rédaction finale.';
+            } else if (status) {
+                status.textContent = 'Cette trame figure déjà dans la rédaction finale.';
+            }
+            finalField.focus({ preventScroll: true });
+            finalField.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        });
+    }
+
     const exportDoc = document.getElementById('export-homily-doc');
     if (exportDoc) {
         exportDoc.addEventListener('click', () => {
@@ -599,6 +645,7 @@ document.addEventListener('DOMContentLoaded', () => {
             document.querySelectorAll('#homily-fields textarea').forEach(field => {
                 field.value = '';
             });
+            updateHomilyProgress();
             const status = document.getElementById('homily-save-status');
             if (status) status.textContent = 'Brouillon effacé.';
         });
