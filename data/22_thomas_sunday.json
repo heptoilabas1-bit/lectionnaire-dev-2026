@@ -43,7 +43,7 @@
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "λέγει", "gloss": "dit" },
           { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Εἰρήνη", "gloss": "Paix" },
+          { "greek": "Εἰρήνη", "gloss": "Paix", "analyse": "La salutation « Paix à vous » revient trois fois dans la péricope. Elle en rythme les deux apparitions : la paix n'est pas un simple préambule, mais le premier don du Ressuscité à la communauté enfermée, puis à Thomas revenu parmi elle." },
           { "greek": "ὑμῖν.", "gloss": "à_vous" }
         ]
       },
@@ -146,7 +146,7 @@
         "interlinear": [
           { "greek": "Θωμᾶς", "gloss": "Thomas" },
           { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἷς", "gloss": "un" },
+          { "greek": "εἷς", "gloss": "un", "analyse": "Thomas est présenté comme « un des Douze ». Le récit ne dissout pas sa singularité dans le groupe : le Ressuscité revient aussi pour cette personne absente et permet que son chemin propre complète la communion apostolique." },
           { "greek": "ἐκ", "gloss": "de" },
           { "greek": "τῶν", "gloss": "les" },
           { "greek": "δώδεκα,", "gloss": "douze" },
@@ -227,7 +227,7 @@
           { "greek": "Καὶ", "gloss": "Et" },
           { "greek": "μεθ’", "gloss": "après" },
           { "greek": "ἡμέρας", "gloss": "jours" },
-          { "greek": "ὀκτὼ", "gloss": "huit" },
+          { "greek": "ὀκτὼ", "gloss": "huit", "analyse": "« Huit jours après » inscrit la rencontre de Thomas dans le rythme du premier jour renouvelé, celui de l'assemblée dominicale. Sa foi personnelle mûrit au milieu des disciples réunis, sans être remplacée par la foi du groupe." },
           { "greek": "πάλιν", "gloss": "de_nouveau" },
           { "greek": "ἦσαν", "gloss": "étaient" },
           { "greek": "ἔσω", "gloss": "à_l'intérieur" },
@@ -445,7 +445,7 @@
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "ἦσαν", "gloss": "ils_étaient" },
           { "greek": "ὁμοθυμαδὸν", "gloss": "d'un_commun_accord", "analyse": "Le terme *homothumadon* (d'une même âme, d'un même souffle) est fondamental dans les Actes. Il décrit la respiration du Royaume UN. L'Esprit Saint a guéri les apôtres de la dispersion de l'Ego : ils ne sont plus une collection d'individus isolés luttant pour le pouvoir (comme avant la Passion), mais un Corps uni de Sujets libres." },
-          { "greek": "ἅπαντες", "gloss": "tous" },
+          { "greek": "ἅπαντες", "gloss": "tous", "analyse": "Le texte rassemble les croyants dans un « tous » accordé. En écho à Thomas, cette totalité ecclésiale peut être comprise comme une unité ouverte : elle accueille des personnes singulières au lieu de les rendre interchangeables." },
           { "greek": "ἐν", "gloss": "dans" },
           { "greek": "τῇ", "gloss": "la" },
           { "greek": "Στοᾷ", "gloss": "portique" },
@@ -643,7 +643,7 @@
           { "greek": "τὰ", "gloss": "les" },
           { "greek": "ῥήματα", "gloss": "paroles/choses" },
           { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ζωῆς", "gloss": "vie" },
+          { "greek": "ζωῆς", "gloss": "vie", "analyse": "L'ange ne demande pas seulement aux apôtres de sortir : il les renvoie proclamer « les paroles de cette vie ». Le mot relie l'ouverture matérielle de la prison à la vie pascale que nul enfermement ne peut retenir." },
           { "greek": "ταύτης.", "gloss": "cette" }
         ]
       }
