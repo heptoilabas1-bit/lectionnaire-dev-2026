@@ -172,7 +172,7 @@
           { "greek": "ἔδωκεν", "gloss": "il_aurait_donné" },
           { "greek": "ἄν", "gloss": "(conditionnel)" },
           { "greek": "σοι", "gloss": "à_toi" },
-          { "greek": "ὕδωρ", "gloss": "de_l'eau" },
+          { "greek": "ὕδωρ", "gloss": "de_l'eau", "analyse": "Le mot « eau » traverse le dialogue et change progressivement de portée : eau du puits, eau demandée, don de Dieu, eau vive, puis source jaillissante. Cette répétition accompagne le déplacement de la femme d'une compréhension matérielle vers une réception spirituelle." },
           { "greek": "ζῶν.", "gloss": "vivante" }
         ]
       },
@@ -461,7 +461,7 @@
           { "greek": "αὐτῇ", "gloss": "à_elle" },
           { "greek": "ὁ", "gloss": "le" },
           { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Πίστευέ", "gloss": "Crois" },
+          { "greek": "Πίστευέ", "gloss": "Crois", "analyse": "L'impératif peut aussi s'entendre comme « fais-moi confiance ». Avant d'expliquer le lieu de l'adoration véritable, Jésus invite la Samaritaine à une relation personnelle. La confiance proposée précède ici la compréhension complète, sans supprimer sa liberté ni ses questions." },
           { "greek": "μοι,", "gloss": "moi" },
           { "greek": "γύναι,", "gloss": "femme" },
           { "greek": "ὅτι", "gloss": "que" },
@@ -535,7 +535,7 @@
           { "greek": "ὁ", "gloss": "le" },
           { "greek": "πατὴρ", "gloss": "Père" },
           { "greek": "τοιούτους", "gloss": "de_tels" },
-          { "greek": "ζητεῖ", "gloss": "cherche" },
+          { "greek": "ζητεῖ", "gloss": "cherche", "analyse": "Le Père « cherche » de tels adorateurs. Le mouvement ne vient donc pas seulement de l'être humain en quête de Dieu : Dieu lui-même prend l'initiative de la rencontre et appelle une réponse libre « en esprit et en vérité »." },
           { "greek": "τοὺς", "gloss": "ceux_qui" },
           { "greek": "προσκυνοῦντας", "gloss": "adorent" },
           { "greek": "αὐτόν.", "gloss": "lui" }
@@ -1017,7 +1017,7 @@
       }
     ],
     "homiletic_axes": [
-      { "title": "« Crois-moi » : la confiance avant l'explication", "content": "Jésus franchit les frontières en demandant à boire, puis invite la femme à lui faire confiance. Sa fatigue, sa soif et sa parole créent un face-à-face où la relation précède la démonstration.", "keywords": ["δός", "πιστεύομεν", "λαλῶν"] },
+      { "title": "« Crois-moi » : la confiance avant l'explication", "content": "Jésus franchit les frontières en demandant à boire, puis invite la femme à lui faire confiance. Sa fatigue, sa soif et sa parole créent un face-à-face où la relation précède la démonstration.", "keywords": ["δός", "Πίστευέ", "λαλῶν"] },
       { "title": "La vérité qui libère de la répétition", "content": "La parole sur les cinq maris dévoile sans humilier. Reconnue dans sa vérité, la femme peut abandonner sa cruche, signe du retour quotidien à une soif jamais apaisée.", "keywords": ["ἀληθῶς", "ἄνδρας", "ὑδρίαν"] },
       { "title": "De celle qui reçoit à celle qui témoigne", "content": "Venue seule pour puiser, la Samaritaine repart vers la ville. L'eau vive reçue devient parole partagée, puis chacun est conduit à une rencontre personnelle avec le Sauveur.", "keywords": ["ὕδωρ", "μαρτυρούσης", "σωτὴρ"] }
     ],
@@ -1098,7 +1098,7 @@
           { "greek": "οἵτινες", "gloss": "lesquels" },
           { "greek": "ἐλθόντες", "gloss": "étant_venus" },
           { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Ἀντιόχειαν", "gloss": "Antioche" },
+          { "greek": "Ἀντιόχειαν", "gloss": "Antioche", "analyse": "Le nom d'Antioche revient comme le lieu où la dispersion devient féconde : la Parole franchit une frontière, une communauté nouvelle se forme et les disciples reçoivent le nom de chrétiens. Le lieu devient ainsi un seuil missionnaire." },
           { "greek": "ἐλάλουν", "gloss": "parlaient" },
           { "greek": "καὶ", "gloss": "aussi" },
           { "greek": "πρὸς", "gloss": "vers" },
