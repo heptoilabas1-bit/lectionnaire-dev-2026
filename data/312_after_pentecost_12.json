@@ -3,552 +3,1901 @@
     "reference": "Matthieu 19, 16-26",
     "title": "Le Jeune Homme Riche : Le Salut, Don de Dieu",
     "interlinear": [
-  {
-    "verse_number": 16,
-    "translations": {
-      "segond": "Et voici, un homme s'approcha, et dit à Jésus : Maître, que dois-je faire de bon pour avoir la vie éternelle ?",
-      "darby": "Et voici, quelqu'un s'approchant, lui dit : Maître, quel bien ferai-je pour avoir la vie éternelle ?"
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "ἰδοὺ", "gloss": "voici" },
-      { "greek": "εἷς", "gloss": "un" },
-      { "greek": "προσελθὼν", "gloss": "s'étant_approché" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "εἶπεν·", "gloss": "dit" },
-      { "greek": "Διδάσκαλε,", "gloss": "Maître" },
-      { "greek": "τί", "gloss": "quel" },
-      { "greek": "ἀγαθὸν", "gloss": "bien/bon" },
-      { "greek": "ποιήσω", "gloss": "ferai-je" },
-      { "greek": "ἵνα", "gloss": "afin_que" },
-      { "greek": "σχῶ", "gloss": "j'aie/je_possède", "analyse": "Le verbe *schō* (du verbe *echō*, avoir, posséder). C'est le piège originel du Monde duel. Le jeune homme envisage la vie éternelle comme un objet extérieur qu'il pourrait acquérir et posséder par ses propres performances morales, plutôt que comme une communion à recevoir." },
-      { "greek": "ζωὴν", "gloss": "vie" },
-      { "greek": "αἰώνιον;", "gloss": "éternelle" }
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "Et voici, un homme s'approcha, et dit à Jésus : Maître, que dois-je faire de bon pour avoir la vie éternelle ?",
+          "darby": "Et voici, quelqu'un s'approchant, lui dit : Maître, quel bien ferai-je pour avoir la vie éternelle ?"
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un"
+          },
+          {
+            "greek": "προσελθὼν",
+            "gloss": "s'étant_approché"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Διδάσκαλε,",
+            "gloss": "Maître"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quel"
+          },
+          {
+            "greek": "ἀγαθὸν",
+            "gloss": "bien/bon"
+          },
+          {
+            "greek": "ποιήσω",
+            "gloss": "ferai-je"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "σχῶ",
+            "gloss": "j'aie/je_possède",
+            "annotation": {
+              "type": "racine",
+              "title": "Que dois-je faire pour avoir ?",
+              "content": "Approfondissement spirituel : Le verbe *schō* (du verbe *echō*, avoir, posséder). C'est le piège originel du Monde duel. Le jeune homme envisage la vie éternelle comme un objet extérieur qu'il pourrait acquérir et posséder par ses propres performances morales, plutôt que comme une communion à recevoir.",
+              "related": [
+                "ποιήσω",
+                "ἵνα",
+                "ζωὴν",
+                "αἰώνιον;"
+              ]
+            }
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "vie"
+          },
+          {
+            "greek": "αἰώνιον;",
+            "gloss": "éternelle"
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "translations": {
+          "segond": "Il lui répondit : Pourquoi m'interroges-tu sur ce qui est bon ? Un seul est le bon. Si tu veux entrer dans la vie, observe les commandments.",
+          "darby": "Et il lui dit : Pourquoi m'interroges-tu sur ce qui est bon ? Un seul est bon. Mais si tu veux entrer dans la vie, garde les commandments."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "Pourquoi"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐρωτᾷς",
+            "gloss": "interroges-tu"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀγαθοῦ;",
+            "gloss": "bon"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un_seul"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀγαθός·",
+            "gloss": "bon",
+            "annotation": {
+              "type": "theologie",
+              "title": "Dieu seul est bon",
+              "content": "Approfondissement spirituel : Le Christ brise la relativité du Monde duel où chacun définit 'son' bien. Il recadre le jeune homme sur la Source unique, le Royaume UN : Dieu seul est la bonté substantielle. Toute action n'est bonne que si elle est branchée sur cette Source.",
+              "related": [
+                "ἐστιν",
+                "ὁ",
+                "εἰ",
+                "δὲ"
+              ]
+            }
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "θέλεις",
+            "gloss": "tu_veux"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "vie"
+          },
+          {
+            "greek": "εἰσελθεῖν,",
+            "gloss": "entrer"
+          },
+          {
+            "greek": "τήρησον",
+            "gloss": "observe/garde"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐντολάς.",
+            "gloss": "commandements"
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "translations": {
+          "segond": "Lesquels ? lui dit-il. Et Jésus répondit : Tu ne tueras point ; tu ne commettras point d'adultère ; tu ne déroberas point ; tu ne diras point de faux témoignage ;",
+          "darby": "Il lui dit : Lesquels ? Et Jésus dit : Tu ne tueras point ; tu ne commettras point d'adultère ; tu ne déroberas point ; tu ne porteras point de faux témoignage ;"
+        },
+        "interlinear": [
+          {
+            "greek": "λέγει",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ποίας;",
+            "gloss": "Lesquels"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Τὸ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "Οὐ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "φονεύσεις,",
+            "gloss": "tu_tueras"
+          },
+          {
+            "greek": "Οὐ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "μοιχεύσεις,",
+            "gloss": "tu_commettras_adultère"
+          },
+          {
+            "greek": "Οὐ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "κλέψεις,",
+            "gloss": "tu_dérobéras"
+          },
+          {
+            "greek": "Οὐ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "ψευδομαρτυρήσεις,",
+            "gloss": "tu_diras_faux_témoignage"
+          }
+        ]
+      },
+      {
+        "verse_number": 19,
+        "translations": {
+          "segond": "honore ton père et ta mère ; et : tu aimeras ton prochain comme toi-même.",
+          "darby": "honore ton père et ta mère ; et : tu aimeras ton prochain comme toi-même."
+        },
+        "interlinear": [
+          {
+            "greek": "Τίμα",
+            "gloss": "Honore"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατέρα",
+            "gloss": "père"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "μητέρα,",
+            "gloss": "mère"
+          },
+          {
+            "greek": "καί·",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἀγαπήσεις",
+            "gloss": "Tu_aimeras"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πλησίον",
+            "gloss": "prochain"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "σεαυτόν.",
+            "gloss": "toi-même"
+          }
+        ]
+      },
+      {
+        "verse_number": 20,
+        "translations": {
+          "segond": "Le jeune homme lui dit : J'ai observé toutes ces choses ; que me manque-t-il encore ?",
+          "darby": "Le jeune homme lui dit : J'ai gardé toutes ces choses dès ma jeunesse ; que me manque-t-il encore ?"
+        },
+        "interlinear": [
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "νεανίσκος·",
+            "gloss": "jeune_homme"
+          },
+          {
+            "greek": "Πάντα",
+            "gloss": "Toutes"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "ἐφύλαξα·",
+            "gloss": "j'ai_observé/gardé"
+          },
+          {
+            "greek": "τί",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "encore"
+          },
+          {
+            "greek": "ὑστερῶ;",
+            "gloss": "manque-t-il",
+            "annotation": {
+              "type": "traduction",
+              "title": "Que me manque-t-il ?",
+              "content": "Approfondissement spirituel : Le verbe *hysterō* (manquer, être en arrière, être privé de). C'est l'aveu capital. L'Ego a coché toutes les cases juridiques de la Loi morale, mais il ressent un vide existentiel. L'accumulation des œuvres extérieures ne peut pas combler la soif de l'être profond.",
+              "related": [
+                "τί",
+                "ἔτι"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 21,
+        "translations": {
+          "segond": "Jésus lui dit : Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans le ciel. Puis viens, et suis-moi.",
+          "darby": "Jésus lui dit : Si tu veux être parfait, va, vends ce que tu as, et donne aux pauvres, et tu auras un trésor dans les cieux ; et viens, suis-moi."
+        },
+        "interlinear": [
+          {
+            "greek": "ἔφη",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "θέλεις",
+            "gloss": "tu_veux"
+          },
+          {
+            "greek": "τέλειος",
+            "gloss": "parfait/accompli",
+            "annotation": {
+              "type": "traduction",
+              "title": "Si tu veux être accompli",
+              "content": "Approfondissement spirituel : Le mot *teleios* (parvenu au but, achevé). Le Christ l'invite à quitter la simple conformité légale pour entrer dans l'accomplissement ontologique du Sujet. Cela exige d'abandonner les couches de protection matérielle.",
+              "related": [
+                "Εἰ",
+                "θέλεις",
+                "εἶναι,",
+                "ὕπαγε"
+              ]
+            }
+          },
+          {
+            "greek": "εἶναι,",
+            "gloss": "être"
+          },
+          {
+            "greek": "ὕπαγε",
+            "gloss": "va/retire-toi"
+          },
+          {
+            "greek": "πώλησόν",
+            "gloss": "vends"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὑπάρχοντα",
+            "gloss": "possessions/biens",
+            "annotation": {
+              "type": "traduction",
+              "title": "Ce que tu possèdes",
+              "content": "Approfondissement spirituel : Du verbe *hyparchō* (ce qui est en dessous, les fondations). Ce que le jeune homme possède (*yparchonta*), c'est ce qui fonde son identité sociale et sa sécurité dans le Monde duel. Le Christ lui demande de liquider ses fausses fondations pour s'appuyer uniquement sur l'Incréé.",
+              "related": [
+                "σου",
+                "τὰ",
+                "καὶ",
+                "δὸς"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δὸς",
+            "gloss": "donne"
+          },
+          {
+            "greek": "πτωχοῖς,",
+            "gloss": "aux_pauvres"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἕξεις",
+            "gloss": "tu_auras"
+          },
+          {
+            "greek": "θησαυρὸν",
+            "gloss": "un_trésor"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "οὐρανοῖς,",
+            "gloss": "les_cieux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δεῦρο",
+            "gloss": "viens"
+          },
+          {
+            "greek": "ἀκολούθει",
+            "gloss": "suis"
+          },
+          {
+            "greek": "μοι.",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 22,
+        "translations": {
+          "segond": "Après avoir entendu ces paroles, le jeune homme s'en alla triste ; car il avait de grands biens.",
+          "darby": "Et le jeune homme, ayant entendu cette parole, s'en alla tout triste, car il avait de grands biens."
+        },
+        "interlinear": [
+          {
+            "greek": "ἀκούσας",
+            "gloss": "Ayant_entendu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "νεανίσκος",
+            "gloss": "jeune_homme"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "parole"
+          },
+          {
+            "greek": "ἀπῆλθεν",
+            "gloss": "il_s'en_alla"
+          },
+          {
+            "greek": "λυπούμενος·",
+            "gloss": "étant_attristé",
+            "annotation": {
+              "type": "traduction",
+              "title": "Il partit attristé",
+              "content": "Approfondissement spirituel : La *lypē* (la tristesse). C'est le deuil de l'Ego face à la kénose. Appelé à la liberté du Royaume, il préfère l'esclavage de ses possessions. L'avoir l'emporte sur l'être.",
+              "related": [
+                "λόγον",
+                "ἀπῆλθεν",
+                "ἦν",
+                "γὰρ"
+              ]
+            }
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "il_était"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἔχων",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "κτήματα",
+            "gloss": "des_acquisitions/possessions"
+          },
+          {
+            "greek": "πολλά.",
+            "gloss": "nombreuses"
+          }
+        ]
+      },
+      {
+        "verse_number": 23,
+        "translations": {
+          "segond": "Jésus dit à ses disciples : Je vous le dis en vérité, un riche entrera difficilement dans le royaume des cieux.",
+          "darby": "Et Jésus dit à ses disciples : En vérité, je vous dis qu'un riche entrera difficilement dans le royaume des cieux."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Le/—"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "μαθηταῖς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ἀμὴν",
+            "gloss": "En_vérité/Amen"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "πλούσιος",
+            "gloss": "un_riche"
+          },
+          {
+            "greek": "δυσκόλως",
+            "gloss": "difficilement/avec_peine",
+            "annotation": {
+              "type": "analyse",
+              "title": "La difficulté des richesses",
+              "content": "Approfondissement spirituel : Le mot *dyskolos* évoque ce qui est fastidieux, ce qui demande un effort laborieux. La richesse n'est pas un mal moral en soi, mais un poids ontologique. L'Ego s'alourdit de ses possessions (*yparchonta*) pour se rassurer, ce qui le rend incapable de la légèreté nécessaire pour s'élever dans le Royaume UN.",
+              "related": [
+                "ὅτι",
+                "πλούσιος",
+                "εἰσελεύσεται",
+                "εἰς"
+              ]
+            }
+          },
+          {
+            "greek": "εἰσελεύσεται",
+            "gloss": "entrera"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλείαν",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "οὐρανῶν.",
+            "gloss": "cieux"
+          }
+        ]
+      },
+      {
+        "verse_number": 24,
+        "translations": {
+          "segond": "Je vous le dis encore, il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume de Dieu.",
+          "darby": "Et je vous le dis encore : Il est plus facile qu'un chameau passe par le trou d'une aiguille, qu'un riche n'entre dans le royaume de Dieu."
+        },
+        "interlinear": [
+          {
+            "greek": "πάλιν",
+            "gloss": "De_nouveau/Encore"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "εὐκοπώτερόν",
+            "gloss": "plus_facile"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "κάμηλον",
+            "gloss": "un_chameau"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "τρυπήματος",
+            "gloss": "le_trou/la_perforation"
+          },
+          {
+            "greek": "ῥαφίδος",
+            "gloss": "d'une_aiguille",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le chas de l’aiguille",
+              "content": "Approfondissement spirituel : L'image du chameau et de l'aiguille est l'illustration la plus féroce de la kénose. Le Royaume n'est pas une simple amélioration du Monde duel, c'est une porte infiniment étroite. Le riche, boursouflé par son 'Avoir', ne peut physiologiquement pas passer la porte de l''Être' sans se dépouiller totalement de ses bagages.",
+              "related": [
+                "διὰ",
+                "τρυπήματος",
+                "διελθεῖν",
+                "ἢ"
+              ]
+            }
+          },
+          {
+            "greek": "διελθεῖν",
+            "gloss": "de_passer"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "que"
+          },
+          {
+            "greek": "πλούσιον",
+            "gloss": "un_riche"
+          },
+          {
+            "greek": "εἰσελθεῖν",
+            "gloss": "d'entrer"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλείαν",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ.",
+            "gloss": "Dieu"
+          }
+        ]
+      },
+      {
+        "verse_number": 25,
+        "translations": {
+          "segond": "Les disciples, ayant entendu cela, furent très étonnés, et dirent : Qui peut donc être sauvé ?",
+          "darby": "Et les disciples, l'ayant entendu, s'étonnèrent fort, disant : Qui donc peut être sauvé ?"
+        },
+        "interlinear": [
+          {
+            "greek": "ἀκούσαντες",
+            "gloss": "Ayant_entendu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "ἐξεπλήσσοντο",
+            "gloss": "furent_frappés_de_stupeur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Les disciples bouleversés",
+              "content": "Approfondissement spirituel : Le verbe *ekplesso* signifie être frappé hors de soi, stupéfaits. Les disciples pensent encore selon la matrice du Monde duel : la richesse était vue comme la bénédiction de Dieu récompensant les bons. Si même le riche 'béni' et moralement irréprochable ne peut pas entrer, tout leur système d'évaluation s'effondre.",
+              "related": [
+                "οἱ",
+                "μαθηταὶ",
+                "σφόδρα",
+                "λέγοντες·"
+              ]
+            }
+          },
+          {
+            "greek": "σφόδρα",
+            "gloss": "extrêmement/fort"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Τίς",
+            "gloss": "Qui"
+          },
+          {
+            "greek": "ἄρα",
+            "gloss": "donc"
+          },
+          {
+            "greek": "δύναται",
+            "gloss": "peut"
+          },
+          {
+            "greek": "σωθῆναι;",
+            "gloss": "être_sauvé"
+          }
+        ]
+      },
+      {
+        "verse_number": 26,
+        "translations": {
+          "segond": "Jésus les regarda, et leur dit : Aux hommes cela est impossible, mais à Dieu tout est possible.",
+          "darby": "Mais Jésus, les regardant, leur dit : Pour les hommes cela est impossible ; mais pour Dieu toutes choses sont possibles."
+        },
+        "interlinear": [
+          {
+            "greek": "ἐμβλέψας",
+            "gloss": "Ayant_regardé_fixement"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Παρὰ",
+            "gloss": "Auprès_de/Pour"
+          },
+          {
+            "greek": "ἀνθρώποις",
+            "gloss": "les_hommes"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ἀδύνατόν",
+            "gloss": "impossible/sans_puissance",
+            "annotation": {
+              "type": "racine",
+              "title": "Impossible aux hommes",
+              "content": "Approfondissement spirituel : Le mot *adynaton* (sans *dynamis*). La guérison du Sujet et l'entrée dans le Royaume UN ne sont pas des performances de la volonté humaine. Par lui-même, l'Ego n'a pas la *dynamis* de se sauver ou de lâcher prise sur le monde.",
+              "related": [
+                "ἀνθρώποις",
+                "τοῦτο",
+                "ἐστιν,",
+                "παρὰ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐστιν,",
+            "gloss": "est"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_de/pour"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "θεῷ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "δυνατά.",
+            "gloss": "possibles/puissantes",
+            "annotation": {
+              "type": "repetition",
+              "title": "Possible à Dieu",
+              "content": "Approfondissement spirituel : Le mot *dynata* (rendu possible par la *dynamis*). Ce qui est structurellement impossible à l'Ego horizontal (passer par le chas de l'aiguille) devient une réalité ontologique lorsque la pure Énergie incréée (*dynamis*) traverse le Sujet et le soulève.",
+              "related": [
+                "θεῷ",
+                "πάντα"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 26 - ἀδύνατόν / δυνατά : Segond et Darby traduisent par 'impossible' et 'possible'. Si c'est exact en français moderne, on perd la racine *dynamis* (puissance/énergie). Le texte oppose ce qui est 'sans-Énergie' (l'homme livré à sa propre force) à ce qui est 'rempli d'Énergie' (l'action divine). Ce n'est pas qu'une question de probabilité, c'est une question de source d'énergie.\n\nAnalyse spirituelle :\nCette rencontre est le diagnostic absolu de la maladie de l'Ego : la possession. Le jeune homme riche coche toutes les cases de la morale du 'Monde duel'. Il n'a tué personne, il honore ses parents. Mais il approche le divin avec une logique d'accumulation : 'Que dois-je faire pour avoir (*schō*) ?' \n\nLe Christ lui révèle que la vie éternelle n'est pas un objet à posséder, mais un État d'Être à recevoir. Et pour recevoir, il faut vider ses mains. La demande est radicale : vends ce qui fonde ta sécurité (*yparchonta*). Le jeune homme part triste, car son Être est fusionné avec son Avoir. S'il lâche sa richesse, il a l'impression de mourir.\n\nL'image du chameau et du trou de l'aiguille terrifie les disciples. Ils comprennent que le Royaume UN exige une kénose (un dépouillement) tellement extrême qu'elle est *adynaton* (impossible) pour l'homme naturel. La conclusion du Christ est pourtant lumineuse : le Salut n'est pas une compétence humaine. Seule la *dynamis* de Dieu peut faire fondre la dureté de l'Ego et le faire passer par la porte étroite de la communion vraie.\n\nComplément de lecture : le dialogue passe du « faire » et de l’« avoir » à l’appel personnel : « viens, suis-moi ». Jésus regarde la fidélité morale du jeune homme sans la mépriser, mais révèle le lien qui le retient. La conclusion replace le salut dans l’action de Dieu, et non dans une héroïsation de la pauvreté.",
+    "homiletic_axes": [
+      {
+        "title": "Du faire et de l’avoir à la relation",
+        "content": "Le jeune homme demande quelle œuvre accomplir pour avoir la vie ; Jésus le conduit finalement vers une relation personnelle : venir et le suivre.",
+        "keywords": [
+          "ποιήσω",
+          "σχῶ",
+          "δεῦρο",
+          "ἀκολούθει"
+        ]
+      },
+      {
+        "title": "Le manque au cœur de l’abondance",
+        "content": "Malgré son observance et ses nombreux biens, le jeune homme demande encore ce qui lui manque. Sa tristesse révèle le lien difficile à desserrer.",
+        "keywords": [
+          "ἐφύλαξα·",
+          "ὑστερῶ;",
+          "κτήματα",
+          "λυπούμενος·"
+        ]
+      },
+      {
+        "title": "Impossible aux hommes, possible à Dieu",
+        "content": "L’image du chameau et de l’aiguille défait toute autosuffisance. Jésus ne remplace pas une performance morale par une performance ascétique.",
+        "keywords": [
+          "ἀδύνατόν",
+          "ἀνθρώποις",
+          "θεῷ",
+          "δυνατά."
+        ]
+      },
+      {
+        "title": "Recevoir, transmettre et tenir debout",
+        "content": "Paul transmet ce qu’il a lui-même reçu. La résurrection annoncée devient l’Évangile dans lequel la communauté se tient.",
+        "keywords": [
+          "παρέδωκα",
+          "παρέλαβον,",
+          "ἐγήγερται",
+          "ἑστήκατε,"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 12e dimanche : une parole, un geste, un contraste, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez d’abord la progression du récit évangélique, puis voyez comment l’Apôtre l’approfondit, la déplace ou en manifeste le fruit ecclésial. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète véritablement éclairée par les textes : peur, impuissance, dette, attachement, appropriation, division, besoin d’être saisi ou difficulté à recevoir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans imposer un modèle unique : crier vers le Christ, pardonner, renoncer à un droit, suivre, servir, veiller, partager ou se laisser reconstruire."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Ce que l’homme ne peut produire, la grâce l’accomplit",
+        "reference": "Matthieu 19, 16-26 ; 1 Corinthiens 15, 1-11",
+        "content": "Le jeune homme découvre l’impossibilité de posséder le salut par ses œuvres ; Paul confesse que son identité et son labeur viennent de la grâce. La réponse n’est pas l’inaction, mais une synergie : suivre le Christ et laisser la grâce agir avec nous.",
+        "connections": []
+      }
     ]
   },
-  {
-    "verse_number": 17,
-    "translations": {
-      "segond": "Il lui répondit : Pourquoi m'interroges-tu sur ce qui est bon ? Un seul est le bon. Si tu veux entrer dans la vie, observe les commandments.",
-      "darby": "Et il lui dit : Pourquoi m'interroges-tu sur ce qui est bon ? Un seul est bon. Mais si tu veux entrer dans la vie, garde les commandments."
-    },
+  "apostle": {
+    "reference": "1 Corinthiens 15, 1-11",
+    "title": "Le Kérygme de la Résurrection et la Grâce de l'Apostolat",
     "interlinear": [
-      { "greek": "ὁ", "gloss": "Il" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Τί", "gloss": "Pourquoi" },
-      { "greek": "με", "gloss": "moi" },
-      { "greek": "ἐρωτᾷς", "gloss": "interroges-tu" },
-      { "greek": "περὶ", "gloss": "sur" },
-      { "greek": "τοῦ", "gloss": "le" },
-      { "greek": "ἀγαθοῦ;", "gloss": "bon" },
-      { "greek": "εἷς", "gloss": "un_seul" },
-      { "greek": "ἐστιν", "gloss": "est" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "ἀγαθός·", "gloss": "bon", "analyse": "Le Christ brise la relativité du Monde duel où chacun définit 'son' bien. Il recadre le jeune homme sur la Source unique, le Royaume UN : Dieu seul est la bonté substantielle. Toute action n'est bonne que si elle est branchée sur cette Source." },
-      { "greek": "εἰ", "gloss": "si" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "θέλεις", "gloss": "tu_veux" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "ζωὴν", "gloss": "vie" },
-      { "greek": "εἰσελθεῖν,", "gloss": "entrer" },
-      { "greek": "τήρησον", "gloss": "observe/garde" },
-      { "greek": "τὰς", "gloss": "les" },
-      { "greek": "ἐντολάς.", "gloss": "commandements" }
-    ]
-  },
-  {
-    "verse_number": 18,
-    "translations": {
-      "segond": "Lesquels ? lui dit-il. Et Jésus répondit : Tu ne tueras point ; tu ne commettras point d'adultère ; tu ne déroberas point ; tu ne diras point de faux témoignage ;",
-      "darby": "Il lui dit : Lesquels ? Et Jésus dit : Tu ne tueras point ; tu ne commettras point d'adultère ; tu ne déroberas point ; tu ne porteras point de faux témoignage ;"
-    },
-    "interlinear": [
-      { "greek": "λέγει", "gloss": "Il_dit" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Ποίας;", "gloss": "Lesquels" },
-      { "greek": "ὁ", "gloss": "—" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "εἶπεν·", "gloss": "dit" },
-      { "greek": "Τὸ", "gloss": "Le" },
-      { "greek": "Οὐ", "gloss": "Ne...pas" },
-      { "greek": "φονεύσεις,", "gloss": "tu_tueras" },
-      { "greek": "Οὐ", "gloss": "Ne...pas" },
-      { "greek": "μοιχεύσεις,", "gloss": "tu_commettras_adultère" },
-      { "greek": "Οὐ", "gloss": "Ne...pas" },
-      { "greek": "κλέψεις,", "gloss": "tu_dérobéras" },
-      { "greek": "Οὐ", "gloss": "Ne...pas" },
-      { "greek": "ψευδομαρτυρήσεις,", "gloss": "tu_diras_faux_témoignage" }
-    ]
-  },
-  {
-    "verse_number": 19,
-    "translations": {
-      "segond": "honore ton père et ta mère ; et : tu aimeras ton prochain comme toi-même.",
-      "darby": "honore ton père et ta mère ; et : tu aimeras ton prochain comme toi-même."
-    },
-    "interlinear": [
-      { "greek": "Τίμα", "gloss": "Honore" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "πατέρα", "gloss": "père" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "μητέρα,", "gloss": "mère" },
-      { "greek": "καί·", "gloss": "et" },
-      { "greek": "Ἀγαπήσεις", "gloss": "Tu_aimeras" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "πλησίον", "gloss": "prochain" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "ὡς", "gloss": "comme" },
-      { "greek": "σεαυτόν.", "gloss": "toi-même" }
-    ]
-  },
-  {
-    "verse_number": 20,
-    "translations": {
-      "segond": "Le jeune homme lui dit : J'ai observé toutes ces choses ; que me manque-t-il encore ?",
-      "darby": "Le jeune homme lui dit : J'ai gardé toutes ces choses dès ma jeunesse ; que me manque-t-il encore ?"
-    },
-    "interlinear": [
-      { "greek": "λέγει", "gloss": "Dit" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "νεανίσκος·", "gloss": "jeune_homme" },
-      { "greek": "Πάντα", "gloss": "Toutes" },
-      { "greek": "ταῦτα", "gloss": "ces_choses" },
-      { "greek": "ἐφύλαξα·", "gloss": "j'ai_observé/gardé" },
-      { "greek": "τί", "gloss": "que" },
-      { "greek": "ἔτι", "gloss": "encore" },
-      { "greek": "ὑστερῶ;", "gloss": "manque-t-il", "analyse": "Le verbe *hysterō* (manquer, être en arrière, être privé de). C'est l'aveu capital. L'Ego a coché toutes les cases juridiques de la Loi morale, mais il ressent un vide existentiel. L'accumulation des œuvres extérieures ne peut pas combler la soif de l'être profond." }
-    ]
-  },
-  {
-    "verse_number": 21,
-    "translations": {
-      "segond": "Jésus lui dit : Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans le ciel. Puis viens, et suis-moi.",
-      "darby": "Jésus lui dit : Si tu veux être parfait, va, vends ce que tu as, et donne aux pauvres, et tu auras un trésor dans les cieux ; et viens, suis-moi."
-    },
-    "interlinear": [
-      { "greek": "ἔφη", "gloss": "Dit" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "ὁ", "gloss": "—" },
-      { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-      { "greek": "Εἰ", "gloss": "Si" },
-      { "greek": "θέλεις", "gloss": "tu_veux" },
-      { "greek": "τέλειος", "gloss": "parfait/accompli", "analyse": "Le mot *teleios* (parvenu au but, achevé). Le Christ l'invite à quitter la simple conformité légale pour entrer dans l'accomplissement ontologique du Sujet. Cela exige d'abandonner les couches de protection matérielle." },
-      { "greek": "εἶναι,", "gloss": "être" },
-      { "greek": "ὕπαγε", "gloss": "va/retire-toi" },
-      { "greek": "πώλησόν", "gloss": "vends" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "ὑπάρχοντα", "gloss": "possessions/biens", "analyse": "Du verbe *hyparchō* (ce qui est en dessous, les fondations). Ce que le jeune homme possède (*yparchonta*), c'est ce qui fonde son identité sociale et sa sécurité dans le Monde duel. Le Christ lui demande de liquider ses fausses fondations pour s'appuyer uniquement sur l'Incréé." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "δὸς", "gloss": "donne" },
-      { "greek": "πτωχοῖς,", "gloss": "aux_pauvres" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἕξεις", "gloss": "tu_auras" },
-      { "greek": "θησαυρὸν", "gloss": "un_trésor" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "οὐρανοῖς,", "gloss": "les_cieux" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "δεῦρο", "gloss": "viens" },
-      { "greek": "ἀκολούθει", "gloss": "suis" },
-      { "greek": "μοι.", "gloss": "moi" }
-    ]
-  },
-  {
-    "verse_number": 22,
-    "translations": {
-      "segond": "Après avoir entendu ces paroles, le jeune homme s'en alla triste ; car il avait de grands biens.",
-      "darby": "Et le jeune homme, ayant entendu cette parole, s'en alla tout triste, car il avait de grands biens."
-    },
-    "interlinear": [
-      { "greek": "ἀκούσας", "gloss": "Ayant_entendu" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "νεανίσκος", "gloss": "jeune_homme" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "λόγον", "gloss": "parole" },
-      { "greek": "ἀπῆλθεν", "gloss": "il_s'en_alla" },
-      { "greek": "λυπούμενος·", "gloss": "étant_attristé", "analyse": "La *lypē* (la tristesse). C'est le deuil de l'Ego face à la kénose. Appelé à la liberté du Royaume, il préfère l'esclavage de ses possessions. L'avoir l'emporte sur l'être." },
-      { "greek": "ἦν", "gloss": "il_était" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ἔχων", "gloss": "ayant" },
-      { "greek": "κτήματα", "gloss": "des_acquisitions/possessions" },
-      { "greek": "πολλά.", "gloss": "nombreuses" }
-    ]
-  },
-    {
-    "verse_number": 23,
-    "translations": {
-      "segond": "Jésus dit à ses disciples : Je vous le dis en vérité, un riche entrera difficilement dans le royaume des cieux.",
-      "darby": "Et Jésus dit à ses disciples : En vérité, je vous dis qu'un riche entrera difficilement dans le royaume des cieux."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "Le/—" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "τοῖς", "gloss": "aux" },
-      { "greek": "μαθηταῖς", "gloss": "disciples" },
-      { "greek": "αὐτοῦ·", "gloss": "de_lui" },
-      { "greek": "Ἀμὴν", "gloss": "En_vérité/Amen" },
-      { "greek": "λέγω", "gloss": "je_dis" },
-      { "greek": "ὑμῖν", "gloss": "à_vous" },
-      { "greek": "ὅτι", "gloss": "qu'" },
-      { "greek": "πλούσιος", "gloss": "un_riche" },
-      { "greek": "δυσκόλως", "gloss": "difficilement/avec_peine", "analyse": "Le mot *dyskolos* évoque ce qui est fastidieux, ce qui demande un effort laborieux. La richesse n'est pas un mal moral en soi, mais un poids ontologique. L'Ego s'alourdit de ses possessions (*yparchonta*) pour se rassurer, ce qui le rend incapable de la légèreté nécessaire pour s'élever dans le Royaume UN." },
-      { "greek": "εἰσελεύσεται", "gloss": "entrera" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὴν", "gloss": "le" },
-      { "greek": "βασιλείαν", "gloss": "royaume" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "οὐρανῶν.", "gloss": "cieux" }
-    ]
-  },
-  {
-    "verse_number": 24,
-    "translations": {
-      "segond": "Je vous le dis encore, il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume de Dieu.",
-      "darby": "Et je vous le dis encore : Il est plus facile qu'un chameau passe par le trou d'une aiguille, qu'un riche n'entre dans le royaume de Dieu."
-    },
-    "interlinear": [
-      { "greek": "πάλιν", "gloss": "De_nouveau/Encore" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "λέγω", "gloss": "je_dis" },
-      { "greek": "ὑμῖν,", "gloss": "à_vous" },
-      { "greek": "εὐκοπώτερόν", "gloss": "plus_facile" },
-      { "greek": "ἐστιν", "gloss": "il_est" },
-      { "greek": "κάμηλον", "gloss": "un_chameau" },
-      { "greek": "διὰ", "gloss": "à_travers" },
-      { "greek": "τρυπήματος", "gloss": "le_trou/la_perforation" },
-      { "greek": "ῥαφίδος", "gloss": "d'une_aiguille", "analyse": "L'image du chameau et de l'aiguille est l'illustration la plus féroce de la kénose. Le Royaume n'est pas une simple amélioration du Monde duel, c'est une porte infiniment étroite. Le riche, boursouflé par son 'Avoir', ne peut physiologiquement pas passer la porte de l''Être' sans se dépouiller totalement de ses bagages." },
-      { "greek": "διελθεῖν", "gloss": "de_passer" },
-      { "greek": "ἢ", "gloss": "que" },
-      { "greek": "πλούσιον", "gloss": "un_riche" },
-      { "greek": "εἰσελθεῖν", "gloss": "d'entrer" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὴν", "gloss": "le" },
-      { "greek": "βασιλείαν", "gloss": "royaume" },
-      { "greek": "τοῦ", "gloss": "de" },
-      { "greek": "θεοῦ.", "gloss": "Dieu" }
-    ]
-  },
-  {
-    "verse_number": 25,
-    "translations": {
-      "segond": "Les disciples, ayant entendu cela, furent très étonnés, et dirent : Qui peut donc être sauvé ?",
-      "darby": "Et les disciples, l'ayant entendu, s'étonnèrent fort, disant : Qui donc peut être sauvé ?"
-    },
-    "interlinear": [
-      { "greek": "ἀκούσαντες", "gloss": "Ayant_entendu" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "μαθηταὶ", "gloss": "disciples" },
-      { "greek": "ἐξεπλήσσοντο", "gloss": "furent_frappés_de_stupeur", "analyse": "Le verbe *ekplesso* signifie être frappé hors de soi, stupéfaits. Les disciples pensent encore selon la matrice du Monde duel : la richesse était vue comme la bénédiction de Dieu récompensant les bons. Si même le riche 'béni' et moralement irréprochable ne peut pas entrer, tout leur système d'évaluation s'effondre." },
-      { "greek": "σφόδρα", "gloss": "extrêmement/fort" },
-      { "greek": "λέγοντες·", "gloss": "disant" },
-      { "greek": "Τίς", "gloss": "Qui" },
-      { "greek": "ἄρα", "gloss": "donc" },
-      { "greek": "δύναται", "gloss": "peut" },
-      { "greek": "σωθῆναι;", "gloss": "être_sauvé" }
-    ]
-  },
-  {
-    "verse_number": 26,
-    "translations": {
-      "segond": "Jésus les regarda, et leur dit : Aux hommes cela est impossible, mais à Dieu tout est possible.",
-      "darby": "Mais Jésus, les regardant, leur dit : Pour les hommes cela est impossible ; mais pour Dieu toutes choses sont possibles."
-    },
-    "interlinear": [
-      { "greek": "ἐμβλέψας", "gloss": "Ayant_regardé_fixement" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-      { "greek": "Παρὰ", "gloss": "Auprès_de/Pour" },
-      { "greek": "ἀνθρώποις", "gloss": "les_hommes" },
-      { "greek": "τοῦτο", "gloss": "ceci" },
-      { "greek": "ἀδύνατόν", "gloss": "impossible/sans_puissance", "analyse": "Le mot *adynaton* (sans *dynamis*). La guérison du Sujet et l'entrée dans le Royaume UN ne sont pas des performances de la volonté humaine. Par lui-même, l'Ego n'a pas la *dynamis* de se sauver ou de lâcher prise sur le monde." },
-      { "greek": "ἐστιν,", "gloss": "est" },
-      { "greek": "παρὰ", "gloss": "auprès_de/pour" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "θεῷ", "gloss": "Dieu" },
-      { "greek": "πάντα", "gloss": "toutes_choses" },
-      { "greek": "δυνατά.", "gloss": "possibles/puissantes", "analyse": "Le mot *dynata* (rendu possible par la *dynamis*). Ce qui est structurellement impossible à l'Ego horizontal (passer par le chas de l'aiguille) devient une réalité ontologique lorsque la pure Énergie incréée (*dynamis*) traverse le Sujet et le soulève." }
-    ]
+      {
+        "verse_number": 1,
+        "translations": {
+          "segond": "Je vous rappelle, frères, l'Évangile que je vous ai annoncé, que vous avez reçu, dans lequel vous avez persévéré,",
+          "darby": "Or je vous fais savoir, frères, l'évangile que je vous ai annoncé, que vous avez aussi reçu, et dans lequel vous êtes fermes,"
+        },
+        "interlinear": [
+          {
+            "greek": "Γνωρίζω",
+            "gloss": "Je_fais_savoir/Je_rappelle"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ἀδελφοί,",
+            "gloss": "frères"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "εὐαγγέλιον",
+            "gloss": "évangile"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "que"
+          },
+          {
+            "greek": "εὐηγγελισάμην",
+            "gloss": "j'ai_annoncé"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "que"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "παρελάβετε,",
+            "gloss": "vous_avez_reçu"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἑστήκατε,",
+            "gloss": "vous_vous_tenez_debout",
+            "annotation": {
+              "type": "racine",
+              "title": "L’Évangile dans lequel vous tenez",
+              "content": "Approfondissement spirituel : Le verbe *histemi* au parfait (se tenir fermement debout). Le Monde duel est le lieu de la chute, de l'instabilité et de la fluctuation. Recevoir l'Évangile, c'est retrouver l'Axe vertical : le Sujet est redressé, il se tient debout dans la grâce, à l'image du Ressuscité.",
+              "related": [
+                "ᾧ",
+                "καὶ"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "translations": {
+          "segond": "et par lequel vous êtes sauvés, si vous le retenez tel que je vous l'ai annoncé ; autrement, vous auriez cru en vain.",
+          "darby": "et par lequel vous êtes sauvés, si vous le retenez tel que je vous l'ai annoncé, à moins que vous n'ayez cru en vain."
+        },
+        "interlinear": [
+          {
+            "greek": "δι’",
+            "gloss": "par"
+          },
+          {
+            "greek": "οὗ",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "σῴζεσθε,",
+            "gloss": "vous_êtes_sauvés"
+          },
+          {
+            "greek": "τίνι",
+            "gloss": "par_quelle"
+          },
+          {
+            "greek": "λόγῳ",
+            "gloss": "parole"
+          },
+          {
+            "greek": "εὐηγγελισάμην",
+            "gloss": "j'ai_annoncé"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "κατέχετε,",
+            "gloss": "vous_retenez"
+          },
+          {
+            "greek": "ἐκτὸς",
+            "gloss": "à_moins"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "εἰκῇ",
+            "gloss": "en_vain/sans_raison"
+          },
+          {
+            "greek": "ἐπιστεύσατε.",
+            "gloss": "vous_avez_cru"
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "translations": {
+          "segond": "Je vous ai enseigné avant tout, comme je l'avais aussi reçu, que Christ est mort pour nos péchés, selon les Écritures ;",
+          "darby": "Car je vous ai communiqué avant toutes choses ce que j'ai aussi reçu, que Christ est mort pour nos péchés, selon les écritures ;"
+        },
+        "interlinear": [
+          {
+            "greek": "παρέδωκα",
+            "gloss": "J'ai_transmis"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "πρώτοις,",
+            "gloss": "premiers/avant_tout"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "παρέλαβον,",
+            "gloss": "j'ai_reçu"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ἀπέθανεν",
+            "gloss": "est_mort"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁμαρτιῶν",
+            "gloss": "péchés",
+            "annotation": {
+              "type": "analyse",
+              "title": "Mort pour nos péchés",
+              "content": "Ἁμαρτία signifie péché. On rapproche souvent le mot de l’idée de manquer le but ; cette image peut aider, mais Paul affirme ici d’abord le contenu transmis : le Christ est mort pour nos péchés selon les Écritures.",
+              "related": [
+                "ὑπὲρ",
+                "τῶν",
+                "ἡμῶν",
+                "κατὰ"
+              ]
+            }
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "γραφάς,",
+            "gloss": "écritures"
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "translations": {
+          "segond": "qu'il a été enseveli, et qu'il est ressuscité le troisième jour, selon les Écritures ;",
+          "darby": "et qu'il a été enseveli, et qu'il a été ressuscité le troisième jour, selon les écritures ;"
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ἐτάφη,",
+            "gloss": "il_a_été_enseveli"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ἐγήγερται",
+            "gloss": "il_a_été_réveillé/ressuscité",
+            "annotation": {
+              "type": "theologie",
+              "title": "Il est ressuscité et le demeure",
+              "content": "Le parfait passif ἐγήγερται signifie : « il a été ressuscité » et demeure vivant. La forme souligne un événement accompli dont l’effet demeure ; l’attribution au Père appartient à la confession néotestamentaire plus large, non à la seule grammaire de ce verbe.",
+              "related": [
+                "καὶ",
+                "ὅτι",
+                "τῇ",
+                "ἡμέρᾳ"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἡμέρᾳ",
+            "gloss": "jour"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τρίτῃ",
+            "gloss": "troisième"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "γραφάς,",
+            "gloss": "écritures"
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "translations": {
+          "segond": "et qu'il est apparu à Céphas, puis aux douze.",
+          "darby": "et qu'il a été vu de Céphas, puis des douze."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ὤφθη",
+            "gloss": "il_est_apparu/a_été_vu"
+          },
+          {
+            "greek": "Κηφᾷ,",
+            "gloss": "à_Céphas"
+          },
+          {
+            "greek": "εἶτα",
+            "gloss": "ensuite"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "δώδεκα·",
+            "gloss": "douze"
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "translations": {
+          "segond": "Ensuite, il est apparu à plus de cinq cents frères à la fois, de qui la plupart sont encore vivants, et dont quelques-uns sont morts.",
+          "darby": "Ensuite il a été vu de plus de cinq cents frères à la fois, dont la plupart sont demeurés en vie jusqu'à présent, mais quelques-uns aussi s'en sont endormis."
+        },
+        "interlinear": [
+          {
+            "greek": "ἔπειτα",
+            "gloss": "Ensuite"
+          },
+          {
+            "greek": "ὤφθη",
+            "gloss": "il_est_apparu"
+          },
+          {
+            "greek": "ἐπάνω",
+            "gloss": "à_plus_de"
+          },
+          {
+            "greek": "πεντακοσίοις",
+            "gloss": "cinq_cents"
+          },
+          {
+            "greek": "ἀδελφοῖς",
+            "gloss": "frères"
+          },
+          {
+            "greek": "ἐφάπαξ,",
+            "gloss": "à_la_fois"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ὧν",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πλείονες",
+            "gloss": "plus_nombreux"
+          },
+          {
+            "greek": "μένουσιν",
+            "gloss": "demeurent/restent"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "ἄρτι,",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "τινὲς",
+            "gloss": "quelques-uns"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐκοιμήθησαν·",
+            "gloss": "se_sont_endormis",
+            "annotation": {
+              "type": "traduction",
+              "title": "Ceux qui se sont endormis",
+              "content": "Approfondissement spirituel : Le verbe *koimao* (s'endormir). La vision chrétienne refuse la terreur de la mort biologique propre au Monde duel. Dans la perspective de la Résurrection, la mort physique n'est plus un anéantissement de l'être, c'est un sommeil transitoire dans l'attente du réveil (*egeiro*).",
+              "related": [
+                "τινὲς",
+                "δὲ"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "translations": {
+          "segond": "Ensuite, il est apparu à Jacques, puis à tous les apôtres ;",
+          "darby": "Ensuite il a été vu de Jacques, puis de tous les apôtres ;"
+        },
+        "interlinear": [
+          {
+            "greek": "ἔπειτα",
+            "gloss": "Ensuite"
+          },
+          {
+            "greek": "ὤφθη",
+            "gloss": "il_est_apparu/fut_vu"
+          },
+          {
+            "greek": "Ἰακώβῳ,",
+            "gloss": "à_Jacques"
+          },
+          {
+            "greek": "εἶτα",
+            "gloss": "puis"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἀποστόλοις",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "πᾶσιν·",
+            "gloss": "tous"
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "translations": {
+          "segond": "Après eux tous, il m'est aussi apparu à moi, comme à l'avorton ;",
+          "darby": "et, après tous, il a été vu de moi aussi, comme de l'avorton."
+        },
+        "interlinear": [
+          {
+            "greek": "ἔσχατον",
+            "gloss": "en_dernier"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "de_tous"
+          },
+          {
+            "greek": "ὡσπερεὶ",
+            "gloss": "comme_si/comme"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἐκτρώματι",
+            "gloss": "avorton",
+            "annotation": {
+              "type": "traduction",
+              "title": "Comme à l’enfant né hors terme",
+              "content": "Approfondissement spirituel : Le mot *ektroma* désigne un enfant né avant terme, un avorton non viable par ses propres forces. C'est l'expression la plus violente de la kénose de Paul. Il brise l'image de l'apôtre glorieux du Monde duel : il avoue qu'il n'avait aucune disposition naturelle pour cette vie, qu'il est un pur produit de la résurrection divine.",
+              "related": [
+                "ὡσπερεὶ",
+                "τῷ",
+                "ὤφθη",
+                "κἀμοί."
+              ]
+            }
+          },
+          {
+            "greek": "ὤφθη",
+            "gloss": "il_est_apparu"
+          },
+          {
+            "greek": "κἀμοί.",
+            "gloss": "aussi_à_moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "translations": {
+          "segond": "car je suis le moindre des apôtres, je ne suis pas digne d'être appelé apôtre, parce que j'ai persécuté l'Église de Dieu.",
+          "darby": "Car moi, je suis le moindre des apôtres, qui ne suis pas digne d'être appelé apôtre, parce que j'ai persécuté l'assemblée de Dieu ;"
+        },
+        "interlinear": [
+          {
+            "greek": "Ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "γάρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "εἰμι",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐλάχιστος",
+            "gloss": "moindre/plus_petit",
+            "annotation": {
+              "type": "traduction",
+              "title": "Le plus petit des apôtres",
+              "content": "Approfondissement spirituel : Le mot *elachistos* est le superlatif de petit. Paul opère un renversement total des valeurs horizontales. Dans le Monde duel, on cache ses fautes pour préserver son statut. Ici, le Sujet apostolique expose sa blessure passée (persécuteur) pour que seule la puissance du Royaume soit magnifiée.",
+              "related": [
+                "εἰμι",
+                "ὁ",
+                "τῶν",
+                "ἀποστόλων,"
+              ]
+            }
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀποστόλων,",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ἱκανὸς",
+            "gloss": "suffisant/digne"
+          },
+          {
+            "greek": "καλεῖσθαι",
+            "gloss": "d'être_appelé"
+          },
+          {
+            "greek": "ἀπόστολος,",
+            "gloss": "apôtre"
+          },
+          {
+            "greek": "διότι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "ἐδίωξα",
+            "gloss": "j'ai_persécuté"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἐκκλησίαν",
+            "gloss": "Église/assemblée"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ·",
+            "gloss": "Dieu"
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "Par la grâce de Dieu je suis ce que je suis, et sa grâce envers moi n'a pas été vaine ; loin de là, j'ai travaillé plus qu'eux tous, non pas moi toutefois, mais la grâce de Dieu qui est avec moi.",
+          "darby": "mais par la grâce de Dieu, je suis ce que je suis ; et sa grâce envers moi n'a pas été vaine, mais j'ai travaillé beaucoup plus qu'eux tous, non pas moi toutefois, mais la grâce de Dieu qui est avec moi."
+        },
+        "interlinear": [
+          {
+            "greek": "χάριτι",
+            "gloss": "Par_la_grâce"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "εἰμι",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ὅ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "εἰμι,",
+            "gloss": "je_suis",
+            "annotation": {
+              "type": "theologie",
+              "title": "Ce que je suis par la grâce",
+              "content": "Paul ne définit plus son identité par son passé de persécuteur ni par une performance présente : « par la grâce de Dieu, je suis ce que je suis ». Cette identité reçue ouvre pourtant un véritable labeur, accompli avec la grâce.",
+              "related": [
+                "εἰμι",
+                "ὅ",
+                "καὶ",
+                "ἡ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "celle"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "envers"
+          },
+          {
+            "greek": "ἐμὲ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "κενὴ",
+            "gloss": "vaine/vide"
+          },
+          {
+            "greek": "ἐγενήθη,",
+            "gloss": "a_été"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "περισσότερον",
+            "gloss": "plus_abondamment"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "tous"
+          },
+          {
+            "greek": "ἐκοπίασα,",
+            "gloss": "j'ai_travaillé/peiné",
+            "annotation": {
+              "type": "traduction",
+              "title": "La grâce à l’œuvre dans le labeur",
+              "content": "Approfondissement spirituel : Du verbe *kopiao* (travailler jusqu'à l'épuisement). Ce labeur n'est pas un activisme névrotique de l'Ego pour accumuler des mérites, mais le déploiement de la synergie : l'Énergie divine traverse le Sujet évidé et produit une capacité d'action surhumaine.",
+              "related": [
+                "αὐτῶν",
+                "πάντων",
+                "οὐκ",
+                "ἐγὼ"
+              ]
+            }
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "toutefois"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ἐμοί.",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Ainsi donc, que ce soit moi, que ce soit eux, voilà ce que nous prêchons, et voilà ce que vous avez cru.",
+          "darby": "Soit donc moi, soit eux, nous prêchons ainsi, et vous avez cru ainsi."
+        },
+        "interlinear": [
+          {
+            "greek": "εἴτε",
+            "gloss": "Soit"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "εἴτε",
+            "gloss": "soit"
+          },
+          {
+            "greek": "ἐκεῖνοι,",
+            "gloss": "eux"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "κηρύσσομεν",
+            "gloss": "nous_prêchons"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "ἐπιστεύσατε.",
+            "gloss": "vous_avez_cru"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 3 - παρέδωκα / παρέλαβον (paredōka / parelabon) : 'Je vous ai enseigné (transmis) ce que j'ai reçu'. L'utilisation conjointe de ces deux verbes fonde le concept même de la Tradition orthodoxe (*Paradosis*). Paul n'agit pas en philosophe du 'Monde duel' qui inventerait un nouveau système intellectuel pour flatter son Ego ou captiver une foule. Il est un maillon vivant. Le Sujet véritable ne s'approprie pas l'Incréé comme un 'Avoir' privé ; il le reçoit dans un acte de communion et le transmet dans un acte de charité.\n\n• Verset 8 - ὡσπερεὶ τῷ ἐκτρώματι (hōsperei tō ektrōmati) : Traduit par 'comme à l'avorton' (Segond). Ce mot d'une violence inouïe désigne un fœtus expulsé avant terme, un être non-formé. C'est l'anti-titre de gloire par excellence. Paul pulvérise ici son ancien Ego de Pharisien parfait. Pour rencontrer le Christ ressuscité, il a dû subir la destruction de son savoir 'en plein'. Se qualifier d'avorton, c'est assumer la Kénose absolue : reconnaître qu'en dehors de l'Énergie divine, notre être mondain est spirituellement mort-né.\n\n• Verset 10 - ἡ χάρις (...) οὐ κενὴ ἐγενήθη (hē charis [...] ou kenē egenēthē) : 'Sa grâce (...) n'a pas été vaine'. L'adjectif *kenos* signifie vide, creux, dénué de sens. La Grâce ne s'est pas perdue dans le vide, précisément parce que Paul s'est fait 'creux' pour l'accueillir. Le paradoxe de la vie en Christ éclate dans la suite du verset : 'j'ai travaillé plus qu'eux tous, non pas moi toutefois (οὐκ ἐγὼ), mais la grâce de Dieu'. Le Sujet est hyper-actif, mais il est devenu totalement transparent : ce n'est plus l'Ego qui agit, c'est l'Incréé qui opère à travers lui.\n\nAnalyse spirituelle et mystagogique :\n\nCe passage de l'Épître aux Corinthiens est le récit de la fondation du Sujet apostolique. Il résonne en opposition parfaite avec l'Évangile du Jeune Homme Riche lu ce même 12ème dimanche : là où le jeune homme s'en va tout triste parce qu'il refuse de lâcher ses possessions (son 'Avoir'), Paul témoigne de la puissance de la dépossession volontaire.\n\n1. L'Évangile comme événement, non comme idéologie\nPaul rappelle que le salut ne repose pas sur une morale ou l'Arbre de la Connaissance, mais sur un fait existentiel : la mort, l'ensevelissement et la Résurrection du Christ. Cet événement brise la matrice mortifère du Monde duel. L'homme n'est plus enfermé dans le cycle biologique, le tombeau a été ouvert. Le christianisme n'est pas l'adhésion à un club de pensée, c'est l'intégration organique à ce mystère pascal.\n\n2. La pédagogie de la vision spirituelle\nLa série d'apparitions énumérées par Paul (à Céphas, aux Douze, aux cinq cents frères...) insiste sur le verbe 'Il a été vu' (ὤφθη). Cette vision n'est pas une simple perception rétinienne, c'est l'ouverture de l'œil spirituel (le *Nous*). Le Ressuscité ne s'impose pas à la foule mondaine pour la forcer à croire par effraction : Il se manifeste à des Sujets préparés, tissant la première Église non pas comme une masse aveugle, mais comme une 'nuée de témoins' personnels.\n\n3. L'Avorton et la Grâce (Le triomphe de l'Arbre de Vie)\nLe sommet du texte est la confession intime de Paul. Son passé de persécuteur représente le paroxysme de la religion aliénée : la violence au nom de Dieu, l'Ego saturé de certitudes mortelles. La rencontre avec la Lumière incréée sur le chemin de Damas a terrassé cet Ego. En se nommant 'avorton', Paul révèle le secret de la sainteté : c'est uniquement lorsque l'homme renonce à son 'plein' mondain, lorsqu'il accepte sa propre misère et devient ce réceptacle 'en creux', que la Grâce (*Charis*) peut le transfigurer et le rendre infiniment fécond.\n\nComplément de lecture : Paul résume l’Évangile qu’il a reçu et transmis : mort du Christ pour nos péchés, ensevelissement, résurrection, apparitions. Son propre ministère unit humilité et labeur : « non pas moi, mais la grâce de Dieu avec moi », formulation décisive de la synergie.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 12e dimanche : une parole, un geste, un contraste, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez d’abord la progression du récit évangélique, puis voyez comment l’Apôtre l’approfondit, la déplace ou en manifeste le fruit ecclésial. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète véritablement éclairée par les textes : peur, impuissance, dette, attachement, appropriation, division, besoin d’être saisi ou difficulté à recevoir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans imposer un modèle unique : crier vers le Christ, pardonner, renoncer à un droit, suivre, servir, veiller, partager ou se laisser reconstruire."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
+      }
+    ],
+    "liturgical_echoes": []
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 26 - ἀδύνατόν / δυνατά : Segond et Darby traduisent par 'impossible' et 'possible'. Si c'est exact en français moderne, on perd la racine *dynamis* (puissance/énergie). Le texte oppose ce qui est 'sans-Énergie' (l'homme livré à sa propre force) à ce qui est 'rempli d'Énergie' (l'action divine). Ce n'est pas qu'une question de probabilité, c'est une question de source d'énergie.\n\nAnalyse spirituelle :\nCette rencontre est le diagnostic absolu de la maladie de l'Ego : la possession. Le jeune homme riche coche toutes les cases de la morale du 'Monde duel'. Il n'a tué personne, il honore ses parents. Mais il approche le divin avec une logique d'accumulation : 'Que dois-je faire pour avoir (*schō*) ?' \n\nLe Christ lui révèle que la vie éternelle n'est pas un objet à posséder, mais un État d'Être à recevoir. Et pour recevoir, il faut vider ses mains. La demande est radicale : vends ce qui fonde ta sécurité (*yparchonta*). Le jeune homme part triste, car son Être est fusionné avec son Avoir. S'il lâche sa richesse, il a l'impression de mourir.\n\nL'image du chameau et du trou de l'aiguille terrifie les disciples. Ils comprennent que le Royaume UN exige une kénose (un dépouillement) tellement extrême qu'elle est *adynaton* (impossible) pour l'homme naturel. La conclusion du Christ est pourtant lumineuse : le Salut n'est pas une compétence humaine. Seule la *dynamis* de Dieu peut faire fondre la dureté de l'Ego et le faire passer par la porte étroite de la communion vraie."
-},
-"apostle": {
-  "reference": "1 Corinthiens 15, 1-11",
-  "title": "Le Kérygme de la Résurrection et la Grâce de l'Apostolat",
-  "interlinear": [
-    {
-      "verse_number": 1,
-      "translations": {
-        "segond": "Je vous rappelle, frères, l'Évangile que je vous ai annoncé, que vous avez reçu, dans lequel vous avez persévéré,",
-        "darby": "Or je vous fais savoir, frères, l'évangile que je vous ai annoncé, que vous avez aussi reçu, et dans lequel vous êtes fermes,"
-      },
-      "interlinear": [
-        { "greek": "Γνωρίζω", "gloss": "Je_fais_savoir/Je_rappelle" },
-        { "greek": "δὲ", "gloss": "or" },
-        { "greek": "ὑμῖν,", "gloss": "à_vous" },
-        { "greek": "ἀδελφοί,", "gloss": "frères" },
-        { "greek": "τὸ", "gloss": "l'" },
-        { "greek": "εὐαγγέλιον", "gloss": "évangile" },
-        { "greek": "ὃ", "gloss": "que" },
-        { "greek": "εὐηγγελισάμην", "gloss": "j'ai_annoncé" },
-        { "greek": "ὑμῖν,", "gloss": "à_vous" },
-        { "greek": "ὃ", "gloss": "que" },
-        { "greek": "καὶ", "gloss": "aussi" },
-        { "greek": "παρελάβετε,", "gloss": "vous_avez_reçu" },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "ᾧ", "gloss": "lequel" },
-        { "greek": "καὶ", "gloss": "aussi" },
-        { "greek": "ἑστήκατε,", "gloss": "vous_vous_tenez_debout", "analyse": "Le verbe *histemi* au parfait (se tenir fermement debout). Le Monde duel est le lieu de la chute, de l'instabilité et de la fluctuation. Recevoir l'Évangile, c'est retrouver l'Axe vertical : le Sujet est redressé, il se tient debout dans la grâce, à l'image du Ressuscité." }
-      ]
-    },
-    {
-      "verse_number": 2,
-      "translations": {
-        "segond": "et par lequel vous êtes sauvés, si vous le retenez tel que je vous l'ai annoncé ; autrement, vous auriez cru en vain.",
-        "darby": "et par lequel vous êtes sauvés, si vous le retenez tel que je vous l'ai annoncé, à moins que vous n'ayez cru en vain."
-      },
-      "interlinear": [
-        { "greek": "δι’", "gloss": "par" },
-        { "greek": "οὗ", "gloss": "lequel" },
-        { "greek": "καὶ", "gloss": "aussi" },
-        { "greek": "σῴζεσθε,", "gloss": "vous_êtes_sauvés" },
-        { "greek": "τίνι", "gloss": "par_quelle" },
-        { "greek": "λόγῳ", "gloss": "parole" },
-        { "greek": "εὐηγγελισάμην", "gloss": "j'ai_annoncé" },
-        { "greek": "ὑμῖν", "gloss": "à_vous" },
-        { "greek": "εἰ", "gloss": "si" },
-        { "greek": "κατέχετε,", "gloss": "vous_retenez" },
-        { "greek": "ἐκτὸς", "gloss": "à_moins" },
-        { "greek": "εἰ", "gloss": "si" },
-        { "greek": "μὴ", "gloss": "non" },
-        { "greek": "εἰκῇ", "gloss": "en_vain/sans_raison" },
-        { "greek": "ἐπιστεύσατε.", "gloss": "vous_avez_cru" }
-      ]
-    },
-    {
-      "verse_number": 3,
-      "translations": {
-        "segond": "Je vous ai enseigné avant tout, comme je l'avais aussi reçu, que Christ est mort pour nos péchés, selon les Écritures ;",
-        "darby": "Car je vous ai communiqué avant toutes choses ce que j'ai aussi reçu, que Christ est mort pour nos péchés, selon les écritures ;"
-      },
-      "interlinear": [
-        { "greek": "παρέδωκα", "gloss": "J'ai_transmis" },
-        { "greek": "γὰρ", "gloss": "car" },
-        { "greek": "ὑμῖν", "gloss": "à_vous" },
-        { "greek": "ἐν", "gloss": "en" },
-        { "greek": "πρώτοις,", "gloss": "premiers/avant_tout" },
-        { "greek": "ὃ", "gloss": "ce_que" },
-        { "greek": "καὶ", "gloss": "aussi" },
-        { "greek": "παρέλαβον,", "gloss": "j'ai_reçu" },
-        { "greek": "ὅτι", "gloss": "que" },
-        { "greek": "Χριστὸς", "gloss": "Christ" },
-        { "greek": "ἀπέθανεν", "gloss": "est_mort" },
-        { "greek": "ὑπὲρ", "gloss": "pour" },
-        { "greek": "τῶν", "gloss": "les" },
-        { "greek": "ἁμαρτιῶν", "gloss": "péchés", "analyse": "Le péché (*hamartia*, rater la cible) n'est pas qu'une infraction légale, c'est la séparation ontologique qui enferme l'homme dans le Monde duel et la mort. Le Christ, par sa kénose absolue (la croix), absorbe cette séparation pour rétablir la circulation de l'Amour entre la création et le Père." },
-        { "greek": "ἡμῶν", "gloss": "de_nous" },
-        { "greek": "κατὰ", "gloss": "selon" },
-        { "greek": "τὰς", "gloss": "les" },
-        { "greek": "γραφάς,", "gloss": "écritures" }
-      ]
-    },
-    {
-      "verse_number": 4,
-      "translations": {
-        "segond": "qu'il a été enseveli, et qu'il est ressuscité le troisième jour, selon les Écritures ;",
-        "darby": "et qu'il a été enseveli, et qu'il a été ressuscité le troisième jour, selon les écritures ;"
-      },
-      "interlinear": [
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ὅτι", "gloss": "qu'" },
-        { "greek": "ἐτάφη,", "gloss": "il_a_été_enseveli" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ὅτι", "gloss": "qu'" },
-        { "greek": "ἐγήγερται", "gloss": "il_a_été_réveillé/ressuscité", "analyse": "Le verbe *egeiro* est au parfait passif. Ce temps est capital : il a été réveillé (action de l'Énergie du Père sur lui) et il demeure éternellement dans cet état de ressuscité. Ce n'est pas l'Ego qui survit à la mort par sa propre force, c'est le Sujet filial qui est ramené à la vie par la *dynamis* incréée." },
-        { "greek": "τῇ", "gloss": "le" },
-        { "greek": "ἡμέρᾳ", "gloss": "jour" },
-        { "greek": "τῇ", "gloss": "le" },
-        { "greek": "τρίτῃ", "gloss": "troisième" },
-        { "greek": "κατὰ", "gloss": "selon" },
-        { "greek": "τὰς", "gloss": "les" },
-        { "greek": "γραφάς,", "gloss": "écritures" }
-      ]
-    },
-    {
-      "verse_number": 5,
-      "translations": {
-        "segond": "et qu'il est apparu à Céphas, puis aux douze.",
-        "darby": "et qu'il a été vu de Céphas, puis des douze."
-      },
-      "interlinear": [
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ὅτι", "gloss": "qu'" },
-        { "greek": "ὤφθη", "gloss": "il_est_apparu/a_été_vu" },
-        { "greek": "Κηφᾷ,", "gloss": "à_Céphas" },
-        { "greek": "εἶτα", "gloss": "ensuite" },
-        { "greek": "τοῖς", "gloss": "aux" },
-        { "greek": "δώδεκα·", "gloss": "douze" }
-      ]
-    },
-    {
-      "verse_number": 6,
-      "translations": {
-        "segond": "Ensuite, il est apparu à plus de cinq cents frères à la fois, de qui la plupart sont encore vivants, et dont quelques-uns sont morts.",
-        "darby": "Ensuite il a été vu de plus de cinq cents frères à la fois, dont la plupart sont demeurés en vie jusqu'à présent, mais quelques-uns aussi s'en sont endormis."
-      },
-      "interlinear": [
-        { "greek": "ἔπειτα", "gloss": "Ensuite" },
-        { "greek": "ὤφθη", "gloss": "il_est_apparu" },
-        { "greek": "ἐπάνω", "gloss": "à_plus_de" },
-        { "greek": "πεντακοσίοις", "gloss": "cinq_cents" },
-        { "greek": "ἀδελφοῖς", "gloss": "frères" },
-        { "greek": "ἐφάπαξ,", "gloss": "à_la_fois" },
-        { "greek": "ἐξ", "gloss": "parmi" },
-        { "greek": "ὧν", "gloss": "lesquels" },
-        { "greek": "οἱ", "gloss": "les" },
-        { "greek": "πλείονες", "gloss": "plus_nombreux" },
-        { "greek": "μένουσιν", "gloss": "demeurent/restent" },
-        { "greek": "ἕως", "gloss": "jusqu'à" },
-        { "greek": "ἄρτι,", "gloss": "maintenant" },
-        { "greek": "τινὲς", "gloss": "quelques-uns" },
-        { "greek": "δὲ", "gloss": "or" },
-        { "greek": "ἐκοιμήθησαν·", "gloss": "se_sont_endormis", "analyse": "Le verbe *koimao* (s'endormir). La vision chrétienne refuse la terreur de la mort biologique propre au Monde duel. Dans la perspective de la Résurrection, la mort physique n'est plus un anéantissement de l'être, c'est un sommeil transitoire dans l'attente du réveil (*egeiro*)." }
-      ]
-    },
-{
-      "verse_number": 7,
-      "translations": {
-        "segond": "Ensuite, il est apparu à Jacques, puis à tous les apôtres ;",
-        "darby": "Ensuite il a été vu de Jacques, puis de tous les apôtres ;"
-      },
-      "interlinear": [
-        { "greek": "ἔπειτα", "gloss": "Ensuite" },
-        { "greek": "ὤφθη", "gloss": "il_est_apparu/fut_vu" },
-        { "greek": "Ἰακώβῳ,", "gloss": "à_Jacques" },
-        { "greek": "εἶτα", "gloss": "puis" },
-        { "greek": "τοῖς", "gloss": "aux" },
-        { "greek": "ἀποστόλοις", "gloss": "apôtres" },
-        { "greek": "πᾶσιν·", "gloss": "tous" }
-      ]
-    },
-    {
-      "verse_number": 8,
-      "translations": {
-        "segond": "Après eux tous, il m'est aussi apparu à moi, comme à l'avorton ;",
-        "darby": "et, après tous, il a été vu de moi aussi, comme de l'avorton."
-      },
-      "interlinear": [
-        { "greek": "ἔσχατον", "gloss": "en_dernier" },
-        { "greek": "δὲ", "gloss": "or/et" },
-        { "greek": "πάντων", "gloss": "de_tous" },
-        { "greek": "ὡσπερεὶ", "gloss": "comme_si/comme" },
-        { "greek": "τῷ", "gloss": "l'" },
-        { "greek": "ἐκτρώματι", "gloss": "avorton", "analyse": "Le mot *ektroma* désigne un enfant né avant terme, un avorton non viable par ses propres forces. C'est l'expression la plus violente de la kénose de Paul. Il brise l'image de l'apôtre glorieux du Monde duel : il avoue qu'il n'avait aucune disposition naturelle pour cette vie, qu'il est un pur produit de la résurrection divine." },
-        { "greek": "ὤφθη", "gloss": "il_est_apparu" },
-        { "greek": "κἀμοί.", "gloss": "aussi_à_moi" }
-      ]
-    },
-    {
-      "verse_number": 9,
-      "translations": {
-        "segond": "car je suis le moindre des apôtres, je ne suis pas digne d'être appelé apôtre, parce que j'ai persécuté l'Église de Dieu.",
-        "darby": "Car moi, je suis le moindre des apôtres, qui ne suis pas digne d'être appelé apôtre, parce que j'ai persécuté l'assemblée de Dieu ;"
-      },
-      "interlinear": [
-        { "greek": "Ἐγὼ", "gloss": "Moi" },
-        { "greek": "γάρ", "gloss": "car" },
-        { "greek": "εἰμι", "gloss": "je_suis" },
-        { "greek": "ὁ", "gloss": "le" },
-        { "greek": "ἐλάχιστος", "gloss": "moindre/plus_petit", "analyse": "Le mot *elachistos* est le superlatif de petit. Paul opère un renversement total des valeurs horizontales. Dans le Monde duel, on cache ses fautes pour préserver son statut. Ici, le Sujet apostolique expose sa blessure passée (persécuteur) pour que seule la puissance du Royaume soit magnifiée." },
-        { "greek": "τῶν", "gloss": "des" },
-        { "greek": "ἀποστόλων,", "gloss": "apôtres" },
-        { "greek": "ὃς", "gloss": "qui" },
-        { "greek": "οὐκ", "gloss": "ne...pas" },
-        { "greek": "εἰμὶ", "gloss": "je_suis" },
-        { "greek": "ἱκανὸς", "gloss": "suffisant/digne" },
-        { "greek": "καλεῖσθαι", "gloss": "d'être_appelé" },
-        { "greek": "ἀπόστολος,", "gloss": "apôtre" },
-        { "greek": "διότι", "gloss": "parce_que" },
-        { "greek": "ἐδίωξα", "gloss": "j'ai_persécuté" },
-        { "greek": "τὴν", "gloss": "l'" },
-        { "greek": "ἐκκλησίαν", "gloss": "Église/assemblée" },
-        { "greek": "τοῦ", "gloss": "de" },
-        { "greek": "θεοῦ·", "gloss": "Dieu" }
-      ]
-    },
-    {
-      "verse_number": 10,
-      "translations": {
-        "segond": "Par la grâce de Dieu je suis ce que je suis, et sa grâce envers moi n'a pas été vaine ; loin de là, j'ai travaillé plus qu'eux tous, non pas moi toutefois, mais la grâce de Dieu qui est avec moi.",
-        "darby": "mais par la grâce de Dieu, je suis ce que je suis ; et sa grâce envers moi n'a pas été vaine, mais j'ai travaillé beaucoup plus qu'eux tous, non pas moi toutefois, mais la grâce de Dieu qui est avec moi."
-      },
-      "interlinear": [
-        { "greek": "χάριτι", "gloss": "Par_la_grâce" },
-        { "greek": "δὲ", "gloss": "or/mais" },
-        { "greek": "θεοῦ", "gloss": "de_Dieu" },
-        { "greek": "εἰμι", "gloss": "je_suis" },
-        { "greek": "ὅ", "gloss": "ce_que" },
-        { "greek": "εἰμι,", "gloss": "je_suis", "analyse": "L'affirmation ontologique pure. Libéré des attentes, des jugements et des masques de l'Ego, Paul peut enfin prononcer son propre 'je suis' en écho au 'Je Suis' divin de l'Évangile. Il n'est plus défini par ses performances passées ou présentes, mais par sa relation à l'Incréé." },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ἡ", "gloss": "la" },
-        { "greek": "χάρις", "gloss": "grâce" },
-        { "greek": "αὐτοῦ", "gloss": "de_lui" },
-        { "greek": "ἡ", "gloss": "celle" },
-        { "greek": "εἰς", "gloss": "envers" },
-        { "greek": "ἐμὲ", "gloss": "moi" },
-        { "greek": "οὐ", "gloss": "ne...pas" },
-        { "greek": "κενὴ", "gloss": "vaine/vide" },
-        { "greek": "ἐγενήθη,", "gloss": "a_été" },
-        { "greek": "ἀλλὰ", "gloss": "mais" },
-        { "greek": "περισσότερον", "gloss": "plus_abondamment" },
-        { "greek": "αὐτῶν", "gloss": "d'eux" },
-        { "greek": "πάντων", "gloss": "tous" },
-        { "greek": "ἐκοπίασα,", "gloss": "j'ai_travaillé/peiné", "analyse": "Du verbe *kopiao* (travailler jusqu'à l'épuisement). Ce labeur n'est pas un activisme névrotique de l'Ego pour accumuler des mérites, mais le déploiement de la synergie : l'Énergie divine traverse le Sujet évidé et produit une capacité d'action surhumaine." },
-        { "greek": "οὐκ", "gloss": "non" },
-        { "greek": "ἐγὼ", "gloss": "moi" },
-        { "greek": "δὲ", "gloss": "toutefois" },
-        { "greek": "ἀλλὰ", "gloss": "mais" },
-        { "greek": "ἡ", "gloss": "la" },
-        { "greek": "χάρις", "gloss": "grâce" },
-        { "greek": "τοῦ", "gloss": "de" },
-        { "greek": "θεοῦ", "gloss": "Dieu" },
-        { "greek": "σὺν", "gloss": "avec" },
-        { "greek": "ἐμοί.", "gloss": "moi" }
-      ]
-    },
-    {
-      "verse_number": 11,
-      "translations": {
-        "segond": "Ainsi donc, que ce soit moi, que ce soit eux, voilà ce que nous prêchons, et voilà ce que vous avez cru.",
-        "darby": "Soit donc moi, soit eux, nous prêchons ainsi, et vous avez cru ainsi."
-      },
-      "interlinear": [
-        { "greek": "εἴτε", "gloss": "Soit" },
-        { "greek": "οὖν", "gloss": "donc" },
-        { "greek": "ἐγὼ", "gloss": "moi" },
-        { "greek": "εἴτε", "gloss": "soit" },
-        { "greek": "ἐκεῖνοι,", "gloss": "eux" },
-        { "greek": "οὕτως", "gloss": "ainsi" },
-        { "greek": "κηρύσσομεν", "gloss": "nous_prêchons" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "οὕτως", "gloss": "ainsi" },
-        { "greek": "ἐπιστεύσατε.", "gloss": "vous_avez_cru" }
-      ]
-    }
-  ],
-"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 3 - παρέδωκα / παρέλαβον (paredōka / parelabon) : 'Je vous ai enseigné (transmis) ce que j'ai reçu'. L'utilisation conjointe de ces deux verbes fonde le concept même de la Tradition orthodoxe (*Paradosis*). Paul n'agit pas en philosophe du 'Monde duel' qui inventerait un nouveau système intellectuel pour flatter son Ego ou captiver une foule. Il est un maillon vivant. Le Sujet véritable ne s'approprie pas l'Incréé comme un 'Avoir' privé ; il le reçoit dans un acte de communion et le transmet dans un acte de charité.\n\n• Verset 8 - ὡσπερεὶ τῷ ἐκτρώματι (hōsperei tō ektrōmati) : Traduit par 'comme à l'avorton' (Segond). Ce mot d'une violence inouïe désigne un fœtus expulsé avant terme, un être non-formé. C'est l'anti-titre de gloire par excellence. Paul pulvérise ici son ancien Ego de Pharisien parfait. Pour rencontrer le Christ ressuscité, il a dû subir la destruction de son savoir 'en plein'. Se qualifier d'avorton, c'est assumer la Kénose absolue : reconnaître qu'en dehors de l'Énergie divine, notre être mondain est spirituellement mort-né.\n\n• Verset 10 - ἡ χάρις (...) οὐ κενὴ ἐγενήθη (hē charis [...] ou kenē egenēthē) : 'Sa grâce (...) n'a pas été vaine'. L'adjectif *kenos* signifie vide, creux, dénué de sens. La Grâce ne s'est pas perdue dans le vide, précisément parce que Paul s'est fait 'creux' pour l'accueillir. Le paradoxe de la vie en Christ éclate dans la suite du verset : 'j'ai travaillé plus qu'eux tous, non pas moi toutefois (οὐκ ἐγὼ), mais la grâce de Dieu'. Le Sujet est hyper-actif, mais il est devenu totalement transparent : ce n'est plus l'Ego qui agit, c'est l'Incréé qui opère à travers lui.\n\nAnalyse spirituelle et mystagogique :\n\nCe passage de l'Épître aux Corinthiens est le récit de la fondation du Sujet apostolique. Il résonne en opposition parfaite avec l'Évangile du Jeune Homme Riche lu ce même 12ème dimanche : là où le jeune homme s'en va tout triste parce qu'il refuse de lâcher ses possessions (son 'Avoir'), Paul témoigne de la puissance de la dépossession volontaire.\n\n1. L'Évangile comme événement, non comme idéologie\nPaul rappelle que le salut ne repose pas sur une morale ou l'Arbre de la Connaissance, mais sur un fait existentiel : la mort, l'ensevelissement et la Résurrection du Christ. Cet événement brise la matrice mortifère du Monde duel. L'homme n'est plus enfermé dans le cycle biologique, le tombeau a été ouvert. Le christianisme n'est pas l'adhésion à un club de pensée, c'est l'intégration organique à ce mystère pascal.\n\n2. La pédagogie de la vision spirituelle\nLa série d'apparitions énumérées par Paul (à Céphas, aux Douze, aux cinq cents frères...) insiste sur le verbe 'Il a été vu' (ὤφθη). Cette vision n'est pas une simple perception rétinienne, c'est l'ouverture de l'œil spirituel (le *Nous*). Le Ressuscité ne s'impose pas à la foule mondaine pour la forcer à croire par effraction : Il se manifeste à des Sujets préparés, tissant la première Église non pas comme une masse aveugle, mais comme une 'nuée de témoins' personnels.\n\n3. L'Avorton et la Grâce (Le triomphe de l'Arbre de Vie)\nLe sommet du texte est la confession intime de Paul. Son passé de persécuteur représente le paroxysme de la religion aliénée : la violence au nom de Dieu, l'Ego saturé de certitudes mortelles. La rencontre avec la Lumière incréée sur le chemin de Damas a terrassé cet Ego. En se nommant 'avorton', Paul révèle le secret de la sainteté : c'est uniquement lorsque l'homme renonce à son 'plein' mondain, lorsqu'il accepte sa propre misère et devient ce réceptacle 'en creux', que la Grâce (*Charis*) peut le transfigurer et le rendre infiniment fécond."
 }
-}  
