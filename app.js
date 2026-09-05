@@ -361,7 +361,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const liturgicalEchoesContainer = document.getElementById('liturgical-echoes-container');
         const liturgicalEchoesList = document.getElementById('liturgical-echoes-list');
         const goingFurtherContainer = document.getElementById('going-further-container');
-        const goingFurtherList = document.getElementById('going-further-list'); 
+        const goingFurtherList = document.getElementById('going-further-list');
         if(mainText) mainText.innerHTML = '<p style="text-align:center;"><em>Chargement...</em></p>';
 
         try {
