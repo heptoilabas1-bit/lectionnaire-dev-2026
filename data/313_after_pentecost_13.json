@@ -2,525 +2,1727 @@
   "gospel": {
     "reference": "Matthieu 21, 33-42",
     "title": "Les Vignerons Homicides : Le Rejet du Fils et la Pierre d'Angle",
-    "interlinear":[
-  {
-    "verse_number": 33,
-    "translations": {
-      "segond": "Écoutez une autre parabole. Il y avait un homme, maître de maison, qui planta une vigne. Il l'entoura d'une haie, y creusa un pressoir, et bâtit une tour ; puis il l'afferma à des vignerons, et quitta le pays.",
-      "darby": "Écoutez une autre parabole : Il y avait un homme, un maître de maison, qui planta une vigne, et l'environna d'une clôture, et y creusa un pressoir, et y bâtit une tour ; et il la loua à des cultivateurs et s'en alla hors du pays."
-    },
     "interlinear": [
-      { "greek": "Ἄλλην", "gloss": "Une_autre" },
-      { "greek": "παραβολὴν", "gloss": "parabole" },
-      { "greek": "ἀκούσατε.", "gloss": "écoutez" },
-      { "greek": "Ἄνθρωπος", "gloss": "Un_homme" },
-      { "greek": "ἦν", "gloss": "était" },
-      { "greek": "οἰκοδεσπότης", "gloss": "maître_de_maison", "analyse": "Le mot *oikodespotes* (le maître de l'oikos, de la maison). Dieu est le seul propriétaire légitime du Royaume. La vigne (la création, la vie spirituelle) est structurée, protégée (haie, tour) et offerte." },
-      { "greek": "ὅστις", "gloss": "lequel" },
-      { "greek": "ἐφύτευσεν", "gloss": "planta" },
-      { "greek": "ἀμπελῶνα", "gloss": "une_vigne" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "φραγμὸν", "gloss": "une_haie/clôture" },
-      { "greek": "αὐτῷ", "gloss": "autour_d'elle" },
-      { "greek": "περιέθηκεν", "gloss": "plaça" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ὤρυξεν", "gloss": "creusa" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "αὐτῷ", "gloss": "elle" },
-      { "greek": "ληνὸν", "gloss": "un_pressoir" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ᾠκοδόμησεν", "gloss": "bâtit" },
-      { "greek": "πύργον,", "gloss": "une_tour" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐξέδοτο", "gloss": "la_loua/la_confia" },
-      { "greek": "αὐτὸν", "gloss": "elle" },
-      { "greek": "γεωργοῖς,", "gloss": "à_des_vignerons", "analyse": "Les *georgoi* (les travailleurs de la terre). L'homme reçoit l'existence comme un don à cultiver en synergie avec l'Énergie divine. L'erreur fondamentale du Monde duel commence ici : confondre la gérance (le travail) avec la possession (la propriété)." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀπεδήμησεν.", "gloss": "partit_en_voyage/s'absenta" }
+      {
+        "verse_number": 33,
+        "translations": {
+          "segond": "Écoutez une autre parabole. Il y avait un homme, maître de maison, qui planta une vigne. Il l'entoura d'une haie, y creusa un pressoir, et bâtit une tour ; puis il l'afferma à des vignerons, et quitta le pays.",
+          "darby": "Écoutez une autre parabole : Il y avait un homme, un maître de maison, qui planta une vigne, et l'environna d'une clôture, et y creusa un pressoir, et y bâtit une tour ; et il la loua à des cultivateurs et s'en alla hors du pays."
+        },
+        "interlinear": [
+          {
+            "greek": "Ἄλλην",
+            "gloss": "Une_autre"
+          },
+          {
+            "greek": "παραβολὴν",
+            "gloss": "parabole"
+          },
+          {
+            "greek": "ἀκούσατε.",
+            "gloss": "écoutez"
+          },
+          {
+            "greek": "Ἄνθρωπος",
+            "gloss": "Un_homme"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "οἰκοδεσπότης",
+            "gloss": "maître_de_maison",
+            "annotation": {
+              "type": "racine",
+              "title": "Le maître de maison",
+              "content": "Approfondissement spirituel : Le mot *oikodespotes* (le maître de l'oikos, de la maison). Dieu est le seul propriétaire légitime du Royaume. La vigne (la création, la vie spirituelle) est structurée, protégée (haie, tour) et offerte.",
+              "related": [
+                "Ἄνθρωπος",
+                "ἦν",
+                "ὅστις",
+                "ἐφύτευσεν"
+              ]
+            }
+          },
+          {
+            "greek": "ὅστις",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "ἐφύτευσεν",
+            "gloss": "planta"
+          },
+          {
+            "greek": "ἀμπελῶνα",
+            "gloss": "une_vigne"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φραγμὸν",
+            "gloss": "une_haie/clôture"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "autour_d'elle"
+          },
+          {
+            "greek": "περιέθηκεν",
+            "gloss": "plaça"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὤρυξεν",
+            "gloss": "creusa"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "elle"
+          },
+          {
+            "greek": "ληνὸν",
+            "gloss": "un_pressoir"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ᾠκοδόμησεν",
+            "gloss": "bâtit"
+          },
+          {
+            "greek": "πύργον,",
+            "gloss": "une_tour"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐξέδοτο",
+            "gloss": "la_loua/la_confia"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "elle"
+          },
+          {
+            "greek": "γεωργοῖς,",
+            "gloss": "à_des_vignerons",
+            "annotation": {
+              "type": "traduction",
+              "title": "Des vignerons, non des propriétaires",
+              "content": "Approfondissement spirituel : Les *georgoi* (les travailleurs de la terre). L'homme reçoit l'existence comme un don à cultiver en synergie avec l'Énergie divine. L'erreur fondamentale du Monde duel commence ici : confondre la gérance (le travail) avec la possession (la propriété).",
+              "related": [
+                "ἐξέδοτο",
+                "αὐτὸν",
+                "καὶ",
+                "ἀπεδήμησεν."
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπεδήμησεν.",
+            "gloss": "partit_en_voyage/s'absenta"
+          }
+        ]
+      },
+      {
+        "verse_number": 34,
+        "translations": {
+          "segond": "Lorsque le temps de la récolte fut arrivé, il envoya ses serviteurs vers les vignerons, pour recueillir le produit de sa vigne.",
+          "darby": "Et lorsque la saison des fruits approcha, il envoya ses esclaves aux cultivateurs pour en recevoir les fruits."
+        },
+        "interlinear": [
+          {
+            "greek": "ὅτε",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἤγγισεν",
+            "gloss": "approcha"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "καιρὸς",
+            "gloss": "temps/saison"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "καρπῶν,",
+            "gloss": "fruits"
+          },
+          {
+            "greek": "ἀπέστειλεν",
+            "gloss": "il_envoya"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δούλους",
+            "gloss": "esclaves/serviteurs"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "γεωργοὺς",
+            "gloss": "vignerons"
+          },
+          {
+            "greek": "λαβεῖν",
+            "gloss": "pour_recevoir"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρποὺς",
+            "gloss": "fruits"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 35,
+        "translations": {
+          "segond": "Les vignerons, s'étant saisis de ses serviteurs, battirent l'un, tuèrent l'autre, et lapidèrent le troisième.",
+          "darby": "Et les cultivateurs, ayant pris ses esclaves, battirent l'un, tuèrent l'autre, et en lapidèrent un autre."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "λαβόντες",
+            "gloss": "ayant_pris"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "γεωργοὶ",
+            "gloss": "vignerons"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δούλους",
+            "gloss": "esclaves"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "l'un"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "d'une_part"
+          },
+          {
+            "greek": "ἔδειραν,",
+            "gloss": "ils_battirent"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "l'autre"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "d'autre_part"
+          },
+          {
+            "greek": "ἀπέκτειναν,",
+            "gloss": "ils_tuèrent",
+            "annotation": {
+              "type": "analyse",
+              "title": "La violence contre les envoyés",
+              "content": "Approfondissement spirituel : L'irruption de la violence prédatrice. Dès que la verticalité (les serviteurs) vient rappeler à l'Ego qu'il n'est pas le propriétaire de sa vie, l'Ego se sent menacé. Pour maintenir l'illusion de son contrôle absolu sur le Monde duel, il doit éliminer la voix du Maître.",
+              "related": [
+                "ὃν",
+                "δὲ",
+                "ὃν",
+                "δὲ"
+              ]
+            }
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "un_autre"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "d'autre_part"
+          },
+          {
+            "greek": "ἐλιθοβόλησαν.",
+            "gloss": "ils_lapidèrent"
+          }
+        ]
+      },
+      {
+        "verse_number": 36,
+        "translations": {
+          "segond": "Il envoya encore d'autres serviteurs, en plus grand nombre que les premiers ; et les vignerons les traitèrent de la même manière.",
+          "darby": "Il envoya encore d'autres esclaves, en plus grand nombre que les premiers, et ils leur firent de même."
+        },
+        "interlinear": [
+          {
+            "greek": "πάλιν",
+            "gloss": "De_nouveau"
+          },
+          {
+            "greek": "ἀπέστειλεν",
+            "gloss": "il_envoya"
+          },
+          {
+            "greek": "ἄλλους",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δούλους",
+            "gloss": "esclaves"
+          },
+          {
+            "greek": "πλείονας",
+            "gloss": "plus_nombreux"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "que_les"
+          },
+          {
+            "greek": "πρώτων,",
+            "gloss": "premiers"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐποίησαν",
+            "gloss": "ils_firent"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὡσαύτως.",
+            "gloss": "de_même"
+          }
+        ]
+      },
+      {
+        "verse_number": 37,
+        "translations": {
+          "segond": "Enfin, il envoya vers eux son fils, en disant : Ils auront du respect pour mon fils.",
+          "darby": "Et enfin il envoya auprès d'eux son fils, disant : Ils auront du respect pour mon fils."
+        },
+        "interlinear": [
+          {
+            "greek": "ὕστερον",
+            "gloss": "Enfin"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "ἀπέστειλεν",
+            "gloss": "il_envoya"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸν",
+            "gloss": "fils"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἐντραπήσονται",
+            "gloss": "Ils_auront_du_respect_pour",
+            "annotation": {
+              "type": "traduction",
+              "title": "Ils respecteront mon fils",
+              "content": "Approfondissement spirituel : Le verbe *entrepomai* (se tourner vers avec révérence, avoir honte, respecter). C'est le pari de l'Amour divin : envoyer non plus un exécutant, mais l'Héritier lui-même, espérant que la présence pure du Fils réveillera le Sujet endormi sous la carapace des vignerons.",
+              "related": [
+                "αὐτοῦ",
+                "λέγων·",
+                "τὸν",
+                "υἱόν"
+              ]
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱόν",
+            "gloss": "fils"
+          },
+          {
+            "greek": "μου.",
+            "gloss": "de_moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 38,
+        "translations": {
+          "segond": "Mais les vignerons, voyant le fils, dirent entre eux : Voici l'héritier ; venez, tuons-le, et emparons-nous de son héritage.",
+          "darby": "Mais les cultivateurs, voyant le fils, dirent entre eux : Celui-ci est l'héritier ; venez, tuons-le, et possédons son héritage."
+        },
+        "interlinear": [
+          {
+            "greek": "οἱ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "γεωργοὶ",
+            "gloss": "vignerons"
+          },
+          {
+            "greek": "ἰδόντες",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸν",
+            "gloss": "fils"
+          },
+          {
+            "greek": "εἶπον",
+            "gloss": "dirent"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "entre"
+          },
+          {
+            "greek": "ἑαυτοῖς·",
+            "gloss": "eux-mêmes"
+          },
+          {
+            "greek": "Οὗτός",
+            "gloss": "Celui-ci"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "κληρονόμος·",
+            "gloss": "héritier"
+          },
+          {
+            "greek": "δεῦτε",
+            "gloss": "venez"
+          },
+          {
+            "greek": "ἀποκτείνωμεν",
+            "gloss": "tuons"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σχῶμεν",
+            "gloss": "ayons/possédons",
+            "annotation": {
+              "type": "repetition",
+              "title": "Saisissons-nous de l’héritage",
+              "content": "Approfondissement spirituel : Le verbe *schōmen* (que nous possédions, que nous ayons). C'est exactement le même verbe (*schō*) utilisé par le jeune homme riche du 12e dimanche ('que dois-je faire pour avoir la vie éternelle'). L'Ego veut 'avoir'. Il pense qu'en détruisant le Sujet filial, il pourra jouir de l'héritage divin de manière autonome, ce qui est une illusion ontologique.",
+              "related": [
+                "αὐτὸν",
+                "καὶ",
+                "τὴν",
+                "κληρονομίαν"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "κληρονομίαν",
+            "gloss": "héritage"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 39,
+        "translations": {
+          "segond": "Et ils se saisirent de lui, le jetèrent hors de la vigne, et le tuèrent.",
+          "darby": "Et l'ayant pris, ils le jetèrent hors de la vigne et le tuèrent."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "λαβόντες",
+            "gloss": "l'ayant_pris"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐξέβαλον",
+            "gloss": "ils_le_jetèrent"
+          },
+          {
+            "greek": "ἔξω",
+            "gloss": "hors/dehors",
+            "annotation": {
+              "type": "racine",
+              "title": "Jeté hors de la vigne",
+              "content": "Approfondissement spirituel : Le Fils est jeté 'hors' (*exō*) de la vigne. C'est la crucifixion à l'extérieur des murs de Jérusalem. Le Monde duel expulse l'Incréé en dehors de son système fermé pour pouvoir continuer à fonctionner sur ses propres lois prédatrices.",
+              "related": [
+                "αὐτὸν",
+                "ἐξέβαλον",
+                "τοῦ",
+                "ἀμπελῶνος"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἀμπελῶνος",
+            "gloss": "vigne"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπέκτειναν.",
+            "gloss": "ils_le_tuèrent"
+          }
+        ]
+      },
+      {
+        "verse_number": 40,
+        "translations": {
+          "segond": "Maintenant, lorsque le maître de la vigne viendra, que fera-t-il à ces vignerons ?",
+          "darby": "Quand donc le maître de la vigne viendra, que fera-t-il à ces cultivateurs-là ?"
+        },
+        "interlinear": [
+          {
+            "greek": "ὅταν",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἔλθῃ",
+            "gloss": "viendra"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "seigneur/maître"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἀμπελῶνος,",
+            "gloss": "vigne"
+          },
+          {
+            "greek": "τί",
+            "gloss": "que"
+          },
+          {
+            "greek": "ποιήσει",
+            "gloss": "fera-t-il"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "γεωργοῖς",
+            "gloss": "vignerons"
+          },
+          {
+            "greek": "ἐκείνοις;",
+            "gloss": "ces...-là"
+          }
+        ]
+      },
+      {
+        "verse_number": 41,
+        "translations": {
+          "segond": "Ils lui répondirent : Il fera périr misérablement ces misérables, et il affermera la vigne à d'autres vignerons, qui lui en donneront le produit au temps de la récolte.",
+          "darby": "Ils lui disent : Il fera périr misérablement ces méchants, et louera sa vigne à d'autres cultivateurs qui lui en rendront les fruits en leurs saisons."
+        },
+        "interlinear": [
+          {
+            "greek": "λέγουσιν",
+            "gloss": "Ils_disent"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Κακοὺς",
+            "gloss": "Ces_mauvais"
+          },
+          {
+            "greek": "κακῶς",
+            "gloss": "mal/misérablement",
+            "annotation": {
+              "type": "repetition",
+              "title": "Le mal répondant au mal",
+              "content": "Κακοὺς κακῶς forme une allitération : « ces mauvais, il les fera périr misérablement ». C’est la réponse sévère des auditeurs à la question de Jésus. La parabole appelle les responsables à rendre le fruit de la vigne ; elle ne justifie ni l’antijudaïsme ni l’effacement d’Israël.",
+              "related": [
+                "αὐτῷ·",
+                "Κακοὺς",
+                "ἀπολέσει",
+                "αὐτούς,"
+              ]
+            }
+          },
+          {
+            "greek": "ἀπολέσει",
+            "gloss": "il_détruira"
+          },
+          {
+            "greek": "αὐτούς,",
+            "gloss": "eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀμπελῶνα",
+            "gloss": "vigne"
+          },
+          {
+            "greek": "ἐκδώσεται",
+            "gloss": "il_louera"
+          },
+          {
+            "greek": "ἄλλοις",
+            "gloss": "à_d'autres"
+          },
+          {
+            "greek": "γεωργοῖς,",
+            "gloss": "vignerons"
+          },
+          {
+            "greek": "οἵτινες",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "ἀποδώσουσιν",
+            "gloss": "rendront/donneront"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρποὺς",
+            "gloss": "fruits"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/dans"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καιροῖς",
+            "gloss": "temps/saisons"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "d'eux"
+          }
+        ]
+      },
+      {
+        "verse_number": 42,
+        "translations": {
+          "segond": "Jésus leur dit : N'avez-vous jamais lu dans les Écritures : La pierre qu'ont rejetée ceux qui bâtissaient est devenue la principale de l'angle ; c'est du Seigneur que cela est venu, et c'est un prodige à nos yeux ?",
+          "darby": "Jésus leur dit : N'avez-vous jamais lu dans les écritures : « La pierre que ceux qui bâtissaient ont rejetée, celle-là est devenue la maîtresse pierre du coin ; ceci a été fait par le Seigneur, et est merveilleux devant nos yeux » ?"
+        },
+        "interlinear": [
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Οὐδέποτε",
+            "gloss": "Jamais"
+          },
+          {
+            "greek": "ἀνέγνωτε",
+            "gloss": "n'avez-vous_lu"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "γραφαῖς·",
+            "gloss": "Écritures"
+          },
+          {
+            "greek": "Λίθον",
+            "gloss": "La_pierre"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἀπεδοκίμασαν",
+            "gloss": "ont_rejetée"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "οἰκοδομοῦντες,",
+            "gloss": "bâtissant"
+          },
+          {
+            "greek": "οὗτος",
+            "gloss": "celle-ci"
+          },
+          {
+            "greek": "ἐγενήθη",
+            "gloss": "est_devenue"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en"
+          },
+          {
+            "greek": "κεφαλὴν",
+            "gloss": "tête/principale"
+          },
+          {
+            "greek": "γωνίας·",
+            "gloss": "d'angle",
+            "annotation": {
+              "type": "theologie",
+              "title": "La pierre devenue tête d’angle",
+              "content": "Approfondissement spirituel : La *kephalen gonias*. Dans l'architecture, la pierre d'angle assure l'unité et la cohésion de tout l'édifice (*oikos*). L'Ego (les bâtisseurs) rejette la kénose parce qu'elle semble inutile pour ses projets de domination matérielle. Mais c'est précisément ce Sujet crucifié et rejeté qui devient le seul point d'ancrage du Royaume UN.",
+              "related": [
+                "εἰς",
+                "κεφαλὴν",
+                "παρὰ",
+                "κυρίου"
+              ]
+            }
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "de_la_part_de"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "est_venue/a_été_faite"
+          },
+          {
+            "greek": "αὕτη,",
+            "gloss": "celle-ci"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "θαυμαστὴ",
+            "gloss": "marveilleuse/un_prodige"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/devant"
+          },
+          {
+            "greek": "ὀφθαλμοῖς",
+            "gloss": "les_yeux"
+          },
+          {
+            "greek": "ἡμῶν;",
+            "gloss": "de_nous"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 38 - σχῶμεν : Darby traduit par 'possédons', Segond par 'emparons-nous'. La traduction de Darby est plus précise ontologiquement : *schomen* est l'aoriste de *echo* (avoir/posséder). La traduction met en lumière l'illusion métaphysique de l'Ego : vouloir 'avoir' l'héritage au lieu d'être en communion avec l'Héritier.\n• Verset 41 - Κακοὺς κακῶς : Darby traduit 'Il fera périr misérablement ces méchants', et Segond 'Il fera périr misérablement ces misérables'. L'allitération grecque (littéralement : 'les mauvais, d'une mauvaise manière') traduit parfaitement la mécanique aveugle et circulaire de la justice humaine : le mal appelle le mal. C'est la matrice close du karma que le Christ est précisément venu briser.\n\nAnalyse spirituelle :\nCette parabole, est le drame central de l'appropriation. Le Maître confie un domaine structuré (*ampelona*, *lenon*, *pyrgon*) à des vignerons. Le problème naît lorsque ces derniers oublient la synergie (la culture partagée) pour sombrer dans l'illusion de la propriété exclusive. La distance temporelle et spatiale du Maître est le test de leur liberté : vont-ils agir en Sujets libres dans le Royaume UN, ou s'enfermer dans l'Ego du Monde duel ?\n\nL'irruption des prophètes, puis du Fils, provoque la panique. L'Ego sent que sa domination est menacée par cette verticalité. Il choisit alors le meurtre, persuadé que l'élimination physique du divin ('jetons-le hors de la vigne') lui garantira la possession définitive du réel (*kleronomia*). \n\nCependant, la conclusion du Christ n'est pas simplement l'annonce d'un châtiment, mais la révélation de la subversion divine : ce qui est expulsé et anéanti par le système de domination horizontal (la pierre rejetée par les bâtisseurs égocentrés) est en réalité ressuscitée par le Père pour devenir la 'tête de l'angle' (*kephalen gonias*). La kénose du Fils, mise à mort hors du monde, devient le centre gravitationnel infaillible de la nouvelle Création.\n\nComplément de lecture : la vigne est préparée, confiée et entourée de soins ; le conflit porte sur le fruit et la propriété. Les vignerons veulent transformer une gérance reçue en possession absolue. Le rejet du Fils devient pourtant, par l’action de Dieu, la pierre d’angle d’une construction nouvelle.",
+    "homiletic_axes": [
+      {
+        "title": "Une vigne confiée pour porter du fruit",
+        "content": "Le maître prépare la vigne et la confie à des cultivateurs. Leur mission est une gérance féconde, non une appropriation.",
+        "keywords": [
+          "ἀμπελῶνα",
+          "γεωργοῖς,",
+          "καρποὺς",
+          "αὐτοῦ."
+        ]
+      },
+      {
+        "title": "Saisir l’héritage en rejetant l’héritier",
+        "content": "Les vignerons veulent posséder ce qui ne leur appartient pas et expulsent le fils. La violence naît de la confusion entre don confié et propriété absolue.",
+        "keywords": [
+          "κληρονόμος·",
+          "σχῶμεν",
+          "κληρονομίαν",
+          "ἔξω"
+        ]
+      },
+      {
+        "title": "La pierre rejetée devient l’angle",
+        "content": "Dieu ne laisse pas le rejet avoir le dernier mot : la pierre refusée par les bâtisseurs devient la tête d’angle.",
+        "keywords": [
+          "Λίθον",
+          "ἀπεδοκίμασαν",
+          "γωνίας·",
+          "κυρίου"
+        ]
+      },
+      {
+        "title": "Une fermeté entièrement réglée par l’amour",
+        "content": "Paul appelle à veiller et tenir ferme, mais place aussitôt toute force sous le critère de l’amour, du service et du labeur partagé.",
+        "keywords": [
+          "Γρηγορεῖτε,",
+          "στήκετε",
+          "κραταιοῦσθε.",
+          "ἀγάπῃ"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 13e dimanche : une parole, un geste, un contraste, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez d’abord la progression du récit évangélique, puis voyez comment l’Apôtre l’approfondit, la déplace ou en manifeste le fruit ecclésial. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète véritablement éclairée par les textes : peur, impuissance, dette, attachement, appropriation, division, besoin d’être saisi ou difficulté à recevoir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans imposer un modèle unique : crier vers le Christ, pardonner, renoncer à un droit, suivre, servir, veiller, partager ou se laisser reconstruire."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la vigne possédée au service reconnu",
+        "reference": "Matthieu 21, 33-42 ; 1 Corinthiens 16, 13-24",
+        "content": "Les vignerons refusent leur condition de serviteurs et veulent s’emparer de l’héritage ; Paul invite au contraire à reconnaître ceux qui se sont voués au service des saints. La pierre d’angle ordonne une communauté ferme dans la foi et active dans l’amour.",
+        "connections": []
+      }
     ]
   },
-  {
-    "verse_number": 34,
-    "translations": {
-      "segond": "Lorsque le temps de la récolte fut arrivé, il envoya ses serviteurs vers les vignerons, pour recueillir le produit de sa vigne.",
-      "darby": "Et lorsque la saison des fruits approcha, il envoya ses esclaves aux cultivateurs pour en recevoir les fruits."
-    },
-    "interlinear": [
-      { "greek": "ὅτε", "gloss": "Quand" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ἤγγισεν", "gloss": "approcha" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "καιρὸς", "gloss": "temps/saison" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "καρπῶν,", "gloss": "fruits" },
-      { "greek": "ἀπέστειλεν", "gloss": "il_envoya" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "δούλους", "gloss": "esclaves/serviteurs" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "γεωργοὺς", "gloss": "vignerons" },
-      { "greek": "λαβεῖν", "gloss": "pour_recevoir" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "καρποὺς", "gloss": "fruits" },
-      { "greek": "αὐτοῦ.", "gloss": "de_lui" }
-    ]
-  },
-  {
-    "verse_number": 35,
-    "translations": {
-      "segond": "Les vignerons, s'étant saisis de ses serviteurs, battirent l'un, tuèrent l'autre, et lapidèrent le troisième.",
-      "darby": "Et les cultivateurs, ayant pris ses esclaves, battirent l'un, tuèrent l'autre, et en lapidèrent un autre."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "λαβόντες", "gloss": "ayant_pris" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "γεωργοὶ", "gloss": "vignerons" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "δούλους", "gloss": "esclaves" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "ὃν", "gloss": "l'un" },
-      { "greek": "μὲν", "gloss": "d'une_part" },
-      { "greek": "ἔδειραν,", "gloss": "ils_battirent" },
-      { "greek": "ὃν", "gloss": "l'autre" },
-      { "greek": "δὲ", "gloss": "d'autre_part" },
-      { "greek": "ἀπέκτειναν,", "gloss": "ils_tuèrent", "analyse": "L'irruption de la violence prédatrice. Dès que la verticalité (les serviteurs) vient rappeler à l'Ego qu'il n'est pas le propriétaire de sa vie, l'Ego se sent menacé. Pour maintenir l'illusion de son contrôle absolu sur le Monde duel, il doit éliminer la voix du Maître." },
-      { "greek": "ὃν", "gloss": "un_autre" },
-      { "greek": "δὲ", "gloss": "d'autre_part" },
-      { "greek": "ἐλιθοβόλησαν.", "gloss": "ils_lapidèrent" }
-    ]
-  },
-  {
-    "verse_number": 36,
-    "translations": {
-      "segond": "Il envoya encore d'autres serviteurs, en plus grand nombre que les premiers ; et les vignerons les traitèrent de la même manière.",
-      "darby": "Il envoya encore d'autres esclaves, en plus grand nombre que les premiers, et ils leur firent de même."
-    },
-    "interlinear": [
-      { "greek": "πάλιν", "gloss": "De_nouveau" },
-      { "greek": "ἀπέστειλεν", "gloss": "il_envoya" },
-      { "greek": "ἄλλους", "gloss": "d'autres" },
-      { "greek": "δούλους", "gloss": "esclaves" },
-      { "greek": "πλείονας", "gloss": "plus_nombreux" },
-      { "greek": "τῶν", "gloss": "que_les" },
-      { "greek": "πρώτων,", "gloss": "premiers" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐποίησαν", "gloss": "ils_firent" },
-      { "greek": "αὐτοῖς", "gloss": "à_eux" },
-      { "greek": "ὡσαύτως.", "gloss": "de_même" }
-    ]
-  },
-  {
-    "verse_number": 37,
-    "translations": {
-      "segond": "Enfin, il envoya vers eux son fils, en disant : Ils auront du respect pour mon fils.",
-      "darby": "Et enfin il envoya auprès d'eux son fils, disant : Ils auront du respect pour mon fils."
-    },
-    "interlinear": [
-      { "greek": "ὕστερον", "gloss": "Enfin" },
-      { "greek": "δὲ", "gloss": "or/et" },
-      { "greek": "ἀπέστειλεν", "gloss": "il_envoya" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "αὐτοὺς", "gloss": "eux" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "υἱὸν", "gloss": "fils" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "λέγων·", "gloss": "disant" },
-      { "greek": "Ἐντραπήσονται", "gloss": "Ils_auront_du_respect_pour", "analyse": "Le verbe *entrepomai* (se tourner vers avec révérence, avoir honte, respecter). C'est le pari de l'Amour divin : envoyer non plus un exécutant, mais l'Héritier lui-même, espérant que la présence pure du Fils réveillera le Sujet endormi sous la carapace des vignerons." },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "υἱόν", "gloss": "fils" },
-      { "greek": "μου.", "gloss": "de_moi" }
-    ]
-  },
- {
-    "verse_number": 38,
-    "translations": {
-      "segond": "Mais les vignerons, voyant le fils, dirent entre eux : Voici l'héritier ; venez, tuons-le, et emparons-nous de son héritage.",
-      "darby": "Mais les cultivateurs, voyant le fils, dirent entre eux : Celui-ci est l'héritier ; venez, tuons-le, et possédons son héritage."
-    },
-    "interlinear": [
-      { "greek": "οἱ", "gloss": "Les" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "γεωργοὶ", "gloss": "vignerons" },
-      { "greek": "ἰδόντες", "gloss": "ayant_vu" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "υἱὸν", "gloss": "fils" },
-      { "greek": "εἶπον", "gloss": "dirent" },
-      { "greek": "ἐν", "gloss": "entre" },
-      { "greek": "ἑαυτοῖς·", "gloss": "eux-mêmes" },
-      { "greek": "Οὗτός", "gloss": "Celui-ci" },
-      { "greek": "ἐστιν", "gloss": "est" },
-      { "greek": "ὁ", "gloss": "l'" },
-      { "greek": "κληρονόμος·", "gloss": "héritier" },
-      { "greek": "δεῦτε", "gloss": "venez" },
-      { "greek": "ἀποκτείνωμεν", "gloss": "tuons" },
-      { "greek": "αὐτὸν", "gloss": "le" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "σχῶμεν", "gloss": "ayons/possédons", "analyse": "Le verbe *schōmen* (que nous possédions, que nous ayons). C'est exactement le même verbe (*schō*) utilisé par le jeune homme riche du 12e dimanche ('que dois-je faire pour avoir la vie éternelle'). L'Ego veut 'avoir'. Il pense qu'en détruisant le Sujet filial, il pourra jouir de l'héritage divin de manière autonome, ce qui est une illusion ontologique." },
-      { "greek": "τὴν", "gloss": "l'" },
-      { "greek": "κληρονομίαν", "gloss": "héritage" },
-      { "greek": "αὐτοῦ.", "gloss": "de_lui" }
-    ]
-  },
-  {
-    "verse_number": 39,
-    "translations": {
-      "segond": "Et ils se saisirent de lui, le jetèrent hors de la vigne, et le tuèrent.",
-      "darby": "Et l'ayant pris, ils le jetèrent hors de la vigne et le tuèrent."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "λαβόντες", "gloss": "l'ayant_pris" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "ἐξέβαλον", "gloss": "ils_le_jetèrent" },
-      { "greek": "ἔξω", "gloss": "hors/dehors", "analyse": "Le Fils est jeté 'hors' (*exō*) de la vigne. C'est la crucifixion à l'extérieur des murs de Jérusalem. Le Monde duel expulse l'Incréé en dehors de son système fermé pour pouvoir continuer à fonctionner sur ses propres lois prédatrices." },
-      { "greek": "τοῦ", "gloss": "de_la" },
-      { "greek": "ἀμπελῶνος", "gloss": "vigne" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀπέκτειναν.", "gloss": "ils_le_tuèrent" }
-    ]
-  },
-  {
-    "verse_number": 40,
-    "translations": {
-      "segond": "Maintenant, lorsque le maître de la vigne viendra, que fera-t-il à ces vignerons ?",
-      "darby": "Quand donc le maître de la vigne viendra, que fera-t-il à ces cultivateurs-là ?"
-    },
-    "interlinear": [
-      { "greek": "ὅταν", "gloss": "Quand" },
-      { "greek": "οὖν", "gloss": "donc" },
-      { "greek": "ἔλθῃ", "gloss": "viendra" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "κύριος", "gloss": "seigneur/maître" },
-      { "greek": "τοῦ", "gloss": "de_la" },
-      { "greek": "ἀμπελῶνος,", "gloss": "vigne" },
-      { "greek": "τί", "gloss": "que" },
-      { "greek": "ποιήσει", "gloss": "fera-t-il" },
-      { "greek": "τοῖς", "gloss": "aux" },
-      { "greek": "γεωργοῖς", "gloss": "vignerons" },
-      { "greek": "ἐκείνοις;", "gloss": "ces...-là" }
-    ]
-  },
-  {
-    "verse_number": 41,
-    "translations": {
-      "segond": "Ils lui répondirent : Il fera périr misérablement ces misérables, et il affermera la vigne à d'autres vignerons, qui lui en donneront le produit au temps de la récolte.",
-      "darby": "Ils lui disent : Il fera périr misérablement ces méchants, et louera sa vigne à d'autres cultivateurs qui lui en rendront les fruits en leurs saisons."
-    },
-    "interlinear": [
-      { "greek": "λέγουσιν", "gloss": "Ils_disent" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Κακοὺς", "gloss": "Ces_mauvais" },
-      { "greek": "κακῶς", "gloss": "mal/misérablement", "analyse": "Le jeu de mots grec *kakous kakos* (les mauvais, d'une mauvaise manière). Les auditeurs répondent avec la pure logique juridique du Monde duel : la vengeance. L'Ego juge et condamne selon le talion. Le Christ, Lui, ne fait pas périr, mais révèle comment l'Ego se détruit lui-même en s'isolant." },
-      { "greek": "ἀπολέσει", "gloss": "il_détruira" },
-      { "greek": "αὐτούς,", "gloss": "eux" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "ἀμπελῶνα", "gloss": "vigne" },
-      { "greek": "ἐκδώσεται", "gloss": "il_louera" },
-      { "greek": "ἄλλοις", "gloss": "à_d'autres" },
-      { "greek": "γεωργοῖς,", "gloss": "vignerons" },
-      { "greek": "οἵτινες", "gloss": "lesquels" },
-      { "greek": "ἀποδώσουσιν", "gloss": "rendront/donneront" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "καρποὺς", "gloss": "fruits" },
-      { "greek": "ἐν", "gloss": "en/dans" },
-      { "greek": "τοῖς", "gloss": "les" },
-      { "greek": "καιροῖς", "gloss": "temps/saisons" },
-      { "greek": "αὐτῶν.", "gloss": "d'eux" }
-    ]
-  },
-  {
-    "verse_number": 42,
-    "translations": {
-      "segond": "Jésus leur dit : N'avez-vous jamais lu dans les Écritures : La pierre qu'ont rejetée ceux qui bâtissaient est devenue la principale de l'angle ; c'est du Seigneur que cela est venu, et c'est un prodige à nos yeux ?",
-      "darby": "Jésus leur dit : N'avez-vous jamais lu dans les écritures : « La pierre que ceux qui bâtissaient ont rejetée, celle-là est devenue la maîtresse pierre du coin ; ceci a été fait par le Seigneur, et est merveilleux devant nos yeux » ?"
-    },
-    "interlinear": [
-      { "greek": "λέγει", "gloss": "Dit" },
-      { "greek": "αὐτοῖς", "gloss": "à_eux" },
-      { "greek": "ὁ", "gloss": "—" },
-      { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-      { "greek": "Οὐδέποτε", "gloss": "Jamais" },
-      { "greek": "ἀνέγνωτε", "gloss": "n'avez-vous_lu" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "ταῖς", "gloss": "les" },
-      { "greek": "γραφαῖς·", "gloss": "Écritures" },
-      { "greek": "Λίθον", "gloss": "La_pierre" },
-      { "greek": "ὃν", "gloss": "que" },
-      { "greek": "ἀπεδοκίμασαν", "gloss": "ont_rejetée" },
-      { "greek": "οἱ", "gloss": "ceux" },
-      { "greek": "οἰκοδομοῦντες,", "gloss": "bâtissant" },
-      { "greek": "οὗτος", "gloss": "celle-ci" },
-      { "greek": "ἐγενήθη", "gloss": "est_devenue" },
-      { "greek": "εἰς", "gloss": "en" },
-      { "greek": "κεφαλὴν", "gloss": "tête/principale" },
-      { "greek": "γωνίας·", "gloss": "d'angle", "analyse": "La *kephalen gonias*. Dans l'architecture, la pierre d'angle assure l'unité et la cohésion de tout l'édifice (*oikos*). L'Ego (les bâtisseurs) rejette la kénose parce qu'elle semble inutile pour ses projets de domination matérielle. Mais c'est précisément ce Sujet crucifié et rejeté qui devient le seul point d'ancrage du Royaume UN." },
-      { "greek": "παρὰ", "gloss": "de_la_part_de" },
-      { "greek": "κυρίου", "gloss": "Seigneur" },
-      { "greek": "ἐγένετο", "gloss": "est_venue/a_été_faite" },
-      { "greek": "αὕτη,", "gloss": "celle-ci" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἔστιν", "gloss": "est" },
-      { "greek": "θαυμαστὴ", "gloss": "marveilleuse/un_prodige" },
-      { "greek": "ἐν", "gloss": "dans/devant" },
-      { "greek": "ὀφθαλμοῖς", "gloss": "les_yeux" },
-      { "greek": "ἡμῶν;", "gloss": "de_nous" }
-    ]
-  }
-],
-"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 38 - σχῶμεν : Darby traduit par 'possédons', Segond par 'emparons-nous'. La traduction de Darby est plus précise ontologiquement : *schomen* est l'aoriste de *echo* (avoir/posséder). La traduction met en lumière l'illusion métaphysique de l'Ego : vouloir 'avoir' l'héritage au lieu d'être en communion avec l'Héritier.\n• Verset 41 - Κακοὺς κακῶς : Darby traduit 'Il fera périr misérablement ces méchants', et Segond 'Il fera périr misérablement ces misérables'. L'allitération grecque (littéralement : 'les mauvais, d'une mauvaise manière') traduit parfaitement la mécanique aveugle et circulaire de la justice humaine : le mal appelle le mal. C'est la matrice close du karma que le Christ est précisément venu briser.\n\nAnalyse spirituelle :\nCette parabole, est le drame central de l'appropriation. Le Maître confie un domaine structuré (*ampelona*, *lenon*, *pyrgon*) à des vignerons. Le problème naît lorsque ces derniers oublient la synergie (la culture partagée) pour sombrer dans l'illusion de la propriété exclusive. La distance temporelle et spatiale du Maître est le test de leur liberté : vont-ils agir en Sujets libres dans le Royaume UN, ou s'enfermer dans l'Ego du Monde duel ?\n\nL'irruption des prophètes, puis du Fils, provoque la panique. L'Ego sent que sa domination est menacée par cette verticalité. Il choisit alors le meurtre, persuadé que l'élimination physique du divin ('jetons-le hors de la vigne') lui garantira la possession définitive du réel (*kleronomia*). \n\nCependant, la conclusion du Christ n'est pas simplement l'annonce d'un châtiment, mais la révélation de la subversion divine : ce qui est expulsé et anéanti par le système de domination horizontal (la pierre rejetée par les bâtisseurs égocentrés) est en réalité ressuscitée par le Père pour devenir la 'tête de l'angle' (*kephalen gonias*). La kénose du Fils, mise à mort hors du monde, devient le centre gravitationnel infaillible de la nouvelle Création."    
-},
   "apostle": {
-  "reference": "1 Corinthiens 16, 13-24",
-  "title": "Exhortations Finales, Vigilance et Charité",
-  "interlinear": [
-   {
-      "verse_number": 13,
-      "translations": {
-        "segond": "Veillez, soyez fermes dans la foi, soyez des hommes, fortifiez-vous.",
-        "darby": "Veillez, tenez ferme dans la foi, soyez des hommes, fortifiez-vous."
+    "reference": "1 Corinthiens 16, 13-24",
+    "title": "Exhortations Finales, Vigilance et Charité",
+    "interlinear": [
+      {
+        "verse_number": 13,
+        "translations": {
+          "segond": "Veillez, soyez fermes dans la foi, soyez des hommes, fortifiez-vous.",
+          "darby": "Veillez, tenez ferme dans la foi, soyez des hommes, fortifiez-vous."
+        },
+        "interlinear": [
+          {
+            "greek": "Γρηγορεῖτε,",
+            "gloss": "Veillez",
+            "annotation": {
+              "type": "analyse",
+              "title": "Veillez",
+              "content": "L’impératif de γρηγορέω appelle à rester éveillé et attentif. La vigilance chrétienne n’est pas anxiété : elle est disponibilité au Seigneur et discernement de ce qui menace la communion.",
+              "related": []
+            }
+          },
+          {
+            "greek": "στήκετε",
+            "gloss": "tenez_ferme",
+            "annotation": {
+              "type": "racine",
+              "title": "Tenez ferme dans la foi",
+              "content": "Στήκω signifie se tenir ferme. La stabilité demandée n’est pas rigidité identitaire : elle demeure « dans la foi » et sera aussitôt réglée par l’amour.",
+              "related": []
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστει,",
+            "gloss": "foi"
+          },
+          {
+            "greek": "ἀνδρίζεσθε,",
+            "gloss": "soyez_des_hommes",
+            "annotation": {
+              "type": "traduction",
+              "title": "Montrez du courage",
+              "content": "Ἀνδρίζομαι signifie se montrer courageux ou agir avec maturité. La traduction littérale ancienne « soyez des hommes » reflète son étymologie, mais l’exhortation chrétienne au courage concerne toute la communauté et ne définit pas une supériorité masculine.",
+              "related": []
+            }
+          },
+          {
+            "greek": "κραταιοῦσθε.",
+            "gloss": "fortifiez-vous",
+            "annotation": {
+              "type": "traduction",
+              "title": "Soyez fortifiés",
+              "content": "Le passif de κραταιόω peut se traduire « soyez fortifiés ». La force est reçue et exercée dans une communauté où tout doit advenir dans l’amour.",
+              "related": []
+            }
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "Γρηγορεῖτε,", "gloss": "Veillez" },
-        { "greek": "στήκετε", "gloss": "tenez_ferme" },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "τῇ", "gloss": "la" },
-        { "greek": "πίστει,", "gloss": "foi" },
-        { "greek": "ἀνδρίζεσθε,", "gloss": "soyez_des_hommes" },
-        { "greek": "κραταιοῦσθε.", "gloss": "fortifiez-vous" }
-      ]
-    },
-    {
-      "verse_number": 14,
-      "translations": {
-        "segond": "Que tout ce que vous faites se fasse avec amour.",
-        "darby": "Que tout ce que vous faites soit fait dans l'amour."
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Que tout ce que vous faites se fasse avec amour.",
+          "darby": "Que tout ce que vous faites soit fait dans l'amour."
+        },
+        "interlinear": [
+          {
+            "greek": "πάντα",
+            "gloss": "Tout"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "ce_qui_est_à_vous"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἀγάπῃ",
+            "gloss": "amour",
+            "annotation": {
+              "type": "theologie",
+              "title": "Que tout advienne dans l’amour",
+              "content": "L’unique phrase du verset 14 gouverne toutes les exhortations précédentes : vigilance, fermeté et courage ne sont chrétiens que lorsqu’ils prennent forme dans l’amour.",
+              "related": []
+            }
+          },
+          {
+            "greek": "γινέσθω.",
+            "gloss": "se_fasse"
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "πάντα", "gloss": "Tout" },
-        { "greek": "ὑμῶν", "gloss": "ce_qui_est_à_vous" },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "ἀγάπῃ", "gloss": "amour" },
-        { "greek": "γινέσθω.", "gloss": "se_fasse" }
-      ]
-    },
-    {
-      "verse_number": 15,
-      "translations": {
-        "segond": "Encore une recommandation que je vous donne, frères. Vous savez que la famille de Stéphanas est les prémices de l'Achaïe, et qu'ils se sont voués au service des saints.",
-        "darby": "Or, frères, je vous exhorte : vous connaissez la famille de Stéphanas, qu'elle est les prémices de l'Achaïe, et qu'ils se sont voués au service des saints."
+      {
+        "verse_number": 15,
+        "translations": {
+          "segond": "Encore une recommandation que je vous donne, frères. Vous savez que la famille de Stéphanas est les prémices de l'Achaïe, et qu'ils se sont voués au service des saints.",
+          "darby": "Or, frères, je vous exhorte : vous connaissez la famille de Stéphanas, qu'elle est les prémices de l'Achaïe, et qu'ils se sont voués au service des saints."
+        },
+        "interlinear": [
+          {
+            "greek": "Παρακαλῶ",
+            "gloss": "J'exhorte"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἀδελφοί·",
+            "gloss": "frères"
+          },
+          {
+            "greek": "οἴδατε",
+            "gloss": "vous_savez"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἰκίαν",
+            "gloss": "maison"
+          },
+          {
+            "greek": "Στεφανᾶ,",
+            "gloss": "de_Stéphanas"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "elle_est"
+          },
+          {
+            "greek": "ἀπαρχὴ",
+            "gloss": "prémices"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "Ἀχαΐας",
+            "gloss": "Achaïe"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "διακονίαν",
+            "gloss": "le_service"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἁγίοις",
+            "gloss": "saints"
+          },
+          {
+            "greek": "ἔταξαν",
+            "gloss": "ils_se_sont_voués"
+          },
+          {
+            "greek": "ἑαυτούς·",
+            "gloss": "eux-mêmes"
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "Παρακαλῶ", "gloss": "J'exhorte" },
-        { "greek": "δὲ", "gloss": "or" },
-        { "greek": "ὑμᾶς,", "gloss": "vous" },
-        { "greek": "ἀδελφοί·", "gloss": "frères" },
-        { "greek": "οἴδατε", "gloss": "vous_savez" },
-        { "greek": "τὴν", "gloss": "la" },
-        { "greek": "οἰκίαν", "gloss": "maison" },
-        { "greek": "Στεφανᾶ,", "gloss": "de_Stéphanas" },
-        { "greek": "ὅτι", "gloss": "que" },
-        { "greek": "ἐστὶν", "gloss": "elle_est" },
-        { "greek": "ἀπαρχὴ", "gloss": "prémices" },
-        { "greek": "τῆς", "gloss": "de_l'" },
-        { "greek": "Ἀχαΐας", "gloss": "Achaïe" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "εἰς", "gloss": "pour" },
-        { "greek": "διακονίαν", "gloss": "le_service" },
-        { "greek": "τοῖς", "gloss": "aux" },
-        { "greek": "ἁγίοις", "gloss": "saints" },
-        { "greek": "ἔταξαν", "gloss": "ils_se_sont_voués" },
-        { "greek": "ἑαυτούς·", "gloss": "eux-mêmes" }
-      ]
-    },
-    {
-      "verse_number": 16,
-      "translations": {
-        "segond": "ayez, vous aussi, de la déférence pour de tels hommes, et pour tous ceux qui travaillent et peinent avec eux.",
-        "darby": "que, vous aussi, vous vous soumettiez à de tels hommes, et à quiconque travaille avec eux et peine."
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "ayez, vous aussi, de la déférence pour de tels hommes, et pour tous ceux qui travaillent et peinent avec eux.",
+          "darby": "que, vous aussi, vous vous soumettiez à de tels hommes, et à quiconque travaille avec eux et peine."
+        },
+        "interlinear": [
+          {
+            "greek": "ἵνα",
+            "gloss": "que"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ὑποτάσσησθε",
+            "gloss": "vous_vous_soumettiez",
+            "annotation": {
+              "type": "analyse",
+              "title": "Reconnaître ceux qui servent",
+              "content": "Paul demande de se mettre en relation juste avec ceux qui se sont eux-mêmes consacrés au service des saints. L’autorité est reconnue à son service et à son labeur.",
+              "related": []
+            }
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "à_ceux"
+          },
+          {
+            "greek": "τοιούτοις",
+            "gloss": "tels"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παντὶ",
+            "gloss": "à_tout"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "συνεργοῦντι",
+            "gloss": "travaillant_avec"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κοπιῶντι.",
+            "gloss": "peinant",
+            "annotation": {
+              "type": "traduction",
+              "title": "Celui qui peine",
+              "content": "Κοπιάω signifie peiner, travailler jusqu’à la fatigue. Paul honore une autorité concrète, éprouvée par le service, non un prestige abstrait.",
+              "related": []
+            }
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "ἵνα", "gloss": "que" },
-        { "greek": "καὶ", "gloss": "aussi" },
-        { "greek": "ὑμεῖς", "gloss": "vous" },
-        { "greek": "ὑποτάσσησθε", "gloss": "vous_vous_soumettiez" },
-        { "greek": "τοῖς", "gloss": "à_ceux" },
-        { "greek": "τοιούτοις", "gloss": "tels" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "παντὶ", "gloss": "à_tout" },
-        { "greek": "τῷ", "gloss": "celui" },
-        { "greek": "συνεργοῦντι", "gloss": "travaillant_avec" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "κοπιῶντι.", "gloss": "peinant" }
-      ]
-    },
-    {
-      "verse_number": 17,
-      "translations": {
-        "segond": "Je me réjouis de la présence de Stéphanas, de Fortunatus et d'Achaïcus ; ils ont suppléé à votre absence,",
-        "darby": "Je me réjouis de la présence de Stéphanas, et de Fortunatus, et d'Achaïcus ; car ils ont suppléé à ce qui vous manquait de ma part,"
+      {
+        "verse_number": 17,
+        "translations": {
+          "segond": "Je me réjouis de la présence de Stéphanas, de Fortunatus et d'Achaïcus ; ils ont suppléé à votre absence,",
+          "darby": "Je me réjouis de la présence de Stéphanas, et de Fortunatus, et d'Achaïcus ; car ils ont suppléé à ce qui vous manquait de ma part,"
+        },
+        "interlinear": [
+          {
+            "greek": "χαίρω",
+            "gloss": "Je_me_réjouis"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "παρουσίᾳ",
+            "gloss": "présence"
+          },
+          {
+            "greek": "Στεφανᾶ",
+            "gloss": "de_Stéphanas"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Φορτουνάτου",
+            "gloss": "de_Fortunatus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἀχαϊκοῦ,",
+            "gloss": "d'Achaïcus"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "ce_qui"
+          },
+          {
+            "greek": "ὑμέτερον",
+            "gloss": "votre"
+          },
+          {
+            "greek": "ὑστέρημα",
+            "gloss": "manque"
+          },
+          {
+            "greek": "οὗτοι",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "ἀνεπλήρωσαν·",
+            "gloss": "ont_suppléé"
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "χαίρω", "gloss": "Je_me_réjouis" },
-        { "greek": "δὲ", "gloss": "or" },
-        { "greek": "ἐπὶ", "gloss": "de" },
-        { "greek": "τῇ", "gloss": "la" },
-        { "greek": "παρουσίᾳ", "gloss": "présence" },
-        { "greek": "Στεφανᾶ", "gloss": "de_Stéphanas" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "Φορτουνάτου", "gloss": "de_Fortunatus" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "Ἀχαϊκοῦ,", "gloss": "d'Achaïcus" },
-        { "greek": "ὅτι", "gloss": "car" },
-        { "greek": "τὸ", "gloss": "ce_qui" },
-        { "greek": "ὑμέτερον", "gloss": "votre" },
-        { "greek": "ὑστέρημα", "gloss": "manque" },
-        { "greek": "οὗτοι", "gloss": "ceux-ci" },
-        { "greek": "ἀνεπλήρωσαν·", "gloss": "ont_suppléé" }
-      ]
-    },
-    {
-      "verse_number": 18,
-      "translations": {
-        "segond": "car ils ont tranquillisé mon esprit et le vôtre. Sachez donc apprécier de tels hommes.",
-        "darby": "car ils ont tranquillisé mon esprit et le vôtre. Reconnaissez donc ceux qui sont tels."
+      {
+        "verse_number": 18,
+        "translations": {
+          "segond": "car ils ont tranquillisé mon esprit et le vôtre. Sachez donc apprécier de tels hommes.",
+          "darby": "car ils ont tranquillisé mon esprit et le vôtre. Reconnaissez donc ceux qui sont tels."
+        },
+        "interlinear": [
+          {
+            "greek": "ἀνέπαυσαν",
+            "gloss": "ils_ont_tranquillisé"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐμὸν",
+            "gloss": "mien"
+          },
+          {
+            "greek": "πνεῦμα",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὑμῶν.",
+            "gloss": "vôtre"
+          },
+          {
+            "greek": "ἐπιγινώσκετε",
+            "gloss": "reconnaissez"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "τοιούτους.",
+            "gloss": "tels"
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "ἀνέπαυσαν", "gloss": "ils_ont_tranquillisé" },
-        { "greek": "γὰρ", "gloss": "car" },
-        { "greek": "τὸ", "gloss": "le" },
-        { "greek": "ἐμὸν", "gloss": "mien" },
-        { "greek": "πνεῦμα", "gloss": "esprit" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "τὸ", "gloss": "le" },
-        { "greek": "ὑμῶν.", "gloss": "vôtre" },
-        { "greek": "ἐπιγινώσκετε", "gloss": "reconnaissez" },
-        { "greek": "οὖν", "gloss": "donc" },
-        { "greek": "τοὺς", "gloss": "ceux" },
-        { "greek": "τοιούτους.", "gloss": "tels" }
-      ]
-    },
-    {
-      "verse_number": 19,
-      "translations": {
-        "segond": "Les Églises d'Asie vous saluent. Aquilas et Priscille, avec l'Église qui est dans leur maison, vous saluent beaucoup dans le Seigneur.",
-        "darby": "Les assemblées de l'Asie vous saluent. Aquilas et Priscille, avec l'assemblée qui est dans leur maison, vous saluent beaucoup dans le Seigneur."
+      {
+        "verse_number": 19,
+        "translations": {
+          "segond": "Les Églises d'Asie vous saluent. Aquilas et Priscille, avec l'Église qui est dans leur maison, vous saluent beaucoup dans le Seigneur.",
+          "darby": "Les assemblées de l'Asie vous saluent. Aquilas et Priscille, avec l'assemblée qui est dans leur maison, vous saluent beaucoup dans le Seigneur."
+        },
+        "interlinear": [
+          {
+            "greek": "ἀσπάζονται",
+            "gloss": "saluent"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "αἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐκκλησίαι",
+            "gloss": "églises"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "Ἀσίας.",
+            "gloss": "Asie"
+          },
+          {
+            "greek": "ἀσπάζονται",
+            "gloss": "saluent"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "πολλὰ",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "Ἀκύλας",
+            "gloss": "Aquilas"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Πρίσκιλλα",
+            "gloss": "Priscille"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "selon"
+          },
+          {
+            "greek": "οἶκον",
+            "gloss": "maison"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "leur"
+          },
+          {
+            "greek": "ἐκκλησίᾳ.",
+            "gloss": "église"
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "ἀσπάζονται", "gloss": "saluent" },
-        { "greek": "ὑμᾶς", "gloss": "vous" },
-        { "greek": "αἱ", "gloss": "les" },
-        { "greek": "ἐκκλησίαι", "gloss": "églises" },
-        { "greek": "τῆς", "gloss": "de_l'" },
-        { "greek": "Ἀσίας.", "gloss": "Asie" },
-        { "greek": "ἀσπάζονται", "gloss": "saluent" },
-        { "greek": "ὑμᾶς", "gloss": "vous" },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "κυρίῳ", "gloss": "Seigneur" },
-        { "greek": "πολλὰ", "gloss": "beaucoup" },
-        { "greek": "Ἀκύλας", "gloss": "Aquilas" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "Πρίσκιλλα", "gloss": "Priscille" },
-        { "greek": "σὺν", "gloss": "avec" },
-        { "greek": "τῇ", "gloss": "l'" },
-        { "greek": "κατ’", "gloss": "selon" },
-        { "greek": "οἶκον", "gloss": "maison" },
-        { "greek": "αὐτῶν", "gloss": "leur" },
-        { "greek": "ἐκκλησίᾳ.", "gloss": "église" }
-      ]
-    },
-    {
-      "verse_number": 20,
-      "translations": {
-        "segond": "Tous les frères vous saluent. Saluez-vous les uns les autres par un saint baiser.",
-        "darby": "Tous les frères vous saluent. Saluez-vous les uns les autres par un saint baiser."
+      {
+        "verse_number": 20,
+        "translations": {
+          "segond": "Tous les frères vous saluent. Saluez-vous les uns les autres par un saint baiser.",
+          "darby": "Tous les frères vous saluent. Saluez-vous les uns les autres par un saint baiser."
+        },
+        "interlinear": [
+          {
+            "greek": "ἀσπάζονται",
+            "gloss": "saluent"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀδελφοὶ",
+            "gloss": "frères"
+          },
+          {
+            "greek": "πάντες.",
+            "gloss": "tous"
+          },
+          {
+            "greek": "ἀσπάσασθε",
+            "gloss": "saluez"
+          },
+          {
+            "greek": "ἀλλήλους",
+            "gloss": "les_uns_les_autres"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par/dans"
+          },
+          {
+            "greek": "φιλήματι",
+            "gloss": "un_baiser"
+          },
+          {
+            "greek": "ἁγίῳ.",
+            "gloss": "saint"
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "ἀσπάζονται", "gloss": "saluent" },
-        { "greek": "ὑμᾶς", "gloss": "vous" },
-        { "greek": "οἱ", "gloss": "les" },
-        { "greek": "ἀδελφοὶ", "gloss": "frères" },
-        { "greek": "πάντες.", "gloss": "tous" },
-        { "greek": "ἀσπάσασθε", "gloss": "saluez" },
-        { "greek": "ἀλλήλους", "gloss": "les_uns_les_autres" },
-        { "greek": "ἐν", "gloss": "par/dans" },
-        { "greek": "φιλήματι", "gloss": "un_baiser" },
-        { "greek": "ἁγίῳ.", "gloss": "saint" }
-      ]
-    },
-    {
-      "verse_number": 21,
-      "translations": {
-        "segond": "Je vous salue, moi Paul, de ma propre main.",
-        "darby": "La salutation est de ma propre main, à moi, Paul."
+      {
+        "verse_number": 21,
+        "translations": {
+          "segond": "Je vous salue, moi Paul, de ma propre main.",
+          "darby": "La salutation est de ma propre main, à moi, Paul."
+        },
+        "interlinear": [
+          {
+            "greek": "Ὁ",
+            "gloss": "La"
+          },
+          {
+            "greek": "ἀσπασμὸς",
+            "gloss": "salutation"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἐμῇ",
+            "gloss": "ma"
+          },
+          {
+            "greek": "χειρὶ",
+            "gloss": "main"
+          },
+          {
+            "greek": "Παύλου.",
+            "gloss": "de_Paul"
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "Ὁ", "gloss": "La" },
-        { "greek": "ἀσπασμὸς", "gloss": "salutation" },
-        { "greek": "τῇ", "gloss": "de_la" },
-        { "greek": "ἐμῇ", "gloss": "ma" },
-        { "greek": "χειρὶ", "gloss": "main" },
-        { "greek": "Παύλου.", "gloss": "de_Paul" }
-      ]
-    },
-    {
-      "verse_number": 22,
-      "translations": {
-        "segond": "Si quelqu'un n'aime pas le Seigneur, qu'il soit anathème ! Maranatha.",
-        "darby": "Si quelqu'un n'aime pas le Seigneur, qu'il soit anathème. Maranatha."
+      {
+        "verse_number": 22,
+        "translations": {
+          "segond": "Si quelqu'un n'aime pas le Seigneur, qu'il soit anathème ! Maranatha.",
+          "darby": "Si quelqu'un n'aime pas le Seigneur, qu'il soit anathème. Maranatha."
+        },
+        "interlinear": [
+          {
+            "greek": "εἴ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "φιλεῖ",
+            "gloss": "aime"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριον,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἤτω",
+            "gloss": "qu'il_soit"
+          },
+          {
+            "greek": "ἀνάθεμα·",
+            "gloss": "anathème"
+          },
+          {
+            "greek": "μαραναθά.",
+            "gloss": "Maranatha",
+            "annotation": {
+              "type": "traduction",
+              "title": "Maranatha : Seigneur, viens",
+              "content": "Μαράνα θά transcrit une invocation araméenne, généralement comprise comme « Notre Seigneur, viens ! ». Placée près de l’avertissement précédent, elle réoriente l’assemblée vers la venue du Christ.",
+              "related": []
+            }
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "εἴ", "gloss": "Si" },
-        { "greek": "τις", "gloss": "quelqu'un" },
-        { "greek": "οὐ", "gloss": "ne...pas" },
-        { "greek": "φιλεῖ", "gloss": "aime" },
-        { "greek": "τὸν", "gloss": "le" },
-        { "greek": "κύριον,", "gloss": "Seigneur" },
-        { "greek": "ἤτω", "gloss": "qu'il_soit" },
-        { "greek": "ἀνάθεμα·", "gloss": "anathème" },
-        { "greek": "μαραναθά.", "gloss": "Maranatha" }
-      ]
-    },
-    {
-      "verse_number": 23,
-      "translations": {
-        "segond": "Que la grâce du Seigneur Jésus soit avec vous !",
-        "darby": "Que la grâce du Seigneur Jésus-Christ soit avec vous."
+      {
+        "verse_number": 23,
+        "translations": {
+          "segond": "Que la grâce du Seigneur Jésus soit avec vous !",
+          "darby": "Que la grâce du Seigneur Jésus-Christ soit avec vous."
+        },
+        "interlinear": [
+          {
+            "greek": "Ἡ",
+            "gloss": "La"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce",
+            "annotation": {
+              "type": "theologie",
+              "title": "La grâce avec vous",
+              "content": "La conclusion ne s’achève ni sur l’effort ni sur la menace, mais sur la grâce du Seigneur Jésus et l’amour de Paul envers tous en Christ.",
+              "related": []
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "μεθ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ὑμῶν.",
+            "gloss": "vous"
+          }
+        ]
       },
-      "interlinear": [
-        { "greek": "Ἡ", "gloss": "La" },
-        { "greek": "χάρις", "gloss": "grâce" },
-        { "greek": "τοῦ", "gloss": "du" },
-        { "greek": "κυρίου", "gloss": "Seigneur" },
-        { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-        { "greek": "μεθ’", "gloss": "avec" },
-        { "greek": "ὑμῶν.", "gloss": "vous" }
-      ]
-    },
-    {
-      "verse_number": 24,
-      "translations": {
-        "segond": "Mon amour est avec vous tous en Jésus-Christ.",
-        "darby": "Mon amour est avec vous tous dans le Christ Jésus."
+      {
+        "verse_number": 24,
+        "translations": {
+          "segond": "Mon amour est avec vous tous en Jésus-Christ.",
+          "darby": "Mon amour est avec vous tous dans le Christ Jésus."
+        },
+        "interlinear": [
+          {
+            "greek": "ἡ",
+            "gloss": "L'"
+          },
+          {
+            "greek": "ἀγάπη",
+            "gloss": "amour"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "tous"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "Χριστῷ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦ·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἀμήν.",
+            "gloss": "Amen"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 13 - ἀνδρίζεσθε : Segond et Darby traduisent littéralement par 'soyez des hommes'. La racine *aner* (homme) renvoie dans ce contexte antique au courage, à la maturité et à la force de caractère. Dans notre perspective spirituelle, c'est l'injonction à quitter l'état infantile de l'Ego (qui subit et réagit) pour devenir un véritable Sujet, qui se tient debout et responsable dans le Royaume UN.\n• Verset 16 - κοπιῶντι : Darby et Segond utilisent le verbe 'peiner'. C'est une excellente restitution de la racine grecque *kopiao*, qui signifie s'épuiser au labeur. Ce terme est essentiel car il empêche de réduire le 'service' ecclésial (*diakonia*) à un simple bénévolat mondain : c'est l'engagement total de l'énergie vitale en synergie avec la Grâce.\n\nAnalyse spirituelle :\nCette conclusion de Paul (1 Cor 16, 13-24) constitue le 'manuel de survie' du Sujet dans le Monde duel. \n\n1. L'Éveil (*gregoreite*) : La vigilance est l'acte par lequel le Sujet sort de l'hypnose de l'Ego. L'Ego est un automate qui réagit, le Sujet est un être éveillé qui répond consciemment à la présence divine.\n\n2. La Synergie du travail : Paul insiste sur Stéphanas et ceux qui 'peinent' (*kopionti*). Dans le contexte de la parabole des vignerons (l'Évangile du jour), cela souligne que le Royaume n'est pas une simple théorie mystique, mais une culture active et partagée. Le 'service' (*diakonia*) est l'antidote à l'appropriation : on ne possède pas la vigne, on se voue à son entretien pour le Maître.\n\n3. L'Amour comme sceau : 'Que tout se fasse avec amour' est la condition de validité de toute action. L'amour n'est pas une émotion, mais l'Énergie divine qui empêche la cristallisation de l'Ego. Sans cette dimension, même le travail le plus acharné reste prisonnier du cycle des bâtisseurs qui rejettent la Pierre d'angle.\n\nEnfin, l'anathème sur ceux qui n'aiment pas le Seigneur (v. 22) n'est pas une condamnation juridique, mais un constat ontologique : celui qui n'est pas relié par l'Amour (*agape*) s'auto-exclut de la communion, se retrouvant de facto 'hors de la vigne', dans l'isolement du Monde duel. Le 'Maranatha' (Viens, Seigneur) est le cri du Sujet qui, conscient de son incomplétude, appelle l'irruption du Royaume UN.\n\nComplément de lecture : les impératifs finaux de Paul forment un équilibre : veiller, tenir ferme, avoir courage, être fortifié — mais tout faire dans l’amour. La force ecclésiale se reconnaît ensuite dans le service, le labeur, l’accueil entre Églises, le baiser saint, l’attente du Seigneur et la grâce.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 13e dimanche : une parole, un geste, un contraste, un mot grec ou leur écho mutuel."
       },
-      "interlinear": [
-        { "greek": "ἡ", "gloss": "L'" },
-        { "greek": "ἀγάπη", "gloss": "amour" },
-        { "greek": "μου", "gloss": "de_moi" },
-        { "greek": "μετὰ", "gloss": "avec" },
-        { "greek": "πάντων", "gloss": "tous" },
-        { "greek": "ὑμῶν", "gloss": "vous" },
-        { "greek": "ἐν", "gloss": "en" },
-        { "greek": "Χριστῷ", "gloss": "Christ" },
-        { "greek": "Ἰησοῦ·", "gloss": "Jésus" },
-        { "greek": "ἀμήν.", "gloss": "Amen" }
-    ]
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez d’abord la progression du récit évangélique, puis voyez comment l’Apôtre l’approfondit, la déplace ou en manifeste le fruit ecclésial. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète véritablement éclairée par les textes : peur, impuissance, dette, attachement, appropriation, division, besoin d’être saisi ou difficulté à recevoir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans imposer un modèle unique : crier vers le Christ, pardonner, renoncer à un droit, suivre, servir, veiller, partager ou se laisser reconstruire."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
+      }
+    ],
+    "liturgical_echoes": []
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 13 - ἀνδρίζεσθε : Segond et Darby traduisent littéralement par 'soyez des hommes'. La racine *aner* (homme) renvoie dans ce contexte antique au courage, à la maturité et à la force de caractère. Dans notre perspective spirituelle, c'est l'injonction à quitter l'état infantile de l'Ego (qui subit et réagit) pour devenir un véritable Sujet, qui se tient debout et responsable dans le Royaume UN.\n• Verset 16 - κοπιῶντι : Darby et Segond utilisent le verbe 'peiner'. C'est une excellente restitution de la racine grecque *kopiao*, qui signifie s'épuiser au labeur. Ce terme est essentiel car il empêche de réduire le 'service' ecclésial (*diakonia*) à un simple bénévolat mondain : c'est l'engagement total de l'énergie vitale en synergie avec la Grâce.\n\nAnalyse spirituelle :\nCette conclusion de Paul (1 Cor 16, 13-24) constitue le 'manuel de survie' du Sujet dans le Monde duel. \n\n1. L'Éveil (*gregoreite*) : La vigilance est l'acte par lequel le Sujet sort de l'hypnose de l'Ego. L'Ego est un automate qui réagit, le Sujet est un être éveillé qui répond consciemment à la présence divine.\n\n2. La Synergie du travail : Paul insiste sur Stéphanas et ceux qui 'peinent' (*kopionti*). Dans le contexte de la parabole des vignerons (l'Évangile du jour), cela souligne que le Royaume n'est pas une simple théorie mystique, mais une culture active et partagée. Le 'service' (*diakonia*) est l'antidote à l'appropriation : on ne possède pas la vigne, on se voue à son entretien pour le Maître.\n\n3. L'Amour comme sceau : 'Que tout se fasse avec amour' est la condition de validité de toute action. L'amour n'est pas une émotion, mais l'Énergie divine qui empêche la cristallisation de l'Ego. Sans cette dimension, même le travail le plus acharné reste prisonnier du cycle des bâtisseurs qui rejettent la Pierre d'angle.\n\nEnfin, l'anathème sur ceux qui n'aiment pas le Seigneur (v. 22) n'est pas une condamnation juridique, mais un constat ontologique : celui qui n'est pas relié par l'Amour (*agape*) s'auto-exclut de la communion, se retrouvant de facto 'hors de la vigne', dans l'isolement du Monde duel. Le 'Maranatha' (Viens, Seigneur) est le cri du Sujet qui, conscient de son incomplétude, appelle l'irruption du Royaume UN."
 }
-}
-   
