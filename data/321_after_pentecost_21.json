@@ -10,34 +10,127 @@
           "darby": "Le semeur sortit pour semer sa semence ; et comme il semait, quelques grains tombèrent le long du chemin ; et ils furent foulés aux pieds, et les oiseaux du ciel les dévorèrent."
         },
         "interlinear": [
-          { "greek": "Ἐξῆλθεν", "gloss": "Il_sortit" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "σπείρων", "gloss": "semeur" },
-          { "greek": "τοῦ", "gloss": "pour" },
-          { "greek": "σπεῖραι", "gloss": "semer" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "σπόρον", "gloss": "semence" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "pendant" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "σπείρειν", "gloss": "fait_de_semer" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ὃ", "gloss": "une_partie" },
-          { "greek": "μὲν", "gloss": "certes" },
-          { "greek": "ἔπεσεν", "gloss": "tomba" },
-          { "greek": "παρὰ", "gloss": "le_long_de" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ὁδόν,", "gloss": "route" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "κατεπατήθη", "gloss": "fut_foulée_aux_pieds", "analyse": "Composé de *kata-* (vers le bas, écrasement) et *pateō* (piétiner). Le *kata-* indique ici la force descendante et nivelante du Monde duel. La semence restée à la surface est écrasée par le trafic horizontal des pensées et des conditionnements humains." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πετεινὰ", "gloss": "oiseaux" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "οὐρανοῦ", "gloss": "ciel" },
-          { "greek": "κατέφαγεν", "gloss": "dévorèrent" },
-          { "greek": "αὐτό.", "gloss": "elle" }
+          {
+            "greek": "Ἐξῆλθεν",
+            "gloss": "Il_sortit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σπείρων",
+            "gloss": "semeur"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "σπεῖραι",
+            "gloss": "semer"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "σπόρον",
+            "gloss": "semence"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "pendant"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σπείρειν",
+            "gloss": "fait_de_semer"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "une_partie"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "certes"
+          },
+          {
+            "greek": "ἔπεσεν",
+            "gloss": "tomba"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "le_long_de"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὁδόν,",
+            "gloss": "route"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κατεπατήθη",
+            "gloss": "fut_foulée_aux_pieds",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *kata-* (vers le bas, écrasement) et *pateō* (piétiner). Le *kata-* indique ici la force descendante et nivelante du Monde duel. La semence restée à la surface est écrasée par le trafic horizontal des pensées et des conditionnements humains.",
+              "related": [
+                "καὶ",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πετεινὰ",
+            "gloss": "oiseaux"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "οὐρανοῦ",
+            "gloss": "ciel"
+          },
+          {
+            "greek": "κατέφαγεν",
+            "gloss": "dévorèrent"
+          },
+          {
+            "greek": "αὐτό.",
+            "gloss": "elle"
+          }
         ]
       },
       {
@@ -47,20 +140,70 @@
           "darby": "Et d'autres tombèrent sur le roc ; et ayant levé, ils séchèrent, parce qu'ils n'avaient pas d'humidité."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἕτερον", "gloss": "une_autre" },
-          { "greek": "κατέπεσεν", "gloss": "tomba" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "πέτραν,", "gloss": "roche" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "φυὲν", "gloss": "ayant_poussé" },
-          { "greek": "ἐξηράνθη", "gloss": "fut_desséchée" },
-          { "greek": "διὰ", "gloss": "à_cause_de" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "μὴ", "gloss": "ne_pas" },
-          { "greek": "ἔχειν", "gloss": "avoir" },
-          { "greek": "ἰκμάδα.", "gloss": "d'humidité/de_sève", "analyse": "Le terme *ikmas* (sève, humidité vitale) évoque l'eau matricielle. Le roc représente l'Ego superficiel : il peut recevoir l'impulsion verticale (l'enthousiasme intellectuel), mais il manque de profondeur ontologique (l'eau de la matrice) pour permettre la gestation de l'Incréé." }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἕτερον",
+            "gloss": "une_autre"
+          },
+          {
+            "greek": "κατέπεσεν",
+            "gloss": "tomba"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πέτραν,",
+            "gloss": "roche"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φυὲν",
+            "gloss": "ayant_poussé"
+          },
+          {
+            "greek": "ἐξηράνθη",
+            "gloss": "fut_desséchée"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "ἔχειν",
+            "gloss": "avoir"
+          },
+          {
+            "greek": "ἰκμάδα.",
+            "gloss": "d'humidité/de_sève",
+            "annotation": {
+              "type": "traduction",
+              "title": "Sans humidité",
+              "content": "Ἰκμάς désigne l’humidité ou la sève nécessaire à la croissance. Dans une réception philocalique, cette humidité peut évoquer la componction et les larmes qui assouplissent le cœur ; cette symbolique accompagne l’image agricole sans remplacer son sens.",
+              "related": [
+                "ἔχειν"
+              ]
+            }
+          }
         ]
       },
       {
@@ -70,19 +213,67 @@
           "darby": "Et d'autres tombèrent au milieu des épines ; et les épines, levant avec eux, les étouffèrent."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἕτερον", "gloss": "une_autre" },
-          { "greek": "ἔπεσεν", "gloss": "tomba" },
-          { "greek": "ἐν", "gloss": "au" },
-          { "greek": "μέσῳ", "gloss": "milieu" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἀκανθῶν,", "gloss": "épines" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "συμφυεῖσαι", "gloss": "ayant_poussé_ensemble" },
-          { "greek": "αἱ", "gloss": "les" },
-          { "greek": "ἄκανθαι", "gloss": "épines" },
-          { "greek": "ἀπέπνιξαν", "gloss": "étouffèrent/étranglèrent", "analyse": "Composé de *apo-* (complètement) et *pnigō* (étrangler, suffoquer). L'étouffement est une privation du *pneuma* (le souffle). La prolifération des épines symbolise la multiplicité des préoccupations horizontales qui viennent littéralement étrangler l'axe respiratoire et vertical de l'âme." },
-          { "greek": "αὐτό.", "gloss": "elle" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἕτερον",
+            "gloss": "une_autre"
+          },
+          {
+            "greek": "ἔπεσεν",
+            "gloss": "tomba"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "au"
+          },
+          {
+            "greek": "μέσῳ",
+            "gloss": "milieu"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀκανθῶν,",
+            "gloss": "épines"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συμφυεῖσαι",
+            "gloss": "ayant_poussé_ensemble"
+          },
+          {
+            "greek": "αἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἄκανθαι",
+            "gloss": "épines"
+          },
+          {
+            "greek": "ἀπέπνιξαν",
+            "gloss": "étouffèrent/étranglèrent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (complètement) et *pnigō* (étrangler, suffoquer). L'étouffement est une privation du *pneuma* (le souffle). La prolifération des épines symbolise la multiplicité des préoccupations horizontales qui viennent littéralement étrangler l'axe respiratoire et vertical de l'âme.",
+              "related": [
+                "ἄκανθαι",
+                "αὐτό."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτό.",
+            "gloss": "elle"
+          }
         ]
       },
       {
@@ -92,27 +283,90 @@
           "darby": "Et d'autres tombèrent dans la bonne terre ; et ayant levé, ils produisirent du fruit au centuple. En disant ces choses, il criait : Qui a des oreilles pour entendre, qu'il entende."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἕτερον", "gloss": "une_autre" },
-          { "greek": "ἔπεσεν", "gloss": "tomba" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "γῆν", "gloss": "terre" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἀγαθήν,", "gloss": "bonne" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "φυὲν", "gloss": "ayant_poussé" },
-          { "greek": "ἐποίησεν", "gloss": "produisit" },
-          { "greek": "καρπὸν", "gloss": "du_fruit" },
-          { "greek": "ἑκατονταπλασίονα.", "gloss": "au_centuple" },
-          { "greek": "Ταῦτα", "gloss": "Ces_choses" },
-          { "greek": "λέγων", "gloss": "disant" },
-          { "greek": "ἐφώνει·", "gloss": "il_criait" },
-          { "greek": "Ὁ", "gloss": "Celui" },
-          { "greek": "ἔχων", "gloss": "ayant" },
-          { "greek": "ὦτα", "gloss": "des_oreilles" },
-          { "greek": "ἀκούειν", "gloss": "pour_entendre" },
-          { "greek": "ἀκουέτω.", "gloss": "qu'il_entende" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἕτερον",
+            "gloss": "une_autre"
+          },
+          {
+            "greek": "ἔπεσεν",
+            "gloss": "tomba"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆν",
+            "gloss": "terre"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀγαθήν,",
+            "gloss": "bonne"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φυὲν",
+            "gloss": "ayant_poussé"
+          },
+          {
+            "greek": "ἐποίησεν",
+            "gloss": "produisit"
+          },
+          {
+            "greek": "καρπὸν",
+            "gloss": "du_fruit"
+          },
+          {
+            "greek": "ἑκατονταπλασίονα.",
+            "gloss": "au_centuple"
+          },
+          {
+            "greek": "Ταῦτα",
+            "gloss": "Ces_choses"
+          },
+          {
+            "greek": "λέγων",
+            "gloss": "disant"
+          },
+          {
+            "greek": "ἐφώνει·",
+            "gloss": "il_criait"
+          },
+          {
+            "greek": "Ὁ",
+            "gloss": "Celui"
+          },
+          {
+            "greek": "ἔχων",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "ὦτα",
+            "gloss": "des_oreilles"
+          },
+          {
+            "greek": "ἀκούειν",
+            "gloss": "pour_entendre"
+          },
+          {
+            "greek": "ἀκουέτω.",
+            "gloss": "qu'il_entende"
+          }
         ]
       },
       {
@@ -122,17 +376,50 @@
           "darby": "Et ses disciples lui demandèrent, disant : Quelle est cette parabole ?"
         },
         "interlinear": [
-          { "greek": "Ἐπηρώτων", "gloss": "Interrogeaient" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "τίς", "gloss": "quelle" },
-          { "greek": "εἴη", "gloss": "pourrait_être" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "παραβολὴ", "gloss": "parabole" },
-          { "greek": "αὕτη.", "gloss": "cette" }
+          {
+            "greek": "Ἐπηρώτων",
+            "gloss": "Interrogeaient"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "τίς",
+            "gloss": "quelle"
+          },
+          {
+            "greek": "εἴη",
+            "gloss": "pourrait_être"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "παραβολὴ",
+            "gloss": "parabole"
+          },
+          {
+            "greek": "αὕτη.",
+            "gloss": "cette"
+          }
         ]
       },
       {
@@ -142,31 +429,114 @@
           "darby": "Et il dit : À vous il est donné de connaître les mystères du royaume de Dieu ; mais aux autres, en paraboles, afin que voyant ils ne voient pas, et qu'entendant ils ne comprennent pas."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Il" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Ὑμῖν", "gloss": "À_vous" },
-          { "greek": "δέδοται", "gloss": "il_a_été_donné" },
-          { "greek": "γνῶναι", "gloss": "de_connaître" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "μυστήρια", "gloss": "mystères" },
-          { "greek": "τῆς", "gloss": "du" },
-          { "greek": "βασιλείας", "gloss": "royaume" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ,", "gloss": "Dieu" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "λοιποῖς", "gloss": "autres/restants" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "παραβολαῖς,", "gloss": "paraboles" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "βλέποντες", "gloss": "voyant" },
-          { "greek": "μὴ", "gloss": "ne_pas" },
-          { "greek": "βλέπωσιν", "gloss": "ils_voient" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀκούοντες", "gloss": "entendant" },
-          { "greek": "μὴ", "gloss": "ne_pas" },
-          { "greek": "συνιῶσιν.", "gloss": "ils_comprennent", "analyse": "Du verbe *syniēmi*, composé de *syn-* (avec/ensemble) et *hiēmi* (envoyer, mettre). Comprendre spirituellement (*syniōsin*), ce n'est pas accumuler des données, c'est 'mettre ensemble', synthétiser. L'Ego non-éveillé perçoit des fragments séparés (dualité), tandis que la Conscience unifiée relie les signes pour saisir l'Axe vertical." }
+          {
+            "greek": "ὁ",
+            "gloss": "Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ὑμῖν",
+            "gloss": "À_vous"
+          },
+          {
+            "greek": "δέδοται",
+            "gloss": "il_a_été_donné"
+          },
+          {
+            "greek": "γνῶναι",
+            "gloss": "de_connaître"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μυστήρια",
+            "gloss": "mystères"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "βασιλείας",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "λοιποῖς",
+            "gloss": "autres/restants"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "παραβολαῖς,",
+            "gloss": "paraboles"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "βλέποντες",
+            "gloss": "voyant"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "βλέπωσιν",
+            "gloss": "ils_voient"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀκούοντες",
+            "gloss": "entendant"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "συνιῶσιν.",
+            "gloss": "ils_comprennent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *syniēmi*, composé de *syn-* (avec/ensemble) et *hiēmi* (envoyer, mettre). Comprendre spirituellement (*syniōsin*), ce n'est pas accumuler des données, c'est 'mettre ensemble', synthétiser. L'Ego non-éveillé perçoit des fragments séparés (dualité), tandis que la Conscience unifiée relie les signes pour saisir l'Axe vertical.",
+              "related": [
+                "μὴ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -176,18 +546,63 @@
           "darby": "Or voici ce qu'est la parabole : la semence est la parole de Dieu."
         },
         "interlinear": [
-          { "greek": "Ἔστιν", "gloss": "Est" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὕτη", "gloss": "celle-ci/voici" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "παραβολή·", "gloss": "parabole" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "σπόρος", "gloss": "semence", "analyse": "Le mot *sporos* indique le principe séminal. La 'Parole' (*Logos*) n'est pas un discours moral ou un texte à analyser intellectuellement. C'est le code génétique de l'Incréé, une information pure dotée d'une dynamique de croissance, destinée à féconder la matrice humaine." },
-          { "greek": "ἐστὶν", "gloss": "est" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "λόγος", "gloss": "Parole" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ.", "gloss": "Dieu" }
+          {
+            "greek": "Ἔστιν",
+            "gloss": "Est"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὕτη",
+            "gloss": "celle-ci/voici"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "παραβολή·",
+            "gloss": "parabole"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "σπόρος",
+            "gloss": "semence",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot *sporos* indique le principe séminal. La 'Parole' (*Logos*) n'est pas un discours moral ou un texte à analyser intellectuellement. C'est le code génétique de l'Incréé, une information pure dotée d'une dynamique de croissance, destinée à féconder la matrice humaine.",
+              "related": [
+                "ὁ",
+                "ἐστὶν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγος",
+            "gloss": "Parole"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ.",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -197,30 +612,111 @@
           "darby": "Et ceux qui sont le long du chemin, sont ceux qui entendent ; ensuite vient le diable et il ôte la parole de leur cœur, de peur qu'en croyant ils ne soient sauvés."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Ceux" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "παρὰ", "gloss": "le_long_de" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ὁδόν", "gloss": "route" },
-          { "greek": "εἰσιν", "gloss": "sont" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "ἀκούσαντες,", "gloss": "ayant_entendu" },
-          { "greek": "εἶτα", "gloss": "ensuite" },
-          { "greek": "ἔρχεται", "gloss": "vient" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "διάβολος", "gloss": "diable", "analyse": "Composé de *dia-* (à travers, séparer) et *ballō* (jeter). Le Diabolos n'est pas un personnage mythologique, mais la force entropique de division. C'est l'énergie du mental dispersif qui 'jette en travers' de l'axe vertical, fragmentant l'attention pour empêcher le germe de se fixer." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αἴρει", "gloss": "enlève" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "λόγον", "gloss": "parole" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "καρδίας", "gloss": "cœur" },
-          { "greek": "αὐτῶν,", "gloss": "d'eux" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne_pas" },
-          { "greek": "πιστεύσαντες", "gloss": "ayant_cru" },
-          { "greek": "σωθῶσιν.", "gloss": "ils_soient_sauvés" }
+          {
+            "greek": "οἱ",
+            "gloss": "Ceux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "le_long_de"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὁδόν",
+            "gloss": "route"
+          },
+          {
+            "greek": "εἰσιν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἀκούσαντες,",
+            "gloss": "ayant_entendu"
+          },
+          {
+            "greek": "εἶτα",
+            "gloss": "ensuite"
+          },
+          {
+            "greek": "ἔρχεται",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "διάβολος",
+            "gloss": "diable",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *dia-* (à travers, séparer) et *ballō* (jeter). Le Diabolos n'est pas un personnage mythologique, mais la force entropique de division. C'est l'énergie du mental dispersif qui 'jette en travers' de l'axe vertical, fragmentant l'attention pour empêcher le germe de se fixer.",
+              "related": [
+                "ὁ",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αἴρει",
+            "gloss": "enlève"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "parole"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "καρδίας",
+            "gloss": "cœur"
+          },
+          {
+            "greek": "αὐτῶν,",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "πιστεύσαντες",
+            "gloss": "ayant_cru"
+          },
+          {
+            "greek": "σωθῶσιν.",
+            "gloss": "ils_soient_sauvés"
+          }
         ]
       },
       {
@@ -230,33 +726,122 @@
           "darby": "Et ceux qui sont sur le roc, sont ceux qui, lorsqu'ils entendent, reçoivent la parole avec joie ; et ceux-ci n'ont pas de racine : ils croient pour un temps, et au temps de la tentation ils se retirent."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Ceux" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "πέτρας", "gloss": "roche" },
-          { "greek": "οἳ", "gloss": "qui" },
-          { "greek": "ὅταν", "gloss": "lorsqu'" },
-          { "greek": "ἀκούσωσιν", "gloss": "ils_entendent" },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "χαρᾶς", "gloss": "joie" },
-          { "greek": "δέχονται", "gloss": "reçoivent" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "λόγον,", "gloss": "parole" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οὗτοι", "gloss": "ceux-ci" },
-          { "greek": "ῥίζαν", "gloss": "racine" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἔχουσιν,", "gloss": "ils_ont" },
-          { "greek": "οἳ", "gloss": "lesquels" },
-          { "greek": "πρὸς", "gloss": "pour" },
-          { "greek": "καιρὸν", "gloss": "un_temps" },
-          { "greek": "πιστεύουσιν", "gloss": "croient" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "καιρῷ", "gloss": "un_temps" },
-          { "greek": "πειρασμοῦ", "gloss": "de_tentation/d'épreuve" },
-          { "greek": "ἀφίστανται.", "gloss": "ils_se_retirent/tombent", "analyse": "Composé de *apo-* (loin de, séparation) et *histēmi* (se tenir debout). Faute de racine (*rhiza*), l'Ego superficiel, malgré son euphorie émotionnelle temporaire, ne peut maintenir l'ancrage vertical. Face à l'épreuve du Monde duel, il s'éloigne (*apo*) de sa stature verticale (*histēmi*) pour s'effondrer." }
+          {
+            "greek": "οἱ",
+            "gloss": "Ceux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "πέτρας",
+            "gloss": "roche"
+          },
+          {
+            "greek": "οἳ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ὅταν",
+            "gloss": "lorsqu'"
+          },
+          {
+            "greek": "ἀκούσωσιν",
+            "gloss": "ils_entendent"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "χαρᾶς",
+            "gloss": "joie"
+          },
+          {
+            "greek": "δέχονται",
+            "gloss": "reçoivent"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγον,",
+            "gloss": "parole"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὗτοι",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "ῥίζαν",
+            "gloss": "racine"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἔχουσιν,",
+            "gloss": "ils_ont"
+          },
+          {
+            "greek": "οἳ",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "καιρὸν",
+            "gloss": "un_temps"
+          },
+          {
+            "greek": "πιστεύουσιν",
+            "gloss": "croient"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "καιρῷ",
+            "gloss": "un_temps"
+          },
+          {
+            "greek": "πειρασμοῦ",
+            "gloss": "de_tentation/d'épreuve"
+          },
+          {
+            "greek": "ἀφίστανται.",
+            "gloss": "ils_se_retirent/tombent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (loin de, séparation) et *histēmi* (se tenir debout). Faute de racine (*rhiza*), l'Ego superficiel, malgré son euphorie émotionnelle temporaire, ne peut maintenir l'ancrage vertical. Face à l'épreuve du Monde duel, il s'éloigne (*apo*) de sa stature verticale (*histēmi*) pour s'effondrer.",
+              "related": [
+                "πειρασμοῦ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -266,30 +851,110 @@
           "darby": "Et ce qui est tombé dans les épines, ce sont ceux qui, ayant entendu et s'en étant allés, sont étouffés par les soucis et par les richesses et par les voluptés de la vie, et ils ne portent pas de fruit à maturité."
         },
         "interlinear": [
-          { "greek": "τὸ", "gloss": "Ce" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "ἀκάνθας", "gloss": "épines" },
-          { "greek": "πεσόν,", "gloss": "étant_tombé" },
-          { "greek": "οὗτοί", "gloss": "ceux-ci" },
-          { "greek": "εἰσιν", "gloss": "sont" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "ἀκούσαντες,", "gloss": "ayant_entendu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὑπὸ", "gloss": "par" },
-          { "greek": "μεριμνῶν", "gloss": "des_soucis" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πλούτου", "gloss": "de_la_richesse" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἡδονῶν", "gloss": "des_voluptés/plaisirs" },
-          { "greek": "τοῦ", "gloss": "de_la" },
-          { "greek": "βίου", "gloss": "vie_biologique" },
-          { "greek": "πορευόμενοι", "gloss": "faisant_route/s'en_allant" },
-          { "greek": "συμπνίγονται", "gloss": "sont_étouffés" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "τελεσφοροῦσιν.", "gloss": "ne_portent_à_maturité", "analyse": "Composé de *telos* (le but, la perfection, l'achèvement) et *pherō* (porter). Le but de la semence est l'engendrement divin. Ici, l'énergie est dispersée par les sollicitations horizontales du monde (soucis, richesses). Le développement est avorté : la graine pousse mais échoue à atteindre son *Telos*." }
+          {
+            "greek": "τὸ",
+            "gloss": "Ce"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀκάνθας",
+            "gloss": "épines"
+          },
+          {
+            "greek": "πεσόν,",
+            "gloss": "étant_tombé"
+          },
+          {
+            "greek": "οὗτοί",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "εἰσιν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἀκούσαντες,",
+            "gloss": "ayant_entendu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "μεριμνῶν",
+            "gloss": "des_soucis"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πλούτου",
+            "gloss": "de_la_richesse"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡδονῶν",
+            "gloss": "des_voluptés/plaisirs"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "βίου",
+            "gloss": "vie_biologique"
+          },
+          {
+            "greek": "πορευόμενοι",
+            "gloss": "faisant_route/s'en_allant"
+          },
+          {
+            "greek": "συμπνίγονται",
+            "gloss": "sont_étouffés"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "τελεσφοροῦσιν.",
+            "gloss": "ne_portent_à_maturité",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *telos* (le but, la perfection, l'achèvement) et *pherō* (porter). Le but de la semence est l'engendrement divin. Ici, l'énergie est dispersée par les sollicitations horizontales du monde (soucis, richesses). Le développement est avorté : la graine pousse mais échoue à atteindre son *Telos*.",
+              "related": [
+                "οὐ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -299,34 +964,196 @@
           "darby": "Et ce qui est dans la bonne terre, ce sont ceux qui, ayant entendu la parole, la retiennent dans un cœur honnête et bon, et portent du fruit avec patience."
         },
         "interlinear": [
-          { "greek": "τὸ", "gloss": "Ce" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "καλῇ", "gloss": "belle/honnête" },
-          { "greek": "γῇ,", "gloss": "terre" },
-          { "greek": "οὗτοί", "gloss": "ceux-ci" },
-          { "greek": "εἰσιν", "gloss": "sont" },
-          { "greek": "οἵτινες", "gloss": "lesquels" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "καρδίᾳ", "gloss": "un_cœur" },
-          { "greek": "καλῇ", "gloss": "beau" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀγαθῇ", "gloss": "bon" },
-          { "greek": "ἀκούσαντες", "gloss": "ayant_entendu" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "λόγον", "gloss": "Parole" },
-          { "greek": "κατέχουσιν", "gloss": "la_retiennent/conservent" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "καρποφοροῦσιν", "gloss": "portent_du_fruit" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ὑπομονῇ.", "gloss": "la_persévérance/patience", "analyse": "Composé de *hypo-* (sous) et *menō* (demeurer, rester). L'*hypomonē* n'est pas une simple attente passive. C'est la capacité de 'demeurer sous' la tension, de maintenir activement la polarité verticale au sein de la pression de la matrice matérielle. C'est le creuset (l'athanor) indispensable pour que le *Logos* accomplisse sa transmutation et porte son fruit." }
+          {
+            "greek": "τὸ",
+            "gloss": "Ce"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "καλῇ",
+            "gloss": "belle/honnête"
+          },
+          {
+            "greek": "γῇ,",
+            "gloss": "terre"
+          },
+          {
+            "greek": "οὗτοί",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "εἰσιν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "οἵτινες",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "καρδίᾳ",
+            "gloss": "un_cœur"
+          },
+          {
+            "greek": "καλῇ",
+            "gloss": "beau"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀγαθῇ",
+            "gloss": "bon"
+          },
+          {
+            "greek": "ἀκούσαντες",
+            "gloss": "ayant_entendu"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "Parole"
+          },
+          {
+            "greek": "κατέχουσιν",
+            "gloss": "la_retiennent/conservent"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "καρποφοροῦσιν",
+            "gloss": "portent_du_fruit"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ὑπομονῇ.",
+            "gloss": "la_persévérance/patience",
+            "annotation": {
+              "type": "racine",
+              "title": "Porter du fruit dans l’endurance",
+              "content": "Approfondissement spirituel : Composé de *hypo-* (sous) et *menō* (demeurer, rester). L'*hypomonē* n'est pas une simple attente passive. C'est la capacité de 'demeurer sous' la tension, de maintenir activement la polarité verticale au sein de la pression de la matrice matérielle. C'est le creuset (l'athanor) indispensable pour que le *Logos* accomplisse sa transmutation et porte son fruit.",
+              "related": [
+                "ἐν"
+              ]
+            }
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἰκμάδα (ikmada) : Traduit par 'humidité' (Segond). Le terme *ikmas* désigne la sève vitale, l'eau matricielle originelle. Dans la tradition philocalique, cette humidité représente la componction, l'adoucissement du cœur et les larmes. Sans cette 'eau' (ce creux réceptif), l'enthousiasme intellectuel ou émotionnel de l'Ego ne fait que brûler la graine au lieu de la faire germer.\n\n• Verset 14 - συμπνίγονται (sympnigontai) : Traduit par 'sont étouffées'. Le verbe est une composition de *syn* (avec, ensemble) et *pnigo* (étrangler, asphyxier). Ce n'est pas une agression violente ou spectaculaire de l'extérieur. C'est un étranglement progressif, une asphyxie littérale du Souffle (*Pneuma*) par l'accumulation insidieuse des préoccupations mondaines. L'ego s'étrangle lui-même par sa propre saturation.\n\n• Verset 15 - ἐν ὑπομονῇ (en hypomonē) : Souvent traduit platement par 'avec persévérance' ou 'avec patience' (Segond, Darby). Ce terme est la clé de voûte de l'ascèse orthodoxe. Composé de *hypo* (sous) et *meno* (demeurer, rester). Ce n'est pas un simple entêtement moral. C'est l'acte héroïque de 'demeurer sous' la tension vibratoire de la Grâce, d'accepter la pression de la gestation divine sans fuir dans le divertissement mondain.\n\nAnalyse spirituelle et mystagogique :\n\nCette parabole décode le drame de l'engendrement de la conscience face aux forces du Monde duel. Le *Logos* (la semence) est constant et universel, mais c'est la structure réceptrice (la « terre », figurant les états de conscience de l'homme) qui détermine l'issue.\n\n1. L'imperméabilité et l'illusion émotionnelle\nLes deux premiers terrains illustrent les stratégies de sabotage du Monde horizontal. Le chemin durci est l'Ego totalement conditionné par la foule : la terre a été écrasée (*katapateo*). La semence rebondit et le diviseur (*diabolos*) l'emporte. Le sol rocailleux représente l'Ego émotionnel : la graine suscite un élan mental superficiel (la joie), mais sans l'eau matricielle (*ikmas*) et la profondeur ontologique, l'Ego s'effondre (*aphistantai*) dès que l'épreuve exige de quitter sa zone de confort mondaine.\n\n2. L'asphyxie par le Monde duel\nLe troisième terrain (les épines) est celui de la saturation. L'étouffement (*sympnigō*) est provoqué par la multiplicité des désirs, les richesses (l'Avoir) et les angoisses psychologiques (*merimnai*). Cette saturation crée un bruit de fond qui asphyxie la respiration de l'Esprit. L'homme est tellement plein de ses propres préoccupations horizontales qu'il n'y a plus d'espace 'en creux' pour que la dynamique d'éveil parvienne à son achèvement (*telos*).\n\n3. Le Sujet unifié : la Kénose et l'Hypomonē\nLe quatrième terrain révèle la mécanique de l'Éveil. Il requiert l'intégration du principe séminal dans un espace intérieur nettoyé (un cœur 'noble et bon'). La clé se trouve dans l'*hypomonē* : le courage de 'demeurer sous' la tension vibratoire sans fuir dans les réactions égotiques. Le Sujet devient la matrice qui accepte la pression du Royaume. C'est dans ce silence et cette immobilité kénotique que le germe divin peut enfin s'incarner et porter un fruit qui transcende le monde."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἰκμάδα (ikmada) : Traduit par 'humidité' (Segond). Le terme *ikmas* désigne la sève vitale, l'eau matricielle originelle. Dans la tradition philocalique, cette humidité représente la componction, l'adoucissement du cœur et les larmes. Sans cette 'eau' (ce creux réceptif), l'enthousiasme intellectuel ou émotionnel de l'Ego ne fait que brûler la graine au lieu de la faire germer.\n\n• Verset 14 - συμπνίγονται (sympnigontai) : Traduit par 'sont étouffées'. Le verbe est une composition de *syn* (avec, ensemble) et *pnigo* (étrangler, asphyxier). Ce n'est pas une agression violente ou spectaculaire de l'extérieur. C'est un étranglement progressif, une asphyxie littérale du Souffle (*Pneuma*) par l'accumulation insidieuse des préoccupations mondaines. L'ego s'étrangle lui-même par sa propre saturation.\n\n• Verset 15 - ἐν ὑπομονῇ (en hypomonē) : Souvent traduit platement par 'avec persévérance' ou 'avec patience' (Segond, Darby). Ce terme est la clé de voûte de l'ascèse orthodoxe. Composé de *hypo* (sous) et *meno* (demeurer, rester). Ce n'est pas un simple entêtement moral. C'est l'acte héroïque de 'demeurer sous' la tension vibratoire de la Grâce, d'accepter la pression de la gestation divine sans fuir dans le divertissement mondain.\n\nAnalyse spirituelle et mystagogique :\n\nCette parabole décode le drame de l'engendrement de la conscience face aux forces du Monde duel. Le *Logos* (la semence) est constant et universel, mais c'est la structure réceptrice (la « terre », figurant les états de conscience de l'homme) qui détermine l'issue.\n\n1. L'imperméabilité et l'illusion émotionnelle\nLes deux premiers terrains illustrent les stratégies de sabotage du Monde horizontal. Le chemin durci est l'Ego totalement conditionné par la foule : la terre a été écrasée (*katapateo*). La semence rebondit et le diviseur (*diabolos*) l'emporte. Le sol rocailleux représente l'Ego émotionnel : la graine suscite un élan mental superficiel (la joie), mais sans l'eau matricielle (*ikmas*) et la profondeur ontologique, l'Ego s'effondre (*aphistantai*) dès que l'épreuve exige de quitter sa zone de confort mondaine.\n\n2. L'asphyxie par le Monde duel\nLe troisième terrain (les épines) est celui de la saturation. L'étouffement (*sympnigō*) est provoqué par la multiplicité des désirs, les richesses (l'Avoir) et les angoisses psychologiques (*merimnai*). Cette saturation crée un bruit de fond qui asphyxie la respiration de l'Esprit. L'homme est tellement plein de ses propres préoccupations horizontales qu'il n'y a plus d'espace 'en creux' pour que la dynamique d'éveil parvienne à son achèvement (*telos*).\n\n3. Le Sujet unifié : la Kénose et l'Hypomonē\nLe quatrième terrain révèle la mécanique de l'Éveil. Il requiert l'intégration du principe séminal dans un espace intérieur nettoyé (un cœur 'noble et bon'). La clé se trouve dans l'*hypomonē* : le courage de 'demeurer sous' la tension vibratoire sans fuir dans les réactions égotiques. Le Sujet devient la matrice qui accepte la pression du Royaume. C'est dans ce silence et cette immobilité kénotique que le germe divin peut enfin s'incarner et porter un fruit qui transcende le monde.\n\nComplément de lecture : la semence est identique, mais son devenir dépend de l’accueil. Le récit se déplace du sol extérieur vers le cœur : entendre, recevoir, retenir et porter du fruit dans l’endurance. La tradition philocalique permet de lire l’humidité comme componction et l’étouffement comme dispersion du cœur, sans effacer l’image agricole.",
+    "homiletic_axes": [
+      {
+        "title": "Une même semence, plusieurs accueils",
+        "content": "Le semeur ne change pas de parole selon les terrains. La parabole déplace l’attention vers les conditions d’écoute et de maturation.",
+        "keywords": [
+          "σπείρων",
+          "σπόρον",
+          "λόγος",
+          "θεοῦ."
+        ]
+      },
+      {
+        "title": "Fouler, dessécher, étouffer",
+        "content": "Le chemin, la pierre et les épines décrivent trois manières de perdre la parole : exposition, absence de profondeur et concurrence des soucis ou plaisirs.",
+        "keywords": [
+          "κατεπατήθη",
+          "ἐξηράνθη",
+          "συμπνίγονται",
+          "τελεσφοροῦσιν."
+        ]
+      },
+      {
+        "title": "Retenir dans un cœur beau et bon",
+        "content": "Le bon sol n’est pas une perfection innée : il écoute, retient et porte progressivement du fruit dans l’endurance.",
+        "keywords": [
+          "καρδίᾳ",
+          "κατέχουσιν",
+          "καρποφοροῦσιν",
+          "ὑπομονῇ."
+        ]
+      },
+      {
+        "title": "Des œuvres réellement fécondes",
+        "content": "Tite oppose les controverses inutiles au soin des œuvres bonnes, afin que les croyants ne restent pas sans fruit.",
+        "keywords": [
+        "μάταιοι.",
+          "καλῶν",
+          "ἔργων",
+        "ἄκαρποι."
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche du Semeur : une parole, un geste, une opposition, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : attente d’un retour, deuil, stérilité, dispersion intérieure, indifférence, faiblesse ou désir de porter du fruit."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : aimer sans calcul, compatir, écouter, retenir la parole, servir, franchir une distance ou recevoir la grâce dans une faiblesse."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes souffrantes."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Retenir la parole pour ne pas rester sans fruit",
+        "reference": "Luc 8, 5-15 ; Tite 3, 8-15",
+        "content": "La parabole demande comment la parole reçue parvient à fructifier ; Tite oppose les controverses stériles au soin des œuvres bonnes. L’écoute véritable se reconnaît à un fruit porté avec endurance.",
+        "connections": []
+      }
+    ]
   },
- "apostle": {
+  "apostle": {
     "reference": "Tite 3, 8-15",
     "title": "L'Ancrage Vertical face au Labyrinthe du Mental Duel",
     "interlinear": [
@@ -337,30 +1164,111 @@
           "darby": "Cette parole est certaine, et je veux que tu insistes fortement sur ces choses, afin que ceux qui ont cru Dieu s'étudient à exceller dans les bonnes œuvres. Ces choses sont bonnes et utiles aux hommes."
         },
         "interlinear": [
-          { "greek": "Πιστὸς", "gloss": "Fidèle/Certaine" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "λόγος,", "gloss": "parole" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "τούτων", "gloss": "ces_choses" },
-          { "greek": "βούλομαί", "gloss": "je_veux" },
-          { "greek": "σε", "gloss": "que_tu" },
-          { "greek": "διαβεβαιοῦσθαι,", "gloss": "affirmes_fortement" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "φροντίζωσιν", "gloss": "ils_s'appliquent" },
-          { "greek": "καλῶν", "gloss": "aux_belles/bonnes" },
-          { "greek": "ἔργων", "gloss": "œuvres" },
-          { "greek": "προΐστασθαι", "gloss": "à_exceller/à_se_tenir_au_premier_rang", "analyse": "Composé de *pro-* (devant) et *histēmi* (se tenir debout). Il ne s'agit pas d'un simple activisme moral ('faire' des bonnes actions), mais d'une posture ontologique. La foi en Dieu redresse l'homme qui se 'tient debout au premier rang' (*pro-histēmi*). L'action lumineuse (*kala erga*) est la conséquence directe de ce ré-ancrage vertical." },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "πεπιστευκότες", "gloss": "ayant_cru" },
-          { "greek": "θεῷ.", "gloss": "en_Dieu" },
-          { "greek": "Ταῦτά", "gloss": "Ces_choses" },
-          { "greek": "ἐστιν", "gloss": "sont" },
-          { "greek": "καλὰ", "gloss": "bonnes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὠφέλιμα", "gloss": "utiles" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "ἀνθρώποις·", "gloss": "hommes" }
+          {
+            "greek": "Πιστὸς",
+            "gloss": "Fidèle/Certaine"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγος,",
+            "gloss": "parole"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "τούτων",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "βούλομαί",
+            "gloss": "je_veux"
+          },
+          {
+            "greek": "σε",
+            "gloss": "que_tu"
+          },
+          {
+            "greek": "διαβεβαιοῦσθαι,",
+            "gloss": "affirmes_fortement"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "φροντίζωσιν",
+            "gloss": "ils_s'appliquent"
+          },
+          {
+            "greek": "καλῶν",
+            "gloss": "aux_belles/bonnes"
+          },
+          {
+            "greek": "ἔργων",
+            "gloss": "œuvres"
+          },
+          {
+            "greek": "προΐστασθαι",
+            "gloss": "à_exceller/à_se_tenir_au_premier_rang",
+            "annotation": {
+              "type": "racine",
+              "title": "Se consacrer aux bonnes œuvres",
+              "content": "Approfondissement spirituel : Composé de *pro-* (devant) et *histēmi* (se tenir debout). Il ne s'agit pas d'un simple activisme moral ('faire' des bonnes actions), mais d'une posture ontologique. La foi en Dieu redresse l'homme qui se 'tient debout au premier rang' (*pro-histēmi*). L'action lumineuse (*kala erga*) est la conséquence directe de ce ré-ancrage vertical.",
+              "related": [
+                "ἔργων",
+                "οἱ"
+              ]
+            }
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "πεπιστευκότες",
+            "gloss": "ayant_cru"
+          },
+          {
+            "greek": "θεῷ.",
+            "gloss": "en_Dieu"
+          },
+          {
+            "greek": "Ταῦτά",
+            "gloss": "Ces_choses"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "καλὰ",
+            "gloss": "bonnes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὠφέλιμα",
+            "gloss": "utiles"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἀνθρώποις·",
+            "gloss": "hommes"
+          }
         ]
       },
       {
@@ -370,22 +1278,87 @@
           "darby": "Mais évite les folles questions, et les généalogies, et les contestations, et les disputes touchant la loi ; car elles sont inutiles et vaines."
         },
         "interlinear": [
-          { "greek": "μωρὰς", "gloss": "Folles/Stupides" },
-          { "greek": "δὲ", "gloss": "mais" },
-          { "greek": "ζητήσεις", "gloss": "discussions/recherches" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "γενεαλογίας", "gloss": "généalogies" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔρεις", "gloss": "querelles" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μάχας", "gloss": "combats/disputes" },
-          { "greek": "νομικὰς", "gloss": "relatives_à_la_loi" },
-          { "greek": "περιΐστασο,", "gloss": "tiens-toi_à_l'écart/contourne", "analyse": "Composé de *peri-* (autour) et *histēmi* (se tenir debout). Littéralement : 'se tenir debout à l'écart/autour'. Contraste absolu avec le *pro-histēmi* du verset 8. L'Apôtre demande de maintenir sa stature verticale face au labyrinthe du mental intellectuel. Le Moi doit contourner l'engrenage des débats duellistes pour ne pas y perdre son ancrage énergétique." },
-          { "greek": "εἰσὶν", "gloss": "elles_sont" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἀνωφελεῖς", "gloss": "inutiles" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μάταιοι.", "gloss": "vaines/vides", "analyse": "Le mot *mataios* désigne ce qui est frappé de vacuité, dénué de fruit spirituel. Le bouillonnement du mental horizontal produit beaucoup de bruit (disputes, généalogies) mais accouche d'un vide ontologique total." }
+          {
+            "greek": "μωρὰς",
+            "gloss": "Folles/Stupides"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ζητήσεις",
+            "gloss": "discussions/recherches"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "γενεαλογίας",
+            "gloss": "généalogies"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔρεις",
+            "gloss": "querelles"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μάχας",
+            "gloss": "combats/disputes"
+          },
+          {
+            "greek": "νομικὰς",
+            "gloss": "relatives_à_la_loi"
+          },
+          {
+            "greek": "περιΐστασο,",
+            "gloss": "tiens-toi_à_l'écart/contourne",
+            "annotation": {
+              "type": "racine",
+              "title": "Évite les controverses",
+              "content": "Approfondissement spirituel : Composé de *peri-* (autour) et *histēmi* (se tenir debout). Littéralement : 'se tenir debout à l'écart/autour'. Contraste absolu avec le *pro-histēmi* du verset 8. L'Apôtre demande de maintenir sa stature verticale face au labyrinthe du mental intellectuel. Le Moi doit contourner l'engrenage des débats duellistes pour ne pas y perdre son ancrage énergétique.",
+              "related": [
+                "νομικὰς",
+                "εἰσὶν"
+              ]
+            }
+          },
+          {
+            "greek": "εἰσὶν",
+            "gloss": "elles_sont"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἀνωφελεῖς",
+            "gloss": "inutiles"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μάταιοι.",
+            "gloss": "vaines/vides",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot *mataios* désigne ce qui est frappé de vacuité, dénué de fruit spirituel. Le bouillonnement du mental horizontal produit beaucoup de bruit (disputes, généalogies) mais accouche d'un vide ontologique total.",
+              "related": [
+                "καὶ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -395,14 +1368,55 @@
           "darby": "Rejette l'homme hérétique, après une première et une seconde admonestation,"
         },
         "interlinear": [
-          { "greek": "Αἱρετικὸν", "gloss": "Hérétique/Factieux", "analyse": "Dérivé du verbe *haireomai* (choisir, prendre pour soi). L'hérésie, étymologiquement, n'est pas d'abord une erreur dogmatique. C'est l'acte du mental égotique qui 'choisit', trie, s'isole et sépare. C'est l'esprit de faction, la pathologie ultime de la dualité, qui brise l'Unité du divin pour s'enfermer dans l'opinion partielle." },
-          { "greek": "ἄνθρωπον", "gloss": "L'homme" },
-          { "greek": "μετὰ", "gloss": "après" },
-          { "greek": "μίαν", "gloss": "une_première" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δευτέραν", "gloss": "une_seconde" },
-          { "greek": "νουθεσίαν", "gloss": "admonestation", "analyse": "Composé de *nous* (l'intellect, la pensée supérieure) et *tithēmi* (placer, poser). Le but de l'avertissement est de 'poser l'esprit', de tenter de réaligner la conscience dans son axe vertical. Si après deux tentatives, l'Ego s'obstine dans la fragmentation, le contact doit être rompu." },
-          { "greek": "παραιτοῦ,", "gloss": "rejette/éloigne-toi" }
+          {
+            "greek": "Αἱρετικὸν",
+            "gloss": "Hérétique/Factieux",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Dérivé du verbe *haireomai* (choisir, prendre pour soi). L'hérésie, étymologiquement, n'est pas d'abord une erreur dogmatique. C'est l'acte du mental égotique qui 'choisit', trie, s'isole et sépare. C'est l'esprit de faction, la pathologie ultime de la dualité, qui brise l'Unité du divin pour s'enfermer dans l'opinion partielle.",
+              "related": [
+                "ἄνθρωπον"
+              ]
+            }
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "L'homme"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "après"
+          },
+          {
+            "greek": "μίαν",
+            "gloss": "une_première"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δευτέραν",
+            "gloss": "une_seconde"
+          },
+          {
+            "greek": "νουθεσίαν",
+            "gloss": "admonestation",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *nous* (l'intellect, la pensée supérieure) et *tithēmi* (placer, poser). Le but de l'avertissement est de 'poser l'esprit', de tenter de réaligner la conscience dans son axe vertical. Si après deux tentatives, l'Ego s'obstine dans la fragmentation, le contact doit être rompu.",
+              "related": [
+                "δευτέραν",
+                "παραιτοῦ,"
+              ]
+            }
+          },
+          {
+            "greek": "παραιτοῦ,",
+            "gloss": "rejette/éloigne-toi"
+          }
         ]
       },
       {
@@ -412,41 +1426,145 @@
           "darby": "sachant qu'un tel homme est perverti et pèche, étant condamné par lui-même."
         },
         "interlinear": [
-          { "greek": "εἰδὼς", "gloss": "sachant" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "ἐξέστραπται", "gloss": "est_perverti/renversé", "analyse": "Composé de *ek-* (hors de) et *strepho* (tourner, tordre). Il s'agit d'un renversement total, d'une torsion hors de l'Axe de l'Être. L'homme factieux s'est désaxé, retourné sur lui-même dans une inversion de la nature spirituelle." },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "τοιοῦτος", "gloss": "tel_homme" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἁμαρτάνει,", "gloss": "pèche/manque_le_but" },
-          { "greek": "ὢν", "gloss": "étant" },
-          { "greek": "αὐτοκατάκριτος.", "gloss": "condamné_par_lui-même", "analyse": "Concept spirituel foudroyant composé de *auto-* (soi-même), *kata-* (vers le bas, contre) et *krino* (juger/séparer). Le jugement n'est pas la punition d'un Dieu vengeur et extérieur. L'Ego est *auto-katakritos* : en s'obstinant dans la division (*hairetikos*), il devient la source de sa propre condamnation et déclenche sa dynamique de descente (*kata*). Il s'enferme de l'intérieur dans son circuit morbide." }
+          {
+            "greek": "εἰδὼς",
+            "gloss": "sachant"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ἐξέστραπται",
+            "gloss": "est_perverti/renversé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ek-* (hors de) et *strepho* (tourner, tordre). Il s'agit d'un renversement total, d'une torsion hors de l'Axe de l'Être. L'homme factieux s'est désaxé, retourné sur lui-même dans une inversion de la nature spirituelle.",
+              "related": [
+                "ὅτι",
+                "ὁ"
+              ]
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τοιοῦτος",
+            "gloss": "tel_homme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἁμαρτάνει,",
+            "gloss": "pèche/manque_le_but"
+          },
+          {
+            "greek": "ὢν",
+            "gloss": "étant"
+          },
+          {
+            "greek": "αὐτοκατάκριτος.",
+            "gloss": "condamné_par_lui-même",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Concept spirituel foudroyant composé de *auto-* (soi-même), *kata-* (vers le bas, contre) et *krino* (juger/séparer). Le jugement n'est pas la punition d'un Dieu vengeur et extérieur. L'Ego est *auto-katakritos* : en s'obstinant dans la division (*hairetikos*), il devient la source de sa propre condamnation et déclenche sa dynamique de descente (*kata*). Il s'enferme de l'intérieur dans son circuit morbide.",
+              "related": [
+                "ὢν"
+              ]
+            }
+          }
         ]
       },
-   {
+      {
         "verse_number": 12,
         "translations": {
           "segond": "Lorsque j'enverrai vers toi Artémas ou Tychique, hâte-toi de venir me rejoindre à Nicopolis; car c'est là que j'ai résolu de passer l'hiver.",
           "darby": "Quand j'enverrai Artémas auprès de toi, ou Tychique, empresse-toi de venir me joindre à Nicopolis ; car j'ai résolu de passer l'hiver là."
         },
         "interlinear": [
-          { "greek": "Ὅταν", "gloss": "Quand" },
-          { "greek": "πέμψω", "gloss": "j'enverrai" },
-          { "greek": "Ἀρτεμᾶν", "gloss": "Artémas" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "σὲ", "gloss": "toi" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "Τυχικόν,", "gloss": "Tychique" },
-          { "greek": "σπούδασον", "gloss": "hâte-toi/empresse-toi", "analyse": "Du verbe *spoudazō* (se hâter, s'empresser, agir avec zèle). Le zèle n'est pas ici une agitation mondaine, mais une célérité spirituelle. C'est le dynamisme de la Grâce qui met le Sujet en mouvement sans le laisser stagner dans l'inertie du Monde duel." },
-          { "greek": "ἐλθεῖν", "gloss": "de_venir" },
-          { "greek": "πρός", "gloss": "vers" },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Νικόπολιν,", "gloss": "Nicopolis" },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "κέκρικα", "gloss": "j'ai_jugé/décidé" },
-          { "greek": "παραχειμάσαι.", "gloss": "de_passer_l'hiver" }
+          {
+            "greek": "Ὅταν",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "πέμψω",
+            "gloss": "j'enverrai"
+          },
+          {
+            "greek": "Ἀρτεμᾶν",
+            "gloss": "Artémas"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "σὲ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "Τυχικόν,",
+            "gloss": "Tychique"
+          },
+          {
+            "greek": "σπούδασον",
+            "gloss": "hâte-toi/empresse-toi",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *spoudazō* (se hâter, s'empresser, agir avec zèle). Le zèle n'est pas ici une agitation mondaine, mais une célérité spirituelle. C'est le dynamisme de la Grâce qui met le Sujet en mouvement sans le laisser stagner dans l'inertie du Monde duel.",
+              "related": [
+                "Τυχικόν,",
+                "ἐλθεῖν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐλθεῖν",
+            "gloss": "de_venir"
+          },
+          {
+            "greek": "πρός",
+            "gloss": "vers"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Νικόπολιν,",
+            "gloss": "Nicopolis"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "κέκρικα",
+            "gloss": "j'ai_jugé/décidé"
+          },
+          {
+            "greek": "παραχειμάσαι.",
+            "gloss": "de_passer_l'hiver"
+          }
         ]
       },
       {
@@ -456,17 +1574,59 @@
           "darby": "Fais la conduite avec soin à Zénas le docteur de la loi, et à Apollos, afin que rien ne leur manque ;"
         },
         "interlinear": [
-          { "greek": "Ζηνᾶν", "gloss": "Zénas" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "νομικὸν", "gloss": "docteur_de_la_loi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἀπολλῶν", "gloss": "Apollos" },
-          { "greek": "σπουδαίως", "gloss": "avec_empressement/soin" },
-          { "greek": "πρόπεμψον,", "gloss": "fais_avancer/pourvois_au_voyage", "analyse": "Composé de *pro-* (en avant) et *pempō* (envoyer). Littéralement : 'envoyer en avant'. La solidarité matérielle dans l'Église primitive obéit à ce principe : propulser l'Axe vertical (les messagers) en avant pour que la Parole continue de percer le tissu horizontal du monde." },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μηδὲν", "gloss": "rien" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "λείπῃ.", "gloss": "ne_manque/fasse_défaut" }
+          {
+            "greek": "Ζηνᾶν",
+            "gloss": "Zénas"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "νομικὸν",
+            "gloss": "docteur_de_la_loi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἀπολλῶν",
+            "gloss": "Apollos"
+          },
+          {
+            "greek": "σπουδαίως",
+            "gloss": "avec_empressement/soin"
+          },
+          {
+            "greek": "πρόπεμψον,",
+            "gloss": "fais_avancer/pourvois_au_voyage",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *pro-* (en avant) et *pempō* (envoyer). Littéralement : 'envoyer en avant'. La solidarité matérielle dans l'Église primitive obéit à ce principe : propulser l'Axe vertical (les messagers) en avant pour que la Parole continue de percer le tissu horizontal du monde.",
+              "related": [
+                "σπουδαίως",
+                "ἵνα"
+              ]
+            }
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μηδὲν",
+            "gloss": "rien"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "λείπῃ.",
+            "gloss": "ne_manque/fasse_défaut"
+          }
         ]
       },
       {
@@ -476,22 +1636,87 @@
           "darby": "et que les nôtres aussi apprennent à exceller dans les bonnes œuvres pour les besoins nécessaires, afin qu'ils ne soient pas sans fruit."
         },
         "interlinear": [
-          { "greek": "μανθανέτωσαν", "gloss": "Qu'apprennent" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ἡμέτεροι", "gloss": "nôtres" },
-          { "greek": "καλῶν", "gloss": "aux_belles" },
-          { "greek": "ἔργων", "gloss": "œuvres" },
-          { "greek": "προΐστασθαι", "gloss": "à_exceller/à_se_tenir_au_premier_rang", "analyse": "On retrouve le *pro-histēmi* (se tenir debout devant) du verset 8. L'injonction est répétée pour clôturer l'épître : l'ancrage vertical dans l'Être doit se traduire par une stature prééminente dans l'action juste, qui vient percer la matière ('les besoins nécessaires')." },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "ἀναγκαίας", "gloss": "nécessaires/pressantes" },
-          { "greek": "χρείας,", "gloss": "nécessités/besoins" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne_pas" },
-          { "greek": "ὦσιν", "gloss": "ils_soient" },
-          { "greek": "ἄκαρποι.", "gloss": "sans_fruit", "analyse": "Le *alpha* privatif (*a-*) lié à *karpos* (le fruit). L'arbre sans fruit (l'homme désaxé) reçoit l'énergie mais ne parvient pas à la cristalliser, il ne rend rien à la matrice incréée. L'action juste est la concrétion, la manifestation tangible (*le fruit*) de l'Esprit descendant dans la matière." }
+          {
+            "greek": "μανθανέτωσαν",
+            "gloss": "Qu'apprennent"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἡμέτεροι",
+            "gloss": "nôtres"
+          },
+          {
+            "greek": "καλῶν",
+            "gloss": "aux_belles"
+          },
+          {
+            "greek": "ἔργων",
+            "gloss": "œuvres"
+          },
+          {
+            "greek": "προΐστασθαι",
+            "gloss": "à_exceller/à_se_tenir_au_premier_rang",
+            "annotation": {
+              "type": "racine",
+              "title": "Se consacrer aux bonnes œuvres",
+              "content": "Approfondissement spirituel : On retrouve le *pro-histēmi* (se tenir debout devant) du verset 8. L'injonction est répétée pour clôturer l'épître : l'ancrage vertical dans l'Être doit se traduire par une stature prééminente dans l'action juste, qui vient percer la matière ('les besoins nécessaires').",
+              "related": [
+                "ἔργων",
+                "εἰς"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀναγκαίας",
+            "gloss": "nécessaires/pressantes"
+          },
+          {
+            "greek": "χρείας,",
+            "gloss": "nécessités/besoins"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "ὦσιν",
+            "gloss": "ils_soient"
+          },
+          {
+            "greek": "ἄκαρποι.",
+            "gloss": "sans_fruit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ne pas rester sans fruit",
+              "content": "Approfondissement spirituel : Le *alpha* privatif (*a-*) lié à *karpos* (le fruit). L'arbre sans fruit (l'homme désaxé) reçoit l'énergie mais ne parvient pas à la cristalliser, il ne rend rien à la matrice incréée. L'action juste est la concrétion, la manifestation tangible (*le fruit*) de l'Esprit descendant dans la matière.",
+              "related": [
+                "ὦσιν"
+              ]
+            }
+          }
         ]
       },
       {
@@ -501,26 +1726,117 @@
           "darby": "Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous !"
         },
         "interlinear": [
-          { "greek": "Ἀσπάζονταί", "gloss": "Saluent" },
-          { "greek": "σε", "gloss": "toi" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "μετ’", "gloss": "avec" },
-          { "greek": "ἐμοῦ", "gloss": "moi" },
-          { "greek": "πάντες.", "gloss": "tous" },
-          { "greek": "ἄσπασαι", "gloss": "Salue" },
-          { "greek": "τοὺς", "gloss": "ceux" },
-          { "greek": "φιλοῦντας", "gloss": "aimant" },
-          { "greek": "ἡμᾶς", "gloss": "nous" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "πίστει.", "gloss": "la_foi" },
-          { "greek": "Ἡ", "gloss": "La" },
-          { "greek": "χάρις", "gloss": "grâce" },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "πάντων", "gloss": "tous" },
-          { "greek": "ὑμῶν.", "gloss": "vous" }
+          {
+            "greek": "Ἀσπάζονταί",
+            "gloss": "Saluent"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "πάντες.",
+            "gloss": "tous"
+          },
+          {
+            "greek": "ἄσπασαι",
+            "gloss": "Salue"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "φιλοῦντας",
+            "gloss": "aimant"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πίστει.",
+            "gloss": "la_foi"
+          },
+          {
+            "greek": "Ἡ",
+            "gloss": "La"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "tous"
+          },
+          {
+            "greek": "ὑμῶν.",
+            "gloss": "vous"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 14 - προΐστασθαι (*proïstasthai*) : Segond choisit de traduire par « pratiquer » de bonnes œuvres, ce qui horizontalise et moralise le texte (comme s'il s'agissait d'une liste de tâches). Darby, en traduisant par « exceller », capte mieux le préfixe spatial *pro-* (devant) et la racine *histēmi* (se tenir). Il ne s'agit pas juste de 'faire', mais d'assumer une posture d'avant-garde, de 'se tenir debout au premier rang' de la manifestation divine.\n• Verset 14 - ἄκαρποι (*akarpoi*) : Segond dilue l'impact du mot en le périphrasant par « sans produire des fruits ». Darby reste d'une fidélité chirurgicale avec son adjectif sec « sans fruit ». La construction grecque (*a-* privatif) est un état d'être, une carence ontologique. Ce n'est pas une simple absence d'action, c'est l'impuissance matricielle.\n\nAnalyse spirituelle :\nCette conclusion épistolaire, d'apparence banale et très logistique, renferme en réalité le secret de l'incarnation spirituelle. \nPaul, après avoir exigé que l'Ego se coupe de l'agitation mentale (versets 9-11), commande ici l'inverse sur le plan pratique : un zèle absolu (*spoudason*, *spoudaiōs*). L'Axe vertical ne conduit pas à la passivité éthérée. Parce que l'homme de foi s'est tenu 'à l'écart' (*peri-histēmi*) des vaines disputes, il a conservé l'énergie nécessaire pour se tenir 'au premier rang' (*pro-histēmi*) de la matière.\n\nLe but spirituel ultime est de ne pas rester *akarpos* (privé de fruit). Le fruit n'est pas la récompense de la bonne action, il en est la cristallisation. C'est l'instant où le *Logos*, l'énergie verticale, coagule dans la matière (répondant aux « nécessités pressantes ») pour modifier la réalité du Monde duel. L'épître se clôt sur le seul mot capable de soutenir toute cette architecture : la *charis* (Grâce), l'influx incréé qui alimente toute la mécanique."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 14 - προΐστασθαι (*proïstasthai*) : Segond choisit de traduire par « pratiquer » de bonnes œuvres, ce qui horizontalise et moralise le texte (comme s'il s'agissait d'une liste de tâches). Darby, en traduisant par « exceller », capte mieux le préfixe spatial *pro-* (devant) et la racine *histēmi* (se tenir). Il ne s'agit pas juste de 'faire', mais d'assumer une posture d'avant-garde, de 'se tenir debout au premier rang' de la manifestation divine.\n• Verset 14 - ἄκαρποι (*akarpoi*) : Segond dilue l'impact du mot en le périphrasant par « sans produire des fruits ». Darby reste d'une fidélité chirurgicale avec son adjectif sec « sans fruit ». La construction grecque (*a-* privatif) est un état d'être, une carence ontologique. Ce n'est pas une simple absence d'action, c'est l'impuissance matricielle.\n\nAnalyse spirituelle :\nCette conclusion épistolaire, d'apparence banale et très logistique, renferme en réalité le secret de l'incarnation spirituelle. \nPaul, après avoir exigé que l'Ego se coupe de l'agitation mentale (versets 9-11), commande ici l'inverse sur le plan pratique : un zèle absolu (*spoudason*, *spoudaiōs*). L'Axe vertical ne conduit pas à la passivité éthérée. Parce que l'homme de foi s'est tenu 'à l'écart' (*peri-histēmi*) des vaines disputes, il a conservé l'énergie nécessaire pour se tenir 'au premier rang' (*pro-histēmi*) de la matière.\n\nLe but spirituel ultime est de ne pas rester *akarpos* (privé de fruit). Le fruit n'est pas la récompense de la bonne action, il en est la cristallisation. C'est l'instant où le *Logos*, l'énergie verticale, coagule dans la matière (répondant aux « nécessités pressantes ») pour modifier la réalité du Monde duel. L'épître se clôt sur le seul mot capable de soutenir toute cette architecture : la *charis* (Grâce), l'influx incréé qui alimente toute la mécanique.\n\nComplément de lecture : Tite doit éviter les controverses stériles tout en prenant soin des œuvres bonnes. Le discernement ne sépare donc pas doctrine et fruit : une parole fidèle construit, tandis que les disputes généalogiques et légales peuvent absorber l’énergie sans rien faire mûrir.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche du Semeur : une parole, un geste, une opposition, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : attente d’un retour, deuil, stérilité, dispersion intérieure, indifférence, faiblesse ou désir de porter du fruit."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : aimer sans calcul, compatir, écouter, retenir la parole, servir, franchir une distance ou recevoir la grâce dans une faiblesse."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes souffrantes."
+      }
+    ],
+    "liturgical_echoes": []
   }
 }
