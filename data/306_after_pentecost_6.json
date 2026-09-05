@@ -3,393 +3,1367 @@
     "reference": "Matthieu 9, 1-8",
     "title": "La Guérison du Paralytique : Autorité et Pardon",
     "interlinear": [
-  {
-    "verse_number": 1,
-    "translations": {
-      "segond": "Jésus, étant monté dans une barque, traversa la mer, et alla dans sa ville.",
-      "darby": "Et étant monté dans une nacelle, il passa à l'autre bord et vint dans sa propre ville."
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "ἐμβὰς", "gloss": "étant_monté" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "πλοῖον", "gloss": "une_barque" },
-      { "greek": "διεπέρασεν,", "gloss": "il_traversa" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἦλθεν", "gloss": "il_vint" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "ἰδίαν", "gloss": "propre", "analyse": "L'expression *idian polin* (sa propre ville) désigne géographiquement Capernaüm. Mais spirituellement, c'est le retour du Christ dans le cœur humain, qui est sa véritable 'ville' originelle. Le drame de l'homme déchu (le paralytique), c'est d'être exilé de cette intériorité." },
-      { "greek": "πόλιν.", "gloss": "ville" }
+      {
+        "verse_number": 1,
+        "translations": {
+          "segond": "Jésus, étant monté dans une barque, traversa la mer, et alla dans sa ville.",
+          "darby": "Et étant monté dans une nacelle, il passa à l'autre bord et vint dans sa propre ville."
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐμβὰς",
+            "gloss": "étant_monté"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πλοῖον",
+            "gloss": "une_barque"
+          },
+          {
+            "greek": "διεπέρασεν,",
+            "gloss": "il_traversa"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "il_vint"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἰδίαν",
+            "gloss": "propre",
+            "annotation": {
+              "type": "repetition",
+              "title": "Établir sa propre justice",
+              "content": "Approfondissement spirituel : L'expression *idian polin* (sa propre ville) désigne géographiquement Capernaüm. Mais spirituellement, c'est le retour du Christ dans le cœur humain, qui est sa véritable 'ville' originelle. Le drame de l'homme déchu (le paralytique), c'est d'être exilé de cette intériorité.",
+              "related": [
+                "εἰς",
+                "τὴν",
+                "πόλιν."
+              ]
+            }
+          },
+          {
+            "greek": "πόλιν.",
+            "gloss": "ville"
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "translations": {
+          "segond": "Et voici, on lui amena un paralytique couché sur un lit. Jésus, voyant leur foi, dit au paralytique : Prends courage, mon enfant, tes péchés te sont pardonnés.",
+          "darby": "Et voici, on lui apporta un paralytique couché sur un lit. Et Jésus, voyant leur foi, dit au paralytique : Prends courage, mon enfant, tes péchés sont pardonnés."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "προσέφερον",
+            "gloss": "ils_apportaient"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "παραλυτικὸν",
+            "gloss": "un_paralytique"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "κλίνης",
+            "gloss": "un_lit"
+          },
+          {
+            "greek": "βεβλημένον.",
+            "gloss": "étant_jeté/couché"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "voyant"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστιν",
+            "gloss": "foi"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "παραλυτικῷ·",
+            "gloss": "paralytique"
+          },
+          {
+            "greek": "Θάρσει,",
+            "gloss": "Prends_courage"
+          },
+          {
+            "greek": "τέκνον·",
+            "gloss": "enfant"
+          },
+          {
+            "greek": "ἀφίενταί",
+            "gloss": "sont_remis/pardonnés",
+            "annotation": {
+              "type": "racine",
+              "title": "Pardonner, laisser aller — ἀφίημι",
+              "content": "Approfondissement spirituel : Le verbe *aphiemi* signifie lâcher prise. Le paralytique est l'image de l'Ego crispé, figé par la peur et la séparation (le péché). Le pardon divin n'est pas une simple amnistie juridique, c'est le déblocage ontologique qui permet à l'homme de redevenir un 'sujet' vivant et mobile.",
+              "related": [
+                "Θάρσει,",
+                "τέκνον·",
+                "σου",
+                "αἱ"
+              ]
+            }
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "αἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁμαρτίαι.",
+            "gloss": "péchés"
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "translations": {
+          "segond": "Sur quoi, quelques scribes dirent au dedans d'eux : Cet homme blasphème.",
+          "darby": "Et voici, quelques-uns des scribes dirent en eux-mêmes : Celui-ci blasphème."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰδού",
+            "gloss": "voici"
+          },
+          {
+            "greek": "τινες",
+            "gloss": "quelques-uns"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "γραμματέων",
+            "gloss": "scribes"
+          },
+          {
+            "greek": "εἶπαν",
+            "gloss": "dirent"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἑαυτοῖς·",
+            "gloss": "eux-mêmes"
+          },
+          {
+            "greek": "Οὗτος",
+            "gloss": "Celui-ci"
+          },
+          {
+            "greek": "βλασφημεῖ.",
+            "gloss": "blasphème",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le soupçon des scribes",
+              "content": "Approfondissement spirituel : Les scribes jugent 'en eux-mêmes'. Ils sont enfermés dans la rationalité du Monde duel. Ils ne voient pas l'acte thérapeutique d'amour ; ils n'y voient qu'une infraction au code théologique. L'Ego préfère l'ordre juridique (qui contrôle) à la grâce (qui libère).",
+              "related": [
+                "ἑαυτοῖς·",
+                "Οὗτος"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "translations": {
+          "segond": "Et Jésus, connaissant leurs pensées, dit : Pourquoi avez-vous de mauvaises pensées dans vos cœurs ?",
+          "darby": "Et Jésus, voyant leurs pensées, dit : Pourquoi pensez-vous du mal dans vos coeurs ?"
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἰδὼς",
+            "gloss": "connaissant"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐνθυμήσεις",
+            "gloss": "pensées/réflexions"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἵνα",
+            "gloss": "Pourquoi"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quoi"
+          },
+          {
+            "greek": "ἐνθυμεῖσθε",
+            "gloss": "pensez-vous/réfléchissez-vous"
+          },
+          {
+            "greek": "πονηρὰ",
+            "gloss": "de_mauvaises_choses"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρδίαις",
+            "gloss": "cœurs"
+          },
+          {
+            "greek": "ὑμῶν;",
+            "gloss": "de_vous"
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "translations": {
+          "segond": "Car, lequel est le plus aisé, de dire : Tes péchés sont pardonnés, ou de dire : Lève-toi, et marche ?",
+          "darby": "Car, lequel est le plus facile, de dire : Tes péchés sont pardonnés, ou de dire : Lève-toi et marche ?"
+        },
+        "interlinear": [
+          {
+            "greek": "τί",
+            "gloss": "Qu'est-ce_qui"
+          },
+          {
+            "greek": "γάρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "εὐκοπώτερον,",
+            "gloss": "plus_facile"
+          },
+          {
+            "greek": "εἰπεῖν·",
+            "gloss": "de_dire"
+          },
+          {
+            "greek": "Ἀφίενταί",
+            "gloss": "Sont_remis/pardonnés"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "αἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁμαρτίαι,",
+            "gloss": "péchés"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "εἰπεῖν·",
+            "gloss": "de_dire"
+          },
+          {
+            "greek": "Ἔγειρε",
+            "gloss": "Lève-toi",
+            "annotation": {
+              "type": "theologie",
+              "title": "Lève-toi — ἐγείρω",
+              "content": "Approfondissement spirituel : Le verbe *egeire* est l'impératif de la résurrection. Dans le Monde duel, pardonner (un acte juridique invisible) semble plus 'facile' à prononcer sans preuve qu'une guérison physique. Pour le Christ, les deux sont identiques : c'est la même Énergie divine qui dénoue l'âme (le pardon) et redresse le corps (la résurrection).",
+              "related": [
+                "ἢ",
+                "εἰπεῖν·",
+                "καὶ",
+                "περιπάτει;"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "περιπάτει;",
+            "gloss": "marche"
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "translations": {
+          "segond": "Or, afin que vous sachiez que le Fils de l'homme a sur la terre le pouvoir de pardonner les péchés : Lève-toi, dit-il au paralytique, prends ton lit, et va dans ta maison.",
+          "darby": "Or, afin que vous sachiez que le fils de l'homme a l'autorité sur la terre de pardonner les péchés... (alors il dit au paralytique) : Lève-toi, prends ton lit, et va dans ta maison."
+        },
+        "interlinear": [
+          {
+            "greek": "ἵνα",
+            "gloss": "Afin_que"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "εἰδῆτε",
+            "gloss": "vous_sachiez"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἐξουσίαν",
+            "gloss": "autorité/pouvoir",
+            "annotation": {
+              "type": "traduction",
+              "title": "Autorité — ἐξουσία",
+              "content": "Approfondissement spirituel : L'*exousia*. Ce n'est pas un pouvoir de domination ou de contrainte, mais l'autorité créatrice absolue. Le Christ ramène cette autorité divine 'sur la terre' (au cœur de la matière et de l'histoire humaine) pour détruire la paralysie de l'Ego.",
+              "related": [
+                "εἰδῆτε",
+                "ὅτι",
+                "ἔχει",
+                "ὁ"
+              ]
+            }
+          },
+          {
+            "greek": "ἔχει",
+            "gloss": "a"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "homme"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆς",
+            "gloss": "terre"
+          },
+          {
+            "greek": "ἀφιέναι",
+            "gloss": "de_pardonner"
+          },
+          {
+            "greek": "ἁμαρτίας—",
+            "gloss": "les_péchés"
+          },
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "παραλυτικῷ·",
+            "gloss": "paralytique"
+          },
+          {
+            "greek": "Ἔγειρε",
+            "gloss": "Lève-toi"
+          },
+          {
+            "greek": "ἆρόν",
+            "gloss": "prends"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κλίνην",
+            "gloss": "lit/couchette"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὕπαγε",
+            "gloss": "va/retire-toi"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἶκόν",
+            "gloss": "maison",
+            "annotation": {
+              "type": "analyse",
+              "title": "Retourner dans sa maison",
+              "content": "Approfondissement spirituel : L'*oikos* (la maison). Le Christ renvoie l'homme guéri dans son intériorité. Il ne lui demande pas de rester pour débattre avec les scribes ou prouver quoi que ce soit au Monde duel. Le vrai sujet se construit dans le secret de sa crypte intérieure, stabilisé par la grâce.",
+              "related": [
+                "εἰς",
+                "τὸν",
+                "σου."
+              ]
+            }
+          },
+          {
+            "greek": "σου.",
+            "gloss": "de_toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "translations": {
+          "segond": "Et il se leva, et s'en alla dans sa maison.",
+          "darby": "Et s'étant levé, il s'en alla dans sa maison."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐγερθεὶς",
+            "gloss": "s'étant_levé/ressuscité"
+          },
+          {
+            "greek": "ἀπῆλθεν",
+            "gloss": "il_s'en_alla"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἶκον",
+            "gloss": "maison"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "translations": {
+          "segond": "Quand la foule vit cela, elle fut saisie de crainte, et elle glorifia Dieu, qui a donné un tel pouvoir aux hommes.",
+          "darby": "Et les foules, voyant cela, furent saisies de crainte, et glorifièrent Dieu de ce qu'il avait donné une telle autorité aux hommes."
+        },
+        "interlinear": [
+          {
+            "greek": "ἰδόντες",
+            "gloss": "Ayant_vu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὄχλοι",
+            "gloss": "foules"
+          },
+          {
+            "greek": "ἐφοβήθησαν",
+            "gloss": "furent_saisis_de_crainte"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐδόξασαν",
+            "gloss": "glorifièrent"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "—"
+          },
+          {
+            "greek": "θεὸν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "celui"
+          },
+          {
+            "greek": "δόντα",
+            "gloss": "ayant_donné"
+          },
+          {
+            "greek": "ἐξουσίαν",
+            "gloss": "autorité"
+          },
+          {
+            "greek": "τοιαύτην",
+            "gloss": "une_telle"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἀνθρώποις.",
+            "gloss": "hommes",
+            "annotation": {
+              "type": "analyse",
+              "title": "Une autorité donnée aux hommes",
+              "content": "Approfondissement spirituel : Remarque fulgurante : la foule constate que l'autorité divine a été donnée 'aux hommes' (au pluriel). L'action de Christ s'étend à la communauté tout entière (l'Église). Le corps ecclésial devient le lieu où la paralysie du Monde duel est guérie et où le pardon circule librement de sujet à sujet.",
+              "related": [
+                "τοιαύτην",
+                "τοῖς"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἐξουσίαν : Darby traduit très justement par 'autorité', tandis que Segond utilise 'pouvoir'. Le terme grec *exousia* ne désigne pas une simple force physique (*dynamis*), mais une légitimité absolue, un droit qui émane de la nature même de celui qui l'exerce. C'est l'autorité de l'Auteur sur sa création.\n• Verset 6 - ὕπαγε : Souvent traduit par un simple 'va' (Segond et Darby). Le verbe *hypago* porte une nuance de retrait, l'idée de 'se retirer doucement', 's'éloigner'. Le Christ ordonne au paralytique de se soustraire à l'agitation théâtrale de la scène pour retourner se recentrer.\n• Verset 7 - ἐγερθεὶς : Darby rend bien l'aspect passif/moyen avec 's'étant levé'. La racine est celle du réveil et de la résurrection. L'homme ne s'est pas simplement mis sur ses pieds par un effort de volonté musculaire ; il a été redressé ontologiquement par l'Énergie divine qui a traversé sa paralysie.\n\nAnalyse spirituelle :\nCe récit expose le choc frontal entre deux dimensions. D'un côté, les scribes, archétypes de l'intelligence enfermée dans le 'Monde duel'. Ils pensent le divin à travers des catégories juridiques rigides : l'homme a péché, Dieu seul peut pardonner depuis le ciel lointain, donc Jésus blasphème. Leur cœur est le siège de réflexions ténébreuses (*ponera*) parce qu'ils refusent la relation vivante.\n\nDe l'autre côté, l'irruption du Christ et du 'Royaume UN'. Pour le Christ, le pardon (lâcher prise) et la guérison du corps ne sont que les deux faces d'une même restauration. Le péché n'est pas une infraction légale, c'est une séparation qui paralyse l'être profond. En posant son *exousia* (Son autorité incréée) sur la terre, Jésus remet l'homme debout, transformant l'Ego objectivé et porté par les autres en un Sujet libre. Le détail final est éblouissant : le Christ ordonne à l'homme de prendre le lit qui le portait (domination de la matière) et de rentrer dans sa maison (*oikos*). L'expérience de la grâce ne se joue pas dans la vitrine du monde, mais dans la crypte du cœur pacifié.\n\nComplément de lecture : la foi est d’abord celle de ceux qui portent le paralytique. Jésus relie ensuite la parole du pardon au commandement de se lever. L’homme emporte le lit qui le portait : la restauration ne nie pas son histoire, elle transforme son rapport à ce qui l’immobilisait.",
+    "homiletic_axes": [
+      {
+        "title": "Une foi qui porte",
+        "content": "Avant toute parole du paralytique, Jésus voit « leur foi ». La communauté porte l’homme immobilisé et devient le lieu concret où il est présenté au Christ.",
+        "keywords": [
+          "προσέφερον",
+          "παραλυτικὸν",
+          "πίστιν",
+          "αὐτῶν"
+        ]
+      },
+      {
+        "title": "Pardon et relèvement",
+        "content": "Le pardon des péchés et le relèvement corporel manifestent une même autorité du Fils de l’homme sur la terre.",
+        "keywords": [
+          "ἀφίενταί",
+          "ἁμαρτίαι.",
+          "Ἔγειρε",
+          "ἐξουσίαν"
+        ]
+      },
+      {
+        "title": "Prendre ce qui nous portait",
+        "content": "L’homme se lève, prend son lit et rentre chez lui. Ce qui signifiait son immobilité devient le signe porté d’une liberté retrouvée.",
+        "keywords": [
+          "ἆρόν",
+          "κλίνην",
+          "ἐγερθεὶς",
+          "οἶκον"
+        ]
+      },
+      {
+        "title": "Des dons pour un corps vivant",
+        "content": "L’Apôtre déploie la guérison dans la communauté : les dons diffèrent, mais la même grâce circule dans le service et la communion.",
+        "keywords": [
+          "χαρίσματα",
+          "χάριν",
+          "διάφορα,",
+          "κοινωνοῦντες,"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement le fil qui vous appelle dans les deux lectures du 6e dimanche après la Pentecôte : un geste, une parole, un contraste, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez le mouvement propre de l’Évangile, puis regardez comment l’Apôtre le déplace, l’approfondit ou en montre le fruit ecclésial. Vous pouvez aussi ne retenir qu’une seule correspondance."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit ou donne ici. Gardez le Christ au centre et distinguez cette annonce des exigences qui en découlent."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par ces textes : peur, enfermement, faiblesse, division, manque, besoin d’être porté ou difficulté à accueillir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans dicter une conduite uniforme : accueillir, demander, porter, partager, bénir, se laisser relever ou restaurer une communion."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression claire. Présentez les interprétations symboliques comme une lecture spirituelle, non comme le seul sens du texte, et évitez toute promesse automatique de guérison ou de réussite."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Relevés pour servir",
+        "reference": "Matthieu 9, 1-8 ; Romains 12, 6-14",
+        "content": "Le paralytique est porté, pardonné et relevé ; Paul décrit une communauté où chacun reçoit un don pour porter, servir et honorer l’autre. La grâce remet une personne debout et fait circuler la vie dans tout le corps.",
+        "connections": []
+      }
     ]
-  },
-  {
-    "verse_number": 2,
-    "translations": {
-      "segond": "Et voici, on lui amena un paralytique couché sur un lit. Jésus, voyant leur foi, dit au paralytique : Prends courage, mon enfant, tes péchés te sont pardonnés.",
-      "darby": "Et voici, on lui apporta un paralytique couché sur un lit. Et Jésus, voyant leur foi, dit au paralytique : Prends courage, mon enfant, tes péchés sont pardonnés."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἰδοὺ", "gloss": "voici" },
-      { "greek": "προσέφερον", "gloss": "ils_apportaient" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "παραλυτικὸν", "gloss": "un_paralytique" },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "κλίνης", "gloss": "un_lit" },
-      { "greek": "βεβλημένον.", "gloss": "étant_jeté/couché" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἰδὼν", "gloss": "voyant" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "πίστιν", "gloss": "foi" },
-      { "greek": "αὐτῶν", "gloss": "d'eux" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "παραλυτικῷ·", "gloss": "paralytique" },
-      { "greek": "Θάρσει,", "gloss": "Prends_courage" },
-      { "greek": "τέκνον·", "gloss": "enfant" },
-      { "greek": "ἀφίενταί", "gloss": "sont_remis/pardonnés", "analyse": "Le verbe *aphiemi* signifie lâcher prise. Le paralytique est l'image de l'Ego crispé, figé par la peur et la séparation (le péché). Le pardon divin n'est pas une simple amnistie juridique, c'est le déblocage ontologique qui permet à l'homme de redevenir un 'sujet' vivant et mobile." },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "αἱ", "gloss": "les" },
-      { "greek": "ἁμαρτίαι.", "gloss": "péchés" }
-    ]
-  },
-  {
-    "verse_number": 3,
-    "translations": {
-      "segond": "Sur quoi, quelques scribes dirent au dedans d'eux : Cet homme blasphème.",
-      "darby": "Et voici, quelques-uns des scribes dirent en eux-mêmes : Celui-ci blasphème."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἰδού", "gloss": "voici" },
-      { "greek": "τινες", "gloss": "quelques-uns" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "γραμματέων", "gloss": "scribes" },
-      { "greek": "εἶπαν", "gloss": "dirent" },
-      { "greek": "ἐν", "gloss": "en" },
-      { "greek": "ἑαυτοῖς·", "gloss": "eux-mêmes" },
-      { "greek": "Οὗτος", "gloss": "Celui-ci" },
-      { "greek": "βλασφημεῖ.", "gloss": "blasphème", "analyse": "Les scribes jugent 'en eux-mêmes'. Ils sont enfermés dans la rationalité du Monde duel. Ils ne voient pas l'acte thérapeutique d'amour ; ils n'y voient qu'une infraction au code théologique. L'Ego préfère l'ordre juridique (qui contrôle) à la grâce (qui libère)." }
-    ]
-  },
-  {
-    "verse_number": 4,
-    "translations": {
-      "segond": "Et Jésus, connaissant leurs pensées, dit : Pourquoi avez-vous de mauvaises pensées dans vos cœurs ?",
-      "darby": "Et Jésus, voyant leurs pensées, dit : Pourquoi pensez-vous du mal dans vos coeurs ?"
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "εἰδὼς", "gloss": "connaissant" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "τὰς", "gloss": "les" },
-      { "greek": "ἐνθυμήσεις", "gloss": "pensées/réflexions" },
-      { "greek": "αὐτῶν", "gloss": "d'eux" },
-      { "greek": "εἶπεν·", "gloss": "dit" },
-      { "greek": "Ἵνα", "gloss": "Pourquoi" },
-      { "greek": "τί", "gloss": "quoi" },
-      { "greek": "ἐνθυμεῖσθε", "gloss": "pensez-vous/réfléchissez-vous" },
-      { "greek": "πονηρὰ", "gloss": "de_mauvaises_choses" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "ταῖς", "gloss": "les" },
-      { "greek": "καρδίαις", "gloss": "cœurs" },
-      { "greek": "ὑμῶν;", "gloss": "de_vous" }
-    ]
-  },
- {
-    "verse_number": 5,
-    "translations": {
-      "segond": "Car, lequel est le plus aisé, de dire : Tes péchés sont pardonnés, ou de dire : Lève-toi, et marche ?",
-      "darby": "Car, lequel est le plus facile, de dire : Tes péchés sont pardonnés, ou de dire : Lève-toi et marche ?"
-    },
-    "interlinear": [
-      { "greek": "τί", "gloss": "Qu'est-ce_qui" },
-      { "greek": "γάρ", "gloss": "car" },
-      { "greek": "ἐστιν", "gloss": "est" },
-      { "greek": "εὐκοπώτερον,", "gloss": "plus_facile" },
-      { "greek": "εἰπεῖν·", "gloss": "de_dire" },
-      { "greek": "Ἀφίενταί", "gloss": "Sont_remis/pardonnés" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "αἱ", "gloss": "les" },
-      { "greek": "ἁμαρτίαι,", "gloss": "péchés" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "εἰπεῖν·", "gloss": "de_dire" },
-      { "greek": "Ἔγειρε", "gloss": "Lève-toi", "analyse": "Le verbe *egeire* est l'impératif de la résurrection. Dans le Monde duel, pardonner (un acte juridique invisible) semble plus 'facile' à prononcer sans preuve qu'une guérison physique. Pour le Christ, les deux sont identiques : c'est la même Énergie divine qui dénoue l'âme (le pardon) et redresse le corps (la résurrection)." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "περιπάτει;", "gloss": "marche" }
-    ]
-  },
-  {
-    "verse_number": 6,
-    "translations": {
-      "segond": "Or, afin que vous sachiez que le Fils de l'homme a sur la terre le pouvoir de pardonner les péchés : Lève-toi, dit-il au paralytique, prends ton lit, et va dans ta maison.",
-      "darby": "Or, afin que vous sachiez que le fils de l'homme a l'autorité sur la terre de pardonner les péchés... (alors il dit au paralytique) : Lève-toi, prends ton lit, et va dans ta maison."
-    },
-    "interlinear": [
-      { "greek": "ἵνα", "gloss": "Afin_que" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "εἰδῆτε", "gloss": "vous_sachiez" },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "ἐξουσίαν", "gloss": "autorité/pouvoir", "analyse": "L'*exousia*. Ce n'est pas un pouvoir de domination ou de contrainte, mais l'autorité créatrice absolue. Le Christ ramène cette autorité divine 'sur la terre' (au cœur de la matière et de l'histoire humaine) pour détruire la paralysie de l'Ego." },
-      { "greek": "ἔχει", "gloss": "a" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "τοῦ", "gloss": "de_l'" },
-      { "greek": "ἀνθρώπου", "gloss": "homme" },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "τῆς", "gloss": "la" },
-      { "greek": "γῆς", "gloss": "terre" },
-      { "greek": "ἀφιέναι", "gloss": "de_pardonner" },
-      { "greek": "ἁμαρτίας—", "gloss": "les_péchés" },
-      { "greek": "τότε", "gloss": "alors" },
-      { "greek": "λέγει", "gloss": "il_dit" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "παραλυτικῷ·", "gloss": "paralytique" },
-      { "greek": "Ἔγειρε", "gloss": "Lève-toi" },
-      { "greek": "ἆρόν", "gloss": "prends" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "τὴν", "gloss": "le" },
-      { "greek": "κλίνην", "gloss": "lit/couchette" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ὕπαγε", "gloss": "va/retire-toi" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "οἶκόν", "gloss": "maison", "analyse": "L'*oikos* (la maison). Le Christ renvoie l'homme guéri dans son intériorité. Il ne lui demande pas de rester pour débattre avec les scribes ou prouver quoi que ce soit au Monde duel. Le vrai sujet se construit dans le secret de sa crypte intérieure, stabilisé par la grâce." },
-      { "greek": "σου.", "gloss": "de_toi" }
-    ]
-  },
-  {
-    "verse_number": 7,
-    "translations": {
-      "segond": "Et il se leva, et s'en alla dans sa maison.",
-      "darby": "Et s'étant levé, il s'en alla dans sa maison."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἐγερθεὶς", "gloss": "s'étant_levé/ressuscité" },
-      { "greek": "ἀπῆλθεν", "gloss": "il_s'en_alla" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "οἶκον", "gloss": "maison" },
-      { "greek": "αὐτοῦ.", "gloss": "de_lui" }
-    ]
-  },
-  {
-    "verse_number": 8,
-    "translations": {
-      "segond": "Quand la foule vit cela, elle fut saisie de crainte, et elle glorifia Dieu, qui a donné un tel pouvoir aux hommes.",
-      "darby": "Et les foules, voyant cela, furent saisies de crainte, et glorifièrent Dieu de ce qu'il avait donné une telle autorité aux hommes."
-    },
-    "interlinear": [
-      { "greek": "ἰδόντες", "gloss": "Ayant_vu" },
-      { "greek": "δὲ", "gloss": "or/et" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "ὄχλοι", "gloss": "foules" },
-      { "greek": "ἐφοβήθησαν", "gloss": "furent_saisis_de_crainte" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐδόξασαν", "gloss": "glorifièrent" },
-      { "greek": "τὸν", "gloss": "—" },
-      { "greek": "θεὸν", "gloss": "Dieu" },
-      { "greek": "τὸν", "gloss": "celui" },
-      { "greek": "δόντα", "gloss": "ayant_donné" },
-      { "greek": "ἐξουσίαν", "gloss": "autorité" },
-      { "greek": "τοιαύτην", "gloss": "une_telle" },
-      { "greek": "τοῖς", "gloss": "aux" },
-      { "greek": "ἀνθρώποις.", "gloss": "hommes", "analyse": "Remarque fulgurante : la foule constate que l'autorité divine a été donnée 'aux hommes' (au pluriel). L'action de Christ s'étend à la communauté tout entière (l'Église). Le corps ecclésial devient le lieu où la paralysie du Monde duel est guérie et où le pardon circule librement de sujet à sujet." }
-    ]
-  }
-],
-"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἐξουσίαν : Darby traduit très justement par 'autorité', tandis que Segond utilise 'pouvoir'. Le terme grec *exousia* ne désigne pas une simple force physique (*dynamis*), mais une légitimité absolue, un droit qui émane de la nature même de celui qui l'exerce. C'est l'autorité de l'Auteur sur sa création.\n• Verset 6 - ὕπαγε : Souvent traduit par un simple 'va' (Segond et Darby). Le verbe *hypago* porte une nuance de retrait, l'idée de 'se retirer doucement', 's'éloigner'. Le Christ ordonne au paralytique de se soustraire à l'agitation théâtrale de la scène pour retourner se recentrer.\n• Verset 7 - ἐγερθεὶς : Darby rend bien l'aspect passif/moyen avec 's'étant levé'. La racine est celle du réveil et de la résurrection. L'homme ne s'est pas simplement mis sur ses pieds par un effort de volonté musculaire ; il a été redressé ontologiquement par l'Énergie divine qui a traversé sa paralysie.\n\nAnalyse spirituelle :\nCe récit expose le choc frontal entre deux dimensions. D'un côté, les scribes, archétypes de l'intelligence enfermée dans le 'Monde duel'. Ils pensent le divin à travers des catégories juridiques rigides : l'homme a péché, Dieu seul peut pardonner depuis le ciel lointain, donc Jésus blasphème. Leur cœur est le siège de réflexions ténébreuses (*ponera*) parce qu'ils refusent la relation vivante.\n\nDe l'autre côté, l'irruption du Christ et du 'Royaume UN'. Pour le Christ, le pardon (lâcher prise) et la guérison du corps ne sont que les deux faces d'une même restauration. Le péché n'est pas une infraction légale, c'est une séparation qui paralyse l'être profond. En posant son *exousia* (Son autorité incréée) sur la terre, Jésus remet l'homme debout, transformant l'Ego objectivé et porté par les autres en un Sujet libre. Le détail final est éblouissant : le Christ ordonne à l'homme de prendre le lit qui le portait (domination de la matière) et de rentrer dans sa maison (*oikos*). L'expérience de la grâce ne se joue pas dans la vitrine du monde, mais dans la crypte du cœur pacifié."
   },
   "apostle": {
-    "reference": "Romains 12 6-14",
+    "reference": "Romains 12, 6-14",
     "title": "",
     "interlinear": [
       {
         "verse_number": 6,
         "translations": {
-      "segond": "Puisque nous avons des dons différents, selon la grâce qui nous a été accordée, que celui qui a le don de prophétie l'exerce selon l'analogie de la foi ;",
-      "darby": "Ayant donc des dons différents, selon la grâce qui nous a été donnée : soit la prophétie, prophétisons selon l'analogie de la foi ;"
+          "segond": "Puisque nous avons des dons différents, selon la grâce qui nous a été accordée, que celui qui a le don de prophétie l'exerce selon l'analogie de la foi ;",
+          "darby": "Ayant donc des dons différents, selon la grâce qui nous a été donnée : soit la prophétie, prophétisons selon l'analogie de la foi ;"
         },
         "interlinear": [
-      { "greek": "Ἔχοντες", "gloss": "Ayant" },
-      { "greek": "δὲ", "gloss": "or/donc" },
-      { "greek": "χαρίσματα", "gloss": "des_dons_de_grâce", "analyse": "Du mot *charisma*. Le charisme n'est pas un talent naturel dont l'Ego pourrait s'enorgueillir, mais une libre circulation de l'Énergie divine incréée à travers un sujet. La diversité des dons n'est pas une source de division (Monde duel) mais la richesse d'un corps unifié." },
-      { "greek": "κατὰ", "gloss": "selon" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "χάριν", "gloss": "grâce" },
-      { "greek": "τὴν", "gloss": "—" },
-      { "greek": "δοθεῖσαν", "gloss": "ayant_été_donnée" },
-      { "greek": "ἡμῖν", "gloss": "à_nous" },
-      { "greek": "διάφορα,", "gloss": "différents" },
-      { "greek": "εἴτε", "gloss": "soit" },
-      { "greek": "προφητείαν,", "gloss": "la_prophétie" },
-      { "greek": "κατὰ", "gloss": "selon" },
-      { "greek": "τὴν", "gloss": "l'" },
-      { "greek": "ἀναλογίαν", "gloss": "analogie/proportion" },
-      { "greek": "τῆς", "gloss": "de_la" },
-      { "greek": "πίστεως·", "gloss": "foi" }
-    ]
-  },
- {
-    "verse_number": 7,
-    "translations": {
-      "segond": "que celui qui est appelé au ministère s'attache à son ministère ; que celui qui enseigne s'attache à son enseignement,",
-      "darby": "soit le service, soyons occupés du service ; soit celui qui enseigne, qu'il s'applique à l'enseignement ;"
-    },
-    "interlinear": [
-      { "greek": "εἴτε", "gloss": "soit" },
-      { "greek": "διακονίαν,", "gloss": "le_ministère/service" },
-      { "greek": "en", "gloss": "dans" },
-      { "greek": "τῇ", "gloss": "le" },
-      { "greek": "διακονίᾳ·", "gloss": "service" },
-      { "greek": "εἴτε", "gloss": "soit" },
-      { "greek": "ὁ", "gloss": "celui" },
-      { "greek": "διδάσκων,", "gloss": "enseignant" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῇ", "gloss": "l'" },
-      { "greek": "διδασκαλίᾳ·", "gloss": "enseignement" }
-    ]
-  },
-  {
-    "verse_number": 8,
-    "translations": {
-      "segond": "et celui qui exhorte à l'exhortation. Que celui qui donne le fasse avec libéralité ; que celui qui préside le fasse avec zèle ; que celui qui pratique la miséricorde le fasse avec joie.",
-      "darby": "soit celui qui exhorte, à l'exhortation ; celui qui distribue, qu'il le fasse en simplicité ; celui qui est à la tête, qu'il conduise avec diligence ; celui qui fait miséricorde, qu'il le fasse avec joie."
-    },
-    "interlinear": [
-      { "greek": "εἴτε", "gloss": "soit" },
-      { "greek": "ὁ", "gloss": "celui" },
-      { "greek": "παρακαλῶν,", "gloss": "exhortant" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῇ", "gloss": "l'" },
-      { "greek": "παρακλήσει·", "gloss": "exhortation" },
-      { "greek": "ὁ", "gloss": "celui" },
-      { "greek": "μεταδιδοὺς", "gloss": "partageant/donnant" },
-      { "greek": "ἐν", "gloss": "dans/avec" },
-      { "greek": "ἁπλότητι·", "gloss": "simplicité/libéralité", "analyse": "La racine *haplotēs* évoque la simplicité de ce qui n'est pas double, ce qui est non-fragmenté. Donner en 'simplicité', c'est l'action pure du sujet unifié qui donne sans ruse, sans calcul d'intérêt, sans chercher à dominer ou objectiver l'autre par sa générosité." },
-      { "greek": "ὁ", "gloss": "celui" },
-      { "greek": "προϊστάμενος", "gloss": "dirigeant/présidant" },
-      { "greek": "ἐν", "gloss": "avec" },
-      { "greek": "σπουδῇ·", "gloss": "zèle/empressement" },
-      { "greek": "ὁ", "gloss": "celui" },
-      { "greek": "ἐλεῶν", "gloss": "faisant_miséricorde" },
-      { "greek": "ἐν", "gloss": "avec" },
-      { "greek": "ἱλαρότητι.", "gloss": "joie/hilarité", "analyse": "Le mot *hilarotēs* désigne une joie rayonnante, communicative. La miséricorde ne doit pas être une condescendance morale pesante (propre aux structures de l'Ego moralisateur), mais une effusion joyeuse et fluide de la vie divine qui restaure la dignité de celui qui la reçoit." }
-    ]
-  },
-  {
-    "verse_number": 9,
-    "translations": {
-      "segond": "Que la charité soit sans hypocrisie. Ayez le mal en horreur ; attachez-vous fortement au bien.",
-      "darby": "Que l'amour soit sans hypocrisie : ayez en horreur le mal, attachez-vous fortement au bien ;"
-    },
-    "interlinear": [
-      { "greek": "Ἡ", "gloss": "L'" },
-      { "greek": "ἀγάπη", "gloss": "amour/charité" },
-      { "greek": "ἀνυπόκριτος.", "gloss": "sans_hypocrisie", "analyse": "L'expression *agape anypokritos* signifie littéralement 'un amour sans masque de théâtre' (sans acteur). L'Ego passe son temps à jouer des rôles pour plaire ou manipuler. Faire tomber le masque hypocrite est la condition absolue pour que la relation devienne une communion de Sujet à Sujet." },
-      { "greek": "ἀποστυγοῦντες", "gloss": "ayant_en_horreur" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "πονηρόν,", "gloss": "mal/mauvais" },
-      { "greek": "κολλώμενοι", "gloss": "étant_attachés/soudés", "analyse": "Du verbe *kollao* (coller, coller fortement). Ce n'est pas une adhésion intellectuelle ou une préférence éthique fluctuante, mais une soudure ontologique de tout l'être au Bien incréé, arrachant le sujet au relativisme instable du Monde duel." },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "ἀγαθῷ·", "gloss": "bien" }
-    ]
-  },
-  {
-    "verse_number": 10,
-    "translations": {
-      "segond": "Par amour fraternel, soyez pleins d'affection les uns pour les autres ; par honneur, usez de prévenances réciproques.",
-      "darby": "quant à l'amour fraternel, pleins d'affection les uns pour les autres ; quant à l'honneur, devançant les uns les autres ;"
-    },
-    "interlinear": [
-      { "greek": "τῇ", "gloss": "par_l'" },
-      { "greek": "philadelphia", "gloss": "amour_fraternel" },
-      { "greek": "εἰς", "gloss": "vers" },
-      { "greek": "ἀλλήλους", "gloss": "les_uns_les_autres" },
-      { "greek": "φιλόστοργοι,", "gloss": "pleins_d'affection" },
-      { "greek": "τῇ", "gloss": "par_l'" },
-      { "greek": "τιμῇ", "gloss": "honneur" },
-      { "greek": "ἀλλήλους", "gloss": "les_uns_les_autres" },
-      { "greek": "προηγούμενοι,", "gloss": "devançant/estimant_supérieur" }
-    ]
-  },
- {
-    "verse_number": 11,
-    "translations": {
-      "segond": "Ayez du zèle, et non de la paresse. Soyez fervents d'esprit. Servez le Seigneur.",
-      "darby": "quant à l'activité, pas paresseux ; fervents en esprit ; servant le Seigneur ;"
-    },
-    "interlinear": [
-      { "greek": "τῇ", "gloss": "par_le" },
-      { "greek": "σπουδῇ", "gloss": "zèle/empressement" },
-      { "greek": "μὴ", "gloss": "non" },
-      { "greek": "ὀκνηροί,", "gloss": "paresseux" },
-      { "greek": "τῷ", "gloss": "par_l'" },
-      { "greek": "πνεύματι", "gloss": "esprit" },
-      { "greek": "ζέοντες,", "gloss": "bouillants/fervents", "analyse": "Le verbe *zeo* signifie littéralement 'bouillir' (comme l'eau sur le feu). Dans la théologie palamite, c'est la participation active aux Énergies divines. L'esprit du sujet n'est pas tiède ou stagnant (la paralysie entropique du Monde duel), il est mis en ébullition par le Feu incréé." },
-      { "greek": "τῷ", "gloss": "le" },
-      { "greek": "κυρίῳ", "gloss": "Seigneur" },
-      { "greek": "δουλεύοντες·", "gloss": "servant" }
-    ]
-  },
-  {
-    "verse_number": 12,
-    "translations": {
-      "segond": "Réjouissez-vous en espérance. Soyez patients dans l'affliction. Persévérez dans la prière.",
-      "darby": "vous réjouissant dans l'espérance ; patients dans la tribulation ; persévérants dans la prière ;"
-    },
-    "interlinear": [
-      { "greek": "τῇ", "gloss": "par_l'" },
-      { "greek": "ἐλπίδι", "gloss": "espérance" },
-      { "greek": "χαίροντες,", "gloss": "se_réjouissant" },
-      { "greek": "τῇ", "gloss": "par_la" },
-      { "greek": "θλίψει", "gloss": "pression/tribulation" },
-      { "greek": "ὑπομένοντες,", "gloss": "restant_en_dessous/endurant", "analyse": "Le verbe *hypomeno* (rester en dessous, endurer). La *thlipsis* (la pression écrasante du Monde duel) cherche à détruire le sujet. La patience spirituelle n'est pas une résignation passive, mais la capacité de rester stable, ancré verticalement sous la pression, sans céder à la panique de l'Ego." },
-      { "greek": "τῇ", "gloss": "par_la" },
-      { "greek": "προσευχῇ", "gloss": "prière" },
-      { "greek": "προσκαρτεροῦντες·", "gloss": "persévérant_fortement" }
-    ]
-  },
-  {
-    "verse_number": 13,
-    "translations": {
-      "segond": "Pourvoyez aux besoins des saints. Exercez l'hospitalité.",
-      "darby": "subvenant aux nécessités des saints ; vous appliquant à l'hospitalité."
-    },
-    "interlinear": [
-      { "greek": "ταῖς", "gloss": "aux" },
-      { "greek": "χρείαις", "gloss": "besoins" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "ἁγίων", "gloss": "saints" },
-      { "greek": "κοινωνοῦντες,", "gloss": "communiant/partageant", "analyse": "Du mot *koinonia* (communion). Il ne s'agit pas d'une simple aumône où un riche donne à un pauvre (rapport de force du Monde duel), mais de la mise en commun de la vie. Pourvoir aux besoins, c'est restaurer le tissu du corps ecclésial." },
-      { "greek": "τὴν", "gloss": "l'" },
-      { "greek": "φιλοξενίαν", "gloss": "amour_des_étrangers/hospitalité" },
-      { "greek": "διώκοντες.", "gloss": "poursuivant/recherchant" }
-    ]
-  },
-  {
-    "verse_number": 14,
-    "translations": {
-      "segond": "Bénissez ceux qui vous persécutent, bénissez et ne maudissez pas.",
-      "darby": "Bénissez ceux qui vous persécutent ; bénissez et ne maudissez pas."
-    },
-    "interlinear": [
-      { "greek": "εὐλογεῖτε", "gloss": "Bénissez" },
-      { "greek": "τοὺς", "gloss": "ceux" },
-      { "greek": "διώκοντας", "gloss": "persécutant", "analyse": "La subversion absolue de la logique horizontale. Le Monde duel fonctionne sur l'action-réaction : œil pour œil, tu me maudis, je te maudis. Bénir le persécuteur, c'est refuser d'entrer dans sa boucle karmique. C'est l'acte souverain d'un Sujet libre qui, uni au Christ, impose la paix du 'Royaume UN' là où l'Ego voudrait la guerre." },
-      { "greek": "ὑμᾶς,", "gloss": "vous" },
-      { "greek": "εὐλογεῖτε", "gloss": "bénissez" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "μὴ", "gloss": "ne...pas" },
-      { "greek": "καταρᾶσθε.", "gloss": "maudissez" }
-    ]
+          {
+            "greek": "Ἔχοντες",
+            "gloss": "Ayant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/donc"
+          },
+          {
+            "greek": "χαρίσματα",
+            "gloss": "des_dons_de_grâce",
+            "annotation": {
+              "type": "racine",
+              "title": "Les dons de grâce — χαρίσματα",
+              "content": "Approfondissement spirituel : Du mot *charisma*. Le charisme n'est pas un talent naturel dont l'Ego pourrait s'enorgueillir, mais une libre circulation de l'Énergie divine incréée à travers un sujet. La diversité des dons n'est pas une source de division (Monde duel) mais la richesse d'un corps unifié.",
+              "related": [
+                "Ἔχοντες",
+                "δὲ",
+                "κατὰ",
+                "τὴν"
+              ]
+            }
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάριν",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "—"
+          },
+          {
+            "greek": "δοθεῖσαν",
+            "gloss": "ayant_été_donnée"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "à_nous"
+          },
+          {
+            "greek": "διάφορα,",
+            "gloss": "différents"
+          },
+          {
+            "greek": "εἴτε",
+            "gloss": "soit"
+          },
+          {
+            "greek": "προφητείαν,",
+            "gloss": "la_prophétie"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἀναλογίαν",
+            "gloss": "analogie/proportion"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πίστεως·",
+            "gloss": "foi"
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "translations": {
+          "segond": "que celui qui est appelé au ministère s'attache à son ministère ; que celui qui enseigne s'attache à son enseignement,",
+          "darby": "soit le service, soyons occupés du service ; soit celui qui enseigne, qu'il s'applique à l'enseignement ;"
+        },
+        "interlinear": [
+          {
+            "greek": "εἴτε",
+            "gloss": "soit"
+          },
+          {
+            "greek": "διακονίαν,",
+            "gloss": "le_ministère/service"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "διακονίᾳ·",
+            "gloss": "service"
+          },
+          {
+            "greek": "εἴτε",
+            "gloss": "soit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "διδάσκων,",
+            "gloss": "enseignant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "διδασκαλίᾳ·",
+            "gloss": "enseignement"
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "translations": {
+          "segond": "et celui qui exhorte à l'exhortation. Que celui qui donne le fasse avec libéralité ; que celui qui préside le fasse avec zèle ; que celui qui pratique la miséricorde le fasse avec joie.",
+          "darby": "soit celui qui exhorte, à l'exhortation ; celui qui distribue, qu'il le fasse en simplicité ; celui qui est à la tête, qu'il conduise avec diligence ; celui qui fait miséricorde, qu'il le fasse avec joie."
+        },
+        "interlinear": [
+          {
+            "greek": "εἴτε",
+            "gloss": "soit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "παρακαλῶν,",
+            "gloss": "exhortant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "παρακλήσει·",
+            "gloss": "exhortation"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "μεταδιδοὺς",
+            "gloss": "partageant/donnant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/avec"
+          },
+          {
+            "greek": "ἁπλότητι·",
+            "gloss": "simplicité/libéralité",
+            "annotation": {
+              "type": "racine",
+              "title": "La simplicité sans duplicité",
+              "content": "Approfondissement spirituel : La racine *haplotēs* évoque la simplicité de ce qui n'est pas double, ce qui est non-fragmenté. Donner en 'simplicité', c'est l'action pure du sujet unifié qui donne sans ruse, sans calcul d'intérêt, sans chercher à dominer ou objectiver l'autre par sa générosité.",
+              "related": [
+                "μεταδιδοὺς",
+                "ἐν",
+                "ὁ",
+                "προϊστάμενος"
+              ]
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "προϊστάμενος",
+            "gloss": "dirigeant/présidant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "σπουδῇ·",
+            "gloss": "zèle/empressement"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἐλεῶν",
+            "gloss": "faisant_miséricorde"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ἱλαρότητι.",
+            "gloss": "joie/hilarité",
+            "annotation": {
+              "type": "traduction",
+              "title": "La joie dans la miséricorde",
+              "content": "Approfondissement spirituel : Le mot *hilarotēs* désigne une joie rayonnante, communicative. La miséricorde ne doit pas être une condescendance morale pesante (propre aux structures de l'Ego moralisateur), mais une effusion joyeuse et fluide de la vie divine qui restaure la dignité de celui qui la reçoit.",
+              "related": [
+                "ἐλεῶν",
+                "ἐν"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "translations": {
+          "segond": "Que la charité soit sans hypocrisie. Ayez le mal en horreur ; attachez-vous fortement au bien.",
+          "darby": "Que l'amour soit sans hypocrisie : ayez en horreur le mal, attachez-vous fortement au bien ;"
+        },
+        "interlinear": [
+          {
+            "greek": "Ἡ",
+            "gloss": "L'"
+          },
+          {
+            "greek": "ἀγάπη",
+            "gloss": "amour/charité"
+          },
+          {
+            "greek": "ἀνυπόκριτος.",
+            "gloss": "sans_hypocrisie",
+            "annotation": {
+              "type": "racine",
+              "title": "Un amour sans masque",
+              "content": "Approfondissement spirituel : L'expression *agape anypokritos* signifie littéralement 'un amour sans masque de théâtre' (sans acteur). L'Ego passe son temps à jouer des rôles pour plaire ou manipuler. Faire tomber le masque hypocrite est la condition absolue pour que la relation devienne une communion de Sujet à Sujet.",
+              "related": [
+                "Ἡ",
+                "ἀγάπη",
+                "ἀποστυγοῦντες",
+                "τὸ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀποστυγοῦντες",
+            "gloss": "ayant_en_horreur"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πονηρόν,",
+            "gloss": "mal/mauvais"
+          },
+          {
+            "greek": "κολλώμενοι",
+            "gloss": "étant_attachés/soudés",
+            "annotation": {
+              "type": "traduction",
+              "title": "S’attacher au bien",
+              "content": "Approfondissement spirituel : Du verbe *kollao* (coller, coller fortement). Ce n'est pas une adhésion intellectuelle ou une préférence éthique fluctuante, mais une soudure ontologique de tout l'être au Bien incréé, arrachant le sujet au relativisme instable du Monde duel.",
+              "related": [
+                "τὸ",
+                "πονηρόν,",
+                "τῷ",
+                "ἀγαθῷ·"
+              ]
+            }
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "ἀγαθῷ·",
+            "gloss": "bien"
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "Par amour fraternel, soyez pleins d'affection les uns pour les autres ; par honneur, usez de prévenances réciproques.",
+          "darby": "quant à l'amour fraternel, pleins d'affection les uns pour les autres ; quant à l'honneur, devançant les uns les autres ;"
+        },
+        "interlinear": [
+          {
+            "greek": "τῇ",
+            "gloss": "par_l'"
+          },
+          {
+            "greek": "φιλαδελφίᾳ",
+            "gloss": "amour_fraternel"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ἀλλήλους",
+            "gloss": "les_uns_les_autres"
+          },
+          {
+            "greek": "φιλόστοργοι,",
+            "gloss": "pleins_d'affection"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "par_l'"
+          },
+          {
+            "greek": "τιμῇ",
+            "gloss": "honneur"
+          },
+          {
+            "greek": "ἀλλήλους",
+            "gloss": "les_uns_les_autres"
+          },
+          {
+            "greek": "προηγούμενοι,",
+            "gloss": "devançant/estimant_supérieur"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Ayez du zèle, et non de la paresse. Soyez fervents d'esprit. Servez le Seigneur.",
+          "darby": "quant à l'activité, pas paresseux ; fervents en esprit ; servant le Seigneur ;"
+        },
+        "interlinear": [
+          {
+            "greek": "τῇ",
+            "gloss": "par_le"
+          },
+          {
+            "greek": "σπουδῇ",
+            "gloss": "zèle/empressement"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ὀκνηροί,",
+            "gloss": "paresseux"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "par_l'"
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "ζέοντες,",
+            "gloss": "bouillants/fervents",
+            "annotation": {
+              "type": "traduction",
+              "title": "Bouillants par l’Esprit",
+              "content": "Approfondissement spirituel : Le verbe *zeo* signifie littéralement 'bouillir' (comme l'eau sur le feu). Dans la théologie palamite, c'est la participation active aux Énergies divines. L'esprit du sujet n'est pas tiède ou stagnant (la paralysie entropique du Monde duel), il est mis en ébullition par le Feu incréé.",
+              "related": [
+                "τῷ",
+                "πνεύματι",
+                "τῷ",
+                "κυρίῳ"
+              ]
+            }
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "δουλεύοντες·",
+            "gloss": "servant"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "Réjouissez-vous en espérance. Soyez patients dans l'affliction. Persévérez dans la prière.",
+          "darby": "vous réjouissant dans l'espérance ; patients dans la tribulation ; persévérants dans la prière ;"
+        },
+        "interlinear": [
+          {
+            "greek": "τῇ",
+            "gloss": "par_l'"
+          },
+          {
+            "greek": "ἐλπίδι",
+            "gloss": "espérance"
+          },
+          {
+            "greek": "χαίροντες,",
+            "gloss": "se_réjouissant"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "θλίψει",
+            "gloss": "pression/tribulation"
+          },
+          {
+            "greek": "ὑπομένοντες,",
+            "gloss": "restant_en_dessous/endurant",
+            "annotation": {
+              "type": "racine",
+              "title": "Tenir sous l’épreuve",
+              "content": "Approfondissement spirituel : Le verbe *hypomeno* (rester en dessous, endurer). La *thlipsis* (la pression écrasante du Monde duel) cherche à détruire le sujet. La patience spirituelle n'est pas une résignation passive, mais la capacité de rester stable, ancré verticalement sous la pression, sans céder à la panique de l'Ego.",
+              "related": [
+                "τῇ",
+                "θλίψει",
+                "τῇ",
+                "προσευχῇ"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "προσευχῇ",
+            "gloss": "prière"
+          },
+          {
+            "greek": "προσκαρτεροῦντες·",
+            "gloss": "persévérant_fortement"
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "translations": {
+          "segond": "Pourvoyez aux besoins des saints. Exercez l'hospitalité.",
+          "darby": "subvenant aux nécessités des saints ; vous appliquant à l'hospitalité."
+        },
+        "interlinear": [
+          {
+            "greek": "ταῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "χρείαις",
+            "gloss": "besoins"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἁγίων",
+            "gloss": "saints"
+          },
+          {
+            "greek": "κοινωνοῦντες,",
+            "gloss": "communiant/partageant",
+            "annotation": {
+              "type": "racine",
+              "title": "Communier aux besoins",
+              "content": "Approfondissement spirituel : Du mot *koinonia* (communion). Il ne s'agit pas d'une simple aumône où un riche donne à un pauvre (rapport de force du Monde duel), mais de la mise en commun de la vie. Pourvoir aux besoins, c'est restaurer le tissu du corps ecclésial.",
+              "related": [
+                "τῶν",
+                "ἁγίων",
+                "τὴν",
+                "φιλοξενίαν"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "φιλοξενίαν",
+            "gloss": "amour_des_étrangers/hospitalité"
+          },
+          {
+            "greek": "διώκοντες.",
+            "gloss": "poursuivant/recherchant"
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Bénissez ceux qui vous persécutent, bénissez et ne maudissez pas.",
+          "darby": "Bénissez ceux qui vous persécutent ; bénissez et ne maudissez pas."
+        },
+        "interlinear": [
+          {
+            "greek": "εὐλογεῖτε",
+            "gloss": "Bénissez"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "διώκοντας",
+            "gloss": "persécutant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La subversion absolue de la logique horizontale. Le Monde duel fonctionne sur l'action-réaction : œil pour œil, tu me maudis, je te maudis. Bénir le persécuteur, c'est refuser d'entrer dans sa boucle karmique. C'est l'acte souverain d'un Sujet libre qui, uni au Christ, impose la paix du 'Royaume UN' là où l'Ego voudrait la guerre.",
+              "related": [
+                "εὐλογεῖτε",
+                "τοὺς",
+                "ὑμᾶς,",
+                "εὐλογεῖτε"
+              ]
+            }
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "εὐλογεῖτε",
+            "gloss": "bénissez"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "καταρᾶσθε.",
+            "gloss": "maudissez"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 11 - ζέοντες : Segond et Darby traduisent par 'fervents'. Si le sens y est, on perd la métaphore thermique physique du grec (*zeo* = bouillir). L'Esprit n'est pas qu'une conviction intellectuelle, c'est une chaleur agissante, une Énergie qui met l'âme en ébullition et la purifie de sa torpeur.\n• Verset 13 - κοινωνοῦντες : Traduit par 'pourvoyez' ou 'subvenant'. Ces termes ont une coloration trop économique. La racine est celle de la *koinonia* (communion). L'apôtre ne demande pas de faire la charité de loin, mais de 'communier aux nécessités', de faire sien le manque de l'autre.\n\nAnalyse spirituelle :\nCe passage de l'Épître aux Romains fait magnifiquement écho à l'Évangile du Paralytique de ce 6e dimanche de Matthieu. L'Évangile nous montrait la guérison d'un individu isolé et figé par la matrice du 'Monde duel'. L'Apôtre, lui, nous dévoile le résultat collectif de cette guérison : le corps ecclésial vivant, irrigué par la Grâce (*charis*).\n\nDans une lecture spirituelle, l'Église n'est pas une association d'egos cherchant à se valoriser, mais une symphonie où l'Énergie unique se réfracte en dons multiples (enseignement, exhortation, miséricorde). Pour que ce corps respire, il faut faire tomber les masques (*agape anypokritos*). L'hypocrisie théâtrale empêche la communion des vrais sujets. \n\nLe sommet du texte est atteint au verset 14 : 'Bénissez ceux qui vous persécutent'. C'est la signature ontologique du Royaume. Tant que l'homme rend le mal pour le mal, il est paralysé, prisonnier du cycle horizontal des causes et des effets. Dès lors qu'il parvient à 'bouillir par l'Esprit' et à bénir celui qui l'attaque, il prouve qu'il est ressuscité. Il a traversé le voile, il est redevenu un Sujet libre que plus aucune persécution extérieure ne peut détruire ou obliger à haïr.\n\nComplément de lecture : les charismes ne sont pas une collection de performances individuelles. Tous procèdent de la grâce donnée et s’ordonnent à la vie d’un même corps : service, enseignement, encouragement, partage, miséricorde, prière, hospitalité et bénédiction de l’adversaire.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement le fil qui vous appelle dans les deux lectures du 6e dimanche après la Pentecôte : un geste, une parole, un contraste, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez le mouvement propre de l’Évangile, puis regardez comment l’Apôtre le déplace, l’approfondit ou en montre le fruit ecclésial. Vous pouvez aussi ne retenir qu’une seule correspondance."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit ou donne ici. Gardez le Christ au centre et distinguez cette annonce des exigences qui en découlent."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par ces textes : peur, enfermement, faiblesse, division, manque, besoin d’être porté ou difficulté à accueillir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans dicter une conduite uniforme : accueillir, demander, porter, partager, bénir, se laisser relever ou restaurer une communion."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression claire. Présentez les interprétations symboliques comme une lecture spirituelle, non comme le seul sens du texte, et évitez toute promesse automatique de guérison ou de réussite."
+      }
+    ],
+    "liturgical_echoes": []
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 11 - ζέοντες : Segond et Darby traduisent par 'fervents'. Si le sens y est, on perd la métaphore thermique physique du grec (*zeo* = bouillir). L'Esprit n'est pas qu'une conviction intellectuelle, c'est une chaleur agissante, une Énergie qui met l'âme en ébullition et la purifie de sa torpeur.\n• Verset 13 - κοινωνοῦντες : Traduit par 'pourvoyez' ou 'subvenant'. Ces termes ont une coloration trop économique. La racine est celle de la *koinonia* (communion). L'apôtre ne demande pas de faire la charité de loin, mais de 'communier aux nécessités', de faire sien le manque de l'autre.\n\nAnalyse spirituelle :\nCe passage de l'Épître aux Romains fait magnifiquement écho à l'Évangile du Paralytique de ce 6e dimanche de Matthieu. L'Évangile nous montrait la guérison d'un individu isolé et figé par la matrice du 'Monde duel'. L'Apôtre, lui, nous dévoile le résultat collectif de cette guérison : le corps ecclésial vivant, irrigué par la Grâce (*charis*).\n\nDans la vision du Père Pascal, l'Église n'est pas une association d'egos cherchant à se valoriser, mais une symphonie où l'Énergie unique se réfracte en dons multiples (enseignement, exhortation, miséricorde). Pour que ce corps respire, il faut faire tomber les masques (*agape anypokritos*). L'hypocrisie théâtrale empêche la communion des vrais sujets. \n\nLe sommet du texte est atteint au verset 14 : 'Bénissez ceux qui vous persécutent'. C'est la signature ontologique du Royaume. Tant que l'homme rend le mal pour le mal, il est paralysé, prisonnier du cycle horizontal des causes et des effets. Dès lors qu'il parvient à 'bouillir par l'Esprit' et à bénir celui qui l'attaque, il prouve qu'il est ressuscité. Il a traversé le voile, il est redevenu un Sujet libre que plus aucune persécution extérieure ne peut détruire ou obliger à haïr."
 }
- } 
