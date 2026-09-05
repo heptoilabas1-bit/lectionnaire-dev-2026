@@ -10,25 +10,82 @@
           "darby": "Et il arriva, le jour suivant, qu'il alla dans une ville appelée Naïn; et beaucoup de ses disciples et une grande foule allaient avec lui."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ἐγένετο", "gloss": "il_arriva" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "ἑξῆς", "gloss": "jour_suivant" },
-          { "greek": "ἐπορεύθη", "gloss": "il_alla" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "πόλιν", "gloss": "une_ville" },
-          { "greek": "καλουμένην", "gloss": "appelée" },
-          { "greek": "Ναΐν,", "gloss": "Naïn" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "συνεπορεύοντο", "gloss": "faisaient_route_avec" },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὄχλος", "gloss": "une_foule" },
-          { "greek": "πολύς.", "gloss": "nombreuse" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "il_arriva"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἑξῆς",
+            "gloss": "jour_suivant"
+          },
+          {
+            "greek": "ἐπορεύθη",
+            "gloss": "il_alla"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "πόλιν",
+            "gloss": "une_ville"
+          },
+          {
+            "greek": "καλουμένην",
+            "gloss": "appelée"
+          },
+          {
+            "greek": "Ναΐν,",
+            "gloss": "Naïn"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συνεπορεύοντο",
+            "gloss": "faisaient_route_avec"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὄχλος",
+            "gloss": "une_foule"
+          },
+          {
+            "greek": "πολύς.",
+            "gloss": "nombreuse"
+          }
         ]
       },
       {
@@ -38,34 +95,136 @@
           "darby": "Et comme il approchait de la porte de la ville, voici, on portait dehors un mort, fils unique de sa mère, et elle était veuve; et une foule assez nombreuse de la ville était avec elle."
         },
         "interlinear": [
-          { "greek": "ὡς", "gloss": "Comme" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἤγγισεν", "gloss": "il_s'approcha" },
-          { "greek": "τῇ", "gloss": "de_la" },
-          { "greek": "πύλῃ", "gloss": "porte" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "πόλεως,", "gloss": "ville" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "ἐξεκομίζετο", "gloss": "était_porté_dehors" },
-          { "greek": "τεθνηκὼς", "gloss": "un_mort" },
-          { "greek": "μονογενὴς", "gloss": "unique-engendré", "analyse": "Composé de *monos* (seul) et de la racine *gen* (générer, engendrer). Ce n'est pas seulement l'idée d'un enfant unique socialement, mais de 'l'engendrement unique'. Spirituellement, le *monogenēs* figure la conscience spirituelle, l'axe vertical qui a été englouti par la pesanteur de la mort (le monde duel)." },
-          { "greek": "υἱὸς", "gloss": "fils" },
-          { "greek": "τῇ", "gloss": "à_la" },
-          { "greek": "μητρὶ", "gloss": "mère" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὐτὴ", "gloss": "elle" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "χήρα,", "gloss": "veuve", "analyse": "Lié à la racine grecque exprimant le 'vide', la privation ou l'abandon (*chēros*). La veuve représente l'âme totalement vidée, ayant perdu son principe d'union. C'est l'état de carence absolue de l'Ego face au néant." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὄχλος", "gloss": "une_foule" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "πόλεως", "gloss": "ville" },
-          { "greek": "ἱκανὸς", "gloss": "assez_nombreuse" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "αὐτῇ.", "gloss": "elle" }
+          {
+            "greek": "ὡς",
+            "gloss": "Comme"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἤγγισεν",
+            "gloss": "il_s'approcha"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πύλῃ",
+            "gloss": "porte"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πόλεως,",
+            "gloss": "ville"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ἐξεκομίζετο",
+            "gloss": "était_porté_dehors"
+          },
+          {
+            "greek": "τεθνηκὼς",
+            "gloss": "un_mort"
+          },
+          {
+            "greek": "μονογενὴς",
+            "gloss": "unique-engendré",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *monos* (seul) et de la racine *gen* (générer, engendrer). Ce n'est pas seulement l'idée d'un enfant unique socialement, mais de 'l'engendrement unique'. Spirituellement, le *monogenēs* figure la conscience spirituelle, l'axe vertical qui a été englouti par la pesanteur de la mort (le monde duel).",
+              "related": [
+                "τεθνηκὼς",
+                "υἱὸς"
+              ]
+            }
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "μητρὶ",
+            "gloss": "mère"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐτὴ",
+            "gloss": "elle"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "χήρα,",
+            "gloss": "veuve",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Lié à la racine grecque exprimant le 'vide', la privation ou l'abandon (*chēros*). La veuve représente l'âme totalement vidée, ayant perdu son principe d'union. C'est l'état de carence absolue de l'Ego face au néant.",
+              "related": [
+                "ἦν",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὄχλος",
+            "gloss": "une_foule"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πόλεως",
+            "gloss": "ville"
+          },
+          {
+            "greek": "ἱκανὸς",
+            "gloss": "assez_nombreuse"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῇ.",
+            "gloss": "elle"
+          }
         ]
       },
       {
@@ -75,19 +234,67 @@
           "darby": "Et le Seigneur, la voyant, fut ému de compassion envers elle, et lui dit : Ne pleure pas."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἰδὼν", "gloss": "l'ayant_vue" },
-          { "greek": "αὐτὴν", "gloss": "elle" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κύριος", "gloss": "Seigneur" },
-          { "greek": "ἐσπλαγχνίσθη", "gloss": "fut_ému_aux_entrailles", "analyse": "Dérivé de *splanchna* (les entrailles, la matrice). Ce n'est pas un simple sentiment humain de pitié, c'est l'activation de la matrice divine. Face au vide (*chēra*) et à la mort, le Verbe vibre d'une miséricorde créatrice capable de ré-engendrer (*gen*) la vie à partir de son propre centre." },
-          { "greek": "ἐπ’", "gloss": "sur" },
-          { "greek": "αὐτῇ", "gloss": "elle" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῇ·", "gloss": "à_elle" },
-          { "greek": "Μὴ", "gloss": "Ne_pas" },
-          { "greek": "κλαῖε.", "gloss": "pleure" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "l'ayant_vue"
+          },
+          {
+            "greek": "αὐτὴν",
+            "gloss": "elle"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἐσπλαγχνίσθη",
+            "gloss": "fut_ému_aux_entrailles",
+            "annotation": {
+              "type": "theologie",
+              "title": "Saisi aux entrailles",
+              "content": "Approfondissement spirituel : Dérivé de *splanchna* (les entrailles, la matrice). Ce n'est pas un simple sentiment humain de pitié, c'est l'activation de la matrice divine. Face au vide (*chēra*) et à la mort, le Verbe vibre d'une miséricorde créatrice capable de ré-engendrer (*gen*) la vie à partir de son propre centre.",
+              "related": [
+                "κύριος",
+                "ἐπ’"
+              ]
+            }
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "αὐτῇ",
+            "gloss": "elle"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῇ·",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "Μὴ",
+            "gloss": "Ne_pas"
+          },
+          {
+            "greek": "κλαῖε.",
+            "gloss": "pleure"
+          }
         ]
       },
       {
@@ -97,21 +304,74 @@
           "darby": "Et s'approchant, il toucha la bière; et les porteurs s'arrêtèrent. Et il dit : Jeune homme, je te dis, lève-toi."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "προσελθὼν", "gloss": "s'étant_approché" },
-          { "greek": "ἥψατο", "gloss": "il_toucha" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "σοροῦ,", "gloss": "civière/bière" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "βαστάζοντες", "gloss": "porteurs" },
-          { "greek": "ἔστησαν,", "gloss": "s'arrêtèrent" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶπεν·", "gloss": "il_dit" },
-          { "greek": "Νεανίσκε,", "gloss": "Jeune_homme" },
-          { "greek": "σοὶ", "gloss": "à_toi" },
-          { "greek": "λέγω,", "gloss": "je_dis" },
-          { "greek": "ἐγέρθητι.", "gloss": "lève-toi/éveille-toi", "analyse": "L'impératif passif du verbe *egeirō*. C'est l'injonction verticale absolue. La parole incréée brise le cortège horizontal (qui sortait de la ville vers la nécropole). Elle ordonne un relèvement pur, coupant la dynamique descendante (*kata*) de la corruption charnelle." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "προσελθὼν",
+            "gloss": "s'étant_approché"
+          },
+          {
+            "greek": "ἥψατο",
+            "gloss": "il_toucha"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "σοροῦ,",
+            "gloss": "civière/bière"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "βαστάζοντες",
+            "gloss": "porteurs"
+          },
+          {
+            "greek": "ἔστησαν,",
+            "gloss": "s'arrêtèrent"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "Νεανίσκε,",
+            "gloss": "Jeune_homme"
+          },
+          {
+            "greek": "σοὶ",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "λέγω,",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ἐγέρθητι.",
+            "gloss": "lève-toi/éveille-toi",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'impératif passif du verbe *egeirō*. C'est l'injonction verticale absolue. La parole incréée brise le cortège horizontal (qui sortait de la ville vers la nécropole). Elle ordonne un relèvement pur, coupant la dynamique descendante (*kata*) de la corruption charnelle.",
+              "related": [
+                "λέγω,"
+              ]
+            }
+          }
         ]
       },
       {
@@ -121,19 +381,67 @@
           "darby": "Et le mort s'assit, et commença à parler; et il le donna à sa mère."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἀνεκάθισεν", "gloss": "se_redressa/s'assit", "analyse": "Composé du préfixe *ana-* (mouvement vers le haut, de nouveau) et *kathizō* (s'asseoir). Le préfixe *ana-* inscrit matériellement dans le texte la réponse à la commande du Christ : l'énergie de vie fait irruption sous la forme d'une poussée ascendante qui brise la ligne d'inertie de la civière." },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "νεκρὸς", "gloss": "mort" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἤρξατο", "gloss": "commença" },
-          { "greek": "λαλεῖν,", "gloss": "à_parler" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔδωκεν", "gloss": "il_donna" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "τῇ", "gloss": "à_la" },
-          { "greek": "μητρὶ", "gloss": "mère" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀνεκάθισεν",
+            "gloss": "se_redressa/s'assit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le mort se redressa",
+              "content": "Approfondissement spirituel : Composé du préfixe *ana-* (mouvement vers le haut, de nouveau) et *kathizō* (s'asseoir). Le préfixe *ana-* inscrit matériellement dans le texte la réponse à la commande du Christ : l'énergie de vie fait irruption sous la forme d'une poussée ascendante qui brise la ligne d'inertie de la civière.",
+              "related": [
+                "καὶ",
+                "ὁ"
+              ]
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "νεκρὸς",
+            "gloss": "mort"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἤρξατο",
+            "gloss": "commença"
+          },
+          {
+            "greek": "λαλεῖν,",
+            "gloss": "à_parler"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "il_donna"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "μητρὶ",
+            "gloss": "mère"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -143,35 +451,210 @@
           "darby": "Et la crainte les saisit tous; et ils glorifiaient Dieu, disant : Un grand prophète a été suscité parmi nous, et Dieu a visité son peuple."
         },
         "interlinear": [
-          { "greek": "Ἔλαβεν", "gloss": "Saisit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "φόβος", "gloss": "la_crainte" },
-          { "greek": "πάντας", "gloss": "tous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐδόξαζον", "gloss": "ils_glorifiaient" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεὸν", "gloss": "Dieu" },
-          { "greek": "λέγοντες", "gloss": "disant" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "Προφήτης", "gloss": "Prophète" },
-          { "greek": "μέγας", "gloss": "un_grand" },
-          { "greek": "ἠγέρθη", "gloss": "a_été_suscité/s'est_levé", "analyse": "Même racine (*egeirō*) que pour la résurrection du fils au verset 14. Le peuple perçoit que l'apparition de ce prophète est de même nature qu'une résurrection : une irruption de l'Axe vertical dans l'histoire humaine." },
-          { "greek": "ἐν", "gloss": "parmi" },
-          { "greek": "ἡμῖν,", "gloss": "nous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ἐπεσκέψατο", "gloss": "a_visité", "analyse": "Composé de *epi* (sur) et *skopeo* (regarder, observer). La visitation divine n'est pas un simple mouvement géographique. C'est l'Incréé qui 'pose son regard sur' le monde ; l'attention et la Conscience suprêmes infusent l'obscurité du monde duel pour y restaurer l'Être." },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "λαὸν", "gloss": "peuple" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "Ἔλαβεν",
+            "gloss": "Saisit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "φόβος",
+            "gloss": "la_crainte"
+          },
+          {
+            "greek": "πάντας",
+            "gloss": "tous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐδόξαζον",
+            "gloss": "ils_glorifiaient"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "λέγοντες",
+            "gloss": "disant"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "Προφήτης",
+            "gloss": "Prophète"
+          },
+          {
+            "greek": "μέγας",
+            "gloss": "un_grand"
+          },
+          {
+            "greek": "ἠγέρθη",
+            "gloss": "a_été_suscité/s'est_levé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Même racine (*egeirō*) que pour la résurrection du fils au verset 14. Le peuple perçoit que l'apparition de ce prophète est de même nature qu'une résurrection : une irruption de l'Axe vertical dans l'histoire humaine.",
+              "related": [
+                "μέγας",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ἡμῖν,",
+            "gloss": "nous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Ἐπεσκέψατο",
+            "gloss": "a_visité",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi* (sur) et *skopeo* (regarder, observer). La visitation divine n'est pas un simple mouvement géographique. C'est l'Incréé qui 'pose son regard sur' le monde ; l'attention et la Conscience suprêmes infusent l'obscurité du monde duel pour y restaurer l'Être.",
+              "related": [
+                "ὅτι",
+                "ὁ"
+              ]
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "λαὸν",
+            "gloss": "peuple"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       }
     ],
-   "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 13 - ἐσπλαγχνίσθη ἐπ' αὐτῇ (esplanchnisthē ep' autē) : Souvent traduit par 'il fut ému de compassion' (Segond). Ce choix moralise et affadit l'immense puissance physique de ce verbe. La racine *splanchna* désigne les entrailles, les viscères, le siège profond de l'être. Le Christ ne ressent pas une simple pitié psychologique face au deuil. C'est le mouvement matriciel de l'Incréé qui entre en résonance absolue pour venir combler le vide insoutenable de la matrice déchue (la veuve qui a perdu son fruit).\n\n• Verset 14 - ἥψατο τῆς σοροῦ (hēpsato tēs sorou) : 'Il toucha le cercueil' (ou la civière). Dans le 'Monde duel' (celui de la Loi ancienne et de l'Arbre de la Connaissance), la mort est la souillure suprême ; toucher un mort ou son cercueil rend rituellement impur. Le Christ pulvérise cette grille de lecture. En posant la main sur le bois de la mort, Il inverse la contagion : ce n'est plus la mort qui souille le vivant, c'est la Vie incréée qui foudroie la mort. C'est le contact physique de l'Arbre de Vie.\n\n• Verset 16 - ἐπεσκέψατο ὁ θεὸς (epeskepsato ho Theos) : 'Dieu a visité son peuple'. Le verbe est composé de *epi* (sur) et *skopeo* (regarder, examiner), qui a donné le mot épiscope (évêque). Ce n'est pas une 'visite' de courtoisie. C'est l'irruption du Regard divin dans la caverne de l'Ego. Dieu pose sur l'humanité morte un regard de pure Conscience qui dissipe l'illusion hypnotique de la mort.\n\nAnalyse spirituelle et mystagogique :\n\nLa scène de Naïn expose la collision frontale entre l'entropie du 'Monde duel' et l'axe vertical du 'Royaume UN'.\n\n1. Le choc des deux cortèges : La Matrice vide\nDeux foules se rencontrent à la porte de la ville. D'un côté, le cortège de la mort sortant de Naïn : un mouvement d'évacuation horizontale, le cours fatal et inéluctable du monde déchu. Ce cortège encadre l'image d'un anéantissement ontologique total. Le fils unique, principe germinatif (*monogenēs*), est mort. Sa mère est veuve (*chēra*). Elle symbolise l'âme humaine déconnectée de son principe divin, vidée de son Époux, et ayant perdu son Logos (son fruit unique). Elle est le vide absolu.\n\n2. Le toucher de l'Incréé et le point d'impact\nFace à ce gouffre, la réaction du Christ n'est pas un discours moral, mais un acte de pure re-création. Les entrailles divines (*splanchna*) suppléent au vide matriciel de la veuve. En touchant le cercueil au mépris des lois de pureté du Monde duel, le Christ stoppe la marche funèbre ('les porteurs s'arrêtèrent'). L'injonction « Éveille-toi / Lève-toi » (*egeirō*) est le point d'impact fulgurant de l'Axe vertical, tranchant la fatalité de la chute.\n\n3. L'éveil du Sujet et la restitution du Logos\nLa résurrection s'inscrit linguistiquement par le mouvement ascendant : le jeune homme se redresse (*anekathisen*, mouvement vers le haut) et 'commence à parler'. L'état de mort était l'objectivation ultime (le cadavre muet que la foule porte passivement). En lui rendant la Parole, le Christ le restaure dans sa dignité de Sujet. La conclusion du récit ('Il le rendit à sa mère') figure la guérison intégrale de l'âme humaine : la matrice purifiée retrouve son Logos."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 13 - ἐσπλαγχνίσθη ἐπ' αὐτῇ (esplanchnisthē ep' autē) : Souvent traduit par 'il fut ému de compassion' (Segond). Ce choix moralise et affadit l'immense puissance physique de ce verbe. La racine *splanchna* désigne les entrailles, les viscères, le siège profond de l'être. Le Christ ne ressent pas une simple pitié psychologique face au deuil. C'est le mouvement matriciel de l'Incréé qui entre en résonance absolue pour venir combler le vide insoutenable de la matrice déchue (la veuve qui a perdu son fruit).\n\n• Verset 14 - ἥψατο τῆς σοροῦ (hēpsato tēs sorou) : 'Il toucha le cercueil' (ou la civière). Dans le 'Monde duel' (celui de la Loi ancienne et de l'Arbre de la Connaissance), la mort est la souillure suprême ; toucher un mort ou son cercueil rend rituellement impur. Le Christ pulvérise cette grille de lecture. En posant la main sur le bois de la mort, Il inverse la contagion : ce n'est plus la mort qui souille le vivant, c'est la Vie incréée qui foudroie la mort. C'est le contact physique de l'Arbre de Vie.\n\n• Verset 16 - ἐπεσκέψατο ὁ θεὸς (epeskepsato ho Theos) : 'Dieu a visité son peuple'. Le verbe est composé de *epi* (sur) et *skopeo* (regarder, examiner), qui a donné le mot épiscope (évêque). Ce n'est pas une 'visite' de courtoisie. C'est l'irruption du Regard divin dans la caverne de l'Ego. Dieu pose sur l'humanité morte un regard de pure Conscience qui dissipe l'illusion hypnotique de la mort.\n\nAnalyse spirituelle et mystagogique :\n\nLa scène de Naïn expose la collision frontale entre l'entropie du 'Monde duel' et l'axe vertical du 'Royaume UN'.\n\n1. Le choc des deux cortèges : La Matrice vide\nDeux foules se rencontrent à la porte de la ville. D'un côté, le cortège de la mort sortant de Naïn : un mouvement d'évacuation horizontale, le cours fatal et inéluctable du monde déchu. Ce cortège encadre l'image d'un anéantissement ontologique total. Le fils unique, principe germinatif (*monogenēs*), est mort. Sa mère est veuve (*chēra*). Elle symbolise l'âme humaine déconnectée de son principe divin, vidée de son Époux, et ayant perdu son Logos (son fruit unique). Elle est le vide absolu.\n\n2. Le toucher de l'Incréé et le point d'impact\nFace à ce gouffre, la réaction du Christ n'est pas un discours moral, mais un acte de pure re-création. Les entrailles divines (*splanchna*) suppléent au vide matriciel de la veuve. En touchant le cercueil au mépris des lois de pureté du Monde duel, le Christ stoppe la marche funèbre ('les porteurs s'arrêtèrent'). L'injonction « Éveille-toi / Lève-toi » (*egeirō*) est le point d'impact fulgurant de l'Axe vertical, tranchant la fatalité de la chute.\n\n3. L'éveil du Sujet et la restitution du Logos\nLa résurrection s'inscrit linguistiquement par le mouvement ascendant : le jeune homme se redresse (*anekathisen*, mouvement vers le haut) et 'commence à parler'. L'état de mort était l'objectivation ultime (le cadavre muet que la foule porte passivement). En lui rendant la Parole, le Christ le restaure dans sa dignité de Sujet. La conclusion du récit ('Il le rendit à sa mère') figure la guérison intégrale de l'âme humaine : la matrice purifiée retrouve son Logos.\n\nComplément de lecture : deux cortèges se rencontrent à la porte de la ville : celui de la mort sort, tandis que Jésus s’approche avec ses disciples. Il voit la mère, est saisi de compassion, touche le cercueil et parle au jeune homme. Le relèvement rend simultanément le fils à la vie, à la parole et à sa mère.",
+    "homiletic_axes": [
+      {
+        "title": "Deux cortèges se rencontrent",
+        "content": "À la porte de Naïn, la foule qui accompagne la veuve rencontre Jésus entouré de ses disciples. La vie vient au-devant du cortège funèbre.",
+        "keywords": [
+          "πύλῃ",
+          "ἐξεκομίζετο",
+        "συνεπορεύοντο",
+        "ὄχλος"
+        ]
+      },
+      {
+        "title": "Il vit la mère et fut saisi de compassion",
+        "content": "Jésus ne répond à aucune demande formulée. Son initiative naît du regard porté sur la mère et de sa compassion.",
+        "keywords": [
+          "ἰδὼν",
+          "μητρὶ",
+          "ἐσπλαγχνίσθη",
+          "κλαῖε."
+        ]
+      },
+      {
+        "title": "Toucher, appeler, rendre",
+        "content": "Jésus touche le cercueil, s’adresse au mort et le rend vivant à sa mère. La restauration est corporelle et relationnelle.",
+        "keywords": [
+          "ἥψατο",
+        "ἐγέρθητι.",
+        "λαλεῖν,",
+          "ἔδωκεν"
+        ]
+      },
+      {
+        "title": "Le Fils révélé en moi",
+        "content": "Le relèvement de Naïn rencontre le témoignage de Paul : Dieu appelle par grâce et révèle son Fils dans une vie autrefois tournée contre l’Église.",
+        "keywords": [
+          "χάριτος",
+          "ἀποκαλύψαι",
+          "υἱὸν",
+          "ἐμοί,"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche du fils de la veuve de Naïn : une parole, un geste, une opposition, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : attente d’un retour, deuil, stérilité, dispersion intérieure, indifférence, faiblesse ou désir de porter du fruit."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : aimer sans calcul, compatir, écouter, retenir la parole, servir, franchir une distance ou recevoir la grâce dans une faiblesse."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes souffrantes."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Le fils rendu à sa mère et le Fils révélé en Paul",
+        "reference": "Luc 7, 11-16 ; Galates 1, 11-19",
+        "content": "Jésus rend vivant le fils unique d’une veuve ; Dieu révèle son Fils dans le persécuteur appelé par grâce. Les deux récits montrent une initiative divine qui restaure une relation et ouvre une parole nouvelle.",
+        "connections": []
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Galates 1, 11-19",
     "title": "La Rupture de la Transmission : De la Tradition Horizontale à l'Effraction Verticale",
     "interlinear": [
@@ -182,21 +665,74 @@
           "darby": "Or je vous fais savoir, frères, que l'évangile qui a été évangélisé par moi n'est pas selon l'homme;"
         },
         "interlinear": [
-          { "greek": "Γνωρίζω", "gloss": "Je_fais_savoir" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "ὑμῖν,", "gloss": "à_vous" },
-          { "greek": "ἀδελφοί,", "gloss": "frères" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "εὐαγγέλιον", "gloss": "évangile" },
-          { "greek": "τὸ", "gloss": "celui" },
-          { "greek": "εὐαγγελισθὲν", "gloss": "ayant_été_annoncé" },
-          { "greek": "ὑπ’", "gloss": "par" },
-          { "greek": "ἐμοῦ", "gloss": "moi" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "οὐκ", "gloss": "il_n'est_pas" },
-          { "greek": "ἔστιν", "gloss": "est" },
-          { "greek": "κατὰ", "gloss": "selon" },
-          { "greek": "ἄνθρωπον·", "gloss": "l'homme", "analyse": "L'expression *kata anthropon* (selon l'homme / à la mesure humaine) désigne ici l'axe horizontal, la logique rationnelle du Monde duel. L'Évangile n'est pas un produit de l'intellect, ni une philosophie structurée par l'Ego, ni le fruit d'une élaboration psychologique." }
+          {
+            "greek": "Γνωρίζω",
+            "gloss": "Je_fais_savoir"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ἀδελφοί,",
+            "gloss": "frères"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "εὐαγγέλιον",
+            "gloss": "évangile"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "εὐαγγελισθὲν",
+            "gloss": "ayant_été_annoncé"
+          },
+          {
+            "greek": "ὑπ’",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "il_n'est_pas"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "ἄνθρωπον·",
+            "gloss": "l'homme",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'expression *kata anthropon* (selon l'homme / à la mesure humaine) désigne ici l'axe horizontal, la logique rationnelle du Monde duel. L'Évangile n'est pas un produit de l'intellect, ni une philosophie structurée par l'Ego, ni le fruit d'une élaboration psychologique.",
+              "related": [
+                "κατὰ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -206,20 +742,71 @@
           "darby": "car je ne l'ai pas reçu de l'homme non plus, ni appris, mais par la révélation de Jésus Christ."
         },
         "interlinear": [
-          { "greek": "οὐδὲ", "gloss": "ni/car_pas" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "παρὰ", "gloss": "de_la_part_de" },
-          { "greek": "ἀνθρώπου", "gloss": "un_homme" },
-          { "greek": "παρέλαβον", "gloss": "j'ai_reçu" },
-          { "greek": "αὐτὸ", "gloss": "le" },
-          { "greek": "οὔτε", "gloss": "ni" },
-          { "greek": "ἐδιδάχθην,", "gloss": "j'ai_été_enseigné" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "δι’", "gloss": "par" },
-          { "greek": "ἀποκαλύψεως", "gloss": "révélation", "analyse": "Composé de *apo-* (retrait, séparation, ôter) et *kalypto* (voiler, cacher). L'accès à la vérité spirituelle ne procède pas d'un apprentissage cumulatif (l'école, l'enseignement humain horizontal). C'est un déchirement du voile. L'Incréé fait effraction dans la conscience en ôtant les projections du mental." },
-          { "greek": "Ἰησοῦ", "gloss": "de_Jésus" },
-          { "greek": "Χριστοῦ.", "gloss": "Christ" }
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni/car_pas"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "de_la_part_de"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "παρέλαβον",
+            "gloss": "j'ai_reçu"
+          },
+          {
+            "greek": "αὐτὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὔτε",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἐδιδάχθην,",
+            "gloss": "j'ai_été_enseigné"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἀποκαλύψεως",
+            "gloss": "révélation",
+            "annotation": {
+              "type": "racine",
+              "title": "Par révélation",
+              "content": "Ἀποκάλυψις associe ἀπό et καλύπτω : dévoilement, révélation. Paul affirme que l’Évangile lui a été révélé par Jésus-Christ ; la lecture spirituelle du voile retiré ne signifie pas que toute vérité serait déjà intérieurement possédée.",
+              "related": [
+                "δι’",
+                "Ἰησοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "de_Jésus"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "Christ"
+          }
         ]
       },
       {
@@ -229,26 +816,86 @@
           "darby": "Car vous avez entendu parler de ma conduite autrefois dans le judaïsme, comment je persécutais outre mesure l'assemblée de Dieu et la dévastais,"
         },
         "interlinear": [
-          { "greek": "Ἠκούσατε", "gloss": "Vous_avez_entendu" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἐμὴν", "gloss": "mienne" },
-          { "greek": "ἀναστροφήν", "gloss": "conduite/mode_de_vie" },
-          { "greek": "ποτε", "gloss": "autrefois" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "Ἰουδαϊσμῷ,", "gloss": "judaïsme" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "καθ’", "gloss": "avec" },
-          { "greek": "ὑπερβολὴν", "gloss": "excès/surabondance" },
-          { "greek": "ἐδίωκον", "gloss": "je_persécutais" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἐκκλησίαν", "gloss": "église/assemblée" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπόρθουν", "gloss": "je_ravageais/détruisais" },
-          { "greek": "αὐτήν,", "gloss": "elle" }
+          {
+            "greek": "Ἠκούσατε",
+            "gloss": "Vous_avez_entendu"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐμὴν",
+            "gloss": "mienne"
+          },
+          {
+            "greek": "ἀναστροφήν",
+            "gloss": "conduite/mode_de_vie"
+          },
+          {
+            "greek": "ποτε",
+            "gloss": "autrefois"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰουδαϊσμῷ,",
+            "gloss": "judaïsme"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "καθ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ὑπερβολὴν",
+            "gloss": "excès/surabondance"
+          },
+          {
+            "greek": "ἐδίωκον",
+            "gloss": "je_persécutais"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἐκκλησίαν",
+            "gloss": "église/assemblée"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπόρθουν",
+            "gloss": "je_ravageais/détruisais"
+          },
+          {
+            "greek": "αὐτήν,",
+            "gloss": "elle"
+          }
         ]
       },
       {
@@ -258,25 +905,90 @@
           "darby": "et comment j'avançais dans le judaïsme plus que plusieurs de ceux de mon âge dans ma nation, étant extrêmement zélé pour les traditions de mes pères."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "προέκοπτον", "gloss": "j'avançais/je_progressais" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "Ἰουδαϊσμῷ", "gloss": "judaïsme" },
-          { "greek": "ὑπὲρ", "gloss": "au-delà_de" },
-          { "greek": "πολλοὺς", "gloss": "beaucoup" },
-          { "greek": "συνηλικιώτας", "gloss": "de_mon_âge" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "γένει", "gloss": "nation/race" },
-          { "greek": "μου,", "gloss": "de_moi" },
-          { "greek": "περισσοτέρως", "gloss": "plus_abondamment" },
-          { "greek": "ζηλωτὴς", "gloss": "zélé" },
-          { "greek": "ὑπάρχων", "gloss": "étant" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "πατρικῶν", "gloss": "paternelles" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "παραδόσεων.", "gloss": "traditions", "analyse": "De *para-* (à côté de) et *didomi* (donner). La *paradosis* est la transmission horizontale par excellence d'une génération à l'autre. Elle représente le bagage mémoriel et identitaire qui forge la cuirasse de l'Ego. Paul décrit ici son ancien enfermement dans le zèle, l'apogée de la construction identitaire terrestre, basée sur le conditionnement et l'appartenance à la tribu." }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προέκοπτον",
+            "gloss": "j'avançais/je_progressais"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰουδαϊσμῷ",
+            "gloss": "judaïsme"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "au-delà_de"
+          },
+          {
+            "greek": "πολλοὺς",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "συνηλικιώτας",
+            "gloss": "de_mon_âge"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γένει",
+            "gloss": "nation/race"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "περισσοτέρως",
+            "gloss": "plus_abondamment"
+          },
+          {
+            "greek": "ζηλωτὴς",
+            "gloss": "zélé"
+          },
+          {
+            "greek": "ὑπάρχων",
+            "gloss": "étant"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "πατρικῶν",
+            "gloss": "paternelles"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "παραδόσεων.",
+            "gloss": "traditions",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : De *para-* (à côté de) et *didomi* (donner). La *paradosis* est la transmission horizontale par excellence d'une génération à l'autre. Elle représente le bagage mémoriel et identitaire qui forge la cuirasse de l'Ego. Paul décrit ici son ancien enfermement dans le zèle, l'apogée de la construction identitaire terrestre, basée sur le conditionnement et l'appartenance à la tribu.",
+              "related": [
+                "μου"
+              ]
+            }
+          }
         ]
       },
       {
@@ -286,22 +998,79 @@
           "darby": "Mais quand il plut à Dieu, qui m'a mis à part dès le ventre de ma mère et qui m'a appelé par sa grâce,"
         },
         "interlinear": [
-          { "greek": "Ὅτε", "gloss": "Mais_quand" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εὐδόκησεν", "gloss": "il_plut/trouva_bon" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "ἀφορίσας", "gloss": "ayant_mis_à_part", "analyse": "Composé de *apo-* (séparation, hors de) et *horizo* (délimiter, fixer l'horizon). L'action de la Grâce est une extraction : Dieu arrache l'apôtre à l'horizon restreint du Monde duel (les déterminismes génétiques et culturels) pour l'ouvrir à un espace infini." },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "ἐκ", "gloss": "dès" },
-          { "greek": "κοιλίας", "gloss": "le_ventre/sein" },
-          { "greek": "μητρός", "gloss": "de_la_mère" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "καλέσας", "gloss": "m'ayant_appelé" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "χάριτος", "gloss": "grâce" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" }
+          {
+            "greek": "Ὅτε",
+            "gloss": "Mais_quand"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εὐδόκησεν",
+            "gloss": "il_plut/trouva_bon"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἀφορίσας",
+            "gloss": "ayant_mis_à_part",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (séparation, hors de) et *horizo* (délimiter, fixer l'horizon). L'action de la Grâce est une extraction : Dieu arrache l'apôtre à l'horizon restreint du Monde duel (les déterminismes génétiques et culturels) pour l'ouvrir à un espace infini.",
+              "related": [
+                "ὁ",
+                "με"
+              ]
+            }
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "dès"
+          },
+          {
+            "greek": "κοιλίας",
+            "gloss": "le_ventre/sein"
+          },
+          {
+            "greek": "μητρός",
+            "gloss": "de_la_mère"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "καλέσας",
+            "gloss": "m'ayant_appelé"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάριτος",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -311,24 +1080,95 @@
           "darby": "de révéler son Fils en moi, afin que je l'évangélisasse parmi les nations, aussitôt je ne pris pas conseil de la chair ni du sang,"
         },
         "interlinear": [
-          { "greek": "ἀποκαλύψαι", "gloss": "de_révéler" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "υἱὸν", "gloss": "Fils" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ἐμοί,", "gloss": "moi", "analyse": "L'insistance sur le *en emoi*. La révélation n'est pas un dogme extérieur ou une vision spectaculaire à analyser. C'est l'émergence du principe divin, l'engendrement du Fils à l'intérieur même du Sujet. L'évènement est d'ordre ontologique, intérieur." },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "εὐαγγελίζωμαι", "gloss": "je_l'annonce" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἐν", "gloss": "parmi" },
-          { "greek": "τοῖς", "gloss": "les" },
-          { "greek": "ἔθνεσιν,", "gloss": "païens/nations" },
-          { "greek": "εὐθέως", "gloss": "aussitôt" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "προσανεθέμην", "gloss": "je_ne_consultai" },
-          { "greek": "σαρκὶ", "gloss": "la_chair" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αἵματι,", "gloss": "le_sang", "analyse": "« La chair et le sang » désignent ici l'ensemble des réseaux de dépendance horizontaux (filiation biologique, raisonnement intellectuel, validation sociale ou hiérarchique). L'effraction verticale rend caduque la nécessité de se référer aux autorités mondaines pour valider la Grâce." }
+          {
+            "greek": "ἀποκαλύψαι",
+            "gloss": "de_révéler"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸν",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἐμοί,",
+            "gloss": "moi",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'insistance sur le *en emoi*. La révélation n'est pas un dogme extérieur ou une vision spectaculaire à analyser. C'est l'émergence du principe divin, l'engendrement du Fils à l'intérieur même du Sujet. L'évènement est d'ordre ontologique, intérieur.",
+              "related": [
+                "ἐν",
+                "ἵνα"
+              ]
+            }
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "εὐαγγελίζωμαι",
+            "gloss": "je_l'annonce"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἔθνεσιν,",
+            "gloss": "païens/nations"
+          },
+          {
+            "greek": "εὐθέως",
+            "gloss": "aussitôt"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "προσανεθέμην",
+            "gloss": "je_ne_consultai"
+          },
+          {
+            "greek": "σαρκὶ",
+            "gloss": "la_chair"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αἵματι,",
+            "gloss": "le_sang",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : « La chair et le sang » désignent ici l'ensemble des réseaux de dépendance horizontaux (filiation biologique, raisonnement intellectuel, validation sociale ou hiérarchique). L'effraction verticale rend caduque la nécessité de se référer aux autorités mondaines pour valider la Grâce.",
+              "related": [
+                "καὶ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -338,24 +1178,78 @@
           "darby": "et je ne montai pas à Jérusalem vers ceux qui étaient apôtres avant moi, mais je m'en allai en Arabie, et je retournai de nouveau à Damas."
         },
         "interlinear": [
-          { "greek": "οὐδὲ", "gloss": "et_ne_pas" },
-          { "greek": "ἀνῆλθον", "gloss": "je_montai" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "Ἱεροσόλυμα", "gloss": "Jérusalem" },
-          { "greek": "πρὸς", "gloss": "auprès_de" },
-          { "greek": "τοὺς", "gloss": "ceux" },
-          { "greek": "πρὸ", "gloss": "avant" },
-          { "greek": "ἐμοῦ", "gloss": "moi" },
-          { "greek": "ἀποστόλους,", "gloss": "apôtres" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "ἀπῆλθον", "gloss": "je_m'en_allai" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "Ἀραβίαν,", "gloss": "l'Arabie" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πάλιν", "gloss": "de_nouveau" },
-          { "greek": "ὑπέστρεψα", "gloss": "je_retournai" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "Δαμασκόν.", "gloss": "Damas" }
+          {
+            "greek": "οὐδὲ",
+            "gloss": "et_ne_pas"
+          },
+          {
+            "greek": "ἀνῆλθον",
+            "gloss": "je_montai"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "Ἱεροσόλυμα",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "πρὸ",
+            "gloss": "avant"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἀποστόλους,",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἀπῆλθον",
+            "gloss": "je_m'en_allai"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "Ἀραβίαν,",
+            "gloss": "l'Arabie"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάλιν",
+            "gloss": "de_nouveau"
+          },
+          {
+            "greek": "ὑπέστρεψα",
+            "gloss": "je_retournai"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "Δαμασκόν.",
+            "gloss": "Damas"
+          }
         ]
       },
       {
@@ -365,21 +1259,66 @@
           "darby": "Ensuite, trois ans après, je montai à Jérusalem pour faire la connaissance de Céphas, et je demeurai chez lui quinze jours;"
         },
         "interlinear": [
-          { "greek": "Ἔπειτα", "gloss": "Ensuite" },
-          { "greek": "μετὰ", "gloss": "après" },
-          { "greek": "ἔτη", "gloss": "ans" },
-          { "greek": "τρία", "gloss": "trois" },
-          { "greek": "ἀνῆλθον", "gloss": "je_montai" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "Ἱεροσόλυμα", "gloss": "Jérusalem" },
-          { "greek": "ἱστορῆσαι", "gloss": "pour_connaître/rendre_visite" },
-          { "greek": "Κηφᾶν,", "gloss": "Céphas" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπέμεινα", "gloss": "je_demeurai" },
-          { "greek": "πρὸς", "gloss": "auprès_de" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἡμέρας", "gloss": "jours" },
-          { "greek": "δεκαπέντε·", "gloss": "quinze" }
+          {
+            "greek": "Ἔπειτα",
+            "gloss": "Ensuite"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "après"
+          },
+          {
+            "greek": "ἔτη",
+            "gloss": "ans"
+          },
+          {
+            "greek": "τρία",
+            "gloss": "trois"
+          },
+          {
+            "greek": "ἀνῆλθον",
+            "gloss": "je_montai"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "Ἱεροσόλυμα",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "ἱστορῆσαι",
+            "gloss": "pour_connaître/rendre_visite"
+          },
+          {
+            "greek": "Κηφᾶν,",
+            "gloss": "Céphas"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπέμεινα",
+            "gloss": "je_demeurai"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἡμέρας",
+            "gloss": "jours"
+          },
+          {
+            "greek": "δεκαπέντε·",
+            "gloss": "quinze"
+          }
         ]
       },
       {
@@ -389,22 +1328,101 @@
           "darby": "mais je ne vis aucun autre des apôtres, sinon Jacques le frère du Seigneur."
         },
         "interlinear": [
-          { "greek": "ἕτερον", "gloss": "un_autre" },
-          { "greek": "δὲ", "gloss": "mais" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἀποστόλων", "gloss": "apôtres" },
-          { "greek": "οὐκ", "gloss": "je_ne_pas" },
-          { "greek": "εἶδον", "gloss": "vis" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "μὴ", "gloss": "ce_n'est" },
-          { "greek": "Ἰάκωβον", "gloss": "Jacques" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἀδελφὸν", "gloss": "frère" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "κυρίου.", "gloss": "Seigneur" }
+          {
+            "greek": "ἕτερον",
+            "gloss": "un_autre"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀποστόλων",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "je_ne_pas"
+          },
+          {
+            "greek": "εἶδον",
+            "gloss": "vis"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ce_n'est"
+          },
+          {
+            "greek": "Ἰάκωβον",
+            "gloss": "Jacques"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀδελφὸν",
+            "gloss": "frère"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου.",
+            "gloss": "Seigneur"
+          }
         ]
       }
     ],
- "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 12 - δι' ἀποκαλύψεως (di' apokalypseōs) : Traduit par 'par une révélation' (Segond). L'étymologie du mot *apokalypsis* est littéralement le fait d'enlever (*apo*) le voile (*kalypto*). La transmission mondaine (l'éducation, le dogme humain) ajoute des couches de savoir 'en plein'. L'action divine, au contraire, est un dépouillement : elle déchire le voile des illusions de l'Ego pour laisser irradier la Vérité incréée qui était déjà là, mais cachée.\n\n• Verset 16 - ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοί : Segond traduit par 'révéler en moi son Fils', mais certaines traductions affadissent le texte par 'révéler son Fils *à* moi'. Le grec est strictement locatif : *en emoi* (à l'intérieur de moi). Paul ne décrit pas un spectacle extérieur éblouissant qu'il aurait regardé comme un objet. Le mystère de Damas est une naissance ontologique : le Fils s'est révélé dans la matrice même de l'Apôtre, au plus profond de son 'creux' intérieur.\n\n• Verset 16 - σαρκὶ καὶ αἵματι (sarki kai haimati) : 'La chair et le sang'. Cette expression sémitique ne désigne pas simplement le corps physique, mais l'ensemble du réseau conditionné du 'Monde duel' : la généalogie, l'appartenance tribale, la validation sociale et les limites psychologiques. Consulter 'la chair et le sang', c'est chercher l'autorisation de la matrice horizontale pour exister.\n\nAnalyse spirituelle et mystagogique :\n\nCe texte est l'une des démonstrations les plus puissantes de l'opposition absolue entre le conditionnement horizontal et l'éveil vertical. Il résonne parfaitement avec l'Évangile du jour : Dieu stoppe net le cortège mortifère de Paul tout comme Il a stoppé celui de Naïn.\n\n1. Le sommet de l'Ego religieux (L'illusion du plein)\nPaul décrit d'abord son état d'endormissement psychologique maximal (versets 13 et 14). Il excellait dans le 'système' du Monde duel, guidé par le zèle dogmatique et la fierté d'appartenance à la tribu (les 'traditions de mes pères'). Il ne lui manquait rien d'un point de vue terrestre : son identité intellectuelle et religieuse était totalement blindée. Mais ce savoir 'en plein' faisait de lui un agent de mort : il persécutait l'Église. L'Ego séparé, même ultra-religieux, finit toujours par détruire l'autre.\n\n2. Le court-circuit de l'Incréé (*Apokalypsis*)\nDieu n'intervient pas en proposant à Paul d'étudier une nouvelle philosophie. Il provoque un court-circuit total. Le déchirement du voile (*apokalypsis*) remplace instantanément l'héritage humain. La révélation n'est pas un savoir qui s'ajoute à la mémoire : c'est l'irruption de la Conscience christique au cœur même du Sujet ('révéler son Fils en moi'). Le Pharisien orgueilleux est foudroyé pour que naisse l'Apôtre kénotique.\n\n3. La rupture définitive avec la matrice horizontale\nDès cet instant, la réaction de Paul est fondatrice pour le Sujet spirituel : 'je ne consultai ni la chair ni le sang'. Il refuse délibérément de s'en remettre à la validation horizontale de ses pairs ou de l'institution humaine (fuite en Arabie plutôt que de monter à Jérusalem). Celui qui a expérimenté l'Incréé dans son propre creux n'a plus besoin du regard de la foule pour exister. Son autorité et sa liberté ne découlent plus d'un héritage reçu du monde, elles procèdent d'un ancrage direct et inaliénable dans le Royaume UN." 
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 12 - δι' ἀποκαλύψεως (di' apokalypseōs) : Traduit par 'par une révélation' (Segond). L'étymologie du mot *apokalypsis* est littéralement le fait d'enlever (*apo*) le voile (*kalypto*). La transmission mondaine (l'éducation, le dogme humain) ajoute des couches de savoir 'en plein'. L'action divine, au contraire, est un dépouillement : elle déchire le voile des illusions de l'Ego pour laisser irradier la Vérité incréée qui était déjà là, mais cachée.\n\n• Verset 16 - ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοί : Segond traduit par 'révéler en moi son Fils', mais certaines traductions affadissent le texte par 'révéler son Fils *à* moi'. Le grec est strictement locatif : *en emoi* (à l'intérieur de moi). Paul ne décrit pas un spectacle extérieur éblouissant qu'il aurait regardé comme un objet. Le mystère de Damas est une naissance ontologique : le Fils s'est révélé dans la matrice même de l'Apôtre, au plus profond de son 'creux' intérieur.\n\n• Verset 16 - σαρκὶ καὶ αἵματι (sarki kai haimati) : 'La chair et le sang'. Cette expression sémitique ne désigne pas simplement le corps physique, mais l'ensemble du réseau conditionné du 'Monde duel' : la généalogie, l'appartenance tribale, la validation sociale et les limites psychologiques. Consulter 'la chair et le sang', c'est chercher l'autorisation de la matrice horizontale pour exister.\n\nAnalyse spirituelle et mystagogique :\n\nCe texte est l'une des démonstrations les plus puissantes de l'opposition absolue entre le conditionnement horizontal et l'éveil vertical. Il résonne parfaitement avec l'Évangile du jour : Dieu stoppe net le cortège mortifère de Paul tout comme Il a stoppé celui de Naïn.\n\n1. Le sommet de l'Ego religieux (L'illusion du plein)\nPaul décrit d'abord son état d'endormissement psychologique maximal (versets 13 et 14). Il excellait dans le 'système' du Monde duel, guidé par le zèle dogmatique et la fierté d'appartenance à la tribu (les 'traditions de mes pères'). Il ne lui manquait rien d'un point de vue terrestre : son identité intellectuelle et religieuse était totalement blindée. Mais ce savoir 'en plein' faisait de lui un agent de mort : il persécutait l'Église. L'Ego séparé, même ultra-religieux, finit toujours par détruire l'autre.\n\n2. Le court-circuit de l'Incréé (*Apokalypsis*)\nDieu n'intervient pas en proposant à Paul d'étudier une nouvelle philosophie. Il provoque un court-circuit total. Le déchirement du voile (*apokalypsis*) remplace instantanément l'héritage humain. La révélation n'est pas un savoir qui s'ajoute à la mémoire : c'est l'irruption de la Conscience christique au cœur même du Sujet ('révéler son Fils en moi'). Le Pharisien orgueilleux est foudroyé pour que naisse l'Apôtre kénotique.\n\n3. La rupture définitive avec la matrice horizontale\nDès cet instant, la réaction de Paul est fondatrice pour le Sujet spirituel : 'je ne consultai ni la chair ni le sang'. Il refuse délibérément de s'en remettre à la validation horizontale de ses pairs ou de l'institution humaine (fuite en Arabie plutôt que de monter à Jérusalem). Celui qui a expérimenté l'Incréé dans son propre creux n'a plus besoin du regard de la foule pour exister. Son autorité et sa liberté ne découlent plus d'un héritage reçu du monde, elles procèdent d'un ancrage direct et inaliénable dans le Royaume UN.\n\nComplément de lecture : Paul décrit son appel avec des verbes de séparation et de révélation : mis à part, appelé par la grâce, le Fils révélé « en moi ». Cette initiative divine ne supprime pas la personne ni la tradition ecclésiale ; elle transforme le persécuteur et l’envoie annoncer celui qu’il combattait.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche du fils de la veuve de Naïn : une parole, un geste, une opposition, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : attente d’un retour, deuil, stérilité, dispersion intérieure, indifférence, faiblesse ou désir de porter du fruit."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : aimer sans calcul, compatir, écouter, retenir la parole, servir, franchir une distance ou recevoir la grâce dans une faiblesse."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes souffrantes."
+      }
+    ],
+    "liturgical_echoes": []
   }
 }
