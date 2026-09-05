@@ -10,28 +10,103 @@
           "darby": "Et il arriva, comme la foule le pressait pour entendre la parole de Dieu, et qu'il se tenait sur le bord du lac de Génésareth,"
         },
         "interlinear": [
-          { "greek": "Ἐγένετο", "gloss": "Il_arriva" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐν", "gloss": "pendant" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "ὄχλον", "gloss": "foule" },
-          { "greek": "ἐπικεῖσθαι", "gloss": "se_presser/s'imposer", "analyse": "Composé de *epi-* (sur, par-dessus) et *keimai* (être couché, posé). La foule du Monde duel exerce une pression horizontale écrasante. Elle 'pèse sur' le Christ. Cette masse humaine est en quête mais elle est dans l'agitation." },
-          { "greek": "αὐτῷ", "gloss": "sur_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀκούειν", "gloss": "entendre" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "λόγον", "gloss": "parole" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὐτὸς", "gloss": "lui" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "ἑστὼς", "gloss": "se_tenant_debout" },
-          { "greek": "παρὰ", "gloss": "près_de" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "λίμνην", "gloss": "lac" },
-          { "greek": "Γεννησαρέτ,", "gloss": "Génésareth" }
+          {
+            "greek": "Ἐγένετο",
+            "gloss": "Il_arriva"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "pendant"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄχλον",
+            "gloss": "foule"
+          },
+          {
+            "greek": "ἐπικεῖσθαι",
+            "gloss": "se_presser/s'imposer",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi-* (sur, par-dessus) et *keimai* (être couché, posé). La foule du Monde duel exerce une pression horizontale écrasante. Elle 'pèse sur' le Christ. Cette masse humaine est en quête mais elle est dans l'agitation.",
+              "related": [
+                "ὄχλον",
+                "αὐτῷ"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "sur_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀκούειν",
+            "gloss": "entendre"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "parole"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ἑστὼς",
+            "gloss": "se_tenant_debout"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "près_de"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λίμνην",
+            "gloss": "lac"
+          },
+          {
+            "greek": "Γεννησαρέτ,",
+            "gloss": "Génésareth"
+          }
         ]
       },
       {
@@ -41,23 +116,83 @@
           "darby": "qu'il vit deux nacelles qui se trouvaient au bord du lac ; et les pêcheurs en étaient descendus et lavaient leurs filets."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶδεν", "gloss": "il_vit" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "πλοῖα", "gloss": "barques" },
-          { "greek": "ἑστῶτα", "gloss": "se_tenant/arrêtées" },
-          { "greek": "παρὰ", "gloss": "près_de" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "λίμνην·", "gloss": "lac" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἁλιεῖς", "gloss": "pêcheurs" },
-          { "greek": "ἀπ’", "gloss": "de" },
-          { "greek": "αὐτῶν", "gloss": "elles" },
-          { "greek": "ἀποβάντες", "gloss": "étant_descendus", "analyse": "Composé de *apo-* (éloignement) et *baino* (marcher, aller). C'est le mouvement de la fatigue stérile : l'Ego descend de son outil de travail, bredouille, s'éloignant de la mer pour retourner à la terre ferme." },
-          { "greek": "ἔπλυνον", "gloss": "lavaient" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "δίκτυα.", "gloss": "filets" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶδεν",
+            "gloss": "il_vit"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "πλοῖα",
+            "gloss": "barques"
+          },
+          {
+            "greek": "ἑστῶτα",
+            "gloss": "se_tenant/arrêtées"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "près_de"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "λίμνην·",
+            "gloss": "lac"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἁλιεῖς",
+            "gloss": "pêcheurs"
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "de"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "elles"
+          },
+          {
+            "greek": "ἀποβάντες",
+            "gloss": "étant_descendus",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (éloignement) et *baino* (marcher, aller). C'est le mouvement de la fatigue stérile : l'Ego descend de son outil de travail, bredouille, s'éloignant de la mer pour retourner à la terre ferme.",
+              "related": [
+                "αὐτῶν",
+                "ἔπλυνον"
+              ]
+            }
+          },
+          {
+            "greek": "ἔπλυνον",
+            "gloss": "lavaient"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δίκτυα.",
+            "gloss": "filets"
+          }
         ]
       },
       {
@@ -67,30 +202,111 @@
           "darby": "Et étant monté dans l'une des nacelles, qui était à Simon, il le pria de s'éloigner un peu de terre ; et s'étant assis, il enseignait les foules de la nacelle."
         },
         "interlinear": [
-          { "greek": "ἐμβὰς", "gloss": "Étant_monté" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "ἓν", "gloss": "une" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "πλοίων,", "gloss": "barques" },
-          { "greek": "ὃ", "gloss": "qui" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "Σίμωνος,", "gloss": "à_Simon" },
-          { "greek": "ἠρώτησεν", "gloss": "il_demanda/pria" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "γῆς", "gloss": "terre" },
-          { "greek": "ἐπαναγαγεῖν", "gloss": "de_s'éloigner/mettre_au_large", "analyse": "Composé de *epi-* (sur) + *ana-* (vers le haut, retour) + *ago* (conduire). Littéralement : 'mener vers le haut et au-dessus'. Le Christ demande à Pierre de quitter l'horizontalité sécurisante de la terre (symbole des certitudes de l'Ego) pour s'avancer vers la dimension mouvante de la Grâce. Ce déplacement horizontal sur l'eau cache une élévation (*ana*) spirituelle." },
-          { "greek": "ὀλίγον·", "gloss": "un_peu" },
-          { "greek": "καθίσας", "gloss": "s'étant_assis" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐκ", "gloss": "depuis/hors_de" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "πλοίου", "gloss": "barque" },
-          { "greek": "ἐδίδασκεν", "gloss": "enseignait" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ὄχλους.", "gloss": "foules" }
+          {
+            "greek": "ἐμβὰς",
+            "gloss": "Étant_monté"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἓν",
+            "gloss": "une"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "πλοίων,",
+            "gloss": "barques"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "Σίμωνος,",
+            "gloss": "à_Simon"
+          },
+          {
+            "greek": "ἠρώτησεν",
+            "gloss": "il_demanda/pria"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆς",
+            "gloss": "terre"
+          },
+          {
+            "greek": "ἐπαναγαγεῖν",
+            "gloss": "de_s'éloigner/mettre_au_large",
+            "annotation": {
+              "type": "racine",
+              "title": "Avance vers la profondeur",
+              "content": "Approfondissement spirituel : Composé de *epi-* (sur) + *ana-* (vers le haut, retour) + *ago* (conduire). Littéralement : 'mener vers le haut et au-dessus'. Le Christ demande à Pierre de quitter l'horizontalité sécurisante de la terre (symbole des certitudes de l'Ego) pour s'avancer vers la dimension mouvante de la Grâce. Ce déplacement horizontal sur l'eau cache une élévation (*ana*) spirituelle.",
+              "related": [
+                "γῆς",
+                "ὀλίγον·"
+              ]
+            }
+          },
+          {
+            "greek": "ὀλίγον·",
+            "gloss": "un_peu"
+          },
+          {
+            "greek": "καθίσας",
+            "gloss": "s'étant_assis"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "depuis/hors_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλοίου",
+            "gloss": "barque"
+          },
+          {
+            "greek": "ἐδίδασκεν",
+            "gloss": "enseignait"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὄχλους.",
+            "gloss": "foules"
+          }
         ]
       },
       {
@@ -100,25 +316,100 @@
           "darby": "Et quand il eut cessé de parler, il dit à Simon : Mène en pleine eau, et lâchez vos filets pour la pêche."
         },
         "interlinear": [
-          { "greek": "ὡς", "gloss": "Quand" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐπαύσατο", "gloss": "il_cessa" },
-          { "greek": "λαλῶν,", "gloss": "parlant" },
-          { "greek": "εἶπεν", "gloss": "il_dit" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Σίμωνα·", "gloss": "Simon" },
-          { "greek": "Ἐπανάγαγε", "gloss": "Avance/Conduis-en-haut" },
-          { "greek": "εἰς", "gloss": "vers/dans" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "βάθος", "gloss": "profondeur/pleine_eau", "analyse": "Le *bathos* (la profondeur, le gouffre). Le Christ pousse le Sujet hors de ses limites. L'Ego aime patauger au bord, là où il a pied (le contrôle mondain). Le Royaume UN exige de s'enfoncer dans le *bathos* de l'Incréé, là où tout calcul humain devient inutile." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "χαλάσατε", "gloss": "lâchez/relâchez", "analyse": "Le verbe *chalao* (relâcher, laisser descendre). C'est le verbe du lâcher-prise par excellence. Descendre les filets dans la profondeur, c'est accepter la kénose : relâcher la tension de l'Ego qui veut tout contrôler, pour s'en remettre au flux divin." },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "δίκτυα", "gloss": "filets" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "εἰς", "gloss": "pour/en_vue_de" },
-          { "greek": "ἄγραν.", "gloss": "capture/pêche" }
+          {
+            "greek": "ὡς",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐπαύσατο",
+            "gloss": "il_cessa"
+          },
+          {
+            "greek": "λαλῶν,",
+            "gloss": "parlant"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Σίμωνα·",
+            "gloss": "Simon"
+          },
+          {
+            "greek": "Ἐπανάγαγε",
+            "gloss": "Avance/Conduis-en-haut"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βάθος",
+            "gloss": "profondeur/pleine_eau",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *bathos* (la profondeur, le gouffre). Le Christ pousse le Sujet hors de ses limites. L'Ego aime patauger au bord, là où il a pied (le contrôle mondain). Le Royaume UN exige de s'enfoncer dans le *bathos* de l'Incréé, là où tout calcul humain devient inutile.",
+              "related": [
+                "τὸ",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "χαλάσατε",
+            "gloss": "lâchez/relâchez",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe *chalao* (relâcher, laisser descendre). C'est le verbe du lâcher-prise par excellence. Descendre les filets dans la profondeur, c'est accepter la kénose : relâcher la tension de l'Ego qui veut tout contrôler, pour s'en remettre au flux divin.",
+              "related": [
+                "καὶ",
+                "τὰ"
+              ]
+            }
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δίκτυα",
+            "gloss": "filets"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour/en_vue_de"
+          },
+          {
+            "greek": "ἄγραν.",
+            "gloss": "capture/pêche"
+          }
         ]
       },
       {
@@ -128,25 +419,91 @@
           "darby": "Et Simon, répondant, lui dit : Maître, nous avons travaillé toute la nuit et nous n'avons rien pris ; mais sur ta parole, je lâcherai le filet."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἀποκριθεὶς", "gloss": "ayant_répondu" },
-          { "greek": "Σίμων", "gloss": "Simon" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Ἐπιστάτα,", "gloss": "Maître", "analyse": "Composé de *epi-* (au-dessus) + *histemi* (se tenir debout). Le Maître n'est pas un simple professeur intellectuel. C'est Celui qui se tient ontologiquement *au-dessus* des contingences du Monde duel." },
-          { "greek": "δι’", "gloss": "à_travers" },
-          { "greek": "ὅλης", "gloss": "toute" },
-          { "greek": "νυκτὸς", "gloss": "la_nuit" },
-          { "greek": "κοπιάσαντες", "gloss": "ayant_peiné/travaillé_dur" },
-          { "greek": "οὐδὲν", "gloss": "rien" },
-          { "greek": "ἐλάβομεν·", "gloss": "nous_avons_pris" },
-          { "greek": "ἐπὶ", "gloss": "sur/en_raison_de" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "ῥήματί", "gloss": "parole" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "χαλάσω", "gloss": "je_lâcherai" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "δίκτυα.", "gloss": "filets" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "ayant_répondu"
+          },
+          {
+            "greek": "Σίμων",
+            "gloss": "Simon"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἐπιστάτα,",
+            "gloss": "Maître",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi-* (au-dessus) + *histemi* (se tenir debout). Le Maître n'est pas un simple professeur intellectuel. C'est Celui qui se tient ontologiquement *au-dessus* des contingences du Monde duel.",
+              "related": [
+                "εἶπεν·",
+                "δι’"
+              ]
+            }
+          },
+          {
+            "greek": "δι’",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "ὅλης",
+            "gloss": "toute"
+          },
+          {
+            "greek": "νυκτὸς",
+            "gloss": "la_nuit"
+          },
+          {
+            "greek": "κοπιάσαντες",
+            "gloss": "ayant_peiné/travaillé_dur"
+          },
+          {
+            "greek": "οὐδὲν",
+            "gloss": "rien"
+          },
+          {
+            "greek": "ἐλάβομεν·",
+            "gloss": "nous_avons_pris"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur/en_raison_de"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ῥήματί",
+            "gloss": "parole"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "χαλάσω",
+            "gloss": "je_lâcherai"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δίκτυα.",
+            "gloss": "filets"
+          }
         ]
       },
       {
@@ -156,18 +513,63 @@
           "darby": "Et l'ayant fait, ils enfermèrent une grande quantité de poissons ; et leur filet se rompait."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "τοῦτο", "gloss": "ceci" },
-          { "greek": "ποιήσαντες", "gloss": "ayant_fait" },
-          { "greek": "συνέκλεισαν", "gloss": "ils_enfermèrent", "analyse": "Composé de *syn-* (avec/ensemble) + *kleio* (fermer). Le filet rassemble, ramène vers le Centre ce qui était dispersé dans la profondeur. C'est l'image de la Grâce qui unifie les fragments de la création." },
-          { "greek": "πλῆθος", "gloss": "une_multitude" },
-          { "greek": "ἰχθύων", "gloss": "de_poissons" },
-          { "greek": "πολύ,", "gloss": "grande/nombreuse" },
-          { "greek": "διερρήσσετο", "gloss": "se_rompait/se_déchirait" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "δίκτυα", "gloss": "filets" },
-          { "greek": "αὐτῶν.", "gloss": "d'eux" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ποιήσαντες",
+            "gloss": "ayant_fait"
+          },
+          {
+            "greek": "συνέκλεισαν",
+            "gloss": "ils_enfermèrent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Une multitude prise ensemble",
+              "content": "Approfondissement spirituel : Composé de *syn-* (avec/ensemble) + *kleio* (fermer). Le filet rassemble, ramène vers le Centre ce qui était dispersé dans la profondeur. C'est l'image de la Grâce qui unifie les fragments de la création.",
+              "related": [
+                "ποιήσαντες",
+                "πλῆθος"
+              ]
+            }
+          },
+          {
+            "greek": "πλῆθος",
+            "gloss": "une_multitude"
+          },
+          {
+            "greek": "ἰχθύων",
+            "gloss": "de_poissons"
+          },
+          {
+            "greek": "πολύ,",
+            "gloss": "grande/nombreuse"
+          },
+          {
+            "greek": "διερρήσσετο",
+            "gloss": "se_rompait/se_déchirait"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δίκτυα",
+            "gloss": "filets"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "d'eux"
+          }
         ]
       },
       {
@@ -177,28 +579,103 @@
           "darby": "Et ils firent signe à leurs compagnons qui étaient dans l'autre nacelle, de venir les aider ; et ils vinrent, et remplirent les deux nacelles, de sorte qu'elles enfonçaient."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "κατένευσαν", "gloss": "ils_firent_signe_vers_le_bas" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "μετόχοις", "gloss": "partenaires/compagnons" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "l'" },
-          { "greek": "ἑτέρῳ", "gloss": "autre" },
-          { "greek": "πλοίῳ", "gloss": "barque" },
-          { "greek": "τοῦ", "gloss": "pour" },
-          { "greek": "ἐλθόντας", "gloss": "étant_venus" },
-          { "greek": "συλλαβέσθαι", "gloss": "les_aider/saisir_ensemble" },
-          { "greek": "αὐτοῖς·", "gloss": "eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἦλθον,", "gloss": "ils_vinrent" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔπλησαν", "gloss": "remplirent" },
-          { "greek": "ἀμφότερα", "gloss": "les_deux" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πλοῖα", "gloss": "barques" },
-          { "greek": "ὥστε", "gloss": "de_sorte_que" },
-          { "greek": "βυθίζεσθαι", "gloss": "s'enfoncer/plonger", "analyse": "Du nom *bythos* (le fond, l'abîme). L'abondance incréée est tellement massive qu'elle menace de faire couler les structures humaines (les barques). Le Sujet ne peut pas contenir la Grâce avec ses seuls outils matériels sans risquer de basculer lui-même dans le fond." },
-          { "greek": "αὐτά.", "gloss": "elles" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "κατένευσαν",
+            "gloss": "ils_firent_signe_vers_le_bas"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "μετόχοις",
+            "gloss": "partenaires/compagnons"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἑτέρῳ",
+            "gloss": "autre"
+          },
+          {
+            "greek": "πλοίῳ",
+            "gloss": "barque"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ἐλθόντας",
+            "gloss": "étant_venus"
+          },
+          {
+            "greek": "συλλαβέσθαι",
+            "gloss": "les_aider/saisir_ensemble"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἦλθον,",
+            "gloss": "ils_vinrent"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔπλησαν",
+            "gloss": "remplirent"
+          },
+          {
+            "greek": "ἀμφότερα",
+            "gloss": "les_deux"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πλοῖα",
+            "gloss": "barques"
+          },
+          {
+            "greek": "ὥστε",
+            "gloss": "de_sorte_que"
+          },
+          {
+            "greek": "βυθίζεσθαι",
+            "gloss": "s'enfoncer/plonger",
+            "annotation": {
+              "type": "analyse",
+              "title": "Les barques s’enfonçaient",
+              "content": "Approfondissement spirituel : Du nom *bythos* (le fond, l'abîme). L'abondance incréée est tellement massive qu'elle menace de faire couler les structures humaines (les barques). Le Sujet ne peut pas contenir la Grâce avec ses seuls outils matériels sans risquer de basculer lui-même dans le fond.",
+              "related": [
+                "ὥστε",
+                "αὐτά."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτά.",
+            "gloss": "elles"
+          }
         ]
       },
       {
@@ -208,23 +685,91 @@
           "darby": "Ce que voyant, Simon Pierre se jeta aux genoux de Jésus, disant : Seigneur, retire-toi de moi, car je suis un homme pécheur."
         },
         "interlinear": [
-          { "greek": "ἰδὼν", "gloss": "Ayant_vu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Σίμων", "gloss": "Simon" },
-          { "greek": "Πέτρος", "gloss": "Pierre" },
-          { "greek": "προσέπεσεν", "gloss": "tomba_tout_contre/se_jeta", "analyse": "Composé de *pros-* (mouvement vers, adhésion) + *pipto* (tomber). C'est le mouvement de la kénose absolue. L'Ego de Pierre s'effondre littéralement 'tout contre' l'Axe vertical (le Christ). Ce n'est pas une simple révérence, mais l'écroulement des certitudes du pêcheur professionnel." },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "γόνασιν", "gloss": "genoux" },
-          { "greek": "Ἰησοῦ", "gloss": "de_Jésus" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Ἔξελθε", "gloss": "Sors/Retire-toi" },
-          { "greek": "ἀπ’", "gloss": "loin_de" },
-          { "greek": "ἐμοῦ,", "gloss": "moi" },
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "ἀνὴρ", "gloss": "un_homme" },
-          { "greek": "ἁμαρτωλός", "gloss": "pécheur" },
-          { "greek": "εἰμι,", "gloss": "je_suis" },
-          { "greek": "κύριε.", "gloss": "Seigneur", "analyse": "Pierre passe du terme 'Maître' (*epistata*) au verset 5 à 'Seigneur' (*Kyrie*). La Grâce a déchiré le voile : il reconnaît l'Incréé agissant dans la chair. Face à cette Lumière, sa propre incomplétude (*hamartolos*, celui qui manque la cible) lui devient insupportable." }
+          {
+            "greek": "ἰδὼν",
+            "gloss": "Ayant_vu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Σίμων",
+            "gloss": "Simon"
+          },
+          {
+            "greek": "Πέτρος",
+            "gloss": "Pierre"
+          },
+          {
+            "greek": "προσέπεσεν",
+            "gloss": "tomba_tout_contre/se_jeta",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *pros-* (mouvement vers, adhésion) + *pipto* (tomber). C'est le mouvement de la kénose absolue. L'Ego de Pierre s'effondre littéralement 'tout contre' l'Axe vertical (le Christ). Ce n'est pas une simple révérence, mais l'écroulement des certitudes du pêcheur professionnel.",
+              "related": [
+                "Πέτρος",
+                "τοῖς"
+              ]
+            }
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "γόνασιν",
+            "gloss": "genoux"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "de_Jésus"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἔξελθε",
+            "gloss": "Sors/Retire-toi"
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "loin_de"
+          },
+          {
+            "greek": "ἐμοῦ,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἀνὴρ",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "ἁμαρτωλός",
+            "gloss": "pécheur"
+          },
+          {
+            "greek": "εἰμι,",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "κύριε.",
+            "gloss": "Seigneur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Pierre passe du terme 'Maître' (*epistata*) au verset 5 à 'Seigneur' (*Kyrie*). La Grâce a déchiré le voile : il reconnaît l'Incréé agissant dans la chair. Face à cette Lumière, sa propre incomplétude (*hamartolos*, celui qui manque la cible) lui devient insupportable.",
+              "related": [
+                "εἰμι,"
+              ]
+            }
+          }
         ]
       },
       {
@@ -234,22 +779,79 @@
           "darby": "Car la frayeur l'avait saisi, et tous ceux qui étaient avec lui, à cause de la capture de poissons qu'ils avaient faite ;"
         },
         "interlinear": [
-          { "greek": "θάμβος", "gloss": "L'étonnement/l'effroi" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "περιέσχεν", "gloss": "enveloppa/saisit", "analyse": "Composé de *peri-* (autour) + *echo* (tenir). La Grâce les a littéralement cernés. Le miracle n'est pas un spectacle à regarder de loin, c'est une force qui enveloppe et paralyse les réflexes de l'Ego." },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πάντας", "gloss": "tous" },
-          { "greek": "τοὺς", "gloss": "ceux" },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "ἐπὶ", "gloss": "sur/à_cause_de" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "ἄγρᾳ", "gloss": "pêche/capture" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἰχθύων", "gloss": "poissons" },
-          { "greek": "ὧν", "gloss": "lesquels" },
-          { "greek": "συνέλαβον,", "gloss": "ils_prirent_ensemble" }
+          {
+            "greek": "θάμβος",
+            "gloss": "L'étonnement/l'effroi"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "περιέσχεν",
+            "gloss": "enveloppa/saisit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *peri-* (autour) + *echo* (tenir). La Grâce les a littéralement cernés. Le miracle n'est pas un spectacle à regarder de loin, c'est une force qui enveloppe et paralyse les réflexes de l'Ego.",
+              "related": [
+                "γὰρ",
+                "αὐτὸν"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάντας",
+            "gloss": "tous"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur/à_cause_de"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἄγρᾳ",
+            "gloss": "pêche/capture"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἰχθύων",
+            "gloss": "poissons"
+          },
+          {
+            "greek": "ὧν",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "συνέλαβον,",
+            "gloss": "ils_prirent_ensemble"
+          }
         ]
       },
       {
@@ -259,34 +861,126 @@
           "darby": "et de même aussi Jacques et Jean, fils de Zébédée, qui étaient associés de Simon. Et Jésus dit à Simon : Ne crains pas ; dorénavant tu prendras des hommes."
         },
         "interlinear": [
-          { "greek": "ὁμοίως", "gloss": "De_même" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "Ἰάκωβον", "gloss": "Jacques" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰωάννην", "gloss": "Jean" },
-          { "greek": "υἱοὺς", "gloss": "fils" },
-          { "greek": "Ζεβεδαίου,", "gloss": "de_Zébédée" },
-          { "greek": "οἳ", "gloss": "qui" },
-          { "greek": "ἦσαν", "gloss": "étaient" },
-          { "greek": "κοινωνοὶ", "gloss": "associés/communiants" },
-          { "greek": "τῷ", "gloss": "à" },
-          { "greek": "Σίμωνι.", "gloss": "Simon" },
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Σίμωνα", "gloss": "Simon" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Μὴ", "gloss": "Ne...pas" },
-          { "greek": "φοβοῦ·", "gloss": "crains" },
-          { "greek": "ἀπὸ", "gloss": "à_partir_de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "ἀνθρώπους", "gloss": "des_hommes" },
-          { "greek": "ἔσῃ", "gloss": "tu_seras" },
-          { "greek": "ζωγρῶν.", "gloss": "capturant_vivants", "analyse": "Composé de *zoe* (vie) et *agreo* (capturer/chasser). Sublime renversement de la métaphore de la pêche. Dans le Monde duel, capturer un poisson, c'est le sortir de son élément pour le tuer. Pêcher un homme pour le Royaume UN, c'est le 'capturer vivant' (*zogron*), c'est-à-dire l'arracher à l'asphyxie du monde pour le rendre à la Vie véritable et éternelle." }
+          {
+            "greek": "ὁμοίως",
+            "gloss": "De_même"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "Ἰάκωβον",
+            "gloss": "Jacques"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰωάννην",
+            "gloss": "Jean"
+          },
+          {
+            "greek": "υἱοὺς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "Ζεβεδαίου,",
+            "gloss": "de_Zébédée"
+          },
+          {
+            "greek": "οἳ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἦσαν",
+            "gloss": "étaient"
+          },
+          {
+            "greek": "κοινωνοὶ",
+            "gloss": "associés/communiants"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à"
+          },
+          {
+            "greek": "Σίμωνι.",
+            "gloss": "Simon"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Σίμωνα",
+            "gloss": "Simon"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Μὴ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "φοβοῦ·",
+            "gloss": "crains"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "à_partir_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "ἀνθρώπους",
+            "gloss": "des_hommes"
+          },
+          {
+            "greek": "ἔσῃ",
+            "gloss": "tu_seras"
+          },
+          {
+            "greek": "ζωγρῶν.",
+            "gloss": "capturant_vivants",
+            "annotation": {
+              "type": "analyse",
+              "title": "Tu prendras des hommes vivants",
+              "content": "Approfondissement spirituel : Composé de *zoe* (vie) et *agreo* (capturer/chasser). Sublime renversement de la métaphore de la pêche. Dans le Monde duel, capturer un poisson, c'est le sortir de son élément pour le tuer. Pêcher un homme pour le Royaume UN, c'est le 'capturer vivant' (*zogron*), c'est-à-dire l'arracher à l'asphyxie du monde pour le rendre à la Vie véritable et éternelle.",
+              "related": [
+                "ἔσῃ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -296,24 +990,154 @@
           "darby": "Et ayant mené les nacelles à terre, ils quittèrent tout et le suivirent."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "καταγαγόντες", "gloss": "ayant_ramené_en_bas" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πλοῖα", "gloss": "barques" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "γῆν,", "gloss": "terre" },
-          { "greek": "ἀφέντες", "gloss": "ayant_laissé/quitté", "analyse": "Composé de *apo-* (loin de) et *hiemi* (envoyer, laisser aller). Le détachement absolu. Le miracle incroyable de la pêche (le succès matériel) ne les retient plus. L'Ego aurait fait fortune avec cette pêche. Les Sujets éveillés laissent derrière eux l'Avoir pour poursuivre l'Être." },
-          { "greek": "πάντα", "gloss": "toutes_choses" },
-          { "greek": "ἠκολούθησαν", "gloss": "suivirent" },
-          { "greek": "αὐτῷ.", "gloss": "lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "καταγαγόντες",
+            "gloss": "ayant_ramené_en_bas"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πλοῖα",
+            "gloss": "barques"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆν,",
+            "gloss": "terre"
+          },
+          {
+            "greek": "ἀφέντες",
+            "gloss": "ayant_laissé/quitté",
+            "annotation": {
+              "type": "racine",
+              "title": "Ayant tout laissé",
+              "content": "Approfondissement spirituel : Composé de *apo-* (loin de) et *hiemi* (envoyer, laisser aller). Le détachement absolu. Le miracle incroyable de la pêche (le succès matériel) ne les retient plus. L'Ego aurait fait fortune avec cette pêche. Les Sujets éveillés laissent derrière eux l'Avoir pour poursuivre l'Être.",
+              "related": [
+                "γῆν,",
+                "πάντα"
+              ]
+            }
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "ἠκολούθησαν",
+            "gloss": "suivirent"
+          },
+          {
+            "greek": "αὐτῷ.",
+            "gloss": "lui"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 4 - Ἐπανάγαγε εἰς τὸ βάθος : 'Avance en pleine eau' (Segond). L'instruction est infiniment plus riche en grec. Elle conjugue l'idée de monter (*ana*), de conduire (*ago*) et de s'enfoncer dans l'abîme (*bathos*). Pour la théologie spirituelle, s'élever vers Dieu revient paradoxalement à plonger dans la profondeur de l'Incréé, loin des rivages sécurisés.\n• Verset 10 - ζωγρῶν : Segond et Darby traduisent par 'tu seras pêcheur d'hommes' ou 'tu prendras des hommes', calquant l'image sur le verbe pêcher. Mais le grec *zogron* (de *zoe*, la vie) est explicite : il s'agit de 'capturer pour la vie'.\n\nAnalyse spirituelle :\nCe premier dimanche de Luc est le récit d'une transition ontologique : le passage de la stérilité de l'Ego à la fécondité du Sujet aligné sur l'Incréé.\n\nLa nuit de Pierre (v. 5) représente l'effort horizontal pur : un labeur acharné avec des compétences humaines ('nous avons travaillé toute la nuit'), mais qui ne produit 'rien'. L'Ego est structurellement stérile lorsqu'il n'est pas irrigué par la Grâce. La bascule s'opère lorsque Pierre accepte la kénose : 'sur Ta parole, je lâcherai (*chalaso*) le filet'. Il lâche prise. Il renonce à son expertise de professionnel pour se fier à l'Axe vertical.\n\nLe résultat (la multitude de poissons) n'est pas le plus important. C'est le choc ontologique qui compte. Au verset 8, Pierre s'effondre (*pros-pipto*) parce que le contraste entre la pureté de l'Énergie divine et la petitesse de sa nature (l'homme pécheur) devient aveuglant. Cette prise de conscience n'est pas une culpabilité névrotique, mais la condition même de l'éveil.\n\nJésus ne valide pas l'angoisse de Pierre, il la sublime : 'Ne crains plus'. Dès lors, les filets, les barques et même la pêche miraculeuse n'ont plus aucune importance. L'Énergie divine ne sert pas à faire de l'argent dans le Monde duel. Les disciples ramènent les barques à terre et 'laissent tout' (*aphentes panta*). Libérés de la possession matérielle, ils deviennent des Sujets capables de 'capturer les hommes pour la Vie'."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 4 - Ἐπανάγαγε εἰς τὸ βάθος : 'Avance en pleine eau' (Segond). L'instruction est infiniment plus riche en grec. Elle conjugue l'idée de monter (*ana*), de conduire (*ago*) et de s'enfoncer dans l'abîme (*bathos*). Pour la théologie spirituelle, s'élever vers Dieu revient paradoxalement à plonger dans la profondeur de l'Incréé, loin des rivages sécurisés.\n• Verset 10 - ζωγρῶν : Segond et Darby traduisent par 'tu seras pêcheur d'hommes' ou 'tu prendras des hommes', calquant l'image sur le verbe pêcher. Mais le grec *zogron* (de *zoe*, la vie) est explicite : il s'agit de 'capturer pour la vie'.\n\nAnalyse spirituelle :\nCe premier dimanche de Luc est le récit d'une transition ontologique : le passage de la stérilité de l'Ego à la fécondité du Sujet aligné sur l'Incréé.\n\nLa nuit de Pierre (v. 5) représente l'effort horizontal pur : un labeur acharné avec des compétences humaines ('nous avons travaillé toute la nuit'), mais qui ne produit 'rien'. L'Ego est structurellement stérile lorsqu'il n'est pas irrigué par la Grâce. La bascule s'opère lorsque Pierre accepte la kénose : 'sur Ta parole, je lâcherai (*chalaso*) le filet'. Il lâche prise. Il renonce à son expertise de professionnel pour se fier à l'Axe vertical.\n\nLe résultat (la multitude de poissons) n'est pas le plus important. C'est le choc ontologique qui compte. Au verset 8, Pierre s'effondre (*pros-pipto*) parce que le contraste entre la pureté de l'Énergie divine et la petitesse de sa nature (l'homme pécheur) devient aveuglant. Cette prise de conscience n'est pas une culpabilité névrotique, mais la condition même de l'éveil.\n\nJésus ne valide pas l'angoisse de Pierre, il la sublime : 'Ne crains plus'. Dès lors, les filets, les barques et même la pêche miraculeuse n'ont plus aucune importance. L'Énergie divine ne sert pas à faire de l'argent dans le Monde duel. Les disciples ramènent les barques à terre et 'laissent tout' (*aphentes panta*). Libérés de la possession matérielle, ils deviennent des Sujets capables de 'capturer les hommes pour la Vie'.\n\nComplément de lecture : Jésus enseigne d’abord depuis la barque de Simon, puis lui demande d’avancer vers la profondeur. L’échec de la nuit n’est pas nié ; il devient le lieu où Simon choisit de reprendre le geste « sur ta parole ». La prise appelle aussitôt les compagnons et conduit finalement à tout laisser pour suivre.",
+    "homiletic_axes": [
+      {
+        "title": "Avancer vers la profondeur",
+        "content": "Après l’enseignement depuis la barque, Jésus demande à Simon de quitter le bord et d’avancer vers le profond.",
+        "keywords": [
+          "ἐπαναγαγεῖν",
+          "βάθος",
+          "χαλάσατε",
+          "δίκτυα"
+        ]
+      },
+      {
+        "title": "Après une nuit sans rien prendre",
+        "content": "Simon nomme honnêtement l’épuisement et l’échec, puis jette de nouveau le filet sur la parole de Jésus.",
+        "keywords": [
+          "κοπιάσαντες",
+          "οὐδὲν",
+          "ῥήματί",
+          "χαλάσω"
+        ]
+      },
+      {
+        "title": "Une abondance qui appelle les compagnons",
+        "content": "La prise ne peut être possédée seul : les filets se rompent, les partenaires sont appelés et les deux barques sont remplies.",
+        "keywords": [
+          "πλῆθος",
+          "διερρήσσετο",
+          "μετόχοις",
+          "ἀμφότερα"
+        ]
+      },
+      {
+        "title": "De la pêche au don qui rend grâce",
+        "content": "L’Apôtre éclaire l’abondance : Dieu fournit la semence, fait croître les fruits et transforme la générosité en action de grâce.",
+        "keywords": [
+          "σπόρον",
+          "αὐξήσει",
+          "ἁπλότητα,",
+          "εὐχαριστίαν"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche de la Pêche miraculeuse : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression propre de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez ce don de la réponse à laquelle il ouvre."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : refus de l’appel, peur du manque, échec, profondeur, attachement, honte, jugement ou besoin de recommencer."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : accueillir l’appel, revêtir le Christ, avancer en profondeur, jeter de nouveau le filet, suivre, donner ou se laisser saisir par la Croix."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les interprétations symboliques comme une lecture spirituelle et non comme une traduction littérale des racines."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la profondeur au partage fécond",
+        "reference": "Luc 5, 1-11 ; 2 Corinthiens 9, 6-11",
+        "content": "Simon reçoit une abondance qu’il ne peut contenir seul et appelle ses compagnons ; Paul décrit une grâce qui fournit la semence, multiplie les fruits et fait circuler le don jusqu’à l’action de grâce.",
+        "connections": []
+      }
+    ]
   },
   "apostle": {
-  "reference": "2 Corinthiens 9, 6-11",
+    "reference": "2 Corinthiens 9, 6-11",
     "title": "La Semence de la Grâce : Non-dualité du Don et Circulation de l'Énergie",
     "interlinear": [
       {
@@ -323,23 +1147,83 @@
           "darby": "Or je dis ceci : Celui qui sème chichement moissonnera aussi chichement ; et celui qui sème libéralement moissonnera aussi libéralement."
         },
         "interlinear": [
-          { "greek": "Τοῦτο", "gloss": "Je_dis_ceci" },
-          { "greek": "δέ·", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "σπείρων", "gloss": "semant" },
-          { "greek": "φειδομένως", "gloss": "chichement/avec_réserve" },
-          { "greek": "φειδομένως", "gloss": "chichement" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "θερίσει,", "gloss": "moissonnera" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "σπείρων", "gloss": "semant" },
-          { "greek": "ἐπ’", "gloss": "sur/vers", "analyse": "Le préfixe *epi-* indique ici une direction vers le haut, une superposition accumulative ou un mouvement d'abondance. Smer *sur* des bénédictions signifie propulser son action dans la dynamique exponentielle de l'Incréé." },
-          { "greek": "εὐλογίαις", "gloss": "bénédictions" },
-          { "greek": "ἐπ’", "gloss": "sur" },
-          { "greek": "εὐλογίαις", "gloss": "bénédictions" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "θερίσει.", "gloss": "moissonnera" }
+          {
+            "greek": "Τοῦτο",
+            "gloss": "Je_dis_ceci"
+          },
+          {
+            "greek": "δέ·",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "σπείρων",
+            "gloss": "semant"
+          },
+          {
+            "greek": "φειδομένως",
+            "gloss": "chichement/avec_réserve"
+          },
+          {
+            "greek": "φειδομένως",
+            "gloss": "chichement"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "θερίσει,",
+            "gloss": "moissonnera"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "σπείρων",
+            "gloss": "semant"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur/vers",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le préfixe *epi-* indique ici une direction vers le haut, une superposition accumulative ou un mouvement d'abondance. Smer *sur* des bénédictions signifie propulser son action dans la dynamique exponentielle de l'Incréé.",
+              "related": [
+                "σπείρων",
+                "εὐλογίαις"
+              ]
+            }
+          },
+          {
+            "greek": "εὐλογίαις",
+            "gloss": "bénédictions"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "εὐλογίαις",
+            "gloss": "bénédictions"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "θερίσει.",
+            "gloss": "moissonnera"
+          }
         ]
       },
       {
@@ -349,23 +1233,92 @@
           "darby": "Chacun selon qu'il se propose dans son coeur, non à regret, ou par contrainte, car Dieu aime celui qui donne joyeusement."
         },
         "interlinear": [
-          { "greek": "ἕκαστος", "gloss": "Chacun" },
-          { "greek": "καθὼς", "gloss": "selon_que" },
-          { "greek": "προῄρηται", "gloss": "il_a_choisi/résolu", "analyse": "Composé de *pro-* (en avant, préalablement) et *aireo* (prendre/choisir). Le choix véritable est une impulsion souveraine qui jaillit *en avant* de l'intellect duel. C'est l'acte du Sujet libre avant que l'Ego et ses calculs de rétention ne viennent s'interposer." },
-          { "greek": "τῇ", "gloss": "dans_la" },
-          { "greek": "καρδίᾳ,", "gloss": "cœur" },
-          { "greek": "μὴ", "gloss": "non" },
-          { "greek": "ἐκ", "gloss": "par/hors_de" },
-          { "greek": "λύπης", "gloss": "tristesse/regret" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "ἐξ", "gloss": "par" },
-          { "greek": "ἀνάγκης·", "gloss": "contrainte/nécessité" },
-          { "greek": "ἱλαρὸν", "gloss": "joyeux/rayonnant", "analyse": "Du mot *hilaros* (joyeux, serein, fluide). Le don spirituel n'est pas une obligation morale pesante (structures rigides de l'Ego religieux), mais une effusion lumineuse et fluide. L'énergie traverse le donneur sans rencontrer de résistance interne." },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "δότην", "gloss": "donneur" },
-          { "greek": "ἀγαπᾷ", "gloss": "aime" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεός.", "gloss": "Dieu" }
+          {
+            "greek": "ἕκαστος",
+            "gloss": "Chacun"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "selon_que"
+          },
+          {
+            "greek": "προῄρηται",
+            "gloss": "il_a_choisi/résolu",
+            "annotation": {
+              "type": "analyse",
+              "title": "Comme il l’a décidé dans son cœur",
+              "content": "Approfondissement spirituel : Composé de *pro-* (en avant, préalablement) et *aireo* (prendre/choisir). Le choix véritable est une impulsion souveraine qui jaillit *en avant* de l'intellect duel. C'est l'acte du Sujet libre avant que l'Ego et ses calculs de rétention ne viennent s'interposer.",
+              "related": [
+                "καθὼς",
+                "τῇ"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "dans_la"
+          },
+          {
+            "greek": "καρδίᾳ,",
+            "gloss": "cœur"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "par/hors_de"
+          },
+          {
+            "greek": "λύπης",
+            "gloss": "tristesse/regret"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἀνάγκης·",
+            "gloss": "contrainte/nécessité"
+          },
+          {
+            "greek": "ἱλαρὸν",
+            "gloss": "joyeux/rayonnant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Dieu aime celui qui donne avec joie",
+              "content": "Approfondissement spirituel : Du mot *hilaros* (joyeux, serein, fluide). Le don spirituel n'est pas une obligation morale pesante (structures rigides de l'Ego religieux), mais une effusion lumineuse et fluide. L'énergie traverse le donneur sans rencontrer de résistance interne.",
+              "related": [
+                "ἀνάγκης·",
+                "γὰρ"
+              ]
+            }
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "δότην",
+            "gloss": "donneur"
+          },
+          {
+            "greek": "ἀγαπᾷ",
+            "gloss": "aime"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεός.",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -375,27 +1328,99 @@
           "darby": "Et Dieu est puissant pour faire abonder toute grâce envers vous, afin qu'ayant toujours en toutes choses tout ce qui suffit pour vous-mêmes, vous abondiez pour toute bonne oeuvre,"
         },
         "interlinear": [
-          { "greek": "δυνατεῖ", "gloss": "Est_puissant/a_la_dynamis" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "πᾶσαν", "gloss": "toute" },
-          { "greek": "χάριν", "gloss": "grâce" },
-          { "greek": "περισσεῦσαι", "gloss": "faire_abonder/déborder", "analyse": "Dérivé de *peri-* (autour, au-delà). L'Énergie divine se caractérise par ce mouvement qui outrepasse les limites et subvertit les frontières de la rareté propres au Monde duel. Elle déborde *autour* du Sujet pour inonder son environnement." },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "ὑμᾶς,", "gloss": "vous" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "παντὶ", "gloss": "tout" },
-          { "greek": "πάντοτε", "gloss": "toujours" },
-          { "greek": "πᾶσαν", "gloss": "toute" },
-          { "greek": "αὐτάρκειαν", "gloss": "suffisance/autosuffisance" },
-          { "greek": "ἔχοντες", "gloss": "ayant" },
-          { "greek": "περισσεύητε", "gloss": "vous_abondiez" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "πᾶν", "gloss": "toute" },
-          { "greek": "ἔργον", "gloss": "œuvre" },
-          { "greek": "ἀγαθόν,", "gloss": "bonne" }
+          {
+            "greek": "δυνατεῖ",
+            "gloss": "Est_puissant/a_la_dynamis"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "πᾶσαν",
+            "gloss": "toute"
+          },
+          {
+            "greek": "χάριν",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "περισσεῦσαι",
+            "gloss": "faire_abonder/déborder",
+            "annotation": {
+              "type": "racine",
+              "title": "Faire abonder toute grâce",
+              "content": "Approfondissement spirituel : Dérivé de *peri-* (autour, au-delà). L'Énergie divine se caractérise par ce mouvement qui outrepasse les limites et subvertit les frontières de la rareté propres au Monde duel. Elle déborde *autour* du Sujet pour inonder son environnement.",
+              "related": [
+                "χάριν",
+                "εἰς"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "παντὶ",
+            "gloss": "tout"
+          },
+          {
+            "greek": "πάντοτε",
+            "gloss": "toujours"
+          },
+          {
+            "greek": "πᾶσαν",
+            "gloss": "toute"
+          },
+          {
+            "greek": "αὐτάρκειαν",
+            "gloss": "suffisance/autosuffisance"
+          },
+          {
+            "greek": "ἔχοντες",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "περισσεύητε",
+            "gloss": "vous_abondiez"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "πᾶν",
+            "gloss": "toute"
+          },
+          {
+            "greek": "ἔργον",
+            "gloss": "œuvre"
+          },
+          {
+            "greek": "ἀγαθόν,",
+            "gloss": "bonne"
+          }
         ]
       },
       {
@@ -405,19 +1430,67 @@
           "darby": "selon qu'il est écrit : « Il a répandu, il a donné aux pauvres ; sa justice demeure à jamais »."
         },
         "interlinear": [
-          { "greek": "καθὼς", "gloss": "Selon_qu'" },
-          { "greek": "γέγραπται·", "gloss": "il_est_écrit" },
-          { "greek": "Ἐσκόρπισεν,", "gloss": "Il_a_répandu/dispersé", "analyse": "Du verbe *skorpizo* (disperser, jeter à la volée). C'est le geste du semeur qui diffuse l'Énergie sans focalisation égotique ni peur de la perte. C'est l'éclatement des structures de rétention de l'Ego." },
-          { "greek": "ἔδωκεν", "gloss": "il_a_donné" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "πένησιν,", "gloss": "pauvres/indigents" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "δικαιοσύνη", "gloss": "justice" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "μένει", "gloss": "demeure" },
-          { "greek": "εἰς", "gloss": "dans/pour" },
-          { "greek": "τον", "gloss": "le" },
-          { "greek": "αἰῶνα.", "gloss": "siècle/éternité" }
+          {
+            "greek": "καθὼς",
+            "gloss": "Selon_qu'"
+          },
+          {
+            "greek": "γέγραπται·",
+            "gloss": "il_est_écrit"
+          },
+          {
+            "greek": "Ἐσκόρπισεν,",
+            "gloss": "Il_a_répandu/dispersé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *skorpizo* (disperser, jeter à la volée). C'est le geste du semeur qui diffuse l'Énergie sans focalisation égotique ni peur de la perte. C'est l'éclatement des structures de rétention de l'Ego.",
+              "related": [
+                "γέγραπται·",
+                "ἔδωκεν"
+              ]
+            }
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "il_a_donné"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "πένησιν,",
+            "gloss": "pauvres/indigents"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δικαιοσύνη",
+            "gloss": "justice"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "μένει",
+            "gloss": "demeure"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans/pour"
+          },
+          {
+            "greek": "τον",
+            "gloss": "le"
+          },
+          {
+            "greek": "αἰῶνα.",
+            "gloss": "siècle/éternité"
+          }
         ]
       },
       {
@@ -427,29 +1500,107 @@
           "darby": "Or celui qui fournit de la semence au semeur, et du pain pour la nourriture, fournira et multipliera votre semence, et augmentera les fruits de votre justice ;"
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Celui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐπιχορηγῶν", "gloss": "fournissant/subventionnant", "analyse": "Composé de *epi-* (au-dessus, en plus) et *choregeo* (conduire le chœur, financer, fournir). L'Incréé orchestre et suralimente (*epi-*) le flux des ressources. Dieu n'alimente pas un stock passif, il finance un mouvement de générosité active." },
-          { "greek": "σπέρμα", "gloss": "semence" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "σπείροντι", "gloss": "semant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἄρτον", "gloss": "pain" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "βρῶσιν", "gloss": "nourriture" },
-          { "greek": "χορηγήσει", "gloss": "fournira" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πληθυνεῖ", "gloss": "multipliera" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "σπόρον", "gloss": "semence" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὐξήσει", "gloss": "augmentera" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "γενήματα", "gloss": "produits/fruits" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "δικαιοσύνης", "gloss": "justice" },
-          { "greek": "ὑμῶν·", "gloss": "de_vous" }
+          {
+            "greek": "ὁ",
+            "gloss": "Celui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐπιχορηγῶν",
+            "gloss": "fournissant/subventionnant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi-* (au-dessus, en plus) et *choregeo* (conduire le chœur, financer, fournir). L'Incréé orchestre et suralimente (*epi-*) le flux des ressources. Dieu n'alimente pas un stock passif, il finance un mouvement de générosité active.",
+              "related": [
+                "δὲ",
+                "σπέρμα"
+              ]
+            }
+          },
+          {
+            "greek": "σπέρμα",
+            "gloss": "semence"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "σπείροντι",
+            "gloss": "semant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἄρτον",
+            "gloss": "pain"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "βρῶσιν",
+            "gloss": "nourriture"
+          },
+          {
+            "greek": "χορηγήσει",
+            "gloss": "fournira"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πληθυνεῖ",
+            "gloss": "multipliera"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "σπόρον",
+            "gloss": "semence"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐξήσει",
+            "gloss": "augmentera"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "γενήματα",
+            "gloss": "produits/fruits"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "δικαιοσύνης",
+            "gloss": "justice"
+          },
+          {
+            "greek": "ὑμῶν·",
+            "gloss": "de_vous"
+          }
         ]
       },
       {
@@ -459,22 +1610,119 @@
           "darby": "étant enrichis en toutes choses pour toute libéralité qui produit par notre moyen des actions de grâces à Dieu."
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "παντὶ", "gloss": "tout" },
-          { "greek": "πλουτιζόμενοι", "gloss": "étant_enrichis" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "πᾶσαν", "gloss": "toute" },
-          { "greek": "ἁπλότητα,", "gloss": "simplicité/libéralité", "analyse": "Du mot *haplotes* (simplicité, non-fragmentation). C'est l'état du Sujet unifié dans le Royaume UN. L'Ego est double, il donne pour recevoir, calcule ou retient. L'esprit unifié donne dans une absolue immédiateté, sans retour réflexif sur lui-même." },
-          { "greek": "ἥτις", "gloss": "laquelle" },
-          { "greek": "κατεργάζεται", "gloss": "produit/opère", "analyse": "Composé de *kata-* (mouvement descendant d'accomplissement, incarnation dans la matière) et *ergazomai* (travailler/opérer). La libéralité du Sujet fait descendre (*kata-*) concrètement l'action divine sur la terre, la matérialisant sous forme d'offrande." },
-          { "greek": "δι’", "gloss": "par" },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "εὐχαριστίαν", "gloss": "action_de_grâces/eucharistie" },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "θεῷ.", "gloss": "Dieu" }
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "παντὶ",
+            "gloss": "tout"
+          },
+          {
+            "greek": "πλουτιζόμενοι",
+            "gloss": "étant_enrichis"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "πᾶσαν",
+            "gloss": "toute"
+          },
+          {
+            "greek": "ἁπλότητα,",
+            "gloss": "simplicité/libéralité",
+            "annotation": {
+              "type": "traduction",
+              "title": "La simplicité du don",
+              "content": "Approfondissement spirituel : Du mot *haplotes* (simplicité, non-fragmentation). C'est l'état du Sujet unifié dans le Royaume UN. L'Ego est double, il donne pour recevoir, calcule ou retient. L'esprit unifié donne dans une absolue immédiateté, sans retour réflexif sur lui-même.",
+              "related": [
+                "πᾶσαν",
+                "ἥτις"
+              ]
+            }
+          },
+          {
+            "greek": "ἥτις",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "κατεργάζεται",
+            "gloss": "produit/opère",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *kata-* (mouvement descendant d'accomplissement, incarnation dans la matière) et *ergazomai* (travailler/opérer). La libéralité du Sujet fait descendre (*kata-*) concrètement l'action divine sur la terre, la matérialisant sous forme d'offrande.",
+              "related": [
+                "ἥτις",
+                "δι’"
+              ]
+            }
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "εὐχαριστίαν",
+            "gloss": "action_de_grâces/eucharistie"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "θεῷ.",
+            "gloss": "Dieu"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἐπ’ εὐλογίαις : Segond traduit par 'abondamment' et Darby par 'libéralement'. Ces choix moralisent ou quantifient le propos, alors que le grec utilise le préfixe directionnel *epi-* superposé à la *bénédiction*. Il s'agit d'une orientation spirituelle : semer en se positionnant *sur* le vecteur de l'Énergie divine.\n• Verset 11 - ἁπλότητα : Souvent rendu par 'libéralité', ce qui réduit le mot à une vertu économique horizontale. La racine *haplotes* désigne la simplicité de ce qui n'est pas fragmenté. C'est l'état d'esprit non-duel indispensable pour que le don soit une pure transmission de Grâce, exempte des calculs de l'Ego.\n\nAnalyse spirituelle :\nCette section de l'Épître dévoile la loi métaphysique de la synergie qui sous-tendait invisiblement la Pêche Miraculeuse de l'Évangile.\n\nDans l'Évangile, Pierre faisait l'expérience de la faillite de l'effort égotique ('nous avons peiné toute la nuit sans rien prendre') avant de basculer dans le lâcher-prise en plongeant dans le *bathos* (la profondeur). Saint Paul explicite ici ce mécanisme : l'Énergie divine ne se thésaurise pas, elle se diffuse. L'Ego fonctionne selon la logique de la rétention et de la peur du manque, ce qui contracte son être et le rend stérile. Le Sujet éveillé, en revanche, agit à la volée (*eskorpisen*, v. 9), il s'aligne sur le mouvement d'effusion de l'Incréé (*epi-eulogiais*).\n\nLe texte montre que Dieu n'alimente pas un réservoir statique, mais qu'il soutient un mouvement (*epichoregon*, v. 10). Plus le Sujet fluidifie le passage de la Grâce à travers lui dans une intention pure et non-fragmentée (*haploteta*), plus la source se met en ébullition pour multiplier la semence. Le processus culmine au verset 11 avec le verbe *katergazetai* : le don horizontal déclenche un mouvement descendant (*kata-*) qui transmute la matière en action de grâces. La boucle ontologique est bouclée : la Grâce part de Dieu, traverse le Sujet libéré, féconde le monde, et remonte vers l'Incréé sous forme d'Eucharistie."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἐπ’ εὐλογίαις : Segond traduit par 'abondamment' et Darby par 'libéralement'. Ces choix moralisent ou quantifient le propos, alors que le grec utilise le préfixe directionnel *epi-* superposé à la *bénédiction*. Il s'agit d'une orientation spirituelle : semer en se positionnant *sur* le vecteur de l'Énergie divine.\n• Verset 11 - ἁπλότητα : Souvent rendu par 'libéralité', ce qui réduit le mot à une vertu économique horizontale. La racine *haplotes* désigne la simplicité de ce qui n'est pas fragmenté. C'est l'état d'esprit non-duel indispensable pour que le don soit une pure transmission de Grâce, exempte des calculs de l'Ego.\n\nAnalyse spirituelle :\nCette section de l'Épître dévoile la loi métaphysique de la synergie qui sous-tendait invisiblement la Pêche Miraculeuse de l'Évangile.\n\nDans l'Évangile, Pierre faisait l'expérience de la faillite de l'effort égotique ('nous avons peiné toute la nuit sans rien prendre') avant de basculer dans le lâcher-prise en plongeant dans le *bathos* (la profondeur). Saint Paul explicite ici ce mécanisme : l'Énergie divine ne se thésaurise pas, elle se diffuse. L'Ego fonctionne selon la logique de la rétention et de la peur du manque, ce qui contracte son être et le rend stérile. Le Sujet éveillé, en revanche, agit à la volée (*eskorpisen*, v. 9), il s'aligne sur le mouvement d'effusion de l'Incréé (*epi-eulogiais*).\n\nLe texte montre que Dieu n'alimente pas un réservoir statique, mais qu'il soutient un mouvement (*epichoregon*, v. 10). Plus le Sujet fluidifie le passage de la Grâce à travers lui dans une intention pure et non-fragmentée (*haploteta*), plus la source se met en ébullition pour multiplier la semence. Le processus culmine au verset 11 avec le verbe *katergazetai* : le don horizontal déclenche un mouvement descendant (*kata-*) qui transmute la matière en action de grâces. La boucle ontologique est bouclée : la Grâce part de Dieu, traverse le Sujet libéré, féconde le monde, et remonte vers l'Incréé sous forme d'Eucharistie.\n\nComplément de lecture : Paul décrit le don comme une semence dont Dieu assure la fécondité. La décision vient du cœur, sans tristesse ni contrainte. La grâce reçue rend capable d’abonder pour toute œuvre bonne, et le partage se transforme en action de grâce rendue à Dieu.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche de la Pêche miraculeuse : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression propre de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez ce don de la réponse à laquelle il ouvre."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : refus de l’appel, peur du manque, échec, profondeur, attachement, honte, jugement ou besoin de recommencer."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : accueillir l’appel, revêtir le Christ, avancer en profondeur, jeter de nouveau le filet, suivre, donner ou se laisser saisir par la Croix."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les interprétations symboliques comme une lecture spirituelle et non comme une traduction littérale des racines."
+      }
+    ],
+    "liturgical_echoes": []
   }
 }
