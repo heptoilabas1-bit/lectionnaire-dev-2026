@@ -1,7 +1,7 @@
 {
   "gospel": {
     "reference": "Matthieu 6, 22-33",
-    "title": "La Lumière du corps : L'unification de l'intellect (Nous) et la kénose de la confiance",
+    "title": "Un regard orienté, un seul maître, le Royaume d’abord",
     "interlinear": [
       {
         "verse_number": "6, 22",
@@ -10,26 +10,107 @@
           "darby": "La lampe du corps, c'est l'œil ; si donc ton œil est simple, tout ton corps sera plein de lumière ;"
         },
         "interlinear": [
-          { "greek": "Ὁ", "gloss": "La" },
-          { "greek": "λύχνος", "gloss": "lampe" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "σώματός", "gloss": "corps" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ὁ", "gloss": "l'" },
-          { "greek": "ὀφθαλμός.", "gloss": "œil" },
-          { "greek": "ἐὰν", "gloss": "Si" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ᾖ", "gloss": "est" },
-          { "greek": "ὁ", "gloss": "l'" },
-          { "greek": "ὀφθαλμός", "gloss": "œil" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἁπλοῦς,", "gloss": "simple/unifié", "analyse": "Le terme *haplous* (simple, sans pli, sans duplicité). Dans la tradition philocalique orthodoxe, l'œil désigne le 'Nous' (l'intellect ou l'œil du cœur). Si cet organe spirituel est unifié et purifié du mimétisme du Monde duel, il devient transparent et laisse la Lumière incréée irradier tout l'être. L'homme est alors un Sujet entier, non fragmenté." },
-          { "greek": "ὅλον", "gloss": "tout" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "σῶμά", "gloss": "corps" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "φωτεινὸν", "gloss": "lumineux/plein_de_lumière" },
-          { "greek": "ἔσται·", "gloss": "sera" }
+          {
+            "greek": "Ὁ",
+            "gloss": "La"
+          },
+          {
+            "greek": "λύχνος",
+            "gloss": "lampe",
+            "annotation": {
+              "type": "theologie",
+              "title": "La lampe du corps et l’œil du cœur",
+              "content": "L’œil est comparé à une lampe : son orientation affecte le corps entier. Dans la lecture philocalique orthodoxe, cette image désigne le νοῦς, l’intellect spirituel ou l’œil du cœur dont la purification et l’unification rendent l’être disponible à la lumière divine.",
+              "related": [
+                "ὀφθαλμός",
+                "ἁπλοῦς,",
+                "φωτεινὸν",
+                "σκότος"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "σώματός",
+            "gloss": "corps"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὀφθαλμός.",
+            "gloss": "œil"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "Si"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ᾖ",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὀφθαλμός",
+            "gloss": "œil"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἁπλοῦς,",
+            "gloss": "simple/unifié",
+            "annotation": {
+              "type": "traduction",
+              "title": "Simple, unifié ou généreux — ἁπλοῦς",
+              "content": "Ἁπλοῦς peut signifier simple, entier ou sans mélange, et prendre selon le contexte la nuance de sain ou généreux. Face à l’œil πονηρός, il évoque un regard non divisé et ouvert. La tradition philocalique déploie cette simplicité comme unification du νοῦς ; cette lecture spirituelle s’appuie sur l’image évangélique sans se réduire à une simple étymologie de « sans pli ».",
+              "related": [
+                "ὀφθαλμός",
+                "πονηρὸς",
+                "φωτεινὸν"
+              ]
+            }
+          },
+          {
+            "greek": "ὅλον",
+            "gloss": "tout"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σῶμά",
+            "gloss": "corps"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "φωτεινὸν",
+            "gloss": "lumineux/plein_de_lumière"
+          },
+          {
+            "greek": "ἔσται·",
+            "gloss": "sera"
+          }
         ]
       },
       {
@@ -39,31 +120,126 @@
           "darby": "mais si ton œil est méchant, tout ton corps sera ténébreux. Si donc la lumière qui est en toi est ténèbres, combien seront grandes les ténèbres !"
         },
         "interlinear": [
-          { "greek": "ἐὰν", "gloss": "si" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "ὁ", "gloss": "l'" },
-          { "greek": "ὀφθαλμός", "gloss": "œil" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "πονηρὸς", "gloss": "mauvais/malade" },
-          { "greek": "ᾖ,", "gloss": "est" },
-          { "greek": "ὅλον", "gloss": "tout" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "σῶμά", "gloss": "corps" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "σκοτεινὸν", "gloss": "ténébreux" },
-          { "greek": "ἔσται.", "gloss": "sera" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "φῶς", "gloss": "lumière" },
-          { "greek": "τὸ", "gloss": "celle" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "σοὶ", "gloss": "toi" },
-          { "greek": "σκότος", "gloss": "ténèbres", "analyse": "Le paradoxe de l'Arbre de la Connaissance : une lumière qui est en réalité ténèbres. L'Ego du Monde duel croit voir clair par ses propres calculs et son savoir 'en plein'. Mais cette autosuffisance opacifie le 'Nous'. Ce faux savoir engendre la plus grande des cécités spirituelles, isolant le Sujet de la véritable Source." },
-          { "greek": "ἐστίν,", "gloss": "est" },
-          { "greek": "τὸ", "gloss": "les" },
-          { "greek": "σκότος", "gloss": "ténèbres" },
-          { "greek": "πόσον.", "gloss": "combien_plus" }
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὀφθαλμός",
+            "gloss": "œil"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "πονηρὸς",
+            "gloss": "mauvais/malade"
+          },
+          {
+            "greek": "ᾖ,",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὅλον",
+            "gloss": "tout"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σῶμά",
+            "gloss": "corps"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "σκοτεινὸν",
+            "gloss": "ténébreux"
+          },
+          {
+            "greek": "ἔσται.",
+            "gloss": "sera"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "φῶς",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "celle"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "σοὶ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "σκότος",
+            "gloss": "ténèbres",
+            "annotation": {
+              "type": "repetition",
+              "title": "Lumière et ténèbres",
+              "content": "Le mot « ténèbres » revient dans l’avertissement final et répond à la lumière mentionnée juste avant. Le paradoxe porte sur une lumière intérieure devenue ténèbres, non sur une condamnation du savoir ou de la doctrine.",
+              "related": [
+                "φῶς",
+                "σκοτεινὸν",
+                "πόσον."
+              ]
+            }
+          },
+          {
+            "greek": "ἐστίν,",
+            "gloss": "est"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "les"
+          },
+          {
+            "greek": "σκότος",
+            "gloss": "ténèbres",
+            "annotation": {
+              "type": "repetition",
+              "title": "Lumière et ténèbres",
+              "content": "Le mot « ténèbres » revient dans l’avertissement final et répond à la lumière mentionnée juste avant. Le paradoxe porte sur une lumière intérieure devenue ténèbres, non sur une condamnation du savoir ou de la doctrine.",
+              "related": [
+                "φῶς",
+                "σκοτεινὸν",
+                "πόσον."
+              ]
+            }
+          },
+          {
+            "greek": "πόσον.",
+            "gloss": "combien_plus"
+          }
         ]
       },
       {
@@ -73,33 +249,135 @@
           "darby": "Nul ne peut servir deux maîtres ; car, ou il haïra l'un et aimera l'autre, ou il s'attachera à l'un et méprisera l'autre : vous ne pouvez servir Dieu et Mammon."
         },
         "interlinear": [
-          { "greek": "Οὐδεὶς", "gloss": "Personne" },
-          { "greek": "δύναται", "gloss": "ne_peut" },
-          { "greek": "δυσὶ", "gloss": "deux" },
-          { "greek": "κυρίοις", "gloss": "maîtres" },
-          { "greek": "δουλεύειν·", "gloss": "servir/être_esclave" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τὸν", "gloss": "l'" },
-          { "greek": "ἕνα", "gloss": "un" },
-          { "greek": "μισήσει", "gloss": "il_haïra" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸν", "gloss": "l'" },
-          { "greek": "ἕτερον", "gloss": "autre" },
-          { "greek": "ἀγαπήσει,", "gloss": "il_aimera" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "ἑνὸς", "gloss": "à_un" },
-          { "greek": "ἀνθέξεται", "gloss": "il_s'attachera" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τοῦ", "gloss": "de_l'" },
-          { "greek": "ἑτέρου", "gloss": "autre" },
-          { "greek": "καταφρονήσει·", "gloss": "il_méprisera" },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "δύνασθε", "gloss": "vous_pouvez" },
-          { "greek": "θεῷ", "gloss": "à_Dieu" },
-          { "greek": "δουλεύειν", "gloss": "servir" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μαμωνᾷ.", "gloss": "à_Mammon", "analyse": "Mammon personnifie l'idole absolue de 'l'Avoir'. C'est le système de préhension du monde matériel qui promet la sécurité biologique mais exige en retour l'esclavage (*douleuein*). Le Sujet ne peut pas simultanément s'ouvrir 'en creux' à l'Être divin et chercher sa sauvegarde dans l'accumulation 'en plein' de l'Avoir mondain." }
+          {
+            "greek": "Οὐδεὶς",
+            "gloss": "Personne"
+          },
+          {
+            "greek": "δύναται",
+            "gloss": "ne_peut"
+          },
+          {
+            "greek": "δυσὶ",
+            "gloss": "deux"
+          },
+          {
+            "greek": "κυρίοις",
+            "gloss": "maîtres"
+          },
+          {
+            "greek": "δουλεύειν·",
+            "gloss": "servir/être_esclave",
+            "annotation": {
+              "type": "racine",
+              "title": "Servir comme esclave",
+              "content": "Δουλεύω appartient à la famille de δοῦλος, esclave ou serviteur. Jésus parle d’une appartenance qui engage la vie entière, d’où l’impossibilité de servir deux maîtres rivaux.",
+              "related": [
+                "κυρίοις",
+                "δουλεύειν",
+                "θεῷ",
+                "μαμωνᾷ."
+              ]
+            }
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἕνα",
+            "gloss": "un"
+          },
+          {
+            "greek": "μισήσει",
+            "gloss": "il_haïra"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἕτερον",
+            "gloss": "autre"
+          },
+          {
+            "greek": "ἀγαπήσει,",
+            "gloss": "il_aimera"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἑνὸς",
+            "gloss": "à_un"
+          },
+          {
+            "greek": "ἀνθέξεται",
+            "gloss": "il_s'attachera"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἑτέρου",
+            "gloss": "autre"
+          },
+          {
+            "greek": "καταφρονήσει·",
+            "gloss": "il_méprisera"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "δύνασθε",
+            "gloss": "vous_pouvez"
+          },
+          {
+            "greek": "θεῷ",
+            "gloss": "à_Dieu"
+          },
+          {
+            "greek": "δουλεύειν",
+            "gloss": "servir"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μαμωνᾷ.",
+            "gloss": "à_Mammon",
+            "annotation": {
+              "type": "traduction",
+              "title": "Mammon, la richesse faite maître",
+              "content": "Μαμωνᾶς est un emprunt araméen désignant les richesses ou les biens. Le mot est ici personnifié comme un maître rival de Dieu ; le texte critique leur pouvoir d’asservissement, non la matière en elle-même.",
+              "related": [
+                "κυρίοις",
+                "δουλεύειν",
+                "θεῷ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -109,38 +387,144 @@
           "darby": "C'est pourquoi je vous dis : Ne soyez pas en souci pour votre vie, de ce que vous mangerez et de ce que vous boirez, ni pour votre corps, de quoi vous serez vêtus : la vie n'est-elle pas plus que la nourriture, et le corps plus que le vêtement ?"
         },
         "interlinear": [
-          { "greek": "Διὰ", "gloss": "Pour" },
-          { "greek": "τοῦτο", "gloss": "cela" },
-          { "greek": "λέγω", "gloss": "je_dis" },
-          { "greek": "ὑμῖν,", "gloss": "à_vous" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "μεριμνᾶτε", "gloss": "vous_inquiétez/soyez_anxieux", "analyse": "Le verbe *merimnaō* vient de *merizō* (diviser, partager, fragmenter). L'anxiété n'est pas seulement une émotion, c'est la maladie ontologique du Monde duel : elle fragmente le Sujet. Par peur de manquer (nourriture, vêtement), l'intellect se projette frénétiquement dans l'illusion du futur et perd sa communion présente avec le Royaume UN." },
-          { "greek": "τῇ", "gloss": "pour_la" },
-          { "greek": "ψυχῇ", "gloss": "vie/âme" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "τί", "gloss": "que" },
-          { "greek": "φάγητε", "gloss": "vous_mangerez" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "τί", "gloss": "que" },
-          { "greek": "πίητε,", "gloss": "vous_boirez" },
-          { "greek": "μηδὲ", "gloss": "ni" },
-          { "greek": "τῷ", "gloss": "pour_le" },
-          { "greek": "σώματι", "gloss": "corps" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "τί", "gloss": "dont" },
-          { "greek": "ἐνδύσησθε·", "gloss": "vous_serez_vêtus" },
-          { "greek": "οὐχὶ", "gloss": "Est-ce_que_non" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "ψυχὴ", "gloss": "vie" },
-          { "greek": "πλεῖόν", "gloss": "plus" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "τροφῆς", "gloss": "nourriture" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "σῶμα", "gloss": "corps" },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "ἐνδύματος;", "gloss": "vêtement" }
+          {
+            "greek": "Διὰ",
+            "gloss": "Pour"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "μεριμνᾶτε",
+            "gloss": "vous_inquiétez/soyez_anxieux",
+            "annotation": {
+              "type": "racine",
+              "title": "Ne soyez pas dominés par l’inquiétude",
+              "content": "Μεριμνάω signifie être inquiet, se soucier ou se préoccuper. L’inquiétude peut disperser intérieurement, mais le mot n’est pas composé de μερίζω et νοῦς. Jésus réoriente ici le souci des besoins vers la confiance dans le Père.",
+              "related": [
+                "μεριμνῶν",
+                "μεριμνήσητε",
+                "ψυχῇ"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "pour_la"
+          },
+          {
+            "greek": "ψυχῇ",
+            "gloss": "vie/âme"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "τί",
+            "gloss": "que"
+          },
+          {
+            "greek": "φάγητε",
+            "gloss": "vous_mangerez"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "τί",
+            "gloss": "que"
+          },
+          {
+            "greek": "πίητε,",
+            "gloss": "vous_boirez"
+          },
+          {
+            "greek": "μηδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "pour_le"
+          },
+          {
+            "greek": "σώματι",
+            "gloss": "corps"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "τί",
+            "gloss": "dont"
+          },
+          {
+            "greek": "ἐνδύσησθε·",
+            "gloss": "vous_serez_vêtus"
+          },
+          {
+            "greek": "οὐχὶ",
+            "gloss": "Est-ce_que_non"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ψυχὴ",
+            "gloss": "vie"
+          },
+          {
+            "greek": "πλεῖόν",
+            "gloss": "plus"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "τροφῆς",
+            "gloss": "nourriture"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σῶμα",
+            "gloss": "corps"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "ἐνδύματος;",
+            "gloss": "vêtement"
+          }
         ]
       },
       {
@@ -150,34 +534,128 @@
           "darby": "Regardez aux oiseaux du ciel : ils ne sèment, ni ne moissonnent, ni n'assemblent dans des greniers, et votre Père céleste les nourrit. Ne valez-vous pas beaucoup mieux qu'eux ?"
         },
         "interlinear": [
-          { "greek": "ἐμβλέψατε", "gloss": "Regardez/Fixez_les_yeux", "analyse": "Le regard spirituel. Après avoir purifié l'œil (v. 22), le Christ nous invite à regarder la création (les oiseaux) avec un œil 'simple'. Dans la mystagogie, c'est la contemplation de la nature (*theoria physike*) : voir dans le cosmos la providence (l'amour du Père) plutôt qu'un champ de compétition pour la survie (l'Avoir)." },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πετεινὰ", "gloss": "oiseaux" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "οὐρανοῦ", "gloss": "ciel" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "σπείρουσιν", "gloss": "ils_sèment" },
-          { "greek": "οὐδὲ", "gloss": "ni" },
-          { "greek": "θερίζουσιν", "gloss": "ne_moissonnent" },
-          { "greek": "οὐδὲ", "gloss": "ni" },
-          { "greek": "συνάγουσιν", "gloss": "n'amassent/assemblent" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "ἀποθήκας,", "gloss": "des_greniers" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "πατὴρ", "gloss": "Père" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "οὐράνιος", "gloss": "céleste" },
-          { "greek": "τρέφει", "gloss": "nourrit" },
-          { "greek": "αὐτά·", "gloss": "eux" },
-          { "greek": "οὐχ", "gloss": "ne...pas" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "μᾶλλον", "gloss": "plus/beaucoup_mieux" },
-          { "greek": "διαφέρετε", "gloss": "vous_différez/valez" },
-          { "greek": "αὐτῶν;", "gloss": "d'eux" }
+          {
+            "greek": "ἐμβλέψατε",
+            "gloss": "Regardez/Fixez_les_yeux",
+            "annotation": {
+              "type": "analyse",
+              "title": "Regardez attentivement les oiseaux",
+              "content": "L’impératif invite à porter une attention réelle aux oiseaux : ils deviennent le signe d’une vie nourrie par le Père. Cette contemplation ne remplace ni le travail ni la prévoyance responsable.",
+              "related": [
+                "πετεινὰ",
+                "πατὴρ",
+                "τρέφει"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πετεινὰ",
+            "gloss": "oiseaux"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "οὐρανοῦ",
+            "gloss": "ciel"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "σπείρουσιν",
+            "gloss": "ils_sèment"
+          },
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "θερίζουσιν",
+            "gloss": "ne_moissonnent"
+          },
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "συνάγουσιν",
+            "gloss": "n'amassent/assemblent"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἀποθήκας,",
+            "gloss": "des_greniers"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὐράνιος",
+            "gloss": "céleste"
+          },
+          {
+            "greek": "τρέφει",
+            "gloss": "nourrit"
+          },
+          {
+            "greek": "αὐτά·",
+            "gloss": "eux"
+          },
+          {
+            "greek": "οὐχ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plus/beaucoup_mieux"
+          },
+          {
+            "greek": "διαφέρετε",
+            "gloss": "vous_différez/valez"
+          },
+          {
+            "greek": "αὐτῶν;",
+            "gloss": "d'eux"
+          }
         ]
       },
       {
@@ -187,19 +665,67 @@
           "darby": "Et qui d'entre vous, par le souci qu'il se donne, peut ajouter une coudée à sa taille ?"
         },
         "interlinear": [
-          { "greek": "τίς", "gloss": "Qui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐξ", "gloss": "d'" },
-          { "greek": "ὑμῶν", "gloss": "vous" },
-          { "greek": "μεριμνῶν", "gloss": "s'inquiétant/par_ses_soucis" },
-          { "greek": "δύναται", "gloss": "peut" },
-          { "greek": "προσθεῖναι", "gloss": "ajouter" },
-          { "greek": "ἐπὶ", "gloss": "à" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἡλικίαν", "gloss": "durée_de_vie/taille" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "πῆχυν", "gloss": "une_coudée" },
-          { "greek": "ἕνα;", "gloss": "une" }
+          {
+            "greek": "τίς",
+            "gloss": "Qui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "d'"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "μεριμνῶν",
+            "gloss": "s'inquiétant/par_ses_soucis"
+          },
+          {
+            "greek": "δύναται",
+            "gloss": "peut"
+          },
+          {
+            "greek": "προσθεῖναι",
+            "gloss": "ajouter",
+            "annotation": {
+              "type": "repetition",
+              "title": "Ce que l’inquiétude ne peut ajouter",
+              "content": "Le verbe « ajouter » prépare le dernier verset où toutes ces choses « seront ajoutées ». L’inquiétude ne peut ajouter à la vie ; le Père donne et réordonne ce qui est nécessaire.",
+              "related": [
+                "προστεθήσεται",
+                "μεριμνῶν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "à"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἡλικίαν",
+            "gloss": "durée_de_vie/taille"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "πῆχυν",
+            "gloss": "une_coudée"
+          },
+          {
+            "greek": "ἕνα;",
+            "gloss": "une"
+          }
         ]
       },
       {
@@ -209,22 +735,79 @@
           "darby": "Et à l'égard du vêtement, pourquoi êtes-vous en souci ? Étudiez les lis des champs, comment ils croissent : ils ne travaillent ni ne filent ;"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "ἐνδύματος", "gloss": "vêtement" },
-          { "greek": "τί", "gloss": "pourquoi" },
-          { "greek": "μεριμνᾶτε;", "gloss": "vous_inquiétez-vous" },
-          { "greek": "καταμάθετε", "gloss": "Étudiez/Considérez", "analyse": "Le verbe *katamanthano* (étudier attentivement, apprendre en observant). À nouveau, le Christ propose la création non pas comme une ressource à exploiter (Monde duel), mais comme un livre de théologie spirituelle. La fleur existe sans anxiété, dans l'abandon total (le creux) de la Providence." },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "κρίνα", "gloss": "lis" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "ἀγροῦ", "gloss": "champ" },
-          { "greek": "πῶς", "gloss": "comment" },
-          { "greek": "αὐξάνουσιν·", "gloss": "croissent" },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "κοπιῶσιν", "gloss": "peinent/travaillent" },
-          { "greek": "οὐδὲ", "gloss": "ni" },
-          { "greek": "νήθουσιν·", "gloss": "ne_filent" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "ἐνδύματος",
+            "gloss": "vêtement"
+          },
+          {
+            "greek": "τί",
+            "gloss": "pourquoi"
+          },
+          {
+            "greek": "μεριμνᾶτε;",
+            "gloss": "vous_inquiétez-vous"
+          },
+          {
+            "greek": "καταμάθετε",
+            "gloss": "Étudiez/Considérez",
+            "annotation": {
+              "type": "racine",
+              "title": "Observez, apprenez des lis",
+              "content": "Καταμανθάνω signifie observer attentivement, considérer ou apprendre. Κατά renforce ici l’attention ; il serait excessif d’en déduire à lui seul un mouvement mystique de descente.",
+              "related": [
+                "κρίνα",
+                "αὐξάνουσιν·"
+              ]
+            }
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "κρίνα",
+            "gloss": "lis"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "ἀγροῦ",
+            "gloss": "champ"
+          },
+          {
+            "greek": "πῶς",
+            "gloss": "comment"
+          },
+          {
+            "greek": "αὐξάνουσιν·",
+            "gloss": "croissent"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "κοπιῶσιν",
+            "gloss": "peinent/travaillent"
+          },
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "νήθουσιν·",
+            "gloss": "ne_filent"
+          }
         ]
       },
       {
@@ -234,21 +817,66 @@
           "darby": "cependant je vous dis que Salomon même, dans toute sa gloire, n'était pas vêtu comme l'un d'eux."
         },
         "interlinear": [
-          { "greek": "λέγω", "gloss": "je_dis" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "οὐδὲ", "gloss": "pas_même" },
-          { "greek": "Σολομὼν", "gloss": "Salomon" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "πάσῃ", "gloss": "toute" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "δόξῃ", "gloss": "gloire" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "περιεβάλετο", "gloss": "n'a_été_vêtu" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "ἓν", "gloss": "un" },
-          { "greek": "τούτων.", "gloss": "d'eux" }
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οὐδὲ",
+            "gloss": "pas_même"
+          },
+          {
+            "greek": "Σολομὼν",
+            "gloss": "Salomon"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πάσῃ",
+            "gloss": "toute"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δόξῃ",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "περιεβάλετο",
+            "gloss": "n'a_été_vêtu"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἓν",
+            "gloss": "un"
+          },
+          {
+            "greek": "τούτων.",
+            "gloss": "d'eux"
+          }
         ]
       },
       {
@@ -258,28 +886,104 @@
           "darby": "Et si Dieu revêt ainsi l'herbe des champs qui est aujourd'hui, et qui demain est jetée dans le four, ne vous vêtira-t-il pas beaucoup plutôt, gens de petite foi ?"
         },
         "interlinear": [
-          { "greek": "εἰ", "gloss": "Si" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τὸν", "gloss": "l'" },
-          { "greek": "χόρτον", "gloss": "herbe" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "ἀγροῦ", "gloss": "champ" },
-          { "greek": "σήμερον", "gloss": "aujourd'hui" },
-          { "greek": "ὄντα", "gloss": "étant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὔριον", "gloss": "demain" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "κλίβανον", "gloss": "le_four" },
-          { "greek": "βαλλόμενον", "gloss": "jetée" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "οὕτως", "gloss": "ainsi" },
-          { "greek": "ἀμφιέννυσιν,", "gloss": "revêt" },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "πολλῷ", "gloss": "beaucoup" },
-          { "greek": "μᾶλλον", "gloss": "plus" },
-          { "greek": "ὑμᾶς,", "gloss": "vous" },
-          { "greek": "ὀλιγόπιστοι;", "gloss": "gens_de_petite_foi", "analyse": "Formé de *oligos* (petit/peu) et *pistis* (foi). Le manque de foi n'est pas un doute intellectuel, c'est l'incapacité viscérale de l'Ego à s'abandonner. La 'petite foi' est le symptôme de l'œil malade (fragmenté par la peur), incapable de voir l'évidence de la Providence." }
+          {
+            "greek": "εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "χόρτον",
+            "gloss": "herbe"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "ἀγροῦ",
+            "gloss": "champ"
+          },
+          {
+            "greek": "σήμερον",
+            "gloss": "aujourd'hui"
+          },
+          {
+            "greek": "ὄντα",
+            "gloss": "étant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὔριον",
+            "gloss": "demain"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κλίβανον",
+            "gloss": "le_four"
+          },
+          {
+            "greek": "βαλλόμενον",
+            "gloss": "jetée"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "ἀμφιέννυσιν,",
+            "gloss": "revêt"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "πολλῷ",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plus"
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ὀλιγόπιστοι;",
+            "gloss": "gens_de_petite_foi",
+            "annotation": {
+              "type": "racine",
+              "title": "Gens de peu de foi",
+              "content": "Ὀλιγόπιστος associe ὀλίγος, peu, et πίστις, foi. L’interpellation relie l’inquiétude à une confiance fragile, sans réduire toute anxiété clinique à un manque de foi.",
+              "related": [
+                "θεὸς",
+                "ἀμφιέννυσιν,",
+                "μεριμνήσητε"
+              ]
+            }
+          }
         ]
       },
       {
@@ -289,18 +993,54 @@
           "darby": "Ne soyez donc pas en souci, disant : Que mangerons-nous ? ou que boirons-nous ? ou de quoi serons-nous vêtus ?"
         },
         "interlinear": [
-          { "greek": "μὴ", "gloss": "Ne...pas" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "μεριμνήσητε", "gloss": "vous_inquiétez" },
-          { "greek": "λέγοντες·", "gloss": "disant" },
-          { "greek": "Τί", "gloss": "Que" },
-          { "greek": "φάγωμεν;", "gloss": "mangerons-nous" },
-          { "greek": "ἤ·", "gloss": "ou" },
-          { "greek": "Τί", "gloss": "Que" },
-          { "greek": "πίωμεν;", "gloss": "boirons-nous" },
-          { "greek": "ἤ·", "gloss": "ou" },
-          { "greek": "Τί", "gloss": "De_quoi" },
-          { "greek": "περιβαλώμεθα;", "gloss": "serons-nous_vêtus" }
+          {
+            "greek": "μὴ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "μεριμνήσητε",
+            "gloss": "vous_inquiétez"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "Que"
+          },
+          {
+            "greek": "φάγωμεν;",
+            "gloss": "mangerons-nous"
+          },
+          {
+            "greek": "ἤ·",
+            "gloss": "ou"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "Que"
+          },
+          {
+            "greek": "πίωμεν;",
+            "gloss": "boirons-nous"
+          },
+          {
+            "greek": "ἤ·",
+            "gloss": "ou"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "De_quoi"
+          },
+          {
+            "greek": "περιβαλώμεθα;",
+            "gloss": "serons-nous_vêtus"
+          }
         ]
       },
       {
@@ -310,23 +1050,94 @@
           "darby": "car les nations recherchent toutes ces choses ; car votre Père céleste sait que vous avez besoin de toutes ces choses ;"
         },
         "interlinear": [
-          { "greek": "πάντα", "gloss": "Toutes" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ταῦτα", "gloss": "ces_choses" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ἔθνη", "gloss": "nations/païens", "analyse": "Le 'Monde duel' par excellence. Les nations (la foule sans alliance) vivent dans l'obsession de l'Avoir et de la préhension, ignorant le Royaume. Prier Dieu pour obtenir uniquement des sécurités matérielles, c'est prier avec l'Ego d'un païen, en rabaissant l'Incréé au rang de fournisseur de biens." },
-          { "greek": "ἐπιζητοῦσιν·", "gloss": "recherchent_avidement" },
-          { "greek": "οἶδεν", "gloss": "sait" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "πατὴρ", "gloss": "Père" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "οὐράνιος", "gloss": "céleste" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "χρῄζετε", "gloss": "vous_avez_besoin" },
-          { "greek": "τούτων", "gloss": "de_ces_choses" },
-          { "greek": "ἁπάντων.", "gloss": "toutes" }
+          {
+            "greek": "πάντα",
+            "gloss": "Toutes"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἔθνη",
+            "gloss": "nations/païens"
+          },
+          {
+            "greek": "ἐπιζητοῦσιν·",
+            "gloss": "recherchent_avidement",
+            "annotation": {
+              "type": "racine",
+              "title": "Rechercher avec insistance",
+              "content": "Ἐπιζητέω signifie rechercher, désirer ou poursuivre avec insistance. Il contraste ici avec ζητεῖτε : les mêmes besoins existent, mais leur recherche n’occupe plus la première place.",
+              "related": [
+                "ἔθνη",
+                "ζητεῖτε",
+                "πρῶτον"
+              ]
+            }
+          },
+          {
+            "greek": "οἶδεν",
+            "gloss": "sait",
+            "annotation": {
+              "type": "theologie",
+              "title": "Votre Père sait",
+              "content": "Avant l’ordre de chercher le Royaume, Jésus affirme que le Père céleste connaît tous les besoins. La confiance s’enracine dans cette connaissance paternelle.",
+              "related": [
+                "πατὴρ",
+                "χρῄζετε",
+                "ἁπάντων."
+              ]
+            }
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὐράνιος",
+            "gloss": "céleste"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "χρῄζετε",
+            "gloss": "vous_avez_besoin"
+          },
+          {
+            "greek": "τούτων",
+            "gloss": "de_ces_choses"
+          },
+          {
+            "greek": "ἁπάντων.",
+            "gloss": "toutes"
+          }
         ]
       },
       {
@@ -336,30 +1147,204 @@
           "darby": "mais cherchez premièrement le royaume de Dieu et sa justice, et toutes ces choses vous seront données par-dessus."
         },
         "interlinear": [
-          { "greek": "ζητεῖτε", "gloss": "Cherchez", "analyse": "Le basculement final vers l'Être. Au lieu de *epi-zēteō* (la recherche avide et angoissée des païens), le Christ ordonne la quête joyeuse (*zēteō*) de l'essentiel. C'est l'Arbre de Vie : en plaçant le Royaume UN au centre du Sujet (premièrement), tout le reste de la réalité matérielle s'aligne et se reçoit comme un don eucharistique ('données par-dessus'), et non plus comme un dû arraché par l'angoisse." },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "πρῶτον", "gloss": "premièrement" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "βασιλείαν", "gloss": "royaume" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "δικαιοσύνην", "gloss": "justice" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ταῦτα", "gloss": "ces_choses" },
-          { "greek": "πάντα", "gloss": "toutes" },
-          { "greek": "προστεθήσεται", "gloss": "seront_ajoutées/données_par-dessus" },
-          { "greek": "ὑμῖν.", "gloss": "à_vous" }
+          {
+            "greek": "ζητεῖτε",
+            "gloss": "Cherchez",
+            "annotation": {
+              "type": "repetition",
+              "title": "Cherchez d’abord",
+              "content": "L’impératif répond à la recherche insistante des nations. Jésus ne supprime pas les besoins : il donne la première place au Royaume et à la justice de Dieu.",
+              "related": [
+                "ἐπιζητοῦσιν·",
+                "πρῶτον",
+                "βασιλείαν",
+                "δικαιοσύνην"
+              ]
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "πρῶτον",
+            "gloss": "premièrement"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλείαν",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "δικαιοσύνην",
+            "gloss": "justice"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes"
+          },
+          {
+            "greek": "προστεθήσεται",
+            "gloss": "seront_ajoutées/données_par-dessus",
+            "annotation": {
+              "type": "repetition",
+              "title": "Ces choses vous seront ajoutées",
+              "content": "Le passif déplace l’accent de la saisie anxieuse vers la réception. La promesse suit la connaissance que le Père a des besoins ; elle n’est pas une garantie de prospérité ni d’absence d’épreuve.",
+              "related": [
+                "προσθεῖναι",
+                "πάντα",
+                "ὑμῖν."
+              ]
+            }
+          },
+          {
+            "greek": "ὑμῖν.",
+            "gloss": "à_vous"
+          }
         ]
       }
     ],
-  "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 22 - ἐὰν ᾖ ὁ ὀφθαλμός σου ἁπλοῦς : Souvent traduit par 'si ton œil est en bon état' (Segond) ou 'sain' (TOB). Ce vocabulaire médical moderne gomme la métaphysique originelle du terme. *Haplous* signifie littéralement 'sans pli', 'simple' ou 'unifié'. C'est l'exact contraire de la duplicité. L'œil spirituel (le *Nous*) du croyant ne doit pas être replié sur lui-même ni divisé par des projections mondaines. S'il est 'sans pli', il devient une lentille pure qui laisse la Lumière incréée irradier tout l'être.\n\n• Verset 24 - οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ : Traduit par 'vous ne pouvez servir Dieu et Mamon'. Le verbe grec *douleuo* ne désigne pas le fait d'être un employé ou un serviteur sous contrat, mais d'être un esclave (*doulos*), possédé par un maître. Quant à *Mamon* (d'origine araméenne), il ne se limite pas à la richesse matérielle ; c'est la personnification de l'Avoir érigé en système de sécurité absolue. C'est l'idole du 'Monde duel' qui réclame du Sujet qu'il aliène son Être en l'échange d'une survie illusoire.\n\n• Verset 25 - Μὴ μεριμνᾶτε (mē merimnate) : Traduit couramment par 'ne vous inquiétez pas' ou 'ne soyez pas en souci'. La racine fascinante de ce verbe puise dans *merizo* (diviser, morceler) et *nous* (l'esprit). L'anxiété, dans l'anthropologie biblique, n'est pas une simple peur psychologique, c'est une pathologie ontologique : l'éparpillement, la fragmentation de l'esprit. L'anxiété (*merimna*) est l'arme par laquelle le 'Monde duel' divise la conscience de l'homme pour le couper du Royaume UN.\n\nAnalyse spirituelle et mystagogique :\n\nCe 3ème dimanche de Matthieu offre la clé de l'anthropologie philocalique : la guérison du 'Nous' (l'intellect spirituel, l'œil du cœur) et la libération de l'illusion matérielle.\n\n1. L'Œil simple (*Haplous*) et l'Énergie incréée\nLe Christ commence par une anatomie spirituelle. L'œil est la fenêtre de l'âme. Dans le 'Monde duel', l'Ego possède un œil double, 'malade' (*poneros*), parce qu'il regarde simultanément vers Dieu et vers Mammon (l'accumulation, le pouvoir). Cette duplicité crée les 'ténèbres' (le savoir dogmatique mort). À l'inverse, l'Arbre de Vie exige un œil 'simple' (*haplous* : sans pli, sans duplicité). Quand le Sujet s'unifie dans son désir du Royaume, tout son corps devient temple de la Lumière thaborique.\n\n2. La pathologie de l'Anxiété (*Merimna*)\nLa conséquence directe de l'œil double est l'esclavage à Mammon, qui s'exprime psychologiquement par l'anxiété (*merimnao* : diviser l'esprit). La foule (les nations païennes) s'épuise à tenter de maîtriser l'avenir ('que mangerons-nous ?'). Cette agitation est le propre d'un savoir 'en plein' qui refuse de faire confiance. Le Christ montre, à travers les oiseaux et les lis des champs, l'absurdité de cette préhension : l'anxiété n'ajoute pas une seule coudée à la vie, elle fragmente le Sujet.\n\n3. La Transfiguration de l'Avoir par la Kénose\nL'injonction finale 'Cherchez premièrement le Royaume' est l'appel ultime à la kénose. Le croyant est invité à se vider de son besoin maladif de contrôler sa survie biologique, pour se confier à la paternité de Dieu. Dès lors qu'il accepte cette position 'en creux', il ne détruit pas la réalité matérielle (la nourriture, le vêtement), mais il la transfigure : l'Avoir cesse d'être une idole tyrannique pour redevenir une réalité eucharistique ('toutes ces choses vous seront données par-dessus')." 
+    "personal_analysis": "Notes sur le texte grec :\n• Matthieu 6, 22 — ἁπλοῦς : « simple, entier, sans mélange », et selon le contexte « sain » ou « généreux ». Face à πονηρός, le mot peut évoquer un regard non divisé ; dans le contexte plus large de l’aumône et des biens, plusieurs traductions font aussi entendre la générosité. Matthieu ne nomme pas directement le νοῦς, mais la tradition philocalique reçoit légitimement cet œil comme image de l’intellect spirituel ou de l’œil du cœur appelé à être purifié et unifié.\n• Matthieu 6, 24 — δουλεύειν : « servir comme esclave, être asservi ». Μαμωνᾶς, emprunté à l’araméen, désigne les richesses ou les biens personnifiés comme un maître rival. Jésus ne condamne pas la matière : il dévoile l’impossibilité de faire simultanément de Dieu et de la richesse la source ultime de son obéissance.\n• Matthieu 6, 25 — μεριμνᾶτε : « soyez inquiets, préoccupés ». On peut spirituellement décrire l’inquiétude comme une dispersion, mais il ne faut pas fabriquer l’étymologie μερίζω + νοῦς : νοῦς n’entre pas dans la formation du mot.\n• Matthieu 6, 26 et 28 — ἐμβλέψατε / καταμάθετε : « regardez attentivement / observez, apprenez ». Jésus oriente le regard vers les oiseaux et les lis. Κατά dans καταμανθάνω renforce ici l’attention ou l’apprentissage ; il ne porte pas automatiquement le sens spirituel d’une descente.\n• Matthieu 6, 33 — ζητεῖτε δὲ πρῶτον : « cherchez d’abord ». L’impératif ne supprime pas les besoins nommés dans le passage ; il les réordonne sous la recherche du Royaume et de la justice de Dieu.\n\nAnalyse spirituelle :\nLe passage conduit du regard au service, puis du service à la confiance. L’œil est présenté comme la lampe du corps : ce qui oriente le regard finit par éclairer ou obscurcir toute l’existence. Dans la tradition philocalique orthodoxe, cet œil est reçu comme le νοῦς, l’intellect spirituel ou l’œil du cœur. Sa purification ne consiste pas seulement à mieux percevoir des objets extérieurs : elle rassemble l’être dispersé et l’oriente vers Dieu. L’opposition entre l’œil ἁπλοῦς et l’œil πονηρός permet ainsi d’articuler l’unification du désir, la vigilance du cœur et la générosité du regard porté sur les biens et sur autrui.\n\nCette orientation devient concrète dans la parole sur les deux maîtres. Dieu et Mammon ne sont pas deux domaines entre lesquels il suffirait de partager son temps. Le verbe δουλεύειν parle d’asservissement : le problème apparaît lorsque les biens deviennent le maître qui promet la sécurité, fixe les priorités et gouverne la relation aux autres.\n\nL’appel à ne pas s’inquiéter ne doit ni culpabiliser les personnes anxieuses ni encourager l’imprévoyance. Jésus nomme des besoins réels — manger, boire, se vêtir — puis rappelle que la vie et le corps sont plus grands que leurs moyens de subsistance. Les oiseaux et les lis ne fournissent pas une technique de gestion ; ils déplacent le regard vers le Père qui connaît, nourrit et revêt.\n\nLe texte oppose enfin deux recherches : les nations recherchent avidement toutes ces choses, tandis que le disciple cherche d’abord le Royaume et la justice de Dieu. La différence ne réside pas dans l’absence de besoins, mais dans leur ordre. La confiance chrétienne reçoit le nécessaire sans le transformer en maître et travaille sans croire que tout dépend de sa maîtrise de l’avenir.",
+    "homiletic_axes": [
+      {
+        "title": "L’œil du cœur, lampe de toute l’existence",
+        "content": "Le regard n’est pas un détail isolé : son orientation éclaire ou obscurcit le corps entier. La tradition philocalique reconnaît dans cet œil le νοῦς appelé à être purifié et unifié ; la simplicité peut aussi s’ouvrir en générosité.",
+        "keywords": [
+          "λύχνος",
+          "ὀφθαλμός",
+          "ἁπλοῦς,",
+          "φωτεινὸν",
+          "σκότος"
+        ]
+      },
+      {
+        "title": "Deux maîtres : une décision de fond",
+        "content": "Jésus ne présente pas Dieu et Mammon comme deux préoccupations à équilibrer. Le verbe « servir » indique l’appartenance à un maître : ce qui promet la sécurité peut finir par gouverner la vie.",
+        "keywords": [
+          "δυσὶ",
+          "κυρίοις",
+          "δουλεύειν·",
+          "θεῷ",
+          "μαμωνᾷ."
+        ]
+      },
+      {
+        "title": "Regarder la création sous le regard du Père",
+        "content": "L’inquiétude est rencontrée par deux invitations à regarder et apprendre. Les oiseaux et les lis orientent vers le Père qui connaît les besoins, sans abolir la responsabilité humaine.",
+        "keywords": [
+          "μεριμνᾶτε",
+          "ἐμβλέψατε",
+          "καταμάθετε",
+          "πατὴρ",
+          "οἶδεν"
+        ]
+      },
+      {
+        "title": "Chercher d’abord le Royaume et sa justice",
+        "content": "Jésus ne nie pas les besoins matériels : il les réordonne. Le Royaume et la justice deviennent la première recherche, tandis que le reste est reçu comme don et responsabilité plutôt que comme absolu.",
+        "keywords": [
+          "ζητεῖτε",
+          "πρῶτον",
+          "βασιλείαν",
+          "δικαιοσύνην",
+          "προστεθήσεται"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre entrée : l’œil simple, la lumière, les deux maîtres, l’inquiétude, les oiseaux, les lis, le Père qui sait, la recherche ou le Royaume d’abord."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l’Évangile",
+        "prompt": "Suivez un mouvement : du regard qui oriente tout le corps au maître que l’on sert ; de l’inquiétude au regard posé sur la création ; ou des besoins recherchés au Royaume cherché d’abord."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez le don central : le Père connaît les besoins, nourrit et revêt ; le disciple peut recevoir une existence réordonnée vers le Royaume sans être asservi par la peur du manque."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une situation : regard dispersé, argent devenu mesure de toute décision, anxiété réelle, charge familiale, peur de manquer, comparaison sociale ou difficulté à discerner ce qui vient en premier."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre : réorienter son regard, nommer ce qui agit comme maître, demander de l’aide face à l’anxiété, contempler avec attention, poser un acte de générosité ou remettre le Royaume au premier plan."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Ne faites pas de l’inquiétude une faute psychologique et ne promettez pas une vie sans manque. Faites entendre la paternité de Dieu, l’ordre nouveau des priorités et la liberté à l’égard de Mammon."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Du Royaume cherché à la grâce où nous demeurons",
+        "reference": "Matthieu 6, 22-33 ; Romains 5, 1-10",
+        "content": "L’Évangile réoriente le regard et la recherche ; l’Apôtre annonce le fondement reçu de cette confiance : la paix avec Dieu, l’accès à la grâce, l’espérance et l’amour répandu par l’Esprit.",
+        "connections": [
+          {
+            "label": "De l’inquiétude à la paix",
+            "content": "Jésus libère de l’asservissement au souci du lendemain ; Paul ouvre par la paix avec Dieu reçue par Jésus-Christ."
+          },
+          {
+            "label": "Du cœur inquiet au cœur visité",
+            "content": "Le Père connaît les besoins ; l’amour de Dieu est répandu dans les cœurs par l’Esprit Saint donné."
+          },
+          {
+            "label": "Du nécessaire au don le plus grand",
+            "content": "Si Dieu nourrit et revêt, Paul va plus loin : le Christ est mort pour nous alors que nous étions faibles, pécheurs et ennemis."
+          }
+        ]
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Romains 5, 1-10",
-    "title": "La Kénose de l'épreuve : De la justification à l'effusion de l'Amour",
+    "title": "Paix, espérance et réconciliation : l’amour donné avant nos mérites",
     "interlinear": [
       {
         "verse_number": "5, 1",
@@ -368,21 +1353,86 @@
           "darby": "Ayant donc été justifiés sur le principe de la foi, nous avons la paix avec Dieu par notre Seigneur Jésus Christ,"
         },
         "interlinear": [
-          { "greek": "Δικαιωθέντες", "gloss": "Ayant_été_justifiés", "analyse": "La justification (*dikaiōthentes*) n'est pas un acquittement juridique rendu par un tribunal extérieur (vision du Monde duel). C'est un réalignement ontologique. L'homme déchu, tordu par le péché, est rendu 'droit', réajusté sur l'axe de l'Arbre de Vie par son adhésion (la foi) au Christ." },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ἐκ", "gloss": "par/sur_le_principe_de" },
-          { "greek": "πίστεως", "gloss": "foi" },
-          { "greek": "εἰρήνην", "gloss": "paix" },
-          { "greek": "ἔχομεν", "gloss": "nous_avons" },
-          { "greek": "πρὸς", "gloss": "vers/avec" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεὸν", "gloss": "Dieu" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "κυρίου", "gloss": "Seigneur" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "Χριστοῦ,", "gloss": "Christ" }
+          {
+            "greek": "Δικαιωθέντες",
+            "gloss": "Ayant_été_justifiés",
+            "annotation": {
+              "type": "theologie",
+              "title": "Ayant été justifiés",
+              "content": "Le participe aoriste passif présente la justification comme une action reçue. Elle est liée à la foi et ouvre à la paix avec Dieu par Jésus-Christ ; le texte n’oblige pas à opposer portée judiciaire et transformation de la relation.",
+              "related": [
+                "πίστεως",
+                "εἰρήνην",
+                "Χριστοῦ,"
+              ]
+            }
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "par/sur_le_principe_de"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi"
+          },
+          {
+            "greek": "εἰρήνην",
+            "gloss": "paix",
+            "annotation": {
+              "type": "traduction",
+              "title": "Nous avons la paix avec Dieu",
+              "content": "Le texte suivi ici porte ἔχομεν, « nous avons ». Une variante ancienne lit ἔχωμεν, « ayons ». Dans les deux cas, la paix est orientée vers Dieu et médiatisée par Jésus-Christ.",
+              "related": [
+                "ἔχομεν",
+                "πρὸς",
+                "Χριστοῦ,"
+              ]
+            }
+          },
+          {
+            "greek": "ἔχομεν",
+            "gloss": "nous_avons"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers/avec"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Χριστοῦ,",
+            "gloss": "Christ"
+          }
         ]
       },
       {
@@ -392,29 +1442,118 @@
           "darby": "par lequel aussi nous avons trouvé un accès par la foi à cette faveur dans laquelle nous sommes, et nous nous glorifions dans l'espérance de la gloire de Dieu."
         },
         "interlinear": [
-          { "greek": "δι’", "gloss": "par" },
-          { "greek": "οὗ", "gloss": "lequel" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "προσαγωγὴν", "gloss": "accès/introduction" },
-          { "greek": "ἐσχήκαμεν", "gloss": "nous_avons_obtenu" },
-          { "greek": "τῇ", "gloss": "par_la" },
-          { "greek": "πίστει", "gloss": "foi" },
-          { "greek": "εἰς", "gloss": "à/dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "χάριν", "gloss": "grâce" },
-          { "greek": "ταύτην", "gloss": "cette" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ᾗ", "gloss": "laquelle" },
-          { "greek": "ἑστήκαμεν,", "gloss": "nous_nous_tenons_debout/fermes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "καυχώμεθα", "gloss": "nous_nous_glorifions" },
-          { "greek": "ἐπ’", "gloss": "sur" },
-          { "greek": "ἐλπίδι", "gloss": "l'espérance" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "δόξης", "gloss": "gloire" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ.", "gloss": "Dieu" }
+          {
+            "greek": "δι’",
+            "gloss": "par"
+          },
+          {
+            "greek": "οὗ",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "προσαγωγὴν",
+            "gloss": "accès/introduction",
+            "annotation": {
+              "type": "racine",
+              "title": "L’accès à la grâce",
+              "content": "Προσαγωγή désigne l’accès ou l’introduction auprès de quelqu’un. Par le Christ, les croyants ont reçu accès à cette grâce dans laquelle ils demeurent.",
+              "related": [
+                "χάριν",
+                "ἑστήκαμεν,",
+                "Χριστοῦ,"
+              ]
+            }
+          },
+          {
+            "greek": "ἐσχήκαμεν",
+            "gloss": "nous_avons_obtenu"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "πίστει",
+            "gloss": "foi"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à/dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάριν",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "ταύτην",
+            "gloss": "cette"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ᾗ",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "ἑστήκαμεν,",
+            "gloss": "nous_nous_tenons_debout/fermes",
+            "annotation": {
+              "type": "theologie",
+              "title": "La grâce dans laquelle nous demeurons",
+              "content": "Le parfait de ἵστημι exprime ici une position établie : nous nous tenons dans la grâce. Cette stabilité reçue fonde l’espérance au milieu de circonstances instables.",
+              "related": [
+                "χάριν",
+                "ἐλπίδι",
+                "εἰρήνην"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "καυχώμεθα",
+            "gloss": "nous_nous_glorifions"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ἐλπίδι",
+            "gloss": "l'espérance"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "δόξης",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ.",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -424,21 +1563,86 @@
           "darby": "Et non seulement cela, mais nous nous glorifions aussi dans les tribulations, sachant que la tribulation produit la patience,"
         },
         "interlinear": [
-          { "greek": "οὐ", "gloss": "Non" },
-          { "greek": "μόνον", "gloss": "seulement" },
-          { "greek": "δέ,", "gloss": "or" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "καυχώμεθα", "gloss": "nous_nous_glorifions" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "θλίψεσιν,", "gloss": "tribulations/afflictions", "analyse": "Le mot *thlipsis* (tribulation) vient d'une racine signifiant 'presser, écraser, mettre à l'étroit'. L'Ego mondain fuit l'écrasement pour protéger sa plénitude illusoire. Dans le Royaume, la tribulation est le pressoir qui brise la coquille de l'Ego : elle opère une kénose, vidant l'homme de sa suffisance pour faire de lui un 'creux' réceptif." },
-          { "greek": "εἰδότες", "gloss": "sachant" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "θλῖψις", "gloss": "tribulation" },
-          { "greek": "ὑπομονὴν", "gloss": "persévérance/endurance" },
-          { "greek": "κατεργάζεται,", "gloss": "produit/accomplit" }
+          {
+            "greek": "οὐ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "μόνον",
+            "gloss": "seulement"
+          },
+          {
+            "greek": "δέ,",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "καυχώμεθα",
+            "gloss": "nous_nous_glorifions"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "θλίψεσιν,",
+            "gloss": "tribulations/afflictions",
+            "annotation": {
+              "type": "traduction",
+              "title": "Afflictions, détresses, pressions",
+              "content": "Θλῖψις désigne ce qui presse, serre ou afflige. Paul ne célèbre pas la souffrance pour elle-même ; il décrit ce qu’elle peut produire lorsqu’elle est traversée dans la foi.",
+              "related": [
+                "θλῖψις",
+                "ὑπομονὴν",
+                "ἐλπίδα·"
+              ]
+            }
+          },
+          {
+            "greek": "εἰδότες",
+            "gloss": "sachant"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "θλῖψις",
+            "gloss": "tribulation"
+          },
+          {
+            "greek": "ὑπομονὴν",
+            "gloss": "persévérance/endurance",
+            "annotation": {
+              "type": "racine",
+              "title": "L’endurance qui demeure",
+              "content": "Ὑπομονή désigne endurance et persévérance. Comme au dimanche de Tous les Saints, la famille de ὑπομένω peut suggérer le fait de tenir sous l’épreuve, sans faire de l’épreuve un bien recherché.",
+              "related": [
+                "θλῖψις",
+                "δοκιμήν,",
+                "ἐλπίδα·"
+              ]
+            }
+          },
+          {
+            "greek": "κατεργάζεται,",
+            "gloss": "produit/accomplit"
+          }
         ]
       },
       {
@@ -448,14 +1652,47 @@
           "darby": "et la patience l'expérience, et l'expérience l'espérance ;"
         },
         "interlinear": [
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὑπομονὴ", "gloss": "persévérance" },
-          { "greek": "δοκιμήν,", "gloss": "caractère_éprouvé/expérience" },
-          { "greek": "ἡ", "gloss": "le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "δοκιμὴ", "gloss": "caractère_éprouvé" },
-          { "greek": "ἐλπίδα·", "gloss": "espérance" }
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὑπομονὴ",
+            "gloss": "persévérance"
+          },
+          {
+            "greek": "δοκιμήν,",
+            "gloss": "caractère_éprouvé/expérience",
+            "annotation": {
+              "type": "traduction",
+              "title": "Un caractère éprouvé",
+              "content": "Δοκιμή désigne la qualité reconnue après l’épreuve, l’expérience éprouvée ou le caractère confirmé. Ce n’est pas la souffrance seule, mais l’endurance au cœur de celle-ci qui conduit à cette maturité.",
+              "related": [
+                "ὑπομονὴ",
+                "ἐλπίδα·"
+              ]
+            }
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "δοκιμὴ",
+            "gloss": "caractère_éprouvé"
+          },
+          {
+            "greek": "ἐλπίδα·",
+            "gloss": "espérance"
+          }
         ]
       },
       {
@@ -465,27 +1702,111 @@
           "darby": "et l'espérance ne rend point honteux, parce que l'amour de Dieu est versé dans nos cœurs par l'Esprit Saint qui nous a été donné."
         },
         "interlinear": [
-          { "greek": "ἡ", "gloss": "l'" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐλπὶς", "gloss": "espérance" },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "καταισχύνει,", "gloss": "fait_honte/trompe" },
-          { "greek": "ὅτι", "gloss": "parce_que" },
-          { "greek": "ἡ", "gloss": "l'" },
-          { "greek": "ἀγάπη", "gloss": "amour" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "ἐκκέχυται", "gloss": "est_répandu/déversé", "analyse": "Le verbe *ekcheo* (verser abondamment, déverser). C'est le verbe de la Pentecôte et de l'effusion. La mystagogie orthodoxe le montre bien : l'amour n'est pas un sentiment humain que l'on fabrique (Arbre de la Connaissance), c'est une Énergie incréée qui est versée par l'Esprit dans le 'Nous' (l'intellect) une fois celui-ci purifié et évidé par la tribulation." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "καρδίαις", "gloss": "cœurs" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "πνεύματος", "gloss": "Esprit" },
-          { "greek": "ἁγίου", "gloss": "Saint" },
-          { "greek": "τοῦ", "gloss": "celui" },
-          { "greek": "δοθέντος", "gloss": "ayant_été_donné" },
-          { "greek": "ἡμῖν.", "gloss": "à_nous" }
+          {
+            "greek": "ἡ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐλπὶς",
+            "gloss": "espérance"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "καταισχύνει,",
+            "gloss": "fait_honte/trompe",
+            "annotation": {
+              "type": "racine",
+              "title": "Une espérance qui ne couvre pas de honte",
+              "content": "Καταισχύνω signifie déshonorer, confondre ou faire honte. Κατά intensifie ici le verbe ; l’espérance ne déçoit pas parce que l’amour de Dieu a été répandu par l’Esprit.",
+              "related": [
+                "ἐλπὶς",
+                "ἀγάπη",
+                "ἐκκέχυται"
+              ]
+            }
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἀγάπη",
+            "gloss": "amour"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐκκέχυται",
+            "gloss": "est_répandu/déversé",
+            "annotation": {
+              "type": "racine",
+              "title": "L’amour a été répandu",
+              "content": "Le parfait passif de ἐκχέω exprime une effusion accomplie dont l’effet demeure. La même famille verbale sert en Actes 2 à parler de l’Esprit répandu ; ici, l’amour de Dieu est répandu dans les cœurs par l’Esprit donné.",
+              "related": [
+                "ἀγάπη",
+                "καρδίαις",
+                "πνεύματος",
+                "δοθέντος"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρδίαις",
+            "gloss": "cœurs"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "ἁγίου",
+            "gloss": "Saint"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "δοθέντος",
+            "gloss": "ayant_été_donné"
+          },
+          {
+            "greek": "ἡμῖν.",
+            "gloss": "à_nous"
+          }
         ]
       },
       {
@@ -495,18 +1816,73 @@
           "darby": "Car, Christ, alors que nous étions encore sans force, est mort au temps convenable pour des impies."
         },
         "interlinear": [
-          { "greek": "ἔτι", "gloss": "Encore" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "Χριστὸς", "gloss": "Christ" },
-          { "greek": "ὄντων", "gloss": "étant" },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "ἀσθενῶν", "gloss": "faibles/sans_force" },
-          { "greek": "ἔτι", "gloss": "encore" },
-          { "greek": "κατὰ", "gloss": "au" },
-          { "greek": "καιρὸν", "gloss": "temps_marqué" },
-          { "greek": "ὑπὲρ", "gloss": "pour/à_la_place_de" },
-          { "greek": "ἀσεβῶν", "gloss": "des_impies" },
-          { "greek": "ἀπέθανεν.", "gloss": "est_mort" }
+          {
+            "greek": "ἔτι",
+            "gloss": "Encore"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ὄντων",
+            "gloss": "étant"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἀσθενῶν",
+            "gloss": "faibles/sans_force",
+            "annotation": {
+              "type": "repetition",
+              "title": "Alors que nous étions encore faibles",
+              "content": "Paul accumule les désignations : faibles, impies, pécheurs, ennemis. L’amour du Christ précède la capacité humaine à se rendre digne de lui.",
+              "related": [
+                "ἀσεβῶν",
+                "ἁμαρτωλῶν",
+                "ἐχθροὶ"
+              ]
+            }
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "encore"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "au"
+          },
+          {
+            "greek": "καιρὸν",
+            "gloss": "temps_marqué"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour/à_la_place_de",
+            "annotation": {
+              "type": "repetition",
+              "title": "Le Christ est mort pour nous",
+              "content": "La préposition ὑπέρ revient dans la comparaison puis dans l’affirmation centrale : le Christ est mort « pour nous ». La répétition déplace le regard du mérite humain vers l’initiative de l’amour divin.",
+              "related": [
+                "ἀπέθανεν.",
+                "ἡμῶν"
+              ]
+            }
+          },
+          {
+            "greek": "ἀσεβῶν",
+            "gloss": "des_impies"
+          },
+          {
+            "greek": "ἀπέθανεν.",
+            "gloss": "est_mort"
+          }
         ]
       },
       {
@@ -516,21 +1892,84 @@
           "darby": "Car à peine mourra-t-on pour un juste ; pour un homme de bien, peut-être, quelqu'un se résoudrait même à mourir ;"
         },
         "interlinear": [
-          { "greek": "μόλις", "gloss": "À_peine" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ὑπὲρ", "gloss": "pour" },
-          { "greek": "δικαίου", "gloss": "un_juste" },
-          { "greek": "τις", "gloss": "quelqu'un" },
-          { "greek": "ἀποθανεῖται·", "gloss": "mourrait" },
-          { "greek": "ὑπὲρ", "gloss": "pour" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "ἀγαθοῦ", "gloss": "bon/homme_de_bien" },
-          { "greek": "τάχα", "gloss": "peut-être" },
-          { "greek": "τις", "gloss": "quelqu'un" },
-          { "greek": "καὶ", "gloss": "même" },
-          { "greek": "τολμᾷ", "gloss": "oserait" },
-          { "greek": "ἀποθανεῖν·", "gloss": "mourir" }
+          {
+            "greek": "μόλις",
+            "gloss": "À_peine"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour",
+            "annotation": {
+              "type": "repetition",
+              "title": "Le Christ est mort pour nous",
+              "content": "La préposition ὑπέρ revient dans la comparaison puis dans l’affirmation centrale : le Christ est mort « pour nous ». La répétition déplace le regard du mérite humain vers l’initiative de l’amour divin.",
+              "related": [
+                "ἀπέθανεν.",
+                "ἡμῶν"
+              ]
+            }
+          },
+          {
+            "greek": "δικαίου",
+            "gloss": "un_juste"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "ἀποθανεῖται·",
+            "gloss": "mourrait"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour",
+            "annotation": {
+              "type": "repetition",
+              "title": "Le Christ est mort pour nous",
+              "content": "La préposition ὑπέρ revient dans la comparaison puis dans l’affirmation centrale : le Christ est mort « pour nous ». La répétition déplace le regard du mérite humain vers l’initiative de l’amour divin.",
+              "related": [
+                "ἀπέθανεν.",
+                "ἡμῶν"
+              ]
+            }
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀγαθοῦ",
+            "gloss": "bon/homme_de_bien"
+          },
+          {
+            "greek": "τάχα",
+            "gloss": "peut-être"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "même"
+          },
+          {
+            "greek": "τολμᾷ",
+            "gloss": "oserait"
+          },
+          {
+            "greek": "ἀποθανεῖν·",
+            "gloss": "mourir"
+          }
         ]
       },
       {
@@ -540,24 +1979,97 @@
           "darby": "mais Dieu constate son amour à lui envers nous, en ce que, lorsque nous étions encore pécheurs, Christ est mort pour nous."
         },
         "interlinear": [
-          { "greek": "συνίστησιν", "gloss": "prouve/établit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "ἑαυτοῦ", "gloss": "sien_propre" },
-          { "greek": "ἀγάπην", "gloss": "amour" },
-          { "greek": "εἰς", "gloss": "envers" },
-          { "greek": "ἡμᾶς", "gloss": "nous" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεός,", "gloss": "Dieu" },
-          { "greek": "ὅτι", "gloss": "en_ce_que" },
-          { "greek": "ἔτι", "gloss": "encore" },
-          { "greek": "ἁμαρτωλῶν", "gloss": "pécheurs" },
-          { "greek": "ὄντων", "gloss": "étant" },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "Χριστὸς", "gloss": "Christ" },
-          { "greek": "ὑπὲρ", "gloss": "pour" },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "ἀπέθανεν.", "gloss": "est_mort" }
+          {
+            "greek": "συνίστησιν",
+            "gloss": "prouve/établit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Dieu manifeste son amour",
+              "content": "Συνίστημι signifie ici démontrer, manifester ou établir. La mort du Christ alors que nous étions encore pécheurs rend visible l’amour propre de Dieu envers nous.",
+              "related": [
+                "ἀγάπην",
+                "ἁμαρτωλῶν",
+                "ἀπέθανεν."
+              ]
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἑαυτοῦ",
+            "gloss": "sien_propre"
+          },
+          {
+            "greek": "ἀγάπην",
+            "gloss": "amour"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "envers"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεός,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "en_ce_que"
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "encore"
+          },
+          {
+            "greek": "ἁμαρτωλῶν",
+            "gloss": "pécheurs"
+          },
+          {
+            "greek": "ὄντων",
+            "gloss": "étant"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour",
+            "annotation": {
+              "type": "repetition",
+              "title": "Le Christ est mort pour nous",
+              "content": "La préposition ὑπέρ revient dans la comparaison puis dans l’affirmation centrale : le Christ est mort « pour nous ». La répétition déplace le regard du mérite humain vers l’initiative de l’amour divin.",
+              "related": [
+                "ἀπέθανεν.",
+                "ἡμῶν"
+              ]
+            }
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἀπέθανεν.",
+            "gloss": "est_mort"
+          }
         ]
       },
       {
@@ -567,21 +2079,85 @@
           "darby": "Beaucoup plutôt donc, ayant été maintenant justifiés par son sang, serons-nous sauvés de la colère par lui."
         },
         "interlinear": [
-          { "greek": "πολλῷ", "gloss": "De_beaucoup" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "μᾶλλον", "gloss": "plus" },
-          { "greek": "δικαιωθέντες", "gloss": "ayant_été_justifiés" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "ἐν", "gloss": "par/dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "αἵματι", "gloss": "sang" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "σωθησόμεθα", "gloss": "nous_serons_sauvés" },
-          { "greek": "δι’", "gloss": "par" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "ὀργῆς.", "gloss": "colère" }
+          {
+            "greek": "πολλῷ",
+            "gloss": "De_beaucoup",
+            "annotation": {
+              "type": "repetition",
+              "title": "À bien plus forte raison",
+              "content": "Paul répète le raisonnement « combien plus ». Si l’amour a agi alors que nous étions pécheurs et ennemis, la réconciliation reçue ouvre avec plus de force encore à l’espérance du salut dans la vie du Fils.",
+              "related": [
+                "μᾶλλον",
+                "σωθησόμεθα",
+                "ζωῇ"
+              ]
+            }
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plus"
+          },
+          {
+            "greek": "δικαιωθέντες",
+            "gloss": "ayant_été_justifiés"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par/dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "αἵματι",
+            "gloss": "sang"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "σωθησόμεθα",
+            "gloss": "nous_serons_sauvés"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de",
+            "annotation": {
+              "type": "traduction",
+              "title": "Sauvés de la colère",
+              "content": "Ἀπό marque ici l’éloignement ou la délivrance : sauvés « de » la colère par le Christ. Ce mouvement complète la réconciliation sans autoriser à réduire le salut à une simple fuite.",
+              "related": [
+                "σωθησόμεθα",
+                "ὀργῆς."
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὀργῆς.",
+            "gloss": "colère"
+          }
         ]
       },
       {
@@ -591,30 +2167,202 @@
           "darby": "Car si, étant ennemis, nous avons été réconciliés avec Dieu par la mort de son Fils, beaucoup plutôt, ayant été réconciliés, serons-nous sauvés par sa vie."
         },
         "interlinear": [
-          { "greek": "εἰ", "gloss": "Si" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἐχθροὶ", "gloss": "ennemis" },
-          { "greek": "ὄντες", "gloss": "étant" },
-          { "greek": "κατηλλάγημεν", "gloss": "nous_avons_été_réconciliés", "analyse": "Le verbe *katallassō* (changer, échanger de place, réconcilier). Le Monde duel est fondamentalement un monde d'inimitié et de compétition pour la survie ('ennemis'). La réconciliation n'est pas un traité de paix diplomatique, c'est l'échange ontologique absolu : le Fils prend notre mort pour nous donner Sa vie. Le Sujet est restauré dans la synaxe, la communion originelle." },
-          { "greek": "τῷ", "gloss": "à" },
-          { "greek": "θεῷ", "gloss": "Dieu" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "θανάτου", "gloss": "mort" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "υἱοῦ", "gloss": "Fils" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "πολλῷ", "gloss": "de_beaucoup" },
-          { "greek": "μᾶλλον", "gloss": "plus" },
-          { "greek": "καταλλαγέντες", "gloss": "ayant_été_réconciliés" },
-          { "greek": "σωθησόμεθα", "gloss": "nous_serons_sauvés" },
-          { "greek": "ἐν", "gloss": "dans/par" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "ζωῇ", "gloss": "vie" },
-          { "greek": "αὐτοῦ·", "gloss": "de_lui" }
+          {
+            "greek": "εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐχθροὶ",
+            "gloss": "ennemis"
+          },
+          {
+            "greek": "ὄντες",
+            "gloss": "étant"
+          },
+          {
+            "greek": "κατηλλάγημεν",
+            "gloss": "nous_avons_été_réconciliés",
+            "annotation": {
+              "type": "racine",
+              "title": "Nous avons été réconciliés",
+              "content": "Καταλλάσσω signifie réconcilier, faire passer d’une relation d’hostilité à une relation rétablie. Le passif souligne l’action reçue ; κατά appartient au verbe sans prouver à lui seul une mutation ontologique.",
+              "related": [
+                "ἐχθροὶ",
+                "θεῷ",
+                "θανάτου",
+                "καταλλαγέντες"
+              ]
+            }
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à"
+          },
+          {
+            "greek": "θεῷ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "θανάτου",
+            "gloss": "mort"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "υἱοῦ",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "πολλῷ",
+            "gloss": "de_beaucoup",
+            "annotation": {
+              "type": "repetition",
+              "title": "À bien plus forte raison",
+              "content": "Paul répète le raisonnement « combien plus ». Si l’amour a agi alors que nous étions pécheurs et ennemis, la réconciliation reçue ouvre avec plus de force encore à l’espérance du salut dans la vie du Fils.",
+              "related": [
+                "μᾶλλον",
+                "σωθησόμεθα",
+                "ζωῇ"
+              ]
+            }
+          },
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plus"
+          },
+          {
+            "greek": "καταλλαγέντες",
+            "gloss": "ayant_été_réconciliés"
+          },
+          {
+            "greek": "σωθησόμεθα",
+            "gloss": "nous_serons_sauvés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/par"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ζωῇ",
+            "gloss": "vie"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          }
         ]
       }
     ],
-   "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 3 - ἡ θλῖψις (hē thlipsis) : Traduit couramment par 'l'affliction' ou 'la tribulation'. Le terme grec désigne à l'origine une pression physique intense, un écrasement, comme celui des olives ou des raisins dans un pressoir. Paul n'évoque pas une souffrance psychologique stérile, mais une pression métaphysique. Cette pression du monde vient écraser la carapace de l'Ego (l'Arbre de la Connaissance) pour en extraire le vin nouveau de la persévérance. C'est l'étreinte douloureuse mais nécessaire par laquelle la dureté de l'homme est brisée.\n\n• Verset 5 - ἐκκέχυται (ekkechytai) : Traduit par 'est répandu'. Le verbe *ekcheo* est un verbe d'effusion totale, de jaillissement. C'est le même terme utilisé par Pierre à la Pentecôte pour décrire le déferlement de l'Esprit. L'Amour divin n'est pas distillé au compte-gouttes comme une récompense morale conditionnelle ; il est déversé à flots continus dans le 'creux' du cœur qui vient d'être évidé par l'écrasement de la *thlipsis*.\n\n• Verset 10 - κατηλλάγημεν (katēllagēmen) : Traduit par 'nous avons été réconciliés'. Le verbe *katallasso* est composé du préfixe *kata* (qui intensifie l'action) et de *allasso* (changer, modifier, échanger). La traduction française 'réconciliation' peut faire penser à un simple arrangement diplomatique ou juridique. En grec, c'est une mutation ontologique absolue : l'homme échange son état d'inimitié mondaine contre la Paix substantielle de Dieu.\n\nAnalyse spirituelle et mystagogique :\n\nL'Épître aux Romains fait ici un pont parfait avec l'Évangile de 'L'œil simple' lu ce même dimanche. Comment le *Nous* (l'intellect spirituel) de l'homme peut-il être purifié des anxiétés mortifères de Mammon ? Paul donne ici la méthode kénotique par excellence.\n\n1. L'épreuve comme purification du 'Nous'\nLe Monde duel rejette la tribulation (*thlipsis*), la fuyant par l'accumulation matérielle et le divertissement mimétique. Mais Paul montre que la pression de l'épreuve n'est pas une punition : elle est l'outil qui met en échec l'arrogance de l'Arbre de la Connaissance. En 'écrasant' les sécurités illusoires de l'Ego, la tribulation engendre l'endurance et prépare la matrice intérieure du Sujet. L'œil malade, jadis dispersé par l'anxiété, devient un œil 'simple', tourné vers une seule Espérance.\n\n2. L'effusion au cœur du creux\nUne fois l'homme évidé de sa complaisance, l'événement de la Pentecôte s'intériorise : l'Amour de Dieu est 'répandu' (*ekcheo*). Cet amour n'est pas un exploit psychologique humain, c'est la présence même de l'Esprit Saint qui inonde la capacité d'accueil de l'homme. Le croyant ne s'appuie plus sur ses propres forces (il est 'sans force', 'impie', 'ennemi'), mais sur l'Énergie divine.\n\n3. De l'inimitié à la Synaxe\nEnfin, la réconciliation (*katallage*) marque l'anéantissement de la séparation. L'Ego se définissait par l'hostilité et la peur de l'autre. Le sang du Christ (le sacrifice d'amour ultime) dissout cette hostilité cosmique. Justifié non par ses mérites mais par l'assimilation à la kénose du Fils, le Sujet chrétien pacifié peut alors incarner la confiance absolue décrite dans l'Évangile : puisqu'il a déjà reçu l'infiniment grand (la Vie de Dieu alors qu'il était ennemi), il n'a plus à s'inquiéter de l'infiniment petit (la nourriture et le vêtement)."
+    "personal_analysis": "Notes sur le texte grec :\n• Romains 5, 1 — Δικαιωθέντες : « ayant été justifiés, rendus justes ». Le participe passif présente la justification comme une action reçue, liée à la foi et ouvrant à la paix avec Dieu. Le vocabulaire possède une portée relationnelle et judiciaire ; il n’est pas nécessaire d’opposer un « acquittement extérieur » à un « réalignement ontologique ».\n• Romains 5, 1 — εἰρήνην ἔχομεν : « nous avons la paix ». Certains témoins anciens portent le subjonctif ἔχωμεν, « ayons la paix » ; le texte de l’application suit l’indicatif. Dans les deux cas, la paix est liée à Jésus-Christ et non à la maîtrise des circonstances.\n• Romains 5, 3 — θλῖψις : « pression, détresse, affliction ». Le champ du mot explique l’image de ce qui serre ou oppresse, mais Paul ne dit pas que Dieu écrase l’être humain pour briser son ego. Il affirme que l’épreuve traversée dans la foi peut produire endurance, caractère éprouvé et espérance.\n• Romains 5, 5 — ἐκκέχυται : parfait passif de ἐκχέω, « a été répandu et demeure répandu ». La même famille verbale est employée en Actes 2 pour l’effusion de l’Esprit. Ici, l’amour de Dieu est répandu dans les cœurs par l’Esprit Saint donné.\n• Romains 5, 10 — κατηλλάγημεν : « nous avons été réconciliés ». Καταλλάσσω signifie changer une relation d’hostilité en relation réconciliée. Le préfixe κατά participe à la formation du verbe, mais ne prouve pas à lui seul une « mutation ontologique absolue ».\n\nAnalyse spirituelle :\nPaul part d’un don déjà reçu : justifiés par la foi, nous avons la paix avec Dieu par Jésus-Christ. Cette paix ne signifie pas que les difficultés disparaissent. Elle désigne une relation rétablie et un accès à la grâce « dans laquelle nous demeurons ». Le croyant ne se tient donc pas sur sa capacité à sécuriser l’avenir, mais dans une grâce qui le précède et le porte.\n\nLa chaîne affliction, endurance, caractère éprouvé et espérance ne glorifie pas la souffrance. Paul parle de ce que la foi peut laisser mûrir au cœur des détresses. L’endurance n’est pas résignation ; le caractère éprouvé n’est pas autosuffisance ; l’espérance ne repose pas sur un optimisme fabriqué. Elle ne déçoit pas parce que l’amour de Dieu a été répandu par l’Esprit Saint.\n\nLe centre du passage n’est donc pas l’exploit du croyant, mais l’initiative divine. Le Christ meurt pour les impies alors que nous sommes encore faibles et pécheurs. Paul souligne plusieurs fois « encore » et « pour nous » : l’amour est démontré avant toute amélioration qui pourrait le mériter.\n\nLa conclusion déploie un raisonnement du plus grand au plus grand encore : si, ennemis, nous avons été réconciliés par la mort du Fils, combien plus serons-nous sauvés dans sa vie. Ce mouvement rejoint l’Évangile : la confiance concernant les besoins quotidiens ne naît pas d’une négation du réel, mais de la contemplation du don déjà reçu dans le Christ.",
+    "homiletic_axes": [
+      {
+        "title": "La paix avec Dieu, reçue par le Christ",
+        "content": "La justification conduit à une relation de paix et à l’accès à la grâce. Le croyant demeure dans un don avant de pouvoir raconter ce qu’il produit dans l’épreuve.",
+        "keywords": [
+          "Δικαιωθέντες",
+          "πίστεως",
+          "εἰρήνην",
+          "προσαγωγὴν",
+          "χάριν",
+          "ἑστήκαμεν,"
+        ]
+      },
+      {
+        "title": "De l’affliction à l’espérance, sans glorifier la souffrance",
+        "content": "Paul décrit une maturation possible dans l’épreuve : endurance, caractère éprouvé, espérance. La souffrance n’est ni recherchée ni appelée bonne en elle-même.",
+        "keywords": [
+          "θλῖψις",
+          "ὑπομονὴν",
+          "δοκιμήν,",
+          "ἐλπίδα·",
+          "καταισχύνει,"
+        ]
+      },
+      {
+        "title": "L’amour répandu par l’Esprit",
+        "content": "L’espérance reçoit son assurance de l’action de Dieu : son amour a été répandu dans les cœurs par l’Esprit Saint donné. Le parfait grec suggère un don accompli dont l’effet demeure.",
+        "keywords": [
+          "ἀγάπη",
+          "ἐκκέχυται",
+          "καρδίαις",
+          "πνεύματος",
+          "δοθέντος"
+        ]
+      },
+      {
+        "title": "Alors que nous étions encore faibles, pécheurs et ennemis",
+        "content": "Le Christ ne répond pas à un mérite préalable. Sa mort manifeste l’amour de Dieu pour ceux qui sont sans force et pécheurs ; la réconciliation ouvre à la vie du Fils.",
+        "keywords": [
+          "ἀσθενῶν",
+          "ἁμαρτωλῶν",
+          "ὑπὲρ",
+          "ἀπέθανεν.",
+          "ἐχθροὶ",
+          "κατηλλάγημεν",
+          "ζωῇ"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre fil : justification, paix, accès, grâce, demeure, affliction, endurance, espérance, amour répandu, faiblesse, mort pour nous, réconciliation ou vie du Fils."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l’Apôtre",
+        "prompt": "Suivez une progression : de la justification à la paix et à la grâce ; de l’épreuve à l’espérance ; de notre faiblesse à l’amour démontré ; ou de l’inimitié à la réconciliation et à la vie."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Annoncez le don central : Dieu ne nous attend pas après notre amélioration ; dans le Christ, il justifie, réconcilie et donne son Esprit alors que nous sommes encore faibles et pécheurs."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une situation : paix dépendante des circonstances, épreuve qui serre, endurance épuisée, espérance déçue, difficulté à recevoir un amour non mérité, culpabilité ou relation hostile à réconcilier."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Proposez un passage concret : demeurer dans la grâce, demander la paix, traverser l’épreuve accompagné, reconnaître une espérance déjà à l’œuvre, accueillir l’amour donné ou accomplir un geste de réconciliation."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Ne présentez pas la souffrance comme voulue pour purifier. Faites entendre l’enchaînement de Paul, puis ralentissez sur « alors que nous étions encore » et terminez sur la vie du Fils."
+      }
+    ],
+    "liturgical_echoes": []
   }
-  }
+}
