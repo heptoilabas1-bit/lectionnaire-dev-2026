@@ -2,625 +2,2146 @@
   "gospel": {
     "reference": "Matthieu 18, 23-35",
     "title": "La Parabole du Serviteur Impitoyable : La Mesure du Pardon",
-    "interlinear":[
-  {
-    "verse_number": 23,
-    "translations": {
-      "segond": "C'est pourquoi, le royaume des cieux est semblable à un roi qui voulut faire rendre compte à ses serviteurs.",
-      "darby": "C'est pourquoi le royaume des cieux a été fait semblable à un roi qui voulut compter avec ses esclaves."
-    },
     "interlinear": [
-      { "greek": "Διὰ", "gloss": "À_cause_de" },
-      { "greek": "τοῦτο", "gloss": "cela" },
-      { "greek": "ὡμοιώθη", "gloss": "a_été_comparé/rendu_semblable" },
-      { "greek": "ἡ", "gloss": "le" },
-      { "greek": "βασιλεία", "gloss": "royaume" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "οὐρανῶν", "gloss": "cieux" },
-      { "greek": "ἀνθρώπῳ", "gloss": "à_un_homme" },
-      { "greek": "βασιλεῖ,", "gloss": "roi" },
-      { "greek": "ὃς", "gloss": "qui" },
-      { "greek": "ἠθέλησεν", "gloss": "voulut" },
-      { "greek": "συνᾶραι", "gloss": "régler/lever_avec" },
-      { "greek": "λόγον", "gloss": "compte/parole" },
-      { "greek": "μετὰ", "gloss": "avec" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "δούλων", "gloss": "esclaves/serviteurs" },
-      { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+      {
+        "verse_number": 23,
+        "translations": {
+          "segond": "C'est pourquoi, le royaume des cieux est semblable à un roi qui voulut faire rendre compte à ses serviteurs.",
+          "darby": "C'est pourquoi le royaume des cieux a été fait semblable à un roi qui voulut compter avec ses esclaves."
+        },
+        "interlinear": [
+          {
+            "greek": "Διὰ",
+            "gloss": "À_cause_de"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "ὡμοιώθη",
+            "gloss": "a_été_comparé/rendu_semblable"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλεία",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "οὐρανῶν",
+            "gloss": "cieux"
+          },
+          {
+            "greek": "ἀνθρώπῳ",
+            "gloss": "à_un_homme"
+          },
+          {
+            "greek": "βασιλεῖ,",
+            "gloss": "roi"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἠθέλησεν",
+            "gloss": "voulut"
+          },
+          {
+            "greek": "συνᾶραι",
+            "gloss": "régler/lever_avec"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "compte/parole"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "δούλων",
+            "gloss": "esclaves/serviteurs"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 24,
+        "translations": {
+          "segond": "Quand il se mit à compter, on lui en amena un qui devait dix mille talents.",
+          "darby": "Et quand il eut commencé à compter, on lui en amena un qui lui devait dix mille talents ;"
+        },
+        "interlinear": [
+          {
+            "greek": "ἀρξαμένου",
+            "gloss": "Ayant_commencé"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "συναίρειν",
+            "gloss": "à_régler"
+          },
+          {
+            "greek": "προσηνέχχθη",
+            "gloss": "fut_amené"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un"
+          },
+          {
+            "greek": "ὀφειλέτης",
+            "gloss": "débiteur"
+          },
+          {
+            "greek": "μυρίων",
+            "gloss": "de_dix_mille"
+          },
+          {
+            "greek": "ταλάντων.",
+            "gloss": "talents",
+            "annotation": {
+              "type": "traduction",
+              "title": "Une dette démesurée",
+              "content": "Dix mille talents représentent une somme volontairement démesurée, hors de portée d’un serviteur. Les équivalences monétaires modernes varient trop pour donner un chiffre sûr ; l’effet narratif demeure celui d’une dette impossible à rembourser.",
+              "related": [
+                "ὀφειλέτης",
+                "μυρίων"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 25,
+        "translations": {
+          "segond": "Comme il n'avait pas de quoi payer, son maître ordonna qu'il fût vendu, lui, sa femme, ses enfants, et tout ce qu'il avait, et que la dette fût acquittée.",
+          "darby": "mais comme il n'avait pas de quoi payer, son seigneur ordonna qu'il fût vendu, lui, et sa femme, et ses enfants, et tout ce qu'il avait, et que le paiement fût fait."
+        },
+        "interlinear": [
+          {
+            "greek": "μὴ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "ἔχοντος",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἀποδοῦναι",
+            "gloss": "à_rendre/payer"
+          },
+          {
+            "greek": "ἐκέλευσεν",
+            "gloss": "ordonna"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "πραθῆναι",
+            "gloss": "être_vendu",
+            "annotation": {
+              "type": "analyse",
+              "title": "L’être humain réduit à une dette",
+              "content": "Approfondissement spirituel : La vente de la famille est l'expression parfaite de la matrice du Monde duel : la justice horizontale, transactionnelle et impitoyable. Dans ce système, l'homme n'est pas un Sujet, il est un objet, une marchandise soumise à la loi des causes et des conséquences (le karma).",
+              "related": [
+                "ὁ",
+                "κύριος",
+                "καὶ",
+                "τὴν"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυναῖκα",
+            "gloss": "femme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "τέκνα",
+            "gloss": "enfants"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ὅσα",
+            "gloss": "ce_qu'"
+          },
+          {
+            "greek": "ἔχει",
+            "gloss": "il_a"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποδοθῆναι.",
+            "gloss": "que_ce_soit_rendu"
+          }
+        ]
+      },
+      {
+        "verse_number": 26,
+        "translations": {
+          "segond": "Le serviteur, se jetant à terre, se prosterna devant lui, et dit : Seigneur, aie patience envers moi, et je te paierai tout.",
+          "darby": "L'esclave donc, se jetant à terre, lui rendit hommage, disant : Maître, use de patience envers moi, et je te payerai tout."
+        },
+        "interlinear": [
+          {
+            "greek": "πεσὼν",
+            "gloss": "Étant_tombé"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "δοῦλος",
+            "gloss": "esclave"
+          },
+          {
+            "greek": "προσεκύνει",
+            "gloss": "se_prosterna"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Μακροθύμησον",
+            "gloss": "Use_de_patience/Sois_longanime"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "envers"
+          },
+          {
+            "greek": "ἐμοί,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ἀποδώσω",
+            "gloss": "je_rendrai/paierai",
+            "annotation": {
+              "type": "repetition",
+              "title": "« Je te rendrai tout »",
+              "content": "Approfondissement spirituel : L'illusion tragique de l'Ego religieux. Face à une dette infinie, le serviteur reste enfermé dans la logique transactionnelle : 'je te paierai tout'. Il croit pouvoir apaiser le divin par ses propres efforts horizontaux. Il refuse d'admettre son impuissance absolue.",
+              "related": [
+                "καὶ",
+                "πάντα",
+                "σοι."
+              ]
+            }
+          },
+          {
+            "greek": "σοι.",
+            "gloss": "à_toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 27,
+        "translations": {
+          "segond": "Ému de compassion, le maître de ce serviteur le laissa aller, et lui remit la dette.",
+          "darby": "Et le seigneur de cet esclave-là, ému de compassion, le relâcha et lui remit la dette."
+        },
+        "interlinear": [
+          {
+            "greek": "σπλαγχνισθεὶς",
+            "gloss": "Ayant_été_ému_aux_entrailles",
+            "annotation": {
+              "type": "traduction",
+              "title": "Saisi de compassion",
+              "content": "Approfondissement spirituel : Le verbe *splagchnizomai*. Le Roi (Dieu) ne répond pas à l'illusion du serviteur par un échéancier. Son amour est viscéral, il fait exploser le droit commercial. C'est l'irruption du Royaume UN : la Grâce ne calcule pas.",
+              "related": [
+                "δὲ",
+                "ὁ"
+              ]
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "δούλου",
+            "gloss": "esclave"
+          },
+          {
+            "greek": "ἐκείνου",
+            "gloss": "ce...-là"
+          },
+          {
+            "greek": "ἀπέλυσεν",
+            "gloss": "délia/relâcha"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "le"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δάνειον",
+            "gloss": "dette/prêt"
+          },
+          {
+            "greek": "ἀφῆκεν",
+            "gloss": "il_remit/pardonna",
+            "annotation": {
+              "type": "racine",
+              "title": "Il remit la dette",
+              "content": "Approfondissement spirituel : Le verbe *aphiemi* (laisser aller, pardonner). Le Seigneur 'lâche' la dette. Il ne l'efface pas magiquement, Il l'absorbe sur Lui-même (la kénose du Père). L'homme est subitement propulsé dans la liberté totale, sans aucun mérite.",
+              "related": [
+                "τὸ",
+                "δάνειον",
+                "αὐτῷ."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῷ.",
+            "gloss": "à_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 28,
+        "translations": {
+          "segond": "Après qu'il fut sorti, ce serviteur rencontra un de ses compagnons qui lui devait cent deniers. Il le saisit et l'étranglait, en disant : Paie ce que tu me dois.",
+          "darby": "Mais cet esclave-là, étant sorti, trouva un de ses compagnons d'esclavage qui lui devait cent deniers ; et le saisissant, il l'étranglait, disant : Payeras-tu pas ce que tu dois ?"
+        },
+        "interlinear": [
+          {
+            "greek": "ἐξελθὼν",
+            "gloss": "Étant_sorti"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "δοῦλος",
+            "gloss": "esclave"
+          },
+          {
+            "greek": "ἐκεῖνος",
+            "gloss": "ce...-là"
+          },
+          {
+            "greek": "εὗρεν",
+            "gloss": "trouva"
+          },
+          {
+            "greek": "ἕνα",
+            "gloss": "un"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "συνδούλων",
+            "gloss": "compagnons_d'esclavage"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ὤφειλεν",
+            "gloss": "devait"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ἑκατὸν",
+            "gloss": "cent"
+          },
+          {
+            "greek": "δηνάρια,",
+            "gloss": "deniers"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κρατήσας",
+            "gloss": "l'ayant_saisi"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἔπνιγεν",
+            "gloss": "il_l'étranglait",
+            "annotation": {
+              "type": "traduction",
+              "title": "Il l’étranglait",
+              "content": "Πνίγω signifie étouffer ou étrangler. La scène montre la violence d’une dette devenue instrument d’emprise. Le contraste spirituel avec le souffle donné et reçu est fécond pour l’homélie, sans supposer une parenté étymologique avec πνεῦμα.",
+              "related": [
+                "κρατήσας",
+                "αὐτὸν",
+                "λέγων·",
+                "Ἀπόδος"
+              ]
+            }
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἀπόδος",
+            "gloss": "Rends/Paie"
+          },
+          {
+            "greek": "εἴ",
+            "gloss": "si"
+          },
+          {
+            "greek": "τι",
+            "gloss": "quelque_chose"
+          },
+          {
+            "greek": "ὀφείλεις.",
+            "gloss": "tu_dois"
+          }
+        ]
+      },
+      {
+        "verse_number": 29,
+        "translations": {
+          "segond": "Son compagnon, se jetant à terre, le suppliait, disant : Aie patience envers moi, et je te paierai.",
+          "darby": "Son compagnon d'esclavage donc, se jetant à ses pieds, le suppliait, disant : Use de patience envers moi, et je te payerai."
+        },
+        "interlinear": [
+          {
+            "greek": "πεσὼν",
+            "gloss": "Étant_tombé"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σύνδουλος",
+            "gloss": "compagnon_d'esclavage"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "παρεκάλει",
+            "gloss": "le_suppliait"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Μακροθύμησον",
+            "gloss": "Use_de_patience"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "envers"
+          },
+          {
+            "greek": "ἐμοί,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποδώσω",
+            "gloss": "je_rendrai/paierai"
+          },
+          {
+            "greek": "σοι.",
+            "gloss": "à_toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 30,
+        "translations": {
+          "segond": "Mais l'autre ne voulut pas, et il alla le jeter en prison, jusqu'à ce qu'il eût payé ce qu'il devait.",
+          "darby": "Mais il ne voulut pas, et s'en alla et le jeta en prison, jusqu'à ce qu'il eût payé la dette."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "L'"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἤθελεν,",
+            "gloss": "il_voulait"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἀπελθὼν",
+            "gloss": "s'en_étant_allé"
+          },
+          {
+            "greek": "ἔβαλεν",
+            "gloss": "il_jeta"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "φυλακὴν",
+            "gloss": "la_prison",
+            "annotation": {
+              "type": "analyse",
+              "title": "Jeté en prison",
+              "content": "Approfondissement spirituel : La *phylake* (la prison, la garde). Refuser le pardon, c'est enfermer l'autre dans la matrice juridique du karma et de la dette. Mais spirituellement, en jetant son frère en prison, l'Ego s'enferme lui-même. Il refuse la logique du Royaume UN pour réinstaurer les barreaux du Monde duel.",
+              "related": [
+                "αὐτὸν",
+                "εἰς",
+                "ἕως",
+                "ἀποδῷ"
+              ]
+            }
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "ἀποδῷ",
+            "gloss": "qu'il_rende"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὀφειλόμενον.",
+            "gloss": "étant_dû"
+          }
+        ]
+      },
+      {
+        "verse_number": 31,
+        "translations": {
+          "segond": "Ses compagnons, ayant vu ce qui était arrivé, furent profondément attristés, et ils allèrent raconter à leur maître tout ce qui s'était passé.",
+          "darby": "Mais ses compagnons d'esclavage, voyant ce qui était arrivé, furent fort attristés ; et ils allèrent et déclarèrent à leur seigneur tout ce qui s'était passé."
+        },
+        "interlinear": [
+          {
+            "greek": "ἰδόντες",
+            "gloss": "Ayant_vu"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "σύνδουλοι",
+            "gloss": "compagnons"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "γενόμενα",
+            "gloss": "étant_arrivées"
+          },
+          {
+            "greek": "ἐλυπήθησαν",
+            "gloss": "furent_attristés"
+          },
+          {
+            "greek": "σφόδρα,",
+            "gloss": "extrêmement"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐλθόντες",
+            "gloss": "étant_venus"
+          },
+          {
+            "greek": "διεσάφησαν",
+            "gloss": "ils_expliquèrent/déclarèrent"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "ἑαυτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "γενόμενα.",
+            "gloss": "étant_arrivées"
+          }
+        ]
+      },
+      {
+        "verse_number": 32,
+        "translations": {
+          "segond": "Alors le maître fit appeler ce serviteur, et lui dit : Méchant serviteur, je t'avais remis en entier ta dette, parce que tu m'en avais supplié ;",
+          "darby": "Alors son seigneur, l'ayant appelé, lui dit : Méchant esclave, je t'ai remis toute cette dette, parce que tu m'en as supplié ;"
+        },
+        "interlinear": [
+          {
+            "greek": "τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "προσκαλεσάμενος",
+            "gloss": "l'ayant_appelé"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Δοῦλε",
+            "gloss": "Esclave"
+          },
+          {
+            "greek": "πονηρέ,",
+            "gloss": "méchant/mauvais"
+          },
+          {
+            "greek": "πᾶσαν",
+            "gloss": "toute"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὀφειλὴν",
+            "gloss": "dette"
+          },
+          {
+            "greek": "ἐκείνην",
+            "gloss": "cette...-là"
+          },
+          {
+            "greek": "ἀφῆκά",
+            "gloss": "je_remis"
+          },
+          {
+            "greek": "σοι,",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ἐπεὶ",
+            "gloss": "puisque"
+          },
+          {
+            "greek": "παρεκάλεσάς",
+            "gloss": "tu_as_supplié"
+          },
+          {
+            "greek": "με·",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 33,
+        "translations": {
+          "segond": "ne devais-tu pas aussi avoir pitié de ton compagnon, comme j'ai eu pitié de toi ?",
+          "darby": "ne devais-tu pas aussi avoir pitié de ton compagnon d'esclavage, comme moi aussi j'ai eu pitié de toi ?"
+        },
+        "interlinear": [
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔδει",
+            "gloss": "fallait-il"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "σὲ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἐλεῆσαι",
+            "gloss": "faire_miséricorde",
+            "annotation": {
+              "type": "theologie",
+              "title": "Faire miséricorde comme on l’a reçue",
+              "content": "Approfondissement spirituel : Le verbe *eleeo*. La miséricorde divine n'est pas un concept juridique, c'est une dynamique fluide. Le pardon que Dieu accorde à l'homme doit impérativement devenir le pardon que l'homme accorde à son frère. C'est l'imitation de la kénose qui unifie le Royaume.",
+              "related": [
+                "καὶ",
+                "σὲ",
+                "τὸν",
+                "σύνδουλόν"
+              ]
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "au"
+          },
+          {
+            "greek": "σύνδουλόν",
+            "gloss": "compagnon"
+          },
+          {
+            "greek": "σου,",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "κἀγὼ",
+            "gloss": "aussi_moi"
+          },
+          {
+            "greek": "σὲ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἠλέησα;",
+            "gloss": "j'ai_fait_miséricorde"
+          }
+        ]
+      },
+      {
+        "verse_number": 34,
+        "translations": {
+          "segond": "Et son maître, irrité, le livra aux bourreaux, jusqu'à ce qu'il eût payé tout ce qu'il devait.",
+          "darby": "Et son seigneur, étant en colère, le livra aux bourreaux, jusqu'à ce qu'il eût payé tout ce qui lui était dû."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ὀργισθεὶς",
+            "gloss": "étant_irrité"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "παρέδωκεν",
+            "gloss": "livra"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "βασανισταῖς",
+            "gloss": "bourreaux/tourmenteurs",
+            "annotation": {
+              "type": "analyse",
+              "title": "Livré aux tourmenteurs",
+              "content": "Approfondissement spirituel : Les *basanistai* (ceux qui torturent). En refusant la Grâce, le serviteur s'est lui-même replacé sous la loi implacable de la justice rétributive du Monde duel. Dieu ne le 'punit' pas par vengeance ; Il l'abandonne simplement aux conséquences de son propre système égoïste, un tourment sans fin puisque la dette (10 000 talents) est impayable.",
+              "related": [
+                "αὐτὸν",
+                "τοῖς",
+                "ἕως",
+                "οὗ"
+              ]
+            }
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "οὗ",
+            "gloss": "ce_qu'"
+          },
+          {
+            "greek": "ἀποδῷ",
+            "gloss": "il_rende"
+          },
+          {
+            "greek": "πᾶν",
+            "gloss": "tout"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὀφειλόμενον.",
+            "gloss": "étant_dû"
+          }
+        ]
+      },
+      {
+        "verse_number": 35,
+        "translations": {
+          "segond": "C'est ainsi que mon Père céleste vous traitera, si chacun de vous ne pardonne à son frère de tout son cœur.",
+          "darby": "Ainsi aussi mon Père céleste vous fera, si vous ne pardonnez pas de tout votre cœur, chacun à son frère."
+        },
+        "interlinear": [
+          {
+            "greek": "Οὕτως",
+            "gloss": "Ainsi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατήρ",
+            "gloss": "père"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὐράνιος",
+            "gloss": "céleste"
+          },
+          {
+            "greek": "ποιήσει",
+            "gloss": "fera"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἀφῆτε",
+            "gloss": "vous_pardonnez"
+          },
+          {
+            "greek": "ἕκαστος",
+            "gloss": "chacun"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "ἀδελφῷ",
+            "gloss": "frère"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis/de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρδιῶν",
+            "gloss": "cœurs",
+            "annotation": {
+              "type": "theologie",
+              "title": "Pardonner du fond du cœur",
+              "content": "Approfondissement spirituel : L'expression *apo ton kardion* (à partir des cœurs). Le pardon n'est pas une formalité polie ou une simple amnistie verbale. Il doit jaillir du cœur, c'est-à-dire du centre ontologique du Sujet. Si le cœur est bloqué par l'Ego, l'homme ne peut pas participer au Royaume.",
+              "related": [
+                "ἀπὸ",
+                "τῶν",
+                "ὑμῶν."
+              ]
+            }
+          },
+          {
+            "greek": "ὑμῶν.",
+            "gloss": "de_vous"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 28 - ἔπνιγεν : 'Étranglait'. Le réalisme sordide du verbe *pnigo* montre à quel point l'Ego non guéri est prédateur. C'est l'antithèse absolue de l'Esprit (*pneuma*), qui donne le souffle. L'Ego étouffe l'autre pour récupérer son dû.\n• Verset 34 - βασανισταῖς : Segond traduit par 'bourreaux'. Parfois lissé en 'gardiens' ou 'geôliers' dans d'autres versions. Le terme grec désigne bien les 'tourmenteurs'. C'est le retour inévitable à la torture mentale et spirituelle (*basanizo*) du Monde duel lorsqu'on se coupe de la miséricorde.\n\nAnalyse spirituelle :\nCette parabole est le scanner théologique de notre hypocrisie. Le drame commence par un vertige mathématique : le serviteur doit au Roi 10 000 talents (des milliards), une dette ontologique infinie symbolisant la séparation absolue entre l'Ego et Dieu. Le serviteur, dans sa folie, croit pouvoir payer ('je te paierai tout'). Mais le Roi (Dieu) ignore cette logique comptable. Dans un acte de pure kénose, le Roi absorbe la perte et libère le serviteur. C'est l'irruption du 'Royaume UN'.\n\nCependant, la Grâce reçue verticalement n'est pas devenue l'identité du serviteur. Il sort, et immédiatement la matrice du 'Monde duel' reprend le contrôle. Pour 100 misérables deniers (le karma horizontal de nos petites querelles), il étrangle son compagnon. Il refuse d'être le canal de la *dynamis* (l'énergie de pardon) qui vient de le sauver.\n\nLa sentence finale n'est pas la colère d'un Dieu vengeur, mais une loi de physique spirituelle : l'homme qui refuse de transmettre la Grâce s'exclut lui-même de son circuit. Il est re-livré aux 'tourmenteurs' (les lois implacables du karma, du jugement, de la cause et de l'effet) jusqu'à ce qu'il paie une dette qui, par définition, est impayable. Le pardon depuis le cœur (*kardia*) n'est donc pas une simple option morale, c'est la seule respiration possible pour que le Sujet survive dans l'Amour incréé.\n\nComplément de lecture : le roi remet une dette incalculable avant que le serviteur n’ait rien remboursé. Mais celui-ci sort et rétablit aussitôt la logique du dû. Le pardon reçu demande donc à devenir une circulation de miséricorde, depuis le cœur, sans confondre pardon spirituel, déni du mal et absence de justice protectrice.",
+    "homiletic_axes": [
+      {
+        "title": "Une dette qu’aucun effort ne peut combler",
+        "content": "La somme démesurée révèle l’impossibilité de la logique transactionnelle. La compassion du roi précède tout remboursement.",
+        "keywords": [
+          "μυρίων",
+          "ταλάντων.",
+          "σπλαγχνισθεὶς",
+          "ἀφῆκεν"
+        ]
+      },
+      {
+        "title": "Recevoir sans laisser circuler",
+        "content": "À peine libéré, le serviteur étrangle son compagnon pour une dette bien moindre. Le don reçu n’a pas encore transformé son rapport à l’autre.",
+        "keywords": [
+          "ἐξελθὼν",
+          "ἔπνιγεν",
+          "Ἀπόδος",
+          "φυλακὴν"
+        ]
+      },
+      {
+        "title": "Pardonner du cœur sans nier la justice",
+        "content": "La parabole vise le refus de la miséricorde. Elle n’oblige pas une victime à supprimer les limites nécessaires ni à se remettre sous l’emprise du mal.",
+        "keywords": [
+          "ἐλεῆσαι",
+          "καρδιῶν",
+          "ἀδελφῷ",
+          "ὑμῶν"
+        ]
+      },
+      {
+        "title": "Un droit librement déposé pour l’Évangile",
+        "content": "Paul affirme le droit des ouvriers apostoliques à vivre de leur service, puis renonce à l’exercer pour ne pas barrer la route à l’Évangile.",
+        "keywords": [
+          "ἐξουσίαν",
+          "πνευματικὰ",
+          "ἐχρησάμεθα",
+          "ἐγκοπὴν"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 11e dimanche : une parole, un geste, un contraste, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez d’abord la progression du récit évangélique, puis voyez comment l’Apôtre l’approfondit, la déplace ou en manifeste le fruit ecclésial. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète véritablement éclairée par les textes : peur, impuissance, dette, attachement, appropriation, division, besoin d’être saisi ou difficulté à recevoir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans imposer un modèle unique : crier vers le Christ, pardonner, renoncer à un droit, suivre, servir, veiller, partager ou se laisser reconstruire."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la dette remise au droit abandonné",
+        "reference": "Matthieu 18, 23-35 ; 1 Corinthiens 9, 2-12",
+        "content": "Le roi renonce à recouvrer une dette impossible ; Paul renonce à exercer un droit pourtant légitime. Les deux lectures interrogent la liberté intérieure devant ce qui nous est dû et la circulation concrète de la grâce.",
+        "connections": []
+      }
     ]
   },
-  {
-    "verse_number": 24,
-    "translations": {
-      "segond": "Quand il se mit à compter, on lui en amena un qui devait dix mille talents.",
-      "darby": "Et quand il eut commencé à compter, on lui en amena un qui lui devait dix mille talents ;"
-    },
+  "apostle": {
+    "reference": "1 Corinthiens 9, 2-12",
+    "title": "La Défense de l'Apostolat et le Renoncement aux Droits",
     "interlinear": [
-      { "greek": "ἀρξαμένου", "gloss": "Ayant_commencé" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "αὐτοῦ", "gloss": "lui" },
-      { "greek": "συναίρειν", "gloss": "à_régler" },
-      { "greek": "προσηνέχχθη", "gloss": "fut_amené" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "εἷς", "gloss": "un" },
-      { "greek": "ὀφειλέτης", "gloss": "débiteur" },
-      { "greek": "μυρίων", "gloss": "de_dix_mille" },
-      { "greek": "ταλάντων.", "gloss": "talents", "analyse": "Dix mille talents équivalent à des milliards d'euros aujourd'hui (le budget d'un empire). C'est une dette mathématiquement impossible à rembourser. Elle symbolise la dette ontologique de l'homme séparé de sa Source : le vide infini de l'Ego que rien dans le Monde duel ne peut combler." }
-    ]
-  },
-  {
-    "verse_number": 25,
-    "translations": {
-      "segond": "Comme il n'avait pas de quoi payer, son maître ordonna qu'il fût vendu, lui, sa femme, ses enfants, et tout ce qu'il avait, et que la dette fût acquittée.",
-      "darby": "mais comme il n'avait pas de quoi payer, son seigneur ordonna qu'il fût vendu, lui, et sa femme, et ses enfants, et tout ce qu'il avait, et que le paiement fût fait."
-    },
-    "interlinear": [
-      { "greek": "μὴ", "gloss": "Ne...pas" },
-      { "greek": "ἔχοντος", "gloss": "ayant" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "ἀποδοῦναι", "gloss": "à_rendre/payer" },
-      { "greek": "ἐκέλευσεν", "gloss": "ordonna" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "κύριος", "gloss": "seigneur" },
-      { "greek": "πραθῆναι", "gloss": "être_vendu", "analyse": "La vente de la famille est l'expression parfaite de la matrice du Monde duel : la justice horizontale, transactionnelle et impitoyable. Dans ce système, l'homme n'est pas un Sujet, il est un objet, une marchandise soumise à la loi des causes et des conséquences (le karma)." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "γυναῖκα", "gloss": "femme" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "τέκνα", "gloss": "enfants" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πάντα", "gloss": "tout" },
-      { "greek": "ὅσα", "gloss": "ce_qu'" },
-      { "greek": "ἔχει", "gloss": "il_a" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀποδοθῆναι.", "gloss": "que_ce_soit_rendu" }
-    ]
-  },
-  {
-    "verse_number": 26,
-    "translations": {
-      "segond": "Le serviteur, se jetant à terre, se prosterna devant lui, et dit : Seigneur, aie patience envers moi, et je te paierai tout.",
-      "darby": "L'esclave donc, se jetant à terre, lui rendit hommage, disant : Maître, use de patience envers moi, et je te payerai tout."
-    },
-    "interlinear": [
-      { "greek": "πεσὼν", "gloss": "Étant_tombé" },
-      { "greek": "οὖν", "gloss": "donc" },
-      { "greek": "ὁ", "gloss": "l'" },
-      { "greek": "δοῦλος", "gloss": "esclave" },
-      { "greek": "προσεκύνει", "gloss": "se_prosterna" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "λέγων·", "gloss": "disant" },
-      { "greek": "Μακροθύμησον", "gloss": "Use_de_patience/Sois_longanime" },
-      { "greek": "ἐπ’", "gloss": "envers" },
-      { "greek": "ἐμοί,", "gloss": "moi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πάντα", "gloss": "tout" },
-      { "greek": "ἀποδώσω", "gloss": "je_rendrai/paierai", "analyse": "L'illusion tragique de l'Ego religieux. Face à une dette infinie, le serviteur reste enfermé dans la logique transactionnelle : 'je te paierai tout'. Il croit pouvoir apaiser le divin par ses propres efforts horizontaux. Il refuse d'admettre son impuissance absolue." },
-      { "greek": "σοι.", "gloss": "à_toi" }
-    ]
-  },
-  {
-    "verse_number": 27,
-    "translations": {
-      "segond": "Ému de compassion, le maître de ce serviteur le laissa aller, et lui remit la dette.",
-      "darby": "Et le seigneur de cet esclave-là, ému de compassion, le relâcha et lui remit la dette."
-    },
-    "interlinear": [
-      { "greek": "σπλαγχνισθεὶς", "gloss": "Ayant_été_ému_aux_entrailles", "analyse": "Le verbe *splagchnizomai*. Le Roi (Dieu) ne répond pas à l'illusion du serviteur par un échéancier. Son amour est viscéral, il fait exploser le droit commercial. C'est l'irruption du Royaume UN : la Grâce ne calcule pas." },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "κύριος", "gloss": "seigneur" },
-      { "greek": "τοῦ", "gloss": "de_l'" },
-      { "greek": "δούλου", "gloss": "esclave" },
-      { "greek": "ἐκείνου", "gloss": "ce...-là" },
-      { "greek": "ἀπέλυσεν", "gloss": "délia/relâcha" },
-      { "greek": "αὐτόν,", "gloss": "le" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "δάνειον", "gloss": "dette/prêt" },
-      { "greek": "ἀφῆκεν", "gloss": "il_remit/pardonna", "analyse": "Le verbe *aphiemi* (laisser aller, pardonner). Le Seigneur 'lâche' la dette. Il ne l'efface pas magiquement, Il l'absorbe sur Lui-même (la kénose du Père). L'homme est subitement propulsé dans la liberté totale, sans aucun mérite." },
-      { "greek": "αὐτῷ.", "gloss": "à_lui" }
-    ]
-  },
-   {
-    "verse_number": 28,
-    "translations": {
-      "segond": "Après qu'il fut sorti, ce serviteur rencontra un de ses compagnons qui lui devait cent deniers. Il le saisit et l'étranglait, en disant : Paie ce que tu me dois.",
-      "darby": "Mais cet esclave-là, étant sorti, trouva un de ses compagnons d'esclavage qui lui devait cent deniers ; et le saisissant, il l'étranglait, disant : Payeras-tu pas ce que tu dois ?"
-    },
-    "interlinear": [
-      { "greek": "ἐξελθὼν", "gloss": "Étant_sorti" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ὁ", "gloss": "l'" },
-      { "greek": "δοῦλος", "gloss": "esclave" },
-      { "greek": "ἐκεῖνος", "gloss": "ce...-là" },
-      { "greek": "εὗρεν", "gloss": "trouva" },
-      { "greek": "ἕνα", "gloss": "un" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "συνδούλων", "gloss": "compagnons_d'esclavage" },
-      { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-      { "greek": "ὃς", "gloss": "qui" },
-      { "greek": "ὤφειλεν", "gloss": "devait" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "ἑκατὸν", "gloss": "cent" },
-      { "greek": "δηνάρια,", "gloss": "deniers" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "κρατήσας", "gloss": "l'ayant_saisi" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "ἔπνιγεν", "gloss": "il_l'étranglait", "analyse": "Le verbe *pnigo* (étouffer, étrangler). L'image est d'une violence inouïe. Le pardon divin est un souffle, une Énergie qui doit circuler. L'Ego, en refusant de pardonner, 'étrangle' littéralement la vie de l'autre et bloque le flux de la Grâce. Il retourne instantanément à la prédation animale du Monde duel." },
-      { "greek": "λέγων·", "gloss": "disant" },
-      { "greek": "Ἀπόδος", "gloss": "Rends/Paie" },
-      { "greek": "εἴ", "gloss": "si" },
-      { "greek": "τι", "gloss": "quelque_chose" },
-      { "greek": "ὀφείλεις.", "gloss": "tu_dois" }
-    ]
-  },
-  {
-    "verse_number": 29,
-    "translations": {
-      "segond": "Son compagnon, se jetant à terre, le suppliait, disant : Aie patience envers moi, et je te paierai.",
-      "darby": "Son compagnon d'esclavage donc, se jetant à ses pieds, le suppliait, disant : Use de patience envers moi, et je te payerai."
-    },
-    "interlinear": [
-      { "greek": "πεσὼν", "gloss": "Étant_tombé" },
-      { "greek": "οὖν", "gloss": "donc" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "σύνδουλος", "gloss": "compagnon_d'esclavage" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "παρεκάλει", "gloss": "le_suppliait" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "λέγων·", "gloss": "disant" },
-      { "greek": "Μακροθύμησον", "gloss": "Use_de_patience" },
-      { "greek": "ἐπ’", "gloss": "envers" },
-      { "greek": "ἐμοί,", "gloss": "moi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀποδώσω", "gloss": "je_rendrai/paierai" },
-      { "greek": "σοι.", "gloss": "à_toi" }
-    ]
-  },
-  {
-    "verse_number": 30,
-    "translations": {
-      "segond": "Mais l'autre ne voulut pas, et il alla le jeter en prison, jusqu'à ce qu'il eût payé ce qu'il devait.",
-      "darby": "Mais il ne voulut pas, et s'en alla et le jeta en prison, jusqu'à ce qu'il eût payé la dette."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "L'" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἤθελεν,", "gloss": "il_voulait" },
-      { "greek": "ἀλλὰ", "gloss": "mais" },
-      { "greek": "ἀπελθὼν", "gloss": "s'en_étant_allé" },
-      { "greek": "ἔβαλεν", "gloss": "il_jeta" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "φυλακὴν", "gloss": "la_prison", "analyse": "La *phylake* (la prison, la garde). Refuser le pardon, c'est enfermer l'autre dans la matrice juridique du karma et de la dette. Mais spirituellement, en jetant son frère en prison, l'Ego s'enferme lui-même. Il refuse la logique du Royaume UN pour réinstaurer les barreaux du Monde duel." },
-      { "greek": "ἕως", "gloss": "jusqu'à" },
-      { "greek": "ἀποδῷ", "gloss": "qu'il_rende" },
-      { "greek": "τὸ", "gloss": "l'" },
-      { "greek": "ὀφειλόμενον.", "gloss": "étant_dû" }
-    ]
-  },
-  {
-    "verse_number": 31,
-    "translations": {
-      "segond": "Ses compagnons, ayant vu ce qui était arrivé, furent profondément attristés, et ils allèrent raconter à leur maître tout ce qui s'était passé.",
-      "darby": "Mais ses compagnons d'esclavage, voyant ce qui était arrivé, furent fort attristés ; et ils allèrent et déclarèrent à leur seigneur tout ce qui s'était passé."
-    },
-    "interlinear": [
-      { "greek": "ἰδόντες", "gloss": "Ayant_vu" },
-      { "greek": "οὖν", "gloss": "donc" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "σύνδουλοι", "gloss": "compagnons" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "τὰ", "gloss": "les_choses" },
-      { "greek": "γενόμενα", "gloss": "étant_arrivées" },
-      { "greek": "ἐλυπήθησαν", "gloss": "furent_attristés" },
-      { "greek": "σφόδρα,", "gloss": "extrêmement" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐλθόντες", "gloss": "étant_venus" },
-      { "greek": "διεσάφησαν", "gloss": "ils_expliquèrent/déclarèrent" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "κυρίῳ", "gloss": "seigneur" },
-      { "greek": "ἑαυτῶν", "gloss": "d'eux" },
-      { "greek": "πάντα", "gloss": "toutes" },
-      { "greek": "τὰ", "gloss": "les_choses" },
-      { "greek": "γενόμενα.", "gloss": "étant_arrivées" }
-    ]
-  },
-  {
-    "verse_number": 32,
-    "translations": {
-      "segond": "Alors le maître fit appeler ce serviteur, et lui dit : Méchant serviteur, je t'avais remis en entier ta dette, parce que tu m'en avais supplié ;",
-      "darby": "Alors son seigneur, l'ayant appelé, lui dit : Méchant esclave, je t'ai remis toute cette dette, parce que tu m'en as supplié ;"
-    },
-    "interlinear": [
-      { "greek": "τότε", "gloss": "Alors" },
-      { "greek": "προσκαλεσάμενος", "gloss": "l'ayant_appelé" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "κύριος", "gloss": "seigneur" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "λέγει", "gloss": "dit" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Δοῦλε", "gloss": "Esclave" },
-      { "greek": "πονηρέ,", "gloss": "méchant/mauvais" },
-      { "greek": "πᾶσαν", "gloss": "toute" },
-      { "greek": "τὴν", "gloss": "l'" },
-      { "greek": "ὀφειλὴν", "gloss": "dette" },
-      { "greek": "ἐκείνην", "gloss": "cette...-là" },
-      { "greek": "ἀφῆκά", "gloss": "je_remis" },
-      { "greek": "σοι,", "gloss": "à_toi" },
-      { "greek": "ἐπεὶ", "gloss": "puisque" },
-      { "greek": "παρεκάλεσάς", "gloss": "tu_as_supplié" },
-      { "greek": "με·", "gloss": "moi" }
-    ]
-  },
-  {
-    "verse_number": 33,
-    "translations": {
-      "segond": "ne devais-tu pas aussi avoir pitié de ton compagnon, comme j'ai eu pitié de toi ?",
-      "darby": "ne devais-tu pas aussi avoir pitié de ton compagnon d'esclavage, comme moi aussi j'ai eu pitié de toi ?"
-    },
-    "interlinear": [
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἔδει", "gloss": "fallait-il" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "σὲ", "gloss": "toi" },
-      { "greek": "ἐλεῆσαι", "gloss": "faire_miséricorde", "analyse": "Le verbe *eleeo*. La miséricorde divine n'est pas un concept juridique, c'est une dynamique fluide. Le pardon que Dieu accorde à l'homme doit impérativement devenir le pardon que l'homme accorde à son frère. C'est l'imitation de la kénose qui unifie le Royaume." },
-      { "greek": "τὸν", "gloss": "au" },
-      { "greek": "σύνδουλόν", "gloss": "compagnon" },
-      { "greek": "σου,", "gloss": "de_toi" },
-      { "greek": "ὡς", "gloss": "comme" },
-      { "greek": "κἀγὼ", "gloss": "aussi_moi" },
-      { "greek": "σὲ", "gloss": "toi" },
-      { "greek": "ἠλέησα;", "gloss": "j'ai_fait_miséricorde" }
-    ]
-  },
-  {
-    "verse_number": 34,
-    "translations": {
-      "segond": "Et son maître, irrité, le livra aux bourreaux, jusqu'à ce qu'il eût payé tout ce qu'il devait.",
-      "darby": "Et son seigneur, étant en colère, le livra aux bourreaux, jusqu'à ce qu'il eût payé tout ce qui lui était dû."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ὀργισθεὶς", "gloss": "étant_irrité" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "κύριος", "gloss": "seigneur" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "παρέδωκεν", "gloss": "livra" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "τοῖς", "gloss": "aux" },
-      { "greek": "βασανισταῖς", "gloss": "bourreaux/tourmenteurs", "analyse": "Les *basanistai* (ceux qui torturent). En refusant la Grâce, le serviteur s'est lui-même replacé sous la loi implacable de la justice rétributive du Monde duel. Dieu ne le 'punit' pas par vengeance ; Il l'abandonne simplement aux conséquences de son propre système égoïste, un tourment sans fin puisque la dette (10 000 talents) est impayable." },
-      { "greek": "ἕως", "gloss": "jusqu'à" },
-      { "greek": "οὗ", "gloss": "ce_qu'" },
-      { "greek": "ἀποδῷ", "gloss": "il_rende" },
-      { "greek": "πᾶν", "gloss": "tout" },
-      { "greek": "τὸ", "gloss": "l'" },
-      { "greek": "ὀφειλόμενον.", "gloss": "étant_dû" }
-    ]
-  },
-  {
-    "verse_number": 35,
-    "translations": {
-      "segond": "C'est ainsi que mon Père céleste vous traitera, si chacun de vous ne pardonne à son frère de tout son cœur.",
-      "darby": "Ainsi aussi mon Père céleste vous fera, si vous ne pardonnez pas de tout votre cœur, chacun à son frère."
-    },
-    "interlinear": [
-      { "greek": "Οὕτως", "gloss": "Ainsi" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "πατήρ", "gloss": "père" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "οὐράνιος", "gloss": "céleste" },
-      { "greek": "ποιήσει", "gloss": "fera" },
-      { "greek": "ὑμῖν", "gloss": "à_vous" },
-      { "greek": "ἐὰν", "gloss": "si" },
-      { "greek": "μὴ", "gloss": "non" },
-      { "greek": "ἀφῆτε", "gloss": "vous_pardonnez" },
-      { "greek": "ἕκαστος", "gloss": "chacun" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "ἀδελφῷ", "gloss": "frère" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "ἀπὸ", "gloss": "depuis/de" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "καρδιῶν", "gloss": "cœurs", "analyse": "L'expression *apo ton kardion* (à partir des cœurs). Le pardon n'est pas une formalité polie ou une simple amnistie verbale. Il doit jaillir du cœur, c'est-à-dire du centre ontologique du Sujet. Si le cœur est bloqué par l'Ego, l'homme ne peut pas participer au Royaume." },
-      { "greek": "ὑμῶν.", "gloss": "de_vous" }
-    ]
+      {
+        "verse_number": 2,
+        "translations": {
+          "segond": "Si pour d'autres je ne suis pas apôtre, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur.",
+          "darby": "Si je ne suis pas apôtre pour d'autres, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur."
+        },
+        "interlinear": [
+          {
+            "greek": "εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "ἄλλοις",
+            "gloss": "pour_d'autres"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ἀπόστολος,",
+            "gloss": "apôtre"
+          },
+          {
+            "greek": "ἀλλά",
+            "gloss": "mais"
+          },
+          {
+            "greek": "γε",
+            "gloss": "au_moins"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "pour_vous"
+          },
+          {
+            "greek": "εἰμι·",
+            "gloss": "je_le_suis"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "σφραγίς",
+            "gloss": "sceau",
+            "annotation": {
+              "type": "traduction",
+              "title": "Le sceau de l’apostolat",
+              "content": "Approfondissement spirituel : Le mot *sphragis* désigne le cachet officiel qui authentifie un document ou marque la propriété. Dans une lecture ecclésiologique, la preuve de l'apostolat n'est pas un diplôme ou une validation juridique extérieure (Monde duel), mais la transformation existentielle des auditeurs, devenus des sujets vivants dans le Seigneur.",
+              "related": [
+                "ἡ",
+                "γὰρ",
+                "μου",
+                "τῆς"
+              ]
+            }
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀποστολῆς",
+            "gloss": "apostolat"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐστε",
+            "gloss": "êtes"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κυρίῳ.",
+            "gloss": "le_Seigneur"
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "translations": {
+          "segond": "C'est là ma défense contre ceux qui m'examinent.",
+          "darby": "Ma défense auprès de ceux qui m'examinent, c'est ceci :"
+        },
+        "interlinear": [
+          {
+            "greek": "ἡ",
+            "gloss": "La"
+          },
+          {
+            "greek": "ἐμὴ",
+            "gloss": "ma"
+          },
+          {
+            "greek": "ἀπολογία",
+            "gloss": "défense/apologie",
+            "annotation": {
+              "type": "traduction",
+              "title": "La défense de Paul",
+              "content": "Approfondissement spirituel : L'*apologia*. Ce terme est emprunté au vocabulaire judiciaire grec : c'est la plaidoirie de l'accusé. Paul accepte de descendre sur le terrain de la discussion pour démonter la logique inquisitrice de ceux qui le jugent.",
+              "related": [
+                "ἡ",
+                "ἐμὴ",
+                "τοῖς",
+                "ἐμὲ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "à_ceux"
+          },
+          {
+            "greek": "ἐμὲ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἀνακρίνουσιν",
+            "gloss": "examinant/jugeant"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "αὕτη.",
+            "gloss": "celle-ci"
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "translations": {
+          "segond": "N'avons-nous pas le droit de manger et de boire ?",
+          "darby": "N'avons-nous pas le droit de manger et de boire ?"
+        },
+        "interlinear": [
+          {
+            "greek": "μὴ",
+            "gloss": "Est-ce_que...ne_pas"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἔχομεν",
+            "gloss": "nous_avons"
+          },
+          {
+            "greek": "ἐξουσίαν",
+            "gloss": "autorité/droit/pouvoir",
+            "annotation": {
+              "type": "repetition",
+              "title": "Le droit apostolique",
+              "content": "Approfondissement spirituel : L'*exousia*. C'est le mot central. Dans l'Évangile, il désignait la puissance divine absolue du Christ. Ici, il s'agit du droit légitime, de la liberté d'action accordée par Dieu à Ses ministres. Paul affirme que son statut de Sujet lui confère des droits objectifs sur la matière.",
+              "related": [
+                "οὐκ",
+                "ἔχομεν",
+                "φαγεῖν",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "φαγεῖν",
+            "gloss": "de_manger"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πεῖν;",
+            "gloss": "de_boire"
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "translations": {
+          "segond": "N'avons-nous pas le droit de mener avec nous une sœur qui soit notre femme, comme le font les autres apôtres, et les frères du Seigneur, et Céphas ?",
+          "darby": "N'avons-nous pas le droit de mener avec nous une sœur comme femme, comme les autres apôtres aussi, et les frères du Seigneur, et Céphas ?"
+        },
+        "interlinear": [
+          {
+            "greek": "μὴ",
+            "gloss": "Est-ce_que...ne_pas"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἔχομεν",
+            "gloss": "nous_avons"
+          },
+          {
+            "greek": "ἐξουσίαν",
+            "gloss": "droit/autorité"
+          },
+          {
+            "greek": "ἀδελφὴν",
+            "gloss": "une_sœur"
+          },
+          {
+            "greek": "γυναῖκα",
+            "gloss": "femme"
+          },
+          {
+            "greek": "περιάγειν,",
+            "gloss": "mener_avec_soi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "λοιποὶ",
+            "gloss": "autres"
+          },
+          {
+            "greek": "ἀπόστολοι",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀδελφοὶ",
+            "gloss": "frères"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Κηφᾶς;",
+            "gloss": "Céphas"
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "translations": {
+          "segond": "Ou bien, est-ce que moi seul et Barnabas nous n'avons pas le droit de ne pas travailler ?",
+          "darby": "Ou bien n'y a-t-il que moi et Barnabas qui n'ayons pas le droit de ne pas travailler ?"
+        },
+        "interlinear": [
+          {
+            "greek": "ἢ",
+            "gloss": "Ou"
+          },
+          {
+            "greek": "μόνος",
+            "gloss": "seuls"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Βαρναβᾶς",
+            "gloss": "Barnabas"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔχομεν",
+            "gloss": "nous_avons"
+          },
+          {
+            "greek": "ἐξουσίαν",
+            "gloss": "le_droit"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "de_ne...pas"
+          },
+          {
+            "greek": "ἐργάζεσθαι;",
+            "gloss": "travailler",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le droit de recevoir un soutien",
+              "content": "Approfondissement spirituel : Le droit de 'ne pas travailler' de ses mains pour subsister. Paul revendique la légitimité d'être totalement disponible pour le Royaume UN, libéré des contingences de la survie matérielle par la prise en charge de la communauté.",
+              "related": [
+                "ἐξουσίαν",
+                "μὴ",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "—"
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "translations": {
+          "segond": "Qui jamais fait le service militaire à ses propres frais ? Qui plante une vigne, et n'en mange pas le fruit ? Qui fait paître un troupeau, et ne se nourrit pas du lait du troupeau ?",
+          "darby": "Qui jamais va à la guerre à ses propres dépens ? Qui plante une vigne et n'en mange pas le fruit ? Ou qui paît un troupeau et ne mange pas du lait du troupeau ?"
+        },
+        "interlinear": [
+          {
+            "greek": "τίς",
+            "gloss": "Qui"
+          },
+          {
+            "greek": "στρατεύεται",
+            "gloss": "va_à_la_guerre/sert"
+          },
+          {
+            "greek": "ἰδίοις",
+            "gloss": "à_ses_propres"
+          },
+          {
+            "greek": "ὀψωνίοις",
+            "gloss": "frais/dépens",
+            "annotation": {
+              "type": "traduction",
+              "title": "La solde du soldat",
+              "content": "Approfondissement spirituel : Le terme *opsōnion* désigne la solde militaire, les rations ou l'argent de subsistance d'un soldat. Paul utilise trois images du bon sens naturel (le soldat, le vigneron, le berger) pour montrer que l'action dans le monde appelle une juste réciprocité. Le Monde duel comprend cette loi d'échange.",
+              "related": [
+                "στρατεύεται",
+                "ἰδίοις",
+                "ποτέ;",
+                "τίς"
+              ]
+            }
+          },
+          {
+            "greek": "ποτέ;",
+            "gloss": "jamais"
+          },
+          {
+            "greek": "τίς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "φυτεύει",
+            "gloss": "plante"
+          },
+          {
+            "greek": "ἀμπελῶνα",
+            "gloss": "une_vigne"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "καρπὸν",
+            "gloss": "fruit"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_elle"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐσθίει;",
+            "gloss": "mange"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "τίς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ποιμαίνει",
+            "gloss": "paît/garde"
+          },
+          {
+            "greek": "ποίμνην",
+            "gloss": "un_troupeau"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "du"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "γάλακτος",
+            "gloss": "lait"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "ποίμνης",
+            "gloss": "troupeau"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐσθίει;",
+            "gloss": "mange"
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "translations": {
+          "segond": "Ces choses que je dis, n'existent-elles que dans les usages des hommes ? la loi ne les dit-elle pas aussi ?",
+          "darby": "Est-ce que je dis ces choses selon l'homme ? ou la loi aussi ne dit-elle pas ces choses ?"
+        },
+        "interlinear": [
+          {
+            "greek": "Μὴ",
+            "gloss": "Est-ce_que...ne_pas"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "l'homme"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "λαλῶ;",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou_bien"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "νόμος",
+            "gloss": "loi"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "λέγει;",
+            "gloss": "dit"
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "translations": {
+          "segond": "Car il est écrit dans la loi de Moïse : Tu n'emmuselleras point le bœuf quand il foule le grain. Dieu se met-il en peine des bœufs,",
+          "darby": "Car dans la loi de Moïse il est écrit : « Tu n'emmuselleras pas le bœuf qui foule le grain ». Dieu s'occupe-t-il des bœufs ?"
+        },
+        "interlinear": [
+          {
+            "greek": "ἐν",
+            "gloss": "Dans"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "Μωϋσέως",
+            "gloss": "de_Moïse"
+          },
+          {
+            "greek": "νόμῳ",
+            "gloss": "loi"
+          },
+          {
+            "greek": "γέγραπται·",
+            "gloss": "il_est_écrit"
+          },
+          {
+            "greek": "Οὐ",
+            "gloss": "Tu_ne...pas"
+          },
+          {
+            "greek": "κημώσεις",
+            "gloss": "emmuselleras"
+          },
+          {
+            "greek": "βοῦν",
+            "gloss": "le_bœuf"
+          },
+          {
+            "greek": "ἀλοῶντα.",
+            "gloss": "foulant_le_grain",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le bœuf qui foule le grain",
+              "content": "Approfondissement spirituel : L'image agricole par excellence. Empêcher l'animal de manger le grain qu'il travaille à produire est une aberration même dans le Monde duel. Paul utilise cette loi pour montrer que l'ouvrier apostolique a un droit organique à être nourri par la communauté qu'il 'foule' pour en extraire le grain spirituel.",
+              "related": [
+                "κημώσεις",
+                "βοῦν",
+                "μὴ",
+                "τῶν"
+              ]
+            }
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "Est-ce_que"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "βοῶν",
+            "gloss": "bœufs"
+          },
+          {
+            "greek": "μέλει",
+            "gloss": "il_se_met_en_peine"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεῷ;",
+            "gloss": "Dieu"
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "ou parle-t-il uniquement à cause de nous ? Oui, c'est à cause de nous qu'il a été écrit que celui qui laboure doit labourer avec espérance, et celui qui foule le grain fouler avec l'espérance d'y avoir part.",
+          "darby": "Ou dit-il cela entièrement pour nous ? Car c'est pour nous qu'il est écrit que celui qui laboure doit labourer avec espérance, et que celui qui foule le grain doit le fouler dans l'espérance d'y avoir part."
+        },
+        "interlinear": [
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "πάντως",
+            "gloss": "entièrement/absolument"
+          },
+          {
+            "greek": "λέγει;",
+            "gloss": "il_parle"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "ἐγράφη,",
+            "gloss": "il_a_été_écrit"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ὀφείλει",
+            "gloss": "doit"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "avec/sur"
+          },
+          {
+            "greek": "ἐλπίδι",
+            "gloss": "espérance"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἀροτριῶν",
+            "gloss": "labourant"
+          },
+          {
+            "greek": "ἀροτριᾶν,",
+            "gloss": "labourer"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἀλοῶν",
+            "gloss": "foulant_le_grain"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ἐλπίδι",
+            "gloss": "espérance"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "μετέχειν.",
+            "gloss": "partager/avoir_part"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Si nous avons semé parmi vous les biens spirituels, est-ce une grosse affaire si nous moissonnons vos biens charnels.",
+          "darby": "Si nous avons semé pour vous les choses spirituelles, est-ce un grand sujet que nous moissonnions vos choses charnelles ?"
+        },
+        "interlinear": [
+          {
+            "greek": "εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "πνευματικὰ",
+            "gloss": "spirituelles",
+            "annotation": {
+              "type": "repetition",
+              "title": "Semer les biens spirituels",
+              "content": "Approfondissement spirituel : Le mot *pneumatika* (qui vient de l'Esprit, l'Énergie divine). C'est la verticalité. L'apôtre a semé le Royaume UN, l'accès à la Grâce incréée.",
+              "related": [
+                "ὑμῖν",
+                "τὰ",
+                "ἐσπείραμεν,",
+                "μέγα"
+              ]
+            }
+          },
+          {
+            "greek": "ἐσπείραμεν,",
+            "gloss": "avons_semé"
+          },
+          {
+            "greek": "μέγα",
+            "gloss": "une_grande_chose"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "σαρκικὰ",
+            "gloss": "charnelles/matérielles",
+            "annotation": {
+              "type": "repetition",
+              "title": "Recevoir les biens matériels",
+              "content": "Approfondissement spirituel : Le mot *sarkika* (ce qui appartient à la chair/matière). C'est l'horizontalité. Il n'y a ici aucun mépris pour la matière : la loi de la synergie veut qu'en échange du souffle incréé, l'apôtre reçoive la subsistance physique. C'est l'équilibre parfait de l'incarnation.",
+              "related": [
+                "ὑμῶν",
+                "τὰ",
+                "θερίσομεν;"
+              ]
+            }
+          },
+          {
+            "greek": "θερίσομεν;",
+            "gloss": "moissonnerons"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "Si d'autres jouissent de ce droit sur vous, n'est-ce pas plutôt à nous d'en jouir ? Mais nous n'avons point usé de ce droit ; au contraire, nous souffrons tout, afin de ne pas créer d'obstacle à l'Évangile de Christ.",
+          "darby": "Si d'autres ont part à ce droit sur vous, ne l'avons-nous pas bien plus ? Mais nous n'avons pas usé de ce droit, mais nous supportons tout, afin de ne mettre aucun obstacle à l'évangile du Christ."
+        },
+        "interlinear": [
+          {
+            "greek": "εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "ἄλλοι",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "sur_vous"
+          },
+          {
+            "greek": "ἐξουσίας",
+            "gloss": "droit/autorité"
+          },
+          {
+            "greek": "μετέχουσιν,",
+            "gloss": "ont_part"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plus_tôt/davantage"
+          },
+          {
+            "greek": "ἡμεῖς;",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐχρησάμεθα",
+            "gloss": "nous_avons_usé"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "ἐξουσίᾳ",
+            "gloss": "droit/autorité",
+            "annotation": {
+              "type": "analyse",
+              "title": "Renoncer librement à son droit",
+              "content": "Approfondissement spirituel : La bascule absolue. Paul vient de prouver que son droit (*exousia*) est total, biblique, naturel et logique. Mais il décide de ne pas l'utiliser. C'est l'acte souverain du Sujet libre : renoncer volontairement à ce qui nous est dû. Dans le Monde duel, on revendique ses droits par la force ; dans le Royaume, on les sacrifie par amour.",
+              "related": [
+                "ἐχρησάμεθα",
+                "τῇ",
+                "ταύτῃ,",
+                "ἀλλὰ"
+              ]
+            }
+          },
+          {
+            "greek": "ταύτῃ,",
+            "gloss": "ce"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "στέγομεν,",
+            "gloss": "nous_supportons/endurons"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μή",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "τινα",
+            "gloss": "quelque"
+          },
+          {
+            "greek": "ἐγκοπὴν",
+            "gloss": "obstacle/entrave",
+            "annotation": {
+              "type": "racine",
+              "title": "Ne mettre aucun obstacle",
+              "content": "Approfondissement spirituel : L'*egkopen* (une coupure, un barrage sur une route). Si Paul exigeait de l'argent (bien que ce soit juste), les Corinthiens, encore malades de leur Ego calculateur, le verraient comme un simple commerçant spirituel. La kénose de Paul supprime ce barrage psychologique, permettant à l'Évangile de couler librement.",
+              "related": [
+                "μή",
+                "τινα",
+                "δῶμεν",
+                "τῷ"
+              ]
+            }
+          },
+          {
+            "greek": "δῶμεν",
+            "gloss": "nous_donnions/mettions"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_l'"
+          },
+          {
+            "greek": "εὐαγγελίῳ",
+            "gloss": "évangile"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "Christ"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 11 - τὰ σαρκικὰ : Traduit par 'vos biens charnels' (Segond) ou 'vos choses charnelles' (Darby). Le terme *sarkika* s'oppose à *pneumatika* (spirituel). Il ne s'agit pas de 'chair' au sens du péché, mais de la réalité biologique et matérielle (nourriture, vêtement, logement). La traduction doit maintenir ce contraste puissant : l'Esprit descend, la matière remonte.\n• Verset 12 - ἐγκοπὴν : Segond et Darby s'accordent sur 'obstacle'. Le mot grec vient du monde militaire ou des travaux routiers (couper une route pour empêcher l'ennemi de passer). Paul ne veut pas être celui qui pose des barbelés sur la route de la Grâce, même si c'est pour réclamer son juste salaire.\n\nAnalyse spirituelle :\nCet Apôtre est le miroir inversé de l'Évangile du débiteur impitoyable de ce même 11e dimanche. Dans l'Évangile, nous avons vu un homme qui, bien que gracié d'une dette infinie, s'est accroché à son 'droit' légal d'étrangler son compagnon pour récupérer 100 deniers. Cet Ego a détruit la grâce en réclamant son droit strict.\n\nSaint Paul montre ici la voie inverse, celle du vrai Sujet du Royaume. Pendant dix versets, il déploie un argumentaire implacable (basé sur le bon sens et la Torah) pour démontrer qu'il a l'autorité (*exousia*) et le droit objectif d'être nourri et financé par l'Église de Corinthe, puisqu'il a semé l'Esprit parmi eux. \n\nMais le sommet du texte réside dans la non-application de ce droit. Paul refuse d'être le créancier de Corinthe. Il choisit la kénose : le dépouillement volontaire. L'Ego est incapable de ce mouvement ; seul un Sujet totalement aligné sur l'Axe vertical peut supporter (*stego*) les privations matérielles afin de ne pas 'couper la route' (*egkopen*) à l'Évangile. En refusant d'étrangler les Corinthiens avec ses droits légitimes, Paul garantit la libre circulation de la *dynamis* (l'énergie divine). C'est la guérison absolue du mal dénoncé par le Christ dans la parabole.\n\nComplément de lecture : Paul établit longuement son droit avant d’annoncer qu’il y renonce. La liberté apostolique ne consiste ni à nier les besoins matériels des ministres ni à exiger tout ce qui est permis ; elle discerne ce qui pourrait faire obstacle à l’Évangile.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 11e dimanche : une parole, un geste, un contraste, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez d’abord la progression du récit évangélique, puis voyez comment l’Apôtre l’approfondit, la déplace ou en manifeste le fruit ecclésial. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète véritablement éclairée par les textes : peur, impuissance, dette, attachement, appropriation, division, besoin d’être saisi ou difficulté à recevoir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans imposer un modèle unique : crier vers le Christ, pardonner, renoncer à un droit, suivre, servir, veiller, partager ou se laisser reconstruire."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
+      }
+    ],
+    "liturgical_echoes": []
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 28 - ἔπνιγεν : 'Étranglait'. Le réalisme sordide du verbe *pnigo* montre à quel point l'Ego non guéri est prédateur. C'est l'antithèse absolue de l'Esprit (*pneuma*), qui donne le souffle. L'Ego étouffe l'autre pour récupérer son dû.\n• Verset 34 - βασανισταῖς : Segond traduit par 'bourreaux'. Parfois lissé en 'gardiens' ou 'geôliers' dans d'autres versions. Le terme grec désigne bien les 'tourmenteurs'. C'est le retour inévitable à la torture mentale et spirituelle (*basanizo*) du Monde duel lorsqu'on se coupe de la miséricorde.\n\nAnalyse spirituelle :\nCette parabole est le scanner théologique de notre hypocrisie. Le drame commence par un vertige mathématique : le serviteur doit au Roi 10 000 talents (des milliards), une dette ontologique infinie symbolisant la séparation absolue entre l'Ego et Dieu. Le serviteur, dans sa folie, croit pouvoir payer ('je te paierai tout'). Mais le Roi (Dieu) ignore cette logique comptable. Dans un acte de pure kénose, le Roi absorbe la perte et libère le serviteur. C'est l'irruption du 'Royaume UN'.\n\nCependant, la Grâce reçue verticalement n'est pas devenue l'identité du serviteur. Il sort, et immédiatement la matrice du 'Monde duel' reprend le contrôle. Pour 100 misérables deniers (le karma horizontal de nos petites querelles), il étrangle son compagnon. Il refuse d'être le canal de la *dynamis* (l'énergie de pardon) qui vient de le sauver.\n\nLa sentence finale n'est pas la colère d'un Dieu vengeur, mais une loi de physique spirituelle : l'homme qui refuse de transmettre la Grâce s'exclut lui-même de son circuit. Il est re-livré aux 'tourmenteurs' (les lois implacables du karma, du jugement, de la cause et de l'effet) jusqu'à ce qu'il paie une dette qui, par définition, est impayable. Le pardon depuis le cœur (*kardia*) n'est donc pas une simple option morale, c'est la seule respiration possible pour que le Sujet survive dans l'Amour incréé."
-},
-"apostle": {
-  "reference": "1 Corinthiens 9, 2-12",
-  "title": "La Défense de l'Apostolat et le Renoncement aux Droits",
-  "interlinear": [
-   {
-      "verse_number": 2,
-      "translations": {
-        "segond": "Si pour d'autres je ne suis pas apôtre, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur.",
-        "darby": "Si je ne suis pas apôtre pour d'autres, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur."
-      },
-      "interlinear": [
-        { "greek": "εἰ", "gloss": "Si" },
-        { "greek": "ἄλλοις", "gloss": "pour_d'autres" },
-        { "greek": "οὐκ", "gloss": "ne...pas" },
-        { "greek": "εἰμὶ", "gloss": "je_suis" },
-        { "greek": "ἀπόστολος,", "gloss": "apôtre" },
-        { "greek": "ἀλλά", "gloss": "mais" },
-        { "greek": "γε", "gloss": "au_moins" },
-        { "greek": "ὑμῖν", "gloss": "pour_vous" },
-        { "greek": "εἰμι·", "gloss": "je_le_suis" },
-        { "greek": "ἡ", "gloss": "le" },
-        { "greek": "γὰρ", "gloss": "car" },
-        { "greek": "σφραγίς", "gloss": "sceau", "analyse": "Le mot *sphragis* désigne le cachet officiel qui authentifie un document ou marque la propriété. Dans l'ecclésiologie de Père Pascal, la preuve de l'apostolat n'est pas un diplôme ou une validation juridique extérieure (Monde duel), mais la transformation existentielle des auditeurs, devenus des sujets vivants dans le Seigneur." },
-        { "greek": "μου", "gloss": "de_moi" },
-        { "greek": "τῆς", "gloss": "de_l'" },
-        { "greek": "ἀποστολῆς", "gloss": "apostolat" },
-        { "greek": "ὑμεῖς", "gloss": "vous" },
-        { "greek": "ἐστε", "gloss": "êtes" },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "κυρίῳ.", "gloss": "le_Seigneur" }
-      ]
-    },
-    {
-      "verse_number": 3,
-      "translations": {
-        "segond": "C'est là ma défense contre ceux qui m'examinent.",
-        "darby": "Ma défense auprès de ceux qui m'examinent, c'est ceci :"
-      },
-      "interlinear": [
-        { "greek": "ἡ", "gloss": "La" },
-        { "greek": "ἐμὴ", "gloss": "ma" },
-        { "greek": "ἀπολογία", "gloss": "défense/apologie", "analyse": "L'*apologia*. Ce terme est emprunté au vocabulaire judiciaire grec : c'est la plaidoirie de l'accusé. Paul accepte de descendre sur le terrain de la discussion pour démonter la logique inquisitrice de ceux qui le jugent." },
-        { "greek": "τοῖς", "gloss": "à_ceux" },
-        { "greek": "ἐμὲ", "gloss": "moi" },
-        { "greek": "ἀνακρίνουσιν", "gloss": "examinant/jugeant" },
-        { "greek": "ἐστιν", "gloss": "est" },
-        { "greek": "αὕτη.", "gloss": "celle-ci" }
-      ]
-    },
-    {
-      "verse_number": 4,
-      "translations": {
-        "segond": "N'avons-nous pas le droit de manger et de boire ?",
-        "darby": "N'avons-nous pas le droit de manger et de boire ?"
-      },
-      "interlinear": [
-        { "greek": "μὴ", "gloss": "Est-ce_que...ne_pas" },
-        { "greek": "οὐκ", "gloss": "non" },
-        { "greek": "ἔχομεν", "gloss": "nous_avons" },
-        { "greek": "ἐξουσίαν", "gloss": "autorité/droit/pouvoir", "analyse": "L'*exousia*. C'est le mot central. Dans l'Évangile, il désignait la puissance divine absolue du Christ. Ici, il s'agit du droit légitime, de la liberté d'action accordée par Dieu à Ses ministres. Paul affirme que son statut de Sujet lui confère des droits objectifs sur la matière." },
-        { "greek": "φαγεῖν", "gloss": "de_manger" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "πεῖν;", "gloss": "de_boire" }
-      ]
-    },
-    {
-      "verse_number": 5,
-      "translations": {
-        "segond": "N'avons-nous pas le droit de mener avec nous une sœur qui soit notre femme, comme le font les autres apôtres, et les frères du Seigneur, et Céphas ?",
-        "darby": "N'avons-nous pas le droit de mener avec nous une sœur comme femme, comme les autres apôtres aussi, et les frères du Seigneur, et Céphas ?"
-      },
-      "interlinear": [
-        { "greek": "μὴ", "gloss": "Est-ce_que...ne_pas" },
-        { "greek": "οὐκ", "gloss": "non" },
-        { "greek": "ἔχομεν", "gloss": "nous_avons" },
-        { "greek": "ἐξουσίαν", "gloss": "droit/autorité" },
-        { "greek": "ἀδελφὴν", "gloss": "une_sœur" },
-        { "greek": "γυναῖκα", "gloss": "femme" },
-        { "greek": "περιάγειν,", "gloss": "mener_avec_soi" },
-        { "greek": "ὡς", "gloss": "comme" },
-        { "greek": "καὶ", "gloss": "aussi" },
-        { "greek": "οἱ", "gloss": "les" },
-        { "greek": "λοιποὶ", "gloss": "autres" },
-        { "greek": "ἀπόστολοι", "gloss": "apôtres" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "οἱ", "gloss": "les" },
-        { "greek": "ἀδελφοὶ", "gloss": "frères" },
-        { "greek": "τοῦ", "gloss": "du" },
-        { "greek": "κυρίου", "gloss": "seigneur" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "Κηφᾶς;", "gloss": "Céphas" }
-      ]
-    },
-    {
-      "verse_number": 6,
-      "translations": {
-        "segond": "Ou bien, est-ce que moi seul et Barnabas nous n'avons pas le droit de ne pas travailler ?",
-        "darby": "Ou bien n'y a-t-il que moi et Barnabas qui n'ayons pas le droit de ne pas travailler ?"
-      },
-      "interlinear": [
-        { "greek": "ἢ", "gloss": "Ou" },
-        { "greek": "μόνος", "gloss": "seuls" },
-        { "greek": "ἐγὼ", "gloss": "moi" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "Βαρναβᾶς", "gloss": "Barnabas" },
-        { "greek": "οὐκ", "gloss": "ne...pas" },
-        { "greek": "ἔχομεν", "gloss": "nous_avons" },
-        { "greek": "ἐξουσίαν", "gloss": "le_droit" },
-        { "greek": "μὴ", "gloss": "de_ne...pas" },
-        { "greek": "ἐργάζεσθαι;", "gloss": "travailler", "analyse": "Le droit de 'ne pas travailler' de ses mains pour subsister. Paul revendique la légitimité d'être totalement disponible pour le Royaume UN, libéré des contingences de la survie matérielle par la prise en charge de la communauté." },
-        { "greek": "τοῦ", "gloss": "—" }
-      ]
-    },
-    {
-      "verse_number": 7,
-      "translations": {
-        "segond": "Qui jamais fait le service militaire à ses propres frais ? Qui plante une vigne, et n'en mange pas le fruit ? Qui fait paître un troupeau, et ne se nourrit pas du lait du troupeau ?",
-        "darby": "Qui jamais va à la guerre à ses propres dépens ? Qui plante une vigne et n'en mange pas le fruit ? Ou qui paît un troupeau et ne mange pas du lait du troupeau ?"
-      },
-      "interlinear": [
-        { "greek": "τίς", "gloss": "Qui" },
-        { "greek": "στρατεύεται", "gloss": "va_à_la_guerre/sert" },
-        { "greek": "ἰδίοις", "gloss": "à_ses_propres" },
-        { "greek": "ὀψωνίοις", "gloss": "frais/dépens", "analyse": "Le terme *opsōnion* désigne la solde militaire, les rations ou l'argent de subsistance d'un soldat. Paul utilise trois images du bon sens naturel (le soldat, le vigneron, le berger) pour montrer que l'action dans le monde appelle une juste réciprocité. Le Monde duel comprend cette loi d'échange." },
-        { "greek": "ποτέ;", "gloss": "jamais" },
-        { "greek": "τίς", "gloss": "qui" },
-        { "greek": "φυτεύει", "gloss": "plante" },
-        { "greek": "ἀμπελῶνα", "gloss": "une_vigne" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "τὸν", "gloss": "le" },
-        { "greek": "καρπὸν", "gloss": "fruit" },
-        { "greek": "αὐτοῦ", "gloss": "de_elle" },
-        { "greek": "οὐκ", "gloss": "ne...pas" },
-        { "greek": "ἐσθίει;", "gloss": "mange" },
-        { "greek": "ἢ", "gloss": "ou" },
-        { "greek": "τίς", "gloss": "qui" },
-        { "greek": "ποιμαίνει", "gloss": "paît/garde" },
-        { "greek": "ποίμνην", "gloss": "un_troupeau" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ἐκ", "gloss": "du" },
-        { "greek": "τοῦ", "gloss": "le" },
-        { "greek": "γάλακτος", "gloss": "lait" },
-        { "greek": "τῆς", "gloss": "de_le" },
-        { "greek": "ποίμνης", "gloss": "troupeau" },
-        { "greek": "οὐκ", "gloss": "ne...pas" },
-        { "greek": "ἐσθίει;", "gloss": "mange" }
-      ]
-    },
-    {
-      "verse_number": 8,
-      "translations": {
-        "segond": "Ces choses que je dis, n'existent-elles que dans les usages des hommes ? la loi ne les dit-elle pas aussi ?",
-        "darby": "Est-ce que je dis ces choses selon l'homme ? ou la loi aussi ne dit-elle pas ces choses ?"
-      },
-      "interlinear": [
-        { "greek": "Μὴ", "gloss": "Est-ce_que...ne_pas" },
-        { "greek": "κατὰ", "gloss": "selon" },
-        { "greek": "ἄνθρωπον", "gloss": "l'homme" },
-        { "greek": "ταῦτα", "gloss": "ces_choses" },
-        { "greek": "λαλῶ;", "gloss": "je_dis" },
-        { "greek": "ἢ", "gloss": "ou_bien" },
-        { "greek": "καὶ", "gloss": "aussi" },
-        { "greek": "ὁ", "gloss": "la" },
-        { "greek": "νόμος", "gloss": "loi" },
-        { "greek": "ταῦτα", "gloss": "ces_choses" },
-        { "greek": "οὐ", "gloss": "ne...pas" },
-        { "greek": "λέγει;", "gloss": "dit" }
-      ]
-    },
-    {
-      "verse_number": 9,
-      "translations": {
-        "segond": "Car il est écrit dans la loi de Moïse : Tu n'emmuselleras point le bœuf quand il foule le grain. Dieu se met-il en peine des bœufs,",
-        "darby": "Car dans la loi de Moïse il est écrit : « Tu n'emmuselleras pas le bœuf qui foule le grain ». Dieu s'occupe-t-il des bœufs ?"
-      },
-      "interlinear": [
-        { "greek": "ἐν", "gloss": "Dans" },
-        { "greek": "γὰρ", "gloss": "en_effet" },
-        { "greek": "τῷ", "gloss": "la" },
-        { "greek": "Μωϋσέως", "gloss": "de_Moïse" },
-        { "greek": "νόμῳ", "gloss": "loi" },
-        { "greek": "γέγραπται·", "gloss": "il_est_écrit" },
-        { "greek": "Οὐ", "gloss": "Tu_ne...pas" },
-        { "greek": "κημώσεις", "gloss": "emmuselleras" },
-        { "greek": "βοῦν", "gloss": "le_bœuf" },
-        { "greek": "ἀλοῶντα.", "gloss": "foulant_le_grain", "analyse": "L'image agricole par excellence. Empêcher l'animal de manger le grain qu'il travaille à produire est une aberration même dans le Monde duel. Paul utilise cette loi pour montrer que l'ouvrier apostolique a un droit organique à être nourri par la communauté qu'il 'foule' pour en extraire le grain spirituel." },
-        { "greek": "μὴ", "gloss": "Est-ce_que" },
-        { "greek": "τῶν", "gloss": "des" },
-        { "greek": "βοῶν", "gloss": "bœufs" },
-        { "greek": "μέλει", "gloss": "il_se_met_en_peine" },
-        { "greek": "τῷ", "gloss": "le" },
-        { "greek": "θεῷ;", "gloss": "Dieu" }
-      ]
-    },
-    {
-      "verse_number": 10,
-      "translations": {
-        "segond": "ou parle-t-il uniquement à cause de nous ? Oui, c'est à cause de nous qu'il a été écrit que celui qui laboure doit labourer avec espérance, et celui qui foule le grain fouler avec l'espérance d'y avoir part.",
-        "darby": "Ou dit-il cela entièrement pour nous ? Car c'est pour nous qu'il est écrit que celui qui laboure doit labourer avec espérance, et que celui qui foule le grain doit le fouler dans l'espérance d'y avoir part."
-      },
-      "interlinear": [
-        { "greek": "ἢ", "gloss": "ou" },
-        { "greek": "δι’", "gloss": "à_cause_de" },
-        { "greek": "ἡμᾶς", "gloss": "nous" },
-        { "greek": "πάντως", "gloss": "entièrement/absolument" },
-        { "greek": "λέγει;", "gloss": "il_parle" },
-        { "greek": "δι’", "gloss": "à_cause_de" },
-        { "greek": "ἡμᾶς", "gloss": "nous" },
-        { "greek": "γὰρ", "gloss": "en_effet" },
-        { "greek": "ἐγράφη,", "gloss": "il_a_été_écrit" },
-        { "greek": "ὅτι", "gloss": "que" },
-        { "greek": "ὀφείλει", "gloss": "doit" },
-        { "greek": "ἐπ’", "gloss": "avec/sur" },
-        { "greek": "ἐλπίδι", "gloss": "espérance" },
-        { "greek": "ὁ", "gloss": "celui" },
-        { "greek": "ἀροτριῶν", "gloss": "labourant" },
-        { "greek": "ἀροτριᾶν,", "gloss": "labourer" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ὁ", "gloss": "celui" },
-        { "greek": "ἀλοῶν", "gloss": "foulant_le_grain" },
-        { "greek": "ἐπ’", "gloss": "avec" },
-        { "greek": "ἐλπίδι", "gloss": "espérance" },
-        { "greek": "τοῦ", "gloss": "de_le" },
-        { "greek": "μετέχειν.", "gloss": "partager/avoir_part" }
-      ]
-    },
-    {
-      "verse_number": 11,
-      "translations": {
-        "segond": "Si nous avons semé parmi vous les biens spirituels, est-ce une grosse affaire si nous moissonnons vos biens charnels.",
-        "darby": "Si nous avons semé pour vous les choses spirituelles, est-ce un grand sujet que nous moissonnions vos choses charnelles ?"
-      },
-      "interlinear": [
-        { "greek": "εἰ", "gloss": "Si" },
-        { "greek": "ἡμεῖς", "gloss": "nous" },
-        { "greek": "ὑμῖν", "gloss": "à_vous" },
-        { "greek": "τὰ", "gloss": "les_choses" },
-        { "greek": "πνευματικὰ", "gloss": "spirituelles", "analyse": "Le mot *pneumatika* (qui vient de l'Esprit, l'Énergie divine). C'est la verticalité. L'apôtre a semé le Royaume UN, l'accès à la Grâce incréée." },
-        { "greek": "ἐσπείραμεν,", "gloss": "avons_semé" },
-        { "greek": "μέγα", "gloss": "une_grande_chose" },
-        { "greek": "εἰ", "gloss": "si" },
-        { "greek": "ἡμεῖς", "gloss": "nous" },
-        { "greek": "ὑμῶν", "gloss": "de_vous" },
-        { "greek": "τὰ", "gloss": "les_choses" },
-        { "greek": "σαρκικὰ", "gloss": "charnelles/matérielles", "analyse": "Le mot *sarkika* (ce qui appartient à la chair/matière). C'est l'horizontalité. Il n'y a ici aucun mépris pour la matière : la loi de la synergie veut qu'en échange du souffle incréé, l'apôtre reçoive la subsistance physique. C'est l'équilibre parfait de l'incarnation." },
-        { "greek": "θερίσομεν;", "gloss": "moissonnerons" }
-      ]
-    },
-    {
-      "verse_number": 12,
-      "translations": {
-        "segond": "Si d'autres jouissent de ce droit sur vous, n'est-ce pas plutôt à nous d'en jouir ? Mais nous n'avons point usé de ce droit ; au contraire, nous souffrons tout, afin de ne pas créer d'obstacle à l'Évangile de Christ.",
-        "darby": "Si d'autres ont part à ce droit sur vous, ne l'avons-nous pas bien plus ? Mais nous n'avons pas usé de ce droit, mais nous supportons tout, afin de ne mettre aucun obstacle à l'évangile du Christ."
-      },
-      "interlinear": [
-        { "greek": "εἰ", "gloss": "Si" },
-        { "greek": "ἄλλοι", "gloss": "d'autres" },
-        { "greek": "τῆς", "gloss": "du" },
-        { "greek": "ὑμῶν", "gloss": "sur_vous" },
-        { "greek": "ἐξουσίας", "gloss": "droit/autorité" },
-        { "greek": "μετέχουσιν,", "gloss": "ont_part" },
-        { "greek": "οὐ", "gloss": "ne...pas" },
-        { "greek": "μᾶλλον", "gloss": "plus_tôt/davantage" },
-        { "greek": "ἡμεῖς;", "gloss": "nous" },
-        { "greek": "ἀλλ’", "gloss": "mais" },
-        { "greek": "οὐκ", "gloss": "ne...pas" },
-        { "greek": "ἐχρησάμεθα", "gloss": "nous_avons_usé" },
-        { "greek": "τῇ", "gloss": "de_le" },
-        { "greek": "ἐξουσίᾳ", "gloss": "droit/autorité", "analyse": "La bascule absolue. Paul vient de prouver que son droit (*exousia*) est total, biblique, naturel et logique. Mais il décide de ne pas l'utiliser. C'est l'acte souverain du Sujet libre : renoncer volontairement à ce qui nous est dû. Dans le Monde duel, on revendique ses droits par la force ; dans le Royaume, on les sacrifie par amour." },
-        { "greek": "ταύτῃ,", "gloss": "ce" },
-        { "greek": "ἀλλὰ", "gloss": "mais" },
-        { "greek": "πάντα", "gloss": "toutes_choses" },
-        { "greek": "στέγομεν,", "gloss": "nous_supportons/endurons" },
-        { "greek": "ἵνα", "gloss": "afin_que" },
-        { "greek": "μή", "gloss": "ne_pas" },
-        { "greek": "τινα", "gloss": "quelque" },
-        { "greek": "ἐγκοπὴν", "gloss": "obstacle/entrave", "analyse": "L'*egkopen* (une coupure, un barrage sur une route). Si Paul exigeait de l'argent (bien que ce soit juste), les Corinthiens, encore malades de leur Ego calculateur, le verraient comme un simple commerçant spirituel. La kénose de Paul supprime ce barrage psychologique, permettant à l'Évangile de couler librement." },
-        { "greek": "δῶμεν", "gloss": "nous_donnions/mettions" },
-        { "greek": "τῷ", "gloss": "à_l'" },
-        { "greek": "εὐαγγελίῳ", "gloss": "évangile" },
-        { "greek": "τοῦ", "gloss": "du" },
-        { "greek": "Χριστοῦ.", "gloss": "Christ" }
-      ]
-    }
-  ],
-  "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 11 - τὰ σαρκικὰ : Traduit par 'vos biens charnels' (Segond) ou 'vos choses charnelles' (Darby). Le terme *sarkika* s'oppose à *pneumatika* (spirituel). Il ne s'agit pas de 'chair' au sens du péché, mais de la réalité biologique et matérielle (nourriture, vêtement, logement). La traduction doit maintenir ce contraste puissant : l'Esprit descend, la matière remonte.\n• Verset 12 - ἐγκοπὴν : Segond et Darby s'accordent sur 'obstacle'. Le mot grec vient du monde militaire ou des travaux routiers (couper une route pour empêcher l'ennemi de passer). Paul ne veut pas être celui qui pose des barbelés sur la route de la Grâce, même si c'est pour réclamer son juste salaire.\n\nAnalyse spirituelle :\nCet Apôtre est le miroir inversé de l'Évangile du débiteur impitoyable de ce même 11e dimanche. Dans l'Évangile, nous avons vu un homme qui, bien que gracié d'une dette infinie, s'est accroché à son 'droit' légal d'étrangler son compagnon pour récupérer 100 deniers. Cet Ego a détruit la grâce en réclamant son droit strict.\n\nSaint Paul montre ici la voie inverse, celle du vrai Sujet du Royaume. Pendant dix versets, il déploie un argumentaire implacable (basé sur le bon sens et la Torah) pour démontrer qu'il a l'autorité (*exousia*) et le droit objectif d'être nourri et financé par l'Église de Corinthe, puisqu'il a semé l'Esprit parmi eux. \n\nMais le sommet du texte réside dans la non-application de ce droit. Paul refuse d'être le créancier de Corinthe. Il choisit la kénose : le dépouillement volontaire. L'Ego est incapable de ce mouvement ; seul un Sujet totalement aligné sur l'Axe vertical peut supporter (*stego*) les privations matérielles afin de ne pas 'couper la route' (*egkopen*) à l'Évangile. En refusant d'étrangler les Corinthiens avec ses droits légitimes, Paul garantit la libre circulation de la *dynamis* (l'énergie divine). C'est la guérison absolue du mal dénoncé par le Christ dans la parabole."
 }
-}  
