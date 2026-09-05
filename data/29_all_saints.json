@@ -1,7 +1,7 @@
 {
   "gospel": {
     "reference": "Matthieu 10, 32-33 ; 37-38 ; 19, 27-30",
-    "title": "Dimanche de Tous les Saints : L'appel du Sujet et la re-naissance du Royaume",
+    "title": "Confesser le Christ, prendre sa croix et le suivre",
     "interlinear": [
       {
         "verse_number": "10, 32",
@@ -10,30 +10,96 @@
           "darby": "Quiconque donc me confessera devant les hommes, moi aussi je le confesserai devant mon Père qui est dans les cieux."
         },
         "interlinear": [
-          { "greek": "Πᾶς", "gloss": "Tout_homme" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ὅστις", "gloss": "qui" },
-         { 
-  "greek": "<span class='encadre mot-info' data-analyse='Racine HOMO : Un, unité. L expression d une unité inclusive.'>ὁμο</span><span class='mot-info' data-analyse='De LOGOS : dire, parole. Confesser, c est parler d une seule voix devant la multitude.'>λογήσει</span>", 
-  "gloss": "confessera", 
-  "analyse": "Homologeo : la définition cataphatique (positive) du témoignage. Ce n est pas une simple déclaration morale. Confesser le Christ, c est unifier sa propre parole (Logos) avec la Sienne pour ne faire qu Un (Homo) devant le monde." 
-},
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ἐμοὶ", "gloss": "moi" },
-          { "greek": "ἔmπροσθεν", "gloss": "devant" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ἀνθρώπων,", "gloss": "hommes" },
-          { "greek": "ὁμολογήσω", "gloss": "confesserai" },
-          { "greek": "κἀγὼ", "gloss": "moi_aussi" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "ἔμπροσθεν", "gloss": "devant" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "πατρός", "gloss": "Père" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "τοῦ", "gloss": "celui" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "οὐρανοῖς·", "gloss": "les_cieux" }
+          {
+            "greek": "Πᾶς",
+            "gloss": "Tout_homme"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ὅστις",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ὁμολογήσει",
+            "gloss": "confessera",
+            "annotation": {
+              "type": "racine",
+              "title": "Confesser, reconnaître — ὁμολογήσει",
+              "content": "Ὁμολογέω associe ὁμός (« même ») et λέγω (« dire ») et signifie reconnaître, déclarer ou confesser. Ici, l’accent porte sur la reconnaissance publique du Christ devant les hommes, à laquelle répond sa reconnaissance du disciple devant le Père.",
+              "related": [
+                "ὁμολογήσω",
+                "ἔμπροσθεν",
+                "ἀνθρώπων,"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἔμπροσθεν",
+            "gloss": "devant"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀνθρώπων,",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "ὁμολογήσω",
+            "gloss": "confesserai"
+          },
+          {
+            "greek": "κἀγὼ",
+            "gloss": "moi_aussi"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἔμπροσθεν",
+            "gloss": "devant"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατρός",
+            "gloss": "Père"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "οὐρανοῖς·",
+            "gloss": "les_cieux"
+          }
         ]
       },
       {
@@ -43,24 +109,88 @@
           "darby": "Mais quiconque me reniera devant les hommes, moi aussi je le renierai devant mon Père qui est dans les cieux."
         },
         "interlinear": [
-          { "greek": "ὅστις", "gloss": "quiconque" },
-          { "greek": "δ’", "gloss": "or" },
-          { "greek": "ἂν", "gloss": "(conditionnel)" },
-          { "greek": "ἀρνήσηταί", "gloss": "reniera", "analyse": "Du verbe *arneomai* (refuser, renier). Le reniement est le réflexe de préservation de l'Ego dans le Monde duel. Par peur de l'exclusion ou de la mort biologique, le sujet abdique sa liberté verticale pour se dissoudre à nouveau dans la masse anonyme et sécurisante de la foule." },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "ἔμπροσθεν", "gloss": "devant" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ἀνθρώπων,", "gloss": "hommes" },
-          { "greek": "ἀρνήσομαι", "gloss": "renierai" },
-          { "greek": "κἀγὼ", "gloss": "moi_aussi" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἔμπροσθεν", "gloss": "devant" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "πατρός", "gloss": "Père" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "τοῦ", "gloss": "celui" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "οὐρανοῖς.", "gloss": "les_cieux" }
+          {
+            "greek": "ὅστις",
+            "gloss": "quiconque"
+          },
+          {
+            "greek": "δ’",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "(conditionnel)"
+          },
+          {
+            "greek": "ἀρνήσηταί",
+            "gloss": "reniera",
+            "annotation": {
+              "type": "repetition",
+              "title": "Confesser ou renier",
+              "content": "Le verset 33 reprend la construction du verset précédent en remplaçant « confesser » par « renier ». Le parallélisme souligne le sérieux du témoignage sans autoriser à juger trop vite les personnes éprouvées par la peur.",
+              "related": [
+                "ἀρνήσομαι",
+                "ὁμολογήσει",
+                "ἔμπροσθεν"
+              ]
+            }
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἔμπροσθεν",
+            "gloss": "devant"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀνθρώπων,",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "ἀρνήσομαι",
+            "gloss": "renierai"
+          },
+          {
+            "greek": "κἀγὼ",
+            "gloss": "moi_aussi"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἔμπροσθεν",
+            "gloss": "devant"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατρός",
+            "gloss": "Père"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "οὐρανοῖς.",
+            "gloss": "les_cieux"
+          }
         ]
       },
       {
@@ -70,29 +200,142 @@
           "darby": "Celui qui aime père ou mère plus que moi, n'est pas digne de moi ; et celui qui aime fils ou fille plus que moi, n'est pas digne de moi ;"
         },
         "interlinear": [
-          { "greek": "Ὁ", "gloss": "Celui_qui" },
-          { "greek": "φιλῶν", "gloss": "aime" },
-          { "greek": "πατέρα", "gloss": "père" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "μητέρα", "gloss": "mère" },
-          { "greek": "ὑπὲρ", "gloss": "au-dessus_de/plus_que" },
-          { "greek": "ἐμὲ", "gloss": "moi" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔστιν", "gloss": "est" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "ἄξιος·", "gloss": "digne", "analyse": "L'étymologie d'*axios* provient de la racine *agō* (peser, équilibrer). Être digne signifie faire contrepoids, être de valeur équivalente. Le Christ appelle à briser les attachements fusionnels de la 'chair et du sang' (propres au Monde duel) qui maintiennent l'homme dans un statut d'objet dépendant, afin de stabiliser le poids ontologique du Sujet face à l'Incréé." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "celui_qui" },
-          { "greek": "φιλῶν", "gloss": "aime" },
-          { "greek": "υἱὸν", "gloss": "fils" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "θυγατέρα", "gloss": "fille" },
-          { "greek": "ὑπὲρ", "gloss": "plus_que" },
-          { "greek": "ἐμὲ", "gloss": "moi" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔστιν", "gloss": "est" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "ἄξιος·", "gloss": "digne" }
+          {
+            "greek": "Ὁ",
+            "gloss": "Celui_qui"
+          },
+          {
+            "greek": "φιλῶν",
+            "gloss": "aime",
+            "annotation": {
+              "type": "repetition",
+              "title": "Aimer « plus que moi »",
+              "content": "Le verbe φιλέω revient pour le père, la mère, le fils et la fille. Le comparatif ὑπὲρ ἐμέ ne condamne pas ces amours ; il interroge leur ordre lorsque la fidélité au Christ est en jeu.",
+              "related": [
+                "πατέρα",
+                "μητέρα",
+                "υἱὸν",
+                "θυγατέρα",
+                "ὑπὲρ"
+              ]
+            }
+          },
+          {
+            "greek": "πατέρα",
+            "gloss": "père"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "μητέρα",
+            "gloss": "mère"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "au-dessus_de/plus_que"
+          },
+          {
+            "greek": "ἐμὲ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἄξιος·",
+            "gloss": "digne",
+            "annotation": {
+              "type": "theologie",
+              "title": "Être digne du Christ",
+              "content": "Dans ce contexte, « digne de moi » décrit l’accord entre la priorité donnée au Christ et la condition du disciple. Le mot ne mesure pas une perfection morale acquise ; la phrase met en lumière une orientation décisive de l’amour.",
+              "related": [
+                "φιλῶν",
+                "ὑπὲρ",
+                "ἐμὲ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "φιλῶν",
+            "gloss": "aime",
+            "annotation": {
+              "type": "repetition",
+              "title": "Aimer « plus que moi »",
+              "content": "Le verbe φιλέω revient pour le père, la mère, le fils et la fille. Le comparatif ὑπὲρ ἐμέ ne condamne pas ces amours ; il interroge leur ordre lorsque la fidélité au Christ est en jeu.",
+              "related": [
+                "πατέρα",
+                "μητέρα",
+                "υἱὸν",
+                "θυγατέρα",
+                "ὑπὲρ"
+              ]
+            }
+          },
+          {
+            "greek": "υἱὸν",
+            "gloss": "fils"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "θυγατέρα",
+            "gloss": "fille"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "plus_que"
+          },
+          {
+            "greek": "ἐμὲ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἄξιος·",
+            "gloss": "digne",
+            "annotation": {
+              "type": "theologie",
+              "title": "Être digne du Christ",
+              "content": "Dans ce contexte, « digne de moi » décrit l’accord entre la priorité donnée au Christ et la condition du disciple. Le mot ne mesure pas une perfection morale acquise ; la phrase met en lumière une orientation décisive de l’amour.",
+              "related": [
+                "φιλῶν",
+                "ὑπὲρ",
+                "ἐμὲ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -102,21 +345,86 @@
           "darby": "et celui qui ne prend pas sa croix et ne suit pas après moi, n'est pas digne de moi."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὃς", "gloss": "qui" },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "λαμβάνει", "gloss": "prend/reçoit" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "σταυρὸν", "gloss": "croix" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀκολουθεῖ", "gloss": "suit", "analyse": "Du verbe *akoloutheō* (marcher sur le même chemin). La Croix est l'Arbre de Vie, l'instrument de la kénose radicale où l'Ego accepte son propre creux. Suivre le Christ sur ce chemin implique l'abandon de la préhension et de l'immobilité pour entrer dans le dynamisme de la résurrection." },
-          { "greek": "ὀπίσω", "gloss": "après" },
-          { "greek": "μου,", "gloss": "moi" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔστιν", "gloss": "est" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "ἄξιος.", "gloss": "digne" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "λαμβάνει",
+            "gloss": "prend/reçoit"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "σταυρὸν",
+            "gloss": "croix",
+            "annotation": {
+              "type": "theologie",
+              "title": "Prendre sa croix",
+              "content": "La croix est liée au verbe « prendre » puis à l’appel à suivre Jésus. Elle ne désigne pas toute souffrance subie ni une recherche de douleur, mais le coût concret de la fidélité sur le chemin du Christ.",
+              "related": [
+                "λαμβάνει",
+                "ἀκολουθεῖ",
+                "ὀπίσω"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀκολουθεῖ",
+            "gloss": "suit",
+            "annotation": {
+              "type": "repetition",
+              "title": "Suivre le Christ",
+              "content": "Le verbe ἀκολουθέω relie Matthieu 10 à la question de Pierre en Matthieu 19. Prendre la croix et laisser certaines sécurités reçoivent leur sens de cette suite personnelle du Christ.",
+              "related": [
+                "ἠκολουθήσαμέν",
+                "ἀκολουθήσαντές",
+                "σταυρὸν"
+              ]
+            }
+          },
+          {
+            "greek": "ὀπίσω",
+            "gloss": "après"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἄξιος.",
+            "gloss": "digne"
+          }
         ]
       },
       {
@@ -126,23 +434,85 @@
           "darby": "Alors Pierre, répondant, lui dit : Voici, nous avons tout quitté et nous t'avons suivi ; qu'en sera-t-il donc pour nous ?"
         },
         "interlinear": [
-          { "greek": "Τότε", "gloss": "Alors" },
-          { "greek": "ἀποκριθεὶς", "gloss": "ayant_répondu" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Πέτρος", "gloss": "Pierre" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Ἰδοὺ", "gloss": "Voici" },
-          { "greek": "ἡμεῖς", "gloss": "nous" },
-          { "greek": "ἀφήκαμεν", "gloss": "avons_laissé/quitté", "analyse": "Du verbe *aphiēmi* (*apo* : hors de, et *hiēmi* : envoyer, lâcher). C'est le geste eucharistique de délestement. À l'image de la Samaritaine laissant son hydrie, les apôtres lâchent leurs filets et leurs sécurités matérielles (l'Avoir) pour créer l'espace en creux indispensable à l'avènement de l'Être." },
-          { "greek": "πάντα", "gloss": "toutes_choses" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἠκολουθήσαμέν", "gloss": "avons_suivi" },
-          { "greek": "σοι·", "gloss": "toi" },
-          { "greek": "τί", "gloss": "quoi" },
-          { "greek": "ἄρα", "gloss": "donc" },
-          { "greek": "ἔσται", "gloss": "sera" },
-          { "greek": "ἡμῖν;", "gloss": "pour_nous" }
+          {
+            "greek": "Τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "ayant_répondu"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Πέτρος",
+            "gloss": "Pierre"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἰδοὺ",
+            "gloss": "Voici"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἀφήκαμεν",
+            "gloss": "avons_laissé/quitté",
+            "annotation": {
+              "type": "analyse",
+              "title": "« Nous avons tout laissé »",
+              "content": "Pierre nomme le renoncement des disciples puis demande ce qu’il en adviendra. Sa question n’est pas supprimée du récit : elle reçoit une réponse qui associe promesse, renouvellement et renversement des rangs.",
+              "related": [
+                "πάντα",
+                "ἠκολουθήσαμέν",
+                "ἔσται",
+                "ἡμῖν;"
+              ]
+            }
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἠκολουθήσαμέν",
+            "gloss": "avons_suivi"
+          },
+          {
+            "greek": "σοι·",
+            "gloss": "toi"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quoi"
+          },
+          {
+            "greek": "ἄρα",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἔσται",
+            "gloss": "sera"
+          },
+          {
+            "greek": "ἡμῖν;",
+            "gloss": "pour_nous"
+          }
         ]
       },
       {
@@ -152,44 +522,178 @@
           "darby": "Et Jésus leur dit : En vérité, je vous dis que vous qui m'avez suivi, -dans la régénération, quand le Fils de l'homme s'assiéra sur le trône de sa gloire, vous aussi vous serez assis sur douze trônes, jugeant les douze tribus d'Israël."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Ἀμὴν", "gloss": "En_vérité" },
-          { "greek": "λέγω", "gloss": "je_dis" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "ἀκολουθήσαντές", "gloss": "ayant_suivi" },
-          { "greek": "μοι", "gloss": "moi" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "παλιγγενεσίᾳ,", "gloss": "régénération/re-naissance", "analyse": "Formé de *palin* (de nouveau) et *genesis* (naissance/engendrement, racine *gen-*). Ce terme désigne l'état du monde transfiguré, la re-naissance cosmique inaugurée par la Résurrection. Les Sujets ne subissent plus la corruption biologique de la chute ; ils sont co-engendrés dans le Royaume UN." },
-          { "greek": "ὅταν", "gloss": "quand" },
-          { "greek": "καθίσῃ", "gloss": "sera_assis" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "υἱὸς", "gloss": "Fils" },
-          { "greek": "τοῦ", "gloss": "de_l'" },
-          { "greek": "ἀνθρώπου", "gloss": "homme" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "θρόνου", "gloss": "trône", "analyse": "Du radical indo-européen *dher-* (tenir fermement, supporter). Le trône (*thronos*) est le symbole de l'assise stable du Sujet unifié. Il s'oppose à l'agitation chaotique et fluctuante de la foule égarée dans le Monde duel." },
-          { "greek": "δόξης", "gloss": "de_gloire" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "καθίσεσθε", "gloss": "serez_assis" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "δώδεκα", "gloss": "douze" },
-          { "greek": "θρόνους", "gloss": "trônes" },
-          { "greek": "κρίνοντες", "gloss": "jugeant", "analyse": "Du verbe *krinō* (trier, séparer, discerner). Ce jugement n'est pas la condamnation duitaire du monde, mais le discernement pur de la Lumière qui sépare le réel de l'illusion. Le Sujet restauré participe à la vision divine du Tout." },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "δώδεκα", "gloss": "douze" },
-          { "greek": "φυλὰς", "gloss": "tribus" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "Ἰσραήλ.", "gloss": "Israël" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Ἀμὴν",
+            "gloss": "En_vérité"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἀκολουθήσαντές",
+            "gloss": "ayant_suivi"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "παλιγγενεσίᾳ,",
+            "gloss": "régénération/re-naissance",
+            "annotation": {
+              "type": "racine",
+              "title": "Le renouvellement — παλιγγενεσία",
+              "content": "Le terme unit πάλιν (« de nouveau ») et γένεσις (« naissance, origine »). Il peut être rendu par « régénération », « renouvellement » ou « nouvelle naissance » ; Matthieu l’associe ici à la venue glorieuse du Fils de l’homme.",
+              "related": [
+                "καθίσῃ",
+                "υἱὸς",
+                "δόξης"
+              ]
+            }
+          },
+          {
+            "greek": "ὅταν",
+            "gloss": "quand"
+          },
+          {
+            "greek": "καθίσῃ",
+            "gloss": "sera_assis"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "homme"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "θρόνου",
+            "gloss": "trône"
+          },
+          {
+            "greek": "δόξης",
+            "gloss": "de_gloire"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καθίσεσθε",
+            "gloss": "serez_assis"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "δώδεκα",
+            "gloss": "douze"
+          },
+          {
+            "greek": "θρόνους",
+            "gloss": "trônes"
+          },
+          {
+            "greek": "κρίνοντες",
+            "gloss": "jugeant",
+            "annotation": {
+              "type": "theologie",
+              "title": "Juger les douze tribus",
+              "content": "Le verbe κρίνω peut signifier juger, décider ou discerner. Dans la scène du renouvellement, cette promesse est associée au règne du Fils de l’homme ; elle ne donne pas au disciple un permis de condamner autrui, mais annonce sa participation au jugement et au Royaume du Christ.",
+              "related": [
+                "θρόνου",
+                "δώδεκα",
+                "φυλὰς"
+              ]
+            }
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δώδεκα",
+            "gloss": "douze"
+          },
+          {
+            "greek": "φυλὰς",
+            "gloss": "tribus"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἰσραήλ.",
+            "gloss": "Israël"
+          }
         ]
       },
       {
@@ -199,33 +703,134 @@
           "darby": "Et quiconque aura quitté maisons, ou frères, ou sœurs, ou père, ou mère, ou femme, ou enfants, ou champs, pour mon nom, en recevra cent fois autant, et héritera de la vie éternelle."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πᾶς", "gloss": "quiconque" },
-          { "greek": "ὅστις", "gloss": "qui" },
-          { "greek": "ἀφῆκεν", "gloss": "aura_quitté/laissé" },
-          { "greek": "οἰκίας", "gloss": "maisons" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "ἀδελφοὺς", "gloss": "frères" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "ἀδελφὰς", "gloss": "sœurs" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "πατέρα", "gloss": "père" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "μητέρα", "gloss": "mère" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "τέκνα", "gloss": "enfants" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "ἀγροὺς", "gloss": "champs" },
-          { "greek": "ἕνεκεν", "gloss": "à_cause_de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "ἐμοῦ", "gloss": "mien" },
-          { "greek": "ὀνόματος,", "gloss": "nom" },
-          { "greek": "ἑκατονταπλασίονα", "gloss": "le_centuple" },
-          { "greek": "λήμψεται", "gloss": "recevra" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ζωὴν", "gloss": "vie" },
-          { "greek": "αἰώνιον", "gloss": "éternelle" },
-          { "greek": "κληρονομήσει.", "gloss": "héritera", "analyse": "Du verbe *klēronomeō* (*klēros* : le sort/la part, et *nomos* : la loi/le partage). Hériter du Royaume n'est pas une conquête par la force de l'Ego, mais la réception passive et joyeuse de la part eucharistique préparée par le Père de toute éternité." }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πᾶς",
+            "gloss": "quiconque"
+          },
+          {
+            "greek": "ὅστις",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἀφῆκεν",
+            "gloss": "aura_quitté/laissé",
+            "annotation": {
+              "type": "traduction",
+              "title": "Laisser ou quitter — ἀφῆκεν",
+              "content": "Ἀφίημι possède un champ de sens large : laisser, remettre, permettre, pardonner. Dans cette liste, il désigne ce qui a été quitté à cause du nom du Christ et ne transforme pas toute séparation familiale en vertu.",
+              "related": [
+                "ἕνεκεν",
+                "ὀνόματος,",
+                "λήμψεται"
+              ]
+            }
+          },
+          {
+            "greek": "οἰκίας",
+            "gloss": "maisons"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἀδελφοὺς",
+            "gloss": "frères"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἀδελφὰς",
+            "gloss": "sœurs"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "πατέρα",
+            "gloss": "père"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "μητέρα",
+            "gloss": "mère"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "τέκνα",
+            "gloss": "enfants"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἀγροὺς",
+            "gloss": "champs"
+          },
+          {
+            "greek": "ἕνεκεν",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "mien"
+          },
+          {
+            "greek": "ὀνόματος,",
+            "gloss": "nom"
+          },
+          {
+            "greek": "ἑκατονταπλασίονα",
+            "gloss": "le_centuple"
+          },
+          {
+            "greek": "λήμψεται",
+            "gloss": "recevra"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "vie"
+          },
+          {
+            "greek": "αἰώνιον",
+            "gloss": "éternelle"
+          },
+          {
+            "greek": "κληρονομήσει.",
+            "gloss": "héritera",
+            "annotation": {
+              "type": "theologie",
+              "title": "Hériter de la vie éternelle",
+              "content": "Le verbe κληρονομέω parle de recevoir un héritage. La vie éternelle apparaît ainsi comme une promesse reçue plutôt que comme la rémunération calculable d’un sacrifice.",
+              "related": [
+                "ζωὴν",
+                "αἰώνιον",
+                "λήμψεται"
+              ]
+            }
+          }
         ]
       },
       {
@@ -235,22 +840,150 @@
           "darby": "Mais plusieurs premiers seront les derniers, et des derniers seront les premiers."
         },
         "interlinear": [
-          { "greek": "Πολλοὶ", "gloss": "Plusieurs" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἔσονται", "gloss": "seront" },
-          { "greek": "πρῶτοι", "gloss": "premiers" },
-          { "greek": "ἔσχατοι", "gloss": "derniers" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔσχατοι", "gloss": "derniers" },
-          { "greek": "πρῶτοι.", "gloss": "premiers" }
+          {
+            "greek": "Πολλοὶ",
+            "gloss": "Plusieurs"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἔσονται",
+            "gloss": "seront"
+          },
+          {
+            "greek": "πρῶτοι",
+            "gloss": "premiers",
+            "annotation": {
+              "type": "repetition",
+              "title": "Premiers et derniers",
+              "content": "La formule inverse deux fois les premiers et les derniers. Elle empêche de convertir la promesse précédente en hiérarchie assurée et maintient le disciple dans l’humilité devant le jugement de Dieu.",
+              "related": [
+                "ἔσχατοι",
+                "πρῶτοι."
+              ]
+            }
+          },
+          {
+            "greek": "ἔσχατοι",
+            "gloss": "derniers"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔσχατοι",
+            "gloss": "derniers"
+          },
+          {
+            "greek": "πρῶτοι.",
+            "gloss": "premiers"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Matthieu 10, 32 - ὁμολογήσει : Rendu par 'confessera'. La traduction courante réduit ce terme à une déclaration verbale ou dogmatique. En réalité, l'étymologie (*homou-logos*) indique une identification ontologique profonde, un ajustement du Sujet humain qui fait sienne la Parole vivante du Christ.\n• Matthieu 19, 28 - παλιγγενεσίᾳ : Traduit par 'renouvellement de toutes choses' ou 'régénération'. Le mot grec est beaucoup plus organique : c'est une 're-naissance' ou un 'nouvel engendrement' (racine *gen-*). Il marque l'effondrement des lois de la corruption pour faire place à la création transfigurée.\n• Matthieu 19, 29 - ἀφῆκεν : Traduit par 'quitté'. Le sens de la racine (*aphiēmi*) porte une dimension de kénose et d'abandon volontaire, un détachement actif des objets de possession pour entrer libre dans l'axe de la relation.\n\nAnalyse spirituelle :\nLe Dimanche de Tous les Saints, premier dimanche après la Pentecôte, couronne l'ensemble du cycle pascal en montrant le fruit concret de l'effusion de l'Esprit Saint : la naissance historique des Sujets sanctifiés. Le texte de Matthieu pose les conditions de cette métamorphose radicale qui arrache l'homme à la matrice du 'Monde duel'.\n\nL'appel à 'confesser' le Christ devant les hommes (*homologēsei*) exige une rupture vis-à-vis du suivisme de la foule. L'Ego se définit par ses attachements fusionnels de possession et de sécurité biologique (père, mère, enfants, champs). Ces structures horizontales, bien que légitimes biologiquement, deviennent des idoles aliénantes si elles s'opposent à la verticalité de l'Esprit. Le Christ exige un détachement eucharistique (*aphiēmi*), un vide intérieur comparable au linceul abandonné dans le tombeau ou à l'hydrie laissée par la Samaritaine.\n\nCe sacrifice n'est pas une mutilation, mais la condition de la *palingenesia*, la re-naissance de tout l'être. En acceptant de porter sa croix (l'instrument kénotique de l'Arbre de Vie), l'homme cesse d'être l'Objet des circonstances pour devenir un Sujet stable, assis fermement sur le trône (*thronos*) de sa dignité restaurée. Le renversement final ('les premiers seront les derniers') scelle la faillite définitive des hiérarchies de force et de préhension du monde, ouvrant l'ère eucharistique où la vie se reçoit comme un don gratuit et partagé dans la communion du Royaume UN."
+    "personal_analysis": "Notes sur le texte grec :\n• Matthieu 10, 32 — ὁμολογήσει : « reconnaîtra, confessera ». Le verbe associe ὁμός (« même ») et λέγω (« dire »), mais son emploi signifie ici reconnaître publiquement le Christ devant les hommes. Il ne faut pas faire porter à cette composition, à elle seule, l’idée d’une identification ontologique.\n• Matthieu 10, 37 — ὑπὲρ ἐμέ : « plus que moi ». Jésus ne condamne pas l’amour du père, de la mère ou des enfants ; il demande que même les liens les plus légitimes ne prennent pas la place première qui revient à sa suite.\n• Matthieu 19, 28 — παλιγγενεσίᾳ : « renouvellement, nouvelle naissance, régénération ». Le mot unit πάλιν (« de nouveau ») et γένεσις (« naissance, origine »). Dans la phrase, il désigne le renouvellement où le Fils de l’homme siègera sur son trône de gloire.\n• Matthieu 19, 29 — ἀφῆκεν : « a laissé, quitté ». Le verbe ἀφίημι peut signifier laisser, remettre, permettre ou pardonner selon le contexte. Ici, il décrit ce qui a été quitté à cause du nom du Christ ; le texte lui associe promesse de réception et vie éternelle.\n\nAnalyse spirituelle :\nLe dimanche de Tous les Saints présente la sainteté non comme une catégorie réservée à quelques figures extraordinaires, mais comme la forme accomplie du témoignage chrétien. Confesser le Christ « devant les hommes » signifie rendre visible une relation qui ne reste pas enfermée dans l’intériorité. La réponse promise — le Christ confessant le disciple devant le Père — inscrit ce témoignage humain dans une relation plus grande que lui.\n\nLes paroles sur la famille sont exigeantes et doivent être proclamées sans mépriser les liens humains. Le comparatif « plus que moi » indique une priorité : aucun amour, même juste, ne peut devenir absolu au point d’empêcher la fidélité au Christ. Prendre sa croix et suivre ne consiste pas à rechercher la souffrance, mais à recevoir le chemin concret où l’amour du Christ demande vérité, liberté et persévérance.\n\nPierre formule ensuite une question très humaine : « Nous avons tout laissé et nous t’avons suivi ; qu’en sera-t-il pour nous ? » Jésus ne nie pas le renoncement. Il l’inscrit dans la promesse du renouvellement, de la vie éternelle et d’une fécondité qui dépasse ce qui a été quitté. Cette promesse ne transforme pas le sacrifice en transaction : la conclusion sur les premiers et les derniers renverse précisément toute prétention à établir un classement devant Dieu.\n\nLa sainteté peut donc être entendue comme un témoignage public, une priorité réordonnée, une croix portée à la suite du Christ et une espérance reçue. Elle ne produit pas des vies uniformes ; elle laisse la grâce rejoindre des personnes, des relations et des vocations singulières.",
+    "homiletic_axes": [
+      {
+        "title": "Confesser le Christ : une relation rendue visible",
+        "content": "Reconnaître le Christ devant les hommes ne se réduit ni à une formule ni à une démonstration. La parole et la vie rendent publiquement visible l’appartenance au Christ, qui promet à son tour de reconnaître le disciple devant le Père.",
+        "keywords": [
+          "ὁμολογήσει",
+          "ὁμολογήσω",
+          "ἔμπροσθεν"
+        ]
+      },
+      {
+        "title": "Aimer sans faire d’un lien un absolu",
+        "content": "Le texte dit « aimer plus que moi ». Il ne dévalorise pas la famille, mais soumet tout amour à la vérité de la relation au Christ, afin que même les liens les plus précieux ne deviennent ni possession ni obstacle à la fidélité.",
+        "keywords": [
+          "φιλῶν",
+          "ὑπὲρ",
+          "ἄξιος·"
+        ]
+      },
+      {
+        "title": "Prendre sa croix et suivre",
+        "content": "La croix n’est pas isolée de la suite : Jésus parle de la prendre et de marcher derrière lui. L’axe peut porter sur une fidélité concrète qui ne recherche pas la souffrance, mais ne fuit pas le coût de l’amour et de la vérité.",
+        "keywords": [
+          "λαμβάνει",
+          "σταυρὸν",
+          "ἀκολουθεῖ"
+        ]
+      },
+      {
+        "title": "« Qu’en sera-t-il pour nous ? »",
+        "content": "Pierre exprime le besoin de comprendre ce que devient ce qui a été laissé. Jésus répond par le renouvellement, la vie éternelle et une réception surabondante, puis il déjoue tout calcul de rang par le renversement des premiers et des derniers.",
+        "keywords": [
+          "ἀφήκαμεν",
+          "παλιγγενεσίᾳ,",
+          "ζωὴν",
+          "πρῶτοι",
+          "ἔσχατοι"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre entrée : confesser, être reconnu, aimer « plus que », prendre la croix, suivre, laisser, renaître, recevoir la vie ou voir les premiers devenir derniers."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l’Évangile",
+        "prompt": "Suivez un mouvement : de la confession devant les hommes à la reconnaissance devant le Père ; de l’amour familial à la priorité du Christ ; ou de ce qui est laissé à la promesse et au renversement final."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez le don central : le Christ reconnaît celui qui le confesse, il ouvre un chemin à sa suite, et ce qui est offert à cause de son nom est repris dans la promesse de la vie."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une situation concrète : peur d’assumer sa foi, conflit de loyautés, relation devenue possessive, coût d’une fidélité, renoncement sans résultat visible ou désir d’être reconnu."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre : poser une parole vraie, remettre un lien à sa juste place, accomplir un pas à la suite du Christ, porter une responsabilité ou confier à Dieu ce que l’on a laissé."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Évitez de dresser un portrait inaccessible du saint. Faites entendre les verbes accessibles à chacun — confesser, aimer, prendre, suivre, laisser, recevoir — et terminez par l’espérance du renouvellement."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Tous les Saints, fruit de la Pentecôte",
+        "reference": "Actes 2 ; Matthieu 10, 32-38 ; Hébreux 11, 33–12, 2",
+        "content": "Placée au premier dimanche après la Pentecôte, la fête manifeste la fécondité de l’Esprit dans des vies humaines concrètes. L’effusion reçue par l’Église ne demeure pas un événement isolé : elle devient confession, persévérance et sainteté dans une multitude de témoins.",
+        "connections": [
+          {
+            "label": "De l’Esprit au témoignage",
+            "content": "À la Pentecôte, les merveilles de Dieu sont proclamées ; l’Évangile de ce dimanche appelle à reconnaître le Christ devant les hommes."
+          },
+          {
+            "label": "De l’événement à une nuée de vies",
+            "content": "L’épître ne présente pas un modèle unique, mais une nuée de témoins dont les chemins, les combats et les formes de fidélité sont multiples."
+          }
+        ]
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Hébreux 11, 33 - 12, 2",
-    "title": "La nuée des témoins : Le triomphe des Sujets sur le Monde duel",
+    "title": "La nuée des témoins et la course les yeux fixés sur Jésus",
     "interlinear": [
       {
         "verse_number": "11, 33",
@@ -259,18 +992,63 @@
           "darby": "qui, par la foi, soumirent des royaumes, accomplirent la justice, obtinrent les choses promises, fermèrent la gueule des lions,"
         },
         "interlinear": [
-          { "greek": "οἳ", "gloss": "lesquels" },
-          { "greek": "διὰ", "gloss": "par_la" },
-          { "greek": "πίστεως", "gloss": "foi" },
-          { "greek": "κατηγωνίσαντο", "gloss": "vainquirent/soumirent" },
-          { "greek": "βασιλείας,", "gloss": "des_royaumes" },
-          { "greek": "εἰργάσαντο", "gloss": "accomplirent/exercèrent" },
-          { "greek": "δικαιοσύνην,", "gloss": "la_justice" },
-          { "greek": "ἐπέτυχον", "gloss": "obtinrent" },
-          { "greek": "ἐπαγγελιῶν,", "gloss": "des_promesses" },
-          { "greek": "ἔφραξαν", "gloss": "fermèrent" },
-          { "greek": "στόματα", "gloss": "des_gueules/bouches" },
-          { "greek": "λεόντων,", "gloss": "de_lions" }
+          {
+            "greek": "οἳ",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi",
+            "annotation": {
+              "type": "repetition",
+              "title": "Par la foi",
+              "content": "La foi traverse toute l’énumération et relie des issues très différentes : victoires, délivrances, endurance et mort. Le texte ne l’identifie donc pas à la garantie d’un succès visible.",
+              "related": [
+                "μαρτυρηθέντες",
+                "ἐπαγγελίαν,"
+              ]
+            }
+          },
+          {
+            "greek": "κατηγωνίσαντο",
+            "gloss": "vainquirent/soumirent"
+          },
+          {
+            "greek": "βασιλείας,",
+            "gloss": "des_royaumes"
+          },
+          {
+            "greek": "εἰργάσαντο",
+            "gloss": "accomplirent/exercèrent"
+          },
+          {
+            "greek": "δικαιοσύνην,",
+            "gloss": "la_justice"
+          },
+          {
+            "greek": "ἐπέτυχον",
+            "gloss": "obtinrent"
+          },
+          {
+            "greek": "ἐπαγγελιῶν,",
+            "gloss": "des_promesses"
+          },
+          {
+            "greek": "ἔφραξαν",
+            "gloss": "fermèrent"
+          },
+          {
+            "greek": "στόματα",
+            "gloss": "des_gueules/bouches"
+          },
+          {
+            "greek": "λεόντων,",
+            "gloss": "de_lions"
+          }
         ]
       },
       {
@@ -280,22 +1058,79 @@
           "darby": "éteignirent la force du feu, échappèrent au tranchant de l'épée, de faibles qu'ils étaient furent rendus vigoureux, devinrent forts dans la bataille, firent ployer les armées des étrangers."
         },
         "interlinear": [
-          { "greek": "ἔσβεσαν", "gloss": "éteignirent" },
-          { "greek": "δύναμιν", "gloss": "la_puissance/force" },
-          { "greek": "πυρός,", "gloss": "du_feu" },
-          { "greek": "ἔφυγον", "gloss": "échappèrent" },
-          { "greek": "στόματα", "gloss": "aux_bouches/tranchants" },
-          { "greek": "μαχαίρης,", "gloss": "de_l'épée" },
-          { "greek": "ἐδυναμώθησαν", "gloss": "furent_rendus_forts" },
-          { "greek": "ἀπὸ", "gloss": "à_partir_de" },
-          { "greek": "ἀσθενείας,", "gloss": "la_faiblesse" },
-          { "greek": "ἐγενήθησαν", "gloss": "ils_devinrent" },
-          { "greek": "ἰσχυροὶ", "gloss": "forts/vaillants" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "πολέμῳ,", "gloss": "la_guerre" },
-          { "greek": "παρεμβολὰς", "gloss": "des_camps/armées" },
-          { "greek": "ἔκλιναν", "gloss": "firent_fuir/ployer" },
-          { "greek": "ἀλλοτρίων·", "gloss": "d'étrangers" }
+          {
+            "greek": "ἔσβεσαν",
+            "gloss": "éteignirent"
+          },
+          {
+            "greek": "δύναμιν",
+            "gloss": "la_puissance/force"
+          },
+          {
+            "greek": "πυρός,",
+            "gloss": "du_feu"
+          },
+          {
+            "greek": "ἔφυγον",
+            "gloss": "échappèrent"
+          },
+          {
+            "greek": "στόματα",
+            "gloss": "aux_bouches/tranchants"
+          },
+          {
+            "greek": "μαχαίρης,",
+            "gloss": "de_l'épée"
+          },
+          {
+            "greek": "ἐδυναμώθησαν",
+            "gloss": "furent_rendus_forts",
+            "annotation": {
+              "type": "theologie",
+              "title": "Rendus forts à partir de la faiblesse",
+              "content": "Le passif souligne une force reçue : ils furent rendus puissants « à partir de la faiblesse ». La foi n’efface pas rétrospectivement la faiblesse ; elle devient le lieu d’une force qui ne vient pas d’eux seuls.",
+              "related": [
+                "ἀσθενείας,",
+                "ἰσχυροὶ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "à_partir_de"
+          },
+          {
+            "greek": "ἀσθενείας,",
+            "gloss": "la_faiblesse"
+          },
+          {
+            "greek": "ἐγενήθησαν",
+            "gloss": "ils_devinrent"
+          },
+          {
+            "greek": "ἰσχυροὶ",
+            "gloss": "forts/vaillants"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πολέμῳ,",
+            "gloss": "la_guerre"
+          },
+          {
+            "greek": "παρεμβολὰς",
+            "gloss": "des_camps/armées"
+          },
+          {
+            "greek": "ἔκλιναν",
+            "gloss": "firent_fuir/ployer"
+          },
+          {
+            "greek": "ἀλλοτρίων·",
+            "gloss": "d'étrangers"
+          }
         ]
       },
       {
@@ -305,24 +1140,88 @@
           "darby": "Des femmes ont recouvré leurs morts par la résurrection ; et d'autres ont été torturés, n'acceptant pas la délivrance, afin d'obtenir une meilleure résurrection ;"
         },
         "interlinear": [
-          { "greek": "ἔλαβον", "gloss": "reçurent" },
-          { "greek": "γυναῖκες", "gloss": "des_femmes" },
-          { "greek": "ἐξ", "gloss": "par_la" },
-          { "greek": "ἀναστάσεως", "gloss": "résurrection" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "νεκροὺς", "gloss": "morts" },
-          { "greek": "αὐτῶν·", "gloss": "d'elles" },
-          { "greek": "ἄλλοι", "gloss": "d'autres" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐτυμπανίσθησαν", "gloss": "furent_torturés/roués_de_coups" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "προσδεξάμενοι", "gloss": "ayant_accepté", "analyse": "Le refus du compromis. L'Ego cherche à préserver sa survie biologique à tout prix. Ces martyrs refusent la 'délivrance' terrestre offerte par le Monde duel, car l'accepter signifierait renier leur posture de Sujet pour retomber sous l'esclavage de l'idéologie mondaine." },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἀπολύτρωσιν,", "gloss": "délivrance/rachat" },
-          { "greek": "ἵνα", "gloss": "afin_d'" },
-          { "greek": "κρείττονος", "gloss": "une_meilleure" },
-          { "greek": "ἀναστάσεως", "gloss": "résurrection" },
-          { "greek": "τύχωσιν·", "gloss": "obtenir" }
+          {
+            "greek": "ἔλαβον",
+            "gloss": "reçurent"
+          },
+          {
+            "greek": "γυναῖκες",
+            "gloss": "des_femmes"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "ἀναστάσεως",
+            "gloss": "résurrection"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "νεκροὺς",
+            "gloss": "morts"
+          },
+          {
+            "greek": "αὐτῶν·",
+            "gloss": "d'elles"
+          },
+          {
+            "greek": "ἄλλοι",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐτυμπανίσθησαν",
+            "gloss": "furent_torturés/roués_de_coups"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "προσδεξάμενοι",
+            "gloss": "ayant_accepté",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ne pas accepter la délivrance proposée",
+              "content": "Προσδέχομαι signifie accueillir ou accepter ce qui vient à soi. Avec la négation, certains martyrs n’acceptent pas la délivrance proposée, dans l’espérance d’une meilleure résurrection. Le mouvement de πρός (« vers ») ne suffit pas à lui seul à produire un sens spirituel ; il rend toutefois sensible ici l’offre qui se présente et que leur fidélité discerne. Le texte ne fait pas du refus de toute aide une règle générale.",
+              "related": [
+                "ἀπολύτρωσιν,",
+                "κρείττονος",
+                "ἀναστάσεως"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀπολύτρωσιν,",
+            "gloss": "délivrance/rachat"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_d'"
+          },
+          {
+            "greek": "κρείττονος",
+            "gloss": "une_meilleure"
+          },
+          {
+            "greek": "ἀναστάσεως",
+            "gloss": "résurrection"
+          },
+          {
+            "greek": "τύχωσιν·",
+            "gloss": "obtenir"
+          }
         ]
       },
       {
@@ -332,18 +1231,54 @@
           "darby": "et d'autres ont éprouvé les moqueries et les fouets, et, de plus, les liens et la prison."
         },
         "interlinear": [
-          { "greek": "ἕτεροι", "gloss": "d'autres" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐμπαιγμῶν", "gloss": "de_moqueries" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μαστίγων", "gloss": "de_fouets" },
-          { "greek": "πεῖραν", "gloss": "l'épreuve" },
-          { "greek": "ἔλαβον,", "gloss": "prirent/subirent" },
-          { "greek": "ἔτι", "gloss": "encore" },
-          { "greek": "δὲ", "gloss": "de_plus" },
-          { "greek": "δεσμῶν", "gloss": "de_liens/chaînes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "φυλακῆς·", "gloss": "de_prison" }
+          {
+            "greek": "ἕτεροι",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐμπαιγμῶν",
+            "gloss": "de_moqueries"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μαστίγων",
+            "gloss": "de_fouets"
+          },
+          {
+            "greek": "πεῖραν",
+            "gloss": "l'épreuve"
+          },
+          {
+            "greek": "ἔλαβον,",
+            "gloss": "prirent/subirent"
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "encore"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "de_plus"
+          },
+          {
+            "greek": "δεσμῶν",
+            "gloss": "de_liens/chaînes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φυλακῆς·",
+            "gloss": "de_prison"
+          }
         ]
       },
       {
@@ -353,22 +1288,70 @@
           "darby": "ils ont été lapidés, ils ont été sciés, ils ont été tentés, ils ont été mis à mort par le meurtre de l'épée, ils ont erré çà et là vêtus de peaux de brebis, de peaux de chèvres, dans le besoin, affligés, maltraités"
         },
         "interlinear": [
-          { "greek": "ἐλιθάσθησαν,", "gloss": "ils_furent_lapidés" },
-          { "greek": "ἐπρίσθησαν,", "gloss": "ils_furent_sciés" },
-          { "greek": "ἐπειράσθησαν,", "gloss": "ils_furent_tentés/torturés" },
-          { "greek": "ἐν", "gloss": "par" },
-          { "greek": "φόνῳ", "gloss": "le_meurtre" },
-          { "greek": "μαχαίρης", "gloss": "de_l'épée" },
-          { "greek": "ἀπέθανον,", "gloss": "ils_moururent" },
-          { "greek": "περιῆλθον", "gloss": "ils_allèrent_çà_et_là" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "μηλωταῖς,", "gloss": "peaux_de_brebis" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "αἰγείοις", "gloss": "de_chèvres" },
-          { "greek": "δέρμασιν,", "gloss": "peaux" },
-          { "greek": "ὑστερούμενοι,", "gloss": "dénués_de_tout/dans_le_besoin" },
-          { "greek": "θλιβόμενοι,", "gloss": "persécutés/affligés" },
-          { "greek": "κακουχούμενοι,", "gloss": "maltraités" }
+          {
+            "greek": "ἐλιθάσθησαν,",
+            "gloss": "ils_furent_lapidés"
+          },
+          {
+            "greek": "ἐπρίσθησαν,",
+            "gloss": "ils_furent_sciés"
+          },
+          {
+            "greek": "ἐπειράσθησαν,",
+            "gloss": "ils_furent_tentés/torturés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par"
+          },
+          {
+            "greek": "φόνῳ",
+            "gloss": "le_meurtre"
+          },
+          {
+            "greek": "μαχαίρης",
+            "gloss": "de_l'épée"
+          },
+          {
+            "greek": "ἀπέθανον,",
+            "gloss": "ils_moururent"
+          },
+          {
+            "greek": "περιῆλθον",
+            "gloss": "ils_allèrent_çà_et_là"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "μηλωταῖς,",
+            "gloss": "peaux_de_brebis"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "αἰγείοις",
+            "gloss": "de_chèvres"
+          },
+          {
+            "greek": "δέρμασιν,",
+            "gloss": "peaux"
+          },
+          {
+            "greek": "ὑστερούμενοι,",
+            "gloss": "dénués_de_tout/dans_le_besoin"
+          },
+          {
+            "greek": "θλιβόμενοι,",
+            "gloss": "persécutés/affligés"
+          },
+          {
+            "greek": "κακουχούμενοι,",
+            "gloss": "maltraités"
+          }
         ]
       },
       {
@@ -378,28 +1361,98 @@
           "darby": "(desquels le monde n'était pas digne), errants dans les déserts et les montagnes, et les cavernes et les trous de la terre."
         },
         "interlinear": [
-          { "greek": "ὧν", "gloss": "desquels" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "ἄξιος", "gloss": "digne", "analyse": "La racine *agō* (peser). 'Dont le monde ne faisait pas le poids'. Le paradoxe ultime : ces hommes et femmes dépouillés de tout Avoir, chassés et objectivés par la violence (prison, épée), pèsent ontologiquement plus lourd que l'intégralité du Monde duel. Leur fidélité au Royaume UN leur confère une consistance divine que la foule ne peut détruire." },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κόσμος", "gloss": "monde" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "ἐρημίαις", "gloss": "les_déserts" },
-          { 
-  "greek": "<span class='encadre mot-info' data-analyse='Racine PLAN- : l errance, la multitude chaotique du monde qui s oppose à l Un.'>πλαν</span><span class='mot-info' data-analyse='Forme passive : être mené dans l erreur par le monde.'>ώμενοι</span>", 
-  "gloss": "errants", 
-  "analyse": "L état des saints dans le monde : ils sont le mouvement de la vérité au milieu de l errance multiple du monde." 
-},
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὄρεσιν", "gloss": "les_montagnes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "σπηλαίοις", "gloss": "les_cavernes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "ὀπαῖς", "gloss": "trous/antres" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "γῆς.", "gloss": "terre" }
+          {
+            "greek": "ὧν",
+            "gloss": "desquels"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ἄξιος",
+            "gloss": "digne",
+            "annotation": {
+              "type": "theologie",
+              "title": "Le monde n’était pas digne d’eux",
+              "content": "Cette phrase renverse le mépris subi par des personnes démunies, errantes et maltraitées. Elle affirme leur valeur devant Dieu sans qu’il soit nécessaire de transformer ἄξιος en théorie étymologique du poids.",
+              "related": [
+                "κόσμος",
+                "ὑστερούμενοι,",
+                "κακουχούμενοι,"
+              ]
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμος",
+            "gloss": "monde"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ἐρημίαις",
+            "gloss": "les_déserts"
+          },
+          {
+            "greek": "πλανώμενοι",
+            "gloss": "errants",
+            "annotation": {
+              "type": "traduction",
+              "title": "Errant dans les déserts",
+              "content": "Le participe passif de πλανάω peut signifier être égaré ou errer. Dans la liste géographique des déserts, montagnes, cavernes et antres, il décrit ici des personnes contraintes à une existence errante.",
+              "related": [
+                "ἐρημίαις",
+                "ὄρεσιν",
+                "σπηλαίοις"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὄρεσιν",
+            "gloss": "les_montagnes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σπηλαίοις",
+            "gloss": "les_cavernes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὀπαῖς",
+            "gloss": "trous/antres"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "γῆς.",
+            "gloss": "terre"
+          }
         ]
       },
       {
@@ -409,17 +1462,69 @@
           "darby": "Et tous ceux-ci, ayant reçu témoignage par la foi, n'ont pas reçu la chose promise,"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "οὗτοι", "gloss": "ceux-ci" },
-          { "greek": "πάντες", "gloss": "tous" },
-          { "greek": "μαρτυρηθέντες", "gloss": "ayant_reçu_témoignage", "analyse": "La racine *martys* (témoin). Le martyr n'est pas qu'une victime souffrante, il est le témoin actif de la Lumière. En refusant de se prosterner devant les idoles du monde, il révèle que la vérité de l'Être est supérieure à la survie biologique." },
-          { "greek": "διὰ", "gloss": "par_la" },
-          { "greek": "τῆς", "gloss": "foi" },
-          { "greek": "πίστεως", "gloss": "foi" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἐκομίσαντο", "gloss": "reçurent/obtinrent" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἐπαγγελίαν,", "gloss": "promesse" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "οὗτοι",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "μαρτυρηθέντες",
+            "gloss": "ayant_reçu_témoignage",
+            "annotation": {
+              "type": "racine",
+              "title": "Ayant reçu témoignage",
+              "content": "Le verbe μαρτυρέω appartient à la famille de μάρτυς, « témoin ». Le passif signifie ici que ces croyants ont reçu un témoignage favorable à cause de leur foi, même s’ils n’ont pas encore obtenu la promesse.",
+              "related": [
+                "πίστεως",
+                "ἐκομίσαντο",
+                "ἐπαγγελίαν,"
+              ]
+            }
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "foi"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi",
+            "annotation": {
+              "type": "repetition",
+              "title": "Par la foi",
+              "content": "La foi traverse toute l’énumération et relie des issues très différentes : victoires, délivrances, endurance et mort. Le texte ne l’identifie donc pas à la garantie d’un succès visible.",
+              "related": [
+                "μαρτυρηθέντες",
+                "ἐπαγγελίαν,"
+              ]
+            }
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐκομίσαντο",
+            "gloss": "reçurent/obtinrent"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐπαγγελίαν,",
+            "gloss": "promesse"
+          }
         ]
       },
       {
@@ -429,18 +1534,63 @@
           "darby": "Dieu ayant eu en vue quelque chose de meilleur pour nous, afin qu'ils ne parvinssent pas à la perfection sans nous."
         },
         "interlinear": [
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "περὶ", "gloss": "pour" },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "κρεῖττόν", "gloss": "quelque_chose_de_meilleur" },
-          { "greek": "τι", "gloss": "quelque_chose" },
-          { "greek": "προβλεψαμένου,", "gloss": "ayant_eu_en_vue" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "χωρὶς", "gloss": "sans" },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "τελειωθῶσιν.", "gloss": "ils_parvinssent_à_la_perfection" }
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "κρεῖττόν",
+            "gloss": "quelque_chose_de_meilleur"
+          },
+          {
+            "greek": "τι",
+            "gloss": "quelque_chose"
+          },
+          {
+            "greek": "προβλεψαμένου,",
+            "gloss": "ayant_eu_en_vue"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "χωρὶς",
+            "gloss": "sans",
+            "annotation": {
+              "type": "theologie",
+              "title": "Ils ne seront pas accomplis sans nous",
+              "content": "Le « sans nous » relie les témoins anciens à la communauté présente. L’accomplissement promis n’est pas pensé comme une perfection solitaire, mais comme une communion qui traverse les générations.",
+              "related": [
+                "ἡμῶν",
+                "τελειωθῶσιν."
+              ]
+            }
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "τελειωθῶσιν.",
+            "gloss": "ils_parvinssent_à_la_perfection"
+          }
         ]
       },
       {
@@ -450,33 +1600,138 @@
           "darby": "C'est pourquoi, nous aussi, ayant une si grande nuée de témoins qui nous entoure, rejetant tout fardeau et le péché qui nous enveloppe si aisément, courons avec patience la course qui est devant nous,"
         },
         "interlinear": [
-          { "greek": "Τοιγαροῦν", "gloss": "C'est_pourquoi/Donc" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἡμεῖς,", "gloss": "nous" },
-          { "greek": "τοσοῦτον", "gloss": "une_si_grande" },
-          { "greek": "ἔχοντες", "gloss": "ayant" },
-          { "greek": "περικείμενον", "gloss": "qui_entoure/environne" },
-          { "greek": "ἡμῖν", "gloss": "nous" },
-          { "greek": "νέφος", "gloss": "nuée" },
-          { "greek": "μαρτύρων,", "gloss": "de_témoins" },
-          { "greek": "ὄγκον", "gloss": "fardeau/masse" },
-          { "greek": "ἀποθέμενοι", "gloss": "ayant_rejeté/déposé", "analyse": "Le geste kénotique par excellence. Le verbe *apotithemi* (déposer, se dépouiller de). L'Ego est lourd des fardeaux qu'il accumule ('l'Avoir'). Pour entrer dans le dynamisme de la Vie spirituelle ('la course'), le Sujet doit se vider de cette masse (Arbre de Vie), abandonnant l'obésité du péché qui entrave sa marche." },
-          { "greek": "πάντα", "gloss": "tout" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "εὐπερίστατον", "gloss": "enveloppant_aisément" },
-          { "greek": "ἁμαρτίαν,", "gloss": "péché" },
-          { "greek": "δι’", "gloss": "par_la" },
-          { 
-  "greek": "<span class='encadre mot-info' data-analyse='Racine HYPO (sous) + MONOS (seul). Se tenir sous la solitude : la persévérance. '>ὑπο</span><span class='mot-info' data-analyse='Terminaison -MONIS : le fait de demeurer. La stabilité de l être.'>μονῆς</span>", 
-  "gloss": "patience", 
-  "analyse": "La patience chrétienne n est pas une attente passive, mais l acte de se maintenir sous le poids de sa propre solitude pour devenir capable d accueillir la Nuée." 
-},
-          { "greek": "τρέχωμεν", "gloss": "courons" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "προκείμενον", "gloss": "ouverte/proposée" },
-          { "greek": "ἡμῖν", "gloss": "à_nous" },
-          { "greek": "ἀγῶνα,", "gloss": "course/combat" }
+          {
+            "greek": "Τοιγαροῦν",
+            "gloss": "C'est_pourquoi/Donc"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἡμεῖς,",
+            "gloss": "nous"
+          },
+          {
+            "greek": "τοσοῦτον",
+            "gloss": "une_si_grande"
+          },
+          {
+            "greek": "ἔχοντες",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "περικείμενον",
+            "gloss": "qui_entoure/environne"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "νέφος",
+            "gloss": "nuée",
+            "annotation": {
+              "type": "analyse",
+              "title": "Une nuée de témoins",
+              "content": "La multitude des témoins est comparée à une nuée qui entoure les coureurs. Leur présence encourage et atteste la fidélité de Dieu ; elle prépare l’appel à courir en regardant vers Jésus.",
+              "related": [
+                "μαρτύρων,",
+                "περικείμενον",
+                "τρέχωμεν"
+              ]
+            }
+          },
+          {
+            "greek": "μαρτύρων,",
+            "gloss": "de_témoins"
+          },
+          {
+            "greek": "ὄγκον",
+            "gloss": "fardeau/masse",
+            "annotation": {
+              "type": "traduction",
+              "title": "Tout poids ou encombrement",
+              "content": "Ὄγκος désigne une masse, un poids ou ce qui encombre. Dans l’image athlétique, il faut déposer ce qui gêne la course. Le mot ne suffit pas à identifier précisément ce poids à l’ego ni à une tumeur.",
+              "related": [
+                "ἀποθέμενοι",
+                "τρέχωμεν",
+                "ἀγῶνα,"
+              ]
+            }
+          },
+          {
+            "greek": "ἀποθέμενοι",
+            "gloss": "ayant_rejeté/déposé",
+            "annotation": {
+              "type": "racine",
+              "title": "Déposer loin de soi — ἀποθέμενοι",
+              "content": "Le verbe ἀποτίθημι signifie poser loin de soi, déposer ou enlever. Le préfixe ἀπό marque ici un éloignement concret : avant de courir, il faut se dessaisir du poids et du péché qui entrave. Le mouvement spirituel proposé par le texte est donc précis : non mépriser le monde, mais écarter ce qui empêche d’avancer vers le Christ.",
+              "related": [
+                "ὄγκον",
+                "ἁμαρτίαν,",
+                "τρέχωμεν"
+              ]
+            }
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "εὐπερίστατον",
+            "gloss": "enveloppant_aisément"
+          },
+          {
+            "greek": "ἁμαρτίαν,",
+            "gloss": "péché"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "ὑπομονῆς",
+            "gloss": "patience",
+            "annotation": {
+              "type": "racine",
+              "title": "Demeurer sous l’épreuve — ὑπομονή",
+              "content": "Ὑπομονή appartient à la famille de ὑπομένω : demeurer, tenir bon, endurer. La formation avec ὑπό peut éclairer l’image de celui qui reste sous une charge sans abandonner, à condition de ne pas réduire le sens du mot à son étymologie. Spirituellement, l’endurance n’est ni inertie ni goût de la souffrance : elle est la fidélité qui continue la course, les yeux fixés sur Jésus.",
+              "related": [
+                "τρέχωμεν",
+                "ἀγῶνα,",
+                "ὑπέμεινεν"
+              ]
+            }
+          },
+          {
+            "greek": "τρέχωμεν",
+            "gloss": "courons"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "προκείμενον",
+            "gloss": "ouverte/proposée"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "à_nous"
+          },
+          {
+            "greek": "ἀγῶνα,",
+            "gloss": "course/combat"
+          }
         ]
       },
       {
@@ -486,36 +1741,240 @@
           "darby": "fixant les yeux sur Jésus, le chef et le consommateur de la foi, lequel, à cause de la joie qui lui était proposée, a enduré la croix, ayant méprisé la honte, et est assis à la droite du trône de Dieu."
         },
         "interlinear": [
-          { "greek": "ἀφορῶντες", "gloss": "fixant_les_regards", "analyse": "Formé de *apo* (loin de) et *horao* (voir/regarder). C'est l'ultime purification des sens pascaux. Le verbe implique de 'détourner le regard' des idoles et des illusions du monde (les distractions mimétiques) pour le fixer exclusivement sur l'Incréé. La vue physique devient vision mystique." },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "πίστεως", "gloss": "foi" },
-          { "greek": "ἀρχηγὸν", "gloss": "chef/auteur" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τελειωτὴν", "gloss": "consommateur/finisseur" },
-          { "greek": "Ἰησοῦν,", "gloss": "Jésus" },
-          { "greek": "ὃς", "gloss": "qui" },
-          { "greek": "ἀντὶ", "gloss": "en_vue_de/à_la_place_de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "προκειμένης", "gloss": "proposée/réservée" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "χαρᾶς", "gloss": "joie" },
-          { "greek": "ὑπέμεινεν", "gloss": "a_souffert/enduré" },
-          { "greek": "σταυρὸν", "gloss": "la_croix" },
-          { "greek": "αἰσχύνης", "gloss": "l'ignominie/honte" },
-          { "greek": "καταφρονήσας,", "gloss": "ayant_méprisé" },
-          { "greek": "ἐν", "gloss": "à" },
-          { "greek": "δεξιᾷ", "gloss": "droite" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "θρόνου", "gloss": "trône" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "κεκάθικεν.", "gloss": "s'est_assis" }
+          {
+            "greek": "ἀφορῶντες",
+            "gloss": "fixant_les_regards",
+            "annotation": {
+              "type": "racine",
+              "title": "Détourner le regard pour le fixer sur Jésus",
+              "content": "Ἀφοράω signifie regarder attentivement et peut suggérer que le regard se détache d’autres objets pour se concentrer. Le mouvement porté par ἀπό est ici fécond : déposer ce qui entrave, détourner le regard de ce qui disperse, puis le fixer sur Jésus. Les témoins entourent le croyant, mais Jésus demeure l’origine et l’accomplissement de la foi.",
+              "related": [
+                "ἀποθέμενοι",
+                "ἀρχηγὸν",
+                "τελειωτὴν",
+                "Ἰησοῦν,"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi",
+            "annotation": {
+              "type": "repetition",
+              "title": "Par la foi",
+              "content": "La foi traverse toute l’énumération et relie des issues très différentes : victoires, délivrances, endurance et mort. Le texte ne l’identifie donc pas à la garantie d’un succès visible.",
+              "related": [
+                "μαρτυρηθέντες",
+                "ἐπαγγελίαν,"
+              ]
+            }
+          },
+          {
+            "greek": "ἀρχηγὸν",
+            "gloss": "chef/auteur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τελειωτὴν",
+            "gloss": "consommateur/finisseur"
+          },
+          {
+            "greek": "Ἰησοῦν,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἀντὶ",
+            "gloss": "en_vue_de/à_la_place_de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "προκειμένης",
+            "gloss": "proposée/réservée"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "χαρᾶς",
+            "gloss": "joie"
+          },
+          {
+            "greek": "ὑπέμεινεν",
+            "gloss": "a_souffert/enduré",
+            "annotation": {
+              "type": "repetition",
+              "title": "Jésus a enduré la croix",
+              "content": "Le verbe ὑπομένω répond à l’appel à courir avec ὑπομονή. Jésus n’est pas seulement le terme du regard : son chemin de la croix à la joie et au trône donne forme à l’endurance chrétienne.",
+              "related": [
+                "ὑπομονῆς",
+                "σταυρὸν",
+                "χαρᾶς",
+                "θρόνου"
+              ]
+            }
+          },
+          {
+            "greek": "σταυρὸν",
+            "gloss": "la_croix"
+          },
+          {
+            "greek": "αἰσχύνης",
+            "gloss": "l'ignominie/honte"
+          },
+          {
+            "greek": "καταφρονήσας,",
+            "gloss": "ayant_méprisé"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "à"
+          },
+          {
+            "greek": "δεξιᾷ",
+            "gloss": "droite"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "θρόνου",
+            "gloss": "trône",
+            "annotation": {
+              "type": "theologie",
+              "title": "De la croix au trône",
+              "content": "Le trône exprime ici la seigneurie divine, non une opposition entre un monde supposé illusoire et un monde spirituel. Le mouvement du verset va de la croix endurée à la joie et à la droite du trône de Dieu : la victoire du Christ donne son orientation à la course des croyants.",
+              "related": [
+                "σταυρὸν",
+                "χαρᾶς",
+                "δεξιᾷ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "κεκάθικεν.",
+            "gloss": "s'est_assis"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 11,38 - ὧν οὐκ ἦν ἄξιος ὁ κόσμος : Traduit unanimement par 'dont le monde n'était pas digne' (Segond, Darby). Le mot *axios* a perdu sa force dans notre langage moralisant. Dans le monde antique, l'adjectif *axios* appartient au vocabulaire de la balance : il désigne 'ce qui fait contrepoids', 'ce qui a le même poids'. L'Apôtre ne fait pas de la simple poésie. Il affirme une réalité métaphysique : si l'on place tout le système de la chute (le Monde duel) sur un plateau, et le corps meurtri d'un seul Saint sur l'autre, c'est le Saint qui fait contrepoids. Sa densité ontologique est supérieure à la masse de l'univers aliéné.\n\n• Verset 12,1 - ὄγκον ἀποθέμενοι πάντα : Segond traduit par 'rejetant tout fardeau' et Darby par 'rejetant tout poids'. Le terme grec *onkos* est foudroyant. Il ne désigne pas un simple sac à dos qu'on porterait sur les épaules. Dans le grec médical, *onkos* désigne une tumeur, une boursouflure, une masse anormale (qui a donné le mot 'oncologie'). Le 'fardeau' mondain n'est pas extérieur à nous : c'est l'inflation maladive de notre propre Ego, gonflé par l'orgueil et l'illusion du savoir 'en plein'. S'en dépouiller (*apotithemi*) est un acte chirurgical, une kénose vitale pour pouvoir courir.\n\n• Verset 12,2 - ἀφορῶντες εἰς (...) Ἰησοῦν : Traduit par 'ayant les regards sur Jésus' (Segond). Le participe *aphorōntes* contient le préfixe *apo* (qui marque l'éloignement, la séparation) et le verbe *horao* (voir). Il ne s'agit pas de simplement regarder. Il s'agit de *détourner* le regard d'une chose pour le river sur une autre. C'est l'acte de violence spirituelle par excellence : arracher ses yeux à la fascination hypnotique de la foule et du mimétisme mondain, pour les verrouiller sur l'Unique.\n\nAnalyse spirituelle de l'Apôtre (La nuée des témoins) :\n\nL'Épître aux Hébreux livre ici la synthèse éblouissante de ce que signifie être un 'Sujet' face à la mécanique du 'Monde duel'.\n\n1. La transcendance ontologique du Saint\nLe texte énumère les atrocités subies par les prophètes et les justes. Le Monde duel, incapable d'absorber la lumière incréée, réagit toujours par la préhension violente : emprisonner, torturer, tuer par l'épée. Il cherche à réduire le Sujet à un Objet inerte (un cadavre). Or, l'Apôtre renverse la perspective par un axiome foudroyant : 'eux dont le monde n'était pas digne' (ὧν οὐκ ἦν ἄξιος ὁ κόσμος). Le mot 'digne' (axios) renvoie au poids sur une balance. Sur la balance ontologique, la chair meurtrie d'un seul Saint, par sa fidélité, pèse infiniment plus lourd que l'intégralité du système aliéné du monde.\n\n2. Rejeter le fardeau : la dynamique de la Kénose\nAu chapitre 12, la métaphore sportive s'impose. L'Ego est lourd ; il est gonflé (ὄγκος) de ses possessions, de ses savoirs intellectuels dogmatiques (Arbre de la Connaissance) et de ses peurs. Pour entrer dans le dynamisme du Royaume (la 'course'), l'injonction est celle du dépouillement : déposer (*apotithemi*) le fardeau. C'est l'essence de l'Arbre de Vie, ce 'creux' indispensable par lequel le croyant s'arrache à la paralysie spirituelle.\n\n3. La pédagogie du regard : Fixer l'Incréé\nEnfin, l'éducation des Sens Pascaux trouve son point focal. Le verbe *aphorao* (détourner le regard pour fixer) enseigne la dés-identification. L'homme déchu est fasciné par le miroitement de la foule (le 'Os' mimétique). Le chrétien est celui qui détourne les yeux du théâtre des ombres pour les river sur l'Unique, 'Jésus, le chef et le consommateur de la foi'. Devenu Sujet à part entière, il ne subit plus l'histoire, il la traverse vers le Trône de la Gloire."
+    "personal_analysis": "Notes sur le texte grec :\n• Hébreux 11, 38 — ὧν οὐκ ἦν ἄξιος ὁ κόσμος : « eux dont le monde n’était pas digne ». L’expression affirme la valeur de témoins pourtant méprisés et chassés. Il est inutile de lui attribuer une théorie du « poids ontologique » fondée sur une étymologie incertaine de ἄξιος.\n• Hébreux 12, 1 — ὄγκον : « poids, masse, encombrement ». Dans la métaphore de la course, le terme désigne ce qui alourdit le coureur. Le rapprochement moderne avec l’oncologie ne signifie pas que le verset parle médicalement d’une tumeur ou identifie précisément ce poids à l’ego.\n• Hébreux 12, 1 — δι’ ὑπομονῆς : « avec endurance, persévérance ». Ὑπομονή appartient à la famille de ὑπομένω, « demeurer, tenir sous, endurer ». L’endurance chrétienne n’est ni isolement ni passivité : elle permet de poursuivre la course proposée.\n• Hébreux 12, 2 — ἀφορῶντες : « regardant fixement, détournant le regard vers ». Le mouvement détourne l’attention des autres objets pour la concentrer sur Jésus, désigné comme l’initiateur et celui qui mène la foi à son accomplissement.\n\nAnalyse spirituelle :\nL’énumération d’Hébreux 11 refuse de réduire la foi à une seule trajectoire. Certains vainquent, obtiennent des promesses et échappent au danger ; d’autres sont torturés, emprisonnés, privés de tout ou mis à mort. Le texte ne mesure donc pas la foi au succès visible. Il unit dans un même témoignage ceux qui ont reçu une délivrance et ceux qui sont demeurés fidèles sans la voir.\n\nLa phrase « le monde n’était pas digne d’eux » renverse le jugement porté sur des personnes errantes, marginalisées et maltraitées. Leur dignité ne dépend pas de la place que la société leur accorde. Pourtant, même ces témoins approuvés par leur foi n’ont pas reçu seuls l’accomplissement de la promesse : Dieu a prévu « quelque chose de meilleur pour nous », afin qu’ils ne parviennent pas sans nous à l’accomplissement. La sainteté apparaît ainsi profondément commune et transgénérationnelle.\n\nAu chapitre 12, les témoins deviennent une nuée qui entoure les croyants engagés dans leur propre course. Ils ne remplacent pas Jésus comme centre du regard. Leur présence encourage à déposer tout poids et le péché qui entrave, puis à courir avec endurance en regardant vers Jésus.\n\nJésus lui-même donne la forme de cette endurance : en vue de la joie placée devant lui, il a enduré la croix et méprisé la honte, puis s’est assis à la droite du trône de Dieu. La sainteté n’est donc ni fascination pour la souffrance ni héroïsme solitaire ; elle est une foi reçue, éprouvée dans la durée, soutenue par les témoins et orientée vers le Christ.",
+    "homiletic_axes": [
+      {
+        "title": "La foi ne se mesure pas au succès visible",
+        "content": "Le texte associe ceux qui ont vaincu et reçu une délivrance à ceux qui ont souffert ou sont morts sans voir l’issue. Leur point commun n’est pas le résultat terrestre, mais la fidélité de la foi.",
+        "keywords": [
+          "πίστεως",
+          "ἐδυναμώθησαν",
+          "ἐτυμπανίσθησαν",
+          "μαρτυρηθέντες"
+        ]
+      },
+      {
+        "title": "« Le monde n’était pas digne d’eux »",
+        "content": "Des personnes errantes, démunies et maltraitées reçoivent un jugement opposé à celui du monde qui les rejette. Leur dignité ne vient ni de leur statut ni de leur réussite, mais du témoignage rendu dans la foi.",
+        "keywords": [
+          "ἄξιος",
+          "κόσμος",
+          "πλανώμενοι",
+          "κακουχούμενοι,"
+        ]
+      },
+      {
+        "title": "Ils ne seront pas accomplis sans nous",
+        "content": "Les anciens témoins ont été approuvés sans recevoir seuls l’accomplissement de la promesse. Le « sans nous » empêche de penser la sainteté comme une aventure individuelle : les générations sont réunies dans une même promesse.",
+        "keywords": [
+          "πάντες",
+          "ἐπαγγελίαν,",
+          "χωρὶς",
+          "ἡμῶν",
+          "τελειωθῶσιν."
+        ]
+      },
+      {
+        "title": "Déposer, courir et regarder vers Jésus",
+        "content": "Entourés par la nuée des témoins, les croyants déposent ce qui alourdit, courent avec endurance et fixent leur attention sur Jésus. Les saints encouragent la course ; Jésus en demeure l’origine, le terme et le centre.",
+        "keywords": [
+          "νέφος",
+          "μαρτύρων,",
+          "ἀποθέμενοι",
+          "ὑπομονῆς",
+          "ἀφορῶντες"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre fil : la foi, la force reçue dans la faiblesse, la dignité des rejetés, la promesse, le « sans nous », la nuée, le poids déposé, la course ou le regard vers Jésus."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l’épître",
+        "prompt": "Suivez la progression : des victoires aux souffrances ; des témoins anciens à notre propre course ; ou de la nuée qui entoure au Christ sur lequel le regard se fixe."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Annoncez ce que le texte ouvre : la faiblesse peut recevoir de la force, aucune fidélité n’est oubliée, les générations sont unies dans la promesse, et Jésus conduit la foi à son accomplissement."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une situation : foi jugée selon ses résultats, sentiment d’indignité, fatigue d’une longue course, poids inutile, solitude apparente ou besoin de témoins pour persévérer."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Proposez un passage concret : cesser de confondre foi et réussite, honorer un témoin oublié, déposer un poids identifiable, reprendre la course ou réorienter son regard vers Jésus."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Faites respirer la longue énumération et ses contrastes. Passez du « ils » au « nous », de la nuée à la course présente, puis terminez sur Jésus et la joie placée devant lui."
+      }
+    ]
   }
-  }
+}
