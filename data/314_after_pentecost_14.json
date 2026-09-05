@@ -10,16 +10,46 @@
           "darby": "Et Jésus, répondant, leur parla de nouveau en paraboles, disant :"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ἀποκριθεὶς", "gloss": "ayant_répondu" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "πάλιν", "gloss": "de_nouveau" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "παραβολαῖς", "gloss": "paraboles" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "λέγων·", "gloss": "disant" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "ayant_répondu"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "πάλιν",
+            "gloss": "de_nouveau"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "παραβολαῖς",
+            "gloss": "paraboles"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          }
         ]
       },
       {
@@ -29,19 +59,67 @@
           "darby": "Le royaume des cieux est fait semblable à un roi qui fit des noces pour son fils."
         },
         "interlinear": [
-          { "greek": "Ὡμοιώθη", "gloss": "A_été_rendu_semblable" },
-          { "greek": "ἡ", "gloss": "le" },
-          { "greek": "βασιλεία", "gloss": "royaume" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "οὐρανῶν", "gloss": "cieux" },
-          { "greek": "ἀνθρώπῳ", "gloss": "à_un_homme" },
-          { "greek": "βασιλεῖ,", "gloss": "roi" },
-          { "greek": "ὅστις", "gloss": "qui" },
-          { "greek": "ἐποίησεν", "gloss": "fit" },
-          { "greek": "γάμους", "gloss": "des_noces", "analyse": "Le mot *gamos* (noces/mariage). Le Royaume UN n'est pas un tribunal juridique, c'est une noce. C'est l'union intime, charnelle et spirituelle entre l'Énergie divine incréée et la nature humaine. Le but de l'existence n'est pas d'obéir à un code, mais de participer à cette fusion amoureuse." },
-          { "greek": "τῷ", "gloss": "pour_le" },
-          { "greek": "υἱῷ", "gloss": "fils" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "Ὡμοιώθη",
+            "gloss": "A_été_rendu_semblable"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλεία",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "οὐρανῶν",
+            "gloss": "cieux"
+          },
+          {
+            "greek": "ἀνθρώπῳ",
+            "gloss": "à_un_homme"
+          },
+          {
+            "greek": "βασιλεῖ,",
+            "gloss": "roi"
+          },
+          {
+            "greek": "ὅστις",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἐποίησεν",
+            "gloss": "fit"
+          },
+          {
+            "greek": "γάμους",
+            "gloss": "des_noces",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot *gamos* (noces/mariage). Le Royaume UN n'est pas un tribunal juridique, c'est une noce. C'est l'union intime, charnelle et spirituelle entre l'Énergie divine incréée et la nature humaine. Le but de l'existence n'est pas d'obéir à un code, mais de participer à cette fusion amoureuse.",
+              "related": [
+                "ἐποίησεν",
+                "τῷ"
+              ]
+            }
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "pour_le"
+          },
+          {
+            "greek": "υἱῷ",
+            "gloss": "fils"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -51,21 +129,75 @@
           "darby": "Et il envoya ses esclaves pour appeler ceux qui étaient conviés aux noces ; et ils ne voulurent pas venir."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀπέστειλεν", "gloss": "il_envoya" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "δούλους", "gloss": "serviteurs/esclaves" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "καλέσαι", "gloss": "pour_appeler" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "κεκλημένους", "gloss": "ayant_été_appelés/invités" },
-          { "greek": "εἰς", "gloss": "à/vers" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "γάμους,", "gloss": "noces" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἤθελον", "gloss": "ils_voulaient", "analyse": "L'expression *ouk ethelon* (ils ne voulaient pas). C'est le drame de la liberté dans le Monde duel. L'Ego est invité à la communion absolue, mais sa volonté s'y refuse car entrer dans la noce implique de lâcher le contrôle de soi-même." },
-          { "greek": "ἐλθεῖν.", "gloss": "venir" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπέστειλεν",
+            "gloss": "il_envoya"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δούλους",
+            "gloss": "serviteurs/esclaves"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καλέσαι",
+            "gloss": "pour_appeler"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "κεκλημένους",
+            "gloss": "ayant_été_appelés/invités"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à/vers"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "γάμους,",
+            "gloss": "noces"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἤθελον",
+            "gloss": "ils_voulaient",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'expression *ouk ethelon* (ils ne voulaient pas). C'est le drame de la liberté dans le Monde duel. L'Ego est invité à la communion absolue, mais sa volonté s'y refuse car entrer dans la noce implique de lâcher le contrôle de soi-même.",
+              "related": [
+                "οὐκ",
+                "ἐλθεῖν."
+              ]
+            }
+          },
+          {
+            "greek": "ἐλθεῖν.",
+            "gloss": "venir"
+          }
         ]
       },
       {
@@ -75,33 +207,114 @@
           "darby": "Il envoya encore d'autres esclaves, disant : Dites aux conviés : Voici, j'ai préparé mon dîner ; mes taureaux et mes bêtes grasses sont tués, et tout est prêt : venez aux noces."
         },
         "interlinear": [
-          { "greek": "πάλιν", "gloss": "De_nouveau" },
-          { "greek": "ἀπέστειλεν", "gloss": "il_envoya" },
-          { "greek": "ἄλλους", "gloss": "d'autres" },
-          { "greek": "δούλους", "gloss": "serviteurs" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Εἴπατε", "gloss": "Dites" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "κεκλημένοις·", "gloss": "conviés" },
-          { "greek": "Ἰδοὺ", "gloss": "Voici" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ἄριστόν", "gloss": "festin/repas" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "ἡτοίμακα,", "gloss": "j'ai_préparé" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ταῦροί", "gloss": "taureaux" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "σιτιστὰ", "gloss": "bêtes_engraissées" },
-          { "greek": "τεθυμένα,", "gloss": "ayant_été_tuées" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πάντα", "gloss": "toutes_choses" },
-          { "greek": "ἕτοιμα·", "gloss": "prêtes" },
-          { "greek": "δεῦτε", "gloss": "venez" },
-          { "greek": "εἰς", "gloss": "aux" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "γάμους.", "gloss": "noces" }
+          {
+            "greek": "πάλιν",
+            "gloss": "De_nouveau"
+          },
+          {
+            "greek": "ἀπέστειλεν",
+            "gloss": "il_envoya"
+          },
+          {
+            "greek": "ἄλλους",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δούλους",
+            "gloss": "serviteurs"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Εἴπατε",
+            "gloss": "Dites"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "κεκλημένοις·",
+            "gloss": "conviés"
+          },
+          {
+            "greek": "Ἰδοὺ",
+            "gloss": "Voici"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄριστόν",
+            "gloss": "festin/repas"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἡτοίμακα,",
+            "gloss": "j'ai_préparé"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ταῦροί",
+            "gloss": "taureaux"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "σιτιστὰ",
+            "gloss": "bêtes_engraissées"
+          },
+          {
+            "greek": "τεθυμένα,",
+            "gloss": "ayant_été_tuées"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "ἕτοιμα·",
+            "gloss": "prêtes"
+          },
+          {
+            "greek": "δεῦτε",
+            "gloss": "venez"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "γάμους.",
+            "gloss": "noces"
+          }
         ]
       },
       {
@@ -111,22 +324,79 @@
           "darby": "Mais eux, n'en ayant tenu compte, s'en allèrent, l'un à son propre champ, et un autre à son trafic ;"
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Les" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "ἀμελήσαντες", "gloss": "ayant_négligé/sans_s'inquiéter" },
-          { "greek": "ἀπῆλθον,", "gloss": "s'en_allèrent" },
-          { "greek": "ὃς", "gloss": "celui-ci" },
-          { "greek": "μὲν", "gloss": "d'une_part" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἴδιον", "gloss": "propre" },
-          { "greek": "ἀγρόν,", "gloss": "champ", "analyse": "L'*idion agron* (le champ qui est à soi, la propriété). L'Ego est obsédé par l'appropriation matérielle et sa sécurité horizontale. Il préfère 'l'Avoir' (son champ, son trafic) à 'l'Être' (les noces du Royaume). La Grâce est refusée parce qu'elle n'est pas rentable commercialement." },
-          { "greek": "ὃς", "gloss": "celui-là" },
-          { "greek": "δὲ", "gloss": "d'autre_part" },
-          { "greek": "ἐπὶ", "gloss": "vers/pour" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "ἐμπορίαν", "gloss": "commerce/trafic" },
-          { "greek": "αὐτοῦ·", "gloss": "de_lui" }
+          {
+            "greek": "οἱ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἀμελήσαντες",
+            "gloss": "ayant_négligé/sans_s'inquiéter"
+          },
+          {
+            "greek": "ἀπῆλθον,",
+            "gloss": "s'en_allèrent"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "celui-ci"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "d'une_part"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἴδιον",
+            "gloss": "propre"
+          },
+          {
+            "greek": "ἀγρόν,",
+            "gloss": "champ",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'*idion agron* (le champ qui est à soi, la propriété). L'Ego est obsédé par l'appropriation matérielle et sa sécurité horizontale. Il préfère 'l'Avoir' (son champ, son trafic) à 'l'Être' (les noces du Royaume). La Grâce est refusée parce qu'elle n'est pas rentable commercialement.",
+              "related": [
+                "ἴδιον",
+                "ὃς"
+              ]
+            }
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "celui-là"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "d'autre_part"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "vers/pour"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐμπορίαν",
+            "gloss": "commerce/trafic"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -136,16 +406,54 @@
           "darby": "et les autres, s'étant saisis de ses esclaves, les outragèrent et les tuèrent."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "λοιποὶ", "gloss": "restants" },
-          { "greek": "κρατήσαντες", "gloss": "ayant_saisi" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "δούλους", "gloss": "serviteurs" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ὕβρισαν", "gloss": "ils_outragèrent" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀπέκτειναν.", "gloss": "ils_tuèrent", "analyse": "Ceux qui ne fuient pas dans le matérialisme réagissent par la violence. L'invitation divine est perçue par l'Ego comme une effraction insupportable. Pour protéger ses frontières, l'Ego doit anéantir la Voix (les prophètes/serviteurs) qui vient le déranger dans son autosuffisance." }
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "λοιποὶ",
+            "gloss": "restants"
+          },
+          {
+            "greek": "κρατήσαντες",
+            "gloss": "ayant_saisi"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δούλους",
+            "gloss": "serviteurs"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ὕβρισαν",
+            "gloss": "ils_outragèrent"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπέκτειναν.",
+            "gloss": "ils_tuèrent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Ceux qui ne fuient pas dans le matérialisme réagissent par la violence. L'invitation divine est perçue par l'Ego comme une effraction insupportable. Pour protéger ses frontières, l'Ego doit anéantir la Voix (les prophètes/serviteurs) qui vient le déranger dans son autosuffisance.",
+              "related": [
+                "καὶ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -155,49 +463,160 @@
           "darby": "Et le roi, l'ayant entendu, s'hérita ; et ayant envoyé ses armées, il fit périr ces meurtriers-là et brûla leur ville."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "βασιλεὺς", "gloss": "roi" },
-          { "greek": "ὠργίσθη,", "gloss": "fut_irrité/en_colère", "analyse": "Le verbe *orgizomai*. Dans l'optique orthodoxe, Dieu n'a pas de crises de nerfs. Cette 'colère' décrit une réalité ontologique : quand la créature s'isole totalement de la Source de vie en assassinant la Grâce, ses structures artificielles ('leur ville') finissent inévitablement par s'effondrer et brûler sous le poids de leur propre néant." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πέμψας", "gloss": "ayant_envoyé" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "στρατεύματα", "gloss": "armées/troupes" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἀπώλεσεν", "gloss": "il_détruisit" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "φονεῖς", "gloss": "meurtriers" },
-          { "greek": "ἐκείνους", "gloss": "ces...-là" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "πόλιν", "gloss": "ville" },
-          { "greek": "αὐτῶν", "gloss": "d'eux" },
-          { "greek": "ἐνέπρησεν.", "gloss": "il_brûla" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "βασιλεὺς",
+            "gloss": "roi"
+          },
+          {
+            "greek": "ὠργίσθη,",
+            "gloss": "fut_irrité/en_colère",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe *orgizomai*. Dans l'optique orthodoxe, Dieu n'a pas de crises de nerfs. Cette 'colère' décrit une réalité ontologique : quand la créature s'isole totalement de la Source de vie en assassinant la Grâce, ses structures artificielles ('leur ville') finissent inévitablement par s'effondrer et brûler sous le poids de leur propre néant.",
+              "related": [
+                "βασιλεὺς",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πέμψας",
+            "gloss": "ayant_envoyé"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "στρατεύματα",
+            "gloss": "armées/troupes"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἀπώλεσεν",
+            "gloss": "il_détruisit"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "φονεῖς",
+            "gloss": "meurtriers"
+          },
+          {
+            "greek": "ἐκείνους",
+            "gloss": "ces...-là"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πόλιν",
+            "gloss": "ville"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "ἐνέπρησεν.",
+            "gloss": "il_brûla"
+          }
         ]
       },
-{
+      {
         "verse_number": 8,
         "translations": {
           "segond": "Alors il dit à ses serviteurs : Les noces sont prêtes ; mais les conviés n'en étaient pas dignes.",
           "darby": "Alors il dit à ses esclaves : Les noces sont prêtes, mais les conviés n'en étaient pas dignes ;"
         },
         "interlinear": [
-          { "greek": "Τότε", "gloss": "Alors" },
-          { "greek": "λέγει", "gloss": "il_dit" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "δούλοις", "gloss": "serviteurs" },
-          { "greek": "αὐτοῦ·", "gloss": "de_lui" },
-          { "greek": "Ὁ", "gloss": "Le" },
-          { "greek": "μὲν", "gloss": "d'une_part" },
-          { "greek": "γάμος", "gloss": "repas_de_noces" },
-          { "greek": "ἕτοιμός", "gloss": "prêt" },
-          { "greek": "ἐστιν,", "gloss": "est" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "δὲ", "gloss": "mais" },
-          { "greek": "κεκλημένοι", "gloss": "ayant_été_appelés" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἦσαν", "gloss": "étaient" },
-          { "greek": "ἄξιοι·", "gloss": "dignes" }
+          {
+            "greek": "Τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "δούλοις",
+            "gloss": "serviteurs"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "d'une_part"
+          },
+          {
+            "greek": "γάμος",
+            "gloss": "repas_de_noces"
+          },
+          {
+            "greek": "ἕτοιμός",
+            "gloss": "prêt"
+          },
+          {
+            "greek": "ἐστιν,",
+            "gloss": "est"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "κεκλημένοι",
+            "gloss": "ayant_été_appelés"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἦσαν",
+            "gloss": "étaient"
+          },
+          {
+            "greek": "ἄξιοι·",
+            "gloss": "dignes"
+          }
         ]
       },
       {
@@ -207,21 +626,75 @@
           "darby": "allez donc dans les carrefours des chemins, et tous ceux que vous trouverez, conviez-les aux noces."
         },
         "interlinear": [
-          { "greek": "πορεύεσθε", "gloss": "allez" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ἐπὶ", "gloss": "vers" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "διεξόδους", "gloss": "carrefours/issues", "analyse": "Le mot *diexodous* (les issues, les croisements, là où les chemins sortent de la ville). La Grâce quitte l'enclos religieux sécurisé (la ville qui a brûlé) pour se répandre dans les marges ouvertes du monde. L'appel du Royaume UN devient farouchement universel." },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ὁδῶν,", "gloss": "chemins" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὅσους", "gloss": "tous_ceux_que" },
-          { "greek": "ἐὰν", "gloss": "éventuellement" },
-          { "greek": "εὕρητε", "gloss": "vous_trouverez" },
-          { "greek": "καλέσατε", "gloss": "appelez" },
-          { "greek": "εἰς", "gloss": "aux" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "γάμους.", "gloss": "noces" }
+          {
+            "greek": "πορεύεσθε",
+            "gloss": "allez"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "διεξόδους",
+            "gloss": "carrefours/issues",
+            "annotation": {
+              "type": "analyse",
+              "title": "Aux débouchés des chemins",
+              "content": "Approfondissement spirituel : Le mot *diexodous* (les issues, les croisements, là où les chemins sortent de la ville). La Grâce quitte l'enclos religieux sécurisé (la ville qui a brûlé) pour se répandre dans les marges ouvertes du monde. L'appel du Royaume UN devient farouchement universel.",
+              "related": [
+                "τὰς",
+                "τῶν"
+              ]
+            }
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ὁδῶν,",
+            "gloss": "chemins"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὅσους",
+            "gloss": "tous_ceux_que"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "éventuellement"
+          },
+          {
+            "greek": "εὕρητε",
+            "gloss": "vous_trouverez"
+          },
+          {
+            "greek": "καλέσατε",
+            "gloss": "appelez"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "γάμους.",
+            "gloss": "noces"
+          }
         ]
       },
       {
@@ -231,27 +704,99 @@
           "darby": "Et ces esclaves-là, étant sortis dans les chemins, assemblèrent tous ceux qu'ils trouvèrent, tant mauvais que bons ; et la salle des noces fut remplie de convives."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐξελθόντες", "gloss": "étant_sortis" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "δοῦλοι", "gloss": "serviteurs" },
-          { "greek": "ἐκεῖνοι", "gloss": "ces...-là" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "ὁδοὺς", "gloss": "chemins" },
-          { "greek": "συνήγαγον", "gloss": "rassemblèrent" },
-          { "greek": "πάντας", "gloss": "tous" },
-          { "greek": "οὓς", "gloss": "ceux_que" },
-          { "greek": "εὗρον,", "gloss": "ils_trouvèrent" },
-          { "greek": "πονηρούς", "gloss": "mauvais" },
-          { "greek": "τε", "gloss": "à_la_fois" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀγαθούς·", "gloss": "bons", "analyse": "Le Royaume ne trie pas selon la morale horizontale (bons contre méchants). L'invitation divine abolit le moralisme du Monde duel. L'Axe vertical est offert à tous, quelle que soit l'histoire karmique ou morale de l'individu." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπλήσθη", "gloss": "fut_remplie" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "γάμος", "gloss": "salle_de_noces" },
-          { "greek": "ἀνακειμένων.", "gloss": "de_convives" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐξελθόντες",
+            "gloss": "étant_sortis"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δοῦλοι",
+            "gloss": "serviteurs"
+          },
+          {
+            "greek": "ἐκεῖνοι",
+            "gloss": "ces...-là"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὁδοὺς",
+            "gloss": "chemins"
+          },
+          {
+            "greek": "συνήγαγον",
+            "gloss": "rassemblèrent"
+          },
+          {
+            "greek": "πάντας",
+            "gloss": "tous"
+          },
+          {
+            "greek": "οὓς",
+            "gloss": "ceux_que"
+          },
+          {
+            "greek": "εὗρον,",
+            "gloss": "ils_trouvèrent"
+          },
+          {
+            "greek": "πονηρούς",
+            "gloss": "mauvais"
+          },
+          {
+            "greek": "τε",
+            "gloss": "à_la_fois"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀγαθούς·",
+            "gloss": "bons",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le Royaume ne trie pas selon la morale horizontale (bons contre méchants). L'invitation divine abolit le moralisme du Monde duel. L'Axe vertical est offert à tous, quelle que soit l'histoire karmique ou morale de l'individu.",
+              "related": [
+                "καὶ",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπλήσθη",
+            "gloss": "fut_remplie"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γάμος",
+            "gloss": "salle_de_noces"
+          },
+          {
+            "greek": "ἀνακειμένων.",
+            "gloss": "de_convives"
+          }
         ]
       },
       {
@@ -261,20 +806,71 @@
           "darby": "Et le roi, étant entré pour voir les convives, aperçut là un homme qui n'était pas vêtu d'une robe de noces."
         },
         "interlinear": [
-          { "greek": "εἰσελθὼν", "gloss": "Étant_entré" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "βασιλεὺς", "gloss": "roi" },
-          { "greek": "θεάσασθαι", "gloss": "pour_voir" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ἀνακειμένους", "gloss": "convives" },
-          { "greek": "εἶδεν", "gloss": "vit" },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "ἄνθρωπον", "gloss": "un_homme" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἐνδεδυμένον", "gloss": "étant_revêtu" },
-          { "greek": "ἔνδυμα", "gloss": "d'un_habit", "analyse": "L'*endyma gamou* (le vêtement de noces). L'habit dans la tradition mystique désigne la condition ontologique de l'être. On ne peut pas participer au Royaume UN en gardant la 'peau' de l'Ego, les vieux vêtements du Monde duel. Il faut revêtir la Lumière incréée (le Christ)." },
-          { "greek": "γάμου·", "gloss": "de_noces" }
+          {
+            "greek": "εἰσελθὼν",
+            "gloss": "Étant_entré"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλεὺς",
+            "gloss": "roi"
+          },
+          {
+            "greek": "θεάσασθαι",
+            "gloss": "pour_voir"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀνακειμένους",
+            "gloss": "convives"
+          },
+          {
+            "greek": "εἶδεν",
+            "gloss": "vit"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐνδεδυμένον",
+            "gloss": "étant_revêtu"
+          },
+          {
+            "greek": "ἔνδυμα",
+            "gloss": "d'un_habit",
+            "annotation": {
+              "type": "traduction",
+              "title": "Le vêtement des noces",
+              "content": "Approfondissement spirituel : L'*endyma gamou* (le vêtement de noces). L'habit dans la tradition mystique désigne la condition ontologique de l'être. On ne peut pas participer au Royaume UN en gardant la 'peau' de l'Ego, les vieux vêtements du Monde duel. Il faut revêtir la Lumière incréée (le Christ).",
+              "related": [
+                "ἐνδεδυμένον",
+                "γάμου·"
+              ]
+            }
+          },
+          {
+            "greek": "γάμου·",
+            "gloss": "de_noces"
+          }
         ]
       },
       {
@@ -284,20 +880,70 @@
           "darby": "Et il lui dit : Ami, comment es-tu entré ici, sans avoir une robe de noces ? Et il eut la bouche fermée."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Ἑταῖρε,", "gloss": "Ami" },
-          { "greek": "πῶς", "gloss": "comment" },
-          { "greek": "εἰσῆλθες", "gloss": "es-tu_entré" },
-          { "greek": "ὧδε", "gloss": "ici" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "ἔχων", "gloss": "ayant" },
-          { "greek": "ἔνδυμα", "gloss": "habit" },
-          { "greek": "γάμου;", "gloss": "de_noces" },
-          { "greek": "ὁ", "gloss": "Lui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐφιμώθη.", "gloss": "fut_réduit_au_silence", "analyse": "Le verbe *phimoo* signifie être muselé, bâillonné. L'Ego est d'habitude très bavard pour se justifier. Mais ici, confronté à la lumière absolue de l'Incréé, le faux sujet s'effondre. Il n'a plus aucune excuse, aucune parole à opposer à la Vérité : il est littéralement muselé par son propre vide." }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἑταῖρε,",
+            "gloss": "Ami"
+          },
+          {
+            "greek": "πῶς",
+            "gloss": "comment"
+          },
+          {
+            "greek": "εἰσῆλθες",
+            "gloss": "es-tu_entré"
+          },
+          {
+            "greek": "ὧδε",
+            "gloss": "ici"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔχων",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "ἔνδυμα",
+            "gloss": "habit"
+          },
+          {
+            "greek": "γάμου;",
+            "gloss": "de_noces"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "Lui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐφιμώθη.",
+            "gloss": "fut_réduit_au_silence",
+            "annotation": {
+              "type": "analyse",
+              "title": "Il resta sans parole",
+              "content": "Approfondissement spirituel : Le verbe *phimoo* signifie être muselé, bâillonné. L'Ego est d'habitude très bavard pour se justifier. Mais ici, confronté à la lumière absolue de l'Incréé, le faux sujet s'effondre. Il n'a plus aucune excuse, aucune parole à opposer à la Vérité : il est littéralement muselé par son propre vide.",
+              "related": [
+                "δὲ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -307,33 +953,123 @@
           "darby": "Alors le roi dit aux serviteurs : Liez-lui les pieds et les mains, emportez-le, et jetez-le dans les ténèbres de dehors : là seront les pleurs et les grincements de dents."
         },
         "interlinear": [
-          { "greek": "τότε", "gloss": "Alors" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "βασιλεὺς", "gloss": "roi" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "διακόνοις·", "gloss": "serviteurs" },
-          { "greek": "Δήσαντες", "gloss": "Ayant_lié" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "πόδας", "gloss": "les_pieds" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "χεῖρας", "gloss": "les_mains" },
-          { "greek": "ἐκβάλετε", "gloss": "jetez" },
-          { "greek": "αὐτὸν", "gloss": "le" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸ", "gloss": "les" },
-          { "greek": "σκότος", "gloss": "ténèbres" },
-          { "greek": "τὸ", "gloss": "les" },
-          { "greek": "ἐξώτερον·", "gloss": "extérieures", "analyse": "Les 'ténèbres du dehors' ne sont pas un donjon de punition géographique. C'est l'état d'isolement absolu d'un Ego qui refuse l'Amour. Les mains et les pieds liés symbolisent la paralysie ontologique du sujet qui a refusé la mobilité de la grâce." },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "ἔσται", "gloss": "sera/seront" },
-          { "greek": "ὁ", "gloss": "les" },
-          { "greek": "κλαυθμὸς", "gloss": "pleurs" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "les" },
-          { "greek": "βρυγμὸς", "gloss": "grincements" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ὀδόντων.", "gloss": "dents" }
+          {
+            "greek": "τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλεὺς",
+            "gloss": "roi"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "διακόνοις·",
+            "gloss": "serviteurs"
+          },
+          {
+            "greek": "Δήσαντες",
+            "gloss": "Ayant_lié"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "πόδας",
+            "gloss": "les_pieds"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "χεῖρας",
+            "gloss": "les_mains"
+          },
+          {
+            "greek": "ἐκβάλετε",
+            "gloss": "jetez"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "les"
+          },
+          {
+            "greek": "σκότος",
+            "gloss": "ténèbres"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐξώτερον·",
+            "gloss": "extérieures",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Les 'ténèbres du dehors' ne sont pas un donjon de punition géographique. C'est l'état d'isolement absolu d'un Ego qui refuse l'Amour. Les mains et les pieds liés symbolisent la paralysie ontologique du sujet qui a refusé la mobilité de la grâce.",
+              "related": [
+                "τὸ",
+                "ἐκεῖ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "ἔσται",
+            "gloss": "sera/seront"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "les"
+          },
+          {
+            "greek": "κλαυθμὸς",
+            "gloss": "pleurs"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "les"
+          },
+          {
+            "greek": "βρυγμὸς",
+            "gloss": "grincements"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ὀδόντων.",
+            "gloss": "dents"
+          }
         ]
       },
       {
@@ -343,20 +1079,129 @@
           "darby": "Car il y a beaucoup d'appelés, mais peu d'élus."
         },
         "interlinear": [
-          { "greek": "πολλοὶ", "gloss": "Beaucoup" },
-          { "greek": "γάρ", "gloss": "car" },
-          { "greek": "εἰσιν", "gloss": "sont" },
-          { "greek": "κλητοὶ", "gloss": "appelés" },
-          { "greek": "ὀλίγοι", "gloss": "peu" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "ἐκλεκτοί.", "gloss": "élus" }
+          {
+            "greek": "πολλοὶ",
+            "gloss": "Beaucoup"
+          },
+          {
+            "greek": "γάρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "εἰσιν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "κλητοὶ",
+            "gloss": "appelés"
+          },
+          {
+            "greek": "ὀλίγοι",
+            "gloss": "peu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἐκλεκτοί.",
+            "gloss": "élus"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 12 - ἐφιμώθη : Segond et Darby traduisent par 'eut la bouche fermée'. C'est exact mais édulcoré. *Phimoo* vient de *phimos* (la muselière). L'image est radicale : le silence de cet homme n'est pas une simple timidité, c'est l'étouffement instantané des bavardages de l'Ego face à la clarté incréée. L'illusion ne peut pas argumenter devant le Réel.\n• Verset 5 - τὸν ἴδιον ἀγρόν : Traduit par 'son champ' ou 'son propre champ'. L'insistance sur le *idion* (ce qui est propre, particulier, privé) marque l'enfermement du Sujet dans l'appropriation ('l'idiotie' au sens étymologique : vivre isolé dans son propre monde clos).\n\nAnalyse spirituelle :\nCette parabole, expose les deux grands écueils du Sujet face au 'Royaume UN'. La vie spirituelle y est présentée comme des noces (*gamos*) : une relation de fusion, de joie, d'incorporation, et non pas une obéissance à des règles morales ou juridiques.\n\nLe premier piège est le refus pur et simple par attachement au 'Monde duel'. Les premiers invités ont des excuses légitimes (le commerce, l'agriculture). L'Ego préfère l'avoir (le champ, l'argent) à l'Être, car dans l'Avoir, l'Ego reste le maître. Le festin divin, parce qu'il exige l'abandon de ce contrôle, est repoussé, voire attaqué avec violence.\n\nLe second piège, plus subtil, concerne ceux qui acceptent l'invitation, mais sans la transformation intérieure (la métanoïa). Le rassemblement des 'méchants et des bons' (v. 10) démontre que la Grâce est inconditionnelle et ne tient pas compte du passé karmique. Cependant, l'homme sans 'l'habit de noces' représente le croyant qui entre dans l'Église en gardant son Ego intact. Il veut consommer la Grâce sans passer par la kénose. \n\nL'absence de vêtement symbolise le refus de 'revêtir le Christ' (l'Axe vertical). Son expulsion dans les ténèbres extérieures, pieds et poings liés, n'est pas la vengeance d'un Dieu colérique, mais le constat d'une paralysie spirituelle : celui qui refuse de s'habiller de Lumière s'enferme lui-même dans les ténèbres, impuissant et dévoré par la frustration (grincements de dents)."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 12 - ἐφιμώθη : Segond et Darby traduisent par 'eut la bouche fermée'. C'est exact mais édulcoré. *Phimoo* vient de *phimos* (la muselière). L'image est radicale : le silence de cet homme n'est pas une simple timidité, c'est l'étouffement instantané des bavardages de l'Ego face à la clarté incréée. L'illusion ne peut pas argumenter devant le Réel.\n• Verset 5 - τὸν ἴδιον ἀγρόν : Traduit par 'son champ' ou 'son propre champ'. L'insistance sur le *idion* (ce qui est propre, particulier, privé) marque l'enfermement du Sujet dans l'appropriation ('l'idiotie' au sens étymologique : vivre isolé dans son propre monde clos).\n\nAnalyse spirituelle :\nCette parabole, expose les deux grands écueils du Sujet face au 'Royaume UN'. La vie spirituelle y est présentée comme des noces (*gamos*) : une relation de fusion, de joie, d'incorporation, et non pas une obéissance à des règles morales ou juridiques.\n\nLe premier piège est le refus pur et simple par attachement au 'Monde duel'. Les premiers invités ont des excuses légitimes (le commerce, l'agriculture). L'Ego préfère l'avoir (le champ, l'argent) à l'Être, car dans l'Avoir, l'Ego reste le maître. Le festin divin, parce qu'il exige l'abandon de ce contrôle, est repoussé, voire attaqué avec violence.\n\nLe second piège, plus subtil, concerne ceux qui acceptent l'invitation, mais sans la transformation intérieure (la métanoïa). Le rassemblement des 'méchants et des bons' (v. 10) démontre que la Grâce est inconditionnelle et ne tient pas compte du passé karmique. Cependant, l'homme sans 'l'habit de noces' représente le croyant qui entre dans l'Église en gardant son Ego intact. Il veut consommer la Grâce sans passer par la kénose. \n\nL'absence de vêtement symbolise le refus de 'revêtir le Christ' (l'Axe vertical). Son expulsion dans les ténèbres extérieures, pieds et poings liés, n'est pas la vengeance d'un Dieu colérique, mais le constat d'une paralysie spirituelle : celui qui refuse de s'habiller de Lumière s'enferme lui-même dans les ténèbres, impuissant et dévoré par la frustration (grincements de dents).\n\nComplément de lecture : l’invitation part du roi, traverse plusieurs refus et atteint finalement les débouchés des chemins. La salle se remplit de mauvais et de bons : la grâce précède le tri. Le vêtement nuptial invite ensuite à ne pas confondre l’accueil gratuit avec une présence qui refuserait toute transformation.",
+    "homiletic_axes": [
+      {
+        "title": "L’appel offert et refusé",
+        "content": "Les premiers invités répondent à l’appel par l’indifférence ou la violence. Le refus ne met pourtant pas fin au dessein du roi.",
+        "keywords": [
+          "καλέσαι",
+          "οὐκ",
+          "ἤθελον",
+          "ἐλθεῖν."
+        ]
+      },
+      {
+        "title": "Aux débouchés des chemins",
+        "content": "L’invitation s’élargit sans sélection préalable : les serviteurs rassemblent tous ceux qu’ils trouvent, mauvais et bons.",
+        "keywords": [
+          "διεξόδους",
+          "καλέσατε",
+          "πονηρούς",
+          "ἀγαθούς·"
+        ]
+      },
+      {
+        "title": "Revêtir le don reçu",
+        "content": "Le vêtement des noces ne paie pas l’entrée ; il manifeste que l’appel accueilli engage toute la personne.",
+        "keywords": [
+          "ἔνδυμα",
+          "γάμου·",
+          "ἐφιμώθη.",
+          "ἐκλεκτοί."
+        ]
+      },
+      {
+        "title": "Affermis, oints et marqués du sceau",
+        "content": "L’Apôtre nomme l’action de Dieu qui prépare intérieurement à répondre : il affermit, oint, marque et donne les arrhes de l’Esprit.",
+        "keywords": [
+          "βεβαιῶν",
+          "χρίσας",
+          "σφραγισάμενος",
+          "ἀρραβῶνα"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 14e dimanche après la Pentecôte : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression propre de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez ce don de la réponse à laquelle il ouvre."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : refus de l’appel, peur du manque, échec, profondeur, attachement, honte, jugement ou besoin de recommencer."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : accueillir l’appel, revêtir le Christ, avancer en profondeur, jeter de nouveau le filet, suivre, donner ou se laisser saisir par la Croix."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les interprétations symboliques comme une lecture spirituelle et non comme une traduction littérale des racines."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De l’invitation au sceau de l’Esprit",
+        "reference": "Matthieu 22, 1-14 ; 2 Corinthiens 1, 21 – 2, 4",
+        "content": "Le roi invite au festin et attend une présence accordée aux noces ; Paul rappelle que Dieu lui-même affermit, oint et marque du sceau. La réponse humaine ne fabrique pas la grâce : elle consent à en être revêtue et transformée.",
+        "connections": []
+      }
+    ]
   },
   "apostle": {
-   "reference": "2 Corinthiens 1, 21 - 2, 4",
+    "reference": "2 Corinthiens 1, 21 - 2, 4",
     "title": "Le Sceau de l'Esprit et le Refus de la Domination",
     "interlinear": [
       {
@@ -366,18 +1211,72 @@
           "darby": "Or celui qui nous affermit avec vous en Christ, et qui nous a oints, c'est Dieu,"
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Celui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "βεβαιῶν", "gloss": "affermissant/rendant_ferme", "analyse": "Le verbe *bebaioo* signifie rendre stable, établir sur un fondement solide. L'Ego est lunatique et instable (comme on l'a vu au 10e dimanche). C'est Dieu qui vient stabiliser le Sujet sur l'Axe vertical." },
-          { "greek": "ἡμᾶς", "gloss": "nous" },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "ὑμῖν", "gloss": "vous" },
-          { "greek": "εἰς", "gloss": "en/pour" },
-          { "greek": "Χριστὸν", "gloss": "Christ" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "χρίσας", "gloss": "ayant_oints", "analyse": "Le verbe *chrio* (oindre) donne le mot *Christos* (l'Oint). L'onction n'est pas un vernis extérieur, c'est une christification du Sujet. L'être humain reçoit la même Énergie incréée que le Christ : c'est cela, tisser son 'habit de noces'." },
-          { "greek": "ἡμᾶς", "gloss": "nous" },
-          { "greek": "θεός,", "gloss": "Dieu" }
+          {
+            "greek": "ὁ",
+            "gloss": "Celui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "βεβαιῶν",
+            "gloss": "affermissant/rendant_ferme",
+            "annotation": {
+              "type": "analyse",
+              "title": "Dieu nous affermit",
+              "content": "Approfondissement spirituel : Le verbe *bebaioo* signifie rendre stable, établir sur un fondement solide. L'Ego est lunatique et instable (comme on l'a vu au 10e dimanche). C'est Dieu qui vient stabiliser le Sujet sur l'Axe vertical.",
+              "related": [
+                "δὲ",
+                "ἡμᾶς"
+              ]
+            }
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en/pour"
+          },
+          {
+            "greek": "Χριστὸν",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "χρίσας",
+            "gloss": "ayant_oints",
+            "annotation": {
+              "type": "theologie",
+              "title": "Celui qui nous a oints",
+              "content": "Approfondissement spirituel : Le verbe *chrio* (oindre) donne le mot *Christos* (l'Oint). L'onction n'est pas un vernis extérieur, c'est une christification du Sujet. L'être humain reçoit la même Énergie incréée que le Christ : c'est cela, tisser son 'habit de noces'.",
+              "related": [
+                "καὶ",
+                "ἡμᾶς"
+              ]
+            }
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "θεός,",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -387,20 +1286,71 @@
           "darby": "qui aussi nous a scellés, et nous a donné les arrhes de l'Esprit dans nos coeurs."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Lequel" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "σφραγισάμενος", "gloss": "ayant_scellés" },
-          { "greek": "ἡμᾶς", "gloss": "nous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δοὺς", "gloss": "ayant_donné" },
-          { "greek": "τὸν", "gloss": "les" },
-          { "greek": "ἀρραβῶνα", "gloss": "arrhes/acompte", "analyse": "Le terme commercial *arrabona* (les arrhes, la garantie d'un paiement complet à venir). L'Esprit Saint n'est pas une simple consolation psychologique, c'est la présence réelle, déjà là, du Royaume UN. C'est l'Éternité infusée dans le temps présent." },
-          { "greek": "τοῦ", "gloss": "de_l'" },
-          { "greek": "πνεύματος", "gloss": "Esprit" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "καρδίαις", "gloss": "cœurs" },
-          { "greek": "ἡμῶν.", "gloss": "de_nous" }
+          {
+            "greek": "ὁ",
+            "gloss": "Lequel"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "σφραγισάμενος",
+            "gloss": "ayant_scellés"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δοὺς",
+            "gloss": "ayant_donné"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀρραβῶνα",
+            "gloss": "arrhes/acompte",
+            "annotation": {
+              "type": "traduction",
+              "title": "Les arrhes de l’Esprit",
+              "content": "Approfondissement spirituel : Le terme commercial *arrabona* (les arrhes, la garantie d'un paiement complet à venir). L'Esprit Saint n'est pas une simple consolation psychologique, c'est la présence réelle, déjà là, du Royaume UN. C'est l'Éternité infusée dans le temps présent.",
+              "related": [
+                "τὸν",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρδίαις",
+            "gloss": "cœurs"
+          },
+          {
+            "greek": "ἡμῶν.",
+            "gloss": "de_nous"
+          }
         ]
       },
       {
@@ -410,23 +1360,74 @@
           "darby": "Or j'appelle Dieu à témoin sur mon âme, que c'est pour vous épargner que je ne suis pas encore allé à Corinthe ;"
         },
         "interlinear": [
-          { "greek": "Ἐγὼ", "gloss": "Moi" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "μάρτυρα", "gloss": "témoin" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεὸν", "gloss": "Dieu" },
-          { "greek": "ἐπικαλοῦμαι", "gloss": "j'invoque" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἐμὴν", "gloss": "mienne" },
-          { "greek": "ψυχήν,", "gloss": "âme" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "φειδόμενος", "gloss": "épargnant" },
-          { "greek": "ὑμῶν", "gloss": "vous" },
-          { "greek": "οὐκέτι", "gloss": "ne...plus/pas_encore" },
-          { "greek": "ἦλθον", "gloss": "je_suis_allé" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Κόρινθον.", "gloss": "Corinthe" }
+          {
+            "greek": "Ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "μάρτυρα",
+            "gloss": "témoin"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐπικαλοῦμαι",
+            "gloss": "j'invoque"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐμὴν",
+            "gloss": "mienne"
+          },
+          {
+            "greek": "ψυχήν,",
+            "gloss": "âme"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "φειδόμενος",
+            "gloss": "épargnant"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "οὐκέτι",
+            "gloss": "ne...plus/pas_encore"
+          },
+          {
+            "greek": "ἦλθον",
+            "gloss": "je_suis_allé"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Κόρινθον.",
+            "gloss": "Corinthe"
+          }
         ]
       },
       {
@@ -436,22 +1437,88 @@
           "darby": "non que nous dominions sur votre foi, mais nous sommes collaborateurs de votre joie ; car vous êtes debout par la foi."
         },
         "interlinear": [
-          { "greek": "οὐχ", "gloss": "Non" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "κυριεύομεν", "gloss": "nous_dominons", "analyse": "Le verbe *kyrieuo* (agir en seigneur, dominer). Le Monde duel fonctionne sur des rapports de domination, où l'ego cherche à soumettre l'autre. Paul refuse catégoriquement cette posture : l'autorité spirituelle ne remplace jamais la liberté du Sujet, elle ne gère pas sa foi à sa place." },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "τῆς", "gloss": "sur_la" },
-          { "greek": "πίστεως,", "gloss": "foi" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "συνεργοί", "gloss": "collaborateurs/synerges", "analyse": "La *synergia* (l'action commune). Au lieu d'être un Maître écrasant, l'apôtre est un synerge, un activateur de la joie (*chara*). Le but de l'Église n'est pas le contrôle moral, mais l'éclosion de la joie incréée dans le cœur du Sujet libre." },
-          { "greek": "ἐσμεν", "gloss": "nous_sommes" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "χαρᾶς", "gloss": "joie" },
-          { "greek": "ὑμῶν·", "gloss": "de_vous" },
-          { "greek": "τῇ", "gloss": "par_la" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "πίστει", "gloss": "foi" },
-          { "greek": "ἑστήκατε.", "gloss": "vous_êtes_debout/fermes" }
+          {
+            "greek": "οὐχ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "κυριεύομεν",
+            "gloss": "nous_dominons",
+            "annotation": {
+              "type": "analyse",
+              "title": "Non pour dominer votre foi",
+              "content": "Approfondissement spirituel : Le verbe *kyrieuo* (agir en seigneur, dominer). Le Monde duel fonctionne sur des rapports de domination, où l'ego cherche à soumettre l'autre. Paul refuse catégoriquement cette posture : l'autorité spirituelle ne remplace jamais la liberté du Sujet, elle ne gère pas sa foi à sa place.",
+              "related": [
+                "ὅτι",
+                "ὑμῶν"
+              ]
+            }
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "sur_la"
+          },
+          {
+            "greek": "πίστεως,",
+            "gloss": "foi"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "συνεργοί",
+            "gloss": "collaborateurs/synerges",
+            "annotation": {
+              "type": "analyse",
+              "title": "Coopérateurs de votre joie",
+              "content": "Approfondissement spirituel : La *synergia* (l'action commune). Au lieu d'être un Maître écrasant, l'apôtre est un synerge, un activateur de la joie (*chara*). Le but de l'Église n'est pas le contrôle moral, mais l'éclosion de la joie incréée dans le cœur du Sujet libre.",
+              "related": [
+                "ἀλλὰ",
+                "ἐσμεν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐσμεν",
+            "gloss": "nous_sommes"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "χαρᾶς",
+            "gloss": "joie"
+          },
+          {
+            "greek": "ὑμῶν·",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "πίστει",
+            "gloss": "foi"
+          },
+          {
+            "greek": "ἑστήκατε.",
+            "gloss": "vous_êtes_debout/fermes"
+          }
         ]
       },
       {
@@ -461,18 +1528,54 @@
           "darby": "Or j'ai jugé ceci en moi-même, de ne pas retourner vers vous avec de la tristesse."
         },
         "interlinear": [
-          { "greek": "Ἔκρινα", "gloss": "J'ai_jugé/résolu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐμαυτῷ", "gloss": "en_moi-même" },
-          { "greek": "τοῦτο,", "gloss": "ceci" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "πάλιν", "gloss": "de_nouveau" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "λύπῃ", "gloss": "tristesse" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "ἐλθεῖν.", "gloss": "venir" }
+          {
+            "greek": "Ἔκρινα",
+            "gloss": "J'ai_jugé/résolu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐμαυτῷ",
+            "gloss": "en_moi-même"
+          },
+          {
+            "greek": "τοῦτο,",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "πάλιν",
+            "gloss": "de_nouveau"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "λύπῃ",
+            "gloss": "tristesse"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐλθεῖν.",
+            "gloss": "venir"
+          }
         ]
       },
       {
@@ -482,22 +1585,70 @@
           "darby": "Car si moi je vous attriste, qui est-ce qui me réjouit, sinon celui qui est attristé par moi ?"
         },
         "interlinear": [
-          { "greek": "εἰ", "gloss": "Si" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "λυπῶ", "gloss": "j'attriste" },
-          { "greek": "ὑμᾶς,", "gloss": "vous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τίς", "gloss": "qui" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "εὐφραίνων", "gloss": "réjouissant" },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "μὴ", "gloss": "ce_n'est" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "λυπούμενος", "gloss": "étant_attristé" },
-          { "greek": "ἐξ", "gloss": "par" },
-          { "greek": "ἐμοῦ;", "gloss": "moi" }
+          {
+            "greek": "εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "λυπῶ",
+            "gloss": "j'attriste"
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τίς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "εὐφραίνων",
+            "gloss": "réjouissant"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ce_n'est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "λυπούμενος",
+            "gloss": "étant_attristé"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἐμοῦ;",
+            "gloss": "moi"
+          }
         ]
       },
       {
@@ -507,31 +1658,106 @@
           "darby": "Et je vous ai écrit cela même, afin que, quand j'arriverai, je n'aie pas de tristesse de la part de ceux de qui je devais me réjouir ; me confiant en vous tous que ma joie est la vôtre à tous."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἔγραψα", "gloss": "j'ai_écrit" },
-          { "greek": "τοῦτο", "gloss": "cela" },
-          { "greek": "αὐτό,", "gloss": "même" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "ἐλθὼν", "gloss": "étant_venu" },
-          { "greek": "λύπην", "gloss": "tristesse" },
-          { "greek": "σχῶ", "gloss": "j'aie" },
-          { "greek": "ἀφ’", "gloss": "de_la_part_de" },
-          { "greek": "ὧν", "gloss": "ceux_dont" },
-          { "greek": "ἔδει", "gloss": "il_fallait" },
-          { "greek": "με", "gloss": "que_je" },
-          { "greek": "χαίρειν,", "gloss": "me_réjouisse" },
-          { "greek": "πεποιθὼς", "gloss": "me_confiant/ayant_confiance" },
-          { "greek": "ἐπὶ", "gloss": "en/sur" },
-          { "greek": "πάντας", "gloss": "tous" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "ἐμὴ", "gloss": "mienne" },
-          { "greek": "χαρὰ", "gloss": "joie" },
-          { "greek": "πάντων", "gloss": "de_tous" },
-          { "greek": "ὑμῶν", "gloss": "vous" },
-          { "greek": "ἐστιν.", "gloss": "est" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἔγραψα",
+            "gloss": "j'ai_écrit"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "αὐτό,",
+            "gloss": "même"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "λύπην",
+            "gloss": "tristesse"
+          },
+          {
+            "greek": "σχῶ",
+            "gloss": "j'aie"
+          },
+          {
+            "greek": "ἀφ’",
+            "gloss": "de_la_part_de"
+          },
+          {
+            "greek": "ὧν",
+            "gloss": "ceux_dont"
+          },
+          {
+            "greek": "ἔδει",
+            "gloss": "il_fallait"
+          },
+          {
+            "greek": "με",
+            "gloss": "que_je"
+          },
+          {
+            "greek": "χαίρειν,",
+            "gloss": "me_réjouisse"
+          },
+          {
+            "greek": "πεποιθὼς",
+            "gloss": "me_confiant/ayant_confiance"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "en/sur"
+          },
+          {
+            "greek": "πάντας",
+            "gloss": "tous"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐμὴ",
+            "gloss": "mienne"
+          },
+          {
+            "greek": "χαρὰ",
+            "gloss": "joie"
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "de_tous"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐστιν.",
+            "gloss": "est"
+          }
         ]
       },
       {
@@ -541,35 +1767,158 @@
           "darby": "Car, dans une grande tribulation et un grand serrement de coeur, je vous ai écrit avec beaucoup de larmes, non afin que vous fussiez attristés, mais afin que vous connussiez l'amour que j'ai si abondamment pour vous."
         },
         "interlinear": [
-          { "greek": "ἐκ", "gloss": "À_partir_de" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "πολλῆς", "gloss": "beaucoup_de" },
-          { "greek": "θλίψεως", "gloss": "pression/tribulation" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "συνοχῆς", "gloss": "angoisse/serrement", "analyse": "Le mot *synoche* vient de *synecho* (retenir ensemble, serrer, opprimer). Paul n'est pas un stoïcien insensible. Son cœur est physiquement pressé par l'urgence apostolique. C'est l'incarnation d'un Sujet qui vibre au contact de l'égarement de ses enfants spirituels, non pour les culpabiliser, mais pour les enfanter à l'amour." },
-          { "greek": "καρδίας", "gloss": "de_cœur" },
-          { "greek": "ἔγραψα", "gloss": "j'ai_écrit" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "διὰ", "gloss": "à_travers" },
-          { "greek": "πολλῶν", "gloss": "beaucoup_de" },
-          { "greek": "δακρύων,", "gloss": "larmes" },
-          { "greek": "οὐχ", "gloss": "non" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "λυπηθῆτε,", "gloss": "vous_soyez_attristés" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἀγάπην", "gloss": "amour" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "γνῶτε", "gloss": "vous_connaissiez" },
-          { "greek": "ἣν", "gloss": "lequel" },
-          { "greek": "ἔχω", "gloss": "j'ai" },
-          { "greek": "περισσοτέρως", "gloss": "abondamment/extrêmement" },
-          { "greek": "εἰς", "gloss": "envers" },
-          { "greek": "ὑμᾶς.", "gloss": "vous" }
+          {
+            "greek": "ἐκ",
+            "gloss": "À_partir_de"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "πολλῆς",
+            "gloss": "beaucoup_de"
+          },
+          {
+            "greek": "θλίψεως",
+            "gloss": "pression/tribulation"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συνοχῆς",
+            "gloss": "angoisse/serrement",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot *synoche* vient de *synecho* (retenir ensemble, serrer, opprimer). Paul n'est pas un stoïcien insensible. Son cœur est physiquement pressé par l'urgence apostolique. C'est l'incarnation d'un Sujet qui vibre au contact de l'égarement de ses enfants spirituels, non pour les culpabiliser, mais pour les enfanter à l'amour.",
+              "related": [
+                "καὶ",
+                "καρδίας"
+              ]
+            }
+          },
+          {
+            "greek": "καρδίας",
+            "gloss": "de_cœur"
+          },
+          {
+            "greek": "ἔγραψα",
+            "gloss": "j'ai_écrit"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "πολλῶν",
+            "gloss": "beaucoup_de"
+          },
+          {
+            "greek": "δακρύων,",
+            "gloss": "larmes"
+          },
+          {
+            "greek": "οὐχ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "λυπηθῆτε,",
+            "gloss": "vous_soyez_attristés"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἀγάπην",
+            "gloss": "amour"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "γνῶτε",
+            "gloss": "vous_connaissiez"
+          },
+          {
+            "greek": "ἣν",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "ἔχω",
+            "gloss": "j'ai"
+          },
+          {
+            "greek": "περισσοτέρως",
+            "gloss": "abondamment/extrêmement"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "envers"
+          },
+          {
+            "greek": "ὑμᾶς.",
+            "gloss": "vous"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 1:22 - ἀρραβῶνα : 'les arrhes' (Segond et Darby). Le terme *arrabona* est un emprunt sémitique au monde du commerce signifiant un acompte. Le don de l'Esprit n'est donc pas une promesse abstraite pour le futur, mais un versement réel de la vie divine qui commence immédiatement. Le Royaume est déjà entamé.\n• Verset 1:24 - κυριεύομεν / συνεργοί : Le contraste est magnifiquement rendu. Darby garde bien l'idée de 'collaborateurs' (*synergoi*). C'est le fondement de l'ecclésiologie mystique : le pasteur n'est pas un *Kyrios* (Seigneur) qui s'impose de l'extérieur, mais un synerge qui travaille avec l'énergie intérieure du croyant.\n\nAnalyse spirituelle :\nCette confession de Paul résonne profondément avec la Parabole des Noces de l'Évangile. Dans Matthieu, l'homme jeté dehors est celui qui refuse l'habit de noces (la métamorphose intérieure). Ici, Paul explique comment cet habit nous est donné : c'est Dieu qui nous 'oint' et nous 'scelle' par l'arrhe de Son Esprit. C'est l'infusion de l'Incréé dans le Sujet.\n\nMais le cœur de ce passage réside dans la redéfinition absolue de l'autorité spirituelle. Paul, bien qu'Apôtre, déclare avec force : 'Nous ne dominons pas sur votre foi'. Le Monde duel (y compris religieux) ne comprend l'autorité que comme une domination horizontale : on donne des ordres, on fait pression, on manipule par la culpabilité. Paul prend le contre-pied : il n'agit pas en Seigneur, il est le 'synerge de leur joie'.\n\nC'est la raison pour laquelle il préfère s'abstenir de venir à Corinthe plutôt que d'y apporter la tristesse (*lype*). Ses pleurs (v. 2:4) et son angoisse ne sont pas des chantages affectifs de l'Ego, mais la manifestation d'un amour viscéral (*agape*) qui refuse la destruction de l'autre. Le but de la transmission spirituelle n'est pas de faire plier l'ego de l'élève par la terreur morale, mais de l'entourer d'un Amour si abondant qu'il trouve par lui-même la force de se revêtir de la Lumière (l'habit des Noces) pour participer au Banquet unifié."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 1:22 - ἀρραβῶνα : 'les arrhes' (Segond et Darby). Le terme *arrabona* est un emprunt sémitique au monde du commerce signifiant un acompte. Le don de l'Esprit n'est donc pas une promesse abstraite pour le futur, mais un versement réel de la vie divine qui commence immédiatement. Le Royaume est déjà entamé.\n• Verset 1:24 - κυριεύομεν / συνεργοί : Le contraste est magnifiquement rendu. Darby garde bien l'idée de 'collaborateurs' (*synergoi*). C'est le fondement de l'ecclésiologie mystique : le pasteur n'est pas un *Kyrios* (Seigneur) qui s'impose de l'extérieur, mais un synerge qui travaille avec l'énergie intérieure du croyant.\n\nAnalyse spirituelle :\nCette confession de Paul résonne profondément avec la Parabole des Noces de l'Évangile. Dans Matthieu, l'homme jeté dehors est celui qui refuse l'habit de noces (la métamorphose intérieure). Ici, Paul explique comment cet habit nous est donné : c'est Dieu qui nous 'oint' et nous 'scelle' par l'arrhe de Son Esprit. C'est l'infusion de l'Incréé dans le Sujet.\n\nMais le cœur de ce passage réside dans la redéfinition absolue de l'autorité spirituelle. Paul, bien qu'Apôtre, déclare avec force : 'Nous ne dominons pas sur votre foi'. Le Monde duel (y compris religieux) ne comprend l'autorité que comme une domination horizontale : on donne des ordres, on fait pression, on manipule par la culpabilité. Paul prend le contre-pied : il n'agit pas en Seigneur, il est le 'synerge de leur joie'.\n\nC'est la raison pour laquelle il préfère s'abstenir de venir à Corinthe plutôt que d'y apporter la tristesse (*lype*). Ses pleurs (v. 2:4) et son angoisse ne sont pas des chantages affectifs de l'Ego, mais la manifestation d'un amour viscéral (*agape*) qui refuse la destruction de l'autre. Le but de la transmission spirituelle n'est pas de faire plier l'ego de l'élève par la terreur morale, mais de l'entourer d'un Amour si abondant qu'il trouve par lui-même la force de se revêtir de la Lumière (l'habit des Noces) pour participer au Banquet unifié.\n\nComplément de lecture : Paul refuse de dominer la foi des Corinthiens. Dieu seul affermit, oint et marque du sceau ; les ministres deviennent coopérateurs de la joie. L’autorité apostolique se reconnaît à cette retenue et à l’amour qui traverse même une lettre écrite dans l’angoisse.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 14e dimanche après la Pentecôte : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression propre de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez ce don de la réponse à laquelle il ouvre."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : refus de l’appel, peur du manque, échec, profondeur, attachement, honte, jugement ou besoin de recommencer."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : accueillir l’appel, revêtir le Christ, avancer en profondeur, jeter de nouveau le filet, suivre, donner ou se laisser saisir par la Croix."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les interprétations symboliques comme une lecture spirituelle et non comme une traduction littérale des racines."
+      }
+    ],
+    "liturgical_echoes": []
   }
-}   
-  
+}
