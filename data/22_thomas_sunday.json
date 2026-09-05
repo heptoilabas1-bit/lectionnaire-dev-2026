@@ -10,41 +10,164 @@
           "darby": "Le soir donc de ce jour-là, qui était le premier de la semaine, et les portes du lieu où les disciples étaient rassemblés par crainte des Juifs, étant fermées, Jésus vint, et se tint au milieu d'eux. Et il leur dit : Paix vous soit !"
         },
         "interlinear": [
-          { "greek": "Οὔσης", "gloss": "Étant" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ὀψίας", "gloss": "le_soir" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "ἡμέρᾳ", "gloss": "jour" },
-          { "greek": "ἐκείνῃ", "gloss": "ce...-là" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "μιᾷ", "gloss": "premier" },
-          { "greek": "σαββάτων,", "gloss": "de_la_semaine" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "θυρῶν", "gloss": "portes" },
-          { "greek": "κεκλεισμένων", "gloss": "étant_fermées", "analyse": "Les portes fermées matérialisent la peur de l'Ego. Le 'Monde duel' est un monde de clôture et de protection où l'on s'enferme pour survivre face à la menace de l'autre. Le Christ ressuscité ne force pas la porte : Il la traverse, car dans le Royaume UN, la matière n'est plus une barrière opaque à la communion." },
-          { "greek": "ὅπου", "gloss": "où" },
-          { "greek": "ἦσαν", "gloss": "étaient" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "διὰ", "gloss": "à_cause_de" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "φόβον", "gloss": "peur" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "Ἰουδαίων,", "gloss": "Juifs" },
-          { "greek": "ἦλθεν", "gloss": "vint" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔστη", "gloss": "se_tint" },
-          { "greek": "εἰς", "gloss": "au" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "μέσον", "gloss": "milieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Εἰρήνη", "gloss": "Paix", "analyse": "La salutation « Paix à vous » revient trois fois dans la péricope. Elle en rythme les deux apparitions : la paix n'est pas un simple préambule, mais le premier don du Ressuscité à la communauté enfermée, puis à Thomas revenu parmi elle." },
-          { "greek": "ὑμῖν.", "gloss": "à_vous" }
+          {
+            "greek": "Οὔσης",
+            "gloss": "Étant"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ὀψίας",
+            "gloss": "le_soir"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἡμέρᾳ",
+            "gloss": "jour"
+          },
+          {
+            "greek": "ἐκείνῃ",
+            "gloss": "ce...-là"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μιᾷ",
+            "gloss": "premier"
+          },
+          {
+            "greek": "σαββάτων,",
+            "gloss": "de_la_semaine"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "θυρῶν",
+            "gloss": "portes"
+          },
+          {
+            "greek": "κεκλεισμένων",
+            "gloss": "étant_fermées",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Les portes fermées matérialisent la peur de l'Ego. Le 'Monde duel' est un monde de clôture et de protection où l'on s'enferme pour survivre face à la menace de l'autre. Le Christ ressuscité ne force pas la porte : Il la traverse, car dans le Royaume UN, la matière n'est plus une barrière opaque à la communion.",
+              "related": [
+                "θυρῶν",
+                "ὅπου"
+              ]
+            }
+          },
+          {
+            "greek": "ὅπου",
+            "gloss": "où"
+          },
+          {
+            "greek": "ἦσαν",
+            "gloss": "étaient"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "φόβον",
+            "gloss": "peur"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "Ἰουδαίων,",
+            "gloss": "Juifs"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "vint"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔστη",
+            "gloss": "se_tint"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "au"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μέσον",
+            "gloss": "milieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Εἰρήνη",
+            "gloss": "Paix",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La salutation « Paix à vous » revient trois fois dans la péricope. Elle en rythme les deux apparitions : la paix n'est pas un simple préambule, mais le premier don du Ressuscité à la communauté enfermée, puis à Thomas revenu parmi elle.",
+              "related": [
+                "αὐτοῖς·",
+                "ὑμῖν."
+              ]
+            }
+          },
+          {
+            "greek": "ὑμῖν.",
+            "gloss": "à_vous"
+          }
         ]
       },
       {
@@ -54,23 +177,74 @@
           "darby": "Et ayant dit cela, il leur montra ses mains et son côté. Les disciples donc se réjouirent quand ils virent le Seigneur."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "τοῦτο", "gloss": "ceci" },
-          { "greek": "εἰπὼν", "gloss": "ayant_dit" },
-          { "greek": "ἔδειξεν", "gloss": "il_montra" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "χεῖρας", "gloss": "mains" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "πλευρὰν", "gloss": "côté" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "ἐχάρησαν", "gloss": "se_réjouirent" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "ἰδόντες", "gloss": "ayant_vu" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κύριον.", "gloss": "Seigneur" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "εἰπὼν",
+            "gloss": "ayant_dit"
+          },
+          {
+            "greek": "ἔδειξεν",
+            "gloss": "il_montra"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "χεῖρας",
+            "gloss": "mains"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πλευρὰν",
+            "gloss": "côté"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ἐχάρησαν",
+            "gloss": "se_réjouirent"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "ἰδόντες",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριον.",
+            "gloss": "Seigneur"
+          }
         ]
       },
       {
@@ -80,22 +254,70 @@
           "darby": "Jésus donc leur dit encore : Paix vous soit ! Comme le Père m'a envoyé, moi aussi je vous envoie."
         },
         "interlinear": [
-          { "greek": "εἶπεν", "gloss": "Il_dit" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "πάλιν·", "gloss": "de_nouveau" },
-          { "greek": "Εἰρήνη", "gloss": "Paix" },
-          { "greek": "ὑμῖν·", "gloss": "à_vous" },
-          { "greek": "καθὼς", "gloss": "comme" },
-          { "greek": "ἀπέσταλκέν", "gloss": "a_envoyé" },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "πατήρ,", "gloss": "Père" },
-          { "greek": "κἀγὼ", "gloss": "moi_aussi" },
-          { "greek": "πέμπω", "gloss": "j'envoie" },
-          { "greek": "ὑμᾶς.", "gloss": "vous" }
+          {
+            "greek": "εἶπεν",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "πάλιν·",
+            "gloss": "de_nouveau"
+          },
+          {
+            "greek": "Εἰρήνη",
+            "gloss": "Paix"
+          },
+          {
+            "greek": "ὑμῖν·",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἀπέσταλκέν",
+            "gloss": "a_envoyé"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατήρ,",
+            "gloss": "Père"
+          },
+          {
+            "greek": "κἀγὼ",
+            "gloss": "moi_aussi"
+          },
+          {
+            "greek": "πέμπω",
+            "gloss": "j'envoie"
+          },
+          {
+            "greek": "ὑμᾶς.",
+            "gloss": "vous"
+          }
         ]
       },
       {
@@ -105,16 +327,55 @@
           "darby": "Et ayant dit cela, il souffla en eux, et leur dit : Recevez l'Esprit Saint."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "τοῦτο", "gloss": "ceci" },
-          { "greek": "εἰπὼν", "gloss": "ayant_dit" },
-          { "greek": "ἐνεφύσησεν", "gloss": "il_souffla_sur", "analyse": "Le verbe 'enephusesen' n'est utilisé qu'une seule autre fois dans la Bible : dans la Genèse, lorsque Dieu insuffle la vie au premier homme tiré de la terre. Le Christ ressuscité opère ici la seconde création. Il insuffle l'Énergie divine pour faire des apôtres des 'Sujets' vivants du Royaume UN, les arrachant à l'asphyxie du Monde duel." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Λάβετε", "gloss": "Recevez" },
-          { "greek": "πνεῦμα", "gloss": "l'Esprit" },
-          { "greek": "ἅγιον·", "gloss": "Saint" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "εἰπὼν",
+            "gloss": "ayant_dit"
+          },
+          {
+            "greek": "ἐνεφύσησεν",
+            "gloss": "il_souffla_sur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe 'enephusesen' n'est utilisé qu'une seule autre fois dans la Bible : dans la Genèse, lorsque Dieu insuffle la vie au premier homme tiré de la terre. Le Christ ressuscité opère ici la seconde création. Il insuffle l'Énergie divine pour faire des apôtres des 'Sujets' vivants du Royaume UN, les arrachant à l'asphyxie du Monde duel.",
+              "related": [
+                "εἰπὼν",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Λάβετε",
+            "gloss": "Recevez"
+          },
+          {
+            "greek": "πνεῦμα",
+            "gloss": "l'Esprit"
+          },
+          {
+            "greek": "ἅγιον·",
+            "gloss": "Saint"
+          }
         ]
       },
       {
@@ -124,17 +385,50 @@
           "darby": "À quiconque vous remettrez les péchés, ils leur sont remis ; et à quiconque vous les retiendrez, ils lui sont retenus."
         },
         "interlinear": [
-          { "greek": "ἄν", "gloss": "Si" },
-          { "greek": "τινων", "gloss": "de_quelqu'un" },
-          { "greek": "ἀφῆτε", "gloss": "vous_remettez/pardonnez" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "ἁμαρτίας", "gloss": "péchés" },
-          { "greek": "ἀφέωνται", "gloss": "ils_sont_remis" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "ἄν", "gloss": "si" },
-          { "greek": "τινων", "gloss": "de_quelqu'un" },
-          { "greek": "κρατῆτε", "gloss": "vous_retenez" },
-          { "greek": "κεκράτηνται.", "gloss": "ils_sont_retenus" }
+          {
+            "greek": "ἄν",
+            "gloss": "Si"
+          },
+          {
+            "greek": "τινων",
+            "gloss": "de_quelqu'un"
+          },
+          {
+            "greek": "ἀφῆτε",
+            "gloss": "vous_remettez/pardonnez"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁμαρτίας",
+            "gloss": "péchés"
+          },
+          {
+            "greek": "ἀφέωνται",
+            "gloss": "ils_sont_remis"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ἄν",
+            "gloss": "si"
+          },
+          {
+            "greek": "τινων",
+            "gloss": "de_quelqu'un"
+          },
+          {
+            "greek": "κρατῆτε",
+            "gloss": "vous_retenez"
+          },
+          {
+            "greek": "κεκράτηνται.",
+            "gloss": "ils_sont_retenus"
+          }
         ]
       },
       {
@@ -144,22 +438,79 @@
           "darby": "Or Thomas, l'un des douze, appelé Didyme, n'était pas avec eux quand Jésus vint."
         },
         "interlinear": [
-          { "greek": "Θωμᾶς", "gloss": "Thomas" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἷς", "gloss": "un", "analyse": "Thomas est présenté comme « un des Douze ». Le récit ne dissout pas sa singularité dans le groupe : le Ressuscité revient aussi pour cette personne absente et permet que son chemin propre complète la communion apostolique." },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "δώδεκα,", "gloss": "douze" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λεγόμενος", "gloss": "appelé" },
-          { "greek": "Δίδυμος,", "gloss": "Jumeau/Didyme" },
-          { "greek": "οὐκ", "gloss": "n'..." },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "μετ’", "gloss": "avec" },
-          { "greek": "αὐτῶν", "gloss": "eux" },
-          { "greek": "ὅτε", "gloss": "quand" },
-          { "greek": "ἦλθεν", "gloss": "vint" },
-          { "greek": "Ἰησοῦς.", "gloss": "Jésus" }
+          {
+            "greek": "Θωμᾶς",
+            "gloss": "Thomas"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Thomas est présenté comme « un des Douze ». Le récit ne dissout pas sa singularité dans le groupe : le Ressuscité revient aussi pour cette personne absente et permet que son chemin propre complète la communion apostolique.",
+              "related": [
+                "δὲ",
+                "ἐκ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "δώδεκα,",
+            "gloss": "douze"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λεγόμενος",
+            "gloss": "appelé"
+          },
+          {
+            "greek": "Δίδυμος,",
+            "gloss": "Jumeau/Didyme"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "n'..."
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ὅτε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "vint"
+          },
+          {
+            "greek": "Ἰησοῦς.",
+            "gloss": "Jésus"
+          }
         ]
       },
       {
@@ -169,52 +520,208 @@
           "darby": "Les autres disciples donc lui dirent : Nous avons vu le Seigneur. Mais il leur dit : À moins que je ne voie en ses mains la marque des clous, et que je ne mette mon doigt dans la marque des clous, et que je ne mette ma main dans son côté, je ne croirai point."
         },
         "interlinear": [
-          { "greek": "ἔλεγον", "gloss": "Disaient" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ἄλλοι", "gloss": "autres" },
-          { "greek": "μαθηταί·", "gloss": "disciples" },
-          { "greek": "Ἑωράκαμεν", "gloss": "Nous_avons_vu" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κύριον.", "gloss": "Seigneur" },
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Ἐὰν", "gloss": "Si" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "ἴδω", "gloss": "je_vois" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "χερσὶν", "gloss": "mains" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "τύπον", "gloss": "marque" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἥλων", "gloss": "clous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "βάλω", "gloss": "je_mette", "analyse": "Thomas exige des preuves empiriques. C'est la démarche typique de l'Ego et de l'intelligence aliénée qui veulent 'saisir' (préhension), contrôler et soumettre la réalité à leurs propres conditions (voir et toucher) avant de s'engager. Le Monde duel exige des garanties intellectuelles et sensorielles ; la foi du Royaume est une reddition." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "δάκτυλόν", "gloss": "doigt" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "τύπον", "gloss": "marque" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἥλων", "gloss": "clous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "βάλω", "gloss": "je_mette" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "χεῖρα", "gloss": "main" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "πλευρὰν", "gloss": "côté" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "μὴ", "gloss": "absolument_pas" },
-          { "greek": "πιστεύσω.", "gloss": "je_croirai" }
+          {
+            "greek": "ἔλεγον",
+            "gloss": "Disaient"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἄλλοι",
+            "gloss": "autres"
+          },
+          {
+            "greek": "μαθηταί·",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "Ἑωράκαμεν",
+            "gloss": "Nous_avons_vu"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριον.",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Ἐὰν",
+            "gloss": "Si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἴδω",
+            "gloss": "je_vois"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "χερσὶν",
+            "gloss": "mains"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "τύπον",
+            "gloss": "marque"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἥλων",
+            "gloss": "clous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "βάλω",
+            "gloss": "je_mette",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Thomas exige des preuves empiriques. C'est la démarche typique de l'Ego et de l'intelligence aliénée qui veulent 'saisir' (préhension), contrôler et soumettre la réalité à leurs propres conditions (voir et toucher) avant de s'engager. Le Monde duel exige des garanties intellectuelles et sensorielles ; la foi du Royaume est une reddition.",
+              "related": [
+                "καὶ",
+                "τὸν"
+              ]
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "δάκτυλόν",
+            "gloss": "doigt",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le toucher proposé à Thomas",
+              "content": "Le Christ accueille la demande sensible de Thomas en lui présentant ses plaies. La foi ne se réduit pas à une preuve tactile, mais elle ne méprise pas les sens : le corps blessé du Ressuscité devient lieu de reconnaissance et de confession.",
+              "related": [
+                "χεῖράς",
+                "πλευράν"
+              ]
+            }
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "τύπον",
+            "gloss": "marque"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἥλων",
+            "gloss": "clous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "βάλω",
+            "gloss": "je_mette"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χεῖρα",
+            "gloss": "main"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πλευρὰν",
+            "gloss": "côté"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "absolument_pas"
+          },
+          {
+            "greek": "πιστεύσω.",
+            "gloss": "je_croirai"
+          }
         ]
       },
       {
@@ -224,35 +731,131 @@
           "darby": "Et huit jours après, ses disciples étaient de nouveau dans la maison, et Thomas avec eux. Jésus vient, les portes étant fermées ; et il se tint au milieu d'eux et dit : Paix vous soit !"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "μεθ’", "gloss": "après" },
-          { "greek": "ἡμέρας", "gloss": "jours" },
-          { "greek": "ὀκτὼ", "gloss": "huit", "analyse": "« Huit jours après » inscrit la rencontre de Thomas dans le rythme du premier jour renouvelé, celui de l'assemblée dominicale. Sa foi personnelle mûrit au milieu des disciples réunis, sans être remplacée par la foi du groupe." },
-          { "greek": "πάλιν", "gloss": "de_nouveau" },
-          { "greek": "ἦσαν", "gloss": "étaient" },
-          { "greek": "ἔσω", "gloss": "à_l'intérieur" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Θωμᾶς", "gloss": "Thomas" },
-          { "greek": "μετ’", "gloss": "avec" },
-          { "greek": "αὐτῶν.", "gloss": "eux" },
-          { "greek": "ἔρχεται", "gloss": "Vient" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "θυρῶν", "gloss": "portes" },
-          { "greek": "κεκλεισμένων,", "gloss": "étant_fermées" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔστη", "gloss": "se_tint" },
-          { "greek": "εἰς", "gloss": "au" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "μέσον", "gloss": "milieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Εἰρήνη", "gloss": "Paix" },
-          { "greek": "ὑμῖν.", "gloss": "à_vous" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "μεθ’",
+            "gloss": "après"
+          },
+          {
+            "greek": "ἡμέρας",
+            "gloss": "jours"
+          },
+          {
+            "greek": "ὀκτὼ",
+            "gloss": "huit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : « Huit jours après » inscrit la rencontre de Thomas dans le rythme du premier jour renouvelé, celui de l'assemblée dominicale. Sa foi personnelle mûrit au milieu des disciples réunis, sans être remplacée par la foi du groupe.",
+              "related": [
+                "ἡμέρας",
+                "πάλιν"
+              ]
+            }
+          },
+          {
+            "greek": "πάλιν",
+            "gloss": "de_nouveau"
+          },
+          {
+            "greek": "ἦσαν",
+            "gloss": "étaient"
+          },
+          {
+            "greek": "ἔσω",
+            "gloss": "à_l'intérieur"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Θωμᾶς",
+            "gloss": "Thomas"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἔρχεται",
+            "gloss": "Vient"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "θυρῶν",
+            "gloss": "portes"
+          },
+          {
+            "greek": "κεκλεισμένων,",
+            "gloss": "étant_fermées"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔστη",
+            "gloss": "se_tint"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "au"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μέσον",
+            "gloss": "milieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Εἰρήνη",
+            "gloss": "Paix"
+          },
+          {
+            "greek": "ὑμῖν.",
+            "gloss": "à_vous"
+          }
         ]
       },
       {
@@ -262,37 +865,130 @@
           "darby": "Puis il dit à Thomas : Avance ici ton doigt, et regarde mes mains ; avance aussi ta main, et mets-la dans mon côté ; et ne sois pas incrédule, mais croyant."
         },
         "interlinear": [
-          { "greek": "εἶτα", "gloss": "Puis" },
-          { "greek": "λέγει", "gloss": "il_dit" },
-          { "greek": "τῷ", "gloss": "à" },
-          { "greek": "Θωμᾷ·", "gloss": "Thomas" },
-          { "greek": "Φέρε", "gloss": "Porte/Avance" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "δάκτυλόν", "gloss": "doigt" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ὧδε", "gloss": "ici" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἴδε", "gloss": "vois" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "χεῖράς", "gloss": "mains" },
-          { "greek": "μου,", "gloss": "de_moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "φέρε", "gloss": "avance" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "χεῖρά", "gloss": "main" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "βάλε", "gloss": "mets" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "πλευράν", "gloss": "côté" },
-          { "greek": "μου,", "gloss": "de_moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "γίνου", "gloss": "deviens/sois" },
-          { "greek": "ἄπιστος", "gloss": "incrédule" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "πιστός.", "gloss": "croyant" }
+          {
+            "greek": "εἶτα",
+            "gloss": "Puis"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à"
+          },
+          {
+            "greek": "Θωμᾷ·",
+            "gloss": "Thomas"
+          },
+          {
+            "greek": "Φέρε",
+            "gloss": "Porte/Avance"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "δάκτυλόν",
+            "gloss": "doigt"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ὧδε",
+            "gloss": "ici"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἴδε",
+            "gloss": "vois"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "χεῖράς",
+            "gloss": "mains"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φέρε",
+            "gloss": "avance"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χεῖρά",
+            "gloss": "main"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "βάλε",
+            "gloss": "mets"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πλευράν",
+            "gloss": "côté"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "γίνου",
+            "gloss": "deviens/sois"
+          },
+          {
+            "greek": "ἄπιστος",
+            "gloss": "incrédule"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "πιστός.",
+            "gloss": "croyant"
+          }
         ]
       },
       {
@@ -302,18 +998,62 @@
           "darby": "Thomas répondit et lui dit : Mon Seigneur et mon Dieu !"
         },
         "interlinear": [
-          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
-          { "greek": "Θωμᾶς", "gloss": "Thomas" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Ὁ", "gloss": "Le" },
-          { "greek": "κύριός", "gloss": "Seigneur" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεός", "gloss": "Dieu" },
-          { "greek": "μου.", "gloss": "de_moi", "analyse": "Le texte ne dit pas que Thomas a effectivement touché les plaies. La seule vue de la kénose du Christ fait s'effondrer son besoin de contrôle. Dans ce cri ('Mon Seigneur et mon Dieu'), l'Ego de Thomas capitule. Il cesse d'être un observateur distant cherchant à objectiver le divin, et devient un vrai 'Sujet' en relation directe avec l'Incréé." }
+          {
+            "greek": "ἀπεκρίθη",
+            "gloss": "Répondit"
+          },
+          {
+            "greek": "Θωμᾶς",
+            "gloss": "Thomas"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "κύριός",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεός",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "μου.",
+            "gloss": "de_moi",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le texte ne dit pas que Thomas a effectivement touché les plaies. La seule vue de la kénose du Christ fait s'effondrer son besoin de contrôle. Dans ce cri ('Mon Seigneur et mon Dieu'), l'Ego de Thomas capitule. Il cesse d'être un observateur distant cherchant à objectiver le divin, et devient un vrai 'Sujet' en relation directe avec l'Incréé.",
+              "related": [
+                "θεός"
+              ]
+            }
+          }
         ]
       },
       {
@@ -323,20 +1063,62 @@
           "darby": "Jésus lui dit : Parce que tu m'as vu, tu as cru ; bienheureux ceux qui n'ont point vu et qui ont cru."
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Ὅτι", "gloss": "Parce_que" },
-          { "greek": "ἑώρακάς", "gloss": "tu_as_vu" },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "πεπίστευκας;", "gloss": "tu_as_cru" },
-          { "greek": "μακάριοι", "gloss": "heureux" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "μὴ", "gloss": "n'ayant_pas" },
-          { "greek": "ἰδόντες", "gloss": "vu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πιστεύσαντες.", "gloss": "ayant_cru" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Ὅτι",
+            "gloss": "Parce_que"
+          },
+          {
+            "greek": "ἑώρακάς",
+            "gloss": "tu_as_vu"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "πεπίστευκας;",
+            "gloss": "tu_as_cru"
+          },
+          {
+            "greek": "μακάριοι",
+            "gloss": "heureux"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "n'ayant_pas"
+          },
+          {
+            "greek": "ἰδόντες",
+            "gloss": "vu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πιστεύσαντες.",
+            "gloss": "ayant_cru"
+          }
         ]
       },
       {
@@ -346,27 +1128,90 @@
           "darby": "Jésus donc fit aussi devant ses disciples beaucoup d'autres miracles, qui ne sont pas écrits dans ce livre."
         },
         "interlinear": [
-          { "greek": "Πολλὰ", "gloss": "Beaucoup" },
-          { "greek": "μὲν", "gloss": "certes" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "καὶ", "gloss": "et/aussi" },
-          { "greek": "ἄλλα", "gloss": "autres" },
-          { "greek": "σημεῖα", "gloss": "signes/miracles" },
-          { "greek": "ἐποίησεν", "gloss": "fit" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ἐνώπιον", "gloss": "devant" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "μαθητῶν", "gloss": "disciples" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "ἃ", "gloss": "lesquels" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔστιν", "gloss": "sont" },
-          { "greek": "γεγραμμένα", "gloss": "écrits" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "βιβλίῳ", "gloss": "livre" },
-          { "greek": "τούτῳ·", "gloss": "ceci" }
+          {
+            "greek": "Πολλὰ",
+            "gloss": "Beaucoup"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "certes"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et/aussi"
+          },
+          {
+            "greek": "ἄλλα",
+            "gloss": "autres"
+          },
+          {
+            "greek": "σημεῖα",
+            "gloss": "signes/miracles"
+          },
+          {
+            "greek": "ἐποίησεν",
+            "gloss": "fit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐνώπιον",
+            "gloss": "devant"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθητῶν",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἃ",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "γεγραμμένα",
+            "gloss": "écrits"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βιβλίῳ",
+            "gloss": "livre"
+          },
+          {
+            "greek": "τούτῳ·",
+            "gloss": "ceci"
+          }
         ]
       },
       {
@@ -376,48 +1221,188 @@
           "darby": "Mais ces choses sont écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu'en croyant vous ayez la vie par son nom."
         },
         "interlinear": [
-          { "greek": "ταῦτα", "gloss": "ces_choses" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "γέγραπται", "gloss": "ont_été_écrites" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "πιστεύητε", "gloss": "vous_croyiez" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Χριστὸς", "gloss": "Christ" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "υἱὸς", "gloss": "fils" },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "θεοῦ,", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "πιστεύοντες", "gloss": "croyant" },
-          { "greek": "ζωὴν", "gloss": "la_vie" },
-          { "greek": "ἔχητε", "gloss": "vous_ayez" },
-          { "greek": "ἐν", "gloss": "en/par" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "ὀνόματι", "gloss": "nom" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "γέγραπται",
+            "gloss": "ont_été_écrites"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "πιστεύητε",
+            "gloss": "vous_croyiez"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "πιστεύοντες",
+            "gloss": "croyant"
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "la_vie"
+          },
+          {
+            "greek": "ἔχητε",
+            "gloss": "vous_ayez"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/par"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὀνόματι",
+            "gloss": "nom"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       }
     ],
     "homiletic_axes": [
-      { "title": "Le doute accueilli comme désir de rencontre", "content": "Le Ressuscité ne ridiculise pas Thomas et ne l'écarte pas. Il rejoint son besoin de vérité et l'invite à passer de l'exigence de preuve à la confession personnelle : « Mon Seigneur et mon Dieu ».", "keywords": ["Θωμᾶς", "ἴδω", "πιστός"] },
-      { "title": "Des portes fermées à la paix reçue", "content": "Le Christ vient au milieu d'une communauté enfermée par la peur. Sa paix, son souffle et ses plaies ne nient pas l'épreuve : ils en font un passage vers une vie et une mission nouvelles.", "keywords": ["κεκλεισμένων", "Εἰρήνη", "ἐνεφύσησεν"] },
-      { "title": "Une personne unique réintégrée à l'unité", "content": "Thomas est absent, résiste à l'affirmation du groupe, puis est rejoint huit jours après au milieu des disciples. La communion ne supprime pas son unicité : elle s'accomplit en la recevant.", "keywords": ["εἷς", "δώδεκα", "μαθηταὶ"] }
+      {
+        "title": "Le doute accueilli comme désir de rencontre",
+        "content": "Le Ressuscité ne ridiculise pas Thomas et ne l'écarte pas. Il rejoint son besoin de vérité et l'invite à passer de l'exigence de preuve à la confession personnelle : « Mon Seigneur et mon Dieu ».",
+        "keywords": [
+          "Θωμᾶς",
+          "ἴδω",
+          "πιστός"
+        ]
+      },
+      {
+        "title": "Des portes fermées à la paix reçue",
+        "content": "Le Christ vient au milieu d'une communauté enfermée par la peur. Sa paix, son souffle et ses plaies ne nient pas l'épreuve : ils en font un passage vers une vie et une mission nouvelles.",
+        "keywords": [
+          "κεκλεισμένων",
+          "Εἰρήνη",
+          "ἐνεφύσησεν"
+        ]
+      },
+      {
+        "title": "Une personne unique réintégrée à l'unité",
+        "content": "Thomas est absent, résiste à l'affirmation du groupe, puis est rejoint huit jours après au milieu des disciples. La communion ne supprime pas son unicité : elle s'accomplit en la recevant.",
+        "keywords": [
+          "εἷς",
+          "δώδεκα",
+          "μαθηταὶ"
+        ]
+      },
+      {
+        "title": "Des sens transfigurés à la confession",
+        "content": "Thomas veut voir et toucher ; le Christ lui offre ses plaies sans se laisser réduire à un objet de vérification. La rencontre corporelle s’accomplit dans la confession : « Mon Seigneur et mon Dieu ».",
+        "keywords": [
+          "δάκτυλόν",
+          "ἴδε",
+          "ἐνεφύσησεν"
+        ]
+      }
     ],
     "homily_template": [
-      { "id": "theme", "phase": "inspiration", "title": "1. Parole centrale", "prompt": "Choisissez votre porte d'entrée : la paix, les portes fermées, les plaies, le toucher, le doute ou la confession de Thomas." },
-      { "id": "text", "phase": "inspiration", "title": "2. Chemin de la rencontre", "prompt": "Suivez un mouvement du récit : peur, présence, paix et souffle ; ou absence, désir de voir, retour du Christ et confession." },
-      { "id": "gospel", "phase": "inspiration", "title": "3. Bonne Nouvelle annoncée", "prompt": "Formulez ce que le Ressuscité rend possible : être rejoint dans son enfermement, porter des plaies devenues signes de vie, ou trouver sa place unique dans la communion." },
-      { "id": "today", "phase": "gestation", "title": "4. Expérience humaine rejointe", "prompt": "Évoquez avec délicatesse un doute, une peur ou un besoin de preuve contemporain, sans caricaturer ni opposer foi et intelligence." },
-      { "id": "response", "phase": "gestation", "title": "5. Passage proposé", "prompt": "Ouvrez une possibilité : demeurer dans la communauté, présenter au Christ une question réelle, recevoir sa paix ou devenir à son tour témoin." },
-      { "id": "oral", "phase": "proclamation", "title": "6. Mise en voix", "prompt": "Construisez autour d'une seule image — la porte, la plaie ou la main — et laissez un silence préparer la confession : « Mon Seigneur et mon Dieu »." }
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre porte d'entrée : la paix, les portes fermées, les plaies, le toucher, le doute ou la confession de Thomas."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Chemin de la rencontre",
+        "prompt": "Suivez un mouvement du récit : peur, présence, paix et souffle ; ou absence, désir de voir, retour du Christ et confession."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que le Ressuscité rend possible : être rejoint dans son enfermement, porter des plaies devenues signes de vie, ou trouver sa place unique dans la communion."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Évoquez avec délicatesse un doute, une peur ou un besoin de preuve contemporain, sans caricaturer ni opposer foi et intelligence."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une possibilité : demeurer dans la communauté, présenter au Christ une question réelle, recevoir sa paix ou devenir à son tour témoin."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Construisez autour d'une seule image — la porte, la plaie ou la main — et laissez un silence préparer la confession : « Mon Seigneur et mon Dieu »."
+      }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 19 - τῶν θυρῶν κεκλεισμένων : 'Les portes étant fermées'. Cette précision, répétée au verset 26, n'est pas qu'un détail architectural. C'est l'image spatiale de l'enfermement des disciples dans le Monde duel (par la peur).\n• Verset 22 - ἐνεφύσησεν : C'est le même verbe grec (emphysaô) utilisé dans la traduction des Septante en Genèse 2,7, quand Dieu insuffle le souffle de vie dans les narines d'Adam. C'est le moment précis de la recréation de l'humanité.\n\nAnalyse spirituelle :\nCe dimanche qui suit Pâques illustre l'intégration de la Résurrection par les apôtres. Dans un premier temps, les disciples sont littéralement claustrés. L'Ego, terrorisé par la mort et par les autres ('la crainte des Juifs'), érige des murs. Le Christ ne détruit pas ces murs par la force, Il apparaît au milieu d'eux. Dans la logique du 'Royaume UN', la matérialité n'est plus une frontière d'exclusion. En leur insufflant l'Esprit Saint, Jésus brise leur enfermement intérieur et les rend capables d'une véritable communion : ils deviennent des Sujets apostoliques.\n\nThomas, absent lors de ce premier don, incarne la résistance ultime du 'Monde duel' : l'empirisme. L'Ego de Thomas refuse de s'abandonner à la parole des autres ; il exige de voir, de toucher, de vérifier. Il veut 'saisir' Dieu par les sens pour en garder la maîtrise intellectuelle. Mais face au Christ qui lui offre ses blessures — la marque absolue de sa kénose et de son amour sans défense —, Thomas est foudroyé. Son exigence de contrôle s'effondre. Sans même toucher, il lâche prise et pousse le cri du Sujet enfin libéré : 'Mon Seigneur et mon Dieu !'. La foi n'est pas une déduction rationnelle ou une preuve matérielle, c'est la capitulation joyeuse de l'Ego face à l'Incréé."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 19 - τῶν θυρῶν κεκλεισμένων : 'Les portes étant fermées'. Cette précision, répétée au verset 26, n'est pas qu'un détail architectural. C'est l'image spatiale de l'enfermement des disciples dans le Monde duel (par la peur).\n• Verset 22 - ἐνεφύσησεν : C'est le même verbe grec (emphysaô) utilisé dans la traduction des Septante en Genèse 2,7, quand Dieu insuffle le souffle de vie dans les narines d'Adam. C'est le moment précis de la recréation de l'humanité.\n\nAnalyse spirituelle :\nCe dimanche qui suit Pâques illustre l'intégration de la Résurrection par les apôtres. Dans un premier temps, les disciples sont littéralement claustrés. L'Ego, terrorisé par la mort et par les autres ('la crainte des Juifs'), érige des murs. Le Christ ne détruit pas ces murs par la force, Il apparaît au milieu d'eux. Dans la logique du 'Royaume UN', la matérialité n'est plus une frontière d'exclusion. En leur insufflant l'Esprit Saint, Jésus brise leur enfermement intérieur et les rend capables d'une véritable communion : ils deviennent des Sujets apostoliques.\n\nThomas, absent lors de ce premier don, incarne la résistance ultime du 'Monde duel' : l'empirisme. L'Ego de Thomas refuse de s'abandonner à la parole des autres ; il exige de voir, de toucher, de vérifier. Il veut 'saisir' Dieu par les sens pour en garder la maîtrise intellectuelle. Mais face au Christ qui lui offre ses blessures — la marque absolue de sa kénose et de son amour sans défense —, Thomas est foudroyé. Son exigence de contrôle s'effondre. Sans même toucher, il lâche prise et pousse le cri du Sujet enfin libéré : 'Mon Seigneur et mon Dieu !'. La foi n'est pas une déduction rationnelle ou une preuve matérielle, c'est la capitulation joyeuse de l'Ego face à l'Incréé.",
+    "liturgical_echoes": [
+      {
+        "title": "Pédagogie pascale des sens",
+        "reference": "Pâques — Thomas — Myrrhophores — Samaritaine — Aveugle-né",
+        "content": "Le Ressuscité ne délivre pas l’homme de son corps : il guérit et transfigure sa manière de sentir. Le parfum porté au tombeau, le toucher proposé à Thomas, la soif de la Samaritaine et la vue donnée à l’Aveugle-né conduisent de la recherche sensible à la rencontre, puis de la rencontre au témoignage.",
+        "connections": []
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Actes 5, 12-20",
     "title": "La liberté de l'Esprit face aux clôtures du monde",
     "interlinear": [
@@ -428,28 +1413,112 @@
           "darby": "Et beaucoup de miracles et de prodiges se faisaient parmi le peuple, par les mains des apôtres (et ils étaient tous d'un commun accord au portique de Salomon ;"
         },
         "interlinear": [
-          { "greek": "Διὰ", "gloss": "Par" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "χειρῶν", "gloss": "mains" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἀποστόλων", "gloss": "apôtres" },
-          { "greek": "ἐγίνετο", "gloss": "se_faisaient" },
-          { "greek": "σημεῖα", "gloss": "signes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τέρατα", "gloss": "prodiges" },
-          { "greek": "πολλὰ", "gloss": "beaucoup" },
-          { "greek": "ἐν", "gloss": "parmi" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "λαῷ·", "gloss": "peuple" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἦσαν", "gloss": "ils_étaient" },
-          { "greek": "ὁμοθυμαδὸν", "gloss": "d'un_commun_accord", "analyse": "Le terme *homothumadon* (d'une même âme, d'un même souffle) est fondamental dans les Actes. Il décrit la respiration du Royaume UN. L'Esprit Saint a guéri les apôtres de la dispersion de l'Ego : ils ne sont plus une collection d'individus isolés luttant pour le pouvoir (comme avant la Passion), mais un Corps uni de Sujets libres." },
-          { "greek": "ἅπαντες", "gloss": "tous", "analyse": "Le texte rassemble les croyants dans un « tous » accordé. En écho à Thomas, cette totalité ecclésiale peut être comprise comme une unité ouverte : elle accueille des personnes singulières au lieu de les rendre interchangeables." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "Στοᾷ", "gloss": "portique" },
-          { "greek": "Σολομῶντος·", "gloss": "de_Salomon" }
+          {
+            "greek": "Διὰ",
+            "gloss": "Par"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "χειρῶν",
+            "gloss": "mains"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀποστόλων",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "ἐγίνετο",
+            "gloss": "se_faisaient"
+          },
+          {
+            "greek": "σημεῖα",
+            "gloss": "signes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τέρατα",
+            "gloss": "prodiges"
+          },
+          {
+            "greek": "πολλὰ",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λαῷ·",
+            "gloss": "peuple"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἦσαν",
+            "gloss": "ils_étaient"
+          },
+          {
+            "greek": "ὁμοθυμαδὸν",
+            "gloss": "d'un_commun_accord",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le terme *homothumadon* (d'une même âme, d'un même souffle) est fondamental dans les Actes. Il décrit la respiration du Royaume UN. L'Esprit Saint a guéri les apôtres de la dispersion de l'Ego : ils ne sont plus une collection d'individus isolés luttant pour le pouvoir (comme avant la Passion), mais un Corps uni de Sujets libres.",
+              "related": [
+                "ἦσαν",
+                "ἅπαντες"
+              ]
+            }
+          },
+          {
+            "greek": "ἅπαντες",
+            "gloss": "tous",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le texte rassemble les croyants dans un « tous » accordé. En écho à Thomas, cette totalité ecclésiale peut être comprise comme une unité ouverte : elle accueille des personnes singulières au lieu de les rendre interchangeables.",
+              "related": [
+                "ὁμοθυμαδὸν",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "Στοᾷ",
+            "gloss": "portique"
+          },
+          {
+            "greek": "Σολομῶντος·",
+            "gloss": "de_Salomon"
+          }
         ]
       },
       {
@@ -459,18 +1528,54 @@
           "darby": "et d'entre les autres nul n'osait se joindre à eux ; mais le peuple les louait hautement."
         },
         "interlinear": [
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "λοιπῶν", "gloss": "autres" },
-          { "greek": "οὐδεὶς", "gloss": "aucun" },
-          { "greek": "ἐτόλμα", "gloss": "n'osait" },
-          { "greek": "κολλᾶσθαι", "gloss": "se_joindre" },
-          { "greek": "αὐτοῖς,", "gloss": "à_eux" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "ἐμεγάλυνεν", "gloss": "louait_hautement/magnifiait" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λαός·", "gloss": "peuple" }
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "λοιπῶν",
+            "gloss": "autres"
+          },
+          {
+            "greek": "οὐδεὶς",
+            "gloss": "aucun"
+          },
+          {
+            "greek": "ἐτόλμα",
+            "gloss": "n'osait"
+          },
+          {
+            "greek": "κολλᾶσθαι",
+            "gloss": "se_joindre"
+          },
+          {
+            "greek": "αὐτοῖς,",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἐμεγάλυνεν",
+            "gloss": "louait_hautement/magnifiait"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λαός·",
+            "gloss": "peuple"
+          }
         ]
       },
       {
@@ -480,17 +1585,50 @@
           "darby": "Et des croyants, multitudes tant d'hommes que de femmes, s'ajoutaient de plus en plus au Seigneur),"
         },
         "interlinear": [
-          { "greek": "μᾶλλον", "gloss": "plus" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "προσετίθεντο", "gloss": "s'ajoutaient" },
-          { "greek": "πιστεύοντες", "gloss": "ceux_qui_croient" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "κυρίῳ,", "gloss": "Seigneur" },
-          { "greek": "πλήθη", "gloss": "des_multitudes" },
-          { "greek": "ἀνδρῶν", "gloss": "d'hommes" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "γυναικῶν·", "gloss": "de_femmes" }
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plus"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "προσετίθεντο",
+            "gloss": "s'ajoutaient"
+          },
+          {
+            "greek": "πιστεύοντες",
+            "gloss": "ceux_qui_croient"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "κυρίῳ,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "πλήθη",
+            "gloss": "des_multitudes"
+          },
+          {
+            "greek": "ἀνδρῶν",
+            "gloss": "d'hommes"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "γυναικῶν·",
+            "gloss": "de_femmes"
+          }
         ]
       },
       {
@@ -500,29 +1638,98 @@
           "darby": "de sorte qu'on apportait les infirmes dans les rues, et qu'on les mettait sur de petits lits et sur des couchettes, afin que, quand Pierre viendrait, au moins son ombre passât sur quelqu'un d'eux."
         },
         "interlinear": [
-          { "greek": "ὥστε", "gloss": "de_sorte_que" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "πλατείας", "gloss": "places/rues" },
-          { "greek": "ἐκφέρειν", "gloss": "ils_apportaient_dehors" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ἀσθενεῖς", "gloss": "malades" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τιθέναι", "gloss": "les_plaçaient" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "κλιναρίων", "gloss": "des_petits_lits" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "κραβάττων,", "gloss": "des_couchettes/grabats" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἐρχομένου", "gloss": "venant" },
-          { "greek": "Πέτρου", "gloss": "Pierre" },
-          { "greek": "κἂν", "gloss": "au_moins" },
-          { "greek": "ἡ", "gloss": "l'" },
-          { "greek": "σκιὰ", "gloss": "ombre" },
-          { "greek": "ἐπισκιάσῃ", "gloss": "couvre_de_son_ombre" },
-          { "greek": "τινὶ", "gloss": "quelqu'un" },
-          { "greek": "αὐτῶν.", "gloss": "d'eux" }
+          {
+            "greek": "ὥστε",
+            "gloss": "de_sorte_que"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πλατείας",
+            "gloss": "places/rues"
+          },
+          {
+            "greek": "ἐκφέρειν",
+            "gloss": "ils_apportaient_dehors"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀσθενεῖς",
+            "gloss": "malades"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τιθέναι",
+            "gloss": "les_plaçaient"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "κλιναρίων",
+            "gloss": "des_petits_lits"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κραβάττων,",
+            "gloss": "des_couchettes/grabats"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἐρχομένου",
+            "gloss": "venant"
+          },
+          {
+            "greek": "Πέτρου",
+            "gloss": "Pierre"
+          },
+          {
+            "greek": "κἂν",
+            "gloss": "au_moins"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "σκιὰ",
+            "gloss": "ombre"
+          },
+          {
+            "greek": "ἐπισκιάσῃ",
+            "gloss": "couvre_de_son_ombre"
+          },
+          {
+            "greek": "τινὶ",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "d'eux"
+          }
         ]
       },
       {
@@ -532,25 +1739,82 @@
           "darby": "Et la multitude des villes d'alentour s'assemblait aussi à Jérusalem, apportant des infirmes et des personnes tourmentées par des esprits immondes ; et tous étaient guéris."
         },
         "interlinear": [
-          { "greek": "συνήρχετο", "gloss": "s'assemblait" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "πλῆθος", "gloss": "multitude" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "πέριξ", "gloss": "voisines/autour" },
-          { "greek": "πόλεων", "gloss": "villes" },
-          { "greek": "Ἰερουσαλήμ,", "gloss": "de_Jérusalem" },
-          { "greek": "φέροντες", "gloss": "apportant" },
-          { "greek": "ἀσθενεῖς", "gloss": "des_malades" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὀχλουμένους", "gloss": "tourmentés" },
-          { "greek": "ὑπὸ", "gloss": "par" },
-          { "greek": "πνευμάτων", "gloss": "des_esprits" },
-          { "greek": "ἀκαθάρτων,", "gloss": "impurs" },
-          { "greek": "οἵτινες", "gloss": "lesquels" },
-          { "greek": "ἐθεραπεύοντο", "gloss": "étaient_guéris" },
-          { "greek": "ἅπαντες.", "gloss": "tous" }
+          {
+            "greek": "συνήρχετο",
+            "gloss": "s'assemblait"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλῆθος",
+            "gloss": "multitude"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "πέριξ",
+            "gloss": "voisines/autour"
+          },
+          {
+            "greek": "πόλεων",
+            "gloss": "villes"
+          },
+          {
+            "greek": "Ἰερουσαλήμ,",
+            "gloss": "de_Jérusalem"
+          },
+          {
+            "greek": "φέροντες",
+            "gloss": "apportant"
+          },
+          {
+            "greek": "ἀσθενεῖς",
+            "gloss": "des_malades"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὀχλουμένους",
+            "gloss": "tourmentés"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "πνευμάτων",
+            "gloss": "des_esprits"
+          },
+          {
+            "greek": "ἀκαθάρτων,",
+            "gloss": "impurs"
+          },
+          {
+            "greek": "οἵτινες",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "ἐθεραπεύοντο",
+            "gloss": "étaient_guéris"
+          },
+          {
+            "greek": "ἅπαντες.",
+            "gloss": "tous"
+          }
         ]
       },
       {
@@ -560,22 +1824,78 @@
           "darby": "Et le souverain sacrificateur et tous ceux qui étaient avec lui (laquelle est la secte des sadducéens), se levant, furent remplis de jalousie,"
         },
         "interlinear": [
-          { "greek": "Ἀναστὰς", "gloss": "S'étant_levé" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "ἀρχιερεὺς", "gloss": "grand_prêtre" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πάντες", "gloss": "tous" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "αὐτῷ,", "gloss": "lui" },
-          { "greek": "ἡ", "gloss": "la/celle" },
-          { "greek": "οὖσα", "gloss": "étant" },
-          { "greek": "αἵρεσις", "gloss": "secte/parti" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "Σαδδουκαίων,", "gloss": "Sadducéens" },
-          { "greek": "ἐπλήσθησαν", "gloss": "ils_furent_remplis" },
-          { "greek": "ζήλου", "gloss": "de_jalousie", "analyse": "La jalousie (zélos) révèle l'Ego blessé. Face à l'effusion de l'Énergie incréée (qui guérit gratuitement), le pouvoir mondain, qui gère la religion comme un marché juridique de lois et de peurs, se sent menacé. La jalousie est le moteur de la violence dans le Monde duel : elle tente d'écraser l'autre pour préserver sa propre position de préhension." }
+          {
+            "greek": "Ἀναστὰς",
+            "gloss": "S'étant_levé"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀρχιερεὺς",
+            "gloss": "grand_prêtre"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῷ,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la/celle"
+          },
+          {
+            "greek": "οὖσα",
+            "gloss": "étant"
+          },
+          {
+            "greek": "αἵρεσις",
+            "gloss": "secte/parti"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "Σαδδουκαίων,",
+            "gloss": "Sadducéens"
+          },
+          {
+            "greek": "ἐπλήσθησαν",
+            "gloss": "ils_furent_remplis"
+          },
+          {
+            "greek": "ζήλου",
+            "gloss": "de_jalousie",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La jalousie (zélos) révèle l'Ego blessé. Face à l'effusion de l'Énergie incréée (qui guérit gratuitement), le pouvoir mondain, qui gère la religion comme un marché juridique de lois et de peurs, se sent menacé. La jalousie est le moteur de la violence dans le Monde duel : elle tente d'écraser l'autre pour préserver sa propre position de préhension.",
+              "related": [
+                "ἐπλήσθησαν"
+              ]
+            }
+          }
         ]
       },
       {
@@ -585,19 +1905,67 @@
           "darby": "et mirent les mains sur les apôtres, et les jetèrent dans la prison publique."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπέβαλον", "gloss": "ils_jetèrent/mirent" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "χεῖρας", "gloss": "mains" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ἀποστόλους", "gloss": "apôtres" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔθεντο", "gloss": "ils_placèrent/mirent" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τηρήσει", "gloss": "une_prison", "analyse": "La prison est la réponse architecturale de l'idéologie mondaine. Le Monde duel tente toujours d'objectiver, de clore et d'enfermer ce qu'il ne peut pas comprendre ni maîtriser." },
-          { "greek": "δημοσίᾳ.", "gloss": "publique" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπέβαλον",
+            "gloss": "ils_jetèrent/mirent"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "χεῖρας",
+            "gloss": "mains"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀποστόλους",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔθεντο",
+            "gloss": "ils_placèrent/mirent"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τηρήσει",
+            "gloss": "une_prison",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La prison est la réponse architecturale de l'idéologie mondaine. Le Monde duel tente toujours d'objectiver, de clore et d'enfermer ce qu'il ne peut pas comprendre ni maîtriser.",
+              "related": [
+                "ἐν",
+                "δημοσίᾳ."
+              ]
+            }
+          },
+          {
+            "greek": "δημοσίᾳ.",
+            "gloss": "publique"
+          }
         ]
       },
       {
@@ -607,20 +1975,62 @@
           "darby": "Mais un ange du Seigneur ouvrit de nuit les portes de la prison, et les ayant menés dehors, il dit :"
         },
         "interlinear": [
-          { "greek": "ἄγγελος", "gloss": "Un_ange" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "κυρίου", "gloss": "du_Seigneur" },
-          { "greek": "διὰ", "gloss": "pendant" },
-          { "greek": "νυκτὸς", "gloss": "la_nuit" },
-          { "greek": "ἤνοιξε", "gloss": "ouvrit" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "θύρας", "gloss": "portes" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "φυλακῆς,", "gloss": "prison" },
-          { "greek": "ἐξαγαγών", "gloss": "ayant_conduit_dehors" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "εἶπεν·", "gloss": "il_dit" }
+          {
+            "greek": "ἄγγελος",
+            "gloss": "Un_ange"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "du_Seigneur"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "pendant"
+          },
+          {
+            "greek": "νυκτὸς",
+            "gloss": "la_nuit"
+          },
+          {
+            "greek": "ἤνοιξε",
+            "gloss": "ouvrit"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "θύρας",
+            "gloss": "portes"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "φυλακῆς,",
+            "gloss": "prison"
+          },
+          {
+            "greek": "ἐξαγαγών",
+            "gloss": "ayant_conduit_dehors"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "il_dit"
+          }
         ]
       },
       {
@@ -630,37 +2040,145 @@
           "darby": "Allez, et vous tenant dans le temple, annoncez au peuple toutes les paroles de cette vie."
         },
         "interlinear": [
-          { "greek": "Πορεύεσθε", "gloss": "Allez" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "σταθέντες", "gloss": "vous_étant_tenus" },
-          { "greek": "λαλεῖτε", "gloss": "annoncez/parlez" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "ἱερῷ", "gloss": "temple" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "λαῷ", "gloss": "peuple" },
-          { "greek": "πάντα", "gloss": "toutes" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ῥήματα", "gloss": "paroles/choses" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ζωῆς", "gloss": "vie", "analyse": "L'ange ne demande pas seulement aux apôtres de sortir : il les renvoie proclamer « les paroles de cette vie ». Le mot relie l'ouverture matérielle de la prison à la vie pascale que nul enfermement ne peut retenir." },
-          { "greek": "ταύτης.", "gloss": "cette" }
+          {
+            "greek": "Πορεύεσθε",
+            "gloss": "Allez"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σταθέντες",
+            "gloss": "vous_étant_tenus"
+          },
+          {
+            "greek": "λαλεῖτε",
+            "gloss": "annoncez/parlez"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἱερῷ",
+            "gloss": "temple"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "λαῷ",
+            "gloss": "peuple"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ῥήματα",
+            "gloss": "paroles/choses"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ζωῆς",
+            "gloss": "vie",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'ange ne demande pas seulement aux apôtres de sortir : il les renvoie proclamer « les paroles de cette vie ». Le mot relie l'ouverture matérielle de la prison à la vie pascale que nul enfermement ne peut retenir.",
+              "related": [
+                "τῆς",
+                "ταύτης."
+              ]
+            }
+          },
+          {
+            "greek": "ταύτης.",
+            "gloss": "cette"
+          }
         ]
       }
     ],
     "homiletic_axes": [
-      { "title": "Des portes closes à la place publique", "content": "Les disciples autrefois enfermés se tiennent désormais au milieu du peuple. La paix et le souffle reçus deviennent une présence visible, accordée et hospitalière.", "keywords": ["ὁμοθυμαδὸν", "λαῷ", "χειρῶν"] },
-      { "title": "Des mains qui transmettent la grâce", "content": "Les mains évoquées dans l'Évangile et les Actes relient rencontre et service : ce qui a été reçu du Ressuscité devient guérison offerte, sans possession de la grâce.", "keywords": ["χειρῶν", "σημεῖα", "ἐθεραπεύοντο"] },
-      { "title": "La vie ne se laisse pas emprisonner", "content": "La prison referme de nouveau des portes, mais Dieu les ouvre et renvoie les apôtres annoncer « toutes les paroles de cette vie ». La mission naît moins de l'héroïsme que d'une liberté reçue.", "keywords": ["φυλακῆς", "ἤνοιξε", "ζωῆς"] }
+      {
+        "title": "Des portes closes à la place publique",
+        "content": "Les disciples autrefois enfermés se tiennent désormais au milieu du peuple. La paix et le souffle reçus deviennent une présence visible, accordée et hospitalière.",
+        "keywords": [
+          "ὁμοθυμαδὸν",
+          "λαῷ",
+          "χειρῶν"
+        ]
+      },
+      {
+        "title": "Des mains qui transmettent la grâce",
+        "content": "Les mains évoquées dans l'Évangile et les Actes relient rencontre et service : ce qui a été reçu du Ressuscité devient guérison offerte, sans possession de la grâce.",
+        "keywords": [
+          "χειρῶν",
+          "σημεῖα",
+          "ἐθεραπεύοντο"
+        ]
+      },
+      {
+        "title": "La vie ne se laisse pas emprisonner",
+        "content": "La prison referme de nouveau des portes, mais Dieu les ouvre et renvoie les apôtres annoncer « toutes les paroles de cette vie ». La mission naît moins de l'héroïsme que d'une liberté reçue.",
+        "keywords": [
+          "φυλακῆς",
+          "ἤνοιξε",
+          "ζωῆς"
+        ]
+      }
     ],
     "homily_template": [
-      { "id": "theme", "phase": "inspiration", "title": "1. Parole centrale", "prompt": "Choisissez le fil conducteur : l'accord, les mains, la guérison, la jalousie, la prison ouverte ou les paroles de vie." },
-      { "id": "text", "phase": "inspiration", "title": "2. Mouvement de l'épître", "prompt": "Observez le passage de la communion à la rencontre du peuple, puis de l'arrestation à une parole de nouveau libre." },
-      { "id": "gospel", "phase": "inspiration", "title": "3. Bonne Nouvelle annoncée", "prompt": "Montrez comment la vie du Ressuscité traverse les clôtures et rend une communauté capable de servir au grand jour." },
-      { "id": "today", "phase": "gestation", "title": "4. Expérience humaine rejointe", "prompt": "Choisissez une forme actuelle d'enfermement ou une question de crédibilité du témoignage chrétien, sans désigner d'adversaire commode." },
-      { "id": "response", "phase": "gestation", "title": "5. Grâce reçue, grâce transmise", "prompt": "Proposez un passage concret de la communion reçue au service : présence, écoute, soin ou parole de vie." },
-      { "id": "oral", "phase": "proclamation", "title": "6. Mise en voix", "prompt": "Vous pouvez relier en une image les portes du Cénacle et celles de la prison, puis ouvrir la conclusion vers la mission." }
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez le fil conducteur : l'accord, les mains, la guérison, la jalousie, la prison ouverte ou les paroles de vie."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l'épître",
+        "prompt": "Observez le passage de la communion à la rencontre du peuple, puis de l'arrestation à une parole de nouveau libre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Montrez comment la vie du Ressuscité traverse les clôtures et rend une communauté capable de servir au grand jour."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une forme actuelle d'enfermement ou une question de crédibilité du témoignage chrétien, sans désigner d'adversaire commode."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Grâce reçue, grâce transmise",
+        "prompt": "Proposez un passage concret de la communion reçue au service : présence, écoute, soin ou parole de vie."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Vous pouvez relier en une image les portes du Cénacle et celles de la prison, puis ouvrir la conclusion vers la mission."
+      }
     ],
     "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 12 - ὁμοθυμαδὸν : 'D'un commun accord'. La traduction gomme la poésie de ce terme qui contient le mot 'thymos' (l'âme, le souffle vital). Les apôtres respirent ensemble d'un même souffle divin.\n• Verset 18 - τηρήσει : Traduit par 'prison', ce mot vient du verbe tereô (garder, surveiller). Il illustre la volonté de contrôle, la tentative désespérée de garder sous surveillance la liberté de l'Esprit.\n\nAnalyse spirituelle :\nCet extrait des Actes est le miroir parfait de l'Évangile de Thomas. Dans l'Évangile, les apôtres étaient derrière des portes verrouillées par peur, incapables de sortir de la matrice d'angoisse du Monde duel. Après avoir reçu le souffle du Christ et la paix du Royaume UN, nous les retrouvons ici dans un état opposé : ils sont au milieu de la foule, porteurs d'une Lumière incréée qui guérit.\n\nLe miracle attire les affligés, mais il attire aussi la foudre de l'Ego clérical et politique. La 'jalousie' (zélos) des grands prêtres démontre que le système aliéné ne supporte pas la gratuité. Si les apôtres guérissent sans condition, tout le système de contrôle, de préhension et de mérite s'effondre. Le Monde duel répond par la violence : il enferme les Sujets libres dans une prison (le retour des portes fermées). Mais la métaphore est limpide : de même que le Christ ressuscité a traversé la pierre du tombeau et la porte du Cénacle, l'ange de l'Incréé ouvre les portes de la prison de nuit. L'ordre divin ('Allez et annoncez les paroles de la vie') confirme que la force spirituelle ne peut être ni objectivée ni réduite au silence."
   }
-  }
+}
