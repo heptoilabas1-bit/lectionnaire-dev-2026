@@ -572,7 +572,7 @@ main {
     color: #263c5a;
     font-weight: 700;
 }
-.homily-prompt { margin: 0 0 8px; color: #625c53; font-size: .9rem; }
+.homily-prompt { margin: 0 0 8px; color: #625c53; font-size: .9rem; white-space: pre-line; }
 .homily-field textarea {
     width: 100%;
     min-height: 110px;
