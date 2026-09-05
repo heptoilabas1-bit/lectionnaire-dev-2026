@@ -1,7 +1,7 @@
 {
   "gospel": {
     "reference": "Marc 15, 43 - 16, 8",
-    "title": "L'audace de Joseph d'Arimathée et le témoignage des Myrophores",
+    "title": "Joseph d’Arimathie et les Myrophores : prendre soin, chercher et recevoir l’annonce",
     "interlinear": [
       {
         "verse_number": "15, 43",
@@ -10,33 +10,143 @@
           "darby": "Joseph d'Arimathée, conseiller de haut rang, qui lui aussi attendait le royaume de Dieu, étant venu, prit de l'assurance et entra auprès de Pilate, et demanda le corps de Jésus."
         },
         "interlinear": [
-          { "greek": "ἐλθὼν", "gloss": "étant_venu" },
-          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "Ἁριμαθαίας,", "gloss": "Arimathée" },
-          { "greek": "εὐσχήμων", "gloss": "considéré/de_distinction" },
-          { "greek": "βουλευτής,", "gloss": "conseiller" },
-          { "greek": "ὃς", "gloss": "qui" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "αὐτὸς", "gloss": "lui-même" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "προσδεχόμενος", "gloss": "attendant" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "βασιλείαν", "gloss": "royaume" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ,", "gloss": "Dieu" },
-          { "greek": "τολμήσας", "gloss": "ayant_osé/pris_de_l'assurance", "analyse": "Le verbe *tolmao* indique une audace qui brise les conventions sociales. Joseph, homme de pouvoir dans le Monde duel (conseiller), risque son statut, sa réputation et sa vie. Son Ego capitule devant l'urgence de l'amour : il cesse d'être un observateur prudent pour devenir un Sujet agissant au nom du Royaume." },
-          { "greek": "εἰσῆλθεν", "gloss": "il_entra" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Πιλᾶτον", "gloss": "Pilate" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ᾐτήσατο", "gloss": "demanda" },
-          { "greek": "tὸ", "gloss": "le" },
-          { "greek": "σῶμα", "gloss": "corps" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "Ἰησοῦ.", "gloss": "Jésus" }
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "Ἰωσὴφ",
+            "gloss": "Joseph"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἁριμαθαίας,",
+            "gloss": "Arimathée"
+          },
+          {
+            "greek": "εὐσχήμων",
+            "gloss": "considéré/de_distinction"
+          },
+          {
+            "greek": "βουλευτής,",
+            "gloss": "conseiller"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "προσδεχόμενος",
+            "gloss": "attendant",
+            "annotation": {
+              "type": "theologie",
+              "title": "Dans l’attente du Royaume",
+              "content": "Joseph est présenté comme quelqu’un qui attend lui aussi le Royaume de Dieu. Son espérance reçoit immédiatement une forme concrète : il ose demander le corps de Jésus et lui donner une sépulture.",
+              "related": [
+                "τολμήσας",
+                "βασιλείαν",
+                "σῶμα"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλείαν",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "τολμήσας",
+            "gloss": "ayant_osé/pris_de_l'assurance",
+            "annotation": {
+              "type": "analyse",
+              "title": "Oser — τολμήσας",
+              "content": "Le participe de τολμάω signifie « ayant osé, prenant courage ». Le récit ne célèbre pas une audace abstraite : Joseph entre chez Pilate pour demander le corps du Crucifié.",
+              "related": [
+                "εἰσῆλθεν",
+                "ᾐτήσατο",
+                "σῶμα"
+              ]
+            }
+          },
+          {
+            "greek": "εἰσῆλθεν",
+            "gloss": "il_entra"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Πιλᾶτον",
+            "gloss": "Pilate"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ᾐτήσατο",
+            "gloss": "demanda"
+          },
+          {
+            "greek": "tὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σῶμα",
+            "gloss": "corps",
+            "annotation": {
+              "type": "traduction",
+              "title": "Le corps demandé — σῶμα",
+              "content": "Joseph demande le σῶμα, le « corps » de Jésus. Quelques mots plus loin, le narrateur emploie πτῶμα, « dépouille » ou « cadavre », lorsque Pilate l’accorde. La variation mérite d’être observée sans créer une opposition que le texte n’explicite pas.",
+              "related": [
+                "πτῶμα",
+                "Ἰησοῦ."
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἰησοῦ.",
+            "gloss": "Jésus"
+          }
         ]
       },
       {
@@ -46,22 +156,70 @@
           "darby": "Et Pilate s'étonna qu'il fût déjà mort ; et ayant appelé le centurion, il lui demanda s'il était mort depuis longtemps."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Πιλᾶτος", "gloss": "Pilate" },
-          { "greek": "ἐθαύμασεν", "gloss": "s'étonna" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "ἤδη", "gloss": "déjà" },
-          { "greek": "τέθνηκεν,", "gloss": "il_était_mort" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "προσκαλεσάμενος", "gloss": "ayant_appelé" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κεντυρίωνα", "gloss": "centurion" },
-          { "greek": "ἐπηρώτησεν", "gloss": "il_demanda" },
-          { "greek": "αὐτὸν", "gloss": "à_lui" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "πάλαι", "gloss": "depuis_longtemps" },
-          { "greek": "ἀπέθανεν·", "gloss": "il_était_mort" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Πιλᾶτος",
+            "gloss": "Pilate"
+          },
+          {
+            "greek": "ἐθαύμασεν",
+            "gloss": "s'étonna"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "ἤδη",
+            "gloss": "déjà"
+          },
+          {
+            "greek": "τέθνηκεν,",
+            "gloss": "il_était_mort"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προσκαλεσάμενος",
+            "gloss": "ayant_appelé"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κεντυρίωνα",
+            "gloss": "centurion"
+          },
+          {
+            "greek": "ἐπηρώτησεν",
+            "gloss": "il_demanda"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "πάλαι",
+            "gloss": "depuis_longtemps"
+          },
+          {
+            "greek": "ἀπέθανεν·",
+            "gloss": "il_était_mort"
+          }
         ]
       },
       {
@@ -71,16 +229,66 @@
           "darby": "Et l'ayant appris du centurion, il donna le corps à Joseph."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "γνοὺς", "gloss": "ayant_su/appris" },
-          { "greek": "ἀπὸ", "gloss": "de_la_part_de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "κεντυρίωνος", "gloss": "centurion" },
-          { "greek": "ἐδωρήσατο", "gloss": "il_octroya/fit_don_de", "analyse": "Le verbe *doreomai* implique un don gratuit, une faveur concédée. Pilate, figure de l'autorité bureaucratique du Monde duel, se débarrasse de ce corps qui ne représente plus rien pour sa logique de pouvoir. Il livre la chair du Christ sans en comprendre la valeur eucharistique." },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "πτῶμα", "gloss": "cadavre/corps" },
-          { "greek": "τῷ", "gloss": "à" },
-          { "greek": "Ἰωσήφ.", "gloss": "Joseph" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "γνοὺς",
+            "gloss": "ayant_su/appris"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de_la_part_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κεντυρίωνος",
+            "gloss": "centurion"
+          },
+          {
+            "greek": "ἐδωρήσατο",
+            "gloss": "il_octroya/fit_don_de",
+            "annotation": {
+              "type": "traduction",
+              "title": "Pilate accorda la dépouille",
+              "content": "Le verbe δωρέομαι exprime le fait d’accorder ou de donner. Après la confirmation du centurion, Pilate remet la dépouille à Joseph. Le texte décrit une décision de l’autorité ; il ne précise pas les dispositions intérieures de Pilate.",
+              "related": [
+                "κεντυρίωνος",
+                "πτῶμα",
+                "Ἰωσήφ."
+              ]
+            }
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πτῶμα",
+            "gloss": "cadavre/corps",
+            "annotation": {
+              "type": "traduction",
+              "title": "La dépouille accordée — πτῶμα",
+              "content": "Πτῶμα peut désigner un corps tombé, une dépouille ou un cadavre. Darby conserve « corps », tandis que d’autres traductions marquent davantage l’état de mort. Marc vient de vérifier auprès du centurion que Jésus est bien mort.",
+              "related": [
+                "σῶμα",
+                "ἀπέθανεν",
+                "κεντυρίωνος"
+              ]
+            }
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἰωσήφ.",
+            "gloss": "Joseph"
+          }
         ]
       },
       {
@@ -90,32 +298,110 @@
           "darby": "Et lui, ayant acheté un linceul, le descendit de la croix, l'enveloppa du linceul et le déposa dans un sépulcre qui était taillé dans le roc ; et il roula une pierre contre la porte du sépulcre."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἀγοράσας", "gloss": "ayant_acheté" },
-          { "greek": "σινδόνα,", "gloss": "un_linceul" },
-          { "greek": "καθελὼν", "gloss": "ayant_descendu" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἐνείλησεν", "gloss": "il_enveloppa" },
-          { "greek": "τῇ", "gloss": "dans_le" },
-          { "greek": "σινδόνι", "gloss": "linceul" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔθηκεν", "gloss": "déposa" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "μνήματι", "gloss": "un_sépulcre" },
-          { "greek": "ὃ", "gloss": "qui" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "λελατομημένον", "gloss": "taillé" },
-          { "greek": "ἐκ", "gloss": "dans" },
-          { "greek": "πέτρας,", "gloss": "le_roc" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "προσεκύλισεν", "gloss": "il_roula" },
-          { "greek": "λίθον", "gloss": "une_pierre" },
-          { "greek": "ἐπὶ", "gloss": "sur/contre" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "θύραν", "gloss": "porte" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "μνημείου.", "gloss": "sépulcre" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀγοράσας",
+            "gloss": "ayant_acheté"
+          },
+          {
+            "greek": "σινδόνα,",
+            "gloss": "un_linceul"
+          },
+          {
+            "greek": "καθελὼν",
+            "gloss": "ayant_descendu"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐνείλησεν",
+            "gloss": "il_enveloppa"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "dans_le"
+          },
+          {
+            "greek": "σινδόνι",
+            "gloss": "linceul"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔθηκεν",
+            "gloss": "déposa"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "μνήματι",
+            "gloss": "un_sépulcre"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "λελατομημένον",
+            "gloss": "taillé"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πέτρας,",
+            "gloss": "le_roc"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προσεκύλισεν",
+            "gloss": "il_roula"
+          },
+          {
+            "greek": "λίθον",
+            "gloss": "une_pierre"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur/contre"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "θύραν",
+            "gloss": "porte"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "μνημείου.",
+            "gloss": "sépulcre"
+          }
         ]
       },
       {
@@ -125,18 +411,54 @@
           "darby": "Et Marie de Magdala, et Marie la mère de Joses, regardaient où il était déposé."
         },
         "interlinear": [
-          { "greek": "ἡ", "gloss": "La" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Μαρία", "gloss": "Marie" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "Μαγδαληνὴ", "gloss": "Magdalène" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Μαρία", "gloss": "Marie" },
-          { "greek": "ἡ", "gloss": "la_mère" },
-          { "greek": "Ἰωσῆτος", "gloss": "de_Joses" },
-          { "greek": "ἐθεώρουν", "gloss": "regardaient/observaient" },
-          { "greek": "ποῦ", "gloss": "où" },
-          { "greek": "τέθειται.", "gloss": "il_était_déposé" }
+          {
+            "greek": "ἡ",
+            "gloss": "La"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Μαρία",
+            "gloss": "Marie"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "Μαγδαληνὴ",
+            "gloss": "Magdalène"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Μαρία",
+            "gloss": "Marie"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la_mère"
+          },
+          {
+            "greek": "Ἰωσῆτος",
+            "gloss": "de_Joses"
+          },
+          {
+            "greek": "ἐθεώρουν",
+            "gloss": "regardaient/observaient"
+          },
+          {
+            "greek": "ποῦ",
+            "gloss": "où"
+          },
+          {
+            "greek": "τέθειται.",
+            "gloss": "il_était_déposé"
+          }
         ]
       },
       {
@@ -146,26 +468,106 @@
           "darby": "Et le sabbat étant passé, Marie de Magdala, et Marie la mère de Jacques, et Salomé, achetèrent des aromates pour aller l'oindre."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "διαγενομένου", "gloss": "ayant_passé" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "σαββάτου", "gloss": "sabbat" },
-          { "greek": "Μαρία", "gloss": "Marie" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "Μαγδαληνὴ", "gloss": "Magdalène" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Μαρία", "gloss": "Marie" },
-          { "greek": "ἡ", "gloss": "la_mère" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "Ἰακώβου", "gloss": "Jacques" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Σαλώμη", "gloss": "Salomé" },
-          { "greek": "ἠγόρασαν", "gloss": "achetèrent" },
-          { "greek": "ἀρώματα", "gloss": "des_aromates" },
-          { "greek": "ἵνα", "gloss": "afin_qu'" },
-          { "greek": "ἐλθοῦσαι", "gloss": "étant_venues" },
-          { "greek": "ἀλείψωσιν", "gloss": "elles_oignent", "analyse": "L'onction des Myrophores (*aleipsosin*) relève d'une totale gratuité d'amour, semblable à celle de Marie à Béthanie. Pour leur raison humaine (Monde duel), oindre un cadavre en décomposition enfermé derrière une pierre énorme est absurde. Mais leur fidélité de Sujets les pousse à accomplir cet acte de kénose relationnelle, par-delà le désespoir." },
-          { "greek": "αὐτόν.", "gloss": "lui" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "διαγενομένου",
+            "gloss": "ayant_passé"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σαββάτου",
+            "gloss": "sabbat"
+          },
+          {
+            "greek": "Μαρία",
+            "gloss": "Marie"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "Μαγδαληνὴ",
+            "gloss": "Magdalène"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Μαρία",
+            "gloss": "Marie"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la_mère"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἰακώβου",
+            "gloss": "Jacques"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Σαλώμη",
+            "gloss": "Salomé"
+          },
+          {
+            "greek": "ἠγόρασαν",
+            "gloss": "achetèrent"
+          },
+          {
+            "greek": "ἀρώματα",
+            "gloss": "des_aromates",
+            "annotation": {
+              "type": "analyse",
+              "title": "Les aromates du soin",
+              "content": "Les femmes achètent des aromates afin de venir oindre Jésus. Leur geste demeure orienté vers le corps mort qu’elles veulent honorer ; c’est au cœur de cette fidélité qu’elles recevront l’annonce inattendue.",
+              "related": [
+                "ἠγόρασαν",
+                "ἀλείψωσιν",
+                "μνημεῖον"
+              ]
+            }
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_qu'"
+          },
+          {
+            "greek": "ἐλθοῦσαι",
+            "gloss": "étant_venues"
+          },
+          {
+            "greek": "ἀλείψωσιν",
+            "gloss": "elles_oignent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Venir pour l’oindre",
+              "content": "Le verbe ἀλείφω désigne l’action d’oindre. Les aromates ne sont pas un simple décor du récit : ils engagent le geste, l’odorat et le soin porté au corps, avant que les femmes sachent que le tombeau est ouvert.",
+              "related": [
+                "ἀρώματα",
+                "ἐλθοῦσαι",
+                "αὐτόν."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -175,20 +577,62 @@
           "darby": "Et de très bon matin, le premier jour de la semaine, elles viennent au sépulcre, le soleil étant levé."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λίαν", "gloss": "très/de_grand" },
-          { "greek": "πρωῒ", "gloss": "matin" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "μιᾷ", "gloss": "premier_jour" },
-          { "greek": "τῶν", "gloss": "de_les" },
-          { "greek": "σαββάτων", "gloss": "semaines/sabbats" },
-          { "greek": "ἔρχονται", "gloss": "elles_viennent" },
-          { "greek": "ἐπὶ", "gloss": "vers/au" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "μνημεῖον", "gloss": "sépulcre" },
-          { "greek": "ἀνατείλαντος", "gloss": "étant_levé" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "ἡλίου.", "gloss": "soleil" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λίαν",
+            "gloss": "très/de_grand"
+          },
+          {
+            "greek": "πρωῒ",
+            "gloss": "matin"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μιᾷ",
+            "gloss": "premier_jour"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "de_les"
+          },
+          {
+            "greek": "σαββάτων",
+            "gloss": "semaines/sabbats"
+          },
+          {
+            "greek": "ἔρχονται",
+            "gloss": "elles_viennent"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "vers/au"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μνημεῖον",
+            "gloss": "sépulcre"
+          },
+          {
+            "greek": "ἀνατείλαντος",
+            "gloss": "étant_levé"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἡλίου.",
+            "gloss": "soleil"
+          }
         ]
       },
       {
@@ -198,20 +642,72 @@
           "darby": "Et elles disaient entre elles : Qui nous roulera la pierre de la porte du sépulcre ?"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔλεγον", "gloss": "elles_disaient" },
-          { "greek": "πρὸς", "gloss": "entre" },
-          { "greek": "ἑαυτάς·", "gloss": "elles-mêmes" },
-          { "greek": "Τίς", "gloss": "Qui" },
-          { "greek": "ἀποκυλίσει", "gloss": "roulera/déplacera", "analyse": "La question de la pierre (*tis apokulisei*) symbolise l'obstacle infranchissable de la mort biologique et des conditionnements du Monde duel. C'est la limite matérielle opaque devant laquelle l'Ego humain bute et s'avoue impuissant." },
-          { "greek": "ἡμῖν", "gloss": "pour_nous" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "λίθον", "gloss": "pierre" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "θύρας", "gloss": "porte" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "μνημείου;", "gloss": "sépulcre" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔλεγον",
+            "gloss": "elles_disaient"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "entre"
+          },
+          {
+            "greek": "ἑαυτάς·",
+            "gloss": "elles-mêmes"
+          },
+          {
+            "greek": "Τίς",
+            "gloss": "Qui"
+          },
+          {
+            "greek": "ἀποκυλίσει",
+            "gloss": "roulera/déplacera",
+            "annotation": {
+              "type": "analyse",
+              "title": "« Qui nous roulera la pierre ? »",
+              "content": "La question reconnaît un obstacle réel et très grand. Les femmes se mettent pourtant en route avant d’en connaître la solution ; le récit ne confond pas leur fidélité avec une absence de crainte ou de difficulté.",
+              "related": [
+                "λίθον",
+                "θύρας",
+                "μέγας"
+              ]
+            }
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "pour_nous"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λίθον",
+            "gloss": "pierre"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "θύρας",
+            "gloss": "porte"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "μνημείου;",
+            "gloss": "sépulcre"
+          }
         ]
       },
       {
@@ -221,17 +717,68 @@
           "darby": "Et ayant levé les yeux, elles voient que la pierre avait été roulée ; car elle était forte grande."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀναβλέψασαι", "gloss": "ayant_levé_les_yeux" },
-          { "greek": "θεωροῦσιν", "gloss": "elles_voient" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ἀνακεκύλισται", "gloss": "elle_a_été_roulée_en_arrière", "analyse": "Le verbe au parfait indique une action divine accomplie dont les effets demeurent stables. La barrière est supprimée de l'intérieur. L'irruption du Royaume UN fracture la clôture du tombeau, ouvrant un passage transparent là où le monde n'enregistrait qu'un mur de finitude." },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "λίθος,", "gloss": "pierre" },
-          { "greek": "ἦν", "gloss": "elle_était" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "μέγας", "gloss": "grande" },
-          { "greek": "σφόδρα.", "gloss": "extrêmement" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀναβλέψασαι",
+            "gloss": "ayant_levé_les_yeux",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ayant levé les yeux",
+              "content": "Le verbe peut signifier regarder vers le haut ou recouvrer le regard. Ici, le geste marque le passage de la question sur l’obstacle à la constatation : la pierre a déjà été roulée.",
+              "related": [
+                "θεωροῦσιν",
+                "ἀνακεκύλισται"
+              ]
+            }
+          },
+          {
+            "greek": "θεωροῦσιν",
+            "gloss": "elles_voient"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἀνακεκύλισται",
+            "gloss": "elle_a_été_roulée_en_arrière",
+            "annotation": {
+              "type": "traduction",
+              "title": "La pierre a été roulée",
+              "content": "Le parfait passif constate que la pierre a été roulée et demeure déplacée. Le texte met l’accent sur le résultat découvert par les femmes, sans préciser ici l’agent de l’action.",
+              "related": [
+                "λίθος·",
+                "ἀναβλέψασαι"
+              ]
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "λίθος,",
+            "gloss": "pierre"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "elle_était"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "μέγας",
+            "gloss": "grande"
+          },
+          {
+            "greek": "σφόδρα.",
+            "gloss": "extrêmement"
+          }
         ]
       },
       {
@@ -241,22 +788,80 @@
           "darby": "Et étant entrées dans le sépulcre, elles virent un jeune homme assis du côté droit, vêtu d'une robe blanche ; et elles furent saisies de frayeur."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἰσελθοῦσαι", "gloss": "étant_entrées" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "tὸ", "gloss": "le" },
-          { "greek": "μνημεῖον", "gloss": "sépulcre" },
-          { "greek": "εἶδον", "gloss": "elles_virent" },
-          { "greek": "νεανίσκον", "gloss": "un_jeune_homme" },
-          { "greek": "καθήμενον", "gloss": "assis" },
-          { "greek": "ἐν", "gloss": "à" },
-          { "greek": "τοῖς", "gloss": "les" },
-          { "greek": "δεξιοῖς", "gloss": "droits/le_côté_droit" },
-          { "greek": "περιβεβλημένον", "gloss": "vêtu" },
-          { "greek": "στολὴν", "gloss": "d'une_robe" },
-          { "greek": "λευκήν,", "gloss": "blanche" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐξεθαμβήθησαν.", "gloss": "elles_furent_effrayées/stupéfaites" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἰσελθοῦσαι",
+            "gloss": "étant_entrées"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "tὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μνημεῖον",
+            "gloss": "sépulcre"
+          },
+          {
+            "greek": "εἶδον",
+            "gloss": "elles_virent"
+          },
+          {
+            "greek": "νεανίσκον",
+            "gloss": "un_jeune_homme"
+          },
+          {
+            "greek": "καθήμενον",
+            "gloss": "assis"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "à"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δεξιοῖς",
+            "gloss": "droits/le_côté_droit"
+          },
+          {
+            "greek": "περιβεβλημένον",
+            "gloss": "vêtu"
+          },
+          {
+            "greek": "στολὴν",
+            "gloss": "d'une_robe"
+          },
+          {
+            "greek": "λευκήν,",
+            "gloss": "blanche"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐξεθαμβήθησαν.",
+            "gloss": "elles_furent_effrayées/stupéfaites",
+            "annotation": {
+              "type": "analyse",
+              "title": "Saisies d’effroi",
+              "content": "À la vue du jeune homme vêtu de blanc, les femmes sont profondément bouleversées. Sa première parole ne nie pas leur émotion : « Ne soyez pas saisies d’effroi » ouvre l’annonce qui va réorienter leur recherche.",
+              "related": [
+                "νεανίσκον",
+                "λευκήν,",
+                "ἐκθαμβεῖσθε·"
+              ]
+            }
+          }
         ]
       },
       {
@@ -266,28 +871,115 @@
           "darby": "Et il leur dit : Ne vous effrayez pas ; vous cherchez Jésus le Nazarénien, le crucifié ; il est ressuscité, il n'est pas ici ; voici le lieu où on l'avait déposé."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "αὐταῖς·", "gloss": "à_elles" },
-          { "greek": "Μὴ", "gloss": "Ne...pas" },
-          { "greek": "ἐκθαμβεῖσθε·", "gloss": "soyez_stupéfaites" },
-          { "greek": "Ἰησοῦν", "gloss": "Jésus" },
-          { "greek": "ζητεῖτε", "gloss": "vous_cherchez" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ναζαρηνὸν", "gloss": "Nazarénien" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἐσταυρωμένον·", "gloss": "ayant_été_crucifié" },
-          { "greek": "ἠγέρθη,", "gloss": "il_a_été_ressuscité/relevé", "analyse": "L'*égerthé* (a été relevé). C'est le renversement des lois de la chute. Le corps biologique, objectivé par le Monde duel, redevient par la résurrection le Sujet ultime de la Vie. L'absence physique dans le tombeau atteste de la présence plénière de l'Incréé." },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔστιν", "gloss": "il_est" },
-          { "greek": "ὧδε·", "gloss": "ici" },
-          { "greek": "ἴδε", "gloss": "voici" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "τόπος", "gloss": "lieu" },
-          { "greek": "ὅπου", "gloss": "où" },
-          { "greek": "ἔθηκαν", "gloss": "ils_déposèrent" },
-          { "greek": "αὐτόν.", "gloss": "lui" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐταῖς·",
+            "gloss": "à_elles"
+          },
+          {
+            "greek": "Μὴ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "ἐκθαμβεῖσθε·",
+            "gloss": "soyez_stupéfaites"
+          },
+          {
+            "greek": "Ἰησοῦν",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ζητεῖτε",
+            "gloss": "vous_cherchez"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ναζαρηνὸν",
+            "gloss": "Nazarénien"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐσταυρωμένον·",
+            "gloss": "ayant_été_crucifié",
+            "annotation": {
+              "type": "theologie",
+              "title": "Le Ressuscité demeure le Crucifié",
+              "content": "Le jeune homme nomme Jésus comme « le Nazarénien, le crucifié » avant d’annoncer qu’il a été relevé. La Résurrection ne remplace pas l’histoire de la Croix ; elle révèle la victoire de celui qui a réellement été crucifié.",
+              "related": [
+                "Ἰησοῦν",
+                "Ναζαρηνὸν",
+                "ἠγέρθη,"
+              ]
+            }
+          },
+          {
+            "greek": "ἠγέρθη,",
+            "gloss": "il_a_été_ressuscité/relevé",
+            "annotation": {
+              "type": "traduction",
+              "title": "Il a été relevé — ἠγέρθη",
+              "content": "La forme passive de ἐγείρω peut se traduire « il a été relevé » ou, selon l’usage, « il est ressuscité ». L’annonce est immédiatement confirmée par l’absence : « il n’est pas ici » et par le lieu montré.",
+              "related": [
+                "οὐκ",
+                "ἔστιν",
+                "ὧδε·",
+                "τόπος"
+              ]
+            }
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "ὧδε·",
+            "gloss": "ici"
+          },
+          {
+            "greek": "ἴδε",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τόπος",
+            "gloss": "lieu"
+          },
+          {
+            "greek": "ὅπου",
+            "gloss": "où"
+          },
+          {
+            "greek": "ἔθηκαν",
+            "gloss": "ils_déposèrent"
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -297,27 +989,90 @@
           "darby": "Mais allez, dites à ses disciples et à Pierre, qu'il vous précède en Galilée ; là vous le verrez, comme il vous l'a dit."
         },
         "interlinear": [
-          { "greek": "ἀλλ’", "gloss": "Mais" },
-          { "greek": "ὑπάγετε", "gloss": "allez" },
-          { "greek": "εἴπατε", "gloss": "dites" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "μαθηταῖς", "gloss": "disciples" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τῷ", "gloss": "à" },
-          { "greek": "Πέτρῳ", "gloss": "Pierre" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "Προάγει", "gloss": "il_précède" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "εἰς", "gloss": "en" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "Γαλιλαίαν·", "gloss": "Galilée" },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ὄψεσθε,", "gloss": "vous_verrez" },
-          { "greek": "καθὼς", "gloss": "comme" },
-          { "greek": "εἶπεν", "gloss": "il_dit" },
-          { "greek": "ὑμῖν.", "gloss": "à_vous" }
+          {
+            "greek": "ἀλλ’",
+            "gloss": "Mais"
+          },
+          {
+            "greek": "ὑπάγετε",
+            "gloss": "allez"
+          },
+          {
+            "greek": "εἴπατε",
+            "gloss": "dites"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "μαθηταῖς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à"
+          },
+          {
+            "greek": "Πέτρῳ",
+            "gloss": "Pierre"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "Προάγει",
+            "gloss": "il_précède"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "Γαλιλαίαν·",
+            "gloss": "Galilée"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὄψεσθε,",
+            "gloss": "vous_verrez"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "ὑμῖν.",
+            "gloss": "à_vous"
+          }
         ]
       },
       {
@@ -327,32 +1082,212 @@
           "darby": "Et sortant, elles s'enfuirent du sépulcre ; et un tremblement et une stupeur les avaient saisies ; et elles ne dirent rien à personne, car elles avaient peur."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐξελθοῦσαι", "gloss": "étant_sorties" },
-          { "greek": "ἔφυγον", "gloss": "elles_s'enfuirent" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "μνημείου,", "gloss": "sépulcre" },
-          { "greek": "εἶχεν", "gloss": "avait" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "αὐτὰς", "gloss": "elles" },
-          { "greek": "τρόμος", "gloss": "un_tremblement" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔκστασις·", "gloss": "une_extase/stupeur", "analyse": "L'*ekstasis* (l'extase, le fait d'être hors de ses repères habituels). Face à l'effondrement de la matrice de la mort, la structure psychique de l'Ego vacille. C'est le choc de la rencontre directe avec la Lumière Thaborique, qui laisse les Myrophores muettes d'effroi avant que n'advienne la joie du témoignage." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οὐδενὶ", "gloss": "à_personne" },
-          { "greek": "οὐδὲν", "gloss": "rien" },
-          { "greek": "εἶπον,", "gloss": "elles_dirent" },
-          { "greek": "ἐφοβοῦντο", "gloss": "elles_avaient_peur" },
-          { "greek": "γάρ.", "gloss": "car" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐξελθοῦσαι",
+            "gloss": "étant_sorties"
+          },
+          {
+            "greek": "ἔφυγον",
+            "gloss": "elles_s'enfuirent"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μνημείου,",
+            "gloss": "sépulcre"
+          },
+          {
+            "greek": "εἶχεν",
+            "gloss": "avait"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "αὐτὰς",
+            "gloss": "elles"
+          },
+          {
+            "greek": "τρόμος",
+            "gloss": "un_tremblement"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔκστασις·",
+            "gloss": "une_extase/stupeur",
+            "annotation": {
+              "type": "traduction",
+              "title": "Saisissement — ἔκστασις",
+              "content": "Ἔκστασις exprime ici le saisissement, la stupeur ou le bouleversement qui fait sortir des repères ordinaires. Avec τρόμος, le mot décrit l’état des femmes quittant le tombeau ; il ne suffit pas à lui seul à parler d’une extase mystique.",
+              "related": [
+                "τρόμος",
+                "ἐφοβοῦντο"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐδενὶ",
+            "gloss": "à_personne"
+          },
+          {
+            "greek": "οὐδὲν",
+            "gloss": "rien"
+          },
+          {
+            "greek": "εἶπον,",
+            "gloss": "elles_dirent"
+          },
+          {
+            "greek": "ἐφοβοῦντο",
+            "gloss": "elles_avaient_peur",
+            "annotation": {
+              "type": "repetition",
+              "title": "La peur à la fin du récit",
+              "content": "Le verset 8 s’achève sur « car elles avaient peur ». Cette finale abrupte ne retire pas aux femmes leur place de premiers témoins dans la tradition ; dans la forme brève de Marc, elle laisse le lecteur devant l’annonce et l’envoi encore à porter.",
+              "related": [
+                "ἔφυγον",
+                "οὐδενὶ",
+                "ἔκστασις·"
+              ]
+            }
+          },
+          {
+            "greek": "γάρ.",
+            "gloss": "car"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 15, 43 - τολμήσας : Segond traduit par 'osa se rendre', Darby par 'prit de l'assurance'. La racine indique une audace existentielle. C'est l'acte de courage par lequel un individu s'arrache à la paralysie collective pour affirmer sa posture de Sujet.\n• Verset 16, 4 - ἀνακεκύλισται : Rendu simplement par 'avait été roulée'. Le préfixe *ana-* associé au parfait montre un retournement dynamique complet et permanent. La pierre n'est pas juste déplacée, l'obstacle est ontologiquement vaincu.\n• Verset 16, 8 - ἔκστασις : Traduit par 'altération' ou 'stupeur'. Le sens grec est beaucoup plus fort : c'est le déplacement de l'esprit hors de son assise logique, le vertige de l'Ego devant le mystère de l'Incréé.\n\nAnalyse spirituelle :\nLe dimanche des Myrophores met en lumière la fidélité du cœur face aux structures pétrifiées du Monde duel. Joseph d'Arimathée et les saintes femmes agissent au cœur du désespoir, alors que le système mondain semble avoir définitivement scellé la défaite du Christ par une pierre monumentale.\n\nDans la logique de l'Ego, tout est fini : le cadavre est objectivé, le tombeau est clos. Les disciples masculins sont cachés, paralysés par la peur de perdre leur vie. Joseph et les Myrophores, quant à eux, basculent dans la gratuité absolue. Acheter des aromates coûteux pour oindre un corps destiné à la corruption est un non-sens économique et rationnel. C'est une pure kénose de leur volonté propre, un élan d'amour sans calcul. En se rendant au tombeau 'très tôt le matin', ils franchissent la limite sensorielle. La question angoissée : 'Qui nous roulera la pierre ?' trouve sa réponse dans l'action de la grâce. L'Incréé a déjà fait sauter la clôture du Monde duel. L'*ekstasis* finale des femmes témoigne de ce choc ontologique : le renversement de la mort biologique ébranle les fondations de la vieille création pour faire de l'humanité restaurée le témoin libre du Royaume UN."
+    "personal_analysis": "Notes sur le texte grec :\n• Marc 15, 43 — τολμήσας : « ayant osé, prenant courage ». Joseph, membre respecté du Conseil et lui-même dans l’attente du Royaume de Dieu, ose entrer chez Pilate pour demander le corps de Jésus. Son courage prend la forme précise d’un soin rendu au Crucifié.\n• Marc 15, 45 — πτῶμα / Marc 15, 43 — σῶμα : Marc emploie d’abord σῶμα, « corps », dans la demande de Joseph, puis πτῶμα, « dépouille, cadavre », lorsque Pilate le lui accorde. Cette variation permet d’observer deux regards sur la même réalité sans tirer du vocabulaire une opposition absolue.\n• Marc 16, 4 — ἀνακεκύλισται : « a été roulée en arrière ». Le parfait constate une action accomplie dont le résultat demeure : lorsque les femmes lèvent les yeux, la pierre est déjà déplacée.\n• Marc 16, 8 — τρόμος καὶ ἔκστασις : « tremblement et saisissement ». La finale brève de Marc ne transforme pas immédiatement la peur en assurance. Elle laisse entendre le bouleversement produit par l’annonce et place aussi le lecteur devant la parole à transmettre.\n\nAnalyse spirituelle :\nLe passage commence avant toute manifestation de la Résurrection. Joseph et les femmes agissent alors qu’ils ne disposent encore d’aucun signe visible de victoire. Joseph attend le Royaume de Dieu et ose demander le corps ; les femmes regardent où Jésus est déposé, achètent des aromates et viennent de très grand matin. Leur espérance n’est pas décrite comme une certitude triomphante, mais comme une fidélité corporelle et concrète.\n\nCette attention au corps empêche de spiritualiser trop vite la Pâque. Descendre de la croix, envelopper dans un linceul, déposer au tombeau, préparer des aromates : chacun de ces gestes prend au sérieux la mort et honore celui qui a souffert. La Résurrection ne méprise pas le corps ; elle surprend ceux qui voulaient encore en prendre soin.\n\nLe parfum est ici spirituellement décisif. Après le toucher demandé par Thomas, le dimanche des Myrophores engage l’odorat : les aromates destinés au corps mort deviennent, dans la lumière pascale, le signe d’un amour qui refuse de laisser la mort définir seule le corps. La foi orthodoxe ne contourne pas les sens ; elle les éduque afin que la personne tout entière puisse recevoir la présence du Ressuscité.\n\nLes femmes avancent avec une question réelle : « Qui nous roulera la pierre ? » Elles ne possèdent pas la solution avant de partir. Lorsqu’elles lèvent les yeux, elles voient que l’obstacle est déjà déplacé. Une homélie peut entendre ici, sans transformer toute difficulté en symbole, que la fidélité met parfois en route avant de savoir comment l’impossible sera traversé.\n\nAu tombeau, le jeune homme ne dit pas que le Crucifié doit être oublié : « Vous cherchez Jésus le Nazarénien, le crucifié ; il a été relevé. » L’identité du Ressuscité demeure liée à celle du Crucifié. Puis l’annonce devient envoi : « allez, dites ». La peur et le silence du verset 8 ne disqualifient pas les femmes ; ils montrent combien la nouvelle excède d’abord leurs repères et invitent le lecteur à recevoir lui-même la mission du témoignage.",
+    "homiletic_axes": [
+      {
+        "title": "Une audace mise au service du corps",
+        "content": "Joseph attend le Royaume de Dieu et ose demander à Pilate le corps de Jésus. Son courage ne cherche ni visibilité ni puissance : il devient un geste concret de respect, de descente de croix, d’enveloppement et de sépulture.",
+        "keywords": [
+          "προσδεχόμενος",
+          "τολμήσας",
+          "σῶμα"
+        ]
+      },
+      {
+        "title": "Une fidélité qui se met en route sans solution",
+        "content": "Les femmes achètent les aromates, viennent de très grand matin et se demandent qui roulera la pierre. Elles ne savent pas comment leur projet aboutira, mais leur amour les conduit jusqu’au tombeau.",
+        "keywords": [
+          "ἀρώματα",
+          "πρωῒ",
+          "ἀποκυλίσει"
+        ]
+      },
+      {
+        "title": "Le parfum pascal : un corps honoré, des sens éveillés",
+        "content": "Les aromates engagent l’odorat et rappellent que la Pâque concerne la personne tout entière. Après le toucher de Thomas, le parfum des Myrophores manifeste un amour qui prend soin du corps et découvre que la Résurrection ne l’abolit pas, mais le délivre de l’emprise de la mort.",
+        "keywords": [
+          "σῶμα",
+          "ἀρώματα",
+          "ἀλείψωσιν"
+        ]
+      },
+      {
+        "title": "Lever les yeux : l’obstacle est déjà déplacé",
+        "content": "La question sur la pierre reçoit une réponse lorsqu’elles lèvent les yeux : elle a déjà été roulée. Le récit fait passer de l’obstacle anticipé à la découverte d’une action qui les précède.",
+        "keywords": [
+          "ἀναβλέψασαι",
+          "ἀνακεκύλισται",
+          "λίθος,"
+        ]
+      },
+      {
+        "title": "Du Crucifié relevé à la parole à transmettre",
+        "content": "Le jeune homme unit les deux affirmations : celui que les femmes cherchent est le Nazarénien crucifié, et il a été relevé. L’annonce les envoie vers les disciples et Pierre, tandis que la peur finale laisse ouverte la responsabilité du témoignage.",
+        "keywords": [
+          "ἐσταυρωμένον·",
+          "ἠγέρθη,",
+          "ὑπάγετε",
+          "ἐφοβοῦντο"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre entrée : l’audace de Joseph, le corps honoré, les aromates, la pierre, les yeux levés, le Crucifié relevé, l’envoi ou la peur."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Chemin de la péricope",
+        "prompt": "Suivez un mouvement possible : du soin funéraire à l’annonce ; de la question sur la pierre à sa découverte déjà roulée ; ou de la recherche de Jésus à l’envoi vers les disciples."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que vous voulez annoncer : Dieu honore la fidélité concrète, le Ressuscité est bien le Crucifié, la grâce précède parfois notre arrivée, ou la peur n’empêche pas qu’une mission soit confiée."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience réelle : prendre soin d’un corps souffrant ou mort, avancer sans connaître la solution, rencontrer un obstacle trop grand, recevoir une nouvelle bouleversante ou chercher les mots pour témoigner."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre : poser un geste de soin, se mettre en route malgré une question, lever les yeux, écouter l’annonce ou porter une parole à quelqu’un qui se croit oublié."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Vous pouvez faire entendre les verbes du récit — oser, regarder, venir, lever les yeux, voir, chercher, aller, dire — puis laisser résonner sobrement : « Il a été relevé, il n’est pas ici »."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Les sens dans le chemin pascal",
+        "reference": "Jean 20, 24-29 ; Marc 16, 1-8 ; Jean 4 ; Jean 9 ; Actes 2",
+        "content": "La tradition liturgique permet d’entendre les dimanches pascals comme une éducation de la personne tout entière. Cette pédagogie des sens est particulièrement importante chez les Myrophores : le parfum et le soin du corps prolongent le toucher de Thomas et préparent les autres rencontres pascales. Elle éclaire le Pentecostaire sans réduire chaque dimanche à un seul sens.",
+        "connections": [
+          {
+            "label": "Toucher et croire",
+            "content": "Thomas porte la question du toucher et reçoit l’appel à croire."
+          },
+          {
+            "label": "Parfum et soin du corps",
+            "content": "Les Myrophores viennent avec les aromates pour honorer le corps de Jésus ; l’annonce de la Résurrection rejoint ce geste au tombeau."
+          },
+          {
+            "label": "Eau, regard et écoute",
+            "content": "La Samaritaine reçoit la promesse de l’eau vive, l’Aveugle-né passe à la vision et la Pentecôte fait entendre les merveilles de Dieu dans les langues."
+          }
+        ]
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Actes 6, 1-7",
-    "title": "L'institution des diacres : Surmonter les divisions du monde",
+    "title": "La communauté discerne un service pour que personne ne soit négligé",
     "interlinear": [
       {
         "verse_number": "6, 1",
@@ -361,31 +1296,145 @@
           "darby": "Or, en ces jours-là, le nombre des disciples se multipliant, il s'éleva un murmure des Hellénistes contre les Hébreux, parce que leurs veuves étaient négligées dans le service journalier."
         },
         "interlinear": [
-          { "greek": "Ἐν", "gloss": "Dans" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "ἡμέραις", "gloss": "jours" },
-          { "greek": "ταύταις", "gloss": "ces" },
-          { "greek": "πληθυνόντων", "gloss": "se_multipliant" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "μαθητῶν", "gloss": "disciples" },
-          { "greek": "ἐγένετο", "gloss": "il_y_eut" },
-          { "greek": "γογγυσμὸς", "gloss": "un_murmure", "analyse": "Le murmure (gongysmos) est l'expression classique de l'Ego frustré dans le Monde duel. Dès qu'une communauté grandit, la tentation de la division, de la comparaison et du ressentiment ('qui a reçu plus ?') réapparaît. C'est le réflexe de l'anti-communion, la réminiscence de la survie aliénée." },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "Ἑλληνιστῶν", "gloss": "Hellénistes" },
-          { "greek": "πρὸς", "gloss": "contre" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "Ἑβραίους,", "gloss": "Hébreux" },
-          { "greek": "ὅτι", "gloss": "parce_que" },
-          { "greek": "παρεθεωροῦντο", "gloss": "étaient_négligées" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "διακονίᾳ", "gloss": "service/distribution" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "καθημερινῇ", "gloss": "quotidienne" },
-          { "greek": "αἱ", "gloss": "les" },
-          { "greek": "χῆραι", "gloss": "veuves" },
-          { "greek": "αὐτῶν.", "gloss": "d'eux" }
+          {
+            "greek": "Ἐν",
+            "gloss": "Dans"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἡμέραις",
+            "gloss": "jours"
+          },
+          {
+            "greek": "ταύταις",
+            "gloss": "ces"
+          },
+          {
+            "greek": "πληθυνόντων",
+            "gloss": "se_multipliant",
+            "annotation": {
+              "type": "repetition",
+              "title": "Une communauté qui grandit",
+              "content": "Le récit encadre la crise par la croissance : les disciples se multiplient au début, puis leur nombre augmente encore au verset 7. La croissance ne supprime pas les tensions ; elle appelle une attention et une organisation nouvelles.",
+              "related": [
+                "ἐπληθύνετο",
+                "μαθητῶν"
+              ]
+            }
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθητῶν",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "il_y_eut"
+          },
+          {
+            "greek": "γογγυσμὸς",
+            "gloss": "un_murmure",
+            "annotation": {
+              "type": "analyse",
+              "title": "Un murmure qui signale une blessure",
+              "content": "Le murmure oppose les Hellénistes aux Hébreux parce que certaines veuves sont négligées. Le récit ne s’arrête pas à condamner la plainte : il expose son motif et raconte la réponse organisée de la communauté.",
+              "related": [
+                "Ἑλληνιστῶν",
+                "Ἑβραίους,",
+                "παρεθεωροῦντο"
+              ]
+            }
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "Ἑλληνιστῶν",
+            "gloss": "Hellénistes"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "contre"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "Ἑβραίους,",
+            "gloss": "Hébreux"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "παρεθεωροῦντο",
+            "gloss": "étaient_négligées",
+            "annotation": {
+              "type": "traduction",
+              "title": "Elles étaient négligées",
+              "content": "Le verbe signifie être laissé de côté ou négligé. Le passif place les veuves au centre du constat : quelle que soit l’intention des responsables, leur besoin n’est pas correctement pris en compte dans le service quotidien.",
+              "related": [
+                "χήραι",
+                "διακονίᾳ",
+                "καθημερινῇ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "διακονίᾳ",
+            "gloss": "service/distribution",
+            "annotation": {
+              "type": "repetition",
+              "title": "La diaconie sous plusieurs formes",
+              "content": "Διακονία revient pour le service quotidien et le service de la Parole, tandis que διακονεῖν désigne le service des tables. Le vocabulaire commun relie les responsabilités au lieu d’opposer le matériel au spirituel.",
+              "related": [
+                "διακονεῖν",
+                "τραπέζαις.",
+                "λόγου"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "καθημερινῇ",
+            "gloss": "quotidienne"
+          },
+          {
+            "greek": "αἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "χῆραι",
+            "gloss": "veuves"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "d'eux"
+          }
         ]
       },
       {
@@ -395,26 +1444,86 @@
           "darby": "Et les douze, ayant convoqué la multitude des disciples, dirent : Il n'est pas convenable que, laissant la parole de Dieu, nous servions aux tables."
         },
         "interlinear": [
-          { "greek": "προσκαλεσάμενοι", "gloss": "Ayant_convoqué" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "δώδεκα", "gloss": "douze" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "πλῆθος", "gloss": "multitude" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "μαθητῶν", "gloss": "disciples" },
-          { "greek": "εἶπαν·", "gloss": "dirent" },
-          { "greek": "Οὐκ", "gloss": "Non" },
-          { "greek": "ἀρεστόν", "gloss": "convenable/agréable" },
-          { "greek": "ἐστιν", "gloss": "il_est" },
-          { "greek": "ἡμᾶς", "gloss": "nous" },
-          { "greek": "καταλείψαντας", "gloss": "ayant_laissé" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "λόγον", "gloss": "parole" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "διακονεῖν", "gloss": "pour_servir" },
-          { "greek": "τραπέζαις·", "gloss": "aux_tables" }
+          {
+            "greek": "προσκαλεσάμενοι",
+            "gloss": "Ayant_convoqué"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δώδεκα",
+            "gloss": "douze"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλῆθος",
+            "gloss": "multitude"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "μαθητῶν",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "εἶπαν·",
+            "gloss": "dirent"
+          },
+          {
+            "greek": "Οὐκ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "ἀρεστόν",
+            "gloss": "convenable/agréable"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "καταλείψαντας",
+            "gloss": "ayant_laissé"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "parole"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "διακονεῖν",
+            "gloss": "pour_servir"
+          },
+          {
+            "greek": "τραπέζαις·",
+            "gloss": "aux_tables"
+          }
         ]
       },
       {
@@ -424,24 +1533,88 @@
           "darby": "Jetez donc les yeux, frères, sur sept hommes d'entre vous, qui aient un bon témoignage, pleins de l'Esprit Saint et de sagesse, que nous établirons sur cette affaire."
         },
         "interlinear": [
-          { "greek": "ἐπισκέψασθε", "gloss": "Examinez/choisissez" },
-          { "greek": "δέ,", "gloss": "donc" },
-          { "greek": "ἀδελφοί,", "gloss": "frères" },
-          { "greek": "ἄνδρας", "gloss": "des_hommes" },
-          { "greek": "ἐξ", "gloss": "parmi" },
-          { "greek": "ὑμῶν", "gloss": "vous" },
-          { "greek": "μαρτυρουμένους", "gloss": "ayant_un_bon_témoignage" },
-          { "greek": "ἑπτὰ", "gloss": "sept" },
-          { "greek": "πλήρεις", "gloss": "pleins" },
-          { "greek": "πνεύματος", "gloss": "d'Esprit", "analyse": "Face à un problème logistique, les apôtres ne cherchent pas des gestionnaires ou des politiciens, mais des hommes 'pleins de l'Esprit'. Dans l'Église, le service matériel (diakonia) n'est jamais séparé de la grâce incréée. Seuls des Sujets libérés des passions du Monde duel peuvent distribuer la nourriture sans créer de rapports de domination." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "σοφίας,", "gloss": "de_sagesse" },
-          { "greek": "οὓς", "gloss": "lesquels" },
-          { "greek": "καταστήσομεν", "gloss": "nous_établirons" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τῆς", "gloss": "le" },
-          { "greek": "χρείας", "gloss": "besoin/affaire" },
-          { "greek": "ταύτης·", "gloss": "cette" }
+          {
+            "greek": "ἐπισκέψασθε",
+            "gloss": "Examinez/choisissez"
+          },
+          {
+            "greek": "δέ,",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἀδελφοί,",
+            "gloss": "frères"
+          },
+          {
+            "greek": "ἄνδρας",
+            "gloss": "des_hommes"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "μαρτυρουμένους",
+            "gloss": "ayant_un_bon_témoignage"
+          },
+          {
+            "greek": "ἑπτὰ",
+            "gloss": "sept"
+          },
+          {
+            "greek": "πλήρεις",
+            "gloss": "pleins"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "d'Esprit",
+            "annotation": {
+              "type": "theologie",
+              "title": "Pleins d’Esprit et de sagesse",
+              "content": "Pour répondre à un besoin matériel, la communauté doit choisir des hommes reconnus, pleins d’Esprit et de sagesse. La vie spirituelle et le discernement pratique ne sont pas séparés.",
+              "related": [
+                "πλήρεις",
+                "σοφίας,",
+                "μαρτυρουμένους"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σοφίας,",
+            "gloss": "de_sagesse"
+          },
+          {
+            "greek": "οὓς",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "καταστήσομεν",
+            "gloss": "nous_établirons"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "le"
+          },
+          {
+            "greek": "χρείας",
+            "gloss": "besoin/affaire"
+          },
+          {
+            "greek": "ταύτης·",
+            "gloss": "cette"
+          }
         ]
       },
       {
@@ -451,16 +1624,66 @@
           "darby": "Et pour nous, nous persévérerons dans la prière et dans le service de la parole."
         },
         "interlinear": [
-          { "greek": "ἡμεῖς", "gloss": "Nous" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τῇ", "gloss": "à_la" },
-          { "greek": "προσευχῇ", "gloss": "prière" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τῇ", "gloss": "au" },
-          { "greek": "διακονίᾳ", "gloss": "service/ministère" },
-          { "greek": "τοῦ", "gloss": "de_la" },
-          { "greek": "λόγου", "gloss": "parole" },
-          { "greek": "προσκαρτερήσομεν.", "gloss": "nous_persévérerons" }
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "Nous"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "προσευχῇ",
+            "gloss": "prière",
+            "annotation": {
+              "type": "repetition",
+              "title": "Persévérer dans la prière",
+              "content": "Les Douze veulent persévérer dans la prière et le service de la Parole. La prière revient ensuite au moment où les sept sont présentés et où les apôtres leur imposent les mains.",
+              "related": [
+                "προσκαρτερήσομεν.",
+                "προσευξάμενοι",
+                "ἐπέθηκαν"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "au"
+          },
+          {
+            "greek": "διακονίᾳ",
+            "gloss": "service/ministère",
+            "annotation": {
+              "type": "repetition",
+              "title": "La diaconie sous plusieurs formes",
+              "content": "Διακονία revient pour le service quotidien et le service de la Parole, tandis que διακονεῖν désigne le service des tables. Le vocabulaire commun relie les responsabilités au lieu d’opposer le matériel au spirituel.",
+              "related": [
+                "διακονεῖν",
+                "τραπέζαις.",
+                "λόγου"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "λόγου",
+            "gloss": "parole"
+          },
+          {
+            "greek": "προσκαρτερήσομεν.",
+            "gloss": "nous_persévérerons"
+          }
         ]
       },
       {
@@ -470,37 +1693,150 @@
           "darby": "Et le discours plut à toute la multitude ; et ils choisirent Étienne, homme plein de foi et de l'Esprit Saint, et Philippe, et Prochore, et Nicanor, et Timon, et Parménas, et Nicolas, prosélyte d'Antioche,"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἤρεσεν", "gloss": "plut" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "λόγος", "gloss": "parole" },
-          { "greek": "ἐνώπιον", "gloss": "devant" },
-          { "greek": "παντὸς", "gloss": "toute" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "πλήθους,", "gloss": "multitude" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐξελέξαντο", "gloss": "ils_élurent" },
-          { "greek": "Στέφανον,", "gloss": "Étienne" },
-          { "greek": "ἄνδρα", "gloss": "homme" },
-          { "greek": "πλήρη", "gloss": "plein" },
-          { "greek": "πίστεως", "gloss": "de_foi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πνεύματος", "gloss": "d'Esprit" },
-          { "greek": "ἁγίου,", "gloss": "Saint" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Φίλιππον", "gloss": "Philippe" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Πρόχορον", "gloss": "Prochore" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Νικάνορα", "gloss": "Nicanor" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Τίμωνα", "gloss": "Timon" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Παρμενᾶν", "gloss": "Parménas" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Νικόλαον", "gloss": "Nicolas" },
-          { "greek": "προσήλυτον", "gloss": "prosélyte" },
-          { "greek": "Ἀντιοχέα,", "gloss": "d'Antioche" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἤρεσεν",
+            "gloss": "plut"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγος",
+            "gloss": "parole"
+          },
+          {
+            "greek": "ἐνώπιον",
+            "gloss": "devant"
+          },
+          {
+            "greek": "παντὸς",
+            "gloss": "toute"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλήθους,",
+            "gloss": "multitude"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐξελέξαντο",
+            "gloss": "ils_élurent",
+            "annotation": {
+              "type": "analyse",
+              "title": "La multitude choisit",
+              "content": "La proposition plaît à toute la multitude, qui choisit les sept et les présente aux apôtres. Le discernement associe ainsi la participation de l’assemblée et la prière apostolique.",
+              "related": [
+                "πλήθους,",
+                "ἔστησαν",
+                "ἀποστόλων"
+              ]
+            }
+          },
+          {
+            "greek": "Στέφανον,",
+            "gloss": "Étienne"
+          },
+          {
+            "greek": "ἄνδρα",
+            "gloss": "homme"
+          },
+          {
+            "greek": "πλήρη",
+            "gloss": "plein"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "de_foi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "d'Esprit",
+            "annotation": {
+              "type": "theologie",
+              "title": "Pleins d’Esprit et de sagesse",
+              "content": "Pour répondre à un besoin matériel, la communauté doit choisir des hommes reconnus, pleins d’Esprit et de sagesse. La vie spirituelle et le discernement pratique ne sont pas séparés.",
+              "related": [
+                "πλήρεις",
+                "σοφίας,",
+                "μαρτυρουμένους"
+              ]
+            }
+          },
+          {
+            "greek": "ἁγίου,",
+            "gloss": "Saint"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Φίλιππον",
+            "gloss": "Philippe"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Πρόχορον",
+            "gloss": "Prochore"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Νικάνορα",
+            "gloss": "Nicanor"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Τίμωνα",
+            "gloss": "Timon"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Παρμενᾶν",
+            "gloss": "Parménas"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Νικόλαον",
+            "gloss": "Nicolas"
+          },
+          {
+            "greek": "προσήλυτον",
+            "gloss": "prosélyte"
+          },
+          {
+            "greek": "Ἀντιοχέα,",
+            "gloss": "d'Antioche"
+          }
         ]
       },
       {
@@ -510,17 +1846,59 @@
           "darby": "qu'ils présentèrent aux apôtres ; et, après avoir prié, ils leur imposèrent les mains."
         },
         "interlinear": [
-          { "greek": "οὓς", "gloss": "Lesquels" },
-          { "greek": "ἔστησαν", "gloss": "ils_présentèrent/placèrent" },
-          { "greek": "ἐνώπιον", "gloss": "devant" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ἀποστόλων,", "gloss": "apôtres" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "προσευξάμενοι", "gloss": "ayant_prié" },
-          { "greek": "ἐπέθηκαν", "gloss": "ils_imposèrent", "analyse": "L'imposition des mains n'est pas une délégation de pouvoir hiérarchique au sens du Monde duel. C'est la transmission organique de l'Énergie divine. Le Royaume s'incarne et se structure, non par la domination politique, mais par le don continu de l'Esprit qui unifie les Sujets." },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "χεῖρας.", "gloss": "mains" }
+          {
+            "greek": "οὓς",
+            "gloss": "Lesquels"
+          },
+          {
+            "greek": "ἔστησαν",
+            "gloss": "ils_présentèrent/placèrent"
+          },
+          {
+            "greek": "ἐνώπιον",
+            "gloss": "devant"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀποστόλων,",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προσευξάμενοι",
+            "gloss": "ayant_prié"
+          },
+          {
+            "greek": "ἐπέθηκαν",
+            "gloss": "ils_imposèrent",
+            "annotation": {
+              "type": "theologie",
+              "title": "La prière et l’imposition des mains",
+              "content": "Après avoir reçu les sept présentés par la communauté, les apôtres prient et leur imposent les mains. Le geste confie publiquement une responsabilité au sein de la communion ecclésiale.",
+              "related": [
+                "προσευξάμενοι",
+                "χεῖρας."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "χεῖρας.",
+            "gloss": "mains"
+          }
         ]
       },
       {
@@ -530,32 +1908,199 @@
           "darby": "Et la parole de Dieu croissait, et le nombre des disciples se multipliait beaucoup à Jérusalem, et une grande foule de sacrificateurs obéissait à la foi."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "λόγος", "gloss": "parole" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "ηὔξανεν,", "gloss": "croissait" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπληθύνετο", "gloss": "se_multipliait" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "ἀριθμὸς", "gloss": "nombre" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "μαθητῶν", "gloss": "disciples" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "Ἰερουσαλὴμ", "gloss": "Jérusalem" },
-          { "greek": "σφόδρα,", "gloss": "beaucoup/extrêmement" },
-          { "greek": "πολύς", "gloss": "une_grande" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "ὄχλος", "gloss": "foule" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἱερέων", "gloss": "sacrificateurs/prêtres", "analyse": "C'est l'ultime triomphe de la Résurrection : même les prêtres de l'Ancien Testament, qui incarnaient jusqu'alors l'enfermement rituel et le système légaliste du Monde duel, capitulent. L'évidence de la Grâce pulvérise la Loi de l'intérieur, et l'Ego religieux s'incline devant la communion vivante du Royaume." },
-          { "greek": "ὑπήκουον", "gloss": "obéissaient/se_soumettaient" },
-          { "greek": "τῇ", "gloss": "à_la" },
-          { "greek": "πίστει.", "gloss": "foi" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγος",
+            "gloss": "parole"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ηὔξανεν,",
+            "gloss": "croissait",
+            "annotation": {
+              "type": "repetition",
+              "title": "La Parole croissait",
+              "content": "Après la mise en place du service, Luc indique que la Parole de Dieu croissait et que le nombre des disciples se multipliait. Le soin de l’organisation communautaire et l’annonce ne sont pas présentés comme concurrents.",
+              "related": [
+                "λόγος",
+                "ἐπληθύνετο"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπληθύνετο",
+            "gloss": "se_multipliait"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀριθμὸς",
+            "gloss": "nombre"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "μαθητῶν",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Ἰερουσαλὴμ",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "σφόδρα,",
+            "gloss": "beaucoup/extrêmement"
+          },
+          {
+            "greek": "πολύς",
+            "gloss": "une_grande"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὄχλος",
+            "gloss": "foule"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἱερέων",
+            "gloss": "sacrificateurs/prêtres",
+            "annotation": {
+              "type": "analyse",
+              "title": "Une foule de prêtres obéissait à la foi",
+              "content": "Le verset constate qu’un grand nombre de prêtres adhéraient à la foi. Cette notation manifeste l’extension de l’annonce au sein même de Jérusalem ; elle ne justifie pas de réduire tout le sacerdoce juif à une figure d’opposition.",
+              "related": [
+                "ὄχλος",
+                "ὑπήκουον",
+                "πίστει."
+              ]
+            }
+          },
+          {
+            "greek": "ὑπήκουον",
+            "gloss": "obéissaient/se_soumettaient"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "πίστει.",
+            "gloss": "foi"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 1 - παρεθεωροῦντο : Signifie 'être regardé de travers, être négligé'. C'est le regard objectivant qui exclut. La crise naît parce que le regard pur du Christ s'est brouillé chez les fidèles par les identités culturelles (Hellénistes contre Hébreux).\n• Verset 2 - οὐκ ἀρεστόν : 'Il n'est pas convenable/agréable'. Les apôtres discernent que se perdre dans l'activisme, même pour une bonne cause, serait une désertion de leur vocation profonde.\n\nAnalyse spirituelle :\nCet extrait des Actes prolonge magnifiquement la dynamique du Dimanche des Myrophores. Dans l'Évangile, les femmes ont osé dépasser les peurs de l'Ego pour poser un acte gratuit d'amour, découvrant que le tombeau était vide et que la mort était vaincue. L'Apôtre nous montre comment cette victoire incréée s'incarne ensuite concrètement dans l'histoire de la communauté humaine.\n\nL'Église originelle affronte sa première épreuve : le ressentiment. Les Hellénistes et les Hébreux s'opposent. C'est la réapparition foudroyante du 'Monde duel' au cœur même de l'assemblée : l'Ego recomptabilise, divise en clans, réclame ses droits, se sent lésé. \nComment les apôtres vont-ils répondre ? Non pas par un calcul politique, par la force ou par un système administratif, mais par l'Esprit. Ils recentrent l'Église sur la kénose. En instituant les diacres, ils refusent le pouvoir pour eux-mêmes (ils restent voués à la prière, ancrés dans le Royaume UN). Et ils confient le service matériel non pas à des comptables, mais à des hommes 'pleins de l'Esprit', des Sujets libres. Résultat : l'effusion de l'Incréé ne s'arrête pas, et la conversion touche même les sacrificateurs juifs, prouvant que la douceur du Royaume désarme en profondeur les structures rigides de l'idéologie mondaine."
+    "personal_analysis": "Notes sur le texte grec :\n• Actes 6, 1 — παρεθεωροῦντο : « étaient négligées, laissées de côté ». Le verbe décrit le problème concret subi par les veuves des Hellénistes dans le service quotidien. Le récit ne dit pas que leur plainte est illégitime ; il oblige la communauté à regarder ce qui échappe à son attention.\n• Actes 6, 1.2.4 — διακονία / διακονεῖν : la même famille de mots désigne le service quotidien, le service des tables et le service de la Parole. Le texte distingue les responsabilités sans opposer un service matériel inférieur à un service spirituel supérieur.\n• Actes 6, 3 — πλήρεις πνεύματος καὶ σοφίας : « pleins d’Esprit et de sagesse ». Une tâche de distribution exige à la fois une réputation reconnue, la vie dans l’Esprit et la sagesse pratique.\n• Actes 6, 6 — προσευξάμενοι ἐπέθηκαν αὐτοῖς τὰς χεῖρας : la communauté présente les sept aux apôtres, qui prient puis leur imposent les mains. Le service est discerné par l’assemblée et reçu dans la prière.\n\nAnalyse spirituelle :\nLa croissance de l’Église n’empêche pas l’apparition d’une injustice ; elle peut même rendre visibles des personnes que l’organisation quotidienne oublie. Les veuves des Hellénistes sont négligées et un murmure surgit. Le récit ne masque ni la tension culturelle ni le besoin matériel : la communion doit se vérifier dans la manière dont les plus vulnérables sont servis.\n\nLes Douze convoquent alors la multitude des disciples. Ils ne traitent pas le problème comme une rivalité entre la prière et les tables. Le vocabulaire de la διακονία relie les deux : il existe un service quotidien, un service des tables et un service de la Parole. La distinction des responsabilités vise à rendre chacun de ces services réellement possible.\n\nLe choix des sept associe plusieurs dimensions : témoignage reconnu, plénitude de l’Esprit et sagesse. La communauté participe au discernement, puis les apôtres prient et imposent les mains. L’organisation ecclésiale apparaît ainsi comme une réponse spirituelle à une souffrance concrète, et non comme une simple recherche d’efficacité.\n\nLe dernier verset montre la fécondité retrouvée : la parole de Dieu croît et le nombre des disciples se multiplie. Le soin porté aux veuves ne détourne pas de l’annonce ; il retire un obstacle à la crédibilité de la communion et permet à des services différents de concourir à la même œuvre.",
+    "homiletic_axes": [
+      {
+        "title": "La croissance révèle ceux que l’on ne voit plus",
+        "content": "Au moment où les disciples se multiplient, les veuves des Hellénistes sont négligées dans le service quotidien. Le récit invite l’Église à mesurer sa vitalité aussi à l’attention portée aux personnes laissées de côté.",
+        "keywords": [
+          "πληθυνόντων",
+          "παρεθεωροῦντο",
+          "χῆραι"
+        ]
+      },
+      {
+        "title": "Le murmure devient appel au discernement",
+        "content": "La plainte signale une blessure réelle entre Hellénistes et Hébreux. Les Douze convoquent toute la multitude et ouvrent une réponse communautaire plutôt que de nier la tension ou de désigner un coupable.",
+        "keywords": [
+          "γογγυσμὸς",
+          "Ἑλληνιστῶν",
+          "Ἑβραίους,",
+          "πλῆθος"
+        ]
+      },
+      {
+        "title": "Plusieurs services, une même diaconie",
+        "content": "La même famille διακονία désigne le service quotidien, celui des tables et celui de la Parole. La distinction des tâches ne dévalorise pas le soin matériel : elle permet que la Parole, la prière et le service des personnes soient tous honorés.",
+        "keywords": [
+          "διακονίᾳ",
+          "διακονεῖν",
+          "προσευχῇ",
+          "λόγου"
+        ]
+      },
+      {
+        "title": "Choisir, prier, imposer les mains",
+        "content": "Les sept doivent être reconnus, pleins d’Esprit et de sagesse. La multitude les choisit, les présente aux apôtres, puis la prière et l’imposition des mains inscrivent leur responsabilité dans la communion de l’Église.",
+        "keywords": [
+          "πνεύματος",
+          "σοφίας,",
+          "ἐξελέξαντο",
+          "ἐπέθηκαν"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre entrée : la croissance, les veuves négligées, le murmure, la multitude convoquée, la diaconie, l’Esprit et la sagesse, la prière ou l’imposition des mains."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l’épître",
+        "prompt": "Suivez la progression : une négligence devient plainte, la communauté est convoquée, des personnes sont discernées, puis le service est confié dans la prière et la Parole continue de croître."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que l’Esprit rend possible : voir ceux qui sont oubliés, transformer une crise en discernement, reconnaître plusieurs formes de service ou faire grandir ensemble la communion et la Parole."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Situation humaine rejointe",
+        "prompt": "Choisissez une situation concrète : une personne invisible, une différence culturelle, une plainte mal entendue, l’épuisement de quelques-uns ou la difficulté à partager les responsabilités."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse : écouter la plainte avant de la juger, vérifier qui est négligé, convoquer la communauté, discerner des dons ou confier un service par la prière."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez le problème concret des veuves au centre. Faites entendre les trois emplois de « service », puis concluez sur la Parole qui croît lorsque la communion devient plus juste."
+      }
+    ]
   }
-  }
+}
