@@ -1,7 +1,7 @@
 {
   "gospel": {
     "reference": "Matthieu 4, 18-23",
-    "title": "L'appel des premiers disciples : Abandonner les filets pour suivre le Logos",
+    "title": "Appelés à suivre : de la parole entendue à une vie en mouvement",
     "interlinear": [
       {
         "verse_number": "4, 18",
@@ -10,33 +10,124 @@
           "darby": "Et comme il marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André, son frère, jetant un filet dans la mer, car ils étaient pêcheurs."
         },
         "interlinear": [
-          { "greek": "περιπατῶν", "gloss": "marchant" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "παρὰ", "gloss": "le_long_de" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "θάλασσαν", "gloss": "mer" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "Γαλιλαίας", "gloss": "Galilée" },
-          { "greek": "εἶδεν", "gloss": "il_vit" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "ἀδελφούς,", "gloss": "frères" },
-          { "greek": "Σίμωνα", "gloss": "Simon" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "λεγόμενον", "gloss": "appelé" },
-          { "greek": "Πέτρον", "gloss": "Pierre" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἀνδρέαν", "gloss": "André" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἀδελφὸν", "gloss": "frère" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "βάλλοντας", "gloss": "jetant/lancer" },
-          { "greek": "ἀμφίβληστρον", "gloss": "filet", "analyse": "Le filet (*amphiblēstron*), littéralement 'ce que l'on jette autour'. Objet de l'Avoir, il est l'outil par lequel le pêcheur capte la vie pour sa survie biologique. C'est l'extension de l'Ego dans le monde matériel : posséder, enfermer, tirer à soi." },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "θάλασσαν·", "gloss": "mer" },
-          { "greek": "ἦσαν", "gloss": "ils_étaient" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἁλεεῖς.", "gloss": "pêcheurs" }
+          {
+            "greek": "περιπατῶν",
+            "gloss": "marchant",
+            "annotation": {
+              "type": "repetition",
+              "title": "Jésus en marche",
+              "content": "Le récit commence avec Jésus qui marche le long de la mer et s’achève avec Jésus parcourant toute la Galilée. Son mouvement encadre l’appel et entraîne les disciples dans un chemin.",
+              "related": [
+                "περιῆγεν",
+                "ὀπίσω",
+                "ἠκολούθησαν"
+              ]
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "le_long_de"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "θάλασσαν",
+            "gloss": "mer"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "Γαλιλαίας",
+            "gloss": "Galilée"
+          },
+          {
+            "greek": "εἶδεν",
+            "gloss": "il_vit"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἀδελφούς,",
+            "gloss": "frères"
+          },
+          {
+            "greek": "Σίμωνα",
+            "gloss": "Simon"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "λεγόμενον",
+            "gloss": "appelé"
+          },
+          {
+            "greek": "Πέτρον",
+            "gloss": "Pierre"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἀνδρέαν",
+            "gloss": "André"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀδελφὸν",
+            "gloss": "frère"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "βάλλοντας",
+            "gloss": "jetant/lancer"
+          },
+          {
+            "greek": "ἀμφίβληστρον",
+            "gloss": "filet"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "θάλασσαν·",
+            "gloss": "mer"
+          },
+          {
+            "greek": "ἦσαν",
+            "gloss": "ils_étaient"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἁλιεῖς.",
+            "gloss": "pêcheurs"
+          }
         ]
       },
       {
@@ -46,17 +137,69 @@
           "darby": "Et il leur dit : Suivez-moi, et je vous ferai pêcheurs d'hommes."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Δεῦτε", "gloss": "Venez" },
-          { "greek": "ὀπίσω", "gloss": "après/à_la_suite_de" },
-          { "greek": "μου,", "gloss": "moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ποιήσω", "gloss": "je_ferai" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "ἁλεεῖς", "gloss": "pêcheurs" },
-          { "greek": "ἀνθρώπων.", "gloss": "d'hommes" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Δεῦτε",
+            "gloss": "Venez",
+            "annotation": {
+              "type": "traduction",
+              "title": "Venez — Δεῦτε",
+              "content": "Δεῦτε est une invitation pressante : « venez ! ». Elle est immédiatement précisée par ὀπίσω μου, « derrière moi, à ma suite ».",
+              "related": [
+                "ὀπίσω",
+                "μου,"
+              ]
+            }
+          },
+          {
+            "greek": "ὀπίσω",
+            "gloss": "après/à_la_suite_de"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ποιήσω",
+            "gloss": "je_ferai",
+            "annotation": {
+              "type": "theologie",
+              "title": "« Je vous ferai »",
+              "content": "Le futur ποιήσω place le Christ comme sujet de la transformation. La réponse des disciples est réelle, mais leur vocation nouvelle est d’abord une œuvre promise par Jésus.",
+              "related": [
+                "ὑμᾶς",
+                "ἁλιεῖς",
+                "ἀνθρώπων."
+              ]
+            }
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἁλιεῖς",
+            "gloss": "pêcheurs"
+          },
+          {
+            "greek": "ἀνθρώπων.",
+            "gloss": "d'hommes"
+          }
         ]
       },
       {
@@ -66,14 +209,68 @@
           "darby": "Et aussitôt, ayant laissé les filets, ils le suivirent."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Eux" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εὐθέως", "gloss": "aussitôt" },
-          { "greek": "ἀφέντες", "gloss": "ayant_laissé/quitté", "analyse": "Du verbe *aphiēmi* (*apo* + *hiēmi* : envoyer au loin). Le geste kénotique par excellence. Ils lâchent l'outil de leur survie (le filet). En se dépossédant de l'instrument de leur 'Avoir', ils créent le 'creux' nécessaire pour devenir des 'Sujets' appelés par le Logos." },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "δίκτυα", "gloss": "filets" },
-          { "greek": "ἠκολούθησαν", "gloss": "ils_suivirent" },
-          { "greek": "αὐτῷ.", "gloss": "lui" }
+          {
+            "greek": "οἱ",
+            "gloss": "Eux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εὐθέως",
+            "gloss": "aussitôt",
+            "annotation": {
+              "type": "repetition",
+              "title": "Aussitôt",
+              "content": "Εὐθέως revient dans les deux scènes d’appel. La répétition donne au récit son élan et souligne la disponibilité des quatre disciples, sans imposer à tout discernement la même vitesse chronologique.",
+              "related": [
+                "ἀφέντες",
+                "ἠκολούθησαν"
+              ]
+            }
+          },
+          {
+            "greek": "ἀφέντες",
+            "gloss": "ayant_laissé/quitté",
+            "annotation": {
+              "type": "racine",
+              "title": "Laisser, relâcher — ἀφέντες",
+              "content": "Le participe vient de ἀφίημι : laisser, relâcher, remettre ou pardonner selon le contexte. Ici, les disciples laissent les filets, puis la barque et leur père. Le mouvement d’éloignement associé à ἀπό est ordonné à la suite du Christ, non au mépris de ce qui est quitté.",
+              "related": [
+                "δίκτυα",
+                "πλοῖον",
+                "πατέρα",
+                "ἠκολούθησαν"
+              ]
+            }
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δίκτυα",
+            "gloss": "filets"
+          },
+          {
+            "greek": "ἠκολούθησαν",
+            "gloss": "ils_suivirent",
+            "annotation": {
+              "type": "repetition",
+              "title": "Ils suivirent",
+              "content": "Le même verbe conclut chacun des deux appels. Il répond directement à « derrière moi » et donne au renoncement sa direction positive.",
+              "related": [
+                "ὀπίσω",
+                "ἀφέντες",
+                "αὐτῷ."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῷ.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -83,37 +280,149 @@
           "darby": "Et étant passé de là, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, dans la barque avec Zébédée leur père, raccommodant leurs filets ; et il les appela."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "προβὰς", "gloss": "étant_allé_plus_loin/ayant_avancé" },
-          { "greek": "ἐκεῖθεν", "gloss": "de_là" },
-          { "greek": "εἶδεν", "gloss": "il_vit" },
-          { "greek": "ἄλλους", "gloss": "d'autres" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "ἀδελφούς,", "gloss": "frères" },
-          { "greek": "Ἰάκωβον", "gloss": "Jacques" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "Ζεβεδαίου", "gloss": "Zébédée" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰωάννην", "gloss": "Jean" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἀδελφὸν", "gloss": "frère" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "πλοίῳ", "gloss": "barque" },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "Ζεβεδαίου", "gloss": "Zébédée" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "πατρὸς", "gloss": "père" },
-          { "greek": "αὐτῶν", "gloss": "d'eux" },
-          { "greek": "καταρτίζοντας", "gloss": "réparant/ajustant", "analyse": "Du verbe *katartizō* (ajuster, remettre en état, équilibrer). Le travail du monde est une réparation perpétuelle de ce qui se déchire (la survie). Le Christ les appelle à sortir de cette maintenance cyclique pour une œuvre qui demeure." },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "δίκτυα", "gloss": "filets" },
-          { "greek": "αὐτῶν,", "gloss": "d'eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐκάλεσεν", "gloss": "il_appela" },
-          { "greek": "αὐτούς.", "gloss": "eux" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προβὰς",
+            "gloss": "étant_allé_plus_loin/ayant_avancé"
+          },
+          {
+            "greek": "ἐκεῖθεν",
+            "gloss": "de_là"
+          },
+          {
+            "greek": "εἶδεν",
+            "gloss": "il_vit"
+          },
+          {
+            "greek": "ἄλλους",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἀδελφούς,",
+            "gloss": "frères"
+          },
+          {
+            "greek": "Ἰάκωβον",
+            "gloss": "Jacques"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ζεβεδαίου",
+            "gloss": "Zébédée"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰωάννην",
+            "gloss": "Jean"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀδελφὸν",
+            "gloss": "frère"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλοίῳ",
+            "gloss": "barque"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "Ζεβεδαίου",
+            "gloss": "Zébédée"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατρὸς",
+            "gloss": "père"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "καταρτίζοντας",
+            "gloss": "réparant/ajustant",
+            "annotation": {
+              "type": "racine",
+              "title": "Réparer, remettre en état",
+              "content": "Καταρτίζω signifie ajuster, préparer, restaurer ou remettre en état ; ici, Jacques et Jean réparent leurs filets. Le préfixe κατά peut contribuer à l’idée d’un ajustement poussé à son terme, mais le contexte ne dévalorise pas leur travail comme une vaine répétition.",
+              "related": [
+                "δίκτυα",
+                "ἐκάλεσεν"
+              ]
+            }
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δίκτυα",
+            "gloss": "filets"
+          },
+          {
+            "greek": "αὐτῶν,",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐκάλεσεν",
+            "gloss": "il_appela",
+            "annotation": {
+              "type": "theologie",
+              "title": "Il les appela",
+              "content": "Jésus voit deux autres frères au travail et les appelle. La vocation naît de son initiative au cœur d’une situation et de relations concrètes.",
+              "related": [
+                "εἶδεν",
+                "αὐτούς.",
+                "ἀφέντες"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτούς.",
+            "gloss": "eux"
+          }
         ]
       },
       {
@@ -123,18 +432,84 @@
           "darby": "Et aussitôt, ayant laissé la barque et leur père, ils le suivirent."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Eux" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εὐθέως", "gloss": "aussitôt" },
-          { "greek": "ἀφέντες", "gloss": "ayant_laissé" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "πλοῖον", "gloss": "barque" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "πατέρα", "gloss": "père" },
-          { "greek": "αὐτῶν", "gloss": "d'eux" },
-          { "greek": "ἠκολούθησαν", "gloss": "ils_suivirent" },
-          { "greek": "αὐτῷ.", "gloss": "lui" }
+          {
+            "greek": "οἱ",
+            "gloss": "Eux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εὐθέως",
+            "gloss": "aussitôt",
+            "annotation": {
+              "type": "repetition",
+              "title": "Aussitôt",
+              "content": "Εὐθέως revient dans les deux scènes d’appel. La répétition donne au récit son élan et souligne la disponibilité des quatre disciples, sans imposer à tout discernement la même vitesse chronologique.",
+              "related": [
+                "ἀφέντες",
+                "ἠκολούθησαν"
+              ]
+            }
+          },
+          {
+            "greek": "ἀφέντες",
+            "gloss": "ayant_laissé",
+            "annotation": {
+              "type": "racine",
+              "title": "Laisser, relâcher — ἀφέντες",
+              "content": "Le participe vient de ἀφίημι : laisser, relâcher, remettre ou pardonner selon le contexte. Ici, les disciples laissent les filets, puis la barque et leur père. Le mouvement d’éloignement associé à ἀπό est ordonné à la suite du Christ, non au mépris de ce qui est quitté.",
+              "related": [
+                "δίκτυα",
+                "πλοῖον",
+                "πατέρα",
+                "ἠκολούθησαν"
+              ]
+            }
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλοῖον",
+            "gloss": "barque"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατέρα",
+            "gloss": "père"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "ἠκολούθησαν",
+            "gloss": "ils_suivirent",
+            "annotation": {
+              "type": "repetition",
+              "title": "Ils suivirent",
+              "content": "Le même verbe conclut chacun des deux appels. Il répond directement à « derrière moi » et donne au renoncement sa direction positive.",
+              "related": [
+                "ὀπίσω",
+                "ἀφέντες",
+                "αὐτῷ."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῷ.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -144,41 +519,260 @@
           "darby": "Et Jésus parcourait toute la Galilée, enseignant dans leurs synagogues, et prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "περιῆγεν", "gloss": "il_parcourait" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ὅλῃ", "gloss": "toute" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "Γαλιλαίᾳ,", "gloss": "Galilée" },
-          { "greek": "διδάσκων", "gloss": "enseignant" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "συναγωγαῖς", "gloss": "synagogues" },
-          { "greek": "αὐτῶν", "gloss": "de_eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "κηρύσσων", "gloss": "prêchant" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "εὐαγγέλιον", "gloss": "bonne_nouvelle" },
-          { "greek": "τῆς", "gloss": "du" },
-          { "greek": "βασιλείας", "gloss": "royaume" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "θεραπεύων", "gloss": "guérissant" },
-          { "greek": "πᾶσαν", "gloss": "toute" },
-          { "greek": "νόσον", "gloss": "maladie" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πᾶσαν", "gloss": "toute" },
-          { "greek": "μαλακίαν", "gloss": "infirmité/faiblesse" },
-          { "greek": "ἐν", "gloss": "parmi" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "λαῷ.", "gloss": "peuple" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "περιῆγεν",
+            "gloss": "il_parcourait",
+            "annotation": {
+              "type": "repetition",
+              "title": "Il parcourait toute la Galilée",
+              "content": "Le verbe prolonge la marche initiale de Jésus et ouvre une action plus large. L’appel des quatre disciples s’inscrit dans un mouvement qui rejoint tout le peuple.",
+              "related": [
+                "περιπατῶν",
+                "ὅλῃ",
+                "Γαλιλαίᾳ,"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ὅλῃ",
+            "gloss": "toute"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "Γαλιλαίᾳ,",
+            "gloss": "Galilée"
+          },
+          {
+            "greek": "διδάσκων",
+            "gloss": "enseignant",
+            "annotation": {
+              "type": "repetition",
+              "title": "Enseigner, proclamer, guérir",
+              "content": "Trois participes décrivent l’activité de Jésus : enseigner, proclamer et guérir. Leur association maintient ensemble intelligence de la foi, annonce du Royaume et compassion concrète.",
+              "related": [
+                "κηρύσσων",
+                "θεραπεύων",
+                "εὐαγγέλιον"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "συναγωγαῖς",
+            "gloss": "synagogues"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "de_eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κηρύσσων",
+            "gloss": "prêchant"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "εὐαγγέλιον",
+            "gloss": "bonne_nouvelle",
+            "annotation": {
+              "type": "racine",
+              "title": "La Bonne Nouvelle du Royaume",
+              "content": "Εὐαγγέλιον désigne une bonne annonce. Le complément « du Royaume » précise ici son contenu et relie la proclamation aux guérisons qui l’accompagnent.",
+              "related": [
+                "βασιλείας",
+                "κηρύσσων",
+                "θεραπεύων"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "βασιλείας",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "θεραπεύων",
+            "gloss": "guérissant",
+            "annotation": {
+              "type": "traduction",
+              "title": "Guérissant, prenant soin",
+              "content": "Θεραπεύω signifie servir, soigner ou guérir selon le contexte. Ici, Jésus guérit toute maladie et toute infirmité parmi le peuple : son annonce se rend proche des corps éprouvés.",
+              "related": [
+                "νόσον",
+                "μαλακίαν",
+                "λαῷ."
+              ]
+            }
+          },
+          {
+            "greek": "πᾶσαν",
+            "gloss": "toute"
+          },
+          {
+            "greek": "νόσον",
+            "gloss": "maladie"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πᾶσαν",
+            "gloss": "toute"
+          },
+          {
+            "greek": "μαλακίαν",
+            "gloss": "infirmité/faiblesse"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λαῷ.",
+            "gloss": "peuple"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 19 - ἁλιεῖς ἀνθρώπων : Segond traduit littéralement par 'pêcheurs d'hommes'. Dans la cosmologie biblique antique, la mer (*thalassa*) n'est pas un lieu paisible ; elle représente l'abîme, le chaos informe, la matrice engloutissante du 'Monde duel' et de la mort. Pêcher des hommes, ce n'est pas faire du prosélytisme pour grossir les rangs d'une institution. C'est un acte de sauvetage métaphysique : arracher les individus à la masse aveugle et asphyxiante du monde pour les hisser dans le Souffle (l'Esprit) et en faire de véritables Sujets vivants.\n\n• Verset 20 - ἀφέντες τὰ δίκτυα : Traduit simplement par 'ils laissèrent les filets'. Le participe *aphentes* vient du verbe *aphiemi*, qui signifie relâcher, renvoyer, abandonner (c'est la racine du mot utilisé pour la 'rémission' ou le pardon des péchés). Les filets (*diktya*) figurent l'entrelacement des attaches mondaines : le conditionnement social, la sécurité économique, la routine qui emprisonne. Lâcher les filets, c'est l'acte kénotique par excellence. C'est se vider de ses sécurités illusoires pour entrer dans le dynamisme du Royaume.\n\n• Verset 22 - ἀφέντες τὸ πλοῖον καὶ τὸν πατέρα : 'Laissant la barque et leur père'. L'évangéliste insiste sur la radicalité de la rupture. La barque représente la structure close, et le père (Zébédée), la généalogie charnelle. En quittant leur père, Jacques et Jean brisent la chaîne de transmission du monde déchu. Ils acceptent de mourir à leur identité biologique et sociale pour naître d'En-Haut, adoptant Dieu pour seul Père.\n\nAnalyse spirituelle :\n\nCe passage marque le commencement du Cycle de Matthieu. Il contraste violemment la vie des pêcheurs de Galilée, entièrement captés par la survie et le maintien de leur équipement (les filets, la barque), avec l'appel de l'Incréé.\n\n1. La sortie de la saturation : Le travail des filets\nLes disciples sont occupés à 'jeter' (*ballontes*) et 'réparer' (*katartizontas*). Le Monde duel est ce cycle répétitif où l'on colmate les brèches pour maintenir un 'Avoir' fragile. Le Christ les appelle à sortir de cette boucle. C'est l'appel du Sujet : il ne s'agit plus de capturer pour soi, mais de devenir 'pêcheurs d'hommes', c'est-à-dire de laisser l'Esprit travailler à travers eux pour libérer l'autre de la masse.\n\n2. Le geste eucharistique : L'abandon (Aphiēmi)\nL'acte de laisser les filets et la barque (v. 20, 22) est l'acte fondateur du Sujet chrétien. Ce 'lâcher-prise' n'est pas un suicide social, c'est une kénose. Ils abandonnent leurs outils de préhension et leur lignée patriarcale (leur père Zébédée) pour s'engager dans la suite (*akoloutheō*) du Logos. Ils acceptent de perdre le poids de leurs identités héritées pour devenir des Sujets en mouvement, disponibles pour le Royaume UN.\n\n3. La guérison du peuple : La Lumière qui traverse\nLe récit se conclut sur l'action de Jésus parcourant la Galilée. Le contraste est ici entre la synagogue (lieu du savoir 'en plein' et figé) et la marche du Christ qui guérit toute infirmité (*malakia*, faiblesse, mollesse). Le Christ libère le peuple de sa passivité, le remet debout, le rend capable de devenir à son tour acteur de la Bonne Nouvelle."
+    "personal_analysis": "Notes sur le texte grec :\n• Matthieu 4, 19 — Δεῦτε ὀπίσω μου : « Venez à ma suite ». L’appel ne propose pas d’abord une idée, mais une relation et une direction : marcher derrière Jésus.\n• Matthieu 4, 19 — ποιήσω ὑμᾶς : « je vous ferai ». La transformation promise a le Christ pour sujet. Les pêcheurs répondent, mais ils ne se fabriquent pas eux-mêmes comme disciples ou missionnaires.\n• Matthieu 4, 20 et 22 — εὐθέως ἀφέντες : « aussitôt, ayant laissé ». Ἀφίημι peut signifier laisser, relâcher, remettre ou pardonner selon le contexte. Ici, le geste est concret : les filets, puis la barque et le père, sont laissés pour répondre à l’appel. Le texte ne permet pas de dévaloriser le travail, la famille ou toute sécurité humaine.\n• Matthieu 4, 21 — καταρτίζοντας : « réparant, remettant en état ». Καταρτίζω désigne ici la réparation des filets. Sa composition et le préfixe κατά peuvent évoquer une mise en ordre complète, mais le sens du contexte reste celui de préparer ou raccommoder, non celui d’un enfermement spirituel.\n\nAnalyse spirituelle :\nJésus marche, voit, appelle puis poursuit sa route. Le récit est entièrement traversé par le mouvement. Les premiers disciples ne sont pas choisis hors de leur existence ordinaire : le Christ les rejoint au milieu de leur travail, avec leurs compétences, leurs liens fraternels et familiaux. La vocation ne méprise pas ce qu’ils étaient ; elle réoriente leur vie vers une relation et une mission nouvelles.\n\nLa parole « je vous ferai pêcheurs d’hommes » doit être reçue avec précaution. Le texte ne décrit pas la conquête ou la capture de personnes. Jésus reprend leur métier pour annoncer une transformation dont il est lui-même l’auteur. Ceux qui savaient jeter et réparer des filets apprendront à servir le rassemblement des hommes par l’Évangile.\n\nDeux verbes donnent sa forme à la réponse : laisser et suivre. L’abandon n’est pas une valeur autonome et la rupture n’est pas recherchée pour elle-même. Ce qui est laissé reçoit son sens de Celui qui appelle et du chemin qui s’ouvre. Le double « aussitôt » souligne la disponibilité des disciples, non une règle imposant à toute vocation une décision irréfléchie.\n\nLe verset 23 révèle enfin le contenu du chemin : Jésus parcourt la Galilée, enseigne, proclame la Bonne Nouvelle du Royaume et guérit. L’appel des disciples les introduit dans ce mouvement de parole et de compassion. La mission ne se réduit donc ni au discours ni au recrutement : elle demeure ordonnée au Royaume annoncé et à la restauration des personnes.",
+    "homiletic_axes": [
+      {
+        "title": "Une parole entendue devient un chemin",
+        "content": "Jésus ne transmet pas seulement un enseignement : il appelle à venir derrière lui. La réponse se reconnaît au passage de l’écoute à la marche.",
+        "keywords": [
+          "Δεῦτε",
+          "ὀπίσω",
+          "ἐκάλεσεν",
+          "ἠκολούθησαν"
+        ]
+      },
+      {
+        "title": "« Je vous ferai » : une transformation reçue",
+        "content": "Le Christ rejoint des pêcheurs dans leur métier et promet de les faire devenir pêcheurs d’hommes. Leur savoir-faire n’est ni méprisé ni simplement prolongé : il est transformé au service d’une mission nouvelle.",
+        "keywords": [
+          "ποιήσω",
+          "ἁλιεῖς",
+          "ἀνθρώπων."
+        ]
+      },
+      {
+        "title": "Laisser pour suivre",
+        "content": "Le récit répète « aussitôt », « ayant laissé » et « ils suivirent ». Le renoncement chrétien ne cherche pas le vide pour lui-même : il libère une disponibilité concrète à Celui qui appelle.",
+        "keywords": [
+          "εὐθέως",
+          "ἀφέντες",
+          "δίκτυα",
+          "πλοῖον",
+          "ἠκολούθησαν"
+        ]
+      },
+      {
+        "title": "Enseigner, proclamer et guérir",
+        "content": "Le parcours de Jésus associe parole, annonce du Royaume et guérison. Cette triple action donne à la vocation des disciples son horizon et empêche de réduire la mission à l’adhésion verbale.",
+        "keywords": [
+          "περιῆγεν",
+          "διδάσκων",
+          "κηρύσσων",
+          "εὐαγγέλιον",
+          "θεραπεύων"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre entrée : être vu dans son quotidien, entendre l’appel, venir derrière Jésus, être transformé, laisser, suivre, annoncer ou guérir."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l’Évangile",
+        "prompt": "Suivez une progression : Jésus marche, voit et appelle ; les disciples laissent et suivent ; puis Jésus parcourt, enseigne, proclame et guérit."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez le don central : le Christ rejoint des personnes au cœur de leur vie, les appelle personnellement et les transforme pour les associer à son œuvre."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une situation : travail devenu routine, appel pressenti, peur de quitter une sécurité, compétence à réorienter, difficulté à passer de l’écoute à l’action ou désir de servir sans savoir comment."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre : identifier ce qui appelle à être laissé, poser un pas à la suite du Christ, recevoir une transformation plutôt que se fabriquer soi-même, ou unir parole et compassion."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Faites entendre les verbes du récit et leur rythme. Ne transformez pas l’immédiateté des disciples en pression sur l’auditeur ; conduisez de l’appel personnel à l’œuvre de Jésus pour tout le peuple."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Des saints singuliers pour une mission universelle",
+        "reference": "Matthieu 4, 18-23 ; Romains 2, 10-16",
+        "content": "Après la fête de Tous les Saints, l’Évangile montre quatre personnes appelées par leur nom, tandis que l’Apôtre affirme que Dieu ne fait pas de favoritisme. La singularité de la vocation n’enferme pas : elle ouvre au service de tous.",
+        "connections": [
+          {
+            "label": "De l’appel à l’action",
+            "content": "Les pêcheurs entendent et suivent ; Paul distingue les auditeurs de ceux qui mettent la Loi en pratique."
+          },
+          {
+            "label": "Du particulier à tous",
+            "content": "Simon, André, Jacques et Jean sont appelés dans leur histoire concrète ; l’Évangile annoncé vise le peuple et le bien promis concerne tout homme, Juif ou Grec."
+          }
+        ]
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Romains 2, 10-16",
-    "title": "La Loi inscrite dans le cœur : L'universalité du Sujet",
+    "title": "Sans favoritisme : entendre, accomplir et laisser le cœur témoigner",
     "interlinear": [
       {
         "verse_number": "2, 10",
@@ -187,22 +781,90 @@
           "darby": "mais gloire, honneur et paix, à quiconque fait le bien, au Juif premièrement, et au Grec ;"
         },
         "interlinear": [
-          { "greek": "δόξα", "gloss": "gloire", "analyse": "Le radical *dok-* (accueillir). La gloire ici n'est pas la célébrité mondaine, mais la capacité du Sujet à accueillir en lui la manifestation de l'Incréé." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τιμὴ", "gloss": "honneur" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἰρήνη", "gloss": "paix" },
-          { "greek": "παντὶ", "gloss": "à_tout_homme" },
-          { "greek": "τῷ", "gloss": "qui" },
-          { "greek": "ἐργαζομένῳ", "gloss": "travaille/accomplit", "analyse": "Du verbe *ergazomai* (travailler, agir). Le salut n'est pas une passivité, c'est l'engagement actif du Sujet dans le bien, par opposition à l'agitation mimétique du monde." },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ἀγαθόν,", "gloss": "bien" },
-          { "greek": "Ἰουδαίῳ", "gloss": "au_Juif" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "πρῶτον", "gloss": "premièrement" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἕλληνι·", "gloss": "au_Grec" }
+          {
+            "greek": "δόξα",
+            "gloss": "gloire",
+            "annotation": {
+              "type": "repetition",
+              "title": "Gloire, honneur et paix",
+              "content": "La triple promesse ouvre la lecture sur ce que Dieu donne à tout homme qui accomplit le bien. Δόξα signifie ici gloire, sans qu’il soit nécessaire de la dériver d’un supposé sens « accueillir ».",
+              "related": [
+                "τιμὴ",
+                "εἰρήνη",
+                "ἀγαθόν,"
+              ]
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τιμὴ",
+            "gloss": "honneur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἰρήνη",
+            "gloss": "paix"
+          },
+          {
+            "greek": "παντὶ",
+            "gloss": "à_tout_homme",
+            "annotation": {
+              "type": "repetition",
+              "title": "À tout homme",
+              "content": "Παντί donne une portée universelle à la promesse, aussitôt déployée dans la formule « au Juif d’abord et aussi au Grec ».",
+              "related": [
+                "Ἰουδαίῳ",
+                "Ἕλληνι·",
+                "προσωπολημψία"
+              ]
+            }
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἐργαζομένῳ",
+            "gloss": "travaille/accomplit"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀγαθόν,",
+            "gloss": "bien"
+          },
+          {
+            "greek": "Ἰουδαίῳ",
+            "gloss": "au_Juif"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "πρῶτον",
+            "gloss": "premièrement"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἕλληνι·",
+            "gloss": "au_Grec"
+          }
         ]
       },
       {
@@ -212,13 +874,44 @@
           "darby": "car il n'y a pas d'acception de personnes auprès de Dieu."
         },
         "interlinear": [
-          { "greek": "οὐ", "gloss": "Non" },
-          { "greek": "γάρ", "gloss": "car" },
-          { "greek": "ἐστιν", "gloss": "il_est" },
-          { "greek": "προσωπολημψία", "gloss": "acception_de_personnes", "analyse": "Composé de *prosōpon* (visage, masque, personne) et *lēpsis* (prendre, recevoir). Dieu ne regarde pas le 'masque' social ou le rôle que nous jouons dans le théâtre du Monde duel. Il regarde le Sujet dans sa nudité kénotique." },
-          { "greek": "παρὰ", "gloss": "auprès_de" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "θεῷ.", "gloss": "Dieu" }
+          {
+            "greek": "οὐ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "γάρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "προσωπολημψία",
+            "gloss": "acception_de_personnes",
+            "annotation": {
+              "type": "racine",
+              "title": "Favoritisme — προσωπολημψία",
+              "content": "Le mot associe πρόσωπον, visage ou personne, et la famille de λαμβάνω, prendre ou recevoir. Il désigne la partialité qui juge selon la personne, le statut ou l’apparence. Le sens n’exige pas de réduire πρόσωπον au masque théâtral.",
+              "related": [
+                "παντὶ",
+                "Ἰουδαίῳ",
+                "Ἕλληνι·"
+              ]
+            }
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεῷ.",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -228,21 +921,66 @@
           "darby": "Car tous ceux qui ont péché sans loi périront aussi sans loi ; et tous ceux qui ont péché sous la loi seront jugés par la loi ;"
         },
         "interlinear": [
-          { "greek": "ὅσοι", "gloss": "Tous_ceux_qui" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἀνόμως", "gloss": "sans_loi/en_dehors_de_la_loi" },
-          { "greek": "ἥμαρτον,", "gloss": "ont_péché" },
-          { "greek": "ἀνόμως", "gloss": "sans_loi" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἀπολοῦνται,", "gloss": "périront" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὅσοι", "gloss": "tous_ceux_qui" },
-          { "greek": "ἐν", "gloss": "sous/dans" },
-          { "greek": "νόμῳ", "gloss": "la_loi" },
-          { "greek": "ἥμαρτον,", "gloss": "ont_péché" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "νόμου", "gloss": "la_loi" },
-          { "greek": "κριθήσονται·", "gloss": "seront_jugés" }
+          {
+            "greek": "ὅσοι",
+            "gloss": "Tous_ceux_qui"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἀνόμως",
+            "gloss": "sans_loi/en_dehors_de_la_loi"
+          },
+          {
+            "greek": "ἥμαρτον,",
+            "gloss": "ont_péché"
+          },
+          {
+            "greek": "ἀνόμως",
+            "gloss": "sans_loi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἀπολοῦνται,",
+            "gloss": "périront"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὅσοι",
+            "gloss": "tous_ceux_qui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "sous/dans"
+          },
+          {
+            "greek": "νόμῳ",
+            "gloss": "la_loi"
+          },
+          {
+            "greek": "ἥμαρτον,",
+            "gloss": "ont_péché"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "νόμου",
+            "gloss": "la_loi"
+          },
+          {
+            "greek": "κριθήσονται·",
+            "gloss": "seront_jugés"
+          }
         ]
       },
       {
@@ -252,20 +990,82 @@
           "darby": "car ce ne sont pas les auditeurs de la loi qui sont justes devant Dieu, mais ceux qui pratiquent la loi seront justifiés."
         },
         "interlinear": [
-          { "greek": "οὐ", "gloss": "Non" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ἀκροαταὶ", "gloss": "auditeurs", "analyse": "L'auditeur passif. C'est l'homme qui se contente de la Loi comme objet intellectuel ('en plein'). Il écoute mais ne laisse pas la Parole le transformer. Il reste dans l'aliénation de l'Ego." },
-          { "greek": "νόμου", "gloss": "de_la_loi" },
-          { "greek": "δίκαιοι", "gloss": "justes" },
-          { "greek": "παρὰ", "gloss": "auprès_de" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "θεῷ,", "gloss": "Dieu" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ποιηταὶ", "gloss": "pratiquants/doers" },
-          { "greek": "νόμου", "gloss": "de_la_loi" },
-          { "greek": "δικαιωθήσονται.", "gloss": "seront_justifiés" }
+          {
+            "greek": "οὐ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀκροαταὶ",
+            "gloss": "auditeurs",
+            "annotation": {
+              "type": "repetition",
+              "title": "Auditeurs et pratiquants",
+              "content": "Paul oppose les auditeurs de la Loi à ceux qui la mettent en pratique. Il ne condamne pas l’écoute : il montre qu’elle appelle un accomplissement, comme l’appel entendu par les pêcheurs devient une marche.",
+              "related": [
+                "ποιηταὶ",
+                "νόμου",
+                "δικαιωθήσονται."
+              ]
+            }
+          },
+          {
+            "greek": "νόμου",
+            "gloss": "de_la_loi"
+          },
+          {
+            "greek": "δίκαιοι",
+            "gloss": "justes"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεῷ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ποιηταὶ",
+            "gloss": "pratiquants/doers",
+            "annotation": {
+              "type": "traduction",
+              "title": "Ceux qui font — ποιηταί",
+              "content": "Ποιητής désigne ici celui qui fait ou met en pratique. La même famille verbale apparaît en Matthieu dans « je vous ferai » : le Christ agit et le disciple répond par une vie mise en mouvement.",
+              "related": [
+                "ποιήσω",
+                "ποιῶσιν,",
+                "ἀκροαταὶ"
+              ]
+            }
+          },
+          {
+            "greek": "νόμου",
+            "gloss": "de_la_loi"
+          },
+          {
+            "greek": "δικαιωθήσονται.",
+            "gloss": "seront_justifiés"
+          }
         ]
       },
       {
@@ -275,25 +1075,92 @@
           "darby": "car quand les nations qui n'ont pas de loi, font naturellement les choses de la loi, n'ayant pas de loi, elles sont loi pour elles-mêmes ;"
         },
         "interlinear": [
-          { "greek": "ὅταν", "gloss": "Quand" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἔθνη", "gloss": "les_nations/païens" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "νόμον", "gloss": "loi" },
-          { "greek": "ἔχοντα", "gloss": "ayant" },
-          { "greek": "φύσει", "gloss": "par_nature" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "νόμου", "gloss": "loi" },
-          { "greek": "ποιῶσιν,", "gloss": "font" },
-          { "greek": "οὗτοι", "gloss": "ceux-ci" },
-          { "greek": "νόμον", "gloss": "une_loi" },
-          { "greek": "μὴ", "gloss": "n'ayant_pas" },
-          { "greek": "ἔχοντες", "gloss": "ayant" },
-          { "greek": "ἑαυτοῖς", "gloss": "pour_eux-mêmes" },
-          { "greek": "εἰσὶν", "gloss": "sont" },
-          { "greek": "νόμος·", "gloss": "une_loi" }
+          {
+            "greek": "ὅταν",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἔθνη",
+            "gloss": "les_nations/païens"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "νόμον",
+            "gloss": "loi"
+          },
+          {
+            "greek": "ἔχοντα",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "φύσει",
+            "gloss": "par_nature",
+            "annotation": {
+              "type": "traduction",
+              "title": "Par nature — φύσει",
+              "content": "Le datif φύσει est rendu par « par nature ». Paul constate que des nations sans la Loi peuvent en accomplir le contenu ; il ne déclare pas pour autant toute impulsion naturelle ou toute opinion intérieure infaillible.",
+              "related": [
+                "ἔθνη",
+                "νόμον",
+                "ποιῶσιν,"
+              ]
+            }
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "νόμου",
+            "gloss": "loi"
+          },
+          {
+            "greek": "ποιῶσιν,",
+            "gloss": "font"
+          },
+          {
+            "greek": "οὗτοι",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "νόμον",
+            "gloss": "une_loi"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "n'ayant_pas"
+          },
+          {
+            "greek": "ἔχοντες",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "ἑαυτοῖς",
+            "gloss": "pour_eux-mêmes"
+          },
+          {
+            "greek": "εἰσὶν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "νόμος·",
+            "gloss": "une_loi"
+          }
         ]
       },
       {
@@ -303,30 +1170,152 @@
           "darby": "lesquelles montrent l'œuvre de la loi écrite dans leurs cœurs, leur conscience rendant témoignage, et leurs pensées s'accusant, ou aussi se défendant, entre elles,"
         },
         "interlinear": [
-          { "greek": "οἵτινες", "gloss": "lesquels" },
-          { "greek": "ἐνδείκνυνται", "gloss": "montrent" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "ἔργον", "gloss": "œuvre" },
-          { "greek": "τοῦ", "gloss": "de_la" },
-          { "greek": "νόμου", "gloss": "loi" },
-          { "greek": "γραπτὸν", "gloss": "écrit" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "καρδίαις", "gloss": "cœurs" },
-          { "greek": "αὐτῶν,", "gloss": "d'eux" },
-          { "greek": "συμμαρτυρούσης", "gloss": "rendant_témoignage_avec", "analyse": "Le *syn-martyreō* (témoigner avec). La conscience n'est pas un juge extérieur, c'est l'Énergie incréée qui résonne en profondeur. Elle est le 'creux' intérieur où le Sujet rencontre la Vérité sans médiation mondaine." },
-          { "greek": "αὐτῶν", "gloss": "d'eux" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "συνειδήσεως", "gloss": "conscience" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μεταξὺ", "gloss": "entre" },
-          { "greek": "ἀλλήλων", "gloss": "elles" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "λογισμῶν", "gloss": "pensées" },
-          { "greek": "κατηγορούντων", "gloss": "accusant" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἀπολογουμένων,", "gloss": "défendant" }
+          {
+            "greek": "οἵτινες",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "ἐνδείκνυνται",
+            "gloss": "montrent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ils montrent l’œuvre de la Loi",
+              "content": "Le verbe signifie montrer, manifester ou donner une preuve. Ce qui est manifesté n’est pas la possession extérieure de la Loi, mais son œuvre écrite dans les cœurs.",
+              "related": [
+                "ἔργον",
+                "γραπτὸν",
+                "καρδίαις"
+              ]
+            }
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἔργον",
+            "gloss": "œuvre"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "νόμου",
+            "gloss": "loi"
+          },
+          {
+            "greek": "γραπτὸν",
+            "gloss": "écrit",
+            "annotation": {
+              "type": "theologie",
+              "title": "Écrite dans les cœurs",
+              "content": "L’œuvre de la Loi est dite « écrite » dans les cœurs. L’image articule intériorité et action : ce qui est au cœur se manifeste dans ce que les nations accomplissent.",
+              "related": [
+                "ἔργον",
+                "καρδίαις",
+                "ποιῶσιν,"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρδίαις",
+            "gloss": "cœurs"
+          },
+          {
+            "greek": "αὐτῶν,",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "συμμαρτυρούσης",
+            "gloss": "rendant_témoignage_avec",
+            "annotation": {
+              "type": "racine",
+              "title": "Rendre témoignage avec",
+              "content": "Συμμαρτυρέω associe σύν, « avec », et μαρτυρέω, « témoigner ». La conscience rend un témoignage conjoint tandis que les raisonnements s’accusent ou se défendent ; elle n’est pas décrite ici comme une voix isolée et automatiquement infaillible.",
+              "related": [
+                "συνειδήσεως",
+                "λογισμῶν",
+                "κατηγορούντων",
+                "ἀπολογουμένων,"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "συνειδήσεως",
+            "gloss": "conscience",
+            "annotation": {
+              "type": "racine",
+              "title": "La conscience — συνείδησις",
+              "content": "Συνείδησις désigne la conscience ou la connaissance intérieure de soi et de ses actes. Sa formation avec σύν et οἶδα peut éclairer l’idée de savoir avec soi-même ; le contexte insiste surtout sur son témoignage au milieu de pensées contradictoires.",
+              "related": [
+                "συμμαρτυρούσης",
+                "λογισμῶν"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μεταξὺ",
+            "gloss": "entre"
+          },
+          {
+            "greek": "ἀλλήλων",
+            "gloss": "elles"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "λογισμῶν",
+            "gloss": "pensées",
+            "annotation": {
+              "type": "analyse",
+              "title": "Des pensées qui accusent ou défendent",
+              "content": "Les λογισμοί sont ici des raisonnements ou pensées qui s’accusent ou se défendent mutuellement. La scène intérieure n’est donc pas simplifiée : elle appelle un discernement sous le regard de Dieu.",
+              "related": [
+                "κατηγορούντων",
+                "ἀπολογουμένων,",
+                "συνειδήσεως"
+              ]
+            }
+          },
+          {
+            "greek": "κατηγορούντων",
+            "gloss": "accusant"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἀπολογουμένων,",
+            "gloss": "défendant"
+          }
         ]
       },
       {
@@ -336,26 +1325,189 @@
           "darby": "au jour où Dieu jugera les choses secrètes des hommes, selon mon évangile, par Jésus Christ."
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "au" },
-          { "greek": "ἡμέρᾳ", "gloss": "jour" },
-          { "greek": "ᾗ", "gloss": "où" },
-          { "greek": "κρινεῖ", "gloss": "jugera" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "τὰ", "gloss": "les_choses" },
-          { "greek": "κρυπτὰ", "gloss": "cachées/secrètes" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἀνθρώπων", "gloss": "hommes" },
-          { "greek": "κατὰ", "gloss": "selon" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "εὐαγγέλιόν", "gloss": "évangile" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "Χριστοῦ", "gloss": "Christ" },
-          { "greek": "Ἰησοῦ.", "gloss": "Jésus" }
+          {
+            "greek": "ἐν",
+            "gloss": "au"
+          },
+          {
+            "greek": "ἡμέρᾳ",
+            "gloss": "jour"
+          },
+          {
+            "greek": "ᾗ",
+            "gloss": "où"
+          },
+          {
+            "greek": "κρινεῖ",
+            "gloss": "jugera"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "κρυπτὰ",
+            "gloss": "cachées/secrètes",
+            "annotation": {
+              "type": "racine",
+              "title": "Les choses cachées",
+              "content": "Κρυπτός signifie caché ou secret. Dieu jugera par Jésus-Christ ce qui échappe au regard humain ; le mot ne signifie pas que l’intériorité serait par elle-même pure ou supérieure à toute réalité visible.",
+              "related": [
+                "κρινεῖ",
+                "ἀνθρώπων",
+                "Χριστοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀνθρώπων",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon",
+            "annotation": {
+              "type": "traduction",
+              "title": "Selon mon Évangile",
+              "content": "Κατά suivi de l’accusatif signifie ici « selon ». Le préfixe-préposition ne décrit pas une descente spirituelle dans ce verset : il rattache le jugement annoncé à l’Évangile proclamé par Paul.",
+              "related": [
+                "εὐαγγέλιόν",
+                "μου",
+                "Χριστοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "εὐαγγέλιόν",
+            "gloss": "évangile",
+            "annotation": {
+              "type": "repetition",
+              "title": "L’Évangile et le jugement",
+              "content": "Le même nom apparaît dans l’Évangile de Matthieu et dans l’Apôtre. La Bonne Nouvelle du Royaume, annoncée et accompagnée de guérisons, est aussi la référence selon laquelle les choses cachées seront jugées par Jésus-Christ.",
+              "related": [
+                "εὐαγγέλιον",
+                "κατὰ",
+                "Χριστοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦ.",
+            "gloss": "Jésus"
+          }
         ]
       }
     ],
-   "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 11 - προσωπολημψία : Traduit classiquement par 'acception de personnes' ou 'favoritisme' (Segond, Darby). Ce terme juridique affadit la puissance du grec. Le mot se compose de *prosopon* (le visage, mais surtout le masque de l'acteur au théâtre de l'Antiquité) et de *lambano* (prendre, recevoir). Dieu 'ne prend pas le masque'. Le jugement divin ne s'arrête pas au rôle social, à l'apparence ou à l'étiquette religieuse (Juif ou Grec). Il pulvérise la *persona* mondaine (l'Avoir) pour atteindre l'Être réel.\n\n• Verset 15 - συμμαρτυρούσης αὐτῶν τῆς συνειδήσεως : 'Leur conscience en rendant témoignage'. Le mot central est *syneidēsis*. Traduit par 'conscience', il est souvent réduit aujourd'hui à une simple boussole morale psychologique ou à un sentiment de culpabilité. Or, étymologiquement (*syn* : avec, et *eido* : voir/savoir), c'est une 'co-naissance' ou une 'co-vision'. Ce n'est pas l'Ego qui s'auto-évalue de manière autonome, c'est l'organe spirituel intérieur (le 'creux') qui perçoit la vérité en communion avec l'Incréé.\n\n• Verset 16 - τὰ κρυπτὰ τῶν ἀνθρώπων : 'Les actions secrètes des hommes'. La racine *krypto* (cacher, enfouir, qui a donné 'crypte') désigne les profondeurs ontologiques inaccessibles au regard du 'Monde duel'. Le jugement n'est pas un tribunal qui pèse des actes extérieurs et mesurables, c'est le moment christique où la Lumière envahit les cryptes du cœur. Le dévoilement de ces *krypta* montrera si ces profondeurs étaient saturées par l'Ego ou vidées pour accueillir l'Amour.\n\nAnalyse spirituelle :\n\nDans le sillage de la Pentecôte, le texte aux Romains opère une déconstruction radicale de l'Ego religieux 'en plein'. Paul s'adresse ici à ceux qui, comme les Pharisiens du dimanche précédent, pensent que la possession intellectuelle de la Loi (le savoir 'en plein' de l'Arbre de la Connaissance) suffit pour être justifié devant Dieu. Il leur oppose la vérité du Sujet.\n\n1. La fin des masques sociaux (Prosopolēmpsia) :\nPaul affirme qu'il n'y a aucune acception de personnes auprès de Dieu. L'étymologie de *prosōpolēmpsia* (prendre le masque) est ici centrale : Dieu ne juge pas le masque social ou le rôle que l'homme joue dans le théâtre du Monde duel. Il regarde le Sujet dans la nudité de son être intérieur, là où la Loi ne s'ajoute pas de l'extérieur, mais est écrite dans le cœur.\n\n2. L'intériorité comme Arbre de Vie :\nLe Royaume UN est cette Loi inscrite 'en creux' dans le cœur. Les nations qui n'ont pas reçu la Loi extérieure la font naturellement, car leur conscience (*syneidēsis* : co-naissance) rend témoignage avec l'Esprit. Le vrai 'pratiquant' de la Loi n'est pas celui qui la récite comme un objet extérieur, mais celui qui, en devenant un Sujet, se laisse conduire par la présence de l'Incréé en lui.\n\n3. Le jugement comme manifestation :\nEnfin, le 'jugement' (v. 16) n'est pas un verdict arbitraire, mais une manifestation. Les choses 'secrètes' (*krypta*), c'est-à-dire tout ce qui était caché dans le creux du cœur, seront portées à la Lumière de la Vie. Être justifié, c'est passer du masque (celui qui écoute sans faire) à la vérité du Sujet (celui qui incarne la Loi par amour). La sainteté de tous les Saints, c'est précisément cela : avoir déposé les masques de l'Ego pour laisser la Parole du Père habiter pleinement leur être."
+    "personal_analysis": "Notes sur le texte grec :\n• Romains 2, 11 — προσωπολημψία : « favoritisme, partialité, acception de personnes ». Le composé associe πρόσωπον, le visage ou la personne, et la famille de λαμβάνω, recevoir ou prendre. La formule biblique évoque le fait de recevoir quelqu’un selon son apparence ou son statut. Réduire πρόσωπον au « masque » et en tirer une opposition entre apparence et être dépasserait le sens du verset.\n• Romains 2, 13 — ἀκροαταί / ποιηταί : « auditeurs / pratiquants ». L’opposition est rhétorique : connaître ou entendre la Loi ne dispense pas de l’accomplir. Paul ne condamne pas l’écoute ; il refuse une écoute qui ne porte aucun fruit.\n• Romains 2, 14 — φύσει : « par nature ». Paul constate que des nations qui ne possèdent pas la Loi peuvent en accomplir les prescriptions. Le verset ouvre une réflexion sur l’universalité morale, mais il ne dit pas que tout mouvement spontané de la conscience est infaillible.\n• Romains 2, 15 — συμμαρτυρούσης τῆς συνειδήσεως : « leur conscience rendant témoignage avec ». Συνείδησις désigne la conscience ou connaissance intérieure, et συμμαρτυρέω le fait de témoigner conjointement. Paul la montre en dialogue avec les raisonnements qui accusent ou défendent ; il ne l’identifie pas directement à Dieu ou à une énergie incréée.\n• Romains 2, 16 — τὰ κρυπτά : « les choses cachées ». Le jugement par Jésus-Christ atteint ce qui échappe au regard humain. Le texte parle d’un dévoilement selon l’Évangile, pas d’une opposition entre un monde extérieur irréel et une intériorité seule authentique.\n\nAnalyse spirituelle :\nPaul affirme d’abord une égale responsabilité et une égale ouverture au bien : gloire, honneur et paix sont promis à tout homme qui accomplit le bien, Juif d’abord puis Grec, car Dieu ne fait pas de favoritisme. Les appartenances ne sont pas supprimées, mais aucune ne devient un privilège permettant d’échapper à la vérité de la vie.\n\nLe contraste entre auditeurs et pratiquants rejoint directement l’appel des pêcheurs. Entendre « Venez à ma suite » ne suffit pas si rien ne se met en mouvement. Inversement, l’action chrétienne n’est pas une agitation indépendante de la parole : elle répond à un appel et reçoit de lui sa direction.\n\nPaul reconnaît ensuite chez les nations l’œuvre de la Loi écrite dans les cœurs. Cette affirmation invite à discerner la présence d’une exigence morale au-delà des frontières visibles du peuple détenteur de la Loi. Elle n’autorise ni à déclarer toute conscience infaillible, ni à mépriser la Loi reçue. La conscience rend témoignage au milieu de pensées qui s’accusent et se défendent : elle demande formation, vérité et discernement.\n\nLe jugement des choses cachées rappelle enfin que Dieu ne s’arrête pas aux statuts religieux ou sociaux. Mais le juge nommé par Paul est Jésus-Christ et la mesure est « mon Évangile ». Le dévoilement n’est donc pas séparé de la Bonne Nouvelle : Celui qui appelle, enseigne, proclame et guérit est aussi Celui devant qui la vérité secrète de chacun sera manifestée.",
+    "homiletic_axes": [
+      {
+        "title": "Dieu ne fait pas de favoritisme",
+        "content": "Juif et Grec ne sont pas confondus, mais aucun statut ne dispense de la vérité du bien accompli. Le jugement de Dieu ne se règle pas sur le prestige, l’étiquette ou l’appartenance revendiquée.",
+        "keywords": [
+          "παντὶ",
+          "Ἰουδαίῳ",
+          "Ἕλληνι·",
+          "προσωπολημψία"
+        ]
+      },
+      {
+        "title": "De l’auditeur au pratiquant",
+        "content": "L’écoute est nécessaire mais elle cherche son accomplissement dans l’action. Cet axe rejoint les disciples qui entendent l’appel de Jésus et se mettent à sa suite.",
+        "keywords": [
+          "ἀκροαταὶ",
+          "ποιηταὶ",
+          "ποιῶσιν,",
+          "δικαιωθήσονται."
+        ]
+      },
+      {
+        "title": "L’œuvre de la Loi écrite dans les cœurs",
+        "content": "Paul reconnaît une œuvre de la Loi manifestée chez ceux qui ne la possèdent pas sous sa forme reçue. L’intériorité n’abolit pas le discernement : la conscience témoigne parmi des pensées contradictoires.",
+        "keywords": [
+          "ἔργον",
+          "γραπτὸν",
+          "καρδίαις",
+          "συμμαρτυρούσης",
+          "συνειδήσεως"
+        ]
+      },
+      {
+        "title": "Les choses cachées jugées selon l’Évangile",
+        "content": "Le regard de Dieu atteint ce que les appartenances et les apparences ne révèlent pas. Paul rattache explicitement ce jugement à son Évangile et à Jésus-Christ.",
+        "keywords": [
+          "κρυπτὰ",
+          "κατὰ",
+          "εὐαγγέλιόν",
+          "Χριστοῦ"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre fil : tout homme, absence de favoritisme, auditeur et pratiquant, Loi écrite, cœur, conscience, pensées, choses cachées ou jugement par Jésus-Christ."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l’Apôtre",
+        "prompt": "Suivez une progression : de l’impartialité de Dieu à la responsabilité de chacun ; de la Loi entendue à l’œuvre accomplie ; ou du cœur caché à son dévoilement selon l’Évangile."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Annoncez le don central : Dieu ne juge pas selon le prestige des appartenances, reconnaît le bien au-delà des frontières visibles et confie le jugement à Jésus-Christ selon l’Évangile."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une situation : religion réduite au savoir, préférence donnée aux apparences, bien rencontré hors de son groupe, conscience partagée, pensées qui accusent ou défendent, ou peur que le caché soit dévoilé."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Proposez un passage concret : transformer une parole entendue en acte, renoncer à un favoritisme identifiable, écouter sa conscience avec discernement, reconnaître le bien chez l’autre ou remettre son secret au Christ."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Évitez d’opposer sommairement Juifs et nations, Loi et conscience, extérieur et intérieur. Faites converger la responsabilité universelle, l’action concrète et l’Évangile de Jésus-Christ."
+      }
+    ],
+    "liturgical_echoes": []
   }
-  }
+}
