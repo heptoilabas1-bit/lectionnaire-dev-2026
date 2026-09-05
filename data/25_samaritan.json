@@ -10,25 +10,82 @@
           "darby": "Il vient donc à une ville de la Samarie, nommée Sichar, près du champ que Jacob donna à son fils Joseph."
         },
         "interlinear": [
-          { "greek": "ἔρχεται", "gloss": "Il_vient" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "πόλιν", "gloss": "une_ville" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "Σαμαρείας", "gloss": "Samarie" },
-          { "greek": "λεγομένην", "gloss": "appelée" },
-          { "greek": "Συχὰρ", "gloss": "Sychar" },
-          { "greek": "πλησίον", "gloss": "près_de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "χωρίου", "gloss": "champ" },
-          { "greek": "ὃ", "gloss": "que" },
-          { "greek": "ἔδωκεν", "gloss": "donna" },
-          { "greek": "Ἰακὼβ", "gloss": "Jacob" },
-          { "greek": "τῷ", "gloss": "à" },
-          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "υἱῷ", "gloss": "fils" },
-          { "greek": "αὐτοῦ·", "gloss": "de_lui" }
+          {
+            "greek": "ἔρχεται",
+            "gloss": "Il_vient"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "πόλιν",
+            "gloss": "une_ville"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "Σαμαρείας",
+            "gloss": "Samarie"
+          },
+          {
+            "greek": "λεγομένην",
+            "gloss": "appelée"
+          },
+          {
+            "greek": "Συχὰρ",
+            "gloss": "Sychar"
+          },
+          {
+            "greek": "πλησίον",
+            "gloss": "près_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "χωρίου",
+            "gloss": "champ"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "donna"
+          },
+          {
+            "greek": "Ἰακὼβ",
+            "gloss": "Jacob"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἰωσὴφ",
+            "gloss": "Joseph"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱῷ",
+            "gloss": "fils"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -38,28 +95,103 @@
           "darby": "Or la fontaine de Jacob était là. Jésus donc, fatigué du chemin, se tenait là, assis sur la fontaine : il était environ la sixième heure."
         },
         "interlinear": [
-          { "greek": "ἦν", "gloss": "Il_y_avait" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "πηγὴ", "gloss": "source/puits" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "Ἰακώβ.", "gloss": "Jacob" },
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "κεκοπιακὼς", "gloss": "étant_fatigué", "analyse": "Le participe parfait souligne l'épuisement réel. C'est la kénose de l'Incarnation : le Verbe, par qui le monde a été fait, assume pleinement la limite, la fatigue et la soif du Monde duel pour pouvoir rejoindre l'homme au fond de sa misère conditionnée." },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "ὁδοιπορίας", "gloss": "marche/voyage" },
-          { "greek": "ἐκαθέζετο", "gloss": "était_assis" },
-          { "greek": "οὕτως", "gloss": "ainsi" },
-          { "greek": "ἐπὶ", "gloss": "sur/près_de" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "πηγῇ·", "gloss": "source" },
-          { "greek": "ὥρα", "gloss": "heure" },
-          { "greek": "ἦν", "gloss": "c'était" },
-          { "greek": "ὡς", "gloss": "environ" },
-          { "greek": "ἕκτη.", "gloss": "sixième" }
+          {
+            "greek": "ἦν",
+            "gloss": "Il_y_avait"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "πηγὴ",
+            "gloss": "source/puits"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἰακώβ.",
+            "gloss": "Jacob"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "κεκοπιακὼς",
+            "gloss": "étant_fatigué",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le participe parfait souligne l'épuisement réel. C'est la kénose de l'Incarnation : le Verbe, par qui le monde a été fait, assume pleinement la limite, la fatigue et la soif du Monde duel pour pouvoir rejoindre l'homme au fond de sa misère conditionnée.",
+              "related": [
+                "Ἰησοῦς",
+                "ἐκ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὁδοιπορίας",
+            "gloss": "marche/voyage"
+          },
+          {
+            "greek": "ἐκαθέζετο",
+            "gloss": "était_assis"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur/près_de"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πηγῇ·",
+            "gloss": "source"
+          },
+          {
+            "greek": "ὥρα",
+            "gloss": "heure"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "c'était"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "environ"
+          },
+          {
+            "greek": "ἕκτη.",
+            "gloss": "sixième"
+          }
         ]
       },
       {
@@ -69,20 +201,62 @@
           "darby": "Une femme de la Samarie vient pour puiser de l'eau. Jésus lui dit : Donne-moi à boire"
         },
         "interlinear": [
-          { "greek": "ἔρχεται", "gloss": "Vient" },
-          { "greek": "γυνὴ", "gloss": "une_femme" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "Σαμαρείας", "gloss": "Samarie" },
-          { "greek": "ἀντλῆσαι", "gloss": "pour_puiser" },
-          { "greek": "ὕδωρ.", "gloss": "de_l'eau" },
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "αὐτῇ", "gloss": "à_elle" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Δός", "gloss": "Donne" },
-          { "greek": "μοι", "gloss": "moi" },
-          { "greek": "πεῖν·", "gloss": "à_boire" }
+          {
+            "greek": "ἔρχεται",
+            "gloss": "Vient"
+          },
+          {
+            "greek": "γυνὴ",
+            "gloss": "une_femme"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "Σαμαρείας",
+            "gloss": "Samarie"
+          },
+          {
+            "greek": "ἀντλῆσαι",
+            "gloss": "pour_puiser"
+          },
+          {
+            "greek": "ὕδωρ.",
+            "gloss": "de_l'eau"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῇ",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Δός",
+            "gloss": "Donne"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "moi"
+          },
+          {
+            "greek": "πεῖν·",
+            "gloss": "à_boire"
+          }
         ]
       },
       {
@@ -92,17 +266,50 @@
           "darby": "(car ses disciples s'en étaient allés à la ville pour acheter des vivres)."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Les" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἀπεληλύθεισαν", "gloss": "étaient_allés" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "πόλιν,", "gloss": "ville" },
-          { "greek": "ἵνα", "gloss": "afin_de" },
-          { "greek": "τροφὰς", "gloss": "des_vivres" },
-          { "greek": "ἀγοράσωσιν.", "gloss": "acheter" }
+          {
+            "greek": "οἱ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἀπεληλύθεισαν",
+            "gloss": "étaient_allés"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πόλιν,",
+            "gloss": "ville"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_de"
+          },
+          {
+            "greek": "τροφὰς",
+            "gloss": "des_vivres"
+          },
+          {
+            "greek": "ἀγοράσωσιν.",
+            "gloss": "acheter"
+          }
         ]
       },
       {
@@ -112,29 +319,107 @@
           "darby": "La femme samaritaine lui dit donc : Comment toi qui es Juif, me demandes-tu à boire à moi qui suis une femme samaritaine ? -Car les Juifs n'ont pas de relations avec les Samaritains."
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "γυνὴ", "gloss": "femme" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "Σαμαρεῖτις·", "gloss": "Samaritaine" },
-          { "greek": "Πῶς", "gloss": "Comment" },
-          { "greek": "σὺ", "gloss": "toi" },
-          { "greek": "Ἰουδαῖος", "gloss": "Juif" },
-          { "greek": "ὢν", "gloss": "étant" },
-          { "greek": "παρ’", "gloss": "à" },
-          { "greek": "ἐμοῦ", "gloss": "moi" },
-          { "greek": "πεῖν", "gloss": "à_boire" },
-          { "greek": "αἰτεῖς", "gloss": "tu_demandes" },
-          { "greek": "γυναικὸς", "gloss": "femme" },
-          { "greek": "Σαμαρείτιδος", "gloss": "samaritaine" },
-          { "greek": "οὔσης;", "gloss": "étant", "analyse": "Le Monde duel par excellence. L'Ego objectifie l'autre à travers des filtres identitaires clos : homme/femme, Juif/Samaritain. La femme ne voit pas un Sujet face à elle, mais une catégorie ennemie. Le Christ, en demandant à boire (kénose de la dépendance), crée une faille dans cette clôture idéologique." },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "συγχρῶνται", "gloss": "ont_des_relations/partagent" },
-          { "greek": "Ἰουδαῖοι", "gloss": "Juifs" },
-          { "greek": "Σαμαρείταις.", "gloss": "Samaritains" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυνὴ",
+            "gloss": "femme"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "Σαμαρεῖτις·",
+            "gloss": "Samaritaine"
+          },
+          {
+            "greek": "Πῶς",
+            "gloss": "Comment"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "Ἰουδαῖος",
+            "gloss": "Juif"
+          },
+          {
+            "greek": "ὢν",
+            "gloss": "étant"
+          },
+          {
+            "greek": "παρ’",
+            "gloss": "à"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "πεῖν",
+            "gloss": "à_boire"
+          },
+          {
+            "greek": "αἰτεῖς",
+            "gloss": "tu_demandes"
+          },
+          {
+            "greek": "γυναικὸς",
+            "gloss": "femme"
+          },
+          {
+            "greek": "Σαμαρείτιδος",
+            "gloss": "samaritaine"
+          },
+          {
+            "greek": "οὔσης;",
+            "gloss": "étant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le Monde duel par excellence. L'Ego objectifie l'autre à travers des filtres identitaires clos : homme/femme, Juif/Samaritain. La femme ne voit pas un Sujet face à elle, mais une catégorie ennemie. Le Christ, en demandant à boire (kénose de la dépendance), crée une faille dans cette clôture idéologique.",
+              "related": [
+                "Σαμαρείτιδος",
+                "οὐ"
+              ]
+            }
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "συγχρῶνται",
+            "gloss": "ont_des_relations/partagent"
+          },
+          {
+            "greek": "Ἰουδαῖοι",
+            "gloss": "Juifs"
+          },
+          {
+            "greek": "Σαμαρείταις.",
+            "gloss": "Samaritains"
+          }
         ]
       },
       {
@@ -144,36 +429,144 @@
           "darby": "Jésus répondit et lui dit : Si tu connaissais le don de Dieu, et qui est celui qui te dit : Donne-moi à boire, toi, tu lui eusses demandé, et il t'eût donné de l'eau vive."
         },
         "interlinear": [
-          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῇ·", "gloss": "à_elle" },
-          { "greek": "Εἰ", "gloss": "Si" },
-          { "greek": "ᾔδεις", "gloss": "tu_connaissais/savais" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "δωρεὰν", "gloss": "don", "analyse": "Souvent traduit par 'don' ou 'cadeau'. Dans le contexte du Royaume UN, il s'agit de la gratuité absolue. Le Monde duel, lui, fonctionne par échange, marchandage et 'prix' (comme les 300 deniers du parfum). La 'dōrean' divine est l'irruption de la grâce qui ne se mérite pas, mais qui s'accueille." },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τίς", "gloss": "qui" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "λέγων", "gloss": "disant" },
-          { "greek": "σοι·", "gloss": "à_toi" },
-          { "greek": "Δός", "gloss": "Donne" },
-          { "greek": "μοι", "gloss": "moi" },
-          { "greek": "πεῖν,", "gloss": "à_boire" },
-          { "greek": "σὺ", "gloss": "toi" },
-          { "greek": "ἂν", "gloss": "tu_aurais" },
-          { "greek": "ᾔτησας", "gloss": "demandé" },
-          { "greek": "αὐτὸν", "gloss": "à_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔδωκεν", "gloss": "il_aurait_donné" },
-          { "greek": "ἄν", "gloss": "(conditionnel)" },
-          { "greek": "σοι", "gloss": "à_toi" },
-          { "greek": "ὕδωρ", "gloss": "de_l'eau", "analyse": "Le mot « eau » traverse le dialogue et change progressivement de portée : eau du puits, eau demandée, don de Dieu, eau vive, puis source jaillissante. Cette répétition accompagne le déplacement de la femme d'une compréhension matérielle vers une réception spirituelle." },
-          { "greek": "ζῶν.", "gloss": "vivante" }
+          {
+            "greek": "ἀπεκρίθη",
+            "gloss": "Répondit"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῇ·",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "Εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "ᾔδεις",
+            "gloss": "tu_connaissais/savais"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "δωρεὰν",
+            "gloss": "don",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Souvent traduit par 'don' ou 'cadeau'. Dans le contexte du Royaume UN, il s'agit de la gratuité absolue. Le Monde duel, lui, fonctionne par échange, marchandage et 'prix' (comme les 300 deniers du parfum). La 'dōrean' divine est l'irruption de la grâce qui ne se mérite pas, mais qui s'accueille.",
+              "related": [
+                "τὴν",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τίς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "λέγων",
+            "gloss": "disant"
+          },
+          {
+            "greek": "σοι·",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "Δός",
+            "gloss": "Donne"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "moi"
+          },
+          {
+            "greek": "πεῖν,",
+            "gloss": "à_boire"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "tu_aurais"
+          },
+          {
+            "greek": "ᾔτησας",
+            "gloss": "demandé"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "il_aurait_donné"
+          },
+          {
+            "greek": "ἄν",
+            "gloss": "(conditionnel)"
+          },
+          {
+            "greek": "σοι",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ὕδωρ",
+            "gloss": "de_l'eau",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot « eau » traverse le dialogue et change progressivement de portée : eau du puits, eau demandée, don de Dieu, eau vive, puis source jaillissante. Cette répétition accompagne le déplacement de la femme d'une compréhension matérielle vers une réception spirituelle.",
+              "related": [
+                "σοι",
+                "ζῶν."
+              ]
+            }
+          },
+          {
+            "greek": "ζῶν.",
+            "gloss": "vivante"
+          }
         ]
       },
       {
@@ -183,26 +576,95 @@
           "darby": "La femme lui dit : Seigneur, tu n'as rien pour puiser, et le puits est profond ; d'où as-tu donc l'eau vive ?"
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "γυνή·", "gloss": "femme" },
-          { "greek": "Κύριε,", "gloss": "Seigneur" },
-          { "greek": "οὔτε", "gloss": "Ni" },
-          { "greek": "ἄντλημα", "gloss": "seau" },
-          { "greek": "ἔχεις", "gloss": "tu_as" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "φρέαρ", "gloss": "puits" },
-          { "greek": "ἐστὶν", "gloss": "est" },
-          { "greek": "βαθύ·", "gloss": "profond", "analyse": "Le puits profond sans seau est la métaphore de l'homme déchu, défini par son manque ('Je n'ai pas', comme le paralytique). La femme ne comprend la vie qu'à travers la nécessité de l'outil et de la préhension matérielle. Elle ignore encore que l'Eau vive du Royaume est une grâce qui jaillit sans effort." },
-          { "greek": "πόθεν", "gloss": "d'où" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ἔχεις", "gloss": "tu_as" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "ὕδωρ", "gloss": "eau" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "ζῶν;", "gloss": "vivante" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυνή·",
+            "gloss": "femme"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "οὔτε",
+            "gloss": "Ni"
+          },
+          {
+            "greek": "ἄντλημα",
+            "gloss": "seau"
+          },
+          {
+            "greek": "ἔχεις",
+            "gloss": "tu_as"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "φρέαρ",
+            "gloss": "puits"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est"
+          },
+          {
+            "greek": "βαθύ·",
+            "gloss": "profond",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le puits profond sans seau est la métaphore de l'homme déchu, défini par son manque ('Je n'ai pas', comme le paralytique). La femme ne comprend la vie qu'à travers la nécessité de l'outil et de la préhension matérielle. Elle ignore encore que l'Eau vive du Royaume est une grâce qui jaillit sans effort.",
+              "related": [
+                "ἐστὶν",
+                "πόθεν"
+              ]
+            }
+          },
+          {
+            "greek": "πόθεν",
+            "gloss": "d'où"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἔχεις",
+            "gloss": "tu_as"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὕδωρ",
+            "gloss": "eau"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ζῶν;",
+            "gloss": "vivante"
+          }
         ]
       },
       {
@@ -212,32 +674,110 @@
           "darby": "Es-tu plus grand que notre père Jacob, qui nous a donné le puits, et qui en a bu lui-même, ainsi que ses fils et son bétail ?"
         },
         "interlinear": [
-          { "greek": "μὴ", "gloss": "Ne...pas" },
-          { "greek": "σὺ", "gloss": "toi" },
-          { "greek": "μείζων", "gloss": "plus_grand" },
-          { "greek": "εἶ", "gloss": "tu_es" },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "πατρὸς", "gloss": "père" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "Ἰακώβ,", "gloss": "Jacob" },
-          { "greek": "ὃς", "gloss": "qui" },
-          { "greek": "ἔδωκεν", "gloss": "a_donné" },
-          { "greek": "ἡμῖν", "gloss": "à_nous" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "φρέαρ", "gloss": "puits" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὐτὸς", "gloss": "lui-même" },
-          { "greek": "ἐξ", "gloss": "de" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "ἔπιεν", "gloss": "il_a_bu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "υἱοὶ", "gloss": "fils" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "θρέμματα", "gloss": "troupeaux" },
-          { "greek": "αὐτοῦ;", "gloss": "de_lui" }
+          {
+            "greek": "μὴ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "μείζων",
+            "gloss": "plus_grand"
+          },
+          {
+            "greek": "εἶ",
+            "gloss": "tu_es"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "πατρὸς",
+            "gloss": "père"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "Ἰακώβ,",
+            "gloss": "Jacob"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "a_donné"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "à_nous"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "φρέαρ",
+            "gloss": "puits"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "de"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἔπιεν",
+            "gloss": "il_a_bu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "υἱοὶ",
+            "gloss": "fils"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "θρέμματα",
+            "gloss": "troupeaux"
+          },
+          {
+            "greek": "αὐτοῦ;",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -247,20 +787,71 @@
           "darby": "Jésus répondit et lui dit : Quiconque boit de cette eau-ci aura encore soif ;"
         },
         "interlinear": [
-          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῇ·", "gloss": "à_elle" },
-          { "greek": "Πᾶς", "gloss": "Tout_homme" },
-          { "greek": "ὁ", "gloss": "qui" },
-          { "greek": "πίνων", "gloss": "boit" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τοῦ", "gloss": "l'" },
-          { "greek": "ὕδατος", "gloss": "eau" },
-          { "greek": "τούτου", "gloss": "cette" },
-          { "greek": "διψήσει", "gloss": "aura_soif" },
-          { "greek": "πάλιν·", "gloss": "de_nouveau" }
+          {
+            "greek": "ἀπεκρίθη",
+            "gloss": "Répondit"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῇ·",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "Πᾶς",
+            "gloss": "Tout_homme"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "πίνων",
+            "gloss": "boit"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὕδατος",
+            "gloss": "eau"
+          },
+          {
+            "greek": "τούτου",
+            "gloss": "cette"
+          },
+          {
+            "greek": "διψήσει",
+            "gloss": "aura_soif",
+            "annotation": {
+              "type": "repetition",
+              "title": "La soif qui revient et la source qui demeure",
+              "content": "Jésus part de la soif corporelle et de l’eau du puits pour dévoiler un désir plus profond. Il ne nie pas le besoin sensible : il en fait le seuil d’une relation et d’une source intérieure qui jaillit vers la vie éternelle.",
+              "related": [
+                "ὕδωρ",
+                "δώσω"
+              ]
+            }
+          },
+          {
+            "greek": "πάλιν·",
+            "gloss": "de_nouveau"
+          }
         ]
       },
       {
@@ -270,38 +861,143 @@
           "darby": "mais celui qui boira de l'eau que je lui donnerai, moi, n'aura plus soif à jamais ; mais l'eau que je lui donnerai, sera en lui une fontaine d'eau jaillissant en vie éternelle."
         },
         "interlinear": [
-          { "greek": "ὃς", "gloss": "celui" },
-          { "greek": "δ’", "gloss": "or" },
-          { "greek": "ἂν", "gloss": "qui" },
-          { "greek": "πίῃ", "gloss": "boira" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τοῦ", "gloss": "l'" },
-          { "greek": "ὕδατος", "gloss": "eau" },
-          { "greek": "οὗ", "gloss": "que" },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "δώσω", "gloss": "je_donnerai" },
-          { "greek": "αὐτῷ,", "gloss": "à_lui" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "μὴ", "gloss": "absolument_pas" },
-          { "greek": "διψήσει", "gloss": "il_aura_soif" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "τὸν", "gloss": "l'" },
-          { "greek": "αἰῶνα,", "gloss": "éternité" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "ὕδωρ", "gloss": "eau" },
-          { "greek": "ὃ", "gloss": "que" },
-          { "greek": "δώσω", "gloss": "je_donnerai" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "γενήσεται", "gloss": "deviendra" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "πηγὴ", "gloss": "une_source", "analyse": "Le passage radical. Dans le Monde duel, l'homme est une citerne percée qui doit constamment aller puiser à l'extérieur pour assouvir ses passions (le puits). Dans le Royaume, le Sujet devient lui-même la Source (pege). L'Incréé ne se trouve plus au-dehors : il habite et jaillit de l'intérieur de l'homme unifié." },
-          { "greek": "ὕδατος", "gloss": "d'eau" },
-          { "greek": "ἁλλομένου", "gloss": "jaillissant" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "ζωὴν", "gloss": "la_vie" },
-          { "greek": "αἰώνιον.", "gloss": "éternelle" }
+          {
+            "greek": "ὃς",
+            "gloss": "celui"
+          },
+          {
+            "greek": "δ’",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "qui"
+          },
+          {
+            "greek": "πίῃ",
+            "gloss": "boira"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὕδατος",
+            "gloss": "eau"
+          },
+          {
+            "greek": "οὗ",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "δώσω",
+            "gloss": "je_donnerai"
+          },
+          {
+            "greek": "αὐτῷ,",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "absolument_pas"
+          },
+          {
+            "greek": "διψήσει",
+            "gloss": "il_aura_soif"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "αἰῶνα,",
+            "gloss": "éternité"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὕδωρ",
+            "gloss": "eau"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "que"
+          },
+          {
+            "greek": "δώσω",
+            "gloss": "je_donnerai"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "γενήσεται",
+            "gloss": "deviendra"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "πηγὴ",
+            "gloss": "une_source",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le passage radical. Dans le Monde duel, l'homme est une citerne percée qui doit constamment aller puiser à l'extérieur pour assouvir ses passions (le puits). Dans le Royaume, le Sujet devient lui-même la Source (pege). L'Incréé ne se trouve plus au-dehors : il habite et jaillit de l'intérieur de l'homme unifié.",
+              "related": [
+                "αὐτῷ",
+                "ὕδατος"
+              ]
+            }
+          },
+          {
+            "greek": "ὕδατος",
+            "gloss": "d'eau"
+          },
+          {
+            "greek": "ἁλλομένου",
+            "gloss": "jaillissant"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "la_vie"
+          },
+          {
+            "greek": "αἰώνιον.",
+            "gloss": "éternelle"
+          }
         ]
       },
       {
@@ -311,24 +1007,78 @@
           "darby": "La femme lui dit : Seigneur, donne-moi cette eau, afin que je n'aie pas soif et que je ne vienne pas ici pour puiser."
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "πρὸς", "gloss": "à" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "γυνή·", "gloss": "femme" },
-          { "greek": "Κύριε,", "gloss": "Seigneur" },
-          { "greek": "δός", "gloss": "donne" },
-          { "greek": "μοι", "gloss": "moi" },
-          { "greek": "τοῦτο", "gloss": "cette" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "ὕδωρ,", "gloss": "eau" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "διψῶ", "gloss": "j'aie_soif" },
-          { "greek": "μηδὲ", "gloss": "ni" },
-          { "greek": "διέρχωμαι", "gloss": "je_vienne" },
-          { "greek": "ἐνθάδε", "gloss": "ici" },
-          { "greek": "ἀντλεῖν.", "gloss": "puiser" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "à"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυνή·",
+            "gloss": "femme"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "δός",
+            "gloss": "donne"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "moi"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cette"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὕδωρ,",
+            "gloss": "eau"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "διψῶ",
+            "gloss": "j'aie_soif"
+          },
+          {
+            "greek": "μηδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "διέρχωμαι",
+            "gloss": "je_vienne"
+          },
+          {
+            "greek": "ἐνθάδε",
+            "gloss": "ici"
+          },
+          {
+            "greek": "ἀντλεῖν.",
+            "gloss": "puiser"
+          }
         ]
       },
       {
@@ -338,16 +1088,46 @@
           "darby": "Jésus lui dit : Va, appelle ton mari, et viens ici."
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "αὐτῇ·", "gloss": "à_elle" },
-          { "greek": "Ὕπαγε", "gloss": "Va" },
-          { "greek": "φώνησον", "gloss": "appelle" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἄνδρα", "gloss": "mari" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐλθὲ", "gloss": "viens" },
-          { "greek": "ἐνθάδε.", "gloss": "ici" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῇ·",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "Ὕπαγε",
+            "gloss": "Va"
+          },
+          {
+            "greek": "φώνησον",
+            "gloss": "appelle"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄνδρα",
+            "gloss": "mari"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐλθὲ",
+            "gloss": "viens"
+          },
+          {
+            "greek": "ἐνθάδε.",
+            "gloss": "ici"
+          }
         ]
       },
       {
@@ -357,25 +1137,91 @@
           "darby": "La femme répondit et dit : Je n'ai pas de mari. Jésus lui dit : Tu as bien dit : Je n'ai pas de mari ;"
         },
         "interlinear": [
-          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "γυνὴ", "gloss": "femme" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Οὐκ", "gloss": "Ne...pas" },
-          { "greek": "ἔχω", "gloss": "j'ai", "analyse": "C'est l'aveu central. Comme le paralytique, elle n'est qu'un 'Je n'ai pas'. Privée de centre, elle s'est dispersée dans le Monde duel à travers cinq maris (idoles/passions). En confessant ce vide (sa vérité), l'Ego de la femme cède. Cette honnêteté est la porte d'entrée de la Grâce." },
-          { "greek": "ἄνδρα.", "gloss": "de_mari" },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "αὐτῇ", "gloss": "à_elle" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Καλῶς", "gloss": "Bien/Avec_raison" },
-          { "greek": "εἶπας", "gloss": "tu_as_dit" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ἄνδρα", "gloss": "Mari" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔχω·", "gloss": "j'ai" }
+          {
+            "greek": "ἀπεκρίθη",
+            "gloss": "Répondit"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυνὴ",
+            "gloss": "femme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Οὐκ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "ἔχω",
+            "gloss": "j'ai",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : C'est l'aveu central. Comme le paralytique, elle n'est qu'un 'Je n'ai pas'. Privée de centre, elle s'est dispersée dans le Monde duel à travers cinq maris (idoles/passions). En confessant ce vide (sa vérité), l'Ego de la femme cède. Cette honnêteté est la porte d'entrée de la Grâce.",
+              "related": [
+                "Οὐκ",
+                "ἄνδρα."
+              ]
+            }
+          },
+          {
+            "greek": "ἄνδρα.",
+            "gloss": "de_mari"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῇ",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Καλῶς",
+            "gloss": "Bien/Avec_raison"
+          },
+          {
+            "greek": "εἶπας",
+            "gloss": "tu_as_dit"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Ἄνδρα",
+            "gloss": "Mari"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔχω·",
+            "gloss": "j'ai"
+          }
         ]
       },
       {
@@ -385,21 +1231,66 @@
           "darby": "car tu as eu cinq maris, et celui que tu as maintenant n'est pas ton mari ; en cela tu as dit vrai."
         },
         "interlinear": [
-          { "greek": "πέντε", "gloss": "cinq" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἄνδρας", "gloss": "maris" },
-          { "greek": "ἔσχες,", "gloss": "tu_as_eus" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "ὃν", "gloss": "celui_que" },
-          { "greek": "ἔχεις", "gloss": "tu_as" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἔστιν", "gloss": "est" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἀνήρ·", "gloss": "mari" },
-          { "greek": "τοῦτο", "gloss": "ceci" },
-          { "greek": "ἀληθὲς", "gloss": "vrai" },
-          { "greek": "εἴρηκας.", "gloss": "tu_as_dit" }
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἄνδρας",
+            "gloss": "maris"
+          },
+          {
+            "greek": "ἔσχες,",
+            "gloss": "tu_as_eus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "celui_que"
+          },
+          {
+            "greek": "ἔχεις",
+            "gloss": "tu_as"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἀνήρ·",
+            "gloss": "mari"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ἀληθὲς",
+            "gloss": "vrai"
+          },
+          {
+            "greek": "εἴρηκας.",
+            "gloss": "tu_as_dit"
+          }
         ]
       },
       {
@@ -409,16 +1300,46 @@
           "darby": "La femme lui dit : Seigneur, je vois que tu es un prophète."
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "γυνή·", "gloss": "femme" },
-          { "greek": "Κύριε,", "gloss": "Seigneur" },
-          { "greek": "θεωρῶ", "gloss": "je_vois" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "προφήτης", "gloss": "prophète" },
-          { "greek": "εἶ", "gloss": "tu_es" },
-          { "greek": "σύ.", "gloss": "toi" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυνή·",
+            "gloss": "femme"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "θεωρῶ",
+            "gloss": "je_vois"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "προφήτης",
+            "gloss": "prophète"
+          },
+          {
+            "greek": "εἶ",
+            "gloss": "tu_es"
+          },
+          {
+            "greek": "σύ.",
+            "gloss": "toi"
+          }
         ]
       },
       {
@@ -428,26 +1349,86 @@
           "darby": "Nos pères ont adoré sur cette montagne ; et vous, vous dites qu'à Jérusalem est le lieu où il faut adorer."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Les" },
-          { "greek": "πατέρες", "gloss": "pères" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "ἐν", "gloss": "sur" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "ὄρει", "gloss": "montagne" },
-          { "greek": "τούτῳ", "gloss": "cette" },
-          { "greek": "προσεκύνησαν·", "gloss": "ont_adoré" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "λέγετε", "gloss": "vous_dites" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "ἐν", "gloss": "à" },
-          { "greek": "Ἱεροσολύμοις", "gloss": "Jérusalem" },
-          { "greek": "ἐστὶν", "gloss": "est" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "τόπος", "gloss": "lieu" },
-          { "greek": "ὅπου", "gloss": "où" },
-          { "greek": "προσκυνεῖν", "gloss": "adorer" },
-          { "greek": "δεῖ.", "gloss": "il_faut" }
+          {
+            "greek": "οἱ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "πατέρες",
+            "gloss": "pères"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄρει",
+            "gloss": "montagne"
+          },
+          {
+            "greek": "τούτῳ",
+            "gloss": "cette"
+          },
+          {
+            "greek": "προσεκύνησαν·",
+            "gloss": "ont_adoré"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "λέγετε",
+            "gloss": "vous_dites"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἱεροσολύμοις",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τόπος",
+            "gloss": "lieu"
+          },
+          {
+            "greek": "ὅπου",
+            "gloss": "où"
+          },
+          {
+            "greek": "προσκυνεῖν",
+            "gloss": "adorer"
+          },
+          {
+            "greek": "δεῖ.",
+            "gloss": "il_faut"
+          }
         ]
       },
       {
@@ -457,28 +1438,112 @@
           "darby": "Jésus lui dit : Femme, crois-moi : l'heure vient que vous n'adorerez le Père ni sur cette montagne, ni à Jérusalem."
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "αὐτῇ", "gloss": "à_elle" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Πίστευέ", "gloss": "Crois", "analyse": "L'impératif peut aussi s'entendre comme « fais-moi confiance ». Avant d'expliquer le lieu de l'adoration véritable, Jésus invite la Samaritaine à une relation personnelle. La confiance proposée précède ici la compréhension complète, sans supprimer sa liberté ni ses questions." },
-          { "greek": "μοι,", "gloss": "moi" },
-          { "greek": "γύναι,", "gloss": "femme" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ἔρχεται", "gloss": "vient" },
-          { "greek": "ὥρα", "gloss": "l'heure" },
-          { "greek": "ὅτε", "gloss": "où" },
-          { "greek": "οὔτε", "gloss": "ni" },
-          { "greek": "ἐν", "gloss": "sur" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "ὄρει", "gloss": "montagne" },
-          { "greek": "τούτῳ", "gloss": "cette" },
-          { "greek": "οὔτε", "gloss": "ni" },
-          { "greek": "ἐν", "gloss": "à" },
-          { "greek": "Ἱεροσολύμοις", "gloss": "Jérusalem" },
-          { "greek": "προσκυνήσετε", "gloss": "vous_adorerez", "analyse": "Le Christ pulvérise la géographie de l'Ego religieux. Le Monde duel territorialise Dieu pour s'en approprier le pouvoir (notre montagne vs votre temple). En abolissant ces murs, Jésus libère l'adoration : elle ne dépend plus d'un lieu extérieur, mais de la disposition intérieure du Sujet." },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "πατρί.", "gloss": "Père" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῇ",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Πίστευέ",
+            "gloss": "Crois",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'impératif peut aussi s'entendre comme « fais-moi confiance ». Avant d'expliquer le lieu de l'adoration véritable, Jésus invite la Samaritaine à une relation personnelle. La confiance proposée précède ici la compréhension complète, sans supprimer sa liberté ni ses questions.",
+              "related": [
+                "Ἰησοῦς·",
+                "μοι,"
+              ]
+            }
+          },
+          {
+            "greek": "μοι,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "γύναι,",
+            "gloss": "femme"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἔρχεται",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ὥρα",
+            "gloss": "l'heure"
+          },
+          {
+            "greek": "ὅτε",
+            "gloss": "où"
+          },
+          {
+            "greek": "οὔτε",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄρει",
+            "gloss": "montagne"
+          },
+          {
+            "greek": "τούτῳ",
+            "gloss": "cette"
+          },
+          {
+            "greek": "οὔτε",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἱεροσολύμοις",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "προσκυνήσετε",
+            "gloss": "vous_adorerez",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le Christ pulvérise la géographie de l'Ego religieux. Le Monde duel territorialise Dieu pour s'en approprier le pouvoir (notre montagne vs votre temple). En abolissant ces murs, Jésus libère l'adoration : elle ne dépend plus d'un lieu extérieur, mais de la disposition intérieure du Sujet.",
+              "related": [
+                "Ἱεροσολύμοις",
+                "τῷ"
+              ]
+            }
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατρί.",
+            "gloss": "Père"
+          }
         ]
       },
       {
@@ -488,22 +1553,70 @@
           "darby": "Vous, vous adorez vous ne savez quoi ; nous, nous adorons ce que nous connaissons ; car le salut vient des Juifs."
         },
         "interlinear": [
-          { "greek": "ὑμεῖς", "gloss": "Vous" },
-          { "greek": "προσκυνεῖτε", "gloss": "vous_adorez" },
-          { "greek": "ὃ", "gloss": "ce_que" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "οἴδατε·", "gloss": "vous_savez" },
-          { "greek": "ἡμεῖς", "gloss": "nous" },
-          { "greek": "προσκυνοῦμεν", "gloss": "nous_adorons" },
-          { "greek": "ὃ", "gloss": "ce_que" },
-          { "greek": "οἴδαμεν,", "gloss": "nous_savons" },
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "ἡ", "gloss": "le" },
-          { "greek": "σωτηρία", "gloss": "salut" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "Ἰουδαίων", "gloss": "Juifs" },
-          { "greek": "ἐστίν.", "gloss": "est" }
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "Vous"
+          },
+          {
+            "greek": "προσκυνεῖτε",
+            "gloss": "vous_adorez"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "οἴδατε·",
+            "gloss": "vous_savez"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "προσκυνοῦμεν",
+            "gloss": "nous_adorons"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "οἴδαμεν,",
+            "gloss": "nous_savons"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σωτηρία",
+            "gloss": "salut"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "Ἰουδαίων",
+            "gloss": "Juifs"
+          },
+          {
+            "greek": "ἐστίν.",
+            "gloss": "est"
+          }
         ]
       },
       {
@@ -513,32 +1626,119 @@
           "darby": "Mais l'heure vient, et elle est maintenant, que les vrais adorateurs adoreront le Père en esprit et en vérité ; car aussi le Père en cherche de tels qui l'adorent."
         },
         "interlinear": [
-          { "greek": "ἀλλὰ", "gloss": "Mais" },
-          { "greek": "ἔρχεται", "gloss": "vient" },
-          { "greek": "ὥρα", "gloss": "l'heure" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "ἐστιν,", "gloss": "elle_est" },
-          { "greek": "ὅτε", "gloss": "où" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ἀληθινοὶ", "gloss": "véritables" },
-          { "greek": "προσκυνηταὶ", "gloss": "adorateurs" },
-          { "greek": "προσκυνήσουσιν", "gloss": "adoreront" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "πατρὶ", "gloss": "Père" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "πνεύματι", "gloss": "esprit" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀληθείᾳ·", "gloss": "vérité" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "πατὴρ", "gloss": "Père" },
-          { "greek": "τοιούτους", "gloss": "de_tels" },
-          { "greek": "ζητεῖ", "gloss": "cherche", "analyse": "Le Père « cherche » de tels adorateurs. Le mouvement ne vient donc pas seulement de l'être humain en quête de Dieu : Dieu lui-même prend l'initiative de la rencontre et appelle une réponse libre « en esprit et en vérité »." },
-          { "greek": "τοὺς", "gloss": "ceux_qui" },
-          { "greek": "προσκυνοῦντας", "gloss": "adorent" },
-          { "greek": "αὐτόν.", "gloss": "lui" }
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "Mais"
+          },
+          {
+            "greek": "ἔρχεται",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ὥρα",
+            "gloss": "l'heure"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "ἐστιν,",
+            "gloss": "elle_est"
+          },
+          {
+            "greek": "ὅτε",
+            "gloss": "où"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀληθινοὶ",
+            "gloss": "véritables"
+          },
+          {
+            "greek": "προσκυνηταὶ",
+            "gloss": "adorateurs"
+          },
+          {
+            "greek": "προσκυνήσουσιν",
+            "gloss": "adoreront"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατρὶ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀληθείᾳ·",
+            "gloss": "vérité"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "τοιούτους",
+            "gloss": "de_tels"
+          },
+          {
+            "greek": "ζητεῖ",
+            "gloss": "cherche",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le Père « cherche » de tels adorateurs. Le mouvement ne vient donc pas seulement de l'être humain en quête de Dieu : Dieu lui-même prend l'initiative de la rencontre et appelle une réponse libre « en esprit et en vérité ».",
+              "related": [
+                "τοιούτους",
+                "τοὺς"
+              ]
+            }
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux_qui"
+          },
+          {
+            "greek": "προσκυνοῦντας",
+            "gloss": "adorent"
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -548,19 +1748,58 @@
           "darby": "Dieu est esprit, et il faut que ceux qui l'adorent, l'adorent en esprit et en vérité."
         },
         "interlinear": [
-          { "greek": "πνεῦμα", "gloss": "Esprit" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεός,", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τοὺς", "gloss": "ceux_qui" },
-          { "greek": "προσκυνοῦντας", "gloss": "adorent" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "πνεύματι", "gloss": "esprit" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀληθείᾳ", "gloss": "vérité" },
-          { "greek": "δεῖ", "gloss": "il_faut" },
-          { "greek": "προσκυνεῖν.", "gloss": "adorer" }
+          {
+            "greek": "πνεῦμα",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεός,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux_qui"
+          },
+          {
+            "greek": "προσκυνοῦντας",
+            "gloss": "adorent"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀληθείᾳ",
+            "gloss": "vérité"
+          },
+          {
+            "greek": "δεῖ",
+            "gloss": "il_faut"
+          },
+          {
+            "greek": "προσκυνεῖν.",
+            "gloss": "adorer"
+          }
         ]
       },
       {
@@ -570,23 +1809,74 @@
           "darby": "La femme lui dit : Je sais que le Messie qui est appelé le Christ, vient ; quand celui-là sera venu, il nous fera connaître toutes choses."
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "γυνή·", "gloss": "femme" },
-          { "greek": "Οἶδα", "gloss": "Je_sais" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Μεσσίας", "gloss": "Messie" },
-          { "greek": "ἔρχεται", "gloss": "vient" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "λεγόμενος", "gloss": "appelé" },
-          { "greek": "Χριστός·", "gloss": "Christ" },
-          { "greek": "ὅταν", "gloss": "quand" },
-          { "greek": "ἔλθῃ", "gloss": "viendra" },
-          { "greek": "ἐκεῖνος,", "gloss": "celui-là" },
-          { "greek": "ἀναγγελεῖ", "gloss": "il_annoncera" },
-          { "greek": "ἡμῖν", "gloss": "à_nous" },
-          { "greek": "ἅπαντα.", "gloss": "toutes_choses" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυνή·",
+            "gloss": "femme"
+          },
+          {
+            "greek": "Οἶδα",
+            "gloss": "Je_sais"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Μεσσίας",
+            "gloss": "Messie"
+          },
+          {
+            "greek": "ἔρχεται",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "λεγόμενος",
+            "gloss": "appelé"
+          },
+          {
+            "greek": "Χριστός·",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ὅταν",
+            "gloss": "quand"
+          },
+          {
+            "greek": "ἔλθῃ",
+            "gloss": "viendra"
+          },
+          {
+            "greek": "ἐκεῖνος,",
+            "gloss": "celui-là"
+          },
+          {
+            "greek": "ἀναγγελεῖ",
+            "gloss": "il_annoncera"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "à_nous"
+          },
+          {
+            "greek": "ἅπαντα.",
+            "gloss": "toutes_choses"
+          }
         ]
       },
       {
@@ -596,15 +1886,51 @@
           "darby": "Jésus lui dit : Je le suis, moi qui te parle."
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "αὐτῇ", "gloss": "à_elle" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Ἐγώ", "gloss": "Je", "analyse":"(Egō eimi) La révélation du Nom divin absolu. Alors que la femme est fragmentée par ses identifications successives (ses 5 maris, son appartenance ethnique), le Christ se révèle comme le Sujet unique et immuable. Le 'Je Suis' est l'ancrage ontologique qui met fin à l'errance de l'Ego."},
-          { "greek": "εἰμι,", "gloss": "suis" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "λαλῶν", "gloss": "parlant" },
-          { "greek": "σοι.", "gloss": "à_toi" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῇ",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Ἐγώ",
+            "gloss": "Je",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : (Egō eimi) La révélation du Nom divin absolu. Alors que la femme est fragmentée par ses identifications successives (ses 5 maris, son appartenance ethnique), le Christ se révèle comme le Sujet unique et immuable. Le 'Je Suis' est l'ancrage ontologique qui met fin à l'errance de l'Ego.",
+              "related": [
+                "Ἰησοῦς·",
+                "εἰμι,"
+              ]
+            }
+          },
+          {
+            "greek": "εἰμι,",
+            "gloss": "suis"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "λαλῶν",
+            "gloss": "parlant"
+          },
+          {
+            "greek": "σοι.",
+            "gloss": "à_toi"
+          }
         ]
       },
       {
@@ -614,29 +1940,107 @@
           "darby": "Et sur cela, ses disciples vinrent ; et ils s'étonnèrent de ce qu'il parlait avec une femme ; toutefois nul ne dit : Que cherches-tu ? ou : De quoi parles-tu avec elle ?"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τούτῳ", "gloss": "ceci" },
-          { "greek": "ἦλθαν", "gloss": "vinrent" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐθαύμαζον", "gloss": "s'étonnaient", "analyse": "L'étonnement (thaumazo) des apôtres démontre qu'ils sont encore conditionnés par le Monde duel : un rabbin juif ne parle pas à une femme samaritaine. L'Ego classifie. Le Christ, lui, restaure la communion originelle par-delà le scandale sociétal." },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "γυναικὸς", "gloss": "une_femme" },
-          { "greek": "ἐλάλει·", "gloss": "il_parlait" },
-          { "greek": "οὐδεὶς", "gloss": "aucun" },
-          { "greek": "μέντοι", "gloss": "toutefois" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Τί", "gloss": "Que" },
-          { "greek": "ζητεῖς;", "gloss": "cherches-tu" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "Τί", "gloss": "Que" },
-          { "greek": "λαλεῖς", "gloss": "parles-tu" },
-          { "greek": "μετ’", "gloss": "avec" },
-          { "greek": "αὐτῆς;", "gloss": "elle" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τούτῳ",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ἦλθαν",
+            "gloss": "vinrent"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐθαύμαζον",
+            "gloss": "s'étonnaient",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'étonnement (thaumazo) des apôtres démontre qu'ils sont encore conditionnés par le Monde duel : un rabbin juif ne parle pas à une femme samaritaine. L'Ego classifie. Le Christ, lui, restaure la communion originelle par-delà le scandale sociétal.",
+              "related": [
+                "καὶ",
+                "ὅτι"
+              ]
+            }
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "γυναικὸς",
+            "gloss": "une_femme"
+          },
+          {
+            "greek": "ἐλάλει·",
+            "gloss": "il_parlait"
+          },
+          {
+            "greek": "οὐδεὶς",
+            "gloss": "aucun"
+          },
+          {
+            "greek": "μέντοι",
+            "gloss": "toutefois"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "Que"
+          },
+          {
+            "greek": "ζητεῖς;",
+            "gloss": "cherches-tu"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "Que"
+          },
+          {
+            "greek": "λαλεῖς",
+            "gloss": "parles-tu"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῆς;",
+            "gloss": "elle"
+          }
         ]
       },
       {
@@ -646,22 +2050,88 @@
           "darby": "La femme donc laissa sa cruche, et s'en alla à la ville, et dit aux hommes :"
         },
         "interlinear": [
-          { "greek": "ἀφῆκεν", "gloss": "Laissa" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ὑδρίαν", "gloss": "cruche", "analyse": "C'est l'un des versets les plus puissants. L'hydrie (la cruche) était l'outil de sa survie, son moyen de préhension de l'eau matérielle. En la laissant, la femme abandonne l'attribut de son manque. Elle n'est plus l'« Objet » assoiffé et condamné à puiser ; devenue « Sujet » et porteuse de l'Eau vive, elle devient apôtre." },
-          { "greek": "αὐτῆς", "gloss": "d'elle" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "γυνὴ", "gloss": "femme" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀπῆλθεν", "gloss": "s'en_alla" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "πόλιν", "gloss": "ville" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "ἀνθρώποις·", "gloss": "hommes" }
+          {
+            "greek": "ἀφῆκεν",
+            "gloss": "Laissa",
+            "annotation": {
+              "type": "analyse",
+              "title": "Elle laissa sa cruche",
+              "content": "Le geste visible conclut le dialogue : venue pour puiser, la femme laisse l’instrument de sa tâche et retourne vers la ville. La soif accueillie devient mouvement et témoignage.",
+              "related": [
+                "ὑδρίαν",
+                "πόλιν"
+              ]
+            }
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὑδρίαν",
+            "gloss": "cruche",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : C'est l'un des versets les plus puissants. L'hydrie (la cruche) était l'outil de sa survie, son moyen de préhension de l'eau matérielle. En la laissant, la femme abandonne l'attribut de son manque. Elle n'est plus l'« Objet » assoiffé et condamné à puiser ; devenue « Sujet » et porteuse de l'Eau vive, elle devient apôtre.",
+              "related": [
+                "τὴν",
+                "αὐτῆς"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῆς",
+            "gloss": "d'elle"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυνὴ",
+            "gloss": "femme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπῆλθεν",
+            "gloss": "s'en_alla"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πόλιν",
+            "gloss": "ville"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἀνθρώποις·",
+            "gloss": "hommes"
+          }
         ]
       },
       {
@@ -671,20 +2141,62 @@
           "darby": "Venez, voyez un homme qui m'a dit tout ce que j'ai fait ; celui-ci n'est-il point le Christ ?"
         },
         "interlinear": [
-          { "greek": "Δεῦτε", "gloss": "Venez" },
-          { "greek": "ἴδετε", "gloss": "voyez" },
-          { "greek": "ἄνθρωπον", "gloss": "un_homme" },
-          { "greek": "ὃς", "gloss": "qui" },
-          { "greek": "εἶπέν", "gloss": "m'a_dit" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "πάντα", "gloss": "tout" },
-          { "greek": "ὅσα", "gloss": "ce_que" },
-          { "greek": "ἐποίησα·", "gloss": "j'ai_fait" },
-          { "greek": "μήτι", "gloss": "est-ce_que" },
-          { "greek": "οὗτός", "gloss": "celui-ci" },
-          { "greek": "ἐστιν", "gloss": "serait" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Χριστός;", "gloss": "Christ" }
+          {
+            "greek": "Δεῦτε",
+            "gloss": "Venez"
+          },
+          {
+            "greek": "ἴδετε",
+            "gloss": "voyez"
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "εἶπέν",
+            "gloss": "m'a_dit"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ὅσα",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "ἐποίησα·",
+            "gloss": "j'ai_fait"
+          },
+          {
+            "greek": "μήτι",
+            "gloss": "est-ce_que"
+          },
+          {
+            "greek": "οὗτός",
+            "gloss": "celui-ci"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "serait"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστός;",
+            "gloss": "Christ"
+          }
         ]
       },
       {
@@ -694,14 +2206,38 @@
           "darby": "Ils sortirent de la ville, et vinrent vers lui."
         },
         "interlinear": [
-          { "greek": "ἐξῆλθον", "gloss": "Ils_sortirent" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "πόλεως", "gloss": "ville" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἤρχοντο", "gloss": "ils_venaient" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "αὐτόν.", "gloss": "lui" }
+          {
+            "greek": "ἐξῆλθον",
+            "gloss": "Ils_sortirent"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "πόλεως",
+            "gloss": "ville"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἤρχοντο",
+            "gloss": "ils_venaient"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -711,16 +2247,46 @@
           "darby": "Entre temps, les disciples le priaient, disant : Rabbi, mange."
         },
         "interlinear": [
-          { "greek": "Ἐν", "gloss": "Entre" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "μεταξὺ", "gloss": "temps/entre-temps" },
-          { "greek": "ἠρώτων", "gloss": "priaient" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "λέγοντες·", "gloss": "disant" },
-          { "greek": "Ῥαββί,", "gloss": "Rabbi" },
-          { "greek": "φάγε.", "gloss": "mange" }
+          {
+            "greek": "Ἐν",
+            "gloss": "Entre"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μεταξὺ",
+            "gloss": "temps/entre-temps"
+          },
+          {
+            "greek": "ἠρώτων",
+            "gloss": "priaient"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ῥαββί,",
+            "gloss": "Rabbi"
+          },
+          {
+            "greek": "φάγε.",
+            "gloss": "mange"
+          }
         ]
       },
       {
@@ -730,18 +2296,54 @@
           "darby": "Mais il leur dit : Moi j'ai de la viande à manger que vous, vous ne connaissez pas."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Lui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Ἐγὼ", "gloss": "Moi" },
-          { "greek": "βρῶσιν", "gloss": "nourriture" },
-          { "greek": "ἔχω", "gloss": "j'ai" },
-          { "greek": "φαγεῖν", "gloss": "à_manger" },
-          { "greek": "ἣν", "gloss": "que" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "οἴδατε.", "gloss": "savez/connaissez" }
+          {
+            "greek": "ὁ",
+            "gloss": "Lui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "βρῶσιν",
+            "gloss": "nourriture"
+          },
+          {
+            "greek": "ἔχω",
+            "gloss": "j'ai"
+          },
+          {
+            "greek": "φαγεῖν",
+            "gloss": "à_manger"
+          },
+          {
+            "greek": "ἣν",
+            "gloss": "que"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "οἴδατε.",
+            "gloss": "savez/connaissez"
+          }
         ]
       },
       {
@@ -751,17 +2353,50 @@
           "darby": "Les disciples donc disaient entre eux : Quelqu'un lui aurait-il apporté à manger ?"
         },
         "interlinear": [
-          { "greek": "ἔλεγον", "gloss": "Disaient" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "πρὸς", "gloss": "entre" },
-          { "greek": "ἀλλήλους·", "gloss": "eux" },
-          { "greek": "Μή", "gloss": "Est-ce_que" },
-          { "greek": "τις", "gloss": "quelqu'un" },
-          { "greek": "ἤνεγκεν", "gloss": "aurait_apporté" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "φαγεῖν;", "gloss": "à_manger" }
+          {
+            "greek": "ἔλεγον",
+            "gloss": "Disaient"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "entre"
+          },
+          {
+            "greek": "ἀλλήλους·",
+            "gloss": "eux"
+          },
+          {
+            "greek": "Μή",
+            "gloss": "Est-ce_que"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "ἤνεγκεν",
+            "gloss": "aurait_apporté"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "φαγεῖν;",
+            "gloss": "à_manger"
+          }
         ]
       },
       {
@@ -771,25 +2406,82 @@
           "darby": "Jésus leur dit : Ma viande est de faire la volonté de celui qui m'a envoyé, et d'accomplir son œuvre."
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Ἐμὸν", "gloss": "Ma" },
-          { "greek": "βρῶμά", "gloss": "nourriture" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ἵνα", "gloss": "que" },
-          { "greek": "ποιήσω", "gloss": "je_fasse" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "θέλημα", "gloss": "volonté" },
-          { "greek": "τοῦ", "gloss": "de_celui_qui" },
-          { "greek": "πέμψαντός", "gloss": "m'a_envoyé" },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τελειώσω", "gloss": "j'accomplisse" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "ἔργον.", "gloss": "œuvre" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Ἐμὸν",
+            "gloss": "Ma"
+          },
+          {
+            "greek": "βρῶμά",
+            "gloss": "nourriture"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "que"
+          },
+          {
+            "greek": "ποιήσω",
+            "gloss": "je_fasse"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "θέλημα",
+            "gloss": "volonté"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_celui_qui"
+          },
+          {
+            "greek": "πέμψαντός",
+            "gloss": "m'a_envoyé"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τελειώσω",
+            "gloss": "j'accomplisse"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἔργον.",
+            "gloss": "œuvre"
+          }
         ]
       },
       {
@@ -799,33 +2491,114 @@
           "darby": "Ne dites-vous pas, vous, qu'il y a encore quatre mois, et la moisson vient ? Voici, je vous dis : Levez vos yeux et regardez les campagnes, car elles sont déjà blanches pour la moisson."
         },
         "interlinear": [
-          { "greek": "οὐχ", "gloss": "Ne...pas" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "λέγετε", "gloss": "vous_dites" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "Ἔτι", "gloss": "Encore" },
-          { "greek": "τετράμηνός", "gloss": "quatre_mois" },
-          { "greek": "ἐστιν", "gloss": "il_y_a" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "θερισμὸς", "gloss": "moisson" },
-          { "greek": "ἔρχεται;", "gloss": "vient" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "λέγω", "gloss": "je_dis" },
-          { "greek": "ὑμῖν,", "gloss": "à_vous" },
-          { "greek": "ἐπάρατε", "gloss": "levez" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ὀφθαλμοὺς", "gloss": "yeux" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "θεάσασθε", "gloss": "regardez" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "χώρας", "gloss": "campagnes/champs" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "λευκαί", "gloss": "blanches" },
-          { "greek": "εἰσιν", "gloss": "sont" },
-          { "greek": "πρὸς", "gloss": "pour" },
-          { "greek": "θερισμόν.", "gloss": "la_moisson" }
+          {
+            "greek": "οὐχ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "λέγετε",
+            "gloss": "vous_dites"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "Ἔτι",
+            "gloss": "Encore"
+          },
+          {
+            "greek": "τετράμηνός",
+            "gloss": "quatre_mois"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "il_y_a"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "θερισμὸς",
+            "gloss": "moisson"
+          },
+          {
+            "greek": "ἔρχεται;",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ἐπάρατε",
+            "gloss": "levez"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὀφθαλμοὺς",
+            "gloss": "yeux"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "θεάσασθε",
+            "gloss": "regardez"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "χώρας",
+            "gloss": "campagnes/champs"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "λευκαί",
+            "gloss": "blanches"
+          },
+          {
+            "greek": "εἰσιν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "θερισμόν.",
+            "gloss": "la_moisson"
+          }
         ]
       },
       {
@@ -835,25 +2608,82 @@
           "darby": "Et celui qui moissonne reçoit un salaire et amasse du fruit pour la vie éternelle, afin que, et celui qui sème et celui qui moissonne, se réjouissent ensemble."
         },
         "interlinear": [
-          { "greek": "ἤδη.", "gloss": "déjà" },
-          { "greek": "ὁ", "gloss": "celui_qui" },
-          { "greek": "θερίζων", "gloss": "moissonne" },
-          { "greek": "μισθὸν", "gloss": "salaire" },
-          { "greek": "λαμβάνει", "gloss": "reçoit" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "συνάγει", "gloss": "amasse" },
-          { "greek": "καρπὸν", "gloss": "fruit" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "ζωὴν", "gloss": "la_vie" },
-          { "greek": "αἰώνιον,", "gloss": "éternelle" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ὁ", "gloss": "celui_qui" },
-          { "greek": "σπείρων", "gloss": "sème" },
-          { "greek": "ὁμοῦ", "gloss": "ensemble" },
-          { "greek": "χαίρῃ", "gloss": "se_réjouisse" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "celui_qui" },
-          { "greek": "θερίζων.", "gloss": "moissonne" }
+          {
+            "greek": "ἤδη.",
+            "gloss": "déjà"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "θερίζων",
+            "gloss": "moissonne"
+          },
+          {
+            "greek": "μισθὸν",
+            "gloss": "salaire"
+          },
+          {
+            "greek": "λαμβάνει",
+            "gloss": "reçoit"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συνάγει",
+            "gloss": "amasse"
+          },
+          {
+            "greek": "καρπὸν",
+            "gloss": "fruit"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "la_vie"
+          },
+          {
+            "greek": "αἰώνιον,",
+            "gloss": "éternelle"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "σπείρων",
+            "gloss": "sème"
+          },
+          {
+            "greek": "ὁμοῦ",
+            "gloss": "ensemble"
+          },
+          {
+            "greek": "χαίρῃ",
+            "gloss": "se_réjouisse"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "θερίζων.",
+            "gloss": "moissonne"
+          }
         ]
       },
       {
@@ -863,22 +2693,70 @@
           "darby": "Car en ceci est vrai le dicton, qu'autre est celui qui sème, et autre celui qui moissonne."
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "En" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τούτῳ", "gloss": "ceci" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λόγος", "gloss": "parole/dicton" },
-          { "greek": "ἐστὶν", "gloss": "est" },
-          { "greek": "ἀληθινὸς", "gloss": "vrai" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ἄλλος", "gloss": "Autre" },
-          { "greek": "ἐστὶν", "gloss": "est" },
-          { "greek": "ὁ", "gloss": "celui_qui" },
-          { "greek": "σπείρων", "gloss": "sème" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἄλλος", "gloss": "autre" },
-          { "greek": "ὁ", "gloss": "celui_qui" },
-          { "greek": "θερίζων.", "gloss": "moissonne" }
+          {
+            "greek": "ἐν",
+            "gloss": "En"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τούτῳ",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λόγος",
+            "gloss": "parole/dicton"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἀληθινὸς",
+            "gloss": "vrai"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Ἄλλος",
+            "gloss": "Autre"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "σπείρων",
+            "gloss": "sème"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἄλλος",
+            "gloss": "autre"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "θερίζων.",
+            "gloss": "moissonne"
+          }
         ]
       },
       {
@@ -888,23 +2766,74 @@
           "darby": "Moi, je vous ai envoyés moissonner ce à quoi vous, vous n'avez pas travaillé ; d'autres ont travaillé, et vous, vous êtes entrés dans leur travail."
         },
         "interlinear": [
-          { "greek": "ἐγὼ", "gloss": "Moi" },
-          { "greek": "ἀπέστειλα", "gloss": "j'ai_envoyé" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "θερίζειν", "gloss": "moissonner" },
-          { "greek": "ὃ", "gloss": "ce_que" },
-          { "greek": "οὐχ", "gloss": "non" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "κεκοπιάκατε·", "gloss": "avez_travaillé" },
-          { "greek": "ἄλλοι", "gloss": "d'autres" },
-          { "greek": "κεκοπιάκασιν,", "gloss": "ont_travaillé" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κόπον", "gloss": "travail" },
-          { "greek": "αὐτῶν", "gloss": "d'eux" },
-          { "greek": "εἰσεληλύθατε.", "gloss": "êtes_entrés" }
+          {
+            "greek": "ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "ἀπέστειλα",
+            "gloss": "j'ai_envoyé"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "θερίζειν",
+            "gloss": "moissonner"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "οὐχ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "κεκοπιάκατε·",
+            "gloss": "avez_travaillé"
+          },
+          {
+            "greek": "ἄλλοι",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "κεκοπιάκασιν,",
+            "gloss": "ont_travaillé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόπον",
+            "gloss": "travail"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "εἰσεληλύθατε.",
+            "gloss": "êtes_entrés"
+          }
         ]
       },
       {
@@ -914,29 +2843,98 @@
           "darby": "Et plusieurs des Samaritains de cette ville-là crurent en lui à cause de la parole de la femme qui rendait témoignage : Il m'a dit tout ce que j'ai fait."
         },
         "interlinear": [
-          { "greek": "Ἐκ", "gloss": "De" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "πόλεως", "gloss": "ville" },
-          { "greek": "ἐκείνης", "gloss": "celle-là" },
-          { "greek": "πολλοὶ", "gloss": "plusieurs" },
-          { "greek": "ἐπίστευσαν", "gloss": "crurent" },
-          { "greek": "εἰς", "gloss": "en" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "Σαμαρειτῶν", "gloss": "Samaritains" },
-          { "greek": "διὰ", "gloss": "à_cause_de" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "λόγον", "gloss": "parole" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "γυναικὸς", "gloss": "femme" },
-          { "greek": "μαρτυρούσης", "gloss": "rendant_témoignage" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Εἶπέν", "gloss": "Il_a_dit" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "πάντα", "gloss": "tout" },
-          { "greek": "ἃ", "gloss": "ce_que" },
-          { "greek": "ἐποίησα.", "gloss": "j'ai_fait" }
+          {
+            "greek": "Ἐκ",
+            "gloss": "De"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "πόλεως",
+            "gloss": "ville"
+          },
+          {
+            "greek": "ἐκείνης",
+            "gloss": "celle-là"
+          },
+          {
+            "greek": "πολλοὶ",
+            "gloss": "plusieurs"
+          },
+          {
+            "greek": "ἐπίστευσαν",
+            "gloss": "crurent"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "Σαμαρειτῶν",
+            "gloss": "Samaritains"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "parole"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "γυναικὸς",
+            "gloss": "femme"
+          },
+          {
+            "greek": "μαρτυρούσης",
+            "gloss": "rendant_témoignage"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Εἶπέν",
+            "gloss": "Il_a_dit"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ἃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "ἐποίησα.",
+            "gloss": "j'ai_fait"
+          }
         ]
       },
       {
@@ -946,23 +2944,74 @@
           "darby": "Quand donc les Samaritains furent venus vers lui, ils le prièrent de demeurer avec eux ; et il demeura là deux jours."
         },
         "interlinear": [
-          { "greek": "ὡς", "gloss": "Quand" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ἦλθον", "gloss": "vinrent" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "Σαμαρεῖται,", "gloss": "Samaritains" },
-          { "greek": "ἠρώτων", "gloss": "ils_priaient" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "μεῖναι", "gloss": "de_rester" },
-          { "greek": "παρ’", "gloss": "auprès_d'" },
-          { "greek": "αὐτοῖς·", "gloss": "eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔμεινεν", "gloss": "il_resta" },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "ἡμέρας.", "gloss": "jours" }
+          {
+            "greek": "ὡς",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἦλθον",
+            "gloss": "vinrent"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "Σαμαρεῖται,",
+            "gloss": "Samaritains"
+          },
+          {
+            "greek": "ἠρώτων",
+            "gloss": "ils_priaient"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "μεῖναι",
+            "gloss": "de_rester"
+          },
+          {
+            "greek": "παρ’",
+            "gloss": "auprès_d'"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔμεινεν",
+            "gloss": "il_resta"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἡμέρας.",
+            "gloss": "jours"
+          }
         ]
       },
       {
@@ -972,14 +3021,38 @@
           "darby": "Et un beaucoup plus grand nombre crurent à cause de sa parole ;"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πολλῷ", "gloss": "beaucoup" },
-          { "greek": "πλείους", "gloss": "plus_nombreux" },
-          { "greek": "ἐπίστευσαν", "gloss": "crurent" },
-          { "greek": "διὰ", "gloss": "à_cause_de" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "λόγον", "gloss": "parole" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πολλῷ",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "πλείους",
+            "gloss": "plus_nombreux"
+          },
+          {
+            "greek": "ἐπίστευσαν",
+            "gloss": "crurent"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "parole"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -989,47 +3062,199 @@
           "darby": "et ils disaient à la femme : Ce n'est plus à cause de ton dire que nous croyons ; car nous-mêmes nous l'avons entendu, et nous connaissons que celui-ci est véritablement le Sauveur du monde."
         },
         "interlinear": [
-          { "greek": "τῇ", "gloss": "À_la" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "γυναικὶ", "gloss": "femme" },
-          { "greek": "ἔλεγον", "gloss": "ils_disaient" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Οὐκέτι", "gloss": "Ce_n'est_plus" },
-          { "greek": "διὰ", "gloss": "à_cause_de" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "σὴν", "gloss": "tienne" },
-          { "greek": "λαλιὰν", "gloss": "parole" },
-          { "greek": "πιστεύομεν·", "gloss": "nous_croyons" },
-          { "greek": "αὐτοὶ", "gloss": "nous-mêmes" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἀκηκόαμεν", "gloss": "nous_avons_entendu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οἴδαμεν", "gloss": "nous_savons" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "οὗτός", "gloss": "celui-ci" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ἀληθῶς", "gloss": "vraiment" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "σωτὴρ", "gloss": "Sauveur", "analyse": "Le salut n'est pas idéologique. Les Samaritains ne croient plus par ouï-dire ni par mimétisme social (Foule). Ils basculent tous dans l'expérience directe du Royaume UN : chaque individu devient un 'Sujet' face au Sauveur. Ils s'affranchissent des oppositions ethniques ou religieuses qui sclérosent le monde." },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "κόσμου.", "gloss": "monde" }
+          {
+            "greek": "τῇ",
+            "gloss": "À_la"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "γυναικὶ",
+            "gloss": "femme"
+          },
+          {
+            "greek": "ἔλεγον",
+            "gloss": "ils_disaient"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Οὐκέτι",
+            "gloss": "Ce_n'est_plus"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "σὴν",
+            "gloss": "tienne"
+          },
+          {
+            "greek": "λαλιὰν",
+            "gloss": "parole"
+          },
+          {
+            "greek": "πιστεύομεν·",
+            "gloss": "nous_croyons"
+          },
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "nous-mêmes"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἀκηκόαμεν",
+            "gloss": "nous_avons_entendu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἴδαμεν",
+            "gloss": "nous_savons"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οὗτός",
+            "gloss": "celui-ci"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἀληθῶς",
+            "gloss": "vraiment"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σωτὴρ",
+            "gloss": "Sauveur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le salut n'est pas idéologique. Les Samaritains ne croient plus par ouï-dire ni par mimétisme social (Foule). Ils basculent tous dans l'expérience directe du Royaume UN : chaque individu devient un 'Sujet' face au Sauveur. Ils s'affranchissent des oppositions ethniques ou religieuses qui sclérosent le monde.",
+              "related": [
+                "ὁ",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κόσμου.",
+            "gloss": "monde"
+          }
         ]
       }
     ],
     "homiletic_axes": [
-      { "title": "« Crois-moi » : la confiance avant l'explication", "content": "Jésus franchit les frontières en demandant à boire, puis invite la femme à lui faire confiance. Sa fatigue, sa soif et sa parole créent un face-à-face où la relation précède la démonstration.", "keywords": ["δός", "Πίστευέ", "λαλῶν"] },
-      { "title": "La vérité qui libère de la répétition", "content": "La parole sur les cinq maris dévoile sans humilier. Reconnue dans sa vérité, la femme peut abandonner sa cruche, signe du retour quotidien à une soif jamais apaisée.", "keywords": ["ἀληθῶς", "ἄνδρας", "ὑδρίαν"] },
-      { "title": "De celle qui reçoit à celle qui témoigne", "content": "Venue seule pour puiser, la Samaritaine repart vers la ville. L'eau vive reçue devient parole partagée, puis chacun est conduit à une rencontre personnelle avec le Sauveur.", "keywords": ["ὕδωρ", "μαρτυρούσης", "σωτὴρ"] }
+      {
+        "title": "« Crois-moi » : la confiance avant l'explication",
+        "content": "Jésus franchit les frontières en demandant à boire, puis invite la femme à lui faire confiance. Sa fatigue, sa soif et sa parole créent un face-à-face où la relation précède la démonstration.",
+        "keywords": [
+          "δός",
+          "Πίστευέ",
+          "λαλῶν"
+        ]
+      },
+      {
+        "title": "La vérité qui libère de la répétition",
+        "content": "La parole sur les cinq maris dévoile sans humilier. Reconnue dans sa vérité, la femme peut abandonner sa cruche, signe du retour quotidien à une soif jamais apaisée.",
+        "keywords": [
+          "ἀληθῶς",
+          "ἄνδρας",
+          "ὑδρίαν"
+        ]
+      },
+      {
+        "title": "De celle qui reçoit à celle qui témoigne",
+        "content": "Venue seule pour puiser, la Samaritaine repart vers la ville. L'eau vive reçue devient parole partagée, puis chacun est conduit à une rencontre personnelle avec le Sauveur.",
+        "keywords": [
+          "ὕδωρ",
+          "μαρτυρούσης",
+          "σωτὴρ"
+        ]
+      },
+      {
+        "title": "De la soif ressentie à la parole partagée",
+        "content": "La fatigue de Jésus, la soif de la femme, l’eau et la cruche donnent au dialogue son ancrage corporel. Le désir sensible devient progressivement désir de rencontre puis annonce à la ville.",
+        "keywords": [
+          "ὕδωρ",
+          "διψήσει",
+          "ἀφῆκεν"
+        ]
+      }
     ],
     "homily_template": [
-      { "id": "theme", "phase": "inspiration", "title": "1. Parole centrale", "prompt": "Choisissez une image ou une parole : la soif, le puits, « Crois-moi », l'eau vive, la vérité, la cruche abandonnée ou le témoignage." },
-      { "id": "text", "phase": "inspiration", "title": "2. Chemin de la rencontre", "prompt": "Suivez la transformation : une demande inattendue, un dialogue vrai, une confiance proposée, la cruche laissée et la ville mise en mouvement." },
-      { "id": "gospel", "phase": "inspiration", "title": "3. Bonne Nouvelle annoncée", "prompt": "Formulez la promesse qui vous paraît centrale : le Christ franchit les frontières, dit la vérité sans condamner et fait de celui qui reçoit une source pour d'autres." },
-      { "id": "today", "phase": "gestation", "title": "4. Soif humaine rejointe", "prompt": "Nommez avec pudeur une soif ou une répétition contemporaine. Évitez d'enfermer la Samaritaine ou l'auditeur dans une faute résumant toute leur personne." },
-      { "id": "response", "phase": "gestation", "title": "5. Passage proposé", "prompt": "Ouvrez une possibilité : faire confiance, laisser une « cruche », entrer dans un dialogue vrai, recevoir l'eau vive ou raconter simplement une rencontre." },
-      { "id": "oral", "phase": "proclamation", "title": "6. Mise en voix", "prompt": "Gardez une image dominante — le puits, l'eau ou la cruche — et faites entendre le passage de la conversation intime à la joie partagée." }
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez une image ou une parole : la soif, le puits, « Crois-moi », l'eau vive, la vérité, la cruche abandonnée ou le témoignage."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Chemin de la rencontre",
+        "prompt": "Suivez la transformation : une demande inattendue, un dialogue vrai, une confiance proposée, la cruche laissée et la ville mise en mouvement."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez la promesse qui vous paraît centrale : le Christ franchit les frontières, dit la vérité sans condamner et fait de celui qui reçoit une source pour d'autres."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Soif humaine rejointe",
+        "prompt": "Nommez avec pudeur une soif ou une répétition contemporaine. Évitez d'enfermer la Samaritaine ou l'auditeur dans une faute résumant toute leur personne."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une possibilité : faire confiance, laisser une « cruche », entrer dans un dialogue vrai, recevoir l'eau vive ou raconter simplement une rencontre."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante — le puits, l'eau ou la cruche — et faites entendre le passage de la conversation intime à la joie partagée."
+      }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 15 - μηδὲ διέρχωμαι ἐνθάδε ἀντλεῖν : 'Pour que je ne vienne plus ici puiser'. Le verbe (dierchomai) implique le labeur de 'traverser' un espace. L'Ego est fatigué par cette répétition mortifère (aller puiser), cette quête inassouvie dans le Monde duel.\n• Verset 28 - ἀφῆκεν οὖν τὴν ὑδρίαν αὐτῆς : 'Laissa sa cruche'. Symbole puissant qui, à la traduction, manque souvent de relief. La femme se désolidarise de l'objet qui cristallise son aliénation.\n\nAnalyse spirituelle :\nCe dimanche de Pâques offre un contraste fulgurant entre la dialectique du Manque et celle de la Liberté. \nLa Samaritaine (à l'instar du paralytique de Béthesda) incarne la tragédie de 'l'Avoir'. Elle se définit par ce qu'elle subit et ce qu'elle n'a pas. Enfermée dans la matrice du 'Monde duel' (les divisions Juifs/Samaritains, la géographie religieuse 'sur cette montagne'), elle est l'Objet de ses propres passions (cinq maris) et de la répétition mécanique du quotidien : elle vient puiser l'eau avec son outil (sa cruche), et sa compréhension du divin reste matérielle ('tu n'as rien pour puiser').\n\nLa kénose du Christ (un Dieu fatigué et assoiffé) crée la brèche. Dans un retournement prodigieux, Il déconstruit ses remparts idéologiques non pas en imposant une supériorité, mais en lui demandant de l'eau. Au cœur de ce dialogue, l'Ego de la femme s'effondre dans la vérité ('Je n'ai pas de mari'). C'est l'instant de la résurrection du Sujet. \nLe récit s'accélère alors. La femme abandonne l'attribut de son manque ('elle laissa sa cruche'). Elle qui venait puiser au puits clos devient la Source, et accomplit l'acte libre par excellence : le témoignage. L'Eau vive n'est plus à l'extérieur : elle jaillit de l'intérieur de la Samaritaine, inondant toute sa ville qui passe à son tour de la croyance mimétique à l'expérience directe du Sauveur."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 15 - μηδὲ διέρχωμαι ἐνθάδε ἀντλεῖν : 'Pour que je ne vienne plus ici puiser'. Le verbe (dierchomai) implique le labeur de 'traverser' un espace. L'Ego est fatigué par cette répétition mortifère (aller puiser), cette quête inassouvie dans le Monde duel.\n• Verset 28 - ἀφῆκεν οὖν τὴν ὑδρίαν αὐτῆς : 'Laissa sa cruche'. Symbole puissant qui, à la traduction, manque souvent de relief. La femme se désolidarise de l'objet qui cristallise son aliénation.\n\nAnalyse spirituelle :\nCe dimanche de Pâques offre un contraste fulgurant entre la dialectique du Manque et celle de la Liberté. \nLa Samaritaine (à l'instar du paralytique de Béthesda) incarne la tragédie de 'l'Avoir'. Elle se définit par ce qu'elle subit et ce qu'elle n'a pas. Enfermée dans la matrice du 'Monde duel' (les divisions Juifs/Samaritains, la géographie religieuse 'sur cette montagne'), elle est l'Objet de ses propres passions (cinq maris) et de la répétition mécanique du quotidien : elle vient puiser l'eau avec son outil (sa cruche), et sa compréhension du divin reste matérielle ('tu n'as rien pour puiser').\n\nLa kénose du Christ (un Dieu fatigué et assoiffé) crée la brèche. Dans un retournement prodigieux, Il déconstruit ses remparts idéologiques non pas en imposant une supériorité, mais en lui demandant de l'eau. Au cœur de ce dialogue, l'Ego de la femme s'effondre dans la vérité ('Je n'ai pas de mari'). C'est l'instant de la résurrection du Sujet. \nLe récit s'accélère alors. La femme abandonne l'attribut de son manque ('elle laissa sa cruche'). Elle qui venait puiser au puits clos devient la Source, et accomplit l'acte libre par excellence : le témoignage. L'Eau vive n'est plus à l'extérieur : elle jaillit de l'intérieur de la Samaritaine, inondant toute sa ville qui passe à son tour de la croyance mimétique à l'expérience directe du Sauveur.",
+    "liturgical_echoes": [
+      {
+        "title": "Pédagogie pascale des sens",
+        "reference": "Pâques — Thomas — Myrrhophores — Samaritaine — Aveugle-né",
+        "content": "Le Ressuscité ne délivre pas l’homme de son corps : il guérit et transfigure sa manière de sentir. Le parfum porté au tombeau, le toucher proposé à Thomas, la soif de la Samaritaine et la vue donnée à l’Aveugle-né conduisent de la recherche sensible à la rencontre, puis de la rencontre au témoignage.",
+        "connections": []
+      }
+    ]
   },
   "going_further": [
     {
@@ -1040,7 +3265,7 @@
       "url": "https://www.rcf.fr/vie-spirituelle/a-la-table-de-lorthodoxie"
     }
   ],
-"apostle": {
+  "apostle": {
     "reference": "Actes 11, 19-30",
     "title": "L'Église d'Antioche : De la foule fermée aux Sujets responsables",
     "interlinear": [
@@ -1051,32 +3276,118 @@
           "darby": "Ceux donc qui avaient été dispersés par la tribulation qui était arrivée à l'occasion d'Étienne, passèrent jusqu'en Phénicie, et à Chypre, et à Antioche, n'annonçant la parole à personne qu'aux Juifs seulement."
         },
         "interlinear": [
-          { "greek": "Οἱ", "gloss": "Ceux" },
-          { "greek": "μὲν", "gloss": "certes" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "διασπαρέντες", "gloss": "ayant_été_dispersés" },
-          { "greek": "ἀπὸ", "gloss": "par" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "θλίψεως", "gloss": "tribulation/persécution" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "γενομένης", "gloss": "survenue" },
-          { "greek": "ἐπὶ", "gloss": "à_cause_de" },
-          { "greek": "Στεφάνῳ", "gloss": "Étienne" },
-          { "greek": "διῆλθον", "gloss": "traversèrent" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "Φοινίκης", "gloss": "Phénicie" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Κύπρου", "gloss": "Chypre" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἀντιοχείας", "gloss": "Antioche" },
-          { "greek": "μηδενὶ", "gloss": "à_personne" },
-          { "greek": "λαλοῦντες", "gloss": "parlant" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "λόγον", "gloss": "parole" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "μὴ", "gloss": "non" },
-          { "greek": "μόνον", "gloss": "seulement" },
-          { "greek": "Ἰουδαίοις.", "gloss": "aux_Juifs", "analyse": "Le 'Monde duel' est défini par ses clôtures identitaires. La Parole est d'abord confisquée, objectivée comme une possession exclusive du groupe ('seulement aux Juifs'). C'est exactement l'attitude de la Samaritaine qui disait : 'Comment toi qui es Juif...' L'Ego protège ses frontières pour ne pas se risquer à la véritable altérité." }
+          {
+            "greek": "Οἱ",
+            "gloss": "Ceux"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "certes"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "διασπαρέντες",
+            "gloss": "ayant_été_dispersés"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "θλίψεως",
+            "gloss": "tribulation/persécution"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "γενομένης",
+            "gloss": "survenue"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "Στεφάνῳ",
+            "gloss": "Étienne"
+          },
+          {
+            "greek": "διῆλθον",
+            "gloss": "traversèrent"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "Φοινίκης",
+            "gloss": "Phénicie"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Κύπρου",
+            "gloss": "Chypre"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἀντιοχείας",
+            "gloss": "Antioche"
+          },
+          {
+            "greek": "μηδενὶ",
+            "gloss": "à_personne"
+          },
+          {
+            "greek": "λαλοῦντες",
+            "gloss": "parlant"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "parole"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "μόνον",
+            "gloss": "seulement"
+          },
+          {
+            "greek": "Ἰουδαίοις.",
+            "gloss": "aux_Juifs",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le 'Monde duel' est défini par ses clôtures identitaires. La Parole est d'abord confisquée, objectivée comme une possession exclusive du groupe ('seulement aux Juifs'). C'est exactement l'attitude de la Samaritaine qui disait : 'Comment toi qui es Juif...' L'Ego protège ses frontières pour ne pas se risquer à la véritable altérité.",
+              "related": [
+                "μόνον"
+              ]
+            }
+          }
         ]
       },
       {
@@ -1086,28 +3397,112 @@
           "darby": "Mais il y avait parmi eux quelques hommes chypriotes et cyrénéens, qui, étant entrés dans Antioche, parlèrent aux Grecs, annonçant le Seigneur Jésus."
         },
         "interlinear": [
-          { "greek": "ἦσαν", "gloss": "Étaient" },
-          { "greek": "δέ", "gloss": "or" },
-          { "greek": "τινες", "gloss": "quelques" },
-          { "greek": "ἐξ", "gloss": "parmi" },
-          { "greek": "αὐτῶν", "gloss": "eux" },
-          { "greek": "ἄνδρες", "gloss": "hommes" },
-          { "greek": "Κύπριοι", "gloss": "Chypriotes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Κυρηναῖοι,", "gloss": "Cyrénéens" },
-          { "greek": "οἵτινες", "gloss": "lesquels" },
-          { "greek": "ἐλθόντες", "gloss": "étant_venus" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Ἀντιόχειαν", "gloss": "Antioche", "analyse": "Le nom d'Antioche revient comme le lieu où la dispersion devient féconde : la Parole franchit une frontière, une communauté nouvelle se forme et les disciples reçoivent le nom de chrétiens. Le lieu devient ainsi un seuil missionnaire." },
-          { "greek": "ἐλάλουν", "gloss": "parlaient" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "Ἑλληνιστάς,", "gloss": "Hellénistes/Grecs", "analyse": "La bascule vers le Royaume UN. Ces anonymes s'arrachent à l'enfermement mimétique de leur groupe. Ils osent s'adresser aux Grecs. Comme la Samaritaine abandonnant sa cruche (l'attribut de son monde clos), ils abandonnent la frontière ethnique pour témoigner de la vie. Ils agissent en Sujets libres." },
-          { "greek": "εὐαγγελιζόμενοι", "gloss": "annonçant" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κύριον", "gloss": "Seigneur" },
-          { "greek": "Ἰησοῦν.", "gloss": "Jésus" }
+          {
+            "greek": "ἦσαν",
+            "gloss": "Étaient"
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τινες",
+            "gloss": "quelques"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἄνδρες",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "Κύπριοι",
+            "gloss": "Chypriotes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Κυρηναῖοι,",
+            "gloss": "Cyrénéens"
+          },
+          {
+            "greek": "οἵτινες",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "ἐλθόντες",
+            "gloss": "étant_venus"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἀντιόχειαν",
+            "gloss": "Antioche",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le nom d'Antioche revient comme le lieu où la dispersion devient féconde : la Parole franchit une frontière, une communauté nouvelle se forme et les disciples reçoivent le nom de chrétiens. Le lieu devient ainsi un seuil missionnaire.",
+              "related": [
+                "εἰς",
+                "ἐλάλουν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐλάλουν",
+            "gloss": "parlaient"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "Ἑλληνιστάς,",
+            "gloss": "Hellénistes/Grecs",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La bascule vers le Royaume UN. Ces anonymes s'arrachent à l'enfermement mimétique de leur groupe. Ils osent s'adresser aux Grecs. Comme la Samaritaine abandonnant sa cruche (l'attribut de son monde clos), ils abandonnent la frontière ethnique pour témoigner de la vie. Ils agissent en Sujets libres.",
+              "related": [
+                "τοὺς",
+                "εὐαγγελιζόμενοι"
+              ]
+            }
+          },
+          {
+            "greek": "εὐαγγελιζόμενοι",
+            "gloss": "annonçant"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριον",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "Ἰησοῦν.",
+            "gloss": "Jésus"
+          }
         ]
       },
       {
@@ -1117,21 +3512,66 @@
           "darby": "Et la main du Seigneur était avec eux, et un grand nombre de ceux qui crurent se tournèrent vers le Seigneur."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "χεὶρ", "gloss": "main" },
-          { "greek": "κυρίου", "gloss": "du_Seigneur" },
-          { "greek": "μετ’", "gloss": "avec" },
-          { "greek": "αὐτῶν,", "gloss": "eux" },
-          { "greek": "πολύς", "gloss": "un_grand" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "ἀριθμὸς", "gloss": "nombre" },
-          { "greek": "ὁ", "gloss": "qui" },
-          { "greek": "πιστεύσας", "gloss": "ayant_cru" },
-          { "greek": "ἐπέστρεψεν", "gloss": "se_tourna/se_convertit" },
-          { "greek": "ἐπὶ", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κύριον.", "gloss": "Seigneur" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "χεὶρ",
+            "gloss": "main"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "du_Seigneur"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῶν,",
+            "gloss": "eux"
+          },
+          {
+            "greek": "πολύς",
+            "gloss": "un_grand"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀριθμὸς",
+            "gloss": "nombre"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "πιστεύσας",
+            "gloss": "ayant_cru"
+          },
+          {
+            "greek": "ἐπέστρεψεν",
+            "gloss": "se_tourna/se_convertit"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριον.",
+            "gloss": "Seigneur"
+          }
         ]
       },
       {
@@ -1141,26 +3581,86 @@
           "darby": "Et le bruit en vint aux oreilles de l'assemblée qui était à Jérusalem ; et ils envoyèrent Barnabas pour aller jusqu'à Antioche."
         },
         "interlinear": [
-          { "greek": "Ἠκούσθη", "gloss": "Fut_entendu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "λόγος", "gloss": "parole/bruit" },
-          { "greek": "εἰς", "gloss": "aux" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ὦτα", "gloss": "oreilles" },
-          { "greek": "τῆς", "gloss": "de_l'" },
-          { "greek": "ἐκκλησίας", "gloss": "église" },
-          { "greek": "τῆς", "gloss": "qui" },
-          { "greek": "οὔσης", "gloss": "était" },
-          { "greek": "ἐν", "gloss": "à" },
-          { "greek": "Ἰερουσαλὴμ", "gloss": "Jérusalem" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "αὐτῶν,", "gloss": "eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐξαπέστειλαν", "gloss": "ils_envoyèrent" },
-          { "greek": "Βαρναβᾶν", "gloss": "Barnabas" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "Ἀντιοχείας·", "gloss": "Antioche" }
+          {
+            "greek": "Ἠκούσθη",
+            "gloss": "Fut_entendu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγος",
+            "gloss": "parole/bruit"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὦτα",
+            "gloss": "oreilles"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἐκκλησίας",
+            "gloss": "église"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "οὔσης",
+            "gloss": "était"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἰερουσαλὴμ",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "αὐτῶν,",
+            "gloss": "eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐξαπέστειλαν",
+            "gloss": "ils_envoyèrent"
+          },
+          {
+            "greek": "Βαρναβᾶν",
+            "gloss": "Barnabas"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "Ἀντιοχείας·",
+            "gloss": "Antioche"
+          }
         ]
       },
       {
@@ -1170,26 +3670,86 @@
           "darby": "Lequel, y étant arrivé, et ayant vu la grâce de Dieu, se réjouit, et les exhorta tous à demeurer attachés au Seigneur de tout le propos de leur cœur ;"
         },
         "interlinear": [
-          { "greek": "ὃς", "gloss": "Lequel" },
-          { "greek": "παραγενόμενος", "gloss": "étant_arrivé" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "χάριν", "gloss": "grâce" },
-          { "greek": "τὴν", "gloss": "celle" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "ἐχάρη,", "gloss": "se_réjouit" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "παρεκάλει", "gloss": "exhortait" },
-          { "greek": "πάντας", "gloss": "tous" },
-          { "greek": "τῇ", "gloss": "au" },
-          { "greek": "προθέσει", "gloss": "propos/dessein" },
-          { "greek": "τῆς", "gloss": "du" },
-          { "greek": "καρδίας", "gloss": "cœur" },
-          { "greek": "προσμένειν", "gloss": "à_demeurer_attachés" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "κυρίῳ,", "gloss": "Seigneur" }
+          {
+            "greek": "ὃς",
+            "gloss": "Lequel"
+          },
+          {
+            "greek": "παραγενόμενος",
+            "gloss": "étant_arrivé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάριν",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "celle"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐχάρη,",
+            "gloss": "se_réjouit"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παρεκάλει",
+            "gloss": "exhortait"
+          },
+          {
+            "greek": "πάντας",
+            "gloss": "tous"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "au"
+          },
+          {
+            "greek": "προθέσει",
+            "gloss": "propos/dessein"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "καρδίας",
+            "gloss": "cœur"
+          },
+          {
+            "greek": "προσμένειν",
+            "gloss": "à_demeurer_attachés"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "κυρίῳ,",
+            "gloss": "Seigneur"
+          }
         ]
       },
       {
@@ -1199,22 +3759,70 @@
           "darby": "car il était un homme de bien, et plein de l'Esprit Saint et de foi. Et une grande foule fut ajoutée au Seigneur."
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "ἦν", "gloss": "il_était" },
-          { "greek": "ἀνὴρ", "gloss": "un_homme" },
-          { "greek": "ἀγαθὸς", "gloss": "bon/de_bien" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πλήρης", "gloss": "plein" },
-          { "greek": "πνεύματος", "gloss": "d'Esprit" },
-          { "greek": "ἁγίου", "gloss": "Saint" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πίστεως.", "gloss": "de_foi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "προσετέθη", "gloss": "fut_ajoutée" },
-          { "greek": "ὄχλος", "gloss": "une_foule" },
-          { "greek": "πολὺς", "gloss": "grande" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "κυρίῳ.", "gloss": "Seigneur" }
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "il_était"
+          },
+          {
+            "greek": "ἀνὴρ",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "ἀγαθὸς",
+            "gloss": "bon/de_bien"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πλήρης",
+            "gloss": "plein"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "d'Esprit"
+          },
+          {
+            "greek": "ἁγίου",
+            "gloss": "Saint"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πίστεως.",
+            "gloss": "de_foi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προσετέθη",
+            "gloss": "fut_ajoutée"
+          },
+          {
+            "greek": "ὄχλος",
+            "gloss": "une_foule"
+          },
+          {
+            "greek": "πολὺς",
+            "gloss": "grande"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "κυρίῳ.",
+            "gloss": "Seigneur"
+          }
         ]
       },
       {
@@ -1224,12 +3832,30 @@
           "darby": "Et il s'en alla à Tarse, pour chercher Saul ;"
         },
         "interlinear": [
-          { "greek": "ἐξῆλθεν", "gloss": "Il_partit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "Ταρσὸν", "gloss": "Tarse" },
-          { "greek": "ἀναζητῆσαι", "gloss": "chercher" },
-          { "greek": "Σαῦλον,", "gloss": "Saul" }
+          {
+            "greek": "ἐξῆλθεν",
+            "gloss": "Il_partit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "Ταρσὸν",
+            "gloss": "Tarse"
+          },
+          {
+            "greek": "ἀναζητῆσαι",
+            "gloss": "chercher"
+          },
+          {
+            "greek": "Σαῦλον,",
+            "gloss": "Saul"
+          }
         ]
       },
       {
@@ -1239,33 +3865,123 @@
           "darby": "et l'ayant trouvé, il l'amena à Antioche. Et il arriva que, pendant un an tout entier, ils se réunirent dans l'assemblée et enseignèrent une grande foule ; et ce fut à Antioche premièrement que les disciples furent nommés chrétiens."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εὑρὼν", "gloss": "l'ayant_trouvé" },
-          { "greek": "ἤγαγεν", "gloss": "il_amena" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Ἀντιόχειαν.", "gloss": "Antioche" },
-          { "greek": "ἐγένετο", "gloss": "Il_arriva" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "καὶ", "gloss": "et/même" },
-          { "greek": "ἐνιαυτὸν", "gloss": "une_année" },
-          { "greek": "ὅλον", "gloss": "entière" },
-          { "greek": "συναχθῆναι", "gloss": "d'être_réunis" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "l'" },
-          { "greek": "ἐκκλησίᾳ", "gloss": "église/assemblée" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "διδάξαι", "gloss": "d'enseigner" },
-          { "greek": "ὄχλον", "gloss": "une_foule" },
-          { "greek": "ἱκανόν,", "gloss": "suffisante/grande" },
-          { "greek": "χρηματίσαι", "gloss": "de_nommer/porter_le_nom", "analyse": "Le verbe *chrematisai* indique la réception d'un titre formel. Jusqu'ici, ils étaient une 'foule' ou des 'disciples'. En recevant le nom de 'Chrétiens' (Christianoús), ils reçoivent une identité unifiée. Ce nom les sort de l'anonymat mimétique de la masse pour en faire des Sujets liés au Christ." },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "πρώτως", "gloss": "premièrement/pour_la_première_fois" },
-          { "greek": "ἐν", "gloss": "à" },
-          { "greek": "Ἀντιοχείᾳ", "gloss": "Antioche" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "μαθητὰς", "gloss": "disciples" },
-          { "greek": "Χριστιανούς.", "gloss": "Chrétiens" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εὑρὼν",
+            "gloss": "l'ayant_trouvé"
+          },
+          {
+            "greek": "ἤγαγεν",
+            "gloss": "il_amena"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἀντιόχειαν.",
+            "gloss": "Antioche"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "Il_arriva"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et/même"
+          },
+          {
+            "greek": "ἐνιαυτὸν",
+            "gloss": "une_année"
+          },
+          {
+            "greek": "ὅλον",
+            "gloss": "entière"
+          },
+          {
+            "greek": "συναχθῆναι",
+            "gloss": "d'être_réunis"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἐκκλησίᾳ",
+            "gloss": "église/assemblée"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διδάξαι",
+            "gloss": "d'enseigner"
+          },
+          {
+            "greek": "ὄχλον",
+            "gloss": "une_foule"
+          },
+          {
+            "greek": "ἱκανόν,",
+            "gloss": "suffisante/grande"
+          },
+          {
+            "greek": "χρηματίσαι",
+            "gloss": "de_nommer/porter_le_nom",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe *chrematisai* indique la réception d'un titre formel. Jusqu'ici, ils étaient une 'foule' ou des 'disciples'. En recevant le nom de 'Chrétiens' (Christianoús), ils reçoivent une identité unifiée. Ce nom les sort de l'anonymat mimétique de la masse pour en faire des Sujets liés au Christ.",
+              "related": [
+                "ἱκανόν,",
+                "τε"
+              ]
+            }
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "πρώτως",
+            "gloss": "premièrement/pour_la_première_fois"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἀντιοχείᾳ",
+            "gloss": "Antioche"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθητὰς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "Χριστιανούς.",
+            "gloss": "Chrétiens"
+          }
         ]
       },
       {
@@ -1275,17 +3991,50 @@
           "darby": "Or, en ces jours-là, des prophètes descendirent de Jérusalem à Antioche."
         },
         "interlinear": [
-          { "greek": "Ἐν", "gloss": "Dans" },
-          { "greek": "ταύταις", "gloss": "ces" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "ἡμέραις", "gloss": "jours" },
-          { "greek": "κατῆλθον", "gloss": "descendirent" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "Ἱεροσολύμων", "gloss": "Jérusalem" },
-          { "greek": "προφῆται", "gloss": "des_prophètes" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Ἀντιόχειαν·", "gloss": "Antioche" }
+          {
+            "greek": "Ἐν",
+            "gloss": "Dans"
+          },
+          {
+            "greek": "ταύταις",
+            "gloss": "ces"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἡμέραις",
+            "gloss": "jours"
+          },
+          {
+            "greek": "κατῆλθον",
+            "gloss": "descendirent"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἱεροσολύμων",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "προφῆται",
+            "gloss": "des_prophètes"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἀντιόχειαν·",
+            "gloss": "Antioche"
+          }
         ]
       },
       {
@@ -1295,29 +4044,98 @@
           "darby": "Et l'un d'eux, nommé Agabus, se leva et déclara par l'Esprit qu'il y aurait une grande famine sur toute la terre habitée ; laquelle aussi eut lieu sous Claude."
         },
         "interlinear": [
-          { "greek": "ἀναστὰς", "gloss": "S'étant_levé" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἷς", "gloss": "un" },
-          { "greek": "ἐξ", "gloss": "d'" },
-          { "greek": "αὐτῶν", "gloss": "eux" },
-          { "greek": "ὀνόματι", "gloss": "de_nom" },
-          { "greek": "Ἅγαβος", "gloss": "Agabus" },
-          { "greek": "ἐσήμαινεν", "gloss": "indiqua/annonça" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "τοῦ", "gloss": "l'" },
-          { "greek": "πνεύματος", "gloss": "Esprit" },
-          { "greek": "λιμὸν", "gloss": "une_famine" },
-          { "greek": "μεγάλην", "gloss": "grande" },
-          { "greek": "μέλλειν", "gloss": "devoir" },
-          { "greek": "ἔσεσθαι", "gloss": "y_avoir" },
-          { "greek": "ἐφ’", "gloss": "sur" },
-          { "greek": "ὅλην", "gloss": "toute" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "οἰκουμένην·", "gloss": "terre_habitée" },
-          { "greek": "ἥτις", "gloss": "laquelle" },
-          { "greek": "ἐγένετο", "gloss": "arriva" },
-          { "greek": "ἐπὶ", "gloss": "sous" },
-          { "greek": "Κλαυδίου.", "gloss": "Claude" }
+          {
+            "greek": "ἀναστὰς",
+            "gloss": "S'étant_levé"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "d'"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ὀνόματι",
+            "gloss": "de_nom"
+          },
+          {
+            "greek": "Ἅγαβος",
+            "gloss": "Agabus"
+          },
+          {
+            "greek": "ἐσήμαινεν",
+            "gloss": "indiqua/annonça"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "λιμὸν",
+            "gloss": "une_famine"
+          },
+          {
+            "greek": "μεγάλην",
+            "gloss": "grande"
+          },
+          {
+            "greek": "μέλλειν",
+            "gloss": "devoir"
+          },
+          {
+            "greek": "ἔσεσθαι",
+            "gloss": "y_avoir"
+          },
+          {
+            "greek": "ἐφ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ὅλην",
+            "gloss": "toute"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἰκουμένην·",
+            "gloss": "terre_habitée"
+          },
+          {
+            "greek": "ἥτις",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "arriva"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sous"
+          },
+          {
+            "greek": "Κλαυδίου.",
+            "gloss": "Claude"
+          }
         ]
       },
       {
@@ -1327,24 +4145,87 @@
           "darby": "Et les disciples se déterminèrent à envoyer, chacun selon ses moyens, du secours aux frères qui habitaient dans la Judée ;"
         },
         "interlinear": [
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "μαθητῶν", "gloss": "disciples" },
-          { "greek": "καθὼς", "gloss": "selon_que" },
-          { "greek": "εὐπορεῖτό", "gloss": "était_prospère/avait_les_moyens" },
-          { "greek": "τις", "gloss": "quelqu'un" },
-          { "greek": "ὥρισαν", "gloss": "ils_décidèrent" },
-          { "greek": "ἕκαστος", "gloss": "chacun", "analyse": "Un moment charnière de dé-mimétisme. La 'foule' ne réagit pas par un instinct collectif, mais 'chacun' (*hekastos*) prend une décision individuelle selon ses moyens. Ils sortent de la position passive de 'l'Avoir' (recevoir un miracle ou l'enseignement) pour devenir des Acteurs : par le don (l'Être), le Sujet s'engage librement pour l'autre." },
-          { "greek": "αὐτῶν", "gloss": "d'eux" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "διακονίαν", "gloss": "le_service/secours" },
-          { "greek": "πέμψαι", "gloss": "envoyer" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "κατοικοῦσιν", "gloss": "habitant" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "Ἰουδαίᾳ", "gloss": "Judée" },
-          { "greek": "ἀδελφοῖς·", "gloss": "frères" }
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "μαθητῶν",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "selon_que"
+          },
+          {
+            "greek": "εὐπορεῖτό",
+            "gloss": "était_prospère/avait_les_moyens"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "ὥρισαν",
+            "gloss": "ils_décidèrent"
+          },
+          {
+            "greek": "ἕκαστος",
+            "gloss": "chacun",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Un moment charnière de dé-mimétisme. La 'foule' ne réagit pas par un instinct collectif, mais 'chacun' (*hekastos*) prend une décision individuelle selon ses moyens. Ils sortent de la position passive de 'l'Avoir' (recevoir un miracle ou l'enseignement) pour devenir des Acteurs : par le don (l'Être), le Sujet s'engage librement pour l'autre.",
+              "related": [
+                "ὥρισαν",
+                "αὐτῶν"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "διακονίαν",
+            "gloss": "le_service/secours"
+          },
+          {
+            "greek": "πέμψαι",
+            "gloss": "envoyer"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "κατοικοῦσιν",
+            "gloss": "habitant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "Ἰουδαίᾳ",
+            "gloss": "Judée"
+          },
+          {
+            "greek": "ἀδελφοῖς·",
+            "gloss": "frères"
+          }
         ]
       },
       {
@@ -1354,34 +4235,124 @@
           "darby": "ce qu'ils firent aussi, l'envoyant aux anciens par les mains de Barnabas et de Saul."
         },
         "interlinear": [
-          { "greek": "ὃ", "gloss": "ce_qu'" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἐποίησαν", "gloss": "ils_firent" },
-          { "greek": "ἀποστείλαντες", "gloss": "ayant_envoyé" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "πρεσβυτέρους", "gloss": "anciens/presbytres" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "χειρὸς", "gloss": "les_mains" },
-          { "greek": "Βαρναβᾶ", "gloss": "de_Barnabas" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Σαύλου.", "gloss": "de_Saul" }
+          {
+            "greek": "ὃ",
+            "gloss": "ce_qu'"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἐποίησαν",
+            "gloss": "ils_firent"
+          },
+          {
+            "greek": "ἀποστείλαντες",
+            "gloss": "ayant_envoyé"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πρεσβυτέρους",
+            "gloss": "anciens/presbytres"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "χειρὸς",
+            "gloss": "les_mains"
+          },
+          {
+            "greek": "Βαρναβᾶ",
+            "gloss": "de_Barnabas"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Σαύλου.",
+            "gloss": "de_Saul"
+          }
         ]
       }
     ],
     "homiletic_axes": [
-      { "title": "Du puits de Samarie aux frontières d'Antioche", "content": "Comme Jésus entre en dialogue avec la Samaritaine, des disciples anonymes osent annoncer aussi aux Grecs. L'Église grandit lorsqu'elle laisse la grâce franchir ses frontières familières.", "keywords": ["Ἑλληνιστάς", "εὐαγγελιζόμενοι", "χάριν"] },
-      { "title": "Recevoir le nom de chrétiens", "content": "À Antioche, une communauté mêlée reçoit publiquement un nom nouveau. L'identité chrétienne apparaît comme appartenance au Christ, non comme fermeture ethnique ou culturelle.", "keywords": ["Χριστιανούς", "ἐκκλησίᾳ", "κυρίῳ"] },
-      { "title": "La foi devient diaconie", "content": "L'annonce de la famine conduit chacun à agir selon ses moyens. La communion reçue dans la Parole se vérifie dans un service concret envoyé aux frères éprouvés.", "keywords": ["ἕκαστος", "διακονίαν", "ἀποστείλαντες"] }
+      {
+        "title": "Du puits de Samarie aux frontières d'Antioche",
+        "content": "Comme Jésus entre en dialogue avec la Samaritaine, des disciples anonymes osent annoncer aussi aux Grecs. L'Église grandit lorsqu'elle laisse la grâce franchir ses frontières familières.",
+        "keywords": [
+          "Ἑλληνιστάς",
+          "εὐαγγελιζόμενοι",
+          "χάριν"
+        ]
+      },
+      {
+        "title": "Recevoir le nom de chrétiens",
+        "content": "À Antioche, une communauté mêlée reçoit publiquement un nom nouveau. L'identité chrétienne apparaît comme appartenance au Christ, non comme fermeture ethnique ou culturelle.",
+        "keywords": [
+          "Χριστιανούς",
+          "ἐκκλησίᾳ",
+          "κυρίῳ"
+        ]
+      },
+      {
+        "title": "La foi devient diaconie",
+        "content": "L'annonce de la famine conduit chacun à agir selon ses moyens. La communion reçue dans la Parole se vérifie dans un service concret envoyé aux frères éprouvés.",
+        "keywords": [
+          "ἕκαστος",
+          "διακονίαν",
+          "ἀποστείλαντες"
+        ]
+      }
     ],
     "homily_template": [
-      { "id": "theme", "phase": "inspiration", "title": "1. Parole centrale", "prompt": "Choisissez votre axe : franchir une frontière, demeurer attaché au Seigneur, recevoir un nom ou transformer la foi en diaconie." },
-      { "id": "text", "phase": "inspiration", "title": "2. Mouvement de l'épître", "prompt": "Suivez l'élargissement du récit : dispersion, annonce aux Grecs, naissance de la communauté, enseignement puis solidarité concrète." },
-      { "id": "gospel", "phase": "inspiration", "title": "3. Bonne Nouvelle annoncée", "prompt": "Reliez si vous le souhaitez le puits et Antioche : la rencontre avec le Christ libère une parole qui traverse les frontières et construit la communion." },
-      { "id": "today", "phase": "gestation", "title": "4. Frontière actuelle rejointe", "prompt": "Choisissez une distance réelle — culturelle, sociale, linguistique ou paroissiale — sans réduire des personnes à une catégorie abstraite." },
-      { "id": "response", "phase": "gestation", "title": "5. Témoignage et service", "prompt": "Ouvrez un choix concret : parler dans une langue compréhensible, accueillir une personne nouvelle ou prolonger l'Eucharistie par une diaconie." },
-      { "id": "oral", "phase": "proclamation", "title": "6. Mise en voix", "prompt": "Faites circuler l'homélie du puits à la ville, puis de la ville à Antioche ; terminez sur un geste possible plutôt que sur un programme imposé." }
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre axe : franchir une frontière, demeurer attaché au Seigneur, recevoir un nom ou transformer la foi en diaconie."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l'épître",
+        "prompt": "Suivez l'élargissement du récit : dispersion, annonce aux Grecs, naissance de la communauté, enseignement puis solidarité concrète."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Reliez si vous le souhaitez le puits et Antioche : la rencontre avec le Christ libère une parole qui traverse les frontières et construit la communion."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Frontière actuelle rejointe",
+        "prompt": "Choisissez une distance réelle — culturelle, sociale, linguistique ou paroissiale — sans réduire des personnes à une catégorie abstraite."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Témoignage et service",
+        "prompt": "Ouvrez un choix concret : parler dans une langue compréhensible, accueillir une personne nouvelle ou prolonger l'Eucharistie par une diaconie."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Faites circuler l'homélie du puits à la ville, puis de la ville à Antioche ; terminez sur un geste possible plutôt que sur un programme imposé."
+      }
     ],
     "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 23 - τῇ προθέσει τῆς καρδίας : Segond traduit par 'd'un cœur résolu' et Darby par 'propos de cœur'. La racine grecque est *prothesis* (ce qui est placé devant, exposé). C'est le terme éminemment liturgique utilisé dans l'Église orthodoxe pour la préparation des dons (la Table de Prothèse ou Proscomidie). Barnabas ne demande pas aux fidèles un simple 'effort moral'. Il leur demande de faire de leur cœur un autel eucharistique où leur volonté est continuellement offerte au Seigneur.\n\n• Verset 26 - χρηματίσαι (chrematisai) : Souvent traduit platement par 'furent appelés' (Segond, Darby). Ce verbe est très fort. Il ne désigne pas un simple surnom populaire trouvé par hasard. Dans le grec hellénistique, il porte l'idée d'une appellation officielle, publique, et souvent d'un oracle ou d'une déclaration divine. Le nom de 'Chrétiens' (*Christianous*) n'est pas une étiquette, c'est l'acte de naissance d'une identité ontologique nouvelle qui vient d'en haut.\n\n• Verset 29 - εἰς διακονίαν : Traduit par 'un secours' (Segond) ou 'pour le service' (Darby). Le mot est *diakonia*. L'aide matérielle (l'argent) envoyée aux frères de Judée n'est pas réduite à de la philanthropie sociale. C'est une diaconie, un acte liturgique sacré qui prolonge l'Eucharistie dans la chair du monde.\n\nAnalyse spirituelle :\n\n1. Le dépassement des clôtures : Foule vs Sujet\nTout comme l'Évangile de ce dimanche oppose le repli ethnique du Monde duel (« Les Juifs n'ont pas de relations avec les Samaritains ») à l'universalité du Christ, cet extrait des Actes nous montre comment l'Église primitive pulvérise ses propres limites.\nAu verset 19, les disciples sont encore conditionnés : ils ont objectivé la Grâce et ne la donnent qu'aux Juifs. Mais l'élan de l'Incréé ne peut être retenu. Quelques individus anonymes de Chypre et de Cyrène brisent la règle : ils s'adressent aux Grecs (v. 20). Ce n'est plus la loi d'appartenance d'un groupe fermé, mais la liberté du Sujet qui se risque vers l'autre.\n\n2. Recevoir un Nom pour sortir de la masse\nEn conséquence de cette communion ouverte, l'Église d'Antioche s'épanouit. La foule anonyme (plêthos) trouve son véritable centre et reçoit un nom inédit : « Chrétiens » (v. 26). Ce nom est la marque d'une nouvelle naissance : on n'est plus défini par ce qu'on subit (le lieu de naissance, la tribu), mais par ce qu'on est (lié à l'Onction du Christ).\n\n3. De la passivité de l'Avoir à la responsabilité de l'Être\nLe récit culmine avec l'annonce d'une famine (v. 28). Dans le Monde duel, la pénurie génère la compétition et l'angoisse de « l'Avoir ». Ici, c'est l'inverse qui se produit. Face au manque qui touche la Judée, les nouveaux chrétiens d'Antioche ne se comportent pas comme un collectif paniqué. Le texte souligne que « chacun » (ἕκαστος) prend une décision.\nIls ne subissent plus la situation ; ils s'en emparent. Ils passent de la position d'objet passif recevant l'enseignement, à celle de Sujet responsable et acteur de la charité (diakonia). Envoyer ce don, c'est comme le paralytique qui porte enfin son grabat : c'est la preuve qu'ils sont désormais spirituellement debout, engagés et libres."
   }
-  }
+}
