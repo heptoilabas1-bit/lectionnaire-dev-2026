@@ -2,464 +2,1620 @@
   "gospel": {
     "reference": "Matthieu 17, 14-23",
     "title": "La Guérison de l'Enfant Lunatique et la Foi comme un Grain de Moutarde",
-    "interlinear":[
-  {
-    "verse_number": 14,
-    "translations": {
-      "segond": "Lorsqu'ils furent arrivés près de la foule, un homme vint se jeter à genoux devant Jésus, et dit :",
-      "darby": "Et quand ils furent venus vers la foule, un homme s'approcha de lui, s'agenouillant devant lui, et disant :"
-    },
     "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "ἐλθόντων", "gloss": "étant_venus" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "ὄχλον", "gloss": "foule" },
-      { "greek": "προσῆλθεν", "gloss": "s'approcha" },
-      { "greek": "αὐτῷ", "gloss": "de_lui" },
-      { "greek": "ἄνθρωπος", "gloss": "un_homme" },
-      { "greek": "γονυπετῶν", "gloss": "tombant_à_genoux" },
-      { "greek": "αὐτὸν", "gloss": "devant_lui" }
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Lorsqu'ils furent arrivés près de la foule, un homme vint se jeter à genoux devant Jésus, et dit :",
+          "darby": "Et quand ils furent venus vers la foule, un homme s'approcha de lui, s'agenouillant devant lui, et disant :"
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐλθόντων",
+            "gloss": "étant_venus"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄχλον",
+            "gloss": "foule"
+          },
+          {
+            "greek": "προσῆλθεν",
+            "gloss": "s'approcha"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἄνθρωπος",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "γονυπετῶν",
+            "gloss": "tombant_à_genoux"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "devant_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "translations": {
+          "segond": "Seigneur, aie pitié de mon fils, qui est lunatique, et qui souffre cruellement ; il tombe souvent dans le feu, et souvent dans l'eau.",
+          "darby": "Seigneur, aie pitié de mon fils, car il est lunatique et souffre cruellement ; car souvent il tombe dans le feu, et souvent dans l'eau."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἐλέησόν",
+            "gloss": "aie_pitié/fais_miséricorde"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱόν,",
+            "gloss": "fils"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "σεληνιάζεται",
+            "gloss": "il_est_lunatique",
+            "annotation": {
+              "type": "traduction",
+              "title": "L’enfant dit « lunatique »",
+              "content": "Approfondissement spirituel : Le verbe *seleniazomai* (être frappé par la lune). La lune symbolise les cycles, l'instabilité, la fluctuation perpétuelle. L'enfant est la victime tragique du 'Monde duel' : il n'a plus de centre, plus d'axe, il est ballotté entre les contraires absolus (le feu de l'agitation ou l'eau de la dépression/noyade).",
+              "related": [
+                "υἱόν,",
+                "ὅτι",
+                "καὶ",
+                "κακῶς"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κακῶς",
+            "gloss": "mal/cruellement"
+          },
+          {
+            "greek": "πάσχει·",
+            "gloss": "il_souffre"
+          },
+          {
+            "greek": "πολλάκις",
+            "gloss": "souvent"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "πίπτει",
+            "gloss": "il_tombe"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πῦρ",
+            "gloss": "feu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πολλάκις",
+            "gloss": "souvent"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὕδωρ.",
+            "gloss": "eau"
+          }
+        ]
+      },
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "Je l'ai amené à tes disciples, et ils n'ont pas pu le guérir.",
+          "darby": "Et je l'ai apporté à tes disciples ; et ils n'ont pu le guérir."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προσήνεγκα",
+            "gloss": "je_l'ai_apporté"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "μαθηταῖς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "σου,",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἠδυνήθησαν",
+            "gloss": "ils_purent",
+            "annotation": {
+              "type": "repetition",
+              "title": "Ils n’ont pas pu",
+              "content": "Ἠδυνήθησαν signifie simplement « ils n’ont pas pu ». Le verbe appartient à la famille de δύναμις, capacité ou puissance ; le texte ne dit pas grammaticalement que les disciples seraient « débranchés » d’une énergie, mais il met en cause leur peu de foi.",
+              "related": [
+                "καὶ",
+                "οὐκ",
+                "αὐτὸν",
+                "θεραπεῦσαι."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "θεραπεῦσαι.",
+            "gloss": "guérir"
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "translations": {
+          "segond": "Race incrédule et perverse, répondit Jésus, jusques à quand serai-je avec vous ? jusques à quand vous supporterai-je ? Amenez-le-moi ici.",
+          "darby": "Et Jésus, répondant, dit : Ô génération incrédule et perverse, jusques à quand serai-je avec vous ? jusques à quand vous supporterai-je ? Amenez-le-moi ici."
+        },
+        "interlinear": [
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "Ayant_répondu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ὦ",
+            "gloss": "Ô"
+          },
+          {
+            "greek": "γενεὰ",
+            "gloss": "génération"
+          },
+          {
+            "greek": "ἄπιστος",
+            "gloss": "sans_foi/incrédule"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διεστραμμένη,",
+            "gloss": "perverse/tordue",
+            "annotation": {
+              "type": "racine",
+              "title": "Une génération dévoyée",
+              "content": "Approfondissement spirituel : Le mot *diestrammene* vient de *diastrepho* (tordre, déformer). La perversion ici n'est pas morale, elle est ontologique : c'est ce qui est tordu, qui a perdu sa droiture verticale. Le Christ reproche à la génération (y compris aux disciples) d'être courbée sur l'horizontale au lieu d'être alignée avec le Père.",
+              "related": [
+                "ἄπιστος",
+                "καὶ",
+                "ἕως",
+                "πότε"
+              ]
+            }
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "πότε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "μεθ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἔσομαι;",
+            "gloss": "serai-je"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "πότε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "ἀνέξομαι",
+            "gloss": "supporterai-je"
+          },
+          {
+            "greek": "ὑμῶν;",
+            "gloss": "vous"
+          },
+          {
+            "greek": "φέρετέ",
+            "gloss": "apportez"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὧδε.",
+            "gloss": "ici"
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "translations": {
+          "segond": "Jésus parla sévèrement au démon, qui sortit de lui, et l'enfant fut guéri à l'heure même.",
+          "darby": "Et Jésus le menaça ; et le démon sortit de lui ; et l'enfant fut guéri dès cette heure-là."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐπετίμησεν",
+            "gloss": "menaça/réprimanda"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐξῆλθεν",
+            "gloss": "sortit"
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "de"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δαιμόνιον·",
+            "gloss": "démon"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐθεραπεύθη",
+            "gloss": "fut_guéri"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παῖς",
+            "gloss": "garçon/enfant"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὥρας",
+            "gloss": "heure"
+          },
+          {
+            "greek": "ἐκείνης.",
+            "gloss": "cette...-là"
+          }
+        ]
+      },
+      {
+        "verse_number": 19,
+        "translations": {
+          "segond": "Alors les disciples s'approchèrent de Jésus, et lui dirent en particulier : Pourquoi n'avons-nous pu chasser ce démon ?",
+          "darby": "Alors les disciples, s'approchant de Jésus à l'écart, dirent : Pourquoi n'avons-nous pu le chasser ?"
+        },
+        "interlinear": [
+          {
+            "greek": "Τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "προσελθόντες",
+            "gloss": "s'étant_approchés"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "à"
+          },
+          {
+            "greek": "ἰδίαν",
+            "gloss": "l'écart/en_particulier"
+          },
+          {
+            "greek": "εἶπον·",
+            "gloss": "dirent"
+          },
+          {
+            "greek": "Διὰ",
+            "gloss": "Pour"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quoi"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἠδυνήθημεν",
+            "gloss": "avons_pu"
+          },
+          {
+            "greek": "ἐκβαλεῖν",
+            "gloss": "chasser"
+          },
+          {
+            "greek": "αὐτό;",
+            "gloss": "le"
+          }
+        ]
+      },
+      {
+        "verse_number": 20,
+        "translations": {
+          "segond": "C'est à cause de votre incrédulité, leur dit Jésus. Je vous le dis en vérité, si vous aviez de la foi comme un grain de sénevé, vous diriez à cette montagne : Transporte-toi d'ici là, et elle se transporterait ; rien ne vous serait impossible.",
+          "darby": "Et il leur dit : À cause de votre incrédulité ; car, en vérité, je vous dis : si vous avez de la foi comme un grain de moutarde, vous direz à cette montagne : Transporte-toi d'ici là, et elle se transportera ; et rien ne vous sera impossible."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Διὰ",
+            "gloss": "À_cause_de"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὀλιγοπιστίαν",
+            "gloss": "incrédulité/petite_foi",
+            "annotation": {
+              "type": "racine",
+              "title": "La petitesse de la foi",
+              "content": "Approfondissement spirituel : Le mot *oligopistia* (foi minuscule). Le problème des disciples n'est pas un manque de croyance intellectuelle, mais un manque de 'branchement'. Ils ont essayé de guérir l'enfant avec leur propre ego, comme une technique, au lieu de laisser couler la Grâce.",
+              "related": [
+                "Διὰ",
+                "τὴν",
+                "ὑμῶν·",
+                "ἀμὴν"
+              ]
+            }
+          },
+          {
+            "greek": "ὑμῶν·",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "ἀμὴν",
+            "gloss": "en_vérité"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "ἔχητε",
+            "gloss": "vous_avez"
+          },
+          {
+            "greek": "πίστιν",
+            "gloss": "foi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "κόκκον",
+            "gloss": "un_grain"
+          },
+          {
+            "greek": "σινάπεως,",
+            "gloss": "de_moutarde"
+          },
+          {
+            "greek": "ἐρεῖτε",
+            "gloss": "vous_direz"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "ὄρει",
+            "gloss": "montagne"
+          },
+          {
+            "greek": "τούτῳ·",
+            "gloss": "cette"
+          },
+          {
+            "greek": "Μετάβα",
+            "gloss": "Transporte-toi"
+          },
+          {
+            "greek": "ἔνθεν",
+            "gloss": "d'ici"
+          },
+          {
+            "greek": "ἐκεῖ,",
+            "gloss": "là"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μεταβήσεται,",
+            "gloss": "elle_se_transportera"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐδὲν",
+            "gloss": "rien"
+          },
+          {
+            "greek": "ἀδυνατήσει",
+            "gloss": "ne_sera_impossible",
+            "annotation": {
+              "type": "racine",
+              "title": "Rien ne sera impossible",
+              "content": "Ἀδυνατέω signifie être incapable ou impossible, de la famille de δύναμις, capacité ou puissance. Le lien lexical permet de méditer la puissance reçue de Dieu, mais la traduction littérale reste : « rien ne vous sera impossible ».",
+              "related": [
+                "καὶ",
+                "οὐδὲν",
+                "ὑμῖν."
+              ]
+            }
+          },
+          {
+            "greek": "ὑμῖν.",
+            "gloss": "à_vous"
+          }
+        ]
+      },
+      {
+        "verse_number": 21,
+        "translations": {
+          "segond": "Mais cette sorte de démon ne sort que par la prière et par le jeûne.",
+          "darby": "Mais cette sorte ne sort que par la prière et par le jeûne."
+        },
+        "interlinear": [
+          {
+            "greek": "τοῦτο",
+            "gloss": "Cette"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γένος",
+            "gloss": "sorte/race"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐκπορεύεται",
+            "gloss": "sort"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par"
+          },
+          {
+            "greek": "προσευχῇ",
+            "gloss": "la_prière"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "νηστείᾳ.",
+            "gloss": "le_jeûne",
+            "annotation": {
+              "type": "theologie",
+              "title": "Prière et jeûne",
+              "content": "Certains manuscrits ajoutent : « cette espèce ne sort que par la prière et le jeûne », tandis que les éditions critiques omettent généralement le verset 21 de Matthieu. La tradition liturgique et ascétique a néanmoins reçu ensemble prière et jeûne comme disponibilité à l’action de Dieu, non comme technique magique.",
+              "related": [
+                "προσευχῇ",
+                "καὶ"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 22,
+        "translations": {
+          "segond": "Pendant qu'ils parcouraient la Galilée, Jésus leur dit : Le Fils de l'homme doit être livré entre les mains des hommes ;",
+          "darby": "Et comme ils séjournaient dans la Galilée, Jésus leur dit : Le fils de l'homme va être livré entre les mains des hommes ;"
+        },
+        "interlinear": [
+          {
+            "greek": "Συστρεφομένων",
+            "gloss": "Séjournant/Se_rassemblant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "Γαλιλαίᾳ",
+            "gloss": "Galilée"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Μέλλει",
+            "gloss": "doit/va"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "homme"
+          },
+          {
+            "greek": "παραδίδοσθαι",
+            "gloss": "être_livré"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "χεῖρας",
+            "gloss": "les_mains"
+          },
+          {
+            "greek": "ἀνθρώπων,",
+            "gloss": "des_hommes"
+          }
+        ]
+      },
+      {
+        "verse_number": 23,
+        "translations": {
+          "segond": "ils le feront mourir, et le troisième jour il ressuscitera. Ils furent profondément attristés.",
+          "darby": "et ils le feront mourir ; et le troisième jour il sera ressuscité. Et ils furent fort attristés."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποκτενοῦσιν",
+            "gloss": "ils_tueront"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τρίτῃ",
+            "gloss": "troisième"
+          },
+          {
+            "greek": "ἡμέρᾳ",
+            "gloss": "jour"
+          },
+          {
+            "greek": "ἐγερθήσεται.",
+            "gloss": "il_sera_ressuscité/réveillé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐλυπήθησαν",
+            "gloss": "ils_furent_attristés",
+            "annotation": {
+              "type": "analyse",
+              "title": "La tristesse devant la Passion",
+              "content": "Approfondissement spirituel : La *lype* (tristesse). L'Ego des disciples ne comprend pas. Ils viennent de voir la puissance de la guérison et espèrent un triomphe horizontal. L'annonce de la Passion brise leur rêve d'un pouvoir mondain. Ils s'attristent parce qu'ils n'entendent que 'mourir', sans saisir la 'résurrection'.",
+              "related": [
+                "ἐγερθήσεται.",
+                "καὶ",
+                "σφόδρα."
+              ]
+            }
+          },
+          {
+            "greek": "σφόδρα.",
+            "gloss": "extrêmement"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 20 - ἀδυνατήσει : 'rien ne vous sera impossible'. Le choix de traduction masque la présence cruciale de la racine *dynamis* (énergie/puissance). Le Christ affirme littéralement : 'Rien ne sera sans Énergie pour vous'. \n• Verset 21 - γένος : Traduit par 'sorte'. Il désigne une espèce, une race. Cette emprise démoniaque est de nature structurelle ; elle n'est pas un simple malaise passager, c'est l'essence même de la déconnexion d'avec Dieu.\n\nAnalyse spirituelle :\nCette péricope oppose la fluctuation destructrice de l'Ego à la stabilité axiale de la Foi. L'enfant lunatique est le symbole parfait de l'âme emprisonnée dans le 'Monde duel' : il n'a pas de centre et oscille violemment entre les extrêmes, tombant tantôt dans le feu (l'agitation, les passions), tantôt dans l'eau (la dépression, l'engourdissement). \n\nL'échec des disciples est riche d'enseignements. Le Christ les traite de 'génération tordue/perverse' (*diestrammene*) non pas pour les insulter, mais pour poser un diagnostic ontologique : ils ont perdu leur droiture verticale. Ils ont essayé de guérir l'enfant comme s'ils possédaient un pouvoir magique horizontal. Or, face au chaos de l'Ego objectivé, seul l'Axe vertical peut restaurer l'ordre. C'est le sens profond de la 'prière' (tourner son esprit vers l'Incréé) et du 'jeûne' (lâcher prise sur la matière).\n\nLe texte s'achève par le paradoxe absolu de la Croix. Alors que le Christ vient de démontrer sa maîtrise totale sur la maladie, il annonce qu'il va être 'livré'. C'est la kénose suprême : la vraie Puissance (*dynamis*) ne consiste pas à dominer les hommes, mais à se laisser objectiver par eux jusqu'à la mort pour faire éclater le Monde duel de l'intérieur par la Résurrection.\n\nComplément de lecture : le père apporte au Christ l’échec des disciples, et Jésus rend l’enfant à la relation. La foi comme grain de moutarde ne mesure pas une quantité de conviction ; elle déplace l’appui de soi vers Dieu. L’annonce immédiate de la Passion interdit de transformer la puissance en triomphalisme.",
+    "homiletic_axes": [
+      {
+        "title": "Apporter au Christ ce que nous ne pouvons guérir",
+        "content": "Le père s’agenouille et présente à Jésus la souffrance de son fils ainsi que l’impuissance des disciples.",
+        "keywords": [
+          "γονυπετῶν",
+          "ἐλέησόν",
+          "υἱόν,",
+          "ἠδυνήθησαν"
+        ]
+      },
+      {
+        "title": "De l’instabilité au relèvement",
+        "content": "L’enfant tombe dans le feu et dans l’eau ; Jésus reprend l’esprit et l’enfant est guéri dès cette heure.",
+        "keywords": [
+          "πίπτει",
+          "πῦρ",
+          "ὕδωρ.",
+          "ἐθεραπεύθη"
+        ]
+      },
+      {
+        "title": "Une foi petite mais réellement orientée",
+        "content": "Le grain de moutarde ne célèbre pas la performance religieuse : il invite à une confiance ajustée à Dieu, avec prière et jeûne dans la réception ascétique.",
+        "keywords": [
+          "ὀλιγοπιστίαν",
+          "κόκκον",
+          "σινάπεως,",
+          "προσευχῇ"
+        ]
+      },
+      {
+        "title": "La puissance sous la forme de la faiblesse apostolique",
+        "content": "L’annonce de la Passion rejoint Paul : l’apôtre ne se présente pas comme un puissant spectaculaire, mais comme celui qui bénit sous l’insulte et engendre par l’Évangile.",
+        "keywords": [
+          "παραδίδοσθαι",
+          "μωροὶ",
+          "εὐλογοῦμεν,",
+          "πατέρας·"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 10e dimanche : une parole, un geste, un contraste, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez d’abord la progression du récit évangélique, puis voyez comment l’Apôtre l’approfondit, la déplace ou en manifeste le fruit ecclésial. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète véritablement éclairée par les textes : peur, impuissance, dette, attachement, appropriation, division, besoin d’être saisi ou difficulté à recevoir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans imposer un modèle unique : crier vers le Christ, pardonner, renoncer à un droit, suivre, servir, veiller, partager ou se laisser reconstruire."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La puissance délivrée du spectacle",
+        "reference": "Matthieu 17, 14-23 ; 1 Corinthiens 4, 9-16",
+        "content": "La guérison de l’enfant ne fonde aucun triomphe des disciples : Jésus annonce aussitôt sa Passion. Paul décrit pareillement une puissance apostolique qui accepte la faiblesse, bénit sous l’insulte et engendre dans l’Évangile.",
+        "connections": []
+      }
     ]
   },
-  {
-    "verse_number": 15,
-    "translations": {
-      "segond": "Seigneur, aie pitié de mon fils, qui est lunatique, et qui souffre cruellement ; il tombe souvent dans le feu, et souvent dans l'eau.",
-      "darby": "Seigneur, aie pitié de mon fils, car il est lunatique et souffre cruellement ; car souvent il tombe dans le feu, et souvent dans l'eau."
-    },
+  "apostle": {
+    "reference": "1 Corinthiens 4, 9-16",
+    "title": "La Folie des Apôtres et la Paternité Spirituelle de Paul",
     "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "λέγων·", "gloss": "disant" },
-      { "greek": "Κύριε,", "gloss": "Seigneur" },
-      { "greek": "ἐλέησόν", "gloss": "aie_pitié/fais_miséricorde" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "υἱόν,", "gloss": "fils" },
-      { "greek": "ὅτι", "gloss": "car" },
-      { "greek": "σεληνιάζεται", "gloss": "il_est_lunatique", "analyse": "Le verbe *seleniazomai* (être frappé par la lune). La lune symbolise les cycles, l'instabilité, la fluctuation perpétuelle. L'enfant est la victime tragique du 'Monde duel' : il n'a plus de centre, plus d'axe, il est ballotté entre les contraires absolus (le feu de l'agitation ou l'eau de la dépression/noyade)." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "κακῶς", "gloss": "mal/cruellement" },
-      { "greek": "πάσχει·", "gloss": "il_souffre" },
-      { "greek": "πολλάκις", "gloss": "souvent" },
-      { "greek": "γὰρ", "gloss": "en_effet" },
-      { "greek": "πίπτει", "gloss": "il_tombe" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "πῦρ", "gloss": "feu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πολλάκις", "gloss": "souvent" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸ", "gloss": "l'" },
-      { "greek": "ὕδωρ.", "gloss": "eau" }
-    ]
-  },
-  {
-    "verse_number": 16,
-    "translations": {
-      "segond": "Je l'ai amené à tes disciples, et ils n'ont pas pu le guérir.",
-      "darby": "Et je l'ai apporté à tes disciples ; et ils n'ont pu le guérir."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "προσήνεγκα", "gloss": "je_l'ai_apporté" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "τοῖς", "gloss": "aux" },
-      { "greek": "μαθηταῖς", "gloss": "disciples" },
-      { "greek": "σου,", "gloss": "de_toi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐκ", "gloss": "non" },
-      { "greek": "ἠδυνήθησαν", "gloss": "ils_purent", "analyse": "La racine est *dynamai*, qui donne la *dynamis* (l'énergie divine). S'ils n'ont 'pas pu', ce n'est pas qu'ils manquent de talent magique ; c'est qu'ils sont coupés de la *dynamis*. Sans l'Axe vertical de la prière, l'Ego humain du disciple est incapable de guérir la fracture du Monde duel." },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "θεραπεῦσαι.", "gloss": "guérir" }
-    ]
-  },
-  {
-    "verse_number": 17,
-    "translations": {
-      "segond": "Race incrédule et perverse, répondit Jésus, jusques à quand serai-je avec vous ? jusques à quand vous supporterai-je ? Amenez-le-moi ici.",
-      "darby": "Et Jésus, répondant, dit : Ô génération incrédule et perverse, jusques à quand serai-je avec vous ? jusques à quand vous supporterai-je ? Amenez-le-moi ici."
-    },
-    "interlinear": [
-      { "greek": "ἀποκριθεὶς", "gloss": "Ayant_répondu" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "εἶπεν·", "gloss": "dit" },
-      { "greek": "Ὦ", "gloss": "Ô" },
-      { "greek": "γενεὰ", "gloss": "génération" },
-      { "greek": "ἄπιστος", "gloss": "sans_foi/incrédule" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "διεστραμμένη,", "gloss": "perverse/tordue", "analyse": "Le mot *diestrammene* vient de *diastrepho* (tordre, déformer). La perversion ici n'est pas morale, elle est ontologique : c'est ce qui est tordu, qui a perdu sa droiture verticale. Le Christ reproche à la génération (y compris aux disciples) d'être courbée sur l'horizontale au lieu d'être alignée avec le Père." },
-      { "greek": "ἕως", "gloss": "jusqu'à" },
-      { "greek": "πότε", "gloss": "quand" },
-      { "greek": "μεθ’", "gloss": "avec" },
-      { "greek": "ὑμῶν", "gloss": "vous" },
-      { "greek": "ἔσομαι;", "gloss": "serai-je" },
-      { "greek": "ἕως", "gloss": "jusqu'à" },
-      { "greek": "πότε", "gloss": "quand" },
-      { "greek": "ἀνέξομαι", "gloss": "supporterai-je" },
-      { "greek": "ὑμῶν;", "gloss": "vous" },
-      { "greek": "φέρετέ", "gloss": "apportez" },
-      { "greek": "μοι", "gloss": "à_moi" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "ὧδε.", "gloss": "ici" }
-    ]
-  },
-  {
-    "verse_number": 18,
-    "translations": {
-      "segond": "Jésus parla sévèrement au démon, qui sortit de lui, et l'enfant fut guéri à l'heure même.",
-      "darby": "Et Jésus le menaça ; et le démon sortit de lui ; et l'enfant fut guéri dès cette heure-là."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἐπετίμησεν", "gloss": "menaça/réprimanda" },
-      { "greek": "αὐτῷ", "gloss": "lui" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς,", "gloss": "Jésus" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐξῆλθεν", "gloss": "sortit" },
-      { "greek": "ἀπ’", "gloss": "de" },
-      { "greek": "αὐτοῦ", "gloss": "lui" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "δαιμόνιον·", "gloss": "démon" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐθεραπεύθη", "gloss": "fut_guéri" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "παῖς", "gloss": "garçon/enfant" },
-      { "greek": "ἀπὸ", "gloss": "depuis" },
-      { "greek": "τῆς", "gloss": "l'" },
-      { "greek": "ὥρας", "gloss": "heure" },
-     { "greek": "ἐκείνης.", "gloss": "cette...-là" }
-    ]
-  },
-  {
-    "verse_number": 19,
-    "translations": {
-      "segond": "Alors les disciples s'approchèrent de Jésus, et lui dirent en particulier : Pourquoi n'avons-nous pu chasser ce démon ?",
-      "darby": "Alors les disciples, s'approchant de Jésus à l'écart, dirent : Pourquoi n'avons-nous pu le chasser ?"
-    },
-    "interlinear": [
-      { "greek": "Τότε", "gloss": "Alors" },
-      { "greek": "προσελθόντες", "gloss": "s'étant_approchés" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "μαθηταὶ", "gloss": "disciples" },
-      { "greek": "τῷ", "gloss": "de" },
-      { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-      { "greek": "κατ’", "gloss": "à" },
-      { "greek": "ἰδίαν", "gloss": "l'écart/en_particulier" },
-      { "greek": "εἶπον·", "gloss": "dirent" },
-      { "greek": "Διὰ", "gloss": "Pour" },
-      { "greek": "τί", "gloss": "quoi" },
-      { "greek": "ἡμεῖς", "gloss": "nous" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἠδυνήθημεν", "gloss": "avons_pu" },
-      { "greek": "ἐκβαλεῖν", "gloss": "chasser" },
-      { "greek": "αὐτό;", "gloss": "le" }
-    ]
-  },
-  {
-    "verse_number": 20,
-    "translations": {
-      "segond": "C'est à cause de votre incrédulité, leur dit Jésus. Je vous le dis en vérité, si vous aviez de la foi comme un grain de sénevé, vous diriez à cette montagne : Transporte-toi d'ici là, et elle se transporterait ; rien ne vous serait impossible.",
-      "darby": "Et il leur dit : À cause de votre incrédulité ; car, en vérité, je vous dis : si vous avez de la foi comme un grain de moutarde, vous direz à cette montagne : Transporte-toi d'ici là, et elle se transportera ; et rien ne vous sera impossible."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "Il" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "λέγει", "gloss": "dit" },
-      { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-      { "greek": "Διὰ", "gloss": "À_cause_de" },
-      { "greek": "τὴν", "gloss": "l'" },
-      { "greek": "ὀλιγοπιστίαν", "gloss": "incrédulité/petite_foi", "analyse": "Le mot *oligopistia* (foi minuscule). Le problème des disciples n'est pas un manque de croyance intellectuelle, mais un manque de 'branchement'. Ils ont essayé de guérir l'enfant avec leur propre ego, comme une technique, au lieu de laisser couler la Grâce." },
-      { "greek": "ὑμῶν·", "gloss": "de_vous" },
-      { "greek": "ἀμὴν", "gloss": "en_vérité" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "λέγω", "gloss": "je_dis" },
-      { "greek": "ὑμῖν,", "gloss": "à_vous" },
-      { "greek": "ἐὰν", "gloss": "si" },
-      { "greek": "ἔχητε", "gloss": "vous_avez" },
-      { "greek": "πίστιν", "gloss": "foi" },
-      { "greek": "ὡς", "gloss": "comme" },
-      { "greek": "κόκκον", "gloss": "un_grain" },
-      { "greek": "σινάπεως,", "gloss": "de_moutarde" },
-      { "greek": "ἐρεῖτε", "gloss": "vous_direz" },
-      { "greek": "τῷ", "gloss": "à_la" },
-      { "greek": "ὄρει", "gloss": "montagne" },
-      { "greek": "τούτῳ·", "gloss": "cette" },
-      { "greek": "Μετάβα", "gloss": "Transporte-toi" },
-      { "greek": "ἔνθεν", "gloss": "d'ici" },
-      { "greek": "ἐκεῖ,", "gloss": "là" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "μεταβήσεται,", "gloss": "elle_se_transportera" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐδὲν", "gloss": "rien" },
-      { "greek": "ἀδυνατήσει", "gloss": "ne_sera_impossible", "analyse": "Le verbe *adynatesei* (être sans *dynamis*). La foi véritable connecte le Sujet à l'Énergie incréée (*dynamis*). Dès lors, aucune montagne de l'Ego (les blocages massifs du Monde duel) ne peut résister au Flux divin. Rien n'est 'sans-énergie' pour celui qui est branché à la Source." },
-      { "greek": "ὑμῖν.", "gloss": "à_vous" }
-    ]
-  },
-  {
-    "verse_number": 21,
-    "translations": {
-      "segond": "Mais cette sorte de démon ne sort que par la prière et par le jeûne.",
-      "darby": "Mais cette sorte ne sort que par la prière et par le jeûne."
-    },
-    "interlinear": [
-      { "greek": "τοῦτο", "gloss": "Cette" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "τὸ", "gloss": "la" },
-      { "greek": "γένος", "gloss": "sorte/race" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἐκπορεύεται", "gloss": "sort" },
-      { "greek": "εἰ", "gloss": "si" },
-      { "greek": "μὴ", "gloss": "non" },
-      { "greek": "ἐν", "gloss": "par" },
-      { "greek": "προσευχῇ", "gloss": "la_prière" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "νηστείᾳ.", "gloss": "le_jeûne", "analyse": "C'est l'Axe vertical absolu de la kénose. La prière connecte au Royaume UN (le Ciel), et le jeûne coupe l'addiction au Monde duel (la Terre). Contre la folie lunatique (l'horizontalité instable), seul un ancrage vertical total peut restaurer le Sujet." }
-    ]
-  },
-  {
-    "verse_number": 22,
-    "translations": {
-      "segond": "Pendant qu'ils parcouraient la Galilée, Jésus leur dit : Le Fils de l'homme doit être livré entre les mains des hommes ;",
-      "darby": "Et comme ils séjournaient dans la Galilée, Jésus leur dit : Le fils de l'homme va être livré entre les mains des hommes ;"
-    },
-    "interlinear": [
-      { "greek": "Συστρεφομένων", "gloss": "Séjournant/Se_rassemblant" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "αὐτῶν", "gloss": "eux" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "Γαλιλαίᾳ", "gloss": "Galilée" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "αὐτοῖς", "gloss": "à_eux" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-      { "greek": "Μέλλει", "gloss": "doit/va" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "τοῦ", "gloss": "de_l'" },
-      { "greek": "ἀνθρώπου", "gloss": "homme" },
-      { "greek": "παραδίδοσθαι", "gloss": "être_livré" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "χεῖρας", "gloss": "les_mains" },
-      { "greek": "ἀνθρώπων,", "gloss": "des_hommes" }
-    ]
-  },
-  {
-    "verse_number": 23,
-    "translations": {
-      "segond": "ils le feront mourir, et le troisième jour il ressuscitera. Ils furent profondément attristés.",
-      "darby": "et ils le feront mourir ; et le troisième jour il sera ressuscité. Et ils furent fort attristés."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀποκτενοῦσιν", "gloss": "ils_tueront" },
-      { "greek": "αὐτόν,", "gloss": "lui" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τῇ", "gloss": "le" },
-      { "greek": "τρίτῃ", "gloss": "troisième" },
-      { "greek": "ἡμέρᾳ", "gloss": "jour" },
-      { "greek": "ἐγερθήσεται.", "gloss": "il_sera_ressuscité/réveillé" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐλυπήθησαν", "gloss": "ils_furent_attristés", "analyse": "La *lype* (tristesse). L'Ego des disciples ne comprend pas. Ils viennent de voir la puissance de la guérison et espèrent un triomphe horizontal. L'annonce de la Passion brise leur rêve d'un pouvoir mondain. Ils s'attristent parce qu'ils n'entendent que 'mourir', sans saisir la 'résurrection'." },
-      { "greek": "σφόδρα.", "gloss": "extrêmement" }
-    ]
+      {
+        "verse_number": 9,
+        "translations": {
+          "segond": "Car Dieu, ce me semble, a fait de nous, apôtres, les derniers des hommes, des condamnés à mort en quelque sorte, puisque nous avons été en spectacle au monde, aux anges et aux hommes.",
+          "darby": "Car je pense que Dieu nous a produits les derniers, nous les apôtres, comme des condamnés à mort ; car nous sommes devenus un spectacle pour le monde, et pour les anges, et pour les hommes."
+        },
+        "interlinear": [
+          {
+            "greek": "δοκῶ",
+            "gloss": "Je_pense"
+          },
+          {
+            "greek": "γάρ,",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀποστόλους",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "ἐσχάτους",
+            "gloss": "derniers"
+          },
+          {
+            "greek": "ἀπέδειξεν",
+            "gloss": "a_montrés/exhibés"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἐπιθανατίους,",
+            "gloss": "condamnés_à_mort"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "θέατρον",
+            "gloss": "un_spectacle/un_théâtre",
+            "annotation": {
+              "type": "traduction",
+              "title": "Donnés en spectacle",
+              "content": "Approfondissement spirituel : Le mot *theatron* (théâtre, spectacle). L'Ego aime être au centre du théâtre pour être admiré (comme les Corinthiens). L'apôtre, lui, est jeté dans l'arène du Monde duel non pour briller, mais pour y mourir publiquement. C'est l'inversion absolue de la gloire horizontale.",
+              "related": [
+                "ἐπιθανατίους,",
+                "ὅτι",
+                "ἐγενήθημεν",
+                "τῷ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐγενήθημεν",
+            "gloss": "nous_sommes_devenus"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "κόσμῳ",
+            "gloss": "monde"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀγγέλοις",
+            "gloss": "aux_anges"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀνθρώποις.",
+            "gloss": "aux_hommes"
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "Nous sommes fous à cause de Christ ; mais vous, vous êtes sages en Christ ; nous sommes faibles, mais vous êtes forts. Vous êtes honorés, et nous sommes méprisés !",
+          "darby": "Nous, nous sommes fous à cause de Christ, mais vous, vous êtes sages en Christ ; nous, nous sommes faibles, mais vous, vous êtes forts ; vous, vous êtes glorieux, mais nous, nous sommes méprisés."
+        },
+        "interlinear": [
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "Nous"
+          },
+          {
+            "greek": "μωροὶ",
+            "gloss": "fous",
+            "annotation": {
+              "type": "repetition",
+              "title": "Fous à cause du Christ",
+              "content": "Approfondissement spirituel : La *moria* (folie). Paul reprend le thème de la Croix. Aux yeux du Monde duel, renoncer à dominer est une maladie psychiatrique. Paul ironise violemment sur les Corinthiens qui croient pouvoir être 'sages' (*phronimoi*) et 'forts' sans passer par la kénose de la folie.",
+              "related": [
+                "ἡμεῖς",
+                "διὰ",
+                "Χριστόν,"
+              ]
+            }
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "Χριστόν,",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "φρόνιμοι",
+            "gloss": "sages/sensés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Χριστῷ·",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἀσθενεῖς,",
+            "gloss": "faibles"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἰσχυροί·",
+            "gloss": "forts"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἔνδοξοι,",
+            "gloss": "glorieux/honorés"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἄτιμοι.",
+            "gloss": "sans_honneur/méprisés"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Jusqu'à cette heure, nous souffrons la faim, la soif, la nudité ; nous sommes maltraités, errants çà et là ;",
+          "darby": "Jusqu'à cette heure présente, et nous avons faim, et nous avons soif, et nous sommes nus, et nous sommes souffletés, et nous sommes errants,"
+        },
+        "interlinear": [
+          {
+            "greek": "ἄχρι",
+            "gloss": "Jusqu'à"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἄρτι",
+            "gloss": "actuelle"
+          },
+          {
+            "greek": "ὥρας",
+            "gloss": "heure"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πεινῶμεν",
+            "gloss": "nous_avons_faim"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διψῶμεν",
+            "gloss": "nous_avons_soif"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "γυμνιτεύομεν",
+            "gloss": "nous_sommes_nus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κολαφιζόμεθα",
+            "gloss": "nous_sommes_frappés/souffletés",
+            "annotation": {
+              "type": "analyse",
+              "title": "Frappés et sans demeure",
+              "content": "Approfondissement spirituel : Le verbe *kolaphizomai* (frapper à coups de poing, humilier physiquement). L'apôtre décrit la réalité charnelle de la mission. Il n'est pas un gourou intouchable ; son corps même encaisse les ondes de choc de la violence du Monde duel.",
+              "related": [
+                "γυμνιτεύομεν",
+                "καὶ",
+                "καὶ",
+                "ἀστατοῦμεν"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀστατοῦμεν",
+            "gloss": "nous_sommes_sans_demeure_fixe"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "nous nous fatiguons à travailler de nos propres mains ; injuriés, nous bénissons ; persécutés, nous supportons ;",
+          "darby": "et nous nous fatiguons, travaillant de nos propres mains. Injuriés, nous bénissons ; persécutés, nous le supportons ;"
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κοπιῶμεν",
+            "gloss": "nous_nous_fatiguons"
+          },
+          {
+            "greek": "ἐργαζόμενοι",
+            "gloss": "travaillant"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "de_les"
+          },
+          {
+            "greek": "ἰδίαις",
+            "gloss": "propres"
+          },
+          {
+            "greek": "χερσίν·",
+            "gloss": "mains"
+          },
+          {
+            "greek": "λοιδορούμενοι",
+            "gloss": "étant_injuriés"
+          },
+          {
+            "greek": "εὐλογοῦμεν,",
+            "gloss": "nous_bénissons",
+            "annotation": {
+              "type": "theologie",
+              "title": "Insultés, nous bénissons",
+              "content": "Approfondissement spirituel : Le cycle mortifère du Monde duel est brisé net. Face à l'insulte (l'énergie de division), l'apôtre ne réagit pas par la malédiction (l'Ego blessé), mais il agit en Sujet libre qui fait descendre la bénédiction (*eulogia*). C'est la mise en pratique absolue de l'Évangile.",
+              "related": [
+                "χερσίν·",
+                "λοιδορούμενοι",
+                "διωκόμενοι",
+                "ἀνεχόμεθα,"
+              ]
+            }
+          },
+          {
+            "greek": "διωκόμενοι",
+            "gloss": "étant_persécutés"
+          },
+          {
+            "greek": "ἀνεχόμεθα,",
+            "gloss": "nous_supportons"
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "translations": {
+          "segond": "calomniés, nous parlons avec bonté ; nous sommes devenus comme les balayures du monde, le rebut de tous, jusqu'à maintenant.",
+          "darby": "diffamés, nous supplions. Nous sommes devenus comme les balayures du monde, et le rebut de tous, jusqu'à maintenant."
+        },
+        "interlinear": [
+          {
+            "greek": "δυσφημούμενοι",
+            "gloss": "étant_diffamés/calomniés"
+          },
+          {
+            "greek": "παρακαλοῦμεν·",
+            "gloss": "nous_exhortons/supplions"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "περικαθάρματα",
+            "gloss": "les_balayures/le_refus",
+            "annotation": {
+              "type": "traduction",
+              "title": "Comme les déchets du monde",
+              "content": "Approfondissement spirituel : Le mot *perikatharmata* est d'une violence inouïe. À Athènes, ce terme désignait les criminels qu'on jetait à la mer comme boucs émissaires pour purifier la ville lors des épidémies. Paul assume d'être l'ordure que le Monde duel rejette pour expulser son propre mal.",
+              "related": [
+                "παρακαλοῦμεν·",
+                "ὡς",
+                "τοῦ",
+                "κόσμου"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κόσμου",
+            "gloss": "monde"
+          },
+          {
+            "greek": "ἐγενήθημεν,",
+            "gloss": "nous_sommes_devenus"
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "de_tous"
+          },
+          {
+            "greek": "περίψημα",
+            "gloss": "le_rebut/la_raclure"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "ἄρτι.",
+            "gloss": "maintenant"
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Ce n'est pas pour vous faire honte que j'écris ces choses ; mais je vous avertis comme mes enfants bien-aimés.",
+          "darby": "Je n'écris pas ces choses pour vous faire honte, mais je vous avertis comme mes enfants bien-aimés."
+        },
+        "interlinear": [
+          {
+            "greek": "Οὐκ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "ἐντρέπων",
+            "gloss": "pour_faire_honte"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "γράφω",
+            "gloss": "j'écris"
+          },
+          {
+            "greek": "ταῦτα,",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "τέκνα",
+            "gloss": "enfants"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἀγαπητὰ",
+            "gloss": "bien-aimés"
+          },
+          {
+            "greek": "νουθετῶν·",
+            "gloss": "avertissant",
+            "annotation": {
+              "type": "racine",
+              "title": "Avertir comme des enfants aimés",
+              "content": "Approfondissement spirituel : Le verbe *noutheteo* (mettre dans l'esprit, avertir). Après l'ironie cinglante, c'est l'effusion de l'amour vertical. Paul n'utilise pas la culpabilité (arme de l'Ego) pour les rabaisser, mais l'avertissement paternel pour les ramener à la réalité du Royaume.",
+              "related": [
+                "μου",
+                "ἀγαπητὰ"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "translations": {
+          "segond": "Car, quand vous auriez dix mille maîtres en Christ, vous n'avez cependant pas plusieurs pères, puisque c'est moi qui vous ai engendrés en Jésus Christ par l'Évangile.",
+          "darby": "Car quand vous auriez dix mille maîtres dans le Christ, vous n'avez cependant pas plusieurs pères ; car c'est moi qui vous ai engendrés dans le Christ Jésus par l'évangile."
+        },
+        "interlinear": [
+          {
+            "greek": "ἐὰν",
+            "gloss": "Même_si"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "μυρίους",
+            "gloss": "dix_mille"
+          },
+          {
+            "greek": "παιδαγωγοὺς",
+            "gloss": "pédagogues/maîtres",
+            "annotation": {
+              "type": "traduction",
+              "title": "Pédagogues et père",
+              "content": "Approfondissement spirituel : Le *paidagogos* était l'esclave chargé de conduire l'enfant à l'école et de lui imposer la discipline. La religion du Monde duel est pleine de 'pédagogues' : des moralistes qui donnent des leçons et des règles extérieures sans transmettre la vie.",
+              "related": [
+                "γὰρ",
+                "μυρίους",
+                "ἔχητε",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἔχητε",
+            "gloss": "vous_ayez"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Χριστῷ,",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "πολλοὺς",
+            "gloss": "plusieurs"
+          },
+          {
+            "greek": "πατέρας·",
+            "gloss": "pères",
+            "annotation": {
+              "type": "theologie",
+              "title": "Un père dans le Christ",
+              "content": "Approfondissement spirituel : Le *pater* (père) s'oppose au pédagogue. Le père spirituel est celui qui transmet son propre code génétique spirituel (la Grâce). Il n'enseigne pas une idéologie, il engendre (*gennao*) un Sujet par la transmission de l'Énergie divine.",
+              "related": [
+                "οὐ",
+                "πολλοὺς",
+                "ἐν",
+                "γὰρ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "Χριστῷ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "εὐαγγελίου",
+            "gloss": "évangile"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐγέννησα.",
+            "gloss": "j'ai_engendrés"
+          }
+        ]
+      },
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "Je vous en conjure donc, soyez mes imitateurs.",
+          "darby": "Je vous en exhorte donc, soyez mes imitateurs."
+        },
+        "interlinear": [
+          {
+            "greek": "παρακαλῶ",
+            "gloss": "Je_vous_exhorte/prie"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "μιμηταί",
+            "gloss": "imitateurs"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "γίνεσθε.",
+            "gloss": "soyez/devenez",
+            "annotation": {
+              "type": "racine",
+              "title": "Devenez mes imitateurs",
+              "content": "Approfondissement spirituel : Le verbe *ginomai* (devenir, naître à). Devenir imitateur (*mimetai*), ce n'est pas copier les gestes extérieurs de Paul de manière théâtrale. C'est imiter sa kénose (devenir les balayures du monde) pour briser l'Ego et naître en tant que Sujet capable de bénir quand on l'injurie.",
+              "related": [
+                "μιμηταί",
+                "μου"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 13 - περικαθάρματα : Segond et Darby traduisent par 'balayures'. Ce mot français est un peu trop propre. Le grec désigne les résidus d'un nettoyage purificatoire, les immondices dont on se débarrasse pour échapper à la malédiction. C'est le paroxysme de la figure du bouc émissaire.\n• Verset 15 - παιδαγωγοὺς : 'Maîtres'. Le terme français efface le contexte antique de l'esclave surveillant (*paidagogos*). Paul oppose la froideur d'une surveillance disciplinaire (l'Ego religieux moralisateur) à la chaleur organique de la paternité spirituelle (la transmission de l'Être).\n\nAnalyse spirituelle :\nCe texte est une radiographie impitoyable de la maladie spirituelle de Corinthe (et de notre propre modernité religieuse). Les Corinthiens se sont fabriqués un christianisme sans Croix. Ils vivent dans le fantasme d'un 'Monde duel' spiritualisé où ils seraient déjà 'rois', 'forts' et 'sages'. Leur religion est une validation de leur Ego.\n\nSaint Paul démolit cette hallucination en leur jetant à la figure la réalité apostolique. Le vrai témoin du 'Royaume UN' n'est pas un philosophe honoré, c'est un fou (*moria*) jeté en pâture dans l'arène (*theatron*). Mais cette kénose n'est pas du misérabilisme ; elle est le laboratoire de la liberté absolue. Parce que l'apôtre a accepté de mourir à la reconnaissance du monde (devenant son 'rebut'), il n'est plus prisonnier de ses codes d'action-réaction. C'est pourquoi, frappé, il bénit ; calomnié, il exhorte. Il est un vrai Sujet.\n\nLa conclusion (verset 15) révèle le drame de la transmission. On peut avoir dix mille 'pédagogues' qui nous expliquent le dogme, mais cela ne sauve pas l'âme. Seul un 'Père', c'est-à-dire quelqu'un qui est passé par la mort de l'Ego pour faire circuler l'Énergie divine, peut 'engendrer' (*gennao*) un autre être humain à la vie véritable. Paul demande donc aux Corinthiens de cesser de l'étudier comme un professeur, et de l'imiter dans sa folie crucifiée pour naître à leur tour.\n\nComplément de lecture : Paul décrit l’apostolat par une série de renversements : derniers, spectacle, faibles, sans demeure, insultés mais bénissant. La paternité spirituelle naît de cet engendrement dans l’Évangile et non d’une position sociale protégée.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 10e dimanche : une parole, un geste, un contraste, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez d’abord la progression du récit évangélique, puis voyez comment l’Apôtre l’approfondit, la déplace ou en manifeste le fruit ecclésial. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète véritablement éclairée par les textes : peur, impuissance, dette, attachement, appropriation, division, besoin d’être saisi ou difficulté à recevoir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans imposer un modèle unique : crier vers le Christ, pardonner, renoncer à un droit, suivre, servir, veiller, partager ou se laisser reconstruire."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
+      }
+    ],
+    "liturgical_echoes": []
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 20 - ἀδυνατήσει : 'rien ne vous sera impossible'. Le choix de traduction masque la présence cruciale de la racine *dynamis* (énergie/puissance). Le Christ affirme littéralement : 'Rien ne sera sans Énergie pour vous'. \n• Verset 21 - γένος : Traduit par 'sorte'. Il désigne une espèce, une race. Cette emprise démoniaque est de nature structurelle ; elle n'est pas un simple malaise passager, c'est l'essence même de la déconnexion d'avec Dieu.\n\nAnalyse spirituelle :\nCette péricope oppose la fluctuation destructrice de l'Ego à la stabilité axiale de la Foi. L'enfant lunatique est le symbole parfait de l'âme emprisonnée dans le 'Monde duel' : il n'a pas de centre et oscille violemment entre les extrêmes, tombant tantôt dans le feu (l'agitation, les passions), tantôt dans l'eau (la dépression, l'engourdissement). \n\nL'échec des disciples est riche d'enseignements. Le Christ les traite de 'génération tordue/perverse' (*diestrammene*) non pas pour les insulter, mais pour poser un diagnostic ontologique : ils ont perdu leur droiture verticale. Ils ont essayé de guérir l'enfant comme s'ils possédaient un pouvoir magique horizontal. Or, face au chaos de l'Ego objectivé, seul l'Axe vertical peut restaurer l'ordre. C'est le sens profond de la 'prière' (tourner son esprit vers l'Incréé) et du 'jeûne' (lâcher prise sur la matière).\n\nLe texte s'achève par le paradoxe absolu de la Croix. Alors que le Christ vient de démontrer sa maîtrise totale sur la maladie, il annonce qu'il va être 'livré'. C'est la kénose suprême : la vraie Puissance (*dynamis*) ne consiste pas à dominer les hommes, mais à se laisser objectiver par eux jusqu'à la mort pour faire éclater le Monde duel de l'intérieur par la Résurrection."
-},
-    "apostle": {
-  "reference": "1 Corinthiens 4, 9-16",
-  "title": "La Folie des Apôtres et la Paternité Spirituelle de Paul",
-  "interlinear":[
-    {
-      "verse_number": 9,
-      "translations": {
-        "segond": "Car Dieu, ce me semble, a fait de nous, apôtres, les derniers des hommes, des condamnés à mort en quelque sorte, puisque nous avons été en spectacle au monde, aux anges et aux hommes.",
-        "darby": "Car je pense que Dieu nous a produits les derniers, nous les apôtres, comme des condamnés à mort ; car nous sommes devenus un spectacle pour le monde, et pour les anges, et pour les hommes."
-      },
-      "interlinear": [
-        { "greek": "δοκῶ", "gloss": "Je_pense" },
-        { "greek": "γάρ,", "gloss": "car" },
-        { "greek": "ὁ", "gloss": "le" },
-        { "greek": "θεὸς", "gloss": "Dieu" },
-        { "greek": "ἡμᾶς", "gloss": "nous" },
-        { "greek": "τοὺς", "gloss": "les" },
-        { "greek": "ἀποστόλους", "gloss": "apôtres" },
-        { "greek": "ἐσχάτους", "gloss": "derniers" },
-        { "greek": "ἀπέδειξεν", "gloss": "a_montrés/exhibés" },
-        { "greek": "ὡς", "gloss": "comme" },
-        { "greek": "ἐπιθανατίους,", "gloss": "condamnés_à_mort" },
-        { "greek": "ὅτι", "gloss": "parce_que" },
-        { "greek": "θέατρον", "gloss": "un_spectacle/un_théâtre", "analyse": "Le mot *theatron* (théâtre, spectacle). L'Ego aime être au centre du théâtre pour être admiré (comme les Corinthiens). L'apôtre, lui, est jeté dans l'arène du Monde duel non pour briller, mais pour y mourir publiquement. C'est l'inversion absolue de la gloire horizontale." },
-        { "greek": "ἐγενήθημεν", "gloss": "nous_sommes_devenus" },
-        { "greek": "τῷ", "gloss": "au" },
-        { "greek": "κόσμῳ", "gloss": "monde" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ἀγγέλοις", "gloss": "aux_anges" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ἀνθρώποις.", "gloss": "aux_hommes" }
-      ]
-    },
-    {
-      "verse_number": 10,
-      "translations": {
-        "segond": "Nous sommes fous à cause de Christ ; mais vous, vous êtes sages en Christ ; nous sommes faibles, mais vous êtes forts. Vous êtes honorés, et nous sommes méprisés !",
-        "darby": "Nous, nous sommes fous à cause de Christ, mais vous, vous êtes sages en Christ ; nous, nous sommes faibles, mais vous, vous êtes forts ; vous, vous êtes glorieux, mais nous, nous sommes méprisés."
-      },
-      "interlinear": [
-        { "greek": "ἡμεῖς", "gloss": "Nous" },
-        { "greek": "μωροὶ", "gloss": "fous", "analyse": "La *moria* (folie). Paul reprend le thème de la Croix. Aux yeux du Monde duel, renoncer à dominer est une maladie psychiatrique. Paul ironise violemment sur les Corinthiens qui croient pouvoir être 'sages' (*phronimoi*) et 'forts' sans passer par la kénose de la folie." },
-        { "greek": "διὰ", "gloss": "à_cause_de" },
-        { "greek": "Χριστόν,", "gloss": "Christ" },
-        { "greek": "ὑμεῖς", "gloss": "vous" },
-        { "greek": "δὲ", "gloss": "or/mais" },
-        { "greek": "φρόνιμοι", "gloss": "sages/sensés" },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "Χριστῷ·", "gloss": "Christ" },
-        { "greek": "ἡμεῖς", "gloss": "nous" },
-        { "greek": "ἀσθενεῖς,", "gloss": "faibles" },
-        { "greek": "ὑμεῖς", "gloss": "vous" },
-        { "greek": "δὲ", "gloss": "or/mais" },
-        { "greek": "ἰσχυροί·", "gloss": "forts" },
-        { "greek": "ὑμεῖς", "gloss": "vous" },
-        { "greek": "ἔνδοξοι,", "gloss": "glorieux/honorés" },
-        { "greek": "ἡμεῖς", "gloss": "nous" },
-        { "greek": "δὲ", "gloss": "or/mais" },
-        { "greek": "ἄτιμοι.", "gloss": "sans_honneur/méprisés" }
-      ]
-    },
-    {
-      "verse_number": 11,
-      "translations": {
-        "segond": "Jusqu'à cette heure, nous souffrons la faim, la soif, la nudité ; nous sommes maltraités, errants çà et là ;",
-        "darby": "Jusqu'à cette heure présente, et nous avons faim, et nous avons soif, et nous sommes nus, et nous sommes souffletés, et nous sommes errants,"
-      },
-      "interlinear": [
-        { "greek": "ἄχρι", "gloss": "Jusqu'à" },
-        { "greek": "τῆς", "gloss": "l'" },
-        { "greek": "ἄρτι", "gloss": "actuelle" },
-        { "greek": "ὥρας", "gloss": "heure" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "πεινῶμεν", "gloss": "nous_avons_faim" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "διψῶμεν", "gloss": "nous_avons_soif" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "γυμνιτεύομεν", "gloss": "nous_sommes_nus" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "κολαφιζόμεθα", "gloss": "nous_sommes_frappés/souffletés", "analyse": "Le verbe *kolaphizomai* (frapper à coups de poing, humilier physiquement). L'apôtre décrit la réalité charnelle de la mission. Il n'est pas un gourou intouchable ; son corps même encaisse les ondes de choc de la violence du Monde duel." },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ἀστατοῦμεν", "gloss": "nous_sommes_sans_demeure_fixe" }
-      ]
-    },
-    {
-      "verse_number": 12,
-      "translations": {
-        "segond": "nous nous fatiguons à travailler de nos propres mains ; injuriés, nous bénissons ; persécutés, nous supportons ;",
-        "darby": "et nous nous fatiguons, travaillant de nos propres mains. Injuriés, nous bénissons ; persécutés, nous le supportons ;"
-      },
-      "interlinear": [
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "κοπιῶμεν", "gloss": "nous_nous_fatiguons" },
-        { "greek": "ἐργαζόμενοι", "gloss": "travaillant" },
-        { "greek": "ταῖς", "gloss": "de_les" },
-        { "greek": "ἰδίαις", "gloss": "propres" },
-        { "greek": "χερσίν·", "gloss": "mains" },
-        { "greek": "λοιδορούμενοι", "gloss": "étant_injuriés" },
-        { "greek": "εὐλογοῦμεν,", "gloss": "nous_bénissons", "analyse": "Le cycle mortifère du Monde duel est brisé net. Face à l'insulte (l'énergie de division), l'apôtre ne réagit pas par la malédiction (l'Ego blessé), mais il agit en Sujet libre qui fait descendre la bénédiction (*eulogia*). C'est la mise en pratique absolue de l'Évangile." },
-        { "greek": "διωκόμενοι", "gloss": "étant_persécutés" },
-        { "greek": "ἀνεχόμεθα,", "gloss": "nous_supportons" }
-      ]
-    },
-    {
-      "verse_number": 13,
-      "translations": {
-        "segond": "calomniés, nous parlons avec bonté ; nous sommes devenus comme les balayures du monde, le rebut de tous, jusqu'à maintenant.",
-        "darby": "diffamés, nous supplions. Nous sommes devenus comme les balayures du monde, et le rebut de tous, jusqu'à maintenant."
-      },
-      "interlinear": [
-        { "greek": "δυσφημούμενοι", "gloss": "étant_diffamés/calomniés" },
-        { "greek": "παρακαλοῦμεν·", "gloss": "nous_exhortons/supplions" },
-        { "greek": "ὡς", "gloss": "comme" },
-        { "greek": "περικαθάρματα", "gloss": "les_balayures/le_refus", "analyse": "Le mot *perikatharmata* est d'une violence inouïe. À Athènes, ce terme désignait les criminels qu'on jetait à la mer comme boucs émissaires pour purifier la ville lors des épidémies. Paul assume d'être l'ordure que le Monde duel rejette pour expulser son propre mal." },
-        { "greek": "τοῦ", "gloss": "du" },
-        { "greek": "κόσμου", "gloss": "monde" },
-        { "greek": "ἐγενήθημεν,", "gloss": "nous_sommes_devenus" },
-        { "greek": "πάντων", "gloss": "de_tous" },
-        { "greek": "περίψημα", "gloss": "le_rebut/la_raclure" },
-        { "greek": "ἕως", "gloss": "jusqu'à" },
-        { "greek": "ἄρτι.", "gloss": "maintenant" }
-      ]
-    },
-    {
-      "verse_number": 14,
-      "translations": {
-        "segond": "Ce n'est pas pour vous faire honte que j'écris ces choses ; mais je vous avertis comme mes enfants bien-aimés.",
-        "darby": "Je n'écris pas ces choses pour vous faire honte, mais je vous avertis comme mes enfants bien-aimés."
-      },
-      "interlinear": [
-        { "greek": "Οὐκ", "gloss": "Non" },
-        { "greek": "ἐντρέπων", "gloss": "pour_faire_honte" },
-        { "greek": "ὑμᾶς", "gloss": "vous" },
-        { "greek": "γράφω", "gloss": "j'écris" },
-        { "greek": "ταῦτα,", "gloss": "ces_choses" },
-        { "greek": "ἀλλ’", "gloss": "mais" },
-        { "greek": "ὡς", "gloss": "comme" },
-        { "greek": "τέκνα", "gloss": "enfants" },
-        { "greek": "μου", "gloss": "de_moi" },
-        { "greek": "ἀγαπητὰ", "gloss": "bien-aimés" },
-        { "greek": "νουθετῶν·", "gloss": "avertissant", "analyse": "Le verbe *noutheteo* (mettre dans l'esprit, avertir). Après l'ironie cinglante, c'est l'effusion de l'amour vertical. Paul n'utilise pas la culpabilité (arme de l'Ego) pour les rabaisser, mais l'avertissement paternel pour les ramener à la réalité du Royaume." }
-      ]
-    },
-    {
-      "verse_number": 15,
-      "translations": {
-        "segond": "Car, quand vous auriez dix mille maîtres en Christ, vous n'avez cependant pas plusieurs pères, puisque c'est moi qui vous ai engendrés en Jésus Christ par l'Évangile.",
-        "darby": "Car quand vous auriez dix mille maîtres dans le Christ, vous n'avez cependant pas plusieurs pères ; car c'est moi qui vous ai engendrés dans le Christ Jésus par l'évangile."
-      },
-      "interlinear": [
-        { "greek": "ἐὰν", "gloss": "Même_si" },
-        { "greek": "γὰρ", "gloss": "car" },
-        { "greek": "μυρίους", "gloss": "dix_mille" },
-        { "greek": "παιδαγωγοὺς", "gloss": "pédagogues/maîtres", "analyse": "Le *paidagogos* était l'esclave chargé de conduire l'enfant à l'école et de lui imposer la discipline. La religion du Monde duel est pleine de 'pédagogues' : des moralistes qui donnent des leçons et des règles extérieures sans transmettre la vie." },
-        { "greek": "ἔχητε", "gloss": "vous_ayez" },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "Χριστῷ,", "gloss": "Christ" },
-        { "greek": "ἀλλ’", "gloss": "mais" },
-        { "greek": "οὐ", "gloss": "non" },
-        { "greek": "πολλοὺς", "gloss": "plusieurs" },
-        { "greek": "πατέρας·", "gloss": "pères", "analyse": "Le *pater* (père) s'oppose au pédagogue. Le père spirituel est celui qui transmet son propre code génétique spirituel (la Grâce). Il n'enseigne pas une idéologie, il engendre (*gennao*) un Sujet par la transmission de l'Énergie divine." },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "γὰρ", "gloss": "car" },
-        { "greek": "Χριστῷ", "gloss": "Christ" },
-        { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-        { "greek": "διὰ", "gloss": "par" },
-        { "greek": "τοῦ", "gloss": "l'" },
-        { "greek": "εὐαγγελίου", "gloss": "évangile" },
-        { "greek": "ἐγὼ", "gloss": "moi" },
-        { "greek": "ὑμᾶς", "gloss": "vous" },
-        { "greek": "ἐγέννησα.", "gloss": "j'ai_engendrés" }
-      ]
-    },
-{
-      "verse_number": 16,
-      "translations": {
-        "segond": "Je vous en conjure donc, soyez mes imitateurs.",
-        "darby": "Je vous en exhorte donc, soyez mes imitateurs."
-      },
-      "interlinear": [
-        { "greek": "παρακαλῶ", "gloss": "Je_vous_exhorte/prie" },
-        { "greek": "οὖν", "gloss": "donc" },
-        { "greek": "ὑμᾶς,", "gloss": "vous" },
-        { "greek": "μιμηταί", "gloss": "imitateurs" },
-        { "greek": "μου", "gloss": "de_moi" },
-        { "greek": "γίνεσθε.", "gloss": "soyez/devenez", "analyse": "Le verbe *ginomai* (devenir, naître à). Devenir imitateur (*mimetai*), ce n'est pas copier les gestes extérieurs de Paul de manière théâtrale. C'est imiter sa kénose (devenir les balayures du monde) pour briser l'Ego et naître en tant que Sujet capable de bénir quand on l'injurie." }
-      ]
-    }
-  ],
-  "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 13 - περικαθάρματα : Segond et Darby traduisent par 'balayures'. Ce mot français est un peu trop propre. Le grec désigne les résidus d'un nettoyage purificatoire, les immondices dont on se débarrasse pour échapper à la malédiction. C'est le paroxysme de la figure du bouc émissaire.\n• Verset 15 - παιδαγωγοὺς : 'Maîtres'. Le terme français efface le contexte antique de l'esclave surveillant (*paidagogos*). Paul oppose la froideur d'une surveillance disciplinaire (l'Ego religieux moralisateur) à la chaleur organique de la paternité spirituelle (la transmission de l'Être).\n\nAnalyse spirituelle :\nCe texte est une radiographie impitoyable de la maladie spirituelle de Corinthe (et de notre propre modernité religieuse). Les Corinthiens se sont fabriqués un christianisme sans Croix. Ils vivent dans le fantasme d'un 'Monde duel' spiritualisé où ils seraient déjà 'rois', 'forts' et 'sages'. Leur religion est une validation de leur Ego.\n\nSaint Paul démolit cette hallucination en leur jetant à la figure la réalité apostolique. Le vrai témoin du 'Royaume UN' n'est pas un philosophe honoré, c'est un fou (*moria*) jeté en pâture dans l'arène (*theatron*). Mais cette kénose n'est pas du misérabilisme ; elle est le laboratoire de la liberté absolue. Parce que l'apôtre a accepté de mourir à la reconnaissance du monde (devenant son 'rebut'), il n'est plus prisonnier de ses codes d'action-réaction. C'est pourquoi, frappé, il bénit ; calomnié, il exhorte. Il est un vrai Sujet.\n\nLa conclusion (verset 15) révèle le drame de la transmission. On peut avoir dix mille 'pédagogues' qui nous expliquent le dogme, mais cela ne sauve pas l'âme. Seul un 'Père', c'est-à-dire quelqu'un qui est passé par la mort de l'Ego pour faire circuler l'Énergie divine, peut 'engendrer' (*gennao*) un autre être humain à la vie véritable. Paul demande donc aux Corinthiens de cesser de l'étudier comme un professeur, et de l'imiter dans sa folie crucifiée pour naître à leur tour."
-}
 }
