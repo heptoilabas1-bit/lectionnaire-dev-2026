@@ -10,18 +10,72 @@
           "darby": "Et il leur dit une parabole, disant : Les terres d'un certain homme riche avaient beaucoup rapporté."
         },
         "interlinear": [
-          { "greek": "Εἶπεν", "gloss": "Il_dit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "παραβολὴν", "gloss": "une_parabole" },
-          { "greek": "πρὸς", "gloss": "vers/à" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Ἀνθρώπου", "gloss": "D'un_homme" },
-          { "greek": "τινὸς", "gloss": "certain" },
-          { "greek": "**πλ**ουσίου", "gloss": "riche", "analyse": "La racine **πλ-** (qui exprime la plénitude, l'abondance). Dans le 'Monde duel', la richesse matérielle (*ploutos*) est une tentative désespérée de remplir le vide existentiel par l'accumulation d'Avoir. L'Ego tente de se créer un 'plein' artificiel pour mimer la véritable Plénitude divine (*Pleroma*)." },
-          { "greek": "εὐφόρησεν", "gloss": "porta_abondamment/produisit_bien", "analyse": "Composé de *eu* (bien/bon) et *phoreo* (porter/produire). L'Ego perçoit l'abondance matérielle comme une validation de sa propre existence. Mais cette surabondance de la terre (l'horizontalité pure) va devenir le piège vibratoire dans lequel le Sujet va s'enfermer, confondant la fertilité de la matière avec la Plénitude de l'Être." },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "χώρα.", "gloss": "terre/domaine" }
+          {
+            "greek": "Εἶπεν",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "παραβολὴν",
+            "gloss": "une_parabole"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers/à"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἀνθρώπου",
+            "gloss": "D'un_homme"
+          },
+          {
+            "greek": "τινὸς",
+            "gloss": "certain"
+          },
+          {
+            "greek": "**πλ**ουσίου",
+            "gloss": "riche",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La racine **πλ-** (qui exprime la plénitude, l'abondance). Dans le 'Monde duel', la richesse matérielle (*ploutos*) est une tentative désespérée de remplir le vide existentiel par l'accumulation d'Avoir. L'Ego tente de se créer un 'plein' artificiel pour mimer la véritable Plénitude divine (*Pleroma*).",
+              "related": [
+                "τινὸς",
+                "εὐφόρησεν"
+              ]
+            }
+          },
+          {
+            "greek": "εὐφόρησεν",
+            "gloss": "porta_abondamment/produisit_bien",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *eu* (bien/bon) et *phoreo* (porter/produire). L'Ego perçoit l'abondance matérielle comme une validation de sa propre existence. Mais cette surabondance de la terre (l'horizontalité pure) va devenir le piège vibratoire dans lequel le Sujet va s'enfermer, confondant la fertilité de la matière avec la Plénitude de l'Être.",
+              "related": [
+                "**πλ**ουσίου",
+                "ἡ"
+              ]
+            }
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "χώρα.",
+            "gloss": "terre/domaine"
+          }
         ]
       },
       {
@@ -31,21 +85,99 @@
           "darby": "Et il raisonnait en lui-même, disant : Que ferai-je ? car je n'ai pas où assembler mes fruits."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "διε**λογ**ίζετο", "gloss": "il_raisonnait/calculait", "analyse": "La racine **λογ-** (Logos / Verbe). Ici, le divin *Logos* est dégradé en *dia-logismos* : une pensée calculante et clivée (*dia*). L'homme riche ne contemple pas, il gère, il fragmente, il spécule. C'est l'intelligence de l'Ego emprisonnée dans la Matrice matérielle." },
-          { "greek": "**ἐν**", "gloss": "en/dans", "analyse": "La préposition **ἐν** (en/dans). Couplée à 'lui-même' (*heauto*), elle révèle l'enfermement autarcique absolu. L'homme riche ne prie pas Dieu (Axe vertical) et n'appelle pas son prochain (communion horizontale) : il tourne en boucle à l'intérieur de sa propre psyché. C'est un pur monologue de l'Ego." },
-          { "greek": "ἑαυτῷ", "gloss": "lui-même" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Τί", "gloss": "Que" },
-          { "greek": "ποιήσω,", "gloss": "ferai-je" },
-          { "greek": "ὅτι", "gloss": "parce_que" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔχω", "gloss": "j'ai" },
-          { "greek": "ποῦ", "gloss": "où" },
-         { "greek": "**συν**άξω", "gloss": "je_rassemblerai", "analyse": "Le préfixe **συν-** (*syn-*, signifiant 'avec/ensemble'). L'Ego cherche frénétiquement à 'rassembler' (*syn-ago*) ses biens matériels. Il tente de créer une unité autarcique autour de son Avoir pour se rassurer face à l'angoisse de la mort. La véritable *Synaxe* (l'Église) rassemble les Sujets ; la fausse synaxe de l'Ego amasse des objets pour l'isoler." },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "καρπούς", "gloss": "fruits/récoltes" },
-          { "greek": "μου;", "gloss": "de_moi" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "διε**λογ**ίζετο",
+            "gloss": "il_raisonnait/calculait",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La racine **λογ-** (Logos / Verbe). Ici, le divin *Logos* est dégradé en *dia-logismos* : une pensée calculante et clivée (*dia*). L'homme riche ne contemple pas, il gère, il fragmente, il spécule. C'est l'intelligence de l'Ego emprisonnée dans la Matrice matérielle.",
+              "related": [
+                "καὶ",
+                "**ἐν**"
+              ]
+            }
+          },
+          {
+            "greek": "**ἐν**",
+            "gloss": "en/dans",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La préposition **ἐν** (en/dans). Couplée à 'lui-même' (*heauto*), elle révèle l'enfermement autarcique absolu. L'homme riche ne prie pas Dieu (Axe vertical) et n'appelle pas son prochain (communion horizontale) : il tourne en boucle à l'intérieur de sa propre psyché. C'est un pur monologue de l'Ego.",
+              "related": [
+                "διε**λογ**ίζετο",
+                "ἑαυτῷ"
+              ]
+            }
+          },
+          {
+            "greek": "ἑαυτῷ",
+            "gloss": "lui-même",
+            "annotation": {
+              "type": "repetition",
+              "title": "Il raisonnait en lui-même",
+              "content": "Le dialogue du riche ne traverse jamais vers autrui : il demeure un monologue où les biens, les greniers et l’âme sont tous précédés par le possessif.",
+              "related": []
+            }
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "Que"
+          },
+          {
+            "greek": "ποιήσω,",
+            "gloss": "ferai-je"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔχω",
+            "gloss": "j'ai"
+          },
+          {
+            "greek": "ποῦ",
+            "gloss": "où"
+          },
+          {
+            "greek": "**συν**άξω",
+            "gloss": "je_rassemblerai",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le préfixe **συν-** (*syn-*, signifiant 'avec/ensemble'). L'Ego cherche frénétiquement à 'rassembler' (*syn-ago*) ses biens matériels. Il tente de créer une unité autarcique autour de son Avoir pour se rassurer face à l'angoisse de la mort. La véritable *Synaxe* (l'Église) rassemble les Sujets ; la fausse synaxe de l'Ego amasse des objets pour l'isoler.",
+              "related": [
+                "ποῦ",
+                "τοὺς"
+              ]
+            }
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρπούς",
+            "gloss": "fruits/récoltes"
+          },
+          {
+            "greek": "μου;",
+            "gloss": "de_moi"
+          }
         ]
       },
       {
@@ -55,53 +187,257 @@
           "darby": "Et il dit : Voici ce que je ferai : j'abattrai mes greniers et j'en bâtirai de plus grands, et j'y assemblerai tous mes produits et mes biens ;"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἶπεν·", "gloss": "il_dit" },
-          { "greek": "Τοῦτο", "gloss": "Ceci" },
-          { "greek": "ποιήσω·", "gloss": "je_ferai" },
-          { "greek": "καθελῶ", "gloss": "j'abattrai/détruirai", "analyse": "Composé de *kata-* (vers le bas) et *haireo* (saisir/détruire). Le mouvement de rétention matérielle commence toujours par une destruction, un effondrement volontaire. L'Ego détruit ses propres structures pour en créer de plus vastes, enfermé dans une expansion horizontale infinie (la croissance pour la croissance), ignorant toute dimension verticale." },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "ἀποθήκας", "gloss": "greniers/réserves", "analyse": "Du préfixe *apo-* (à l'écart) et *tithemi* (poser). Un lieu de mise à l'écart. L'Ego refuse la circulation de l'énergie (le don/l'effusion), il veut 'mettre à l'écart' la vie pour s'en assurer la jouissance exclusive." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μείζονας", "gloss": "plus_grands" },
-          { "greek": "οἰκοδομήσω,", "gloss": "je_bâtirai" },
-          { "greek": "καὶ", "gloss": "et" },
-         { "greek": "**συν**άξω", "gloss": "je_rassemblerai", "analyse": "Le préfixe **συν-** (*syn-*, signifiant 'avec/ensemble'). L'Ego cherche frénétiquement à 'rassembler' (*syn-ago*) ses biens matériels. Il tente de créer une unité autarcique autour de son Avoir pour se rassurer face à l'angoisse de la mort. La véritable *Synaxe* (l'Église) rassemble les Sujets ; la fausse synaxe de l'Ego amasse des objets pour l'isoler." },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "πάντα", "gloss": "tous" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "σῖτον", "gloss": "blé" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ἀγαθά", "gloss": "biens", "analyse": "Le terme *agatha* (les bonnes choses, les biens). Une inversion sémantique dramatique. Pour la mystique, l'*Agathon* (le Bon/le Bien) est Dieu Lui-même, l'Incréé. Le riche réduit 'le bien' à des céréales empilées dans un coffre. C'est l'aveuglement ontologique parfait du Monde duel." },
-          { "greek": "μου,", "gloss": "de_moi" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "Τοῦτο",
+            "gloss": "Ceci"
+          },
+          {
+            "greek": "ποιήσω·",
+            "gloss": "je_ferai"
+          },
+          {
+            "greek": "καθελῶ",
+            "gloss": "j'abattrai/détruirai",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *kata-* (vers le bas) et *haireo* (saisir/détruire). Le mouvement de rétention matérielle commence toujours par une destruction, un effondrement volontaire. L'Ego détruit ses propres structures pour en créer de plus vastes, enfermé dans une expansion horizontale infinie (la croissance pour la croissance), ignorant toute dimension verticale.",
+              "related": [
+                "ποιήσω·",
+                "μου"
+              ]
+            }
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀποθήκας",
+            "gloss": "greniers/réserves",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du préfixe *apo-* (à l'écart) et *tithemi* (poser). Un lieu de mise à l'écart. L'Ego refuse la circulation de l'énergie (le don/l'effusion), il veut 'mettre à l'écart' la vie pour s'en assurer la jouissance exclusive.",
+              "related": [
+                "τὰς",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μείζονας",
+            "gloss": "plus_grands"
+          },
+          {
+            "greek": "οἰκοδομήσω,",
+            "gloss": "je_bâtirai"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "**συν**άξω",
+            "gloss": "je_rassemblerai",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le préfixe **συν-** (*syn-*, signifiant 'avec/ensemble'). L'Ego cherche frénétiquement à 'rassembler' (*syn-ago*) ses biens matériels. Il tente de créer une unité autarcique autour de son Avoir pour se rassurer face à l'angoisse de la mort. La véritable *Synaxe* (l'Église) rassemble les Sujets ; la fausse synaxe de l'Ego amasse des objets pour l'isoler.",
+              "related": [
+                "καὶ",
+                "ἐκεῖ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tous"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "σῖτον",
+            "gloss": "blé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀγαθά",
+            "gloss": "biens",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le terme *agatha* (les bonnes choses, les biens). Une inversion sémantique dramatique. Pour la mystique, l'*Agathon* (le Bon/le Bien) est Dieu Lui-même, l'Incréé. Le riche réduit 'le bien' à des céréales empilées dans un coffre. C'est l'aveuglement ontologique parfait du Monde duel.",
+              "related": [
+                "τὰ",
+                "μου,"
+              ]
+            }
+          },
+          {
+            "greek": "μου,",
+            "gloss": "de_moi"
+          }
         ]
       },
-{
+      {
         "verse_number": 19,
         "translations": {
           "segond": "et je dirai à mon âme : Mon âme, tu as beaucoup de biens en réserve pour plusieurs années ; repose-toi, mange, bois, et réjouis-toi.",
           "darby": "et je dirai à mon âme : Mon âme, tu as beaucoup de biens assemblés pour beaucoup d'années ; repose-toi, mange, bois, fais grande chère."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "**ἐρῶ**", "gloss": "je_dirai", "analyse": "Le futur du verbe dire. L'Ego se projette avec arrogance dans un temps (*Chronos*) qu'il croit maîtriser. Dire 'je ferai' ou 'je dirai' demain, c'est oublier sa condition d'usufruitier pour s'ériger en maître absolu du Temps, usurpant ainsi la souveraineté de l'Incréé." },
-          { "greek": "τῇ", "gloss": "à_l'" },
-          { "greek": "**ψυχῇ**", "gloss": "âme", "analyse": "Le riche adresse un discours à sa propre âme (*psychè*), mais il lui parle comme à un estomac ('mange, bois, fais la fête'). C'est l'abaissement ultime du Sujet spirituel : l'âme, souffle d'origine divine, est ravalée au rang de simple tube digestif, réduite à la satisfaction des pulsions biologiques mondaines." },
-          { "greek": "μου·", "gloss": "de_moi" },
-          { "greek": "**Ψυχή**,", "gloss": "Âme", "analyse": "L'Ego réifie son âme, il en fait une chose avec laquelle il converse. Il croit pouvoir la 'reposer' (*anapauou*) avec de la matière périssable. Il ignore tragiquement que seul l'Esprit Saint peut combler le creux matriciel de la *psychè*." },
-          { "greek": "ἔχεις", "gloss": "tu_as" },
-          { "greek": "**πολ**λὰ", "gloss": "beaucoup/nombreux", "analyse": "La racine indo-européenne **πολ- / πλ-** (qui rejoint l'idée de plénitude et d'accumulation). 'Beaucoup de biens pour beaucoup d'années'. C'est l'illusion quantitative. L'Ego croit que l'addition de biens matériels finis pourra générer de l'infini, confondant la quantité d'Avoir avec l'éternité de l'Être." },
-          { "greek": "ἀγαθὰ", "gloss": "biens" },
-          { "greek": "κείμενα", "gloss": "posés/gisants" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "ἔτη", "gloss": "années" },
-          { "greek": "πολλά·", "gloss": "beaucoup" },
-          { "greek": "ἀναπαύου,", "gloss": "repose-toi", "analyse": "Composé de *ana-* (en haut/en arrière) et *pauo* (cesser). Le riche singe le repos divin (le Sabbat mystique). Mais son repos est fondé sur l'accumulation horizontale, c'est une inertie mortifère, alors que le véritable repos non-duel est une paix vibratoire suspendue à l'Axe vertical." },
-         { "greek": "φάγε,", "gloss": "mange", "analyse": "Un impératif aoriste. L'aoriste (sans horizon) exprime une action ponctuelle et clôturée[cite: 4]. Le riche ordonne à son âme la satisfaction immédiate, une tentative de figer le temps pour consommer. C'est l'aoriste de la mort spirituelle : une fois qu'on a mangé, il ne reste rien[cite: 4]. Il s'oppose magistralement à l'impératif présent passif de l'Épître ('soyez *continuellement* remplis de l'Esprit', *plerousthe*)[cite: 4]." },
-          { "greek": "πίε,", "gloss": "bois" },
-          { "greek": "εὐφραίνου.", "gloss": "réjouis-toi" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "**ἐρῶ**",
+            "gloss": "je_dirai",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le futur du verbe dire. L'Ego se projette avec arrogance dans un temps (*Chronos*) qu'il croit maîtriser. Dire 'je ferai' ou 'je dirai' demain, c'est oublier sa condition d'usufruitier pour s'ériger en maître absolu du Temps, usurpant ainsi la souveraineté de l'Incréé.",
+              "related": [
+                "καὶ",
+                "τῇ"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_l'"
+          },
+          {
+            "greek": "**ψυχῇ**",
+            "gloss": "âme",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le riche adresse un discours à sa propre âme (*psychè*), mais il lui parle comme à un estomac ('mange, bois, fais la fête'). C'est l'abaissement ultime du Sujet spirituel : l'âme, souffle d'origine divine, est ravalée au rang de simple tube digestif, réduite à la satisfaction des pulsions biologiques mondaines.",
+              "related": [
+                "τῇ",
+                "μου·"
+              ]
+            }
+          },
+          {
+            "greek": "μου·",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "**Ψυχή**,",
+            "gloss": "Âme",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'Ego réifie son âme, il en fait une chose avec laquelle il converse. Il croit pouvoir la 'reposer' (*anapauou*) avec de la matière périssable. Il ignore tragiquement que seul l'Esprit Saint peut combler le creux matriciel de la *psychè*.",
+              "related": [
+                "μου·",
+                "ἔχεις"
+              ]
+            }
+          },
+          {
+            "greek": "ἔχεις",
+            "gloss": "tu_as"
+          },
+          {
+            "greek": "**πολ**λὰ",
+            "gloss": "beaucoup/nombreux",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La racine indo-européenne **πολ- / πλ-** (qui rejoint l'idée de plénitude et d'accumulation). 'Beaucoup de biens pour beaucoup d'années'. C'est l'illusion quantitative. L'Ego croit que l'addition de biens matériels finis pourra générer de l'infini, confondant la quantité d'Avoir avec l'éternité de l'Être.",
+              "related": [
+                "ἔχεις",
+                "ἀγαθὰ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀγαθὰ",
+            "gloss": "biens"
+          },
+          {
+            "greek": "κείμενα",
+            "gloss": "posés/gisants"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ἔτη",
+            "gloss": "années"
+          },
+          {
+            "greek": "πολλά·",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "ἀναπαύου,",
+            "gloss": "repose-toi",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ana-* (en haut/en arrière) et *pauo* (cesser). Le riche singe le repos divin (le Sabbat mystique). Mais son repos est fondé sur l'accumulation horizontale, c'est une inertie mortifère, alors que le véritable repos non-duel est une paix vibratoire suspendue à l'Axe vertical.",
+              "related": [
+                "πολλά·",
+                "φάγε,"
+              ]
+            }
+          },
+          {
+            "greek": "φάγε,",
+            "gloss": "mange",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Un impératif aoriste. L'aoriste (sans horizon) exprime une action ponctuelle et clôturée. Le riche ordonne à son âme la satisfaction immédiate, une tentative de figer le temps pour consommer. C'est l'aoriste de la mort spirituelle : une fois qu'on a mangé, il ne reste rien. Il s'oppose magistralement à l'impératif présent passif de l'Épître ('soyez *continuellement* remplis de l'Esprit', *plerousthe*).",
+              "related": [
+                "ἀναπαύου,",
+                "πίε,"
+              ]
+            }
+          },
+          {
+            "greek": "πίε,",
+            "gloss": "bois"
+          },
+          {
+            "greek": "εὐφραίνου.",
+            "gloss": "réjouis-toi"
+          }
         ]
       },
       {
@@ -111,26 +447,131 @@
           "darby": "Mais Dieu lui dit : Insensé ! cette nuit même ton âme te sera redemandée ; et les choses que tu as préparées, à qui seront-elles ?"
         },
         "interlinear": [
-          { "greek": "εἶπεν", "gloss": "Dit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεός·", "gloss": "Dieu", "analyse": "L'irruption verticale foudroyante de l'Incréé qui vient briser le soliloque stérile (*dia-logizomai*) du Monde duel. L'Axe tranche le cercle vicieux de l'Ego." },
-          { "greek": "Ἄφρων,", "gloss": "Insensé", "analyse": "Le mot capital de la péricope : *a-phron*. Composé du préfixe privatif *a-* (sans) et de *phren* (l'intellect, le centre de la conscience/diaphragme). L'homme se croyait le sommet de la rationalité prévoyante ; Dieu lui révèle qu'il est 'sans-centre', décapité ontologiquement. Son Ego a dévoré son Sujet." },
-          { "greek": "ταύτῃ", "gloss": "cette" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "νυκτὶ", "gloss": "nuit", "analyse": "La nuit (*nyx*) représente l'obscurcissement total de la conscience. C'est le moment de l'entropie maximale, là où les illusions solaires de l'Ego s'effondrent." },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "**ψυχήν**", "gloss": "âme/vie", "analyse": "À l'accusatif, subissant l'action. L'irruption divine foudroie l'illusion de l'Ego. 'On te redemande ton âme'. Le verbe (*apaiteo*) est un terme juridique de recouvrement de dette. L'homme riche découvre brutalement qu'il n'était pas le propriétaire de son 'Être', mais un simple locataire temporaire. L'Axe vertical vient stopper net la projection de l'Ego." },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἀπαιτοῦσιν", "gloss": "ils_redemandent/exigent", "analyse": "Composé de *apo-* (mouvement d'éloignement/arrachement) et *aiteo* (demander). L'Ego croyait posséder sa vie. Or, la vie ne lui est que prêtée. Le verbe est au pluriel impersonnel : les lois cosmiques de la mortalité viennent arracher (*apo*) l'énergie vitale au parasite égotique qui voulait la retenir." },
-          { "greek": "ἀπὸ", "gloss": "de/loin_de" },
-          { "greek": "σοῦ·", "gloss": "toi" },
-          { "greek": "ἃ", "gloss": "ce_que" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἡτοίμασας,", "gloss": "tu_as_préparé" },
-          { "greek": "τίνι", "gloss": "à_qui" },
-          { "greek": "ἔσται;", "gloss": "sera-t-il" }
+          {
+            "greek": "εἶπεν",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεός·",
+            "gloss": "Dieu",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'irruption verticale foudroyante de l'Incréé qui vient briser le soliloque stérile (*dia-logizomai*) du Monde duel. L'Axe tranche le cercle vicieux de l'Ego.",
+              "related": [
+                "ὁ",
+                "Ἄφρων,"
+              ]
+            }
+          },
+          {
+            "greek": "Ἄφρων,",
+            "gloss": "Insensé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot capital de la péricope : *a-phron*. Composé du préfixe privatif *a-* (sans) et de *phren* (l'intellect, le centre de la conscience/diaphragme). L'homme se croyait le sommet de la rationalité prévoyante ; Dieu lui révèle qu'il est 'sans-centre', décapité ontologiquement. Son Ego a dévoré son Sujet.",
+              "related": [
+                "θεός·",
+                "ταύτῃ"
+              ]
+            }
+          },
+          {
+            "greek": "ταύτῃ",
+            "gloss": "cette"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "νυκτὶ",
+            "gloss": "nuit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La nuit (*nyx*) représente l'obscurcissement total de la conscience. C'est le moment de l'entropie maximale, là où les illusions solaires de l'Ego s'effondrent.",
+              "related": [
+                "τῇ",
+                "τὴν"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "**ψυχήν**",
+            "gloss": "âme/vie",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : À l'accusatif, subissant l'action. L'irruption divine foudroie l'illusion de l'Ego. 'On te redemande ton âme'. Le verbe (*apaiteo*) est un terme juridique de recouvrement de dette. L'homme riche découvre brutalement qu'il n'était pas le propriétaire de son 'Être', mais un simple locataire temporaire. L'Axe vertical vient stopper net la projection de l'Ego.",
+              "related": [
+                "τὴν",
+                "σου"
+              ]
+            }
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἀπαιτοῦσιν",
+            "gloss": "ils_redemandent/exigent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (mouvement d'éloignement/arrachement) et *aiteo* (demander). L'Ego croyait posséder sa vie. Or, la vie ne lui est que prêtée. Le verbe est au pluriel impersonnel : les lois cosmiques de la mortalité viennent arracher (*apo*) l'énergie vitale au parasite égotique qui voulait la retenir.",
+              "related": [
+                "σου",
+                "ἀπὸ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de/loin_de"
+          },
+          {
+            "greek": "σοῦ·",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἡτοίμασας,",
+            "gloss": "tu_as_préparé"
+          },
+          {
+            "greek": "τίνι",
+            "gloss": "à_qui"
+          },
+          {
+            "greek": "ἔσται;",
+            "gloss": "sera-t-il"
+          }
         ]
       },
       {
@@ -140,19 +581,162 @@
           "darby": "Il en est ainsi de celui qui amasse des trésors pour lui-même et qui n'est pas riche quant à Dieu."
         },
         "interlinear": [
-          { "greek": "Οὕτως", "gloss": "Ainsi" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "θησαυρίζων", "gloss": "amassant_des_trésors/thésaurisant", "analyse": "La thésaurisation est la définition même du péché structurel du Monde duel : la rétention de l'énergie. L'être refuse de devenir un canal pour l'Incréé et transforme l'Énergie vivante en stock mort." },
-          { "greek": "ἑαυτῷ", "gloss": "pour_lui-même", "analyse": "Le circuit fermé de la boucle égotique. Il accumule 'vers lui-même' au lieu de s'ouvrir 'vers l'autre' ou 'vers le Haut'." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "εἰς", "gloss": "en/vers", "analyse": "La préposition spatiale *eis* (mouvement directionnel vers). La vraie richesse n'est pas un stock, c'est une trajectoire." },
-          { "greek": "θεὸν", "gloss": "Dieu" },
-          { "greek": "**πλ**ουτῶν", "gloss": "s'enrichissant/étant_riche", "analyse": "Le retour de la racine **πλ-** (la plénitude/richesse) pour conclure le texte. Le Christ révèle qu'il existe un faux 'plein' (amasser pour soi dans la Matrice) et un vrai 'plein' (être riche en Dieu). S'enrichir vers Dieu (*eis theon*) exige la *Kénose* : se vider de son Avoir égoïste pour devenir un creux capable d'accueillir le jaillissement de la Lumière incréée." }
+          {
+            "greek": "Οὕτως",
+            "gloss": "Ainsi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "θησαυρίζων",
+            "gloss": "amassant_des_trésors/thésaurisant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La thésaurisation est la définition même du péché structurel du Monde duel : la rétention de l'énergie. L'être refuse de devenir un canal pour l'Incréé et transforme l'Énergie vivante en stock mort.",
+              "related": [
+                "ὁ",
+                "ἑαυτῷ"
+              ]
+            }
+          },
+          {
+            "greek": "ἑαυτῷ",
+            "gloss": "pour_lui-même",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le circuit fermé de la boucle égotique. Il accumule 'vers lui-même' au lieu de s'ouvrir 'vers l'autre' ou 'vers le Haut'.",
+              "related": [
+                "θησαυρίζων",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en/vers",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La préposition spatiale *eis* (mouvement directionnel vers). La vraie richesse n'est pas un stock, c'est une trajectoire.",
+              "related": [
+                "μὴ",
+                "θεὸν"
+              ]
+            }
+          },
+          {
+            "greek": "θεὸν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "**πλ**ουτῶν",
+            "gloss": "s'enrichissant/étant_riche",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le retour de la racine **πλ-** (la plénitude/richesse) pour conclure le texte. Le Christ révèle qu'il existe un faux 'plein' (amasser pour soi dans la Matrice) et un vrai 'plein' (être riche en Dieu). S'enrichir vers Dieu (*eis theon*) exige la *Kénose* : se vider de son Avoir égoïste pour devenir un creux capable d'accueillir le jaillissement de la Lumière incréée.",
+              "related": [
+                "θεὸν"
+              ]
+            }
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 20 - Ἄφρων : Segond et Darby traduisent par 'Insensé'. Le terme français a une connotation morale ou psychiatrique. En grec, l'*a-phron* est celui qui n'a plus de *phren* (le centre intellectuel et spirituel qui fait le lien entre le souffle et la raison). Il s'agit d'un anéantissement topographique : le riche a cru bâtir de vastes greniers pour s'y centraliser, mais il s'est en réalité vidé de son propre Centre. Il est décentré, éparpillé dans ses stocks.\n\nAnalyse spirituelle :\nCette parabole dresse la clinique implacable de l'Ego et de sa folie géométrique.\n\nFace à l'abondance (une bénédiction terrestre), la réaction du riche n'est ni l'action de grâce verticale (louange), ni l'effusion horizontale (charité, partage). Il se met à 'dialoguer en lui-même' (*dialogizeto en heauto*, v.17). C'est le symptôme majeur de l'Ego : la rumination solipsiste. Coupé de l'Incréé, le faux-sujet s'enferme dans un calcul stérile pour sécuriser sa propre existence qu'il sent intuitivement fragile.\n\nLa folie culmine au verset 19 lorsqu'il s'adresse à son 'âme' (*psyche*) pour lui promettre le repos par l'accumulation matérielle. C'est la plus grande arnaque du Monde duel : croire que la possession d'objets horizontaux peut apaiser l'angoisse ontologique d'un Sujet qui ne trouve sa paix que dans l'Axe vertical.\n\nL'intervention de Dieu vient foudroyer cette illusion. Dieu ne le juge pas sur sa morale, Il lui rappelle simplement la loi cosmique de l'entropie : la matière est périssable et le temps chronologique est un arrachement (*apaitousin*). Puisque le riche a fusionné son identité avec ses greniers, quand la mort réclamera son souffle d'emprunt, il ne restera rien de lui. L'avertissement final de Jésus (v.21) oppose deux dynamiques contraires : la rétention égotique, qui est un stockage vers soi (*heauto*), et la kénose éveillée, qui est une richesse directionnelle, un flux d'abondance éternelle orienté vers l'Incréé (*eis Theon*)."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 20 - Ἄφρων : Segond et Darby traduisent par 'Insensé'. Le terme français a une connotation morale ou psychiatrique. En grec, l'*a-phron* est celui qui n'a plus de *phren* (le centre intellectuel et spirituel qui fait le lien entre le souffle et la raison). Il s'agit d'un anéantissement topographique : le riche a cru bâtir de vastes greniers pour s'y centraliser, mais il s'est en réalité vidé de son propre Centre. Il est décentré, éparpillé dans ses stocks.\n\nAnalyse spirituelle :\nCette parabole dresse la clinique implacable de l'Ego et de sa folie géométrique.\n\nFace à l'abondance (une bénédiction terrestre), la réaction du riche n'est ni l'action de grâce verticale (louange), ni l'effusion horizontale (charité, partage). Il se met à 'dialoguer en lui-même' (*dialogizeto en heauto*, v.17). C'est le symptôme majeur de l'Ego : la rumination solipsiste. Coupé de l'Incréé, le faux-sujet s'enferme dans un calcul stérile pour sécuriser sa propre existence qu'il sent intuitivement fragile.\n\nLa folie culmine au verset 19 lorsqu'il s'adresse à son 'âme' (*psyche*) pour lui promettre le repos par l'accumulation matérielle. C'est la plus grande arnaque du Monde duel : croire que la possession d'objets horizontaux peut apaiser l'angoisse ontologique d'un Sujet qui ne trouve sa paix que dans l'Axe vertical.\n\nL'intervention de Dieu vient foudroyer cette illusion. Dieu ne le juge pas sur sa morale, Il lui rappelle simplement la loi cosmique de l'entropie : la matière est périssable et le temps chronologique est un arrachement (*apaitousin*). Puisque le riche a fusionné son identité avec ses greniers, quand la mort réclamera son souffle d'emprunt, il ne restera rien de lui. L'avertissement final de Jésus (v.21) oppose deux dynamiques contraires : la rétention égotique, qui est un stockage vers soi (*heauto*), et la kénose éveillée, qui est une richesse directionnelle, un flux d'abondance éternelle orienté vers l'Incréé (*eis Theon*).\n\nComplément de lecture : le riche ne dialogue qu’avec lui-même. Ses récoltes surabondent, mais son horizon relationnel se rétrécit à « mes fruits », « mes greniers », « mes biens » et « mon âme ». Dieu ne condamne pas la fécondité de la terre ; il dévoile l’insensé qui transforme le don en stock et le temps reçu en garantie possédée.",
+    "homiletic_axes": [
+      {
+        "title": "Un dialogue refermé sur soi",
+        "content": "Le riche raisonne en lui-même et ne rencontre aucun autre visage. L’abondance devient un monologue de possession.",
+        "keywords": [
+          "ἑαυτῷ",
+          "ἀποθήκας"
+        ]
+      },
+      {
+        "title": "L’insensé privé de discernement",
+        "content": "Ἄφρων ne désigne pas un manque d’intelligence technique : le riche sait bâtir, mais il ne perçoit plus la relation entre le don, le temps, Dieu et autrui.",
+        "keywords": [
+          "ἄφρονες,",
+          "**ψυχήν**"
+        ]
+      },
+      {
+        "title": "De la nuit à la lumière",
+        "content": "La nuit révèle la fragilité des projets fermés ; l’Apôtre appelle à marcher comme des enfants de lumière et à discerner ce qui plaît au Seigneur.",
+        "keywords": [
+          "σκότος,",
+          "φῶς",
+          "καιρόν,"
+        ]
+      },
+      {
+        "title": "Du grenier plein au cœur continuellement rempli",
+        "content": "Le riche veut achever son remplissage ; Paul emploie un présent passif : laissez-vous continuellement remplir par l’Esprit et faites circuler le chant et la gratitude.",
+        "keywords": [
+          "πληροῦσθε",
+          "ἑαυτοῖς"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement une entrée dans les deux lectures du 26e dimanche après la Pentecôte : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : enfermement, attente, blessure, isolement, accumulation, courbure, peur ou désir de retrouver une relation vivante."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : écouter, se laisser rejoindre, toucher avec délicatesse, devenir prochain, partager, se redresser ou recevoir la grâce."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes malades ou éprouvées."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Deux manières d’être plein",
+        "reference": "Luc 12, 16-21 ; Éphésiens 5, 8-19",
+        "content": "Le riche remplit des greniers et ferme son avenir dans un monologue ; l’Apôtre invite à une plénitude reçue de l’Esprit, qui devient lumière, chant partagé et action de grâce.",
+        "connections": []
+      }
+    ]
   },
   "apostle": {
     "reference": "Éphésiens 5, 8-19",
@@ -165,19 +749,84 @@
           "darby": "Car vous étiez autrefois ténèbres, mais maintenant vous êtes lumière dans le Seigneur ; marchez comme des enfants de lumière"
         },
         "interlinear": [
-          { "greek": "Ἦτε", "gloss": "Vous_étiez" },
-          { "greek": "γάρ", "gloss": "car" },
-          { "greek": "ποτε", "gloss": "autrefois" },
-          { "greek": "σκότος,", "gloss": "ténèbres", "analyse": "Le *skotos*. Paul ne dit pas 'vous étiez DANS les ténèbres', il dit 'vous ÉTIEZ ténèbres'. C'est une identification ontologique. Les ténèbres ne sont pas une simple ignorance morale, c'est l'opacité absolue de l'Ego : une densité vibratoire fermée sur elle-même, qui refuse de laisser passer le flux de l'Incréé." },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "δὲ", "gloss": "mais/or" },
-          { "greek": "φῶς", "gloss": "lumière", "analyse": "Le *Phos* (Lumière). Là encore, identification totale : 'vous êtes Lumière'. L'être éveillé devient lui-même le rayonnement transparent de l'Incréé. La kénose a détruit l'opacité de l'Ego pour faire du Sujet un vitrail." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "κυρίῳ·", "gloss": "le_Seigneur" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "τέκνα", "gloss": "enfants" },
-          { "greek": "φωτὸς", "gloss": "de_lumière" },
-          { "greek": "περιπατεῖτε", "gloss": "marchez", "analyse": "Composé de *peri-* (autour) et *pateo* (marcher/fouler). L'action dans le Monde duel. Le Sujet devenu 'Lumière' ne fuit pas le monde ; il y déploie sa trajectoire horizontale (*peri-pateo*) en étant continuellement irrigué par l'Axe vertical." }
+          {
+            "greek": "Ἦτε",
+            "gloss": "Vous_étiez"
+          },
+          {
+            "greek": "γάρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ποτε",
+            "gloss": "autrefois"
+          },
+          {
+            "greek": "σκότος,",
+            "gloss": "ténèbres",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *skotos*. Paul ne dit pas 'vous étiez DANS les ténèbres', il dit 'vous ÉTIEZ ténèbres'. C'est une identification ontologique. Les ténèbres ne sont pas une simple ignorance morale, c'est l'opacité absolue de l'Ego : une densité vibratoire fermée sur elle-même, qui refuse de laisser passer le flux de l'Incréé.",
+              "related": [
+                "ποτε",
+                "νῦν"
+              ]
+            }
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais/or"
+          },
+          {
+            "greek": "φῶς",
+            "gloss": "lumière",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *Phos* (Lumière). Là encore, identification totale : 'vous êtes Lumière'. L'être éveillé devient lui-même le rayonnement transparent de l'Incréé. La kénose a détruit l'opacité de l'Ego pour faire du Sujet un vitrail.",
+              "related": [
+                "δὲ",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κυρίῳ·",
+            "gloss": "le_Seigneur"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "τέκνα",
+            "gloss": "enfants"
+          },
+          {
+            "greek": "φωτὸς",
+            "gloss": "de_lumière"
+          },
+          {
+            "greek": "περιπατεῖτε",
+            "gloss": "marchez",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *peri-* (autour) et *pateo* (marcher/fouler). L'action dans le Monde duel. Le Sujet devenu 'Lumière' ne fuit pas le monde ; il y déploie sa trajectoire horizontale (*peri-pateo*) en étant continuellement irrigué par l'Axe vertical.",
+              "related": [
+                "φωτὸς"
+              ]
+            }
+          }
         ]
       },
       {
@@ -187,18 +836,80 @@
           "darby": "(car le fruit de la lumière consiste en toute bonté, et justice, et vérité),"
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "καρπὸς", "gloss": "fruit", "analyse": "Le *karpos*. Le Royaume UN ne produit pas des 'œuvres' (des fabrications mécaniques de l'Ego), il produit un 'fruit'. C'est une croissance organique, sans effort crispé, qui jaillit naturellement de la sève de l'Esprit." },
-          { "greek": "τοῦ", "gloss": "de_la" },
-          { "greek": "φωτὸς", "gloss": "lumière" },
-          { "greek": "ἐν", "gloss": "en/dans" },
-          { "greek": "πάσῃ", "gloss": "toute" },
-          { "greek": "ἀγαθωσύνῃ", "gloss": "bonté" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δικαιοσύνῃ", "gloss": "justice", "analyse": "La *dikaiosyne* (justice/justesse). L'alignement topographique parfait. Le Sujet est ajusté à la fréquence divine, sans aucune distorsion." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀληθείᾳ,", "gloss": "vérité", "analyse": "L'*a-letheia*. Mot capital formé du préfixe privatif *a-* et de *lethe* (l'oubli, la dissimulation). La Vérité n'est pas un concept intellectuel : c'est le 'dé-voilement', la sortie hors de l'oubli. C'est l'Incréé qui sort de l'ombre pour se manifester dans la lucidité absolue du Sujet." }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "καρπὸς",
+            "gloss": "fruit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *karpos*. Le Royaume UN ne produit pas des 'œuvres' (des fabrications mécaniques de l'Ego), il produit un 'fruit'. C'est une croissance organique, sans effort crispé, qui jaillit naturellement de la sève de l'Esprit.",
+              "related": [
+                "γὰρ",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "φωτὸς",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/dans"
+          },
+          {
+            "greek": "πάσῃ",
+            "gloss": "toute"
+          },
+          {
+            "greek": "ἀγαθωσύνῃ",
+            "gloss": "bonté"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δικαιοσύνῃ",
+            "gloss": "justice",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La *dikaiosyne* (justice/justesse). L'alignement topographique parfait. Le Sujet est ajusté à la fréquence divine, sans aucune distorsion.",
+              "related": [
+                "καὶ",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀληθείᾳ,",
+            "gloss": "vérité",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'*a-letheia*. Mot capital formé du préfixe privatif *a-* et de *lethe* (l'oubli, la dissimulation). La Vérité n'est pas un concept intellectuel : c'est le 'dé-voilement', la sortie hors de l'oubli. C'est l'Incréé qui sort de l'ombre pour se manifester dans la lucidité absolue du Sujet.",
+              "related": [
+                "καὶ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -208,12 +919,47 @@
           "darby": "éprouvant ce qui est agréable au Seigneur."
         },
         "interlinear": [
-          { "greek": "δοκιμάζοντες", "gloss": "examinant/éprouvant", "analyse": "Du verbe *dokimazo* (éprouver les métaux par le feu). L'éthique non-duelle n'est pas l'application aveugle d'un code de lois horizontales ; c'est un discernement vibratoire continu. Le Sujet éveillé doit 'tester' chaque situation pour voir si elle résonne avec la fréquence de l'Axe." },
-          { "greek": "τί", "gloss": "ce_qui" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "εὐάρεστον", "gloss": "bien_agréable/plaisant", "analyse": "Composé de *eu* (bien) et *aresko* (plaire). Ce qui s'ajuste harmonieusement et parfaitement à la volonté du Centre." },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "κυρίῳ·", "gloss": "Seigneur" }
+          {
+            "greek": "δοκιμάζοντες",
+            "gloss": "examinant/éprouvant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *dokimazo* (éprouver les métaux par le feu). L'éthique non-duelle n'est pas l'application aveugle d'un code de lois horizontales ; c'est un discernement vibratoire continu. Le Sujet éveillé doit 'tester' chaque situation pour voir si elle résonne avec la fréquence de l'Axe.",
+              "related": [
+                "τί"
+              ]
+            }
+          },
+          {
+            "greek": "τί",
+            "gloss": "ce_qui"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "εὐάρεστον",
+            "gloss": "bien_agréable/plaisant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *eu* (bien) et *aresko* (plaire). Ce qui s'ajuste harmonieusement et parfaitement à la volonté du Centre.",
+              "related": [
+                "ἐστιν",
+                "τῷ"
+              ]
+            }
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "κυρίῳ·",
+            "gloss": "Seigneur"
+          }
         ]
       },
       {
@@ -223,19 +969,93 @@
           "darby": "et n'ayez rien de commun avec les œuvres infructueuses des ténèbres, mais plutôt reprenez-les aussi ;"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "συγκοινωνεῖτε", "gloss": "prenez_part/soyez_co-communiants", "analyse": "Composé de *syn-* (avec) et *koinoneo* (communier/partager). L'interdit absolu de la fusion toxique. Le Sujet ne doit pas mélanger son champ énergétique (*koinonia*) avec les fréquences dégénératives (*syn-*) du Monde duel." },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "ἔργοις", "gloss": "œuvres", "analyse": "Les *erga* (œuvres). Opposé au 'fruit' du verset 9. Les ténèbres fabriquent, manipulent, forcent la matière, mais n'engendrent aucune vie organique." },
-          { "greek": "τοῖς", "gloss": "les" },
-          { "greek": "ἀκάρποις", "gloss": "infructueuses/sans_fruit", "analyse": "Composé du préfixe privatif *a-* et *karpos* (fruit). La définition clinique de la matrice du monde duel : une agitation mécanique permanente qui ne produit que du néant et de l'épuisement." },
-          { "greek": "τοῦ", "gloss": "des" },
-          { "greek": "σκότους,", "gloss": "ténèbres" },
-          { "greek": "μᾶλλον", "gloss": "plutôt" },
-          { "greek": "δὲ", "gloss": "mais" },
-          { "greek": "καὶ", "gloss": "aussi/même" },
-          { "greek": "ἐλέγχετε·", "gloss": "exposez/reprennez", "analyse": "Le verbe *elegcho* (mettre en lumière, convaincre, exposer). La Lumière ne se contente pas d'éviter les ténèbres ; elle les frappe de son rayon pour en dissoudre l'illusion. C'est l'acte thérapeutique d'amener le refoulé égotique à la Conscience." }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "συγκοινωνεῖτε",
+            "gloss": "prenez_part/soyez_co-communiants",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *syn-* (avec) et *koinoneo* (communier/partager). L'interdit absolu de la fusion toxique. Le Sujet ne doit pas mélanger son champ énergétique (*koinonia*) avec les fréquences dégénératives (*syn-*) du Monde duel.",
+              "related": [
+                "μὴ",
+                "τοῖς"
+              ]
+            }
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἔργοις",
+            "gloss": "œuvres",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Les *erga* (œuvres). Opposé au 'fruit' du verset 9. Les ténèbres fabriquent, manipulent, forcent la matière, mais n'engendrent aucune vie organique.",
+              "related": [
+                "τοῖς",
+                "τοῖς"
+              ]
+            }
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀκάρποις",
+            "gloss": "infructueuses/sans_fruit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé du préfixe privatif *a-* et *karpos* (fruit). La définition clinique de la matrice du monde duel : une agitation mécanique permanente qui ne produit que du néant et de l'épuisement.",
+              "related": [
+                "τοῖς",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "des"
+          },
+          {
+            "greek": "σκότους,",
+            "gloss": "ténèbres"
+          },
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plutôt"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi/même"
+          },
+          {
+            "greek": "ἐλέγχετε·",
+            "gloss": "exposez/reprennez",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe *elegcho* (mettre en lumière, convaincre, exposer). La Lumière ne se contente pas d'éviter les ténèbres ; elle les frappe de son rayon pour en dissoudre l'illusion. C'est l'acte thérapeutique d'amener le refoulé égotique à la Conscience.",
+              "related": [
+                "καὶ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -245,16 +1065,55 @@
           "darby": "car les choses qui sont faites par eux en secret, il est honteux même de les dire."
         },
         "interlinear": [
-          { "greek": "τὰ", "gloss": "Les_choses" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "κρυφῇ", "gloss": "en_secret/en_cachette", "analyse": "L'adverbe *kryphe*. La topographie de la dissimulation. L'Ego a viscéralement besoin d'angles morts et de zones d'ombre pour perpétuer ses illusions d'autosuffisance et de pouvoir. Le secret est l'oxygène de la dualité." },
-          { "greek": "γινόμενα", "gloss": "étant_faites/devenant" },
-          { "greek": "ὑπ’", "gloss": "par" },
-          { "greek": "αὐτῶν", "gloss": "eux" },
-          { "greek": "αἰσχρόν", "gloss": "honteux" },
-          { "greek": "ἐστιν", "gloss": "il_est" },
-          { "greek": "καὶ", "gloss": "même" },
-          { "greek": "λέγειν·", "gloss": "de_dire" }
+          {
+            "greek": "τὰ",
+            "gloss": "Les_choses"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "κρυφῇ",
+            "gloss": "en_secret/en_cachette",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'adverbe *kryphe*. La topographie de la dissimulation. L'Ego a viscéralement besoin d'angles morts et de zones d'ombre pour perpétuer ses illusions d'autosuffisance et de pouvoir. Le secret est l'oxygène de la dualité.",
+              "related": [
+                "γὰρ",
+                "γινόμενα"
+              ]
+            }
+          },
+          {
+            "greek": "γινόμενα",
+            "gloss": "étant_faites/devenant"
+          },
+          {
+            "greek": "ὑπ’",
+            "gloss": "par"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "αἰσχρόν",
+            "gloss": "honteux"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "même"
+          },
+          {
+            "greek": "λέγειν·",
+            "gloss": "de_dire"
+          }
         ]
       },
       {
@@ -264,44 +1123,194 @@
           "darby": "mais toutes choses, quand elles sont reprises, sont manifestées par la lumière ; car ce qui manifeste tout, c'est la lumière."
         },
         "interlinear": [
-          { "greek": "τὰ", "gloss": "Les_choses" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "πάντα", "gloss": "toutes" },
-          { "greek": "ἐλεγχόμενα", "gloss": "étant_exposées/reprises" },
-          { "greek": "ὑπὸ", "gloss": "par/sous" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "φωτὸς", "gloss": "lumière" },
-          { "greek": "φανεροῦται,", "gloss": "sont_manifestées/rendues_visibles", "analyse": "Du verbe *phaneroo* (rendre visible, illuminer, révéler). L'action destructrice de l'Axe sur le voile de l'Ego. L'illusion n'a d'existence que parce qu'elle est cachée ; frappée par l'Incréé, elle perd instantanément sa substance." },
-          { "greek": "πᾶν", "gloss": "tout" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τὸ", "gloss": "ce_qui" },
-          { "greek": "φανερούμενον", "gloss": "étant_manifesté", "analyse": "C'est la métaphysique de la transmutation. Paul ne dit pas que la lumière détruit les ténèbres pour laisser un espace vide. Il dit que la chose obscure, une fois transpercée et 'manifestée' par le rayonnement divin, devient elle-même lumière. La kénose transmute la boue en or spirituel." },
-          { "greek": "φῶς", "gloss": "lumière" },
-          { "greek": "ἐστιν.", "gloss": "est" }
+          {
+            "greek": "τὰ",
+            "gloss": "Les_choses"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes"
+          },
+          {
+            "greek": "ἐλεγχόμενα",
+            "gloss": "étant_exposées/reprises"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par/sous"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "φωτὸς",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "φανεροῦται,",
+            "gloss": "sont_manifestées/rendues_visibles",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *phaneroo* (rendre visible, illuminer, révéler). L'action destructrice de l'Axe sur le voile de l'Ego. L'illusion n'a d'existence que parce qu'elle est cachée ; frappée par l'Incréé, elle perd instantanément sa substance.",
+              "related": [
+                "φωτὸς",
+                "πᾶν"
+              ]
+            }
+          },
+          {
+            "greek": "πᾶν",
+            "gloss": "tout"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "ce_qui"
+          },
+          {
+            "greek": "φανερούμενον",
+            "gloss": "étant_manifesté",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : C'est la métaphysique de la transmutation. Paul ne dit pas que la lumière détruit les ténèbres pour laisser un espace vide. Il dit que la chose obscure, une fois transpercée et 'manifestée' par le rayonnement divin, devient elle-même lumière. La kénose transmute la boue en or spirituel.",
+              "related": [
+                "τὸ",
+                "φῶς"
+              ]
+            }
+          },
+          {
+            "greek": "φῶς",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "ἐστιν.",
+            "gloss": "est"
+          }
         ]
       },
-    {
+      {
         "verse_number": 14,
         "translations": {
           "segond": "C'est pour cela qu'il est dit : Réveille-toi, toi qui dors, Relève-toi d'entre les morts, Et Christ t'éclairera.",
           "darby": "C'est pourquoi il dit : Réveille-toi, toi qui dors, et relève-toi d'entre les morts, et le Christ luira sur toi."
         },
         "interlinear": [
-          { "greek": "διὸ", "gloss": "C'est_pourquoi" },
-          { "greek": "λέγει·", "gloss": "il_dit" },
-          { "greek": "Ἔγειρε,", "gloss": "Éveille-toi/Lève-toi", "analyse": "Le cri fondamental de la mystique chrétienne (*Egeiro*). L'éveil n'est pas une simple prise de conscience psychologique, c'est un redressement physique et ontologique. C'est quitter la posture horizontale du sommeil pour se dresser sur l'Axe vertical." },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "καθεύδων,", "gloss": "qui_dort", "analyse": "Le sommeil (*katheudo*) est la métaphore absolue de l'état de l'Ego dans le Monde duel. Le dormeur est physiquement vivant, mais sa Conscience est absorbée dans un monde d'illusions (le rêve), déconnectée du Réel." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀνάστα", "gloss": "relève-toi/ressuscite", "analyse": "Composé de *ana-* (vers le haut) et *histemi* (se tenir). La dynamique de la Résurrection (*anastasis*). Il faut rompre la gravité de la mort pour s'élancer vers le Haut." },
-          { "greek": "ἐκ", "gloss": "hors_de", "analyse": "Le préfixe *ek-* marque l'extraction spatiale. L'éveil exige de s'extraire de la matrice mortifère." },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "νεκρῶν,", "gloss": "morts" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπιφαύσει", "gloss": "luira_sur/illuminera", "analyse": "Composé de *epi-* (sur/d'en haut) et *phaos* (lumière). Une fois le Sujet redressé (*ana*), l'Incréé peut déverser sa clarté verticalement (*epi*) sur lui, dans une parfaite complétion géométrique." },
-          { "greek": "σοι", "gloss": "toi" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Χριστός.", "gloss": "Christ" }
+          {
+            "greek": "διὸ",
+            "gloss": "C'est_pourquoi"
+          },
+          {
+            "greek": "λέγει·",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "Ἔγειρε,",
+            "gloss": "Éveille-toi/Lève-toi",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le cri fondamental de la mystique chrétienne (*Egeiro*). L'éveil n'est pas une simple prise de conscience psychologique, c'est un redressement physique et ontologique. C'est quitter la posture horizontale du sommeil pour se dresser sur l'Axe vertical.",
+              "related": [
+                "λέγει·",
+                "ὁ"
+              ]
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "καθεύδων,",
+            "gloss": "qui_dort",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le sommeil (*katheudo*) est la métaphore absolue de l'état de l'Ego dans le Monde duel. Le dormeur est physiquement vivant, mais sa Conscience est absorbée dans un monde d'illusions (le rêve), déconnectée du Réel.",
+              "related": [
+                "ὁ",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀνάστα",
+            "gloss": "relève-toi/ressuscite",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ana-* (vers le haut) et *histemi* (se tenir). La dynamique de la Résurrection (*anastasis*). Il faut rompre la gravité de la mort pour s'élancer vers le Haut.",
+              "related": [
+                "καὶ",
+                "ἐκ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "hors_de",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le préfixe *ek-* marque l'extraction spatiale. L'éveil exige de s'extraire de la matrice mortifère.",
+              "related": [
+                "ἀνάστα",
+                "τῶν"
+              ]
+            }
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "νεκρῶν,",
+            "gloss": "morts"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπιφαύσει",
+            "gloss": "luira_sur/illuminera",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi-* (sur/d'en haut) et *phaos* (lumière). Une fois le Sujet redressé (*ana*), l'Incréé peut déverser sa clarté verticalement (*epi*) sur lui, dans une parfaite complétion géométrique.",
+              "related": [
+                "καὶ",
+                "σοι"
+              ]
+            }
+          },
+          {
+            "greek": "σοι",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστός.",
+            "gloss": "Christ"
+          }
         ]
       },
       {
@@ -311,17 +1320,77 @@
           "darby": "Prenez donc garde à marcher soigneusement, non pas comme étant dépourvus de sagesse, mais comme étant sages ;"
         },
         "interlinear": [
-          { "greek": "Βλέπετε", "gloss": "Regardez/Prenez_garde" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ἀκριβῶς", "gloss": "avec_exactitude/rigoureusement", "analyse": "L'adverbe *akribos*. La Voie non-duelle n'est pas un mysticisme flou. C'est une discipline vibratoire d'une précision chirurgicale. Le moindre désalignement de l'Axe refait chuter le Sujet dans le sommeil." },
-          { "greek": "πῶς", "gloss": "comment" },
-          { "greek": "περιπατεῖτε,", "gloss": "vous_marchez", "analyse": "Nouvelle occurrence de *peri-pateo* (l'action horizontale). L'éveillé ne s'enfuit pas du monde, il y marche avec une 'exactitude' (*akribos*) qui maintient sa connexion à l'Axe." },
-          { "greek": "μὴ", "gloss": "non" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "ἄσοφοι", "gloss": "sans_sagesse/insensés", "analyse": "Composé du privatif *a-* et *sophos* (sage). L'insensé n'est pas idiot intellectuellement ; il est coupé de la *Sophia*, l'Intelligence divine de l'Incréé." },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "σοφοί,", "gloss": "sages" }
+          {
+            "greek": "Βλέπετε",
+            "gloss": "Regardez/Prenez_garde"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἀκριβῶς",
+            "gloss": "avec_exactitude/rigoureusement",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'adverbe *akribos*. La Voie non-duelle n'est pas un mysticisme flou. C'est une discipline vibratoire d'une précision chirurgicale. Le moindre désalignement de l'Axe refait chuter le Sujet dans le sommeil.",
+              "related": [
+                "οὖν",
+                "πῶς"
+              ]
+            }
+          },
+          {
+            "greek": "πῶς",
+            "gloss": "comment"
+          },
+          {
+            "greek": "περιπατεῖτε,",
+            "gloss": "vous_marchez",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Nouvelle occurrence de *peri-pateo* (l'action horizontale). L'éveillé ne s'enfuit pas du monde, il y marche avec une 'exactitude' (*akribos*) qui maintient sa connexion à l'Axe.",
+              "related": [
+                "πῶς",
+                "μὴ"
+              ]
+            }
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἄσοφοι",
+            "gloss": "sans_sagesse/insensés",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé du privatif *a-* et *sophos* (sage). L'insensé n'est pas idiot intellectuellement ; il est coupé de la *Sophia*, l'Intelligence divine de l'Incréé.",
+              "related": [
+                "ὡς",
+                "ἀλλ’"
+              ]
+            }
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "σοφοί,",
+            "gloss": "sages"
+          }
         ]
       },
       {
@@ -331,14 +1400,55 @@
           "darby": "saisissant l'occasion, car les jours sont mauvais."
         },
         "interlinear": [
-          { "greek": "ἐξαγοραζόμενοι", "gloss": "rachetant/extrayant_du_marché", "analyse": "Un concept vertigineux. Composé de *ex-* (hors de) et *agorazomai* (acheter sur l'agora/le marché public). Le temps chronologique du Monde duel est une marchandise entropique soumise aux transactions de l'Ego. 'Racheter' le temps, c'est l'extraire (*ex*) de la matrice marchande pour le re-sacraliser dans l'Éternel Présent." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "καιρόν,", "gloss": "moment_opportun/temps_qualitatif", "analyse": "Le *Kairos*, non pas le *Chronos* (le temps qui s'écoule mécaniquement). Le *Kairos* est l'instant T de l'irruption de la Grâce, l'opportunité verticale qui déchire la ligne horizontale du temps." },
-          { "greek": "ὅτι", "gloss": "parce_que" },
-          { "greek": "αἱ", "gloss": "les" },
-          { "greek": "ἡμέραι", "gloss": "jours" },
-          { "greek": "πονηραί", "gloss": "mauvais/laborieux" },
-          { "greek": "εἰσιν.", "gloss": "sont" }
+          {
+            "greek": "ἐξαγοραζόμενοι",
+            "gloss": "rachetant/extrayant_du_marché",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Un concept vertigineux. Composé de *ex-* (hors de) et *agorazomai* (acheter sur l'agora/le marché public). Le temps chronologique du Monde duel est une marchandise entropique soumise aux transactions de l'Ego. 'Racheter' le temps, c'est l'extraire (*ex*) de la matrice marchande pour le re-sacraliser dans l'Éternel Présent.",
+              "related": [
+                "τὸν"
+              ]
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "καιρόν,",
+            "gloss": "moment_opportun/temps_qualitatif",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *Kairos*, non pas le *Chronos* (le temps qui s'écoule mécaniquement). Le *Kairos* est l'instant T de l'irruption de la Grâce, l'opportunité verticale qui déchire la ligne horizontale du temps.",
+              "related": [
+                "τὸν",
+                "ὅτι"
+              ]
+            }
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "αἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἡμέραι",
+            "gloss": "jours"
+          },
+          {
+            "greek": "πονηραί",
+            "gloss": "mauvais/laborieux"
+          },
+          {
+            "greek": "εἰσιν.",
+            "gloss": "sont"
+          }
         ]
       },
       {
@@ -348,18 +1458,72 @@
           "darby": "C'est pourquoi ne soyez pas sans intelligence, mais comprenez quelle est la volonté du Seigneur."
         },
         "interlinear": [
-          { "greek": "διὰ", "gloss": "Pour" },
-          { "greek": "τοῦτο", "gloss": "cela" },
-          { "greek": "μὴ", "gloss": "ne" },
-          { "greek": "γίνεσθε", "gloss": "devenez/soyez" },
-          { "greek": "ἄφρονες,", "gloss": "sans_intelligence/inconsidérés", "analyse": "La même insulte ontologique (*a-phron*) que Dieu adresse au riche dans l'Évangile (Luc 12, 20). Ne devenez pas un être sans Centre, incapable de laisser respirer l'Esprit." },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "συνίετε", "gloss": "comprenez/assemblez", "analyse": "Du verbe *syn-iemi* (assembler, réunir, comprendre). C'est l'acte de l'Intelligence unifiée. L'Ego divise et fragmente (le diabolique) ; l'Esprit assemble et connecte (*syn*) pour saisir le réel dans son Unité (le symbolique)." },
-          { "greek": "τί", "gloss": "quelle" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "θέλημα", "gloss": "volonté" },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "κυρίου.", "gloss": "Seigneur" }
+          {
+            "greek": "διὰ",
+            "gloss": "Pour"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne"
+          },
+          {
+            "greek": "γίνεσθε",
+            "gloss": "devenez/soyez"
+          },
+          {
+            "greek": "ἄφρονες,",
+            "gloss": "sans_intelligence/inconsidérés",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La même insulte ontologique (*a-phron*) que Dieu adresse au riche dans l'Évangile (Luc 12, 20). Ne devenez pas un être sans Centre, incapable de laisser respirer l'Esprit.",
+              "related": [
+                "γίνεσθε",
+                "ἀλλὰ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "συνίετε",
+            "gloss": "comprenez/assemblez",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *syn-iemi* (assembler, réunir, comprendre). C'est l'acte de l'Intelligence unifiée. L'Ego divise et fragmente (le diabolique) ; l'Esprit assemble et connecte (*syn*) pour saisir le réel dans son Unité (le symbolique).",
+              "related": [
+                "ἀλλὰ",
+                "τί"
+              ]
+            }
+          },
+          {
+            "greek": "τί",
+            "gloss": "quelle"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "θέλημα",
+            "gloss": "volonté"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "κυρίου.",
+            "gloss": "Seigneur"
+          }
         ]
       },
       {
@@ -369,18 +1533,81 @@
           "darby": "Et ne vous enivrez pas de vin, en quoi il y a de la dissolution ; mais soyez remplis de l'Esprit,"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "μεθύσκεσθε", "gloss": "vous_enivrez" },
-          { "greek": "οἴνῳ,", "gloss": "de_vin", "analyse": "Le vin (*oinos*) représente ici le stimulus matériel et périphérique. L'Ego cherche perpétuellement des substances extérieures pour combler son vide intérieur et altérer son état de conscience par des moyens physiques, ce qui mène inévitablement à l'épuisement." },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ᾧ", "gloss": "lequel" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ἀσωτία,", "gloss": "dissolution/débauche", "analyse": "Le terme *a-sotia*. Composé du préfixe privatif *a-* et du verbe *sozo* (sauver, maintenir entier). L'asotie n'est pas qu'une ivresse morale ; c'est l'incapacité absolue d'être sauvé, l'impossibilité de maintenir la structure du Sujet. C'est l'entropie maximale, l'effilochage de l'énergie vitale (*dissolution*)." },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "πληροῦσθε", "gloss": "soyez_remplis", "analyse": "L'impératif passif *plerousthe*. Face au vide de la dissolution matérielle (*a-sotia*), Paul oppose le *Pleroma* (la Plénitude divine). Le Sujet ne doit plus chercher à se remplir par l'extérieur, il doit se laisser totalement inonder de l'intérieur par la Source." },
-          { "greek": "ἐν", "gloss": "dans/de" },
-          { "greek": "πνεύματι,", "gloss": "l'Esprit" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "μεθύσκεσθε",
+            "gloss": "vous_enivrez"
+          },
+          {
+            "greek": "οἴνῳ,",
+            "gloss": "de_vin",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le vin (*oinos*) représente ici le stimulus matériel et périphérique. L'Ego cherche perpétuellement des substances extérieures pour combler son vide intérieur et altérer son état de conscience par des moyens physiques, ce qui mène inévitablement à l'épuisement.",
+              "related": [
+                "μεθύσκεσθε",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἀσωτία,",
+            "gloss": "dissolution/débauche",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le terme *a-sotia*. Composé du préfixe privatif *a-* et du verbe *sozo* (sauver, maintenir entier). L'asotie n'est pas qu'une ivresse morale ; c'est l'incapacité absolue d'être sauvé, l'impossibilité de maintenir la structure du Sujet. C'est l'entropie maximale, l'effilochage de l'énergie vitale (*dissolution*).",
+              "related": [
+                "ἐστιν",
+                "ἀλλὰ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "πληροῦσθε",
+            "gloss": "soyez_remplis",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'impératif passif *plerousthe*. Face au vide de la dissolution matérielle (*a-sotia*), Paul oppose le *Pleroma* (la Plénitude divine). Le Sujet ne doit plus chercher à se remplir par l'extérieur, il doit se laisser totalement inonder de l'intérieur par la Source.",
+              "related": [
+                "ἀλλὰ",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/de"
+          },
+          {
+            "greek": "πνεύματι,",
+            "gloss": "l'Esprit"
+          }
         ]
       },
       {
@@ -390,25 +1617,131 @@
           "darby": "vous entretenant par des psaumes et des hymnes et des cantiques spirituels, chantant et psalmodiant de votre coeur au Seigneur ;"
         },
         "interlinear": [
-          { "greek": "λαλοῦντες", "gloss": "parlant" },
-          { "greek": "ἑαυτοῖς", "gloss": "à_vous-mêmes/les_uns_aux_autres" },
-          { "greek": "ψαλμοῖς", "gloss": "par_des_psaumes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὕμνοις", "gloss": "des_hymnes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ᾠδαῖς", "gloss": "des_odes/cantiques" },
-          { "greek": "πνευματικαῖς,", "gloss": "spirituels", "analyse": "Les psaumes et odes 'pneumatiques' (de l'Esprit). Contrairement à l'ivresse du vin qui détruit le langage dans la vulgarité et la confusion (le borborygme de la dissolution), l'ivresse de l'Esprit s'exprime par le langage le plus structuré, le plus harmonieux et le plus vibratoire : la poésie et la musique sacrée." },
-          { "greek": "ᾄδοντες", "gloss": "chantant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ψάλλοντες", "gloss": "psalmodiant" },
-          { "greek": "τῇ", "gloss": "dans_le" },
-          { "greek": "καρδίᾳ", "gloss": "cœur/centre", "analyse": "Le *Kardia*. Ce n'est pas le siège des émotions sentimentales, c'est le Centre de gravité de l'être. La vibration sonore (*psallontes*) ne doit pas rester sur les lèvres (l'extériorité), elle doit sourdre de l'Axe intérieur pour résonner avec l'Incréé." },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "κυρίῳ,", "gloss": "Seigneur" }
+          {
+            "greek": "λαλοῦντες",
+            "gloss": "parlant"
+          },
+          {
+            "greek": "ἑαυτοῖς",
+            "gloss": "à_vous-mêmes/les_uns_aux_autres"
+          },
+          {
+            "greek": "ψαλμοῖς",
+            "gloss": "par_des_psaumes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὕμνοις",
+            "gloss": "des_hymnes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ᾠδαῖς",
+            "gloss": "des_odes/cantiques"
+          },
+          {
+            "greek": "πνευματικαῖς,",
+            "gloss": "spirituels",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Les psaumes et odes 'pneumatiques' (de l'Esprit). Contrairement à l'ivresse du vin qui détruit le langage dans la vulgarité et la confusion (le borborygme de la dissolution), l'ivresse de l'Esprit s'exprime par le langage le plus structuré, le plus harmonieux et le plus vibratoire : la poésie et la musique sacrée.",
+              "related": [
+                "ᾠδαῖς",
+                "ᾄδοντες"
+              ]
+            }
+          },
+          {
+            "greek": "ᾄδοντες",
+            "gloss": "chantant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ψάλλοντες",
+            "gloss": "psalmodiant"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "dans_le"
+          },
+          {
+            "greek": "καρδίᾳ",
+            "gloss": "cœur/centre",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *Kardia*. Ce n'est pas le siège des émotions sentimentales, c'est le Centre de gravité de l'être. La vibration sonore (*psallontes*) ne doit pas rester sur les lèvres (l'extériorité), elle doit sourdre de l'Axe intérieur pour résonner avec l'Incréé.",
+              "related": [
+                "τῇ",
+                "ὑμῶν"
+              ]
+            }
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "κυρίῳ,",
+            "gloss": "Seigneur"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 16 - ἐξαγοραζόμενοι : Segond traduit 'rachetez le temps' et Darby 'saisissant l'occasion'. La force colossale du préfixe spatial *ex-* (hors de) alliée au marché (*agora*) est souvent lissée. Il s'agit littéralement d'extraire la vie de la place marchande. Sortir de la transaction pour entrer dans la contemplation.\n• Verset 18 - ἀσωτία : Segond dit 'débauche', Darby 'dissolution'. Le terme 'débauche' réduit cette notion à la simple luxure. Darby a une meilleure intuition avec 'dissolution', car l'*a-sotia* est précisément l'inverse métaphysique du salut (*sozo*). C'est la désintégration du Sujet, qui s'évapore dans la périphérie matérielle.\n\nAnalyse spirituelle :\nCette seconde partie de la péricope bascule de la métaphysique de la Lumière vers la phénoménologie de l'Éveil.\n\nLe verset 14 contient l'injonction la plus radicale du Nouveau Testament. Il décrit l'état naturel de l'humanité dans le Monde duel : le sommeil (*katheudon*) et la mort (*nekron*). L'homme non aligné ne vit pas, il est un somnambule englué dans l'opacité. L'éveil (*Egeire*) est un mouvement strictement vertical (*ana-stasis*) : s'arracher à l'horizontalité pour recevoir la foudre lumineuse de l'Incréé (*epi-phauso*). \n\nUne fois debout, l'éveillé ne doit plus se soumettre au chronomètre du système marchand (*agora*), il doit en extirper les instants qualitatifs (*kairos*) pour y faire descendre l'éternité (v.16). \n\nL'apothéose arrive aux versets 18 et 19 avec l'opposition de deux 'ivresses'. L'Ego, terrifié par son propre néant (le fameux *a-phron*, sans-centre, du verset 17), cherche l'ivresse du vin. Cette quête de remplissage horizontal mène inévitablement à l'*a-sotia*, l'impossibilité d'être rassemblé, la fuite de l'énergie vers le néant. Paul y oppose l'ivresse du *Pleroma* (le remplissage de l'Esprit). Cette ivresse divine ne détruit pas le Sujet, elle le sublime : elle transforme la peur en chant (*odais*) et la dissolution en un hymne vibratoire parfaitement ordonné, jaillissant du Centre absolu (*kardia*) vers le Seigneur."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 16 - ἐξαγοραζόμενοι : Segond traduit 'rachetez le temps' et Darby 'saisissant l'occasion'. La force colossale du préfixe spatial *ex-* (hors de) alliée au marché (*agora*) est souvent lissée. Il s'agit littéralement d'extraire la vie de la place marchande. Sortir de la transaction pour entrer dans la contemplation.\n• Verset 18 - ἀσωτία : Segond dit 'débauche', Darby 'dissolution'. Le terme 'débauche' réduit cette notion à la simple luxure. Darby a une meilleure intuition avec 'dissolution', car l'*a-sotia* est précisément l'inverse métaphysique du salut (*sozo*). C'est la désintégration du Sujet, qui s'évapore dans la périphérie matérielle.\n\nAnalyse spirituelle :\nCette seconde partie de la péricope bascule de la métaphysique de la Lumière vers la phénoménologie de l'Éveil.\n\nLe verset 14 contient l'injonction la plus radicale du Nouveau Testament. Il décrit l'état naturel de l'humanité dans le Monde duel : le sommeil (*katheudon*) et la mort (*nekron*). L'homme non aligné ne vit pas, il est un somnambule englué dans l'opacité. L'éveil (*Egeire*) est un mouvement strictement vertical (*ana-stasis*) : s'arracher à l'horizontalité pour recevoir la foudre lumineuse de l'Incréé (*epi-phauso*). \n\nUne fois debout, l'éveillé ne doit plus se soumettre au chronomètre du système marchand (*agora*), il doit en extirper les instants qualitatifs (*kairos*) pour y faire descendre l'éternité (v.16). \n\nL'apothéose arrive aux versets 18 et 19 avec l'opposition de deux 'ivresses'. L'Ego, terrifié par son propre néant (le fameux *a-phron*, sans-centre, du verset 17), cherche l'ivresse du vin. Cette quête de remplissage horizontal mène inévitablement à l'*a-sotia*, l'impossibilité d'être rassemblé, la fuite de l'énergie vers le néant. Paul y oppose l'ivresse du *Pleroma* (le remplissage de l'Esprit). Cette ivresse divine ne détruit pas le Sujet, elle le sublime : elle transforme la peur en chant (*odais*) et la dissolution en un hymne vibratoire parfaitement ordonné, jaillissant du Centre absolu (*kardia*) vers le Seigneur.\n\nComplément de lecture : Éphésiens oppose deux plénitudes. L’ivresse enferme, tandis que l’impératif présent passif « soyez remplis de l’Esprit » décrit un accueil continuel. Cette plénitude circule en psaumes, hymnes, chants et action de grâce « les uns aux autres ».",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement une entrée dans les deux lectures du 26e dimanche après la Pentecôte : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : enfermement, attente, blessure, isolement, accumulation, courbure, peur ou désir de retrouver une relation vivante."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : écouter, se laisser rejoindre, toucher avec délicatesse, devenir prochain, partager, se redresser ou recevoir la grâce."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes malades ou éprouvées."
+      }
+    ],
+    "liturgical_echoes": []
   }
 }
