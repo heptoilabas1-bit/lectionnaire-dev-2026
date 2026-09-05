@@ -3,545 +3,1830 @@
     "reference": "Matthieu 14, 22-34",
     "title": "Jésus marche sur les eaux : La Foi victorieuse de la peur",
     "interlinear": [
-  {
-    "verse_number": 22,
-    "translations": {
-      "segond": "Aussitôt après, il obligea les disciples à monter dans la barque et à passer avant lui de l'autre côté, pendant qu'il renverrait la foule.",
-      "darby": "Et aussitôt il contraignit les disciples de monter dans la nacelle et de le précéder à l'autre bord, jusqu'à ce qu'il eût renvoyé les foules."
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "εὐθέως", "gloss": "aussitôt" },
-      { "greek": "ἠνάγκασεν", "gloss": "il_obligea" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "μαθηταὺς", "gloss": "disciples" },
-      { "greek": "ἐμβῆναι", "gloss": "de_monter" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸ", "gloss": "la" },
-      { "greek": "πλοῖον", "gloss": "barque" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "προάγειν", "gloss": "de_précéder" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "εἰς", "gloss": "vers" },
-      { "greek": "τὸ", "gloss": "l'" },
-      { "greek": "πέραν,", "gloss": "autre_bord" },
-      { "greek": "ἕως", "gloss": "jusqu'à_ce_que" },
-      { "greek": "οὗ", "gloss": "—" },
-      { "greek": "ἀπολύσῃ", "gloss": "il_renvoie" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ὄχλους.", "gloss": "foules" }
+      {
+        "verse_number": 22,
+        "translations": {
+          "segond": "Aussitôt après, il obligea les disciples à monter dans la barque et à passer avant lui de l'autre côté, pendant qu'il renverrait la foule.",
+          "darby": "Et aussitôt il contraignit les disciples de monter dans la nacelle et de le précéder à l'autre bord, jusqu'à ce qu'il eût renvoyé les foules."
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εὐθέως",
+            "gloss": "aussitôt"
+          },
+          {
+            "greek": "ἠνάγκασεν",
+            "gloss": "il_obligea"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὺς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "ἐμβῆναι",
+            "gloss": "de_monter"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλοῖον",
+            "gloss": "barque"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προάγειν",
+            "gloss": "de_précéder"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "πέραν,",
+            "gloss": "autre_bord"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à_ce_que"
+          },
+          {
+            "greek": "οὗ",
+            "gloss": "—"
+          },
+          {
+            "greek": "ἀπολύσῃ",
+            "gloss": "il_renvoie"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὄχλους.",
+            "gloss": "foules"
+          }
+        ]
+      },
+      {
+        "verse_number": 23,
+        "translations": {
+          "segond": "Quand il l'eut renvoyée, il monta sur la montagne, pour prier à l'écart; et, comme le soir était venu, il était là seul.",
+          "darby": "Et quand il eut renvoyé les foules, il monta sur la montagne, à l'écart, pour prier ; et le soir étant venu, il était là seul."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀπολύσας",
+            "gloss": "ayant_renvoyé"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὄχλους",
+            "gloss": "foules"
+          },
+          {
+            "greek": "ἀνέβη",
+            "gloss": "il_monta"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄρος",
+            "gloss": "montagne"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "à"
+          },
+          {
+            "greek": "ἰδίαν",
+            "gloss": "l'écart",
+            "annotation": {
+              "type": "traduction",
+              "title": "À l’écart — κατ’ ἰδίαν",
+              "content": "Approfondissement spirituel : L'expression *kat' idian* (en propre, à l'écart). Le Christ vient de nourrir 5000 hommes, mais Il ne se laisse pas absorber par la fusion collective. Pour que le Sujet subsiste dans le Royaume UN, il doit constamment se ressourcer dans la verticalité de la prière solitaire avec le Père, loin de la rumeur de la foule.",
+              "related": [
+                "ὄρος",
+                "κατ’",
+                "προσεύξασθαι.",
+                "ὀψίας"
+              ]
+            }
+          },
+          {
+            "greek": "προσεύξασθαι.",
+            "gloss": "pour_prier"
+          },
+          {
+            "greek": "ὀψίας",
+            "gloss": "Le_soir"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "γενομένης",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "μόνος",
+            "gloss": "seul"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "il_était"
+          },
+          {
+            "greek": "ἐκεῖ.",
+            "gloss": "là"
+          }
+        ]
+      },
+      {
+        "verse_number": 24,
+        "translations": {
+          "segond": "La barque, déjà au milieu de la mer, était battue par les flots; car le vent était contraire.",
+          "darby": "Et la nacelle était déjà au milieu de la mer, tourmentée par les vagues ; car le vent était contraire."
+        },
+        "interlinear": [
+          {
+            "greek": "τὸ",
+            "gloss": "La"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "πλοῖον",
+            "gloss": "barque"
+          },
+          {
+            "greek": "ἤδη",
+            "gloss": "déjà"
+          },
+          {
+            "greek": "σταδίους",
+            "gloss": "stades"
+          },
+          {
+            "greek": "πολλοὺς",
+            "gloss": "nombreux"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆς",
+            "gloss": "terre"
+          },
+          {
+            "greek": "ἀπεῖχεν,",
+            "gloss": "était_éloignée"
+          },
+          {
+            "greek": "βασανιζόμενον",
+            "gloss": "étant_tourmentée/battue",
+            "annotation": {
+              "type": "analyse",
+              "title": "La barque tourmentée",
+              "content": "Approfondissement spirituel : Le verbe *basanizo* (torturer, tourmenter). Séparée de l'Axe vertical, l'humanité (la barque) se retrouve à la merci des éléments du Monde duel. L'eau (symbole des forces de mort et de l'inconscient) et le vent contraire soumettent les disciples à la panique de la survie.",
+              "related": [
+                "γῆς",
+                "ἀπεῖχεν,",
+                "ὑπὸ",
+                "τῶν"
+              ]
+            }
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "κυμάτων·",
+            "gloss": "vagues"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐναντίος",
+            "gloss": "contraire"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄνεμος.",
+            "gloss": "vent"
+          }
+        ]
+      },
+      {
+        "verse_number": 25,
+        "translations": {
+          "segond": "À la quatrième veille de la nuit, Jésus alla vers eux, marchant sur la mer.",
+          "darby": "Et à la quatrième veille de la nuit, il s'en alla vers eux, marchant sur la mer."
+        },
+        "interlinear": [
+          {
+            "greek": "τετάρτῃ",
+            "gloss": "À_la_quatrième"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "φυλακῇ",
+            "gloss": "veille"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "νυκτὸς",
+            "gloss": "nuit"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "il_vint"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "περιπατῶν",
+            "gloss": "marchant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Marcher sur la mer",
+              "content": "Approfondissement spirituel : Marcher sur la mer n'est pas une simple infraction spectaculaire aux lois physiques. C'est la démonstration que le Sujet incréé (le Christ) n'est soumis à aucune fatalité du Monde duel. Il domine le chaos, Il n'est pas englouti par la gravité du monde.",
+              "related": [
+                "πρὸς",
+                "αὐτοὺς",
+                "ἐπὶ",
+                "τὴν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "θάλασσαν.",
+            "gloss": "mer"
+          }
+        ]
+      },
+      {
+        "verse_number": 26,
+        "translations": {
+          "segond": "Quand les disciples le virent marcher sur la mer, ils furent troublés, et dirent: C'est un fantôme! Et, dans leur frayeur, ils poussèrent des cris.",
+          "darby": "Et les disciples, le voyant marcher sur la mer, furent troublés, disant : C'est un fantôme ! Et ils crièrent de peur."
+        },
+        "interlinear": [
+          {
+            "greek": "οἱ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "ἰδόντες",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "θαλάσσης",
+            "gloss": "mer"
+          },
+          {
+            "greek": "περιπατοῦντα",
+            "gloss": "marchant"
+          },
+          {
+            "greek": "ἐταράχθησαν",
+            "gloss": "furent_troublés/terrifiés"
+          },
+          {
+            "greek": "λέγοντες",
+            "gloss": "disant"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Φάντασμά",
+            "gloss": "Un_fantôme",
+            "annotation": {
+              "type": "traduction",
+              "title": "Un fantôme ?",
+              "content": "Approfondissement spirituel : Le mot *Phantasma* (illusion, apparition effrayante). L'Ego est incapable d'interpréter la Grâce. Face à l'irruption de la dimension divine, l'intelligence horizontale ne voit qu'une anomalie terrifiante. C'est l'aveuglement fondamental de la peur.",
+              "related": [
+                "λέγοντες",
+                "ὅτι",
+                "ἐστιν,",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐστιν,",
+            "gloss": "c'est"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "φόβου",
+            "gloss": "peur"
+          },
+          {
+            "greek": "ἔκραξαν.",
+            "gloss": "ils_crièrent"
+          }
+        ]
+      },
+      {
+        "verse_number": 27,
+        "translations": {
+          "segond": "Jésus leur dit aussitôt: Rassurez-vous, c'est moi; n'ayez pas peur!",
+          "darby": "Mais Jésus leur parla aussitôt, disant : Ayez bon courage ; c'est moi, n'ayez point de peur."
+        },
+        "interlinear": [
+          {
+            "greek": "εὐθὺς",
+            "gloss": "Aussitôt"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐλάλησεν",
+            "gloss": "parla"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Θαρσεῖτε,",
+            "gloss": "Prenez_courage"
+          },
+          {
+            "greek": "ἐγώ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "εἰμι·",
+            "gloss": "Je_suis",
+            "annotation": {
+              "type": "theologie",
+              "title": "« C’est moi » — ἐγώ εἰμι",
+              "content": "Ἐγώ εἰμι signifie ici naturellement « c’est moi » ou « je suis ». Dans l’Évangile de Matthieu, prononcé par Jésus marchant sur la mer, l’expression peut faire entendre un écho théophanique ; cet écho spirituel ne transforme pas à lui seul la formule en citation explicite du Nom révélé à Moïse.",
+              "related": [
+                "Θαρσεῖτε,",
+                "ἐγώ",
+                "μὴ",
+                "φοβεῖσθε."
+              ]
+            }
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "φοβεῖσθε.",
+            "gloss": "ayez_peur"
+          }
+        ]
+      },
+      {
+        "verse_number": 28,
+        "translations": {
+          "segond": "Pierre lui répondit: Seigneur, si c'est toi, ordonne que j'aille vers toi sur les eaux.",
+          "darby": "Et Pierre, lui répondant, dit : Seigneur, si c'est toi, ordonne-moi d'aller vers toi sur les eaux."
+        },
+        "interlinear": [
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "Ayant_répondu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Πέτρος",
+            "gloss": "Pierre"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "εἶ,",
+            "gloss": "tu_es"
+          },
+          {
+            "greek": "κέλευσόν",
+            "gloss": "ordonne"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐλθεῖν",
+            "gloss": "d'aller"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "σὲ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὕδατα.",
+            "gloss": "eaux"
+          }
+        ]
+      },
+      {
+        "verse_number": 29,
+        "translations": {
+          "segond": "Et il dit: Viens! Pierre sortit de la barque, et marcha sur les eaux, pour aller vers Jésus.",
+          "darby": "Et il dit : Viens. Et Pierre, étant descendu de la nacelle, marcha sur les eaux pour aller à Jésus."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἐλθέ.",
+            "gloss": "Viens"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "καταβὰς",
+            "gloss": "étant_descendu"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλοίου",
+            "gloss": "barque"
+          },
+          {
+            "greek": "Πέτρος",
+            "gloss": "Pierre"
+          },
+          {
+            "greek": "περιεπάτησεν",
+            "gloss": "marcha"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὕδατα",
+            "gloss": "eaux",
+            "annotation": {
+              "type": "analyse",
+              "title": "Pierre marche sur les eaux",
+              "content": "Approfondissement spirituel : Tant que le regard de Pierre est captivé par l'Axe vertical (le Christ), il participe à la *dynamis* (l'Énergie) divine. Il devient lui-même un Sujet capable de transgresser les lois de la pesanteur mortelle. L'homme unifié à Dieu ne coule pas.",
+              "related": [
+                "ἐπὶ",
+                "τὰ",
+                "καὶ",
+                "ἦλθεν"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "vint"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦν.",
+            "gloss": "Jésus"
+          }
+        ]
+      },
+      {
+        "verse_number": 30,
+        "translations": {
+          "segond": "Mais, voyant que le vent était fort, il eut peur; et, comme il commençait à enfoncer, il s'écria: Seigneur, sauve-moi!",
+          "darby": "Mais, voyant le vent fort, il eut peur ; et comme il commençait à enfoncer, il s'écria, disant : Seigneur, sauve-moi !"
+        },
+        "interlinear": [
+          {
+            "greek": "βλέπων",
+            "gloss": "Voyant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄνεμον",
+            "gloss": "vent"
+          },
+          {
+            "greek": "ἐφοβήθη,",
+            "gloss": "il_eut_peur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀρξάμενος",
+            "gloss": "commençant"
+          },
+          {
+            "greek": "καταποντίζεσθαι",
+            "gloss": "à_s'enfoncer/couler",
+            "annotation": {
+              "type": "racine",
+              "title": "Commencer à s’enfoncer",
+              "content": "Approfondissement spirituel : Le basculement tragique. Pierre détourne son regard de la Présence incréée pour analyser son environnement (le vent). L'Ego reprend le contrôle : il calcule le danger, se sépare de la Grâce, et instantanément la gravité du Monde duel le rattrape. La peur (*phobos*) le fait couler.",
+              "related": [
+                "καὶ",
+                "ἀρξάμενος",
+                "ἔκραξεν",
+                "λέγων·"
+              ]
+            }
+          },
+          {
+            "greek": "ἔκραξεν",
+            "gloss": "il_cria"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "σῶσόν",
+            "gloss": "sauve"
+          },
+          {
+            "greek": "με.",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 31,
+        "translations": {
+          "segond": "Aussitôt Jésus étendit la main, le saisit, et lui dit: Homme de peu de foi, pourquoi as-tu douté?",
+          "darby": "Et aussitôt Jésus, étendant la main, le prit et lui dit : Homme de petite foi, pourquoi as-tu douté ?"
+        },
+        "interlinear": [
+          {
+            "greek": "εὐθέως",
+            "gloss": "Aussitôt"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐκτείνας",
+            "gloss": "ayant_étendu"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χεῖρα",
+            "gloss": "main"
+          },
+          {
+            "greek": "ἐπελάβετο",
+            "gloss": "saisit"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ὀλιγόπιστε,",
+            "gloss": "Homme_de_peu_de_foi"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quoi"
+          },
+          {
+            "greek": "ἐδίστασας;",
+            "gloss": "as-tu_douté",
+            "annotation": {
+              "type": "racine",
+              "title": "Pourquoi as-tu douté ?",
+              "content": "Διστάζω signifie hésiter ou douter. Son lien avec δίς, « deux fois », peut suggérer une hésitation entre deux appuis ; il faut toutefois distinguer cette méditation spirituelle du sens contextuel : Pierre cesse de s’en remettre pleinement à la parole du Christ.",
+              "related": [
+                "εἰς",
+                "τί"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 32,
+        "translations": {
+          "segond": "Et ils montèrent dans la barque, et le vent cessa.",
+          "darby": "Et quand ils furent montés dans la nacelle, le vent tomba."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀναβάντων",
+            "gloss": "étant_montés"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλοῖον",
+            "gloss": "barque"
+          },
+          {
+            "greek": "ἐκόπασεν",
+            "gloss": "s'apaisa/tomba"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄνεμος.",
+            "gloss": "vent"
+          }
+        ]
+      },
+      {
+        "verse_number": 33,
+        "translations": {
+          "segond": "Ceux qui étaient dans la barque vinrent se prosterner devant Jésus, et dirent: Tu es véritablement le Fils de Dieu.",
+          "darby": "Et ceux qui étaient dans la nacelle vinrent et lui rendirent hommage, disant : Véritablement tu es le Fils de Dieu."
+        },
+        "interlinear": [
+          {
+            "greek": "οἱ",
+            "gloss": "Ceux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλοίῳ",
+            "gloss": "barque"
+          },
+          {
+            "greek": "προσεκύνησαν",
+            "gloss": "se_prosternèrent"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἀληθῶς",
+            "gloss": "Véritablement"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "εἶ.",
+            "gloss": "tu_es"
+          }
+        ]
+      },
+      {
+        "verse_number": 34,
+        "translations": {
+          "segond": "Après avoir traversé la mer, ils vinrent dans le pays de Génésareth.",
+          "darby": "Et ayant passé à l'autre bord, ils vinrent dans la contrée de Génésareth."
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "διαπεράσαντες",
+            "gloss": "ayant_traversé"
+          },
+          {
+            "greek": "ἦλθον",
+            "gloss": "ils_vinrent"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆν",
+            "gloss": "terre"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Γεννησαρέτ.",
+            "gloss": "Génésareth"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 26 - Φάντασμά : Segond et Darby s'accordent sur 'fantôme'. Ce choix est pertinent pour le contexte, mais il est crucial de comprendre la racine grecque *phantazo* (rendre visible, s'imaginer). Le fantôme n'est pas qu'une figure folklorique ; c'est une projection de l'esprit effrayé. Les disciples, enfermés dans le Monde duel, projettent leur propre angoisse de la mort sur la manifestation de la Grâce.\n• Verset 31 - ἐδίστασας : 'As-tu douté'. Le grec *distazo* est d'une richesse absolue. Ce n'est pas le doute intellectuel du philosophe (comme on dirait aujourd'hui 'je doute que cela soit vrai'). La racine est *dis* (deux fois, double). Douter, au sens biblique, c'est être fragmenté intérieurement, c'est perdre son unité de Sujet pour osciller entre deux maîtres ou deux visions du réel.\n\nAnalyse spirituelle :\nCe péricope est une leçon de physique spirituelle magistrale. Dans la mer démontée du Monde duel, l'Ego humain s'agite et panique pour assurer sa survie (la barque battue par les vagues). Le Christ vient à eux en marchant sur les eaux : Il prouve que la *dynamis* (l'Énergie divine) n'est pas soumise aux lois de l'entropie et de la gravité. \n\nL'expérience de Pierre est le cœur du drame. Le Christ l'invite à devenir un Sujet participant à cette souveraineté : 'Viens'. Pierre sort et marche. À cet instant, il est soulevé par la Grâce parce que tout son être est unifié dans le regard porté sur le Christ. Il n'est plus soumis au Monde duel. \n\nPuis vient la chute (v. 30) : 'voyant que le vent était fort'. L'Ego de Pierre reprend ses droits. Il cesse de regarder la Source de sa vie pour analyser l'obstacle. Cette simple 'distraction' le fragmente (*distazo*). Dès qu'il réintègre la logique de la peur et du calcul, les lois physiques reprennent le dessus, et la gravité l'engloutit. La restauration immédiate du Christ qui lui tend la main prouve que le Salut n'est pas une récompense pour une performance ininterrompue, mais une communion offerte à celui qui, même en coulant, crie : 'Seigneur, sauve-moi'.\n\nComplément de lecture : la scène est structurée par les mouvements : Jésus contraint les disciples à passer sur l’autre rive, se retire seul dans la montagne, vient vers eux sur la mer, appelle Pierre à venir, puis le saisit lorsqu’il s’enfonce. L’Apôtre donne le fondement de cette traversée : nul ne peut en poser d’autre que Jésus-Christ, et la communauté elle-même est le sanctuaire de Dieu.",
+    "homiletic_axes": [
+      {
+        "title": "Dans la tempête, une présence qui vient",
+        "content": "La barque est tourmentée par le vent contraire ; Jésus rejoint les disciples en marchant sur la mer et leur dit de ne pas craindre.",
+        "keywords": [
+          "πλοῖον",
+          "βασανιζόμενον",
+          "περιπατῶν",
+          "φοβεῖσθε."
+        ]
+      },
+      {
+        "title": "Sortir, marcher, s’enfoncer, être saisi",
+        "content": "Pierre ose venir sur la parole de Jésus, puis s’enfonce et crie. La main du Christ le saisit avant toute explication.",
+        "keywords": [
+          "Ἐλθέ.",
+          "ὕδατα",
+          "καταποντίζεσθαι",
+          "ἐπελάβετο"
+        ]
+      },
+      {
+        "title": "Le Christ, unique fondement",
+        "content": "L’Apôtre déplace l’image de l’instabilité vers l’édifice : la vie ecclésiale se construit sur le seul fondement déjà posé.",
+        "keywords": [
+          "οἰκοδομή",
+          "θεμέλιον",
+          "Ἰησοῦς",
+          "Χριστός."
+        ]
+      },
+      {
+        "title": "De la barque au sanctuaire",
+        "content": "Les disciples confessent le Fils de Dieu dans la barque ; Paul affirme que la communauté est le sanctuaire habité par l’Esprit.",
+        "keywords": [
+          "πλοίῳ",
+          "θεοῦ",
+          "ναὸς",
+          "πνεῦμα"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 9e dimanche : une parole, un geste, un contraste, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez d’abord la progression du récit évangélique, puis voyez comment l’Apôtre l’approfondit, la déplace ou en manifeste le fruit ecclésial. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète véritablement éclairée par les textes : peur, impuissance, dette, attachement, appropriation, division, besoin d’être saisi ou difficulté à recevoir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans imposer un modèle unique : crier vers le Christ, pardonner, renoncer à un droit, suivre, servir, veiller, partager ou se laisser reconstruire."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la mer instable au fondement qui demeure",
+        "reference": "Matthieu 14, 22-34 ; 1 Corinthiens 3, 9-17",
+        "content": "Pierre ne tient pas par sa propre maîtrise de la mer, et l’Église ne tient pas par ses propres constructeurs. Le Christ saisit celui qui s’enfonce et demeure l’unique fondement de l’édifice habité par l’Esprit.",
+        "connections": []
+      }
     ]
   },
-  {
-    "verse_number": 23,
-    "translations": {
-      "segond": "Quand il l'eut renvoyée, il monta sur la montagne, pour prier à l'écart; et, comme le soir était venu, il était là seul.",
-      "darby": "Et quand il eut renvoyé les foules, il monta sur la montagne, à l'écart, pour prier ; et le soir étant venu, il était là seul."
-    },
+  "apostle": {
+    "reference": "1 Corinthiens 3, 9-17",
+    "title": "L'Église comme Édifice de Dieu et Temple de l'Esprit",
     "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἀπολύσας", "gloss": "ayant_renvoyé" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ὄχλους", "gloss": "foules" },
-      { "greek": "ἀνέβη", "gloss": "il_monta" },
-      { "greek": "εἰς", "gloss": "sur" },
-      { "greek": "τὸ", "gloss": "la" },
-      { "greek": "ὄρος", "gloss": "montagne" },
-      { "greek": "κατ’", "gloss": "à" },
-      { "greek": "ἰδίαν", "gloss": "l'écart", "analyse": "L'expression *kat' idian* (en propre, à l'écart). Le Christ vient de nourrir 5000 hommes, mais Il ne se laisse pas absorber par la fusion collective. Pour que le Sujet subsiste dans le Royaume UN, il doit constamment se ressourcer dans la verticalité de la prière solitaire avec le Père, loin de la rumeur de la foule." },
-      { "greek": "προσεύξασθαι.", "gloss": "pour_prier" },
-      { "greek": "ὀψίας", "gloss": "Le_soir" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "γενομένης", "gloss": "étant_venu" },
-      { "greek": "μόνος", "gloss": "seul" },
-      { "greek": "ἦν", "gloss": "il_était" },
-      { "greek": "ἐκεῖ.", "gloss": "là" }
-    ]
-  },
-  {
-    "verse_number": 24,
-    "translations": {
-      "segond": "La barque, déjà au milieu de la mer, était battue par les flots; car le vent était contraire.",
-      "darby": "Et la nacelle était déjà au milieu de la mer, tourmentée par les vagues ; car le vent était contraire."
-    },
-    "interlinear": [
-      { "greek": "τὸ", "gloss": "La" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "πλοῖον", "gloss": "barque" },
-      { "greek": "ἤδη", "gloss": "déjà" },
-      { "greek": "σταδίους", "gloss": "stades" },
-      { "greek": "πολλοὺς", "gloss": "nombreux" },
-      { "greek": "ἀπὸ", "gloss": "de" },
-      { "greek": "τῆς", "gloss": "la" },
-      { "greek": "γῆς", "gloss": "terre" },
-      { "greek": "ἀπεῖχεν,", "gloss": "était_éloignée" },
-      { "greek": "βασανιζόμενον", "gloss": "étant_tourmentée/battue", "analyse": "Le verbe *basanizo* (torturer, tourmenter). Séparée de l'Axe vertical, l'humanité (la barque) se retrouve à la merci des éléments du Monde duel. L'eau (symbole des forces de mort et de l'inconscient) et le vent contraire soumettent les disciples à la panique de la survie." },
-      { "greek": "ὑπὸ", "gloss": "par" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "κυμάτων·", "gloss": "vagues" },
-      { "greek": "ἦν", "gloss": "était" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ἐναντίος", "gloss": "contraire" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "ἄνεμος.", "gloss": "vent" }
-    ]
-  },
-  {
-    "verse_number": 25,
-    "translations": {
-      "segond": "À la quatrième veille de la nuit, Jésus alla vers eux, marchant sur la mer.",
-      "darby": "Et à la quatrième veille de la nuit, il s'en alla vers eux, marchant sur la mer."
-    },
-    "interlinear": [
-      { "greek": "τετάρτῃ", "gloss": "À_la_quatrième" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "φυλακῇ", "gloss": "veille" },
-      { "greek": "τῆς", "gloss": "de_la" },
-      { "greek": "νυκτὸς", "gloss": "nuit" },
-      { "greek": "ἦλθεν", "gloss": "il_vint" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "αὐτοὺς", "gloss": "eux" },
-      { "greek": "περιπατῶν", "gloss": "marchant", "analyse": "Marcher sur la mer n'est pas une simple infraction spectaculaire aux lois physiques. C'est la démonstration que le Sujet incréé (le Christ) n'est soumis à aucune fatalité du Monde duel. Il domine le chaos, Il n'est pas englouti par la gravité du monde." },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "θάλασσαν.", "gloss": "mer" }
-    ]
-  },
-  {
-    "verse_number": 26,
-    "translations": {
-      "segond": "Quand les disciples le virent marcher sur la mer, ils furent troublés, et dirent: C'est un fantôme! Et, dans leur frayeur, ils poussèrent des cris.",
-      "darby": "Et les disciples, le voyant marcher sur la mer, furent troublés, disant : C'est un fantôme ! Et ils crièrent de peur."
-    },
-    "interlinear": [
-      { "greek": "οἱ", "gloss": "Les" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "μαθηταὶ", "gloss": "disciples" },
-      { "greek": "ἰδόντες", "gloss": "ayant_vu" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "τῆς", "gloss": "la" },
-      { "greek": "θαλάσσης", "gloss": "mer" },
-      { "greek": "περιπατοῦντα", "gloss": "marchant" },
-      { "greek": "ἐταράχθησαν", "gloss": "furent_troublés/terrifiés" },
-      { "greek": "λέγοντες", "gloss": "disant" },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "Φάντασμά", "gloss": "Un_fantôme", "analyse": "Le mot *Phantasma* (illusion, apparition effrayante). L'Ego est incapable d'interpréter la Grâce. Face à l'irruption de la dimension divine, l'intelligence horizontale ne voit qu'une anomalie terrifiante. C'est l'aveuglement fondamental de la peur." },
-      { "greek": "ἐστιν,", "gloss": "c'est" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀπὸ", "gloss": "de" },
-      { "greek": "τοῦ", "gloss": "la" },
-      { "greek": "φόβου", "gloss": "peur" },
-      { "greek": "ἔκραξαν.", "gloss": "ils_crièrent" }
-    ]
-  },
-  {
-    "verse_number": 27,
-    "translations": {
-      "segond": "Jésus leur dit aussitôt: Rassurez-vous, c'est moi; n'ayez pas peur!",
-      "darby": "Mais Jésus leur parla aussitôt, disant : Ayez bon courage ; c'est moi, n'ayez point de peur."
-    },
-    "interlinear": [
-      { "greek": "εὐθὺς", "gloss": "Aussitôt" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ἐλάλησεν", "gloss": "parla" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "αὐτοῖς", "gloss": "à_eux" },
-      { "greek": "λέγων·", "gloss": "disant" },
-      { "greek": "Θαρσεῖτε,", "gloss": "Prenez_courage" },
-      { "greek": "ἐγώ", "gloss": "Moi" },
-      { "greek": "εἰμι·", "gloss": "Je_suis", "analyse": "La formule absolue de l'identité divine : *Ego eimi* (Je Suis), le nom révélé à Moïse. Le Christ dissipe l'illusion du fantôme en imposant la Présence pure du Sujet incréé. Là où est le 'Je Suis', la peur du Monde duel n'a plus aucune légitimité." },
-      { "greek": "μὴ", "gloss": "ne...pas" },
-      { "greek": "φοβεῖσθε.", "gloss": "ayez_peur" }
-    ]
-  },
-  {
-    "verse_number": 28,
-    "translations": {
-      "segond": "Pierre lui répondit: Seigneur, si c'est toi, ordonne que j'aille vers toi sur les eaux.",
-      "darby": "Et Pierre, lui répondant, dit : Seigneur, si c'est toi, ordonne-moi d'aller vers toi sur les eaux."
-    },
-    "interlinear": [
-      { "greek": "ἀποκριθεὶς", "gloss": "Ayant_répondu" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Πέτρος", "gloss": "Pierre" },
-      { "greek": "εἶπεν·", "gloss": "dit" },
-      { "greek": "Κύριε,", "gloss": "Seigneur" },
-      { "greek": "εἰ", "gloss": "si" },
-      { "greek": "σὺ", "gloss": "toi" },
-      { "greek": "εἶ,", "gloss": "tu_es" },
-      { "greek": "κέλευσόν", "gloss": "ordonne" },
-      { "greek": "με", "gloss": "moi" },
-      { "greek": "ἐλθεῖν", "gloss": "d'aller" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "σὲ", "gloss": "toi" },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "ὕδατα.", "gloss": "eaux" }
-    ]
-  },
-  {
-    "verse_number": 29,
-    "translations": {
-      "segond": "Et il dit: Viens! Pierre sortit de la barque, et marcha sur les eaux, pour aller vers Jésus.",
-      "darby": "Et il dit : Viens. Et Pierre, étant descendu de la nacelle, marcha sur les eaux pour aller à Jésus."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "Il" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "εἶπεν·", "gloss": "dit" },
-      { "greek": "Ἐλθέ.", "gloss": "Viens" },
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "καταβὰς", "gloss": "étant_descendu" },
-      { "greek": "ἀπὸ", "gloss": "de" },
-      { "greek": "τοῦ", "gloss": "la" },
-      { "greek": "πλοίου", "gloss": "barque" },
-      { "greek": "Πέτρος", "gloss": "Pierre" },
-      { "greek": "περιεπάτησεν", "gloss": "marcha" },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "ὕδατα", "gloss": "eaux", "analyse": "Tant que le regard de Pierre est captivé par l'Axe vertical (le Christ), il participe à la *dynamis* (l'Énergie) divine. Il devient lui-même un Sujet capable de transgresser les lois de la pesanteur mortelle. L'homme unifié à Dieu ne coule pas." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἦλθεν", "gloss": "vint" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "Ἰησοῦν.", "gloss": "Jésus" }
-    ]
-  },
-  {
-    "verse_number": 30,
-    "translations": {
-      "segond": "Mais, voyant que le vent était fort, il eut peur; et, comme il commençait à enfoncer, il s'écria: Seigneur, sauve-moi!",
-      "darby": "Mais, voyant le vent fort, il eut peur ; et comme il commençait à enfoncer, il s'écria, disant : Seigneur, sauve-moi !"
-    },
-    "interlinear": [
-      { "greek": "βλέπων", "gloss": "Voyant" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "ἄνεμον", "gloss": "vent" },
-      { "greek": "ἐφοβήθη,", "gloss": "il_eut_peur" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀρξάμενος", "gloss": "commençant" },
-      { "greek": "καταποντίζεσθαι", "gloss": "à_s'enfoncer/couler", "analyse": "Le basculement tragique. Pierre détourne son regard de la Présence incréée pour analyser son environnement (le vent). L'Ego reprend le contrôle : il calcule le danger, se sépare de la Grâce, et instantanément la gravité du Monde duel le rattrape. La peur (*phobos*) le fait couler." },
-      { "greek": "ἔκραξεν", "gloss": "il_cria" },
-      { "greek": "λέγων·", "gloss": "disant" },
-      { "greek": "Κύριε,", "gloss": "Seigneur" },
-      { "greek": "σῶσόν", "gloss": "sauve" },
-      { "greek": "με.", "gloss": "moi" }
-    ]
-  },
-  {
-    "verse_number": 31,
-    "translations": {
-      "segond": "Aussitôt Jésus étendit la main, le saisit, et lui dit: Homme de peu de foi, pourquoi as-tu douté?",
-      "darby": "Et aussitôt Jésus, étendant la main, le prit et lui dit : Homme de petite foi, pourquoi as-tu douté ?"
-    },
-    "interlinear": [
-      { "greek": "εὐθέως", "gloss": "Aussitôt" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "ἐκτείνας", "gloss": "ayant_étendu" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "χεῖρα", "gloss": "main" },
-      { "greek": "ἐπελάβετο", "gloss": "saisit" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "λέγει", "gloss": "dit" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Ὀλιγόπιστε,", "gloss": "Homme_de_peu_de_foi" },
-      { "greek": "εἰς", "gloss": "pour" },
-      { "greek": "τί", "gloss": "quoi" },
-      { "greek": "ἐδίστασας;", "gloss": "as-tu_douté", "analyse": "Le verbe *distazo* vient de *dis* (deux). Le doute, ce n'est pas le manque de certitude intellectuelle, c'est la 'duplicité' ontologique. C'est l'âme qui se fragmente entre deux visions (le Christ et la tempête). Le doute est l'essence même du Monde duel qui déchire le Sujet." }
-    ]
-  },
-  {
-    "verse_number": 32,
-    "translations": {
-      "segond": "Et ils montèrent dans la barque, et le vent cessa.",
-      "darby": "Et quand ils furent montés dans la nacelle, le vent tomba."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἀναβάντων", "gloss": "étant_montés" },
-      { "greek": "αὐτῶν", "gloss": "eux" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸ", "gloss": "la" },
-      { "greek": "πλοῖον", "gloss": "barque" },
-      { "greek": "ἐκόπασεν", "gloss": "s'apaisa/tomba" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "ἄνεμος.", "gloss": "vent" }
-    ]
-  },
-  {
-    "verse_number": 33,
-    "translations": {
-      "segond": "Ceux qui étaient dans la barque vinrent se prosterner devant Jésus, et dirent: Tu es véritablement le Fils de Dieu.",
-      "darby": "Et ceux qui étaient dans la nacelle vinrent et lui rendirent hommage, disant : Véritablement tu es le Fils de Dieu."
-    },
-    "interlinear": [
-      { "greek": "οἱ", "gloss": "Ceux" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῷ", "gloss": "la" },
-      { "greek": "πλοίῳ", "gloss": "barque" },
-      { "greek": "προσεκύνησαν", "gloss": "se_prosternèrent" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "λέγοντες·", "gloss": "disant" },
-      { "greek": "Ἀληθῶς", "gloss": "Véritablement" },
-      { "greek": "θεοῦ", "gloss": "de_Dieu" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "εἶ.", "gloss": "tu_es" }
-    ]
-  },
-  {
-    "verse_number": 34,
-    "translations": {
-      "segond": "Après avoir traversé la mer, ils vinrent dans le pays de Génésareth.",
-      "darby": "Et ayant passé à l'autre bord, ils vinrent dans la contrée de Génésareth."
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "διαπεράσαντες", "gloss": "ayant_traversé" },
-      { "greek": "ἦλθον", "gloss": "ils_vinrent" },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "γῆν", "gloss": "terre" },
-      { "greek": "εἰς", "gloss": "à" },
-      { "greek": "Γεννησαρέτ.", "gloss": "Génésareth" }
-    ]
+      {
+        "verse_number": 9,
+        "translations": {
+          "segond": "Car nous sommes ouvriers avec Dieu. Vous êtes le champ de Dieu, l'édifice de Dieu.",
+          "darby": "Car nous sommes collaborateurs de Dieu ; vous êtes le champ de Dieu, l'édifice de Dieu."
+        },
+        "interlinear": [
+          {
+            "greek": "Θεοῦ",
+            "gloss": "De_Dieu"
+          },
+          {
+            "greek": "γάρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐσμεν",
+            "gloss": "nous_sommes"
+          },
+          {
+            "greek": "συνεργοί·",
+            "gloss": "co-ouvriers/collaborateurs",
+            "annotation": {
+              "type": "racine",
+              "title": "Coopérateurs de Dieu",
+              "content": "Approfondissement spirituel : Le mot-clé *synergoi* pose le fondement de la synergie orthodoxe. Le salut et la déification ne sont ni une performance de l'Ego humain ni un décret arbitraire d'un Dieu lointain. C'est la co-opération amoureuse et libre de la volonté humaine avec l'Énergie divine incréée.",
+              "related": [
+                "γάρ",
+                "ἐσμεν",
+                "Θεοῦ",
+                "γεώργιον,"
+              ]
+            }
+          },
+          {
+            "greek": "Θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "γεώργιον,",
+            "gloss": "champ_cultivé"
+          },
+          {
+            "greek": "Θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "οἰκοδομή",
+            "gloss": "édifice/construction",
+            "annotation": {
+              "type": "racine",
+              "title": "L’édifice de Dieu",
+              "content": "Approfondissement spirituel : L'*oikodomē* (l'édifice). Nous retrouvons la racine de l'*oikos* (la maison). L'Église et le sujet humain ne sont pas des réalités vagues, mais une architecture sacrée en cours de construction.",
+              "related": [
+                "γεώργιον,",
+                "Θεοῦ",
+                "ἐστε."
+              ]
+            }
+          },
+          {
+            "greek": "ἐστε.",
+            "gloss": "vous_êtes"
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "Selon la grâce de Dieu qui m'a été donnée, j'ai posé le fondement comme un sage architecte, et un autre bâtit dessus. Mais que chacun prenne garde à la manière dont il bâtit dessus.",
+          "darby": "Selon la grâce de Dieu qui m'a été donnée, comme un sage architecte, j'ai posé le fondement, et un autre bâtit dessus ; mais que chacun prenne garde comment il bâtit dessus."
+        },
+        "interlinear": [
+          {
+            "greek": "Κατὰ",
+            "gloss": "Selon"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάριν",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "—"
+          },
+          {
+            "greek": "δοθεῖσάν",
+            "gloss": "ayant_été_donnée"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "σοφὸς",
+            "gloss": "un_sage"
+          },
+          {
+            "greek": "ἀρχιτέκτων",
+            "gloss": "architecte/maître_d'œuvre"
+          },
+          {
+            "greek": "θεμέλιον",
+            "gloss": "fondement"
+          },
+          {
+            "greek": "ἔθηκα,",
+            "gloss": "j'ai_posé"
+          },
+          {
+            "greek": "ἄλλος",
+            "gloss": "un_autre"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἐποικοδομεῖ·",
+            "gloss": "bâtit_dessus"
+          },
+          {
+            "greek": "ἕκαστος",
+            "gloss": "chacun"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "βλεπέτω",
+            "gloss": "qu'il_prenne_garde"
+          },
+          {
+            "greek": "πῶς",
+            "gloss": "comment"
+          },
+          {
+            "greek": "ἐποικοδομεῖ.",
+            "gloss": "il_bâtit_dessus"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Car personne ne peut poser un autre fondement que celui qui a été posé, savoir Jésus Christ.",
+          "darby": "Car personne ne peut poser d'autre fondement que celui qui est posé, lequel est Jésus Christ."
+        },
+        "interlinear": [
+          {
+            "greek": "θεμέλιον",
+            "gloss": "fondement",
+            "annotation": {
+              "type": "theologie",
+              "title": "Le fondement posé",
+              "content": "Approfondissement spirituel : Le *themelion*. C'est le point d'ancrage fixe. Face à l'instabilité de la mer du Monde duel, le Christ est la seule réalité immuable. Hors de ce fondement vertical, toute construction de l'Ego finit invariablement par être engloutie par la tempête.",
+              "related": [
+                "γὰρ",
+                "ἄλλον"
+              ]
+            }
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἄλλον",
+            "gloss": "autre"
+          },
+          {
+            "greek": "οὐδεὶς",
+            "gloss": "personne"
+          },
+          {
+            "greek": "δύναται",
+            "gloss": "ne_peut"
+          },
+          {
+            "greek": "θεῖναι",
+            "gloss": "poser"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "outre/à_côté_de"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "celui"
+          },
+          {
+            "greek": "κείμενον,",
+            "gloss": "étant_posé"
+          },
+          {
+            "greek": "ὅς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Χριστός.",
+            "gloss": "Christ"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "Or, si quelqu'un bâtit sur ce fondement avec de l'or, de l'argent, des pierres précieuses, du bois, du foin, du chaume,",
+          "darby": "Et si quelqu'un bâtit sur ce fondement, de l'or, de l'argent, des pierres précieuses, du bois, du foin, du chaume,"
+        },
+        "interlinear": [
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "ἐποικοδομεῖ",
+            "gloss": "bâtit_dessus"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεμέλιον",
+            "gloss": "fondement"
+          },
+          {
+            "greek": "τοῦτον",
+            "gloss": "ce"
+          },
+          {
+            "greek": "χρυσόν,",
+            "gloss": "de_l'or"
+          },
+          {
+            "greek": "ἄργυρον,",
+            "gloss": "de_l'argent"
+          },
+          {
+            "greek": "λίθους",
+            "gloss": "des_pierres"
+          },
+          {
+            "greek": "τιμίους,",
+            "gloss": "précieuses"
+          },
+          {
+            "greek": "ξύλα,",
+            "gloss": "du_bois"
+          },
+          {
+            "greek": "χόρτον,",
+            "gloss": "du_foin"
+          },
+          {
+            "greek": "καλάμην,",
+            "gloss": "du_chaume"
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "translations": {
+          "segond": "l'œuvre de chacun sera manifestée ; car le jour la fera connaître, parce qu'elle se révélera dans le feu, et le feu éprouvera ce qu'est l'œuvre de chacun.",
+          "darby": "l'œuvre de chacun deviendra manifeste, car le jour la déclarera, parce qu'elle est révélée en feu ; et le feu éprouvera de quelle sorte est l'œuvre de chacun."
+        },
+        "interlinear": [
+          {
+            "greek": "ἑκάστου",
+            "gloss": "de_chacun"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἔργον",
+            "gloss": "œuvre"
+          },
+          {
+            "greek": "φανερὸν",
+            "gloss": "manifeste/visible"
+          },
+          {
+            "greek": "γενήσεται·",
+            "gloss": "deviendra"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἡμέρα",
+            "gloss": "jour"
+          },
+          {
+            "greek": "δηλώσει,",
+            "gloss": "fera_connaître"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πυρὶ",
+            "gloss": "le_feu",
+            "annotation": {
+              "type": "analyse",
+              "title": "L’œuvre éprouvée par le feu",
+              "content": "Approfondissement spirituel : Le Feu (*pyr*). Dans une lecture ecclésiologique, le feu divin n'est pas un châtiment matériel futur, mais l'irruption de la Lumière et de l'Amour incréé. Ce feu consume instantanément les illusions du Monde duel (le bois, le foin) et illumine la pureté du Sujet unifié (l'or, l'argent).",
+              "related": [
+                "ὅτι",
+                "ἐν",
+                "ἀποκαλύπτεται·",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀποκαλύπτεται·",
+            "gloss": "elle_se_révèle"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἑκάστου",
+            "gloss": "de_chacun"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἔργον",
+            "gloss": "œuvre"
+          },
+          {
+            "greek": "ὁποῖόν",
+            "gloss": "de_quelle_nature"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "elle_est"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πῦρ",
+            "gloss": "feu"
+          },
+          {
+            "greek": "αὐτὸ",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "δοκιμάσει.",
+            "gloss": "éprouvera/testera"
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Si l'œuvre bâtie par quelqu'un subsiste, il recevra une récompense.",
+          "darby": "Si l'œuvre de quelqu'un, qu'il aura bâtie dessus, subsiste, il recevra un salaire."
+        },
+        "interlinear": [
+          {
+            "greek": "εἴ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "τινος",
+            "gloss": "de_quelqu'un"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἔργον",
+            "gloss": "œuvre"
+          },
+          {
+            "greek": "μενεῖ",
+            "gloss": "subsistera/restera"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ἐποικοδόμησεν,",
+            "gloss": "il_a_bâtit_dessus"
+          },
+          {
+            "greek": "μισθὸν",
+            "gloss": "une_récompense/salaire"
+          },
+          {
+            "greek": "λήμψεται·",
+            "gloss": "il_recevra"
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "translations": {
+          "segond": "Si l'œuvre de quelqu'un est consumée, il perdra sa récompense ; pour lui, il sera sauvé, mais comme au travers du feu.",
+          "darby": "Si l'œuvre de quelqu'un vient à être consumée, il en éprouvera de la perte ; mais pour lui, il sera sauvé, toutefois comme à travers le feu."
+        },
+        "interlinear": [
+          {
+            "greek": "εἴ",
+            "gloss": "si"
+          },
+          {
+            "greek": "τινος",
+            "gloss": "de_quelqu'un"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἔργον",
+            "gloss": "œuvre"
+          },
+          {
+            "greek": "κατακαήσεται,",
+            "gloss": "sera_consumée"
+          },
+          {
+            "greek": "ζημιωθήσεται,",
+            "gloss": "il_subira_une_perte"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "σωθήσεται,",
+            "gloss": "sera_sauvé"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "toutefois"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "πυρός.",
+            "gloss": "du_feu",
+            "annotation": {
+              "type": "analyse",
+              "title": "Sauvé comme à travers le feu",
+              "content": "Approfondissement spirituel : L'expression *os dia pyros* (comme à travers le feu). C'est la kénose de l'Ego. L'homme qui a bâti sur de fausses certitudes voit ses structures psychologiques et égoïstes détruites par la Vérité divine. Il est sauvé, mais nu, dépouillé de ses masques.",
+              "related": [
+                "ὡς",
+                "διὰ"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "Ne savez-vous pas que vous êtes le temple de Dieu, et que l'Esprit de Dieu habite en vous ?",
+          "darby": "Ne savez-vous pas que vous êtes le temple de Dieu et que l'Esprit de Dieu habite en vous ?"
+        },
+        "interlinear": [
+          {
+            "greek": "Οὐκ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "οἴδατε",
+            "gloss": "savez-vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ναὸς",
+            "gloss": "temple/sanctuaire",
+            "annotation": {
+              "type": "traduction",
+              "title": "Le sanctuaire de Dieu",
+              "content": "Approfondissement spirituel : Le terme *naos* désigne précisément le Saint des Saints, la crypte la plus intérieure où réside la Présence. L'être humain n'est pas un spectateur du divin, il en est le contenant sacré. C'est l'unification absolue de l'être dans le Royaume UN.",
+              "related": [
+                "οἴδατε",
+                "ὅτι",
+                "θεοῦ",
+                "ἐστε"
+              ]
+            }
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "ἐστε",
+            "gloss": "vous_êtes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "πνεῦμα",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "οἰκεῖ",
+            "gloss": "habite/demeure"
+          },
+          {
+            "greek": "en",
+            "gloss": "en"
+          },
+          {
+            "greek": "ὑμῖν;",
+            "gloss": "vous"
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "translations": {
+          "segond": "Si quelqu'un détruit le temple de Dieu, Dieu le détruira ; car le temple de Dieu est saint, et c'est ce que vous êtes.",
+          "darby": "Si quelqu'un corrompt le temple de Dieu, Dieu le détruira ; car le temple de Dieu est saint, et tels vous êtes."
+        },
+        "interlinear": [
+          {
+            "greek": "εἴ",
+            "gloss": "si"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ναὸν",
+            "gloss": "temple"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "φθείρει,",
+            "gloss": "détruit/corrompt",
+            "annotation": {
+              "type": "traduction",
+              "title": "Ne pas corrompre le sanctuaire",
+              "content": "Approfondissement spirituel : Le verbe *phtheiro* signifie corrompre, profaner, altérer la pureté par un mélange. Introduire la fragmentation du Monde duel (les clans, les jugements) à l'intérieur du temple, c'est briser l'unité du Sujet et saboter la Demeure divine.",
+              "related": [
+                "τοῦ",
+                "θεοῦ",
+                "φθερεῖ",
+                "τοῦτον"
+              ]
+            }
+          },
+          {
+            "greek": "φθερεῖ",
+            "gloss": "détruira/perdra"
+          },
+          {
+            "greek": "τοῦτον",
+            "gloss": "celui-ci"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "θεός·",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ναὸς",
+            "gloss": "temple"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἅγιός",
+            "gloss": "saint"
+          },
+          {
+            "greek": "ἐστιν,",
+            "gloss": "est"
+          },
+          {
+            "greek": "οἵτινές",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "ἐστε",
+            "gloss": "êtes"
+          },
+          {
+            "greek": "ὑμεῖς.",
+            "gloss": "vous"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 9 - συνεργοί : Traduit par 'ouvriers avec Dieu' (Segond) ou 'collaborateurs' (Darby). Le terme grec contient l'idée de synergie, une action conjointe et simultanée. C'est l'effacement de l'Ego pour laisser agir l'Énergie divine à travers le travail humain.\n• Verset 15 - σῳζομένοις / σωθήσεται : Le Salut n'est pas une simple évasion juridique de l'enfer, mais un processus de guérison ontologique. Traverser le feu de la Vérité dépouille l'homme de ses œuvres mortes de paille pour révéler le noyau incorruptible du Sujet.\n• Verset 17 - φθείρει : Segond choisit 'détruit', tandis que Darby opte pour 'corrompt'. La corruption est plus proche de l'étymologie. Profaner le temple, c'est y introduire la dualité, le mensonge et la division, ce qui dénature la sainteté de l'espace intérieur.\n\nAnalyse spirituelle :\nDans une lecture spirituelle, cet Apôtre répond point par point au drame de la marche sur les eaux lu dans l'Évangile. Pierre commence à couler parce que ses fondations psychologiques s'effondrent sous la pression du vent horizontal. Saint Paul vient ici révéler l'ingénierie spirituelle capable de stabiliser le chrétien : la construction sur le Fondement unique (*themelion*), qui est le Christ.\n\nL'être humain est invité à devenir un maître d'œuvre en pleine synergie avec Dieu. Cependant, Paul met en garde contre l'utilisation de mauvais matériaux (le bois, le foin, le chaume), métaphores des constructions intellectuelles et superficielles de l'Ego religieux. Lorsque l'Énergie incréée se manifeste sous forme de Feu (*pyr*), tout ce qui appartient aux illusions horizontales du Monde duel est impitoyablement consumé.\n\nLe sommet théologique est atteint aux versets 16 et 17 : nous sommes le *naos*, le sanctuaire intime de Dieu. Le Sujet restauré n'est plus un mendiant ballotté par les vagues ; il devient le gardien de la Demeure. Corrompre ce temple par les divisions et l'égocentrisme revient à détruire sa propre structure existentielle. Seul l'homme unifié, conscient de sa nature de temple saint, peut marcher sur les eaux du monde sans jamais sombrer.\n\nComplément de lecture : Paul tient ensemble construction et jugement. Chacun bâtit, mais Dieu donne la croissance et éprouve l’œuvre. La synergie n’est donc ni passivité ni autosuffisance : elle est coopération sous la grâce, sur l’unique fondement qu’est le Christ.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du 9e dimanche : une parole, un geste, un contraste, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez d’abord la progression du récit évangélique, puis voyez comment l’Apôtre l’approfondit, la déplace ou en manifeste le fruit ecclésial. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète véritablement éclairée par les textes : peur, impuissance, dette, attachement, appropriation, division, besoin d’être saisi ou difficulté à recevoir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans imposer un modèle unique : crier vers le Christ, pardonner, renoncer à un droit, suivre, servir, veiller, partager ou se laisser reconstruire."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
+      }
+    ],
+    "liturgical_echoes": []
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 26 - Φάντασμά : Segond et Darby s'accordent sur 'fantôme'. Ce choix est pertinent pour le contexte, mais il est crucial de comprendre la racine grecque *phantazo* (rendre visible, s'imaginer). Le fantôme n'est pas qu'une figure folklorique ; c'est une projection de l'esprit effrayé. Les disciples, enfermés dans le Monde duel, projettent leur propre angoisse de la mort sur la manifestation de la Grâce.\n• Verset 31 - ἐδίστασας : 'As-tu douté'. Le grec *distazo* est d'une richesse absolue. Ce n'est pas le doute intellectuel du philosophe (comme on dirait aujourd'hui 'je doute que cela soit vrai'). La racine est *dis* (deux fois, double). Douter, au sens biblique, c'est être fragmenté intérieurement, c'est perdre son unité de Sujet pour osciller entre deux maîtres ou deux visions du réel.\n\nAnalyse spirituelle :\nCe péricope est une leçon de physique spirituelle magistrale. Dans la mer démontée du Monde duel, l'Ego humain s'agite et panique pour assurer sa survie (la barque battue par les vagues). Le Christ vient à eux en marchant sur les eaux : Il prouve que la *dynamis* (l'Énergie divine) n'est pas soumise aux lois de l'entropie et de la gravité. \n\nL'expérience de Pierre est le cœur du drame. Le Christ l'invite à devenir un Sujet participant à cette souveraineté : 'Viens'. Pierre sort et marche. À cet instant, il est soulevé par la Grâce parce que tout son être est unifié dans le regard porté sur le Christ. Il n'est plus soumis au Monde duel. \n\nPuis vient la chute (v. 30) : 'voyant que le vent était fort'. L'Ego de Pierre reprend ses droits. Il cesse de regarder la Source de sa vie pour analyser l'obstacle. Cette simple 'distraction' le fragmente (*distazo*). Dès qu'il réintègre la logique de la peur et du calcul, les lois physiques reprennent le dessus, et la gravité l'engloutit. La restauration immédiate du Christ qui lui tend la main prouve que le Salut n'est pas une récompense pour une performance ininterrompue, mais une communion offerte à celui qui, même en coulant, crie : 'Seigneur, sauve-moi'."
-},
-    "apostle": {
-  "reference": "1 Corinthiens 3, 9-17",
-  "title": "L'Église comme Édifice de Dieu et Temple de l'Esprit",
-  "interlinear": [
-    {
-      "verse_number": 9,
-      "translations": {
-        "segond": "Car nous sommes ouvriers avec Dieu. Vous êtes le champ de Dieu, l'édifice de Dieu.",
-        "darby": "Car nous sommes collaborateurs de Dieu ; vous êtes le champ de Dieu, l'édifice de Dieu."
-      },
-      "interlinear": [
-        { "greek": "Θεοῦ", "gloss": "De_Dieu" },
-        { "greek": "γάρ", "gloss": "car" },
-        { "greek": "ἐσμεν", "gloss": "nous_sommes" },
-        { "greek": "συνεργοί·", "gloss": "co-ouvriers/collaborateurs", "analyse": "Le mot-clé *synergoi* pose le fondement de la synergie orthodoxe. Le salut et la déification ne sont ni une performance de l'Ego humain ni un décret arbitraire d'un Dieu lointain. C'est la co-opération amoureuse et libre de la volonté humaine avec l'Énergie divine incréée." },
-        { "greek": "Θεοῦ", "gloss": "de_Dieu" },
-        { "greek": "γεώργιον,", "gloss": "champ_cultivé" },
-        { "greek": "Θεοῦ", "gloss": "de_Dieu" },
-        { "greek": "οἰκοδομή", "gloss": "édifice/construction", "analyse": "L'*oikodomē* (l'édifice). Nous retrouvons la racine de l'*oikos* (la maison). L'Église et le sujet humain ne sont pas des réalités vagues, mais une architecture sacrée en cours de construction." },
-        { "greek": "ἐστε.", "gloss": "vous_êtes" }
-      ]
-    },
-    {
-      "verse_number": 10,
-      "translations": {
-        "segond": "Selon la grâce de Dieu qui m'a été donnée, j'ai posé le fondement comme un sage architecte, et un autre bâtit dessus. Mais que chacun prenne garde à la manière dont il bâtit dessus.",
-        "darby": "Selon la grâce de Dieu qui m'a été donnée, comme un sage architecte, j'ai posé le fondement, et un autre bâtit dessus ; mais que chacun prenne garde comment il bâtit dessus."
-      },
-      "interlinear": [
-        { "greek": "Κατὰ", "gloss": "Selon" },
-        { "greek": "τὴν", "gloss": "la" },
-        { "greek": "χάριν", "gloss": "grâce" },
-        { "greek": "τοῦ", "gloss": "de" },
-        { "greek": "θεοῦ", "gloss": "Dieu" },
-        { "greek": "τὴν", "gloss": "—" },
-        { "greek": "δοθεῖσάν", "gloss": "ayant_été_donnée" },
-        { "greek": "μοι", "gloss": "à_moi" },
-        { "greek": "ὡς", "gloss": "comme" },
-        { "greek": "σοφὸς", "gloss": "un_sage" },
-        { "greek": "ἀρχιτέκτων", "gloss": "architecte/maître_d'œuvre" },
-        { "greek": "θεμέλιον", "gloss": "fondement" },
-        { "greek": "ἔθηκα,", "gloss": "j'ai_posé" },
-        { "greek": "ἄλλος", "gloss": "un_autre" },
-        { "greek": "δὲ", "gloss": "or/mais" },
-        { "greek": "ἐποικοδομεῖ·", "gloss": "bâtit_dessus" },
-        { "greek": "ἕκαστος", "gloss": "chacun" },
-        { "greek": "δὲ", "gloss": "or" },
-        { "greek": "βλεπέτω", "gloss": "qu'il_prenne_garde" },
-        { "greek": "πῶς", "gloss": "comment" },
-        { "greek": "ἐποικοδομεῖ.", "gloss": "il_bâtit_dessus" }
-      ]
-    },
-    {
-      "verse_number": 11,
-      "translations": {
-        "segond": "Car personne ne peut poser un autre fondement que celui qui a été posé, savoir Jésus Christ.",
-        "darby": "Car personne ne peut poser d'autre fondement que celui qui est posé, lequel est Jésus Christ."
-      },
-      "interlinear": [
-        { "greek": "θεμέλιον", "gloss": "fondement", "analyse": "Le *themelion*. C'est le point d'ancrage fixe. Face à l'instabilité de la mer du Monde duel, le Christ est la seule réalité immuable. Hors de ce fondement vertical, toute construction de l'Ego finit invariablement par être engloutie par la tempête." },
-        { "greek": "γὰρ", "gloss": "car" },
-        { "greek": "ἄλλον", "gloss": "autre" },
-        { "greek": "οὐδεὶς", "gloss": "personne" },
-        { "greek": "δύναται", "gloss": "ne_peut" },
-        { "greek": "θεῖναι", "gloss": "poser" },
-        { "greek": "παρὰ", "gloss": "outre/à_côté_de" },
-        { "greek": "τὸν", "gloss": "celui" },
-        { "greek": "κείμενον,", "gloss": "étant_posé" },
-        { "greek": "ὅς", "gloss": "qui" },
-        { "greek": "ἐστιν", "gloss": "est" },
-        { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-        { "greek": "Χριστός.", "gloss": "Christ" }
-      ]
-    },
-    {
-      "verse_number": 12,
-      "translations": {
-        "segond": "Or, si quelqu'un bâtit sur ce fondement avec de l'or, de l'argent, des pierres précieuses, du bois, du foin, du chaume,",
-        "darby": "Et si quelqu'un bâtit sur ce fondement, de l'or, de l'argent, des pierres précieuses, du bois, du foin, du chaume,"
-      },
-      "interlinear": [
-        { "greek": "εἰ", "gloss": "si" },
-        { "greek": "δέ", "gloss": "or" },
-        { "greek": "τις", "gloss": "quelqu'un" },
-        { "greek": "ἐποικοδομεῖ", "gloss": "bâtit_dessus" },
-        { "greek": "ἐπὶ", "gloss": "sur" },
-        { "greek": "τὸν", "gloss": "le" },
-        { "greek": "θεμέλιον", "gloss": "fondement" },
-        { "greek": "τοῦτον", "gloss": "ce" },
-        { "greek": "χρυσόν,", "gloss": "de_l'or" },
-        { "greek": "ἄργυρον,", "gloss": "de_l'argent" },
-        { "greek": "λίθους", "gloss": "des_pierres" },
-        { "greek": "τιμίους,", "gloss": "précieuses" },
-        { "greek": "ξύλα,", "gloss": "du_bois" },
-        { "greek": "χόρτον,", "gloss": "du_foin" },
-        { "greek": "καλάμην,", "gloss": "du_chaume" }
-      ]
-    },
-    {
-      "verse_number": 13,
-      "translations": {
-        "segond": "l'œuvre de chacun sera manifestée ; car le jour la fera connaître, parce qu'elle se révélera dans le feu, et le feu éprouvera ce qu'est l'œuvre de chacun.",
-        "darby": "l'œuvre de chacun deviendra manifeste, car le jour la déclarera, parce qu'elle est révélée en feu ; et le feu éprouvera de quelle sorte est l'œuvre de chacun."
-      },
-      "interlinear": [
-        { "greek": "ἑκάστου", "gloss": "de_chacun" },
-        { "greek": "τὸ", "gloss": "l'" },
-        { "greek": "ἔργον", "gloss": "œuvre" },
-        { "greek": "φανερὸν", "gloss": "manifeste/visible" },
-        { "greek": "γενήσεται·", "gloss": "deviendra" },
-        { "greek": "ἡ", "gloss": "le" },
-        { "greek": "γὰρ", "gloss": "car" },
-        { "greek": "ἡμέρα", "gloss": "jour" },
-        { "greek": "δηλώσει,", "gloss": "fera_connaître" },
-        { "greek": "ὅτι", "gloss": "parce_que" },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "πυρὶ", "gloss": "le_feu", "analyse": "Le Feu (*pyr*). Dans l'ecclésiologie du Père Pascal, le feu divin n'est pas un châtiment matériel futur, mais l'irruption de la Lumière et de l'Amour incréé. Ce feu consume instantanément les illusions du Monde duel (le bois, le foin) et illumine la pureté du Sujet unifié (l'or, l'argent)." },
-        { "greek": "ἀποκαλύπτεται·", "gloss": "elle_se_révèle" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ἑκάστου", "gloss": "de_chacun" },
-        { "greek": "τὸ", "gloss": "l'" },
-        { "greek": "ἔργον", "gloss": "œuvre" },
-        { "greek": "ὁποῖόν", "gloss": "de_quelle_nature" },
-        { "greek": "ἐστιν", "gloss": "elle_est" },
-        { "greek": "τὸ", "gloss": "le" },
-        { "greek": "πῦρ", "gloss": "feu" },
-        { "greek": "αὐτὸ", "gloss": "lui-même" },
-        { "greek": "δοκιμάσει.", "gloss": "éprouvera/testera" }
-      ]
-    },
-    {
-      "verse_number": 14,
-      "translations": {
-        "segond": "Si l'œuvre bâtie par quelqu'un subsiste, il recevra une récompense.",
-        "darby": "Si l'œuvre de quelqu'un, qu'il aura bâtie dessus, subsiste, il recevra un salaire."
-      },
-      "interlinear": [
-        { "greek": "εἴ", "gloss": "Si" },
-        { "greek": "τινος", "gloss": "de_quelqu'un" },
-        { "greek": "τὸ", "gloss": "l'" },
-        { "greek": "ἔργον", "gloss": "œuvre" },
-        { "greek": "μενεῖ", "gloss": "subsistera/restera" },
-        { "greek": "ὃ", "gloss": "qu'" },
-        { "greek": "ἐποικοδόμησεν,", "gloss": "il_a_bâtit_dessus" },
-        { "greek": "μισθὸν", "gloss": "une_récompense/salaire" },
-        { "greek": "λήμψεται·", "gloss": "il_recevra" }
-      ]
-    },
-    {
-      "verse_number": 15,
-      "translations": {
-        "segond": "Si l'œuvre de quelqu'un est consumée, il perdra sa récompense ; pour lui, il sera sauvé, mais comme au travers du feu.",
-        "darby": "Si l'œuvre de quelqu'un vient à être consumée, il en éprouvera de la perte ; mais pour lui, il sera sauvé, toutefois comme à travers le feu."
-      },
-      "interlinear": [
-        { "greek": "εἴ", "gloss": "si" },
-        { "greek": "τινος", "gloss": "de_quelqu'un" },
-        { "greek": "τὸ", "gloss": "l'" },
-        { "greek": "ἔργον", "gloss": "œuvre" },
-        { "greek": "κατακαήσεται,", "gloss": "sera_consumée" },
-        { "greek": "ζημιωθήσεται,", "gloss": "il_subira_une_perte" },
-        { "greek": "αὐτὸς", "gloss": "lui" },
-        { "greek": "δὲ", "gloss": "or/mais" },
-        { "greek": "σωθήσεται,", "gloss": "sera_sauvé" },
-        { "greek": "οὕτως", "gloss": "ainsi" },
-        { "greek": "δὲ", "gloss": "toutefois" },
-        { "greek": "ὡς", "gloss": "comme" },
-        { "greek": "διὰ", "gloss": "à_travers" },
-        { "greek": "πυρός.", "gloss": "du_feu", "analyse": "L'expression *os dia pyros* (comme à travers le feu). C'est la kénose de l'Ego. L'homme qui a bâti sur de fausses certitudes voit ses structures psychologiques et égoïstes détruites par la Vérité divine. Il est sauvé, mais nu, dépouillé de ses masques." }
-      ]
-    },
-    {
-      "verse_number": 16,
-      "translations": {
-        "segond": "Ne savez-vous pas que vous êtes le temple de Dieu, et que l'Esprit de Dieu habite en vous ?",
-        "darby": "Ne savez-vous pas que vous êtes le temple de Dieu et que l'Esprit de Dieu habite en vous ?"
-      },
-      "interlinear": [
-        { "greek": "Οὐκ", "gloss": "Ne...pas" },
-        { "greek": "οἴδατε", "gloss": "savez-vous" },
-        { "greek": "ὅτι", "gloss": "que" },
-        { "greek": "ναὸς", "gloss": "temple/sanctuaire", "analyse": "Le terme *naos* désigne précisément le Saint des Saints, la crypte la plus intérieure où réside la Présence. L'être humain n'est pas un spectateur du divin, il en est le contenant sacré. C'est l'unification absolue de l'être dans le Royaume UN." },
-        { "greek": "θεοῦ", "gloss": "de_Dieu" },
-        { "greek": "ἐστε", "gloss": "vous_êtes" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "τὸ", "gloss": "l'" },
-        { "greek": "πνεῦμα", "gloss": "Esprit" },
-        { "greek": "τοῦ", "gloss": "de" },
-        { "greek": "θεοῦ", "gloss": "Dieu" },
-        { "greek": "οἰκεῖ", "gloss": "habite/demeure" },
-        { "greek": "en", "gloss": "en" },
-        { "greek": "ὑμῖν;", "gloss": "vous" }
-      ]
-    },
-    {
-      "verse_number": 17,
-      "translations": {
-        "segond": "Si quelqu'un détruit le temple de Dieu, Dieu le détruira ; car le temple de Dieu est saint, et c'est ce que vous êtes.",
-        "darby": "Si quelqu'un corrompt le temple de Dieu, Dieu le détruira ; car le temple de Dieu est saint, et tels vous êtes."
-      },
-      "interlinear": [
-        { "greek": "εἴ", "gloss": "si" },
-        { "greek": "τις", "gloss": "quelqu'un" },
-        { "greek": "τὸν", "gloss": "le" },
-        { "greek": "ναὸν", "gloss": "temple" },
-        { "greek": "τοῦ", "gloss": "de" },
-        { "greek": "θεοῦ", "gloss": "Dieu" },
-        { "greek": "φθείρει,", "gloss": "détruit/corrompt", "analyse": "Le verbe *phtheiro* signifie corrompre, profaner, altérer la pureté par un mélange. Introduire la fragmentation du Monde duel (les clans, les jugements) à l'intérieur du temple, c'est briser l'unité du Sujet et saboter la Demeure divine." },
-        { "greek": "φθερεῖ", "gloss": "détruira/perdra" },
-        { "greek": "τοῦτον", "gloss": "celui-ci" },
-        { "greek": "ὁ", "gloss": "—" },
-        { "greek": "θεός·", "gloss": "Dieu" },
-        { "greek": "ὁ", "gloss": "le" },
-        { "greek": "γὰρ", "gloss": "car" },
-        { "greek": "ναὸς", "gloss": "temple" },
-        { "greek": "τοῦ", "gloss": "de" },
-        { "greek": "θεοῦ", "gloss": "Dieu" },
-        { "greek": "ἅγιός", "gloss": "saint" },
-        { "greek": "ἐστιν,", "gloss": "est" },
-        { "greek": "οἵτινές", "gloss": "lesquels" },
-        { "greek": "ἐστε", "gloss": "êtes" },
-        { "greek": "ὑμεῖς.", "gloss": "vous" }
-      ]
-    }
-  ],
-  "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 9 - συνεργοί : Traduit par 'ouvriers avec Dieu' (Segond) ou 'collaborateurs' (Darby). Le terme grec contient l'idée de synergie, une action conjointe et simultanée. C'est l'effacement de l'Ego pour laisser agir l'Énergie divine à travers le travail humain.\n• Verset 15 - σῳζομένοις / σωθήσεται : Le Salut n'est pas une simple évasion juridique de l'enfer, mais un processus de guérison ontologique. Traverser le feu de la Vérité dépouille l'homme de ses œuvres mortes de paille pour révéler le noyau incorruptible du Sujet.\n• Verset 17 - φθείρει : Segond choisit 'détruit', tandis que Darby opte pour 'corrompt'. La corruption est plus proche de l'étymologie. Profaner le temple, c'est y introduire la dualité, le mensonge et la division, ce qui dénature la sainteté de l'espace intérieur.\n\nAnalyse spirituelle :\nDans la vision profonde du Père Pascal, cet Apôtre répond point par point au drame de la marche sur les eaux lu dans l'Évangile. Pierre commence à couler parce que ses fondations psychologiques s'effondrent sous la pression du vent horizontal. Saint Paul vient ici révéler l'ingénierie spirituelle capable de stabiliser le chrétien : la construction sur le Fondement unique (*themelion*), qui est le Christ.\n\nL'être humain est invité à devenir un maître d'œuvre en pleine synergie avec Dieu. Cependant, Paul met en garde contre l'utilisation de mauvais matériaux (le bois, le foin, le chaume), métaphores des constructions intellectuelles et superficielles de l'Ego religieux. Lorsque l'Énergie incréée se manifeste sous forme de Feu (*pyr*), tout ce qui appartient aux illusions horizontales du Monde duel est impitoyablement consumé.\n\nLe sommet théologique est atteint aux versets 16 et 17 : nous sommes le *naos*, le sanctuaire intime de Dieu. Le Sujet restauré n'est plus un mendiant ballotté par les vagues ; il devient le gardien de la Demeure. Corrompre ce temple par les divisions et l'égocentrisme revient à détruire sa propre structure existentielle. Seul l'homme unifié, conscient de sa nature de temple saint, peut marcher sur les eaux du monde sans jamais sombrer."
 }
-}  
