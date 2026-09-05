@@ -3,409 +3,1468 @@
     "reference": "Matthieu 9, 27-35",
     "title": "La Guérison des Deux Aveugles et du Muet Démoniaque",
     "interlinear": [
-  {
-    "verse_number": 27,
-    "translations": {
-      "segond": "Étant parti de là, Jésus fut suivi par deux aveugles, qui criaient : Aie pitié de nous, Fils de David !",
-      "darby": "Et comme Jésus passait de là, deux aveugles le suivirent, criant et disant : Aie pitié de nous, fils de David !"
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "παράγοντι", "gloss": "passant" },
-      { "greek": "ἐκεῖθεν", "gloss": "de_là" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-      { "greek": "ἠκολούθησαν", "gloss": "suivirent" },
-      { "greek": "αὐτῷ", "gloss": "lui" },
-      { "greek": "δύο", "gloss": "deux" },
-      { "greek": "τυφλοὶ", "gloss": "aveugles", "analyse": "Le mot *typhlos* (aveugle, obscurci). C'est l'état naturel de l'Ego dans le Monde duel : incapable de voir la réalité du 'Royaume UN', il est aveuglé par ses propres illusions et passions. Mais ces aveugles ont une intuition spirituelle intacte : ils reconnaissent le Christ avant même de L'avoir vu physiquement." },
-      { "greek": "κράζοντες", "gloss": "criant" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "λέγοντες·", "gloss": "disant" },
-      { "greek": "Ἐλέησον", "gloss": "Aie_pitié/Fais_miséricorde", "analyse": "Le fameux *Eleēson*. Ce n'est pas une demande de pitié condescendante. La racine *elaion* (l'huile) renvoie à l'huile d'onction, à l'effusion apaisante. C'est le cri du sujet qui réclame que l'Énergie divine incréée vienne adoucir et guérir la brûlure de sa séparation d'avec Dieu." },
-      { "greek": "ἡμᾶς,", "gloss": "nous" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "Δαυίδ.", "gloss": "de_David" }
+      {
+        "verse_number": 27,
+        "translations": {
+          "segond": "Étant parti de là, Jésus fut suivi par deux aveugles, qui criaient : Aie pitié de nous, Fils de David !",
+          "darby": "Et comme Jésus passait de là, deux aveugles le suivirent, criant et disant : Aie pitié de nous, fils de David !"
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "παράγοντι",
+            "gloss": "passant"
+          },
+          {
+            "greek": "ἐκεῖθεν",
+            "gloss": "de_là"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἠκολούθησαν",
+            "gloss": "suivirent"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "τυφλοὶ",
+            "gloss": "aveugles",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot *typhlos* (aveugle, obscurci). C'est l'état naturel de l'Ego dans le Monde duel : incapable de voir la réalité du 'Royaume UN', il est aveuglé par ses propres illusions et passions. Mais ces aveugles ont une intuition spirituelle intacte : ils reconnaissent le Christ avant même de L'avoir vu physiquement.",
+              "related": [
+                "αὐτῷ",
+                "δύο",
+                "κράζοντες",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "κράζοντες",
+            "gloss": "criant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἐλέησον",
+            "gloss": "Aie_pitié/Fais_miséricorde",
+            "annotation": {
+              "type": "theologie",
+              "title": "« Prends pitié de nous »",
+              "content": "Ἐλέησον est l’impératif de ἐλεέω : avoir compassion, faire miséricorde. La proximité sonore avec ἔλαιον, l’huile, a nourri une association liturgique et spirituelle féconde, mais il ne s’agit pas de l’étymologie du verbe. Le cri des aveugles ouvre ainsi un chemin de relation et de guérison.",
+              "related": [
+                "καὶ",
+                "λέγοντες·",
+                "ἡμᾶς,",
+                "υἱὸς"
+              ]
+            }
+          },
+          {
+            "greek": "ἡμᾶς,",
+            "gloss": "nous"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "Δαυίδ.",
+            "gloss": "de_David"
+          }
+        ]
+      },
+      {
+        "verse_number": 28,
+        "translations": {
+          "segond": "Lorsqu'il fut arrivé à la maison, les aveugles s'approchèrent de lui, et Jésus leur dit : Croyez-vous que je puisse faire cela ? Oui, Seigneur, lui répondirent-ils.",
+          "darby": "Et quand il fut venu dans la maison, les aveugles vinrent à lui ; et Jésus leur dit : Croyez-vous que je puisse faire ceci ? Ils lui disent : Oui, Seigneur."
+        },
+        "interlinear": [
+          {
+            "greek": "ἐλθόντι",
+            "gloss": "Étant_venu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἰκίαν",
+            "gloss": "maison",
+            "annotation": {
+              "type": "analyse",
+              "title": "La maison et l’intériorité",
+              "content": "Approfondissement spirituel : Comme pour le paralytique renvoyé dans sa maison (*oikos*), le Christ ne guérit pas ces hommes dans le bruit de l'espace public. Il attend qu'ils entrent dans la *oikia* (l'espace clos). La vraie rencontre de Sujet à Sujet, la restauration de la vision, nécessite ce repli dans l'intériorité de l'âme, loin de la scène théâtrale du Monde duel.",
+              "related": [
+                "εἰς",
+                "τὴν",
+                "προσῆλθον",
+                "αὐτῷ"
+              ]
+            }
+          },
+          {
+            "greek": "προσῆλθον",
+            "gloss": "s'approchèrent"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "τυφλοί,",
+            "gloss": "aveugles"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Πιστεύετε",
+            "gloss": "Croyez-vous",
+            "annotation": {
+              "type": "theologie",
+              "title": "Croyez-vous ?",
+              "content": "La question de Jésus appelle une réponse libre : « Croyez-vous que je puisse faire cela ? » La foi n’est ni une technique ni une contrainte exercée sur Dieu ; elle est l’ouverture confiante dans laquelle les aveugles se tournent vers le Christ.",
+              "related": [
+                "ὁ",
+                "Ἰησοῦς·",
+                "ὅτι",
+                "δύναμαι"
+              ]
+            }
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "δύναμαι",
+            "gloss": "je_peux"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ποιῆσαι;",
+            "gloss": "faire"
+          },
+          {
+            "greek": "λέγουσιν",
+            "gloss": "ils_disent"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ναί,",
+            "gloss": "Oui"
+          },
+          {
+            "greek": "κύριε.",
+            "gloss": "Seigneur"
+          }
+        ]
+      },
+      {
+        "verse_number": 29,
+        "translations": {
+          "segond": "Alors il leur toucha les yeux, en disant : Qu'il vous soit fait selon votre foi.",
+          "darby": "Alors il toucha leurs yeux, disant : Qu'il vous soit fait selon votre foi."
+        },
+        "interlinear": [
+          {
+            "greek": "τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "ἥψατο",
+            "gloss": "il_toucha"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ὀφθαλμῶν",
+            "gloss": "yeux"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Κατὰ",
+            "gloss": "Selon"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστιν",
+            "gloss": "foi"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "γενηθήτω",
+            "gloss": "qu'il_soit_fait"
+          },
+          {
+            "greek": "ὑμῖν.",
+            "gloss": "à_vous"
+          }
+        ]
+      },
+      {
+        "verse_number": 30,
+        "translations": {
+          "segond": "Et leurs yeux s'ouvrirent. Jésus leur fit cette recommandation sévère : Prenez garde que personne ne le sache.",
+          "darby": "Et leurs yeux furent ouverts. Et Jésus leur enjoignit sévèrement, disant : Prenez garde, que personne ne le sache."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἠνεῴχθησαν",
+            "gloss": "furent_ouverts"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὀφθαλμοί.",
+            "gloss": "yeux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐνεβριμήθη",
+            "gloss": "avertit_sévèrement",
+            "annotation": {
+              "type": "analyse",
+              "title": "Une consigne sévère",
+              "content": "Approfondissement spirituel : Le verbe très fort *embrimaomai* (frémir, gronder, menacer sévèrement). Pourquoi le Christ est-il presque violent ici ? Parce qu'Il refuse catégoriquement que l'irruption du Royaume UN soit transformée en spectacle de foire par la logique du Monde duel. Il protège la relation intime qu'Il vient de créer avec ces nouveaux sujets.",
+              "related": [
+                "ὀφθαλμοί.",
+                "καὶ",
+                "αὐτοῖς",
+                "ὁ"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ὁρᾶτε",
+            "gloss": "Voyez/Prenez_garde"
+          },
+          {
+            "greek": "μηδεὶς",
+            "gloss": "personne"
+          },
+          {
+            "greek": "γινωσκέτω.",
+            "gloss": "ne_sache"
+          }
+        ]
+      },
+      {
+        "verse_number": 31,
+        "translations": {
+          "segond": "Mais, dès qu'ils furent sortis, ils répandirent sa renommée dans tout le pays.",
+          "darby": "Mais eux, étant sortis, répandirent sa renommée dans tout ce pays-là."
+        },
+        "interlinear": [
+          {
+            "greek": "οἱ",
+            "gloss": "Les/Eux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἐξελθόντες",
+            "gloss": "étant_sortis"
+          },
+          {
+            "greek": "διεφήμισαν",
+            "gloss": "ils_divulguèrent/répandirent"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ὅλῃ",
+            "gloss": "toute"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῇ",
+            "gloss": "terre/pays"
+          },
+          {
+            "greek": "ἐκείνῃ.",
+            "gloss": "ce_là"
+          }
+        ]
+      },
+      {
+        "verse_number": 32,
+        "translations": {
+          "segond": "Comme ils s'en allaient, voici, on amena à Jésus un démoniaque muet.",
+          "darby": "Et comme ils sortaient, voici, on lui amena un homme muet, démoniaque."
+        },
+        "interlinear": [
+          {
+            "greek": "Αὐτῶν",
+            "gloss": "Eux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐξερχομένων",
+            "gloss": "sortant"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "προσήνεγκαν",
+            "gloss": "ils_amenèrent"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "κωφὸν",
+            "gloss": "muet/sourd",
+            "annotation": {
+              "type": "traduction",
+              "title": "Le sens émoussé et la parole rendue",
+              "content": "Approfondissement spirituel : Le mot *kophos* désigne celui dont les sens sont 'émoussés' (souvent sourd et muet). Dans une lecture spirituelle, c'est l'asphyxie totale de la relation. L'esprit démoniaque (qui divise) coupe le sujet de la vibration du Logos (la Parole). Il l'isole absolument au sein du Monde duel.",
+              "related": [
+                "αὐτῷ",
+                "ἄνθρωπον",
+                "δαιμονιζόμενον."
+              ]
+            }
+          },
+          {
+            "greek": "δαιμονιζόμενον.",
+            "gloss": "démoniaque/possédé"
+          }
+        ]
+      },
+      {
+        "verse_number": 33,
+        "translations": {
+          "segond": "Le démon ayant été chassé, le muet parla. Et la foule étonnée disait : Jamais pareille chose ne s'est vue en Israël.",
+          "darby": "Et le démon ayant été chassé, le muet parla. Et les foules s'étonnèrent, disant : Jamais rien de pareil n'a paru en Israël."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐκβληθέντος",
+            "gloss": "ayant_été_chassé"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δαιμονίου",
+            "gloss": "démon"
+          },
+          {
+            "greek": "ἐλάλησεν",
+            "gloss": "parla"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κωφός.",
+            "gloss": "muet"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐθαύμασαν",
+            "gloss": "s'étonnèrent/furent_émerveillées"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὄχλοι",
+            "gloss": "foules"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Οὐδέποτε",
+            "gloss": "Jamais"
+          },
+          {
+            "greek": "ἐφάνη",
+            "gloss": "il_apparut/se_montra",
+            "annotation": {
+              "type": "racine",
+              "title": "Ce qui se manifeste",
+              "content": "Approfondissement spirituel : Le verbe *phaino* (briller, apparaître) donne le mot épiphanie. La foule ne dit pas simplement 'on n'a jamais vu un tel tour de magie'. Elle reconnaît que la Lumière vient de 'briller' et de percer l'opacité du monde. C'est l'émerveillement (*thauma*), la seule attitude juste face au Royaume.",
+              "related": [
+                "λέγοντες·",
+                "Οὐδέποτε",
+                "οὕτως",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "Ἰσραήλ.",
+            "gloss": "Israël"
+          }
+        ]
+      },
+      {
+        "verse_number": 34,
+        "translations": {
+          "segond": "Mais les pharisiens disaient : C'est par le prince des démons qu'il chasse les démons.",
+          "darby": "Mais les pharisiens disaient : Il chasse les démons par le chef des démons."
+        },
+        "interlinear": [
+          {
+            "greek": "οἱ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais/or"
+          },
+          {
+            "greek": "Φαρισαῖοι",
+            "gloss": "Pharisiens"
+          },
+          {
+            "greek": "ἔλεγον·",
+            "gloss": "disaient"
+          },
+          {
+            "greek": "Ἐν",
+            "gloss": "Par/Dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄρχοντι",
+            "gloss": "prince/chef",
+            "annotation": {
+              "type": "analyse",
+              "title": "Quand la lumière est appelée ténèbres",
+              "content": "Approfondissement spirituel : La réaction archétypale de l'Ego religieux. Face à une grâce qui échappe à son contrôle et à ses lois, le système préfère la diaboliser plutôt que de s'y soumettre. Le Monde duel justifie son aveuglement en qualifiant la Lumière de ténèbres, protégeant ainsi sa propre matrice juridique.",
+              "related": [
+                "Ἐν",
+                "τῷ",
+                "τῶν",
+                "δαιμονίων"
+              ]
+            }
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "δαιμονίων",
+            "gloss": "démons"
+          },
+          {
+            "greek": "ἐκβάλλει",
+            "gloss": "il_chasse"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δαιμόνια.",
+            "gloss": "démons"
+          }
+        ]
+      },
+      {
+        "verse_number": 35,
+        "translations": {
+          "segond": "Jésus parcourait toutes les villes et les villages, enseignant dans les synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité.",
+          "darby": "Et Jésus parcourait toutes les villes et les villages, enseignant dans leurs synagogues, et prêchant l'évangile du royaume, et guérissant toute maladie et toute langueur."
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "περιῆγεν",
+            "gloss": "il_parcourait"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πόλεις",
+            "gloss": "villes"
+          },
+          {
+            "greek": "πάσας",
+            "gloss": "toutes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "κώμας,",
+            "gloss": "villages"
+          },
+          {
+            "greek": "διδάσκων",
+            "gloss": "enseignant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "συναγωγαῖς",
+            "gloss": "synagogues"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κηρύσσων",
+            "gloss": "prêchant/proclamant"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "εὐαγγέλιον",
+            "gloss": "évangile/bonne_nouvelle"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "βασιλείας",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "θεραπεύων",
+            "gloss": "guérissant"
+          },
+          {
+            "greek": "πᾶσαν",
+            "gloss": "toute"
+          },
+          {
+            "greek": "νόσον",
+            "gloss": "maladie"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πᾶσαν",
+            "gloss": "toute"
+          },
+          {
+            "greek": "μαλακίαν.",
+            "gloss": "faiblesse/infirmité",
+            "annotation": {
+              "type": "analyse",
+              "title": "Faiblesse et perte de vigueur",
+              "content": "Approfondissement spirituel : Le mot *malakia* désigne la mollesse, la langueur, la perte de force vitale. L'œuvre du Christ est une restauration totale de la vitalité ontologique. En guérissant la maladie (*noson*) et la faiblesse (*malakian*), Il ne fait pas que soigner des corps : Il rend à l'homme sa capacité à exister debout comme un Sujet responsable dans le Royaume.",
+              "related": [
+                "καὶ",
+                "πᾶσαν"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 33 - ἐφάνη : Segond traduit par 'ne s'est vue', mais Darby s'approche plus du sens originel avec 'n'a paru'. Le verbe grec *phaino* implique l'idée de briller, de se manifester comme une lumière. L'acte de guérison n'est pas qu'un phénomène observable, c'est une théophanie, une trouée lumineuse.\n• Verset 35 - μαλακίαν : Traduit par 'infirmité' (Segond) ou 'langueur' (Darby). La racine évoque la mollesse, ce qui est mou. Elle décrit parfaitement l'entropie du Monde duel : une perte progressive de la tension vitale et spirituelle de l'être. Le Christ vient redonner sa fermeté et sa structure au Sujet.\n\nAnalyse spirituelle :\nDans une lecture spirituelle, ce passage illustre l'opposition absolue entre la guérison du Sujet et la crispation du Système. Les deux aveugles puis le démoniaque muet sont les symboles de l'humanité déchue : isolés, coupés de la vision de la Lumière et incapables de prononcer la Parole (Logos) qui relie. Leur guérison nécessite une kénose (l'aveu de leur cécité) et un retrait dans la maison (*oikia*), symbole de l'intériorité.\n\nLe miracle opéré par l'Énergie divine provoque deux réactions antinomiques. La foule, sans préjugés, accueille cette irruption par l'émerveillement (*thauma*) : elle reconnaît la Lumière. À l'inverse, les pharisiens, représentants du Monde duel et du contrôle par la Loi, sont terrorisés par ce qui échappe à leurs catégories. Plutôt que d'abandonner leur position de surplomb, ils préfèrent inverser le réel et qualifier la grâce de magie démoniaque. C'est l'aveuglement volontaire de l'Ego : il est prêt à maudire la Lumière pour sauver les murs de sa propre prison.\n\nComplément de lecture : le passage fait circuler les sens : les aveugles crient et entendent la question de Jésus ; il touche leurs yeux, leur vue s’ouvre ; le muet retrouve la parole ; la foule voit et s’émerveille. Dans la réception philocalique, l’ouverture des yeux peut également figurer l’illumination du νοῦς, l’œil du cœur.",
+    "homiletic_axes": [
+      {
+        "title": "Du cri à la rencontre intérieure",
+        "content": "Les aveugles suivent Jésus en criant, puis le rejoignent dans la maison. Le récit conduit de l’appel public à une parole personnelle de confiance.",
+        "keywords": [
+          "τυφλοὶ",
+          "κράζοντες",
+          "Ἐλέησον",
+          "οἰκίαν"
+        ]
+      },
+      {
+        "title": "La pédagogie des sens",
+        "content": "Jésus interroge, touche les yeux et rend la parole au muet. Le salut rejoint la personne dans son écoute, son toucher, sa vision et sa parole.",
+        "keywords": [
+          "Πιστεύετε",
+          "ἥψατο",
+          "ὀφθαλμοί.",
+          "ἐλάλησεν"
+        ]
+      },
+      {
+        "title": "Voir le même signe de deux manières",
+        "content": "La foule s’émerveille ; les pharisiens attribuent la délivrance au chef des démons. Le texte interroge la qualité spirituelle du regard.",
+        "keywords": [
+          "ἐθαύμασαν",
+          "ἐφάνη",
+          "Φαρισαῖοι",
+          "ἄρχοντι"
+        ]
+      },
+      {
+        "title": "La force qui accueille et porte",
+        "content": "Paul déplace la puissance : les forts portent les faiblesses, cherchent l’édification du prochain et s’accueillent comme le Christ les a accueillis.",
+        "keywords": [
+          "δυνατοὶ",
+          "βαστάζειν,",
+          "οἰκοδομήν·",
+          "προσλαμβάνεσθε"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement le fil qui vous appelle dans les deux lectures du 7e dimanche après la Pentecôte : un geste, une parole, un contraste, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez le mouvement propre de l’Évangile, puis regardez comment l’Apôtre le déplace, l’approfondit ou en montre le fruit ecclésial. Vous pouvez aussi ne retenir qu’une seule correspondance."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit ou donne ici. Gardez le Christ au centre et distinguez cette annonce des exigences qui en découlent."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par ces textes : peur, enfermement, faiblesse, division, manque, besoin d’être porté ou difficulté à accueillir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans dicter une conduite uniforme : accueillir, demander, porter, partager, bénir, se laisser relever ou restaurer une communion."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression claire. Présentez les interprétations symboliques comme une lecture spirituelle, non comme le seul sens du texte, et évitez toute promesse automatique de guérison ou de réussite."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Des yeux ouverts à l’accueil de l’autre",
+        "reference": "Matthieu 9, 27-35 ; Romains 15, 1-7",
+        "content": "L’Évangile restaure la vision et la parole ; l’Apôtre montre le fruit communautaire de cette guérison : voir la faiblesse sans mépris, la porter, puis accueillir l’autre comme le Christ nous accueille.",
+        "connections": []
+      }
     ]
   },
-  {
-    "verse_number": 28,
-    "translations": {
-      "segond": "Lorsqu'il fut arrivé à la maison, les aveugles s'approchèrent de lui, et Jésus leur dit : Croyez-vous que je puisse faire cela ? Oui, Seigneur, lui répondirent-ils.",
-      "darby": "Et quand il fut venu dans la maison, les aveugles vinrent à lui ; et Jésus leur dit : Croyez-vous que je puisse faire ceci ? Ils lui disent : Oui, Seigneur."
-    },
+  "apostle": {
+    "reference": "Romains 15, 1-7",
+    "title": "L'Exemple du Christ et l'Unité dans l'Édification",
     "interlinear": [
-      { "greek": "ἐλθόντι", "gloss": "Étant_venu" },
-      { "greek": "δὲ", "gloss": "or/et" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "οἰκίαν", "gloss": "maison", "analyse": "Comme pour le paralytique renvoyé dans sa maison (*oikos*), le Christ ne guérit pas ces hommes dans le bruit de l'espace public. Il attend qu'ils entrent dans la *oikia* (l'espace clos). La vraie rencontre de Sujet à Sujet, la restauration de la vision, nécessite ce repli dans l'intériorité de l'âme, loin de la scène théâtrale du Monde duel." },
-      { "greek": "προσῆλθον", "gloss": "s'approchèrent" },
-      { "greek": "αὐτῷ", "gloss": "de_lui" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "τυφλοί,", "gloss": "aveugles" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "λέγει", "gloss": "dit" },
-      { "greek": "αὐτοῖς", "gloss": "à_eux" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-      { "greek": "Πιστεύετε", "gloss": "Croyez-vous", "analyse": "Le Christ sonde la *Pistis* (la foi). Croire n'est pas ici une adhésion intellectuelle à un dogme, c'est l'ouverture de la 'réceptivité' du sujet. Dieu ne force jamais l'entrée ; Il a besoin que la volonté du sujet s'aligne et s'ouvre pour laisser passer Sa grâce." },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "δύναμαι", "gloss": "je_peux" },
-      { "greek": "τοῦτο", "gloss": "ceci" },
-      { "greek": "ποιῆσαι;", "gloss": "faire" },
-      { "greek": "λέγουσιν", "gloss": "ils_disent" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Ναί,", "gloss": "Oui" },
-      { "greek": "κύριε.", "gloss": "Seigneur" }
-    ]
-  },
-  {
-    "verse_number": 29,
-    "translations": {
-      "segond": "Alors il leur toucha les yeux, en disant : Qu'il vous soit fait selon votre foi.",
-      "darby": "Alors il toucha leurs yeux, disant : Qu'il vous soit fait selon votre foi."
-    },
-    "interlinear": [
-      { "greek": "τότε", "gloss": "Alors" },
-      { "greek": "ἥψατο", "gloss": "il_toucha" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "ὀφθαλμῶν", "gloss": "yeux" },
-      { "greek": "αὐτῶν", "gloss": "d'eux" },
-      { "greek": "λέγων·", "gloss": "disant" },
-      { "greek": "Κατὰ", "gloss": "Selon" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "πίστιν", "gloss": "foi" },
-      { "greek": "ὑμῶν", "gloss": "de_vous" },
-      { "greek": "γενηθήτω", "gloss": "qu'il_soit_fait" },
-      { "greek": "ὑμῖν.", "gloss": "à_vous" }
-    ]
-  },
-  {
-    "verse_number": 30,
-    "translations": {
-      "segond": "Et leurs yeux s'ouvrirent. Jésus leur fit cette recommandation sévère : Prenez garde que personne ne le sache.",
-      "darby": "Et leurs yeux furent ouverts. Et Jésus leur enjoignit sévèrement, disant : Prenez garde, que personne ne le sache."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἠνεῴχθησαν", "gloss": "furent_ouverts" },
-      { "greek": "αὐτῶν", "gloss": "d'eux" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "ὀφθαλμοί.", "gloss": "yeux" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐνεβριμήθη", "gloss": "avertit_sévèrement", "analyse": "Le verbe très fort *embrimaomai* (frémir, gronder, menacer sévèrement). Pourquoi le Christ est-il presque violent ici ? Parce qu'Il refuse catégoriquement que l'irruption du Royaume UN soit transformée en spectacle de foire par la logique du Monde duel. Il protège la relation intime qu'Il vient de créer avec ces nouveaux sujets." },
-      { "greek": "αὐτοῖς", "gloss": "à_eux" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "λέγων·", "gloss": "disant" },
-      { "greek": "Ὁρᾶτε", "gloss": "Voyez/Prenez_garde" },
-      { "greek": "μηδεὶς", "gloss": "personne" },
-      { "greek": "γινωσκέτω.", "gloss": "ne_sache" }
-    ]
-  },
-  {
-    "verse_number": 31,
-    "translations": {
-      "segond": "Mais, dès qu'ils furent sortis, ils répandirent sa renommée dans tout le pays.",
-      "darby": "Mais eux, étant sortis, répandirent sa renommée dans tout ce pays-là."
-    },
-    "interlinear": [
-      { "greek": "οἱ", "gloss": "Les/Eux" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "ἐξελθόντες", "gloss": "étant_sortis" },
-      { "greek": "διεφήμισαν", "gloss": "ils_divulguèrent/répandirent" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "ὅλῃ", "gloss": "toute" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "γῇ", "gloss": "terre/pays" },
-      { "greek": "ἐκείνῃ.", "gloss": "ce_là" }
-    ]
-  },
-   {
-    "verse_number": 32,
-    "translations": {
-      "segond": "Comme ils s'en allaient, voici, on amena à Jésus un démoniaque muet.",
-      "darby": "Et comme ils sortaient, voici, on lui amena un homme muet, démoniaque."
-    },
-    "interlinear": [
-      { "greek": "Αὐτῶν", "gloss": "Eux" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ἐξερχομένων", "gloss": "sortant" },
-      { "greek": "ἰδοὺ", "gloss": "voici" },
-      { "greek": "προσήνεγκαν", "gloss": "ils_amenèrent" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "ἄνθρωπον", "gloss": "un_homme" },
-      { "greek": "κωφὸν", "gloss": "muet/sourd", "analyse": "Le mot *kophos* désigne celui dont les sens sont 'émoussés' (souvent sourd et muet). Dans la lecture du Père Pascal, c'est l'asphyxie totale de la relation. L'esprit démoniaque (qui divise) coupe le sujet de la vibration du Logos (la Parole). Il l'isole absolument au sein du Monde duel." },
-      { "greek": "δαιμονιζόμενον.", "gloss": "démoniaque/possédé" }
-    ]
-  },
-  {
-    "verse_number": 33,
-    "translations": {
-      "segond": "Le démon ayant été chassé, le muet parla. Et la foule étonnée disait : Jamais pareille chose ne s'est vue en Israël.",
-      "darby": "Et le démon ayant été chassé, le muet parla. Et les foules s'étonnèrent, disant : Jamais rien de pareil n'a paru en Israël."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἐκβληθέντος", "gloss": "ayant_été_chassé" },
-      { "greek": "τοῦ", "gloss": "le" },
-      { "greek": "δαιμονίου", "gloss": "démon" },
-      { "greek": "ἐλάλησεν", "gloss": "parla" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "κωφός.", "gloss": "muet" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐθαύμασαν", "gloss": "s'étonnèrent/furent_émerveillées" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "ὄχλοι", "gloss": "foules" },
-      { "greek": "λέγοντες·", "gloss": "disant" },
-      { "greek": "Οὐδέποτε", "gloss": "Jamais" },
-      { "greek": "ἐφάνη", "gloss": "il_apparut/se_montra", "analyse": "Le verbe *phaino* (briller, apparaître) donne le mot épiphanie. La foule ne dit pas simplement 'on n'a jamais vu un tel tour de magie'. Elle reconnaît que la Lumière vient de 'briller' et de percer l'opacité du monde. C'est l'émerveillement (*thauma*), la seule attitude juste face au Royaume." },
-      { "greek": "οὕτως", "gloss": "ainsi" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῷ", "gloss": "l'" },
-      { "greek": "Ἰσραήλ.", "gloss": "Israël" }
-    ]
-  },
-  {
-    "verse_number": 34,
-    "translations": {
-      "segond": "Mais les pharisiens disaient : C'est par le prince des démons qu'il chasse les démons.",
-      "darby": "Mais les pharisiens disaient : Il chasse les démons par le chef des démons."
-    },
-    "interlinear": [
-      { "greek": "οἱ", "gloss": "Les" },
-      { "greek": "δὲ", "gloss": "mais/or" },
-      { "greek": "Φαρισαῖοι", "gloss": "Pharisiens" },
-      { "greek": "ἔλεγον·", "gloss": "disaient" },
-      { "greek": "Ἐν", "gloss": "Par/Dans" },
-      { "greek": "τῷ", "gloss": "le" },
-      { "greek": "ἄρχοντι", "gloss": "prince/chef", "analyse": "La réaction archétypale de l'Ego religieux. Face à une grâce qui échappe à son contrôle et à ses lois, le système préfère la diaboliser plutôt que de s'y soumettre. Le Monde duel justifie son aveuglement en qualifiant la Lumière de ténèbres, protégeant ainsi sa propre matrice juridique." },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "δαιμονίων", "gloss": "démons" },
-      { "greek": "ἐκβάλλει", "gloss": "il_chasse" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "δαιμόνια.", "gloss": "démons" }
-    ]
-  },
-  {
-    "verse_number": 35,
-    "translations": {
-      "segond": "Jésus parcourait toutes les villes et les villages, enseignant dans les synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité.",
-      "darby": "Et Jésus parcourait toutes les villes et les villages, enseignant dans leurs synagogues, et prêchant l'évangile du royaume, et guérissant toute maladie et toute langueur."
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "περιῆγεν", "gloss": "il_parcourait" },
-      { "greek": "ὁ", "gloss": "—" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "τὰς", "gloss": "les" },
-      { "greek": "πόλεις", "gloss": "villes" },
-      { "greek": "πάσας", "gloss": "toutes" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τὰς", "gloss": "les" },
-      { "greek": "κώμας,", "gloss": "villages" },
-      { "greek": "διδάσκων", "gloss": "enseignant" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "ταῖς", "gloss": "les" },
-      { "greek": "συναγωγαῖς", "gloss": "synagogues" },
-      { "greek": "αὐτῶν", "gloss": "d'eux" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "κηρύσσων", "gloss": "prêchant/proclamant" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "εὐαγγέλιον", "gloss": "évangile/bonne_nouvelle" },
-      { "greek": "τῆς", "gloss": "du" },
-      { "greek": "βασιλείας", "gloss": "royaume" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "θεραπεύων", "gloss": "guérissant" },
-      { "greek": "πᾶσαν", "gloss": "toute" },
-      { "greek": "νόσον", "gloss": "maladie" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πᾶσαν", "gloss": "toute" },
-      { "greek": "μαλακίαν.", "gloss": "faiblesse/infirmité", "analyse": "Le mot *malakia* désigne la mollesse, la langueur, la perte de force vitale. L'œuvre du Christ est une restauration totale de la vitalité ontologique. En guérissant la maladie (*noson*) et la faiblesse (*malakian*), Il ne fait pas que soigner des corps : Il rend à l'homme sa capacité à exister debout comme un Sujet responsable dans le Royaume." }
-    ]
+      {
+        "verse_number": 1,
+        "translations": {
+          "segond": "Nous qui sommes forts, nous devons supporter les faiblesses de ceux qui ne le sont pas, et ne pas nous complaire en nous-mêmes.",
+          "darby": "Or nous, les forts, nous devons porter les infirmités des faibles, et non pas nous plaire à nous-mêmes."
+        },
+        "interlinear": [
+          {
+            "greek": "Ὀφείλομεν",
+            "gloss": "Nous_devons"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/donc"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δυνατοὶ",
+            "gloss": "puissants/forts",
+            "annotation": {
+              "type": "traduction",
+              "title": "La force qui porte",
+              "content": "Approfondissement spirituel : Le mot *dynatoi* désigne ceux qui ont la *dynamis* (l'énergie, la puissance spirituelle). Dans cette lecture spirituelle, le vrai Sujet qui a reçu l'Énergie divine ne s'en sert pas pour s'isoler ou se sentir supérieur (Monde duel), mais pour soutenir celui qui est encore paralysé.",
+              "related": [
+                "ἡμεῖς",
+                "οἱ",
+                "τὰ",
+                "ἀσθενήματα"
+              ]
+            }
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀσθενήματα",
+            "gloss": "faiblesses/infirmités"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀδυνάτων",
+            "gloss": "sans_force/faibles"
+          },
+          {
+            "greek": "βαστάζειν,",
+            "gloss": "porter"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἑαυτοῖς",
+            "gloss": "à_nous-mêmes"
+          },
+          {
+            "greek": "ἀρέσκειν.",
+            "gloss": "plaire/complaire",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ne pas se complaire en soi",
+              "content": "Approfondissement spirituel : L'expression *heautois areskein* (se plaire à soi-même) est la définition exacte de l'Ego narcissique. Se complaire en soi-même, c'est fermer le circuit de la relation et retourner à l'aveuglement spirituel.",
+              "related": [
+                "μὴ",
+                "ἑαυτοῖς"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "translations": {
+          "segond": "Que chacun de nous complaise au prochain pour ce qui est bien en vue de l'édification.",
+          "darby": "Que chacun de nous plaise à son prochain pour le bien, en vue de l'édification."
+        },
+        "interlinear": [
+          {
+            "greek": "ἕκαστος",
+            "gloss": "chacun"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "πλησίον",
+            "gloss": "prochain"
+          },
+          {
+            "greek": "ἀρεσκέτω",
+            "gloss": "qu'il_plaise"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀγαθὸν",
+            "gloss": "bien"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "οἰκοδομήν·",
+            "gloss": "édification/construction",
+            "annotation": {
+              "type": "racine",
+              "title": "Construire le prochain",
+              "content": "Approfondissement spirituel : Le mot *oikodomē* (construction de la maison). On retrouve l'*oikos* (la maison) de l'Évangile. L'attitude du fort ne doit pas être la flatterie (qui maintient l'autre dans l'illusion), mais une complaisance exigeante visant à 'bâtir' l'autre, à l'aider à structurer son intériorité.",
+              "related": [
+                "ἀγαθὸν",
+                "πρὸς"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "translations": {
+          "segond": "Car Christ ne s'est point complu en lui-même, mais, selon qu'il est écrit : Les outrages de ceux qui t'outragent sont tombés sur moi.",
+          "darby": "Car le Christ aussi n'a point cherché à plaire à lui-même ; mais, selon qu'il est écrit : « Les outrages de ceux qui t'outragent sont tombés sur moi »."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "οὐχ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἑαυτῷ",
+            "gloss": "à_lui-même"
+          },
+          {
+            "greek": "ἤρεσεν·",
+            "gloss": "a_plu",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le Christ ne s’est pas recherché lui-même",
+              "content": "Approfondissement spirituel : C'est la kénose absolue. Le Christ, le vrai 'Fort' par excellence, refuse la dynamique de puissance du Monde duel. Il n'existe que dans l'altérité, en se donnant totalement, jusqu'à absorber la négativité de l'humanité déchue.",
+              "related": [
+                "οὐχ",
+                "ἑαυτῷ",
+                "ἀλλὰ",
+                "καθὼς"
+              ]
+            }
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "selon_qu'"
+          },
+          {
+            "greek": "γέγραπται·",
+            "gloss": "il_est_écrit"
+          },
+          {
+            "greek": "Οἱ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "ὀνειδισμοὶ",
+            "gloss": "outrages/insultes"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "de_ceux"
+          },
+          {
+            "greek": "ὀνειδιζόντων",
+            "gloss": "outrageant"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἐπέπεσαν",
+            "gloss": "sont_tombés"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ἐμέ.",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "translations": {
+          "segond": "Or, tout ce qui a été écrit d'avance l'a été pour notre instruction, afin que, par la patience, et par la consolation que donnent les Écritures, nous possédions l'espérance.",
+          "darby": "Car toutes les choses qui ont été écrites auparavant ont été écrites pour notre instruction, afin que, par la patience et par la consolation des écritures, nous ayons espérance."
+        },
+        "interlinear": [
+          {
+            "greek": "ὅσα",
+            "gloss": "tout_ce_qui"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "προεγράφη,",
+            "gloss": "a_été_écrit_auparavant"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἡμετέραν",
+            "gloss": "nôtre"
+          },
+          {
+            "greek": "διδασκαλίαν",
+            "gloss": "instruction/enseignement"
+          },
+          {
+            "greek": "ἐγράφη,",
+            "gloss": "a_été_écrit"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὑπομονῆς",
+            "gloss": "endurance/patience",
+            "annotation": {
+              "type": "racine",
+              "title": "L’endurance qui nourrit l’espérance",
+              "content": "Approfondissement spirituel : Le mot *hypomonē* (l'endurance, le fait de rester dessous). L'enseignement spirituel n'est pas une simple acquisition de connaissances. Il forge l'endurance, la capacité de l'âme à rester stable face aux tempêtes du Monde duel, pour garder vivante l'espérance.",
+              "related": [
+                "διὰ",
+                "τῆς",
+                "καὶ",
+                "διὰ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "παρακλήσεως",
+            "gloss": "consolation/exhortation"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "γραφῶν",
+            "gloss": "Écritures"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἐλπίδα",
+            "gloss": "espérance"
+          },
+          {
+            "greek": "ἔχωμεν.",
+            "gloss": "nous_ayons"
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "translations": {
+          "segond": "Que le Dieu de la persévérance et de la consolation vous donne d'avoir les mêmes sentiments les uns envers les autres selon Jésus Christ,",
+          "darby": "Or le Dieu de patience et de consolation vous donne d'avoir les mêmes sentiments les uns envers les autres, selon le Christ Jésus,"
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ὑπομονῆς",
+            "gloss": "patience/endurance"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "παρακλήσεως",
+            "gloss": "consolation/exhortation"
+          },
+          {
+            "greek": "δῴη",
+            "gloss": "qu'il_donne"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "αὐτὸ",
+            "gloss": "même"
+          },
+          {
+            "greek": "φρονεῖν",
+            "gloss": "penser/ressentir",
+            "annotation": {
+              "type": "traduction",
+              "title": "Une même disposition intérieure",
+              "content": "Approfondissement spirituel : Le verbe *phronein* (penser, avoir les mêmes dispositions intérieures). L'unité dans le Christ n'est pas un alignement idéologique extérieur (Monde duel), mais un diapason intérieur. C'est l'Esprit Saint qui accorde les âmes pour qu'elles vibrent à la même fréquence ('selon le Christ Jésus'), tout en restant des sujets distincts.",
+              "related": [
+                "τὸ",
+                "αὐτὸ",
+                "ἐν",
+                "ἀλλήλοις"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ἀλλήλοις",
+            "gloss": "les_uns_les_autres"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "Χριστὸν",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦν,",
+            "gloss": "Jésus"
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "translations": {
+          "segond": "afin que tous ensemble, d'une seule bouche, vous glorifiiez le Dieu et Père de notre Seigneur Jésus Christ.",
+          "darby": "afin que d'un commun accord, d'une seule bouche, vous glorifiiez le Dieu et Père de notre Seigneur Jésus Christ."
+        },
+        "interlinear": [
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ὁμοθυμαδὸν",
+            "gloss": "d'un_commun_accord",
+            "annotation": {
+              "type": "traduction",
+              "title": "D’un même élan et d’une seule bouche",
+              "content": "Approfondissement spirituel : Le mot *homothymadon* (d'un même élan, d'une même passion). C'est le grand mot des Actes des Apôtres à la Pentecôte. Le Saint-Esprit détruit la cacophonie de Babel (la fragmentation égoïste) pour recréer un seul organisme respirant d'un même souffle.",
+              "related": [
+                "ἵνα",
+                "ἐν",
+                "ἑνὶ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec/d'"
+          },
+          {
+            "greek": "ἑνὶ",
+            "gloss": "un_seul"
+          },
+          {
+            "greek": "στόματι",
+            "gloss": "bouche/visage"
+          },
+          {
+            "greek": "δοξάζητε",
+            "gloss": "vous_glorifiiez"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πατέρα",
+            "gloss": "père"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "Christ"
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "translations": {
+          "segond": "Accueillez-vous donc les uns les autres, comme Christ vous a accueillis, pour la gloire de Dieu.",
+          "darby": "C'est pourquoi recevez-vous les uns les autres, comme aussi le Christ vous a reçus, à la gloire de Dieu."
+        },
+        "interlinear": [
+          {
+            "greek": "Διὸ",
+            "gloss": "C'est_pourquoi"
+          },
+          {
+            "greek": "προσλαμβάνεσθε",
+            "gloss": "accueillez/recevez",
+            "annotation": {
+              "type": "racine",
+              "title": "Accueillez-vous les uns les autres",
+              "content": "Approfondissement spirituel : Le verbe *proslambano* (prendre avec soi, accueillir profondément). Dans la matrice du Monde duel, l'Ego repousse ce qui est différent ou 'faible' par peur d'être diminué. Dans le Royaume UN, le Sujet fort 'prend avec lui' le faible, exactement comme le Christ a assumé notre propre faiblesse charnelle pour nous ramener au Père.",
+              "related": [
+                "Διὸ",
+                "ἀλλήλους,",
+                "καθὼς"
+              ]
+            }
+          },
+          {
+            "greek": "ἀλλήλους,",
+            "gloss": "les_uns_les_autres"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "προσελάβετο",
+            "gloss": "a_accueilli/reçu"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "δόξαν",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ.",
+            "gloss": "Dieu"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 1 - δυνατοὶ : Segond et Darby traduisent par 'forts'. Mais le terme *dynatoi* porte en lui la *dynamis* (la puissance/l'énergie divine). Ce ne sont pas des gens musclés psychologiquement, ce sont des sujets qui sont traversés par l'Énergie incréée, ce qui leur donne la capacité de 'porter' (*bastazein*) le fardeau des autres sans s'effondrer.\n• Verset 5 - τὸ αὐτὸ φρονεῖν : Traduit par 'avoir les mêmes sentiments' (Segond/Darby). Ce n'est pas qu'une question d'émotion (sentimentalisme du Monde duel). *Phronein* engage l'intelligence profonde, le *nous* (l'intellect spirituel). C'est s'accorder sur la même disposition intérieure, la même vibration que le Christ.\n• Verset 6 - ὁμοθυμαδὸν : 'Tous ensemble' (Segond) ou 'd'un commun accord' (Darby). Ces expressions sont un peu faibles pour rendre la puissance de ce mot fusionnel, qui décrit un seul élan vital animant une pluralité de personnes.\n\nAnalyse spirituelle :\nCet Apôtre éclaire d'une lumière communautaire les guérisons individuelles que nous lisons dans l'Évangile (comme celle des deux aveugles ou du paralytique). Une fois guéri de sa paralysie ou de son aveuglement, le chrétien devient un 'fort' (*dynatos*). Le grand danger qui le guette alors, c'est de retourner à la logique du Monde duel en se 'complaisant en lui-même', c'est-à-dire en utilisant sa restauration spirituelle pour s'isoler ou juger les faibles.\n\nSaint Paul brise cette logique d'Ego spirituel. La vraie *dynamis* (force) ne sert pas à dominer, elle sert à 'porter' (*bastazein*) la fragilité de l'autre. Le modèle absolu est la kénose du Christ qui, loin de se préserver, a absorbé nos outrages pour nous construire (*oikodomē*). C'est par cette patience partagée et l'assimilation des Écritures que l'Esprit unifie l'Église, transformant des individus fragmentés en un seul instrument de louange (*homothymadon*) chantant 'd'une seule bouche'. Accueillir l'autre avec ses failles, ce n'est plus de la morale, c'est l'acte ontologique par lequel nous reproduisons l'accueil inconditionnel du Christ.\n\nComplément de lecture : la force chrétienne se mesure à ce qu’elle porte. Les préfixes eux-mêmes accompagnent le mouvement : ὑπομονή demeure sous l’épreuve ; προσλαμβάνεσθε invite à prendre l’autre avec soi. L’unité n’efface pas les personnes, mais les accorde pour une louange d’un même élan et d’une seule bouche.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement le fil qui vous appelle dans les deux lectures du 7e dimanche après la Pentecôte : un geste, une parole, un contraste, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez le mouvement propre de l’Évangile, puis regardez comment l’Apôtre le déplace, l’approfondit ou en montre le fruit ecclésial. Vous pouvez aussi ne retenir qu’une seule correspondance."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit ou donne ici. Gardez le Christ au centre et distinguez cette annonce des exigences qui en découlent."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par ces textes : peur, enfermement, faiblesse, division, manque, besoin d’être porté ou difficulté à accueillir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans dicter une conduite uniforme : accueillir, demander, porter, partager, bénir, se laisser relever ou restaurer une communion."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression claire. Présentez les interprétations symboliques comme une lecture spirituelle, non comme le seul sens du texte, et évitez toute promesse automatique de guérison ou de réussite."
+      }
+    ],
+    "liturgical_echoes": []
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 33 - ἐφάνη : Segond traduit par 'ne s'est vue', mais Darby s'approche plus du sens originel avec 'n'a paru'. Le verbe grec *phaino* implique l'idée de briller, de se manifester comme une lumière. L'acte de guérison n'est pas qu'un phénomène observable, c'est une théophanie, une trouée lumineuse.\n• Verset 35 - μαλακίαν : Traduit par 'infirmité' (Segond) ou 'langueur' (Darby). La racine évoque la mollesse, ce qui est mou. Elle décrit parfaitement l'entropie du Monde duel : une perte progressive de la tension vitale et spirituelle de l'être. Le Christ vient redonner sa fermeté et sa structure au Sujet.\n\nAnalyse spirituelle :\nDans la grille de lecture du Père Pascal, ce passage illustre l'opposition absolue entre la guérison du Sujet et la crispation du Système. Les deux aveugles puis le démoniaque muet sont les symboles de l'humanité déchue : isolés, coupés de la vision de la Lumière et incapables de prononcer la Parole (Logos) qui relie. Leur guérison nécessite une kénose (l'aveu de leur cécité) et un retrait dans la maison (*oikia*), symbole de l'intériorité.\n\nLe miracle opéré par l'Énergie divine provoque deux réactions antinomiques. La foule, sans préjugés, accueille cette irruption par l'émerveillement (*thauma*) : elle reconnaît la Lumière. À l'inverse, les pharisiens, représentants du Monde duel et du contrôle par la Loi, sont terrorisés par ce qui échappe à leurs catégories. Plutôt que d'abandonner leur position de surplomb, ils préfèrent inverser le réel et qualifier la grâce de magie démoniaque. C'est l'aveuglement volontaire de l'Ego : il est prêt à maudire la Lumière pour sauver les murs de sa propre prison."
-}, 
-"apostle": {
-  "reference": "Romains 15, 1-7",
-  "title": "L'Exemple du Christ et l'Unité dans l'Édification",
-  "interlinear":[
-  {
-    "verse_number": 1,
-    "translations": {
-      "segond": "Nous qui sommes forts, nous devons supporter les faiblesses de ceux qui ne le sont pas, et ne pas nous complaire en nous-mêmes.",
-      "darby": "Or nous, les forts, nous devons porter les infirmités des faibles, et non pas nous plaire à nous-mêmes."
-    },
-    "interlinear": [
-      { "greek": "Ὀφείλομεν", "gloss": "Nous_devons" },
-      { "greek": "δὲ", "gloss": "or/donc" },
-      { "greek": "ἡμεῖς", "gloss": "nous" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "δυνατοὶ", "gloss": "puissants/forts", "analyse": "Le mot *dynatoi* désigne ceux qui ont la *dynamis* (l'énergie, la puissance spirituelle). Dans la logique du Père Pascal, le vrai Sujet qui a reçu l'Énergie divine ne s'en sert pas pour s'isoler ou se sentir supérieur (Monde duel), mais pour soutenir celui qui est encore paralysé." },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "ἀσθενήματα", "gloss": "faiblesses/infirmités" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "ἀδυνάτων", "gloss": "sans_force/faibles" },
-      { "greek": "βαστάζειν,", "gloss": "porter" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "μὴ", "gloss": "non" },
-      { "greek": "ἑαυτοῖς", "gloss": "à_nous-mêmes" },
-      { "greek": "ἀρέσκειν.", "gloss": "plaire/complaire", "analyse": "L'expression *heautois areskein* (se plaire à soi-même) est la définition exacte de l'Ego narcissique. Se complaire en soi-même, c'est fermer le circuit de la relation et retourner à l'aveuglement spirituel." }
-    ]
-  },
-  {
-    "verse_number": 2,
-    "translations": {
-      "segond": "Que chacun de nous complaise au prochain pour ce qui est bien en vue de l'édification.",
-      "darby": "Que chacun de nous plaise à son prochain pour le bien, en vue de l'édification."
-    },
-    "interlinear": [
-      { "greek": "ἕκαστος", "gloss": "chacun" },
-      { "greek": "ἡμῶν", "gloss": "de_nous" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "πλησίον", "gloss": "prochain" },
-      { "greek": "ἀρεσκέτω", "gloss": "qu'il_plaise" },
-      { "greek": "εἰς", "gloss": "pour" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "ἀγαθὸν", "gloss": "bien" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "οἰκοδομήν·", "gloss": "édification/construction", "analyse": "Le mot *oikodomē* (construction de la maison). On retrouve l'*oikos* (la maison) de l'Évangile. L'attitude du fort ne doit pas être la flatterie (qui maintient l'autre dans l'illusion), mais une complaisance exigeante visant à 'bâtir' l'autre, à l'aider à structurer son intériorité." }
-    ]
-  },
-  {
-    "verse_number": 3,
-    "translations": {
-      "segond": "Car Christ ne s'est point complu en lui-même, mais, selon qu'il est écrit : Les outrages de ceux qui t'outragent sont tombés sur moi.",
-      "darby": "Car le Christ aussi n'a point cherché à plaire à lui-même ; mais, selon qu'il est écrit : « Les outrages de ceux qui t'outragent sont tombés sur moi »."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Χριστὸς", "gloss": "Christ" },
-      { "greek": "οὐχ", "gloss": "non" },
-      { "greek": "ἑαυτῷ", "gloss": "à_lui-même" },
-      { "greek": "ἤρεσεν·", "gloss": "a_plu", "analyse": "C'est la kénose absolue. Le Christ, le vrai 'Fort' par excellence, refuse la dynamique de puissance du Monde duel. Il n'existe que dans l'altérité, en se donnant totalement, jusqu'à absorber la négativité de l'humanité déchue." },
-      { "greek": "ἀλλὰ", "gloss": "mais" },
-      { "greek": "καθὼς", "gloss": "selon_qu'" },
-      { "greek": "γέγραπται·", "gloss": "il_est_écrit" },
-      { "greek": "Οἱ", "gloss": "Les" },
-      { "greek": "ὀνειδισμοὶ", "gloss": "outrages/insultes" },
-      { "greek": "τῶν", "gloss": "de_ceux" },
-      { "greek": "ὀνειδιζόντων", "gloss": "outrageant" },
-      { "greek": "σε", "gloss": "toi" },
-      { "greek": "ἐπέπεσαν", "gloss": "sont_tombés" },
-      { "greek": "ἐπ’", "gloss": "sur" },
-      { "greek": "ἐμέ.", "gloss": "moi" }
-    ]
-  },
-  {
-    "verse_number": 4,
-    "translations": {
-      "segond": "Or, tout ce qui a été écrit d'avance l'a été pour notre instruction, afin que, par la patience, et par la consolation que donnent les Écritures, nous possédions l'espérance.",
-      "darby": "Car toutes les choses qui ont été écrites auparavant ont été écrites pour notre instruction, afin que, par la patience et par la consolation des écritures, nous ayons espérance."
-    },
-    "interlinear": [
-      { "greek": "ὅσα", "gloss": "tout_ce_qui" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "προεγράφη,", "gloss": "a_été_écrit_auparavant" },
-      { "greek": "εἰς", "gloss": "pour" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "ἡμετέραν", "gloss": "nôtre" },
-      { "greek": "διδασκαλίαν", "gloss": "instruction/enseignement" },
-      { "greek": "ἐγράφη,", "gloss": "a_été_écrit" },
-      { "greek": "ἵνα", "gloss": "afin_que" },
-      { "greek": "διὰ", "gloss": "par" },
-      { "greek": "τῆς", "gloss": "la" },
-      { "greek": "ὑπομονῆς", "gloss": "endurance/patience", "analyse": "Le mot *hypomonē* (l'endurance, le fait de rester dessous). L'enseignement spirituel n'est pas une simple acquisition de connaissances. Il forge l'endurance, la capacité de l'âme à rester stable face aux tempêtes du Monde duel, pour garder vivante l'espérance." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "διὰ", "gloss": "par" },
-      { "greek": "τῆς", "gloss": "la" },
-      { "greek": "παρακλήσεως", "gloss": "consolation/exhortation" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "γραφῶν", "gloss": "Écritures" },
-      { "greek": "τὴν", "gloss": "l'" },
-      { "greek": "ἐλπίδα", "gloss": "espérance" },
-      { "greek": "ἔχωμεν.", "gloss": "nous_ayons" }
-    ]
-  },
-   {
-    "verse_number": 5,
-    "translations": {
-      "segond": "Que le Dieu de la persévérance et de la consolation vous donne d'avoir les mêmes sentiments les uns envers les autres selon Jésus Christ,",
-      "darby": "Or le Dieu de patience et de consolation vous donne d'avoir les mêmes sentiments les uns envers les autres, selon le Christ Jésus,"
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "Le" },
-      { "greek": "δὲ", "gloss": "or/et" },
-      { "greek": "θεὸς", "gloss": "Dieu" },
-      { "greek": "τῆς", "gloss": "de_la" },
-      { "greek": "ὑπομονῆς", "gloss": "patience/endurance" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τῆς", "gloss": "de_la" },
-      { "greek": "παρακλήσεως", "gloss": "consolation/exhortation" },
-      { "greek": "δῴη", "gloss": "qu'il_donne" },
-      { "greek": "ὑμῖν", "gloss": "à_vous" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "αὐτὸ", "gloss": "même" },
-      { "greek": "φρονεῖν", "gloss": "penser/ressentir", "analyse": "Le verbe *phronein* (penser, avoir les mêmes dispositions intérieures). L'unité dans le Christ n'est pas un alignement idéologique extérieur (Monde duel), mais un diapason intérieur. C'est l'Esprit Saint qui accorde les âmes pour qu'elles vibrent à la même fréquence ('selon le Christ Jésus'), tout en restant des sujets distincts." },
-      { "greek": "ἐν", "gloss": "parmi" },
-      { "greek": "ἀλλήλοις", "gloss": "les_uns_les_autres" },
-      { "greek": "κατὰ", "gloss": "selon" },
-      { "greek": "Χριστὸν", "gloss": "Christ" },
-      { "greek": "Ἰησοῦν,", "gloss": "Jésus" }
-    ]
-  },
-  {
-    "verse_number": 6,
-    "translations": {
-      "segond": "afin que tous ensemble, d'une seule bouche, vous glorifiiez le Dieu et Père de notre Seigneur Jésus Christ.",
-      "darby": "afin que d'un commun accord, d'une seule bouche, vous glorifiiez le Dieu et Père de notre Seigneur Jésus Christ."
-    },
-    "interlinear": [
-      { "greek": "ἵνα", "gloss": "afin_que" },
-      { "greek": "ὁμοθυμαδὸν", "gloss": "d'un_commun_accord", "analyse": "Le mot *homothymadon* (d'un même élan, d'une même passion). C'est le grand mot des Actes des Apôtres à la Pentecôte. Le Saint-Esprit détruit la cacophonie de Babel (la fragmentation égoïste) pour recréer un seul organisme respirant d'un même souffle." },
-      { "greek": "ἐν", "gloss": "avec/d'" },
-      { "greek": "ἑνὶ", "gloss": "un_seul" },
-      { "greek": "στόματι", "gloss": "bouche/visage" },
-      { "greek": "δοξάζητε", "gloss": "vous_glorifiiez" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "θεὸν", "gloss": "Dieu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πατέρα", "gloss": "père" },
-      { "greek": "τοῦ", "gloss": "du" },
-      { "greek": "κυρίου", "gloss": "seigneur" },
-      { "greek": "ἡμῶν", "gloss": "de_nous" },
-      { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-      { "greek": "Χριστοῦ.", "gloss": "Christ" }
-    ]
-  },
-  {
-    "verse_number": 7,
-    "translations": {
-      "segond": "Accueillez-vous donc les uns les autres, comme Christ vous a accueillis, pour la gloire de Dieu.",
-      "darby": "C'est pourquoi recevez-vous les uns les autres, comme aussi le Christ vous a reçus, à la gloire de Dieu."
-    },
-    "interlinear": [
-      { "greek": "Διὸ", "gloss": "C'est_pourquoi" },
-      { "greek": "προσλαμβάνεσθε", "gloss": "accueillez/recevez", "analyse": "Le verbe *proslambano* (prendre avec soi, accueillir profondément). Dans la matrice du Monde duel, l'Ego repousse ce qui est différent ou 'faible' par peur d'être diminué. Dans le Royaume UN, le Sujet fort 'prend avec lui' le faible, exactement comme le Christ a assumé notre propre faiblesse charnelle pour nous ramener au Père." },
-      { "greek": "ἀλλήλους,", "gloss": "les_uns_les_autres" },
-      { "greek": "καθὼς", "gloss": "comme" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Χριστὸς", "gloss": "Christ" },
-      { "greek": "προσελάβετο", "gloss": "a_accueilli/reçu" },
-      { "greek": "ὑμᾶς", "gloss": "vous" },
-      { "greek": "εἰς", "gloss": "pour" },
-      { "greek": "δόξαν", "gloss": "gloire" },
-      { "greek": "τοῦ", "gloss": "de_le" },
-      { "greek": "θεοῦ.", "gloss": "Dieu" }
-    ]
-  }
-],
-"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 1 - δυνατοὶ : Segond et Darby traduisent par 'forts'. Mais le terme *dynatoi* porte en lui la *dynamis* (la puissance/l'énergie divine). Ce ne sont pas des gens musclés psychologiquement, ce sont des sujets qui sont traversés par l'Énergie incréée, ce qui leur donne la capacité de 'porter' (*bastazein*) le fardeau des autres sans s'effondrer.\n• Verset 5 - τὸ αὐτὸ φρονεῖν : Traduit par 'avoir les mêmes sentiments' (Segond/Darby). Ce n'est pas qu'une question d'émotion (sentimentalisme du Monde duel). *Phronein* engage l'intelligence profonde, le *nous* (l'intellect spirituel). C'est s'accorder sur la même disposition intérieure, la même vibration que le Christ.\n• Verset 6 - ὁμοθυμαδὸν : 'Tous ensemble' (Segond) ou 'd'un commun accord' (Darby). Ces expressions sont un peu faibles pour rendre la puissance de ce mot fusionnel, qui décrit un seul élan vital animant une pluralité de personnes.\n\nAnalyse spirituelle :\nCet Apôtre éclaire d'une lumière communautaire les guérisons individuelles que nous lisons dans l'Évangile (comme celle des deux aveugles ou du paralytique). Une fois guéri de sa paralysie ou de son aveuglement, le chrétien devient un 'fort' (*dynatos*). Le grand danger qui le guette alors, c'est de retourner à la logique du Monde duel en se 'complaisant en lui-même', c'est-à-dire en utilisant sa restauration spirituelle pour s'isoler ou juger les faibles.\n\nSaint Paul brise cette logique d'Ego spirituel. La vraie *dynamis* (force) ne sert pas à dominer, elle sert à 'porter' (*bastazein*) la fragilité de l'autre. Le modèle absolu est la kénose du Christ qui, loin de se préserver, a absorbé nos outrages pour nous construire (*oikodomē*). C'est par cette patience partagée et l'assimilation des Écritures que l'Esprit unifie l'Église, transformant des individus fragmentés en un seul instrument de louange (*homothymadon*) chantant 'd'une seule bouche'. Accueillir l'autre avec ses failles, ce n'est plus de la morale, c'est l'acte ontologique par lequel nous reproduisons l'accueil inconditionnel du Christ."
-} 
-}  
+}
