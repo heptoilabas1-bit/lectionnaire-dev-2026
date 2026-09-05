@@ -516,7 +516,17 @@
           },
           {
             "greek": "εὐλόγησεν",
-            "gloss": "il_bénit/rendit_grâces"
+            "gloss": "il_bénit/rendit_grâces",
+            "annotation": {
+              "type": "racine",
+              "title": "Il bénit — εὐλογέω",
+              "content": "Εὐλογέω signifie dire du bien, bénir. Dans la séquence prendre–lever les yeux–bénir–rompre–donner, la bénédiction reçoit la matière du Père et l’oriente vers la communion.",
+              "related": [
+                "ἀναβλέψας",
+                "κλάσας",
+                "ἔδωκεν"
+              ]
+            }
           },
           {
             "greek": "καὶ",
@@ -524,7 +534,17 @@
           },
           {
             "greek": "κλάσας",
-            "gloss": "ayant_rompu"
+            "gloss": "ayant_rompu",
+            "annotation": {
+              "type": "theologie",
+              "title": "Ayant rompu le pain",
+              "content": "Κλάω signifie rompre. Le geste annonce le langage eucharistique de la fraction du pain : ce qui est rompu n’est pas dispersé, mais donné pour rassembler et nourrir la multitude.",
+              "related": [
+                "εὐλόγησεν",
+                "ἔδωκεν",
+                "μαθηταῖς"
+              ]
+            }
           },
           {
             "greek": "ἔδωκεν",
@@ -903,7 +923,16 @@
         "interlinear": [
           {
             "greek": "Παρακαλῶ",
-            "gloss": "J'exhorte/Je_prie"
+            "gloss": "J'exhorte/Je_prie",
+            "annotation": {
+              "type": "racine",
+              "title": "Appeler auprès de soi — παρακαλέω",
+              "content": "Παρακαλέω peut signifier appeler auprès de soi, exhorter ou encourager. Paul ne fonde pas l’unité sur une contrainte extérieure : il appelle les frères au nom du Seigneur Jésus-Christ.",
+              "related": [
+                "ἀδελφοί,",
+                "ὀνόματος"
+              ]
+            }
           },
           {
             "greek": "δὲ",
