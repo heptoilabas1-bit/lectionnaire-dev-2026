@@ -10,36 +10,137 @@
           "darby": "Et quand il fut arrivé à l'autre rive, dans le pays des Gergéséniens, deux démoniaques, sortant des sépulcres, vinrent à sa rencontre, si très-violents, que personne ne pouvait passer par ce chemin-là."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ἐλθόντι", "gloss": "étant_allé" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "πέραν", "gloss": "autre_côté" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "χώραν", "gloss": "région" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "Γαδαρηνῶν", "gloss": "Gadaréniens" },
-          { "greek": "ὑπήντησαν", "gloss": "vinrent_à_la_rencontre" },
-          { "greek": "αὐτῷ", "gloss": "de_lui" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "δαιμονιζόμενοι", "gloss": "démoniaques", "analyse": "Le verbe 'daimonizomai' (être possédé). L'aliénation ultime du Monde duel. L'homme n'est plus un Sujet, il est entièrement objectivé et possédé par une force de division. Leur lieu de résidence est le tombeau ('mnēmeion'), symbole de la mort ontologique de l'Ego séparé de la Source." },
-          { "greek": "ἐκ", "gloss": "hors_de" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "μνημείων", "gloss": "tombeaux" },
-          { "greek": "ἐξερχόμενοι,", "gloss": "sortant" },
-          { "greek": "χαλεποὶ", "gloss": "féroces/violents" },
-          { "greek": "λίαν,", "gloss": "très" },
-          { "greek": "ὥστε", "gloss": "de_sorte_que" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "ἰσχύειν", "gloss": "avoir_la_force/être_capable" },
-          { "greek": "τινὰ", "gloss": "quelqu'un" },
-          { "greek": "παρελθεῖν", "gloss": "passer" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "τῆς", "gloss": "le" },
-          { "greek": "ὁδοῦ", "gloss": "chemin" },
-          { "greek": "ἐκείνης.", "gloss": "celui-là" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐλθόντι",
+            "gloss": "étant_allé"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "πέραν",
+            "gloss": "autre_côté"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χώραν",
+            "gloss": "région"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "Γαδαρηνῶν",
+            "gloss": "Gadaréniens"
+          },
+          {
+            "greek": "ὑπήντησαν",
+            "gloss": "vinrent_à_la_rencontre"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "δαιμονιζόμενοι",
+            "gloss": "démoniaques",
+            "annotation": {
+              "type": "analyse",
+              "title": "L’homme sous l’emprise de la division",
+              "content": "Approfondissement spirituel : Le verbe 'daimonizomai' (être possédé). L'aliénation ultime du Monde duel. L'homme n'est plus un Sujet, il est entièrement objectivé et possédé par une force de division. Leur lieu de résidence est le tombeau ('mnēmeion'), symbole de la mort ontologique de l'Ego séparé de la Source.",
+              "related": [
+                "αὐτῷ",
+                "δύο",
+                "ἐκ",
+                "τῶν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "hors_de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "μνημείων",
+            "gloss": "tombeaux"
+          },
+          {
+            "greek": "ἐξερχόμενοι,",
+            "gloss": "sortant"
+          },
+          {
+            "greek": "χαλεποὶ",
+            "gloss": "féroces/violents"
+          },
+          {
+            "greek": "λίαν,",
+            "gloss": "très"
+          },
+          {
+            "greek": "ὥστε",
+            "gloss": "de_sorte_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἰσχύειν",
+            "gloss": "avoir_la_force/être_capable"
+          },
+          {
+            "greek": "τινὰ",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "παρελθεῖν",
+            "gloss": "passer"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὁδοῦ",
+            "gloss": "chemin"
+          },
+          {
+            "greek": "ἐκείνης.",
+            "gloss": "celui-là"
+          }
         ]
       },
       {
@@ -49,23 +150,85 @@
           "darby": "Et voici, ils s'écrièrent, disant : Qu'y a-t-il entre nous et toi, Jésus, Fils de Dieu ? Es-tu venu ici avant le temps pour nous tourmenter ?"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "ἔκραξαν", "gloss": "ils_crièrent" },
-          { "greek": "λέγοντες·", "gloss": "disant" },
-          { "greek": "Τί", "gloss": "Quoi" },
-          { "greek": "ἡμῖν", "gloss": "à_nous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "σοί,", "gloss": "à_toi" },
-          { "greek": "υἱὲ", "gloss": "fils" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ;", "gloss": "Dieu" },
-          { "greek": "ἦλθες", "gloss": "es-tu_venu" },
-          { "greek": "ὧδε", "gloss": "ici" },
-          { "greek": "πρὸ", "gloss": "avant" },
-          { "greek": "καιροῦ", "gloss": "le_temps_marqué", "analyse": "Le terme 'kairos' désigne le temps qualitatif, l'opportunité divine. Les démons, forces du savoir 'en plein' et de l'emprise matérielle, connaissent exactement l'échéance de leur défaite. La simple présence du Christ (le Royaume UN) est déjà un tourment pour l'Ego qui refuse de s'ouvrir." },
-          { "greek": "βασανίσαι", "gloss": "tourmenter" },
-          { "greek": "ἡμᾶς;", "gloss": "nous" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ἔκραξαν",
+            "gloss": "ils_crièrent"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "Quoi"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "à_nous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σοί,",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "υἱὲ",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ;",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἦλθες",
+            "gloss": "es-tu_venu"
+          },
+          {
+            "greek": "ὧδε",
+            "gloss": "ici"
+          },
+          {
+            "greek": "πρὸ",
+            "gloss": "avant"
+          },
+          {
+            "greek": "καιροῦ",
+            "gloss": "le_temps_marqué",
+            "annotation": {
+              "type": "traduction",
+              "title": "Le temps décisif — καιρός",
+              "content": "Approfondissement spirituel : Le terme 'kairos' désigne le temps qualitatif, l'opportunité divine. Les démons, forces du savoir 'en plein' et de l'emprise matérielle, connaissent exactement l'échéance de leur défaite. La simple présence du Christ (le Royaume UN) est déjà un tourment pour l'Ego qui refuse de s'ouvrir.",
+              "related": [
+                "ὧδε",
+                "πρὸ",
+                "βασανίσαι",
+                "ἡμᾶς;"
+              ]
+            }
+          },
+          {
+            "greek": "βασανίσαι",
+            "gloss": "tourmenter"
+          },
+          {
+            "greek": "ἡμᾶς;",
+            "gloss": "nous"
+          }
         ]
       },
       {
@@ -75,15 +238,42 @@
           "darby": "Or il y avait loin d'eux un grand troupeau de pourceaux qui paissait."
         },
         "interlinear": [
-          { "greek": "ἦν", "gloss": "Était" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "μακρὰν", "gloss": "loin" },
-          { "greek": "ἀπ’", "gloss": "de" },
-          { "greek": "αὐτῶν", "gloss": "eux" },
-          { "greek": "ἀγέλη", "gloss": "troupeau" },
-          { "greek": "χοίρων", "gloss": "de_porcs" },
-          { "greek": "πολλῶν", "gloss": "beaucoup" },
-          { "greek": "βοσκομένη.", "gloss": "paissant" }
+          {
+            "greek": "ἦν",
+            "gloss": "Était"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "μακρὰν",
+            "gloss": "loin"
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "de"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἀγέλη",
+            "gloss": "troupeau"
+          },
+          {
+            "greek": "χοίρων",
+            "gloss": "de_porcs"
+          },
+          {
+            "greek": "πολλῶν",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "βοσκομένη.",
+            "gloss": "paissant"
+          }
         ]
       },
       {
@@ -93,22 +283,70 @@
           "darby": "Et les démons le priaient, disant : Si tu nous chasses, envoie-nous dans le troupeau de pourceaux."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Les" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "δαίμονες", "gloss": "démons" },
-          { "greek": "παρεκάλουν", "gloss": "priaient/exhortaient" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "λέγοντες·", "gloss": "disant" },
-          { "greek": "Εἰ", "gloss": "Si" },
-          { "greek": "ἐκβάλλεις", "gloss": "tu_chasses" },
-          { "greek": "ἡμᾶς,", "gloss": "nous" },
-          { "greek": "ἀπόστειλον", "gloss": "envoie" },
-          { "greek": "ἡμᾶς", "gloss": "nous" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "ἀγέλην", "gloss": "troupeau" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "χοίρων.", "gloss": "porcs" }
+          {
+            "greek": "οἱ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "δαίμονες",
+            "gloss": "démons"
+          },
+          {
+            "greek": "παρεκάλουν",
+            "gloss": "priaient/exhortaient"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "ἐκβάλλεις",
+            "gloss": "tu_chasses"
+          },
+          {
+            "greek": "ἡμᾶς,",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἀπόστειλον",
+            "gloss": "envoie"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀγέλην",
+            "gloss": "troupeau"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "χοίρων.",
+            "gloss": "porcs"
+          }
         ]
       },
       {
@@ -118,34 +356,129 @@
           "darby": "Et il leur dit : Allez. Et eux, étant sortis, s'en allèrent dans les pourceaux ; et voici, tout le troupeau se rua impétueusement du lieu escarpé dans la mer ; et ils périrent dans les eaux."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἶπεν", "gloss": "il_dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Ὑπάγετε.", "gloss": "Allez" },
-          { "greek": "οἱ", "gloss": "Ceux-ci" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐξελθόντες", "gloss": "étant_sortis" },
-          { "greek": "ἀπῆλθον", "gloss": "s'en_allèrent" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "χοίρους·", "gloss": "porcs" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "ὥρμησεν", "gloss": "s'élança" },
-          { "greek": "πᾶσα", "gloss": "tout" },
-          { "greek": "ἡ", "gloss": "le" },
-          { "greek": "ἀγέλη", "gloss": "troupeau" },
-          { "greek": "κατὰ", "gloss": "contre/en_bas_de" },
-          { "greek": "τοῦ", "gloss": "l'" },
-          { "greek": "κρημνοῦ", "gloss": "escarpement" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "θάλασσαν,", "gloss": "mer", "analyse": "Dans le symbolisme scripturaire, la mer est la matrice du chaos et de la mort. L'élan destructeur de la possession (le paroxysme du Monde duel) conduit inéluctablement à l'engloutissement. Le péché verse rigoureusement le salaire de la mort, alors que le Sujet libéré est rendu à la stabilité de la terre ferme." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀπέθανον", "gloss": "ils_moururent" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τοῖς", "gloss": "les" },
-          { "greek": "ὕδασιν.", "gloss": "eaux" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Ὑπάγετε.",
+            "gloss": "Allez"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "Ceux-ci"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐξελθόντες",
+            "gloss": "étant_sortis"
+          },
+          {
+            "greek": "ἀπῆλθον",
+            "gloss": "s'en_allèrent"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "χοίρους·",
+            "gloss": "porcs"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ὥρμησεν",
+            "gloss": "s'élança"
+          },
+          {
+            "greek": "πᾶσα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀγέλη",
+            "gloss": "troupeau"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "contre/en_bas_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "κρημνοῦ",
+            "gloss": "escarpement"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "θάλασσαν,",
+            "gloss": "mer",
+            "annotation": {
+              "type": "analyse",
+              "title": "La mer et le chaos",
+              "content": "Approfondissement spirituel : Dans le symbolisme scripturaire, la mer est la matrice du chaos et de la mort. L'élan destructeur de la possession (le paroxysme du Monde duel) conduit inéluctablement à l'engloutissement. Le péché verse rigoureusement le salaire de la mort, alors que le Sujet libéré est rendu à la stabilité de la terre ferme.",
+              "related": [
+                "εἰς",
+                "τὴν",
+                "καὶ",
+                "ἀπέθανον"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπέθανον",
+            "gloss": "ils_moururent"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὕδασιν.",
+            "gloss": "eaux"
+          }
         ]
       },
       {
@@ -155,21 +488,66 @@
           "darby": "Et ceux qui les paissaient s'enfuirent, et s'en allant dans la ville, ils racontèrent tout, et ce qui était arrivé aux démoniaques."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Ceux" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "βόσκοντες", "gloss": "paissant" },
-          { "greek": "ἔφυγον,", "gloss": "s'enfuirent" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀπελθόντες", "gloss": "étant_allés" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "πόλιν", "gloss": "ville" },
-          { "greek": "ἀπήγγειλαν", "gloss": "ils_annoncèrent/racontèrent" },
-          { "greek": "πάντα", "gloss": "toutes_choses" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὰ", "gloss": "les_choses" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "δαιμονιζομένων.", "gloss": "démoniaques" }
+          {
+            "greek": "οἱ",
+            "gloss": "Ceux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "βόσκοντες",
+            "gloss": "paissant"
+          },
+          {
+            "greek": "ἔφυγον,",
+            "gloss": "s'enfuirent"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπελθόντες",
+            "gloss": "étant_allés"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πόλιν",
+            "gloss": "ville"
+          },
+          {
+            "greek": "ἀπήγγειλαν",
+            "gloss": "ils_annoncèrent/racontèrent"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "δαιμονιζομένων.",
+            "gloss": "démoniaques"
+          }
         ]
       },
       {
@@ -179,26 +557,96 @@
           "darby": "Et voici, toute la ville sortit au-devant de Jésus ; et l'ayant vu, ils le supplièrent de se retirer de leurs confins."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "πᾶσα", "gloss": "toute" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "πόλις", "gloss": "ville" },
-          { "greek": "ἐξῆλθεν", "gloss": "sortit" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "ὑπάντησιν", "gloss": "rencontre" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "Ἰησοῦ,", "gloss": "Jésus" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰδόντες", "gloss": "ayant_vu" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "παρεκάλεσαν", "gloss": "ils_supplièrent" },
-          { "greek": "ὅπως", "gloss": "afin_que" },
-          { "greek": "μεταβῇ", "gloss": "il_passe_ailleurs/quitte" },
-          { "greek": "ἀπὸ", "gloss": "depuis/de" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ὁρίων", "gloss": "frontières", "analyse": "Le mot 'horion' (frontière, limite). La ville représente le système fermé du Monde duel. Face à la perte de leur cheptel (leur 'Avoir'), les citoyens préfèrent chasser la Grâce et préserver leurs frontières économiques. L'Ego choisit le confort de son enfermement plutôt que le bouleversement libérateur du Royaume UN." },
-          { "greek": "αὐτῶν.", "gloss": "d'eux" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "πᾶσα",
+            "gloss": "toute"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πόλις",
+            "gloss": "ville"
+          },
+          {
+            "greek": "ἐξῆλθεν",
+            "gloss": "sortit"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ὑπάντησιν",
+            "gloss": "rencontre"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "Ἰησοῦ,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδόντες",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "παρεκάλεσαν",
+            "gloss": "ils_supplièrent"
+          },
+          {
+            "greek": "ὅπως",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μεταβῇ",
+            "gloss": "il_passe_ailleurs/quitte"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis/de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὁρίων",
+            "gloss": "frontières",
+            "annotation": {
+              "type": "racine",
+              "title": "Les limites — ὅρια",
+              "content": "Approfondissement spirituel : Le mot 'horion' (frontière, limite). La ville représente le système fermé du Monde duel. Face à la perte de leur cheptel (leur 'Avoir'), les citoyens préfèrent chasser la Grâce et préserver leurs frontières économiques. L'Ego choisit le confort de son enfermement plutôt que le bouleversement libérateur du Royaume UN.",
+              "related": [
+                "ἀπὸ",
+                "τῶν",
+                "αὐτῶν."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "d'eux"
+          }
         ]
       },
       {
@@ -208,17 +656,50 @@
           "darby": "Et étant monté dans une nacelle, il passa à l'autre bord, et vint dans sa propre ville."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ἐμβὰς", "gloss": "étant_monté" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "πλοῖον", "gloss": "barque" },
-          { "greek": "διεπέρασεν,", "gloss": "il_traversa" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἦλθεν", "gloss": "il_vint" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἰδίαν", "gloss": "propre" },
-          { "greek": "πόλιν.", "gloss": "ville" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐμβὰς",
+            "gloss": "étant_monté"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πλοῖον",
+            "gloss": "barque"
+          },
+          {
+            "greek": "διεπέρασεν,",
+            "gloss": "il_traversa"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "il_vint"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἰδίαν",
+            "gloss": "propre"
+          },
+          {
+            "greek": "πόλιν.",
+            "gloss": "ville"
+          }
         ]
       }
     ],
@@ -229,9 +710,97 @@
         "note": "Darby insère le nom 'Jésus' dans son texte ('Qu'y a-t-il entre nous et toi, Jésus'), s'alignant sur le Texte Reçu. Segond l'omet, suivant les manuscrits majoritaires (Nestle-Aland). L'interlinéaire respecte strictement le texte source grec où ce nom est absent, créant le 'trou' lexical face à la traduction de Darby."
       }
     ],
-   "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 28 - ἐκ τῶν μνημείων (ek tōn mnēmeiōn) : Segond traduit par 'sortant des sépulcres' ou 'des tombeaux'. Le mot grec *mnēmeion* dérive directement de la racine de la mémoire (*mnēmē*). Les possédés ne sont pas seulement dans un cimetière géographique ; ils sont emprisonnés dans le mémorial de la mort. L'homme totalement aliéné par le 'Monde duel' est celui qui a perdu l'espérance de l'Évangile pour s'enfermer dans la rumination morbide du passé, réduit à un cadavre ambulant coupé de la source de Vie.\n\n• Verset 30 - ἀγέλη χοίρων (agelē choirōn) : 'Un troupeau de pourceaux'. Le mot *agelē* (le troupeau, la harde) souligne l'aspect de masse grégaire et indifférenciée. Les démons, légion multiple et chaotique, demandent à entrer dans ce troupeau animal. C'est l'image de la foule mondaine par excellence : une multitude sans Sujet véritable, guidée par des pulsions de consommation inférieures, et qui finit inévitablement par s'engloutir dans l'abîme (la mer, symbole biblique du chaos originel).\n\n• Verset 34 - μεταβῇ ἀπὸ τῶν ὁρίων αὐτῶν (metabē apo tōn horiōn autōn) : Traduit par 'ils le supplièrent de quitter leur territoire'. Le terme *horia* (les limites, les frontières, racine du mot 'horizon') est fondamental ici. Face à la résurrection spirituelle de deux de leurs frères, les Gadaréniens s'inquiètent uniquement pour la violation de leurs limites géographiques et économiques. Chasser l'Incréé en dehors de ses *horia*, c'est le refus tragique du Monde duel de s'ouvrir à l'Infini, préférant la sécurité mortifère de l'enclos à la libération kénotique.\n\nAnalyse mystagogique (L'Évangile) :\n\nCe texte brutal du 5ème dimanche expose l'affrontement direct entre l'Incréé et la possession démoniaque, caricature absolue de l'emprise du Monde duel.\n\n1. L'objectivation totale de l'homme\nLes démoniaques habitent les tombeaux. Le Monde duel, lorsqu'il coupe l'homme de la Grâce, finit toujours par le réduire à l'état de cadavre spirituel. L'homme n'est plus un Sujet libre, il est entièrement objectivé par les passions, jouet d'une force mimétique et destructrice qui l'isole ('personne ne pouvait passer'). L'ego séparé mène à la folie de l'enfermement.\n\n2. La Kénose refusée par la foule\nLe drame culmine avec la réaction de la ville de Gadara. Les citoyens constatent la libération des hommes (le triomphe de l'Être sur la possession), mais ils constatent surtout la perte de leurs porcs (la destruction de leur Avoir). Incapable de l'abandon kénotique, la foule supplie le Christ de partir. C'est la réaction typique de l'Arbre de la Connaissance : préserver son capital économique, sécuriser ses frontières ('horia') et repousser l'Énergie divine si celle-ci exige de lâcher le contrôle matériel." 
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 28 - ἐκ τῶν μνημείων (ek tōn mnēmeiōn) : Segond traduit par 'sortant des sépulcres' ou 'des tombeaux'. Le mot grec *mnēmeion* dérive directement de la racine de la mémoire (*mnēmē*). Les possédés ne sont pas seulement dans un cimetière géographique ; ils sont emprisonnés dans le mémorial de la mort. L'homme totalement aliéné par le 'Monde duel' est celui qui a perdu l'espérance de l'Évangile pour s'enfermer dans la rumination morbide du passé, réduit à un cadavre ambulant coupé de la source de Vie.\n\n• Verset 30 - ἀγέλη χοίρων (agelē choirōn) : 'Un troupeau de pourceaux'. Le mot *agelē* (le troupeau, la harde) souligne l'aspect de masse grégaire et indifférenciée. Les démons, légion multiple et chaotique, demandent à entrer dans ce troupeau animal. C'est l'image de la foule mondaine par excellence : une multitude sans Sujet véritable, guidée par des pulsions de consommation inférieures, et qui finit inévitablement par s'engloutir dans l'abîme (la mer, symbole biblique du chaos originel).\n\n• Verset 34 - μεταβῇ ἀπὸ τῶν ὁρίων αὐτῶν (metabē apo tōn horiōn autōn) : Traduit par 'ils le supplièrent de quitter leur territoire'. Le terme *horia* (les limites, les frontières, racine du mot 'horizon') est fondamental ici. Face à la résurrection spirituelle de deux de leurs frères, les Gadaréniens s'inquiètent uniquement pour la violation de leurs limites géographiques et économiques. Chasser l'Incréé en dehors de ses *horia*, c'est le refus tragique du Monde duel de s'ouvrir à l'Infini, préférant la sécurité mortifère de l'enclos à la libération kénotique.\n\nAnalyse mystagogique (L'Évangile) :\n\nCe texte brutal du 5ème dimanche expose l'affrontement direct entre l'Incréé et la possession démoniaque, caricature absolue de l'emprise du Monde duel.\n\n1. L'objectivation totale de l'homme\nLes démoniaques habitent les tombeaux. Le Monde duel, lorsqu'il coupe l'homme de la Grâce, finit toujours par le réduire à l'état de cadavre spirituel. L'homme n'est plus un Sujet libre, il est entièrement objectivé par les passions, jouet d'une force mimétique et destructrice qui l'isole ('personne ne pouvait passer'). L'ego séparé mène à la folie de l'enfermement.\n\n2. La Kénose refusée par la foule\nLe drame culmine avec la réaction de la ville de Gadara. Les citoyens constatent la libération des hommes (le triomphe de l'Être sur la possession), mais ils constatent surtout la perte de leurs porcs (la destruction de leur Avoir). Incapable de l'abandon kénotique, la foule supplie le Christ de partir. C'est la réaction typique de l'Arbre de la Connaissance : préserver son capital économique, sécuriser ses frontières ('horia') et repousser l'Énergie divine si celle-ci exige de lâcher le contrôle matériel.\n\nComplément de lecture : le récit est encadré par des mouvements de franchissement : Jésus passe sur l’autre rive, les possédés sortent des tombeaux, les démons sont expulsés, la ville sort à sa rencontre, puis lui demande de sortir de ses limites. La délivrance révèle ainsi ce que chacun consent — ou refuse — à laisser entrer dans son territoire.",
+    "homiletic_axes": [
+      {
+        "title": "Sortir des tombeaux",
+        "content": "Le Christ rejoint ceux que la mort et la division ont retranchés de toute relation. La délivrance rouvre un passage là où nul ne pouvait plus passer.",
+        "keywords": [
+          "δαιμονιζόμενοι",
+          "μνημείων",
+          "ἐξερχόμενοι,",
+          "ὁδοῦ"
+        ]
+      },
+      {
+        "title": "Une puissance qui se détruit elle-même",
+        "content": "Le troupeau se précipite vers l’abîme : le récit rend visible la logique mortifère de l’emprise démoniaque, sans réduire les personnes délivrées à leur ancienne possession.",
+        "keywords": [
+          "δαίμονες",
+          "ἀγέλην",
+          "κρημνοῦ",
+          "θάλασσαν,"
+        ]
+      },
+      {
+        "title": "Préférer les limites à la délivrance",
+        "content": "Toute la ville voit Jésus, mais lui demande de quitter son territoire. La perte économique peut rendre invisible la restauration de deux vies humaines.",
+        "keywords": [
+          "πόλις",
+          "ἰδόντες",
+          "παρεκάλεσαν",
+          "ὁρίων"
+        ]
+      },
+      {
+        "title": "La parole proche du cœur",
+        "content": "L’Apôtre répond au refus de Gadara : le salut n’est pas à tenir hors de nos frontières ni à conquérir au loin ; la parole est proche, dans le cœur et la bouche.",
+        "keywords": [
+          "Ἐγγύς",
+          "ῥῆμά",
+          "στόματί",
+          "καρδίᾳ"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement le fil qui vous appelle dans les deux lectures du 5e dimanche après la Pentecôte : un geste, une parole, un contraste, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez le mouvement propre de l’Évangile, puis regardez comment l’Apôtre le déplace, l’approfondit ou en montre le fruit ecclésial. Vous pouvez aussi ne retenir qu’une seule correspondance."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit ou donne ici. Gardez le Christ au centre et distinguez cette annonce des exigences qui en découlent."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par ces textes : peur, enfermement, faiblesse, division, manque, besoin d’être porté ou difficulté à accueillir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans dicter une conduite uniforme : accueillir, demander, porter, partager, bénir, se laisser relever ou restaurer une communion."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression claire. Présentez les interprétations symboliques comme une lecture spirituelle, non comme le seul sens du texte, et évitez toute promesse automatique de guérison ou de réussite."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la frontière fermée à la parole proche",
+        "reference": "Matthieu 8, 28 – 9, 1 ; Romains 10, 1-10",
+        "content": "À Gadara, une ville demande au Christ de quitter ses limites ; Paul annonce une parole qui n’est pas lointaine mais proche, dans la bouche et dans le cœur. Les lectures placent ensemble la délivrance offerte et la liberté de l’accueillir.",
+        "connections": []
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Romains 10, 1-10",
     "title": "La Justice du Cœur : L'effondrement du savoir légal et la kénose de la Foi",
     "interlinear": [
@@ -242,23 +811,74 @@
           "darby": "Frères, le souhait de mon coeur et la supplication que je fais à Dieu pour eux, c'est qu'ils soient sauvés."
         },
         "interlinear": [
-          { "greek": "Ἀδελφοί,", "gloss": "Frères" },
-          { "greek": "ἡ", "gloss": "le" },
-          { "greek": "μὲν", "gloss": "certes/en_vérité" },
-          { "greek": "εὐδοκία", "gloss": "bienveillance/vœu" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ἐμῆς", "gloss": "mienne" },
-          { "greek": "καρδίας", "gloss": "cœur" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "δέησις", "gloss": "prière/supplication" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεὸν", "gloss": "Dieu" },
-          { "greek": "ὑπὲρ", "gloss": "pour/en_faveur_de" },
-          { "greek": "αὐτῶν", "gloss": "eux" },
-          { "greek": "εἰς", "gloss": "pour/vers" },
-          { "greek": "σωτηρίαν.", "gloss": "salut" }
+          {
+            "greek": "Ἀδελφοί,",
+            "gloss": "Frères"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "certes/en_vérité"
+          },
+          {
+            "greek": "εὐδοκία",
+            "gloss": "bienveillance/vœu"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἐμῆς",
+            "gloss": "mienne"
+          },
+          {
+            "greek": "καρδίας",
+            "gloss": "cœur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δέησις",
+            "gloss": "prière/supplication"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour/en_faveur_de"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour/vers"
+          },
+          {
+            "greek": "σωτηρίαν.",
+            "gloss": "salut"
+          }
         ]
       },
       {
@@ -268,17 +888,59 @@
           "darby": "Car je leur rends témoignage qu'ils ont du zèle pour Dieu, mais non selon la connaissance."
         },
         "interlinear": [
-          { "greek": "μαρτυρῶ", "gloss": "Je_rends_témoignage" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "ζῆλον", "gloss": "zèle" },
-          { "greek": "θεοῦ", "gloss": "de_Dieu" },
-          { "greek": "ἔχουσιν,", "gloss": "ils_ont" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "κατ’", "gloss": "selon" },
-          { "greek": "ἐπίγνωσιν·", "gloss": "connaissance/discernement", "analyse": "L'épignōsis (ἐπίγνωσιν) n'est pas un savoir abstrait et cumulatif, mais une connaissance expérientielle et unifiante. L'Ego mondain (la foule religieuse) possède un 'zèle' pour Dieu, mais il est dénué de cette vision intérieure. Il s'enferme dans l'Arbre de la Connaissance, croyant posséder l'Incréé par l'application mathématique d'une loi." }
+          {
+            "greek": "μαρτυρῶ",
+            "gloss": "Je_rends_témoignage"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ζῆλον",
+            "gloss": "zèle"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "ἔχουσιν,",
+            "gloss": "ils_ont"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "selon"
+          },
+          {
+            "greek": "ἐπίγνωσιν·",
+            "gloss": "connaissance/discernement",
+            "annotation": {
+              "type": "traduction",
+              "title": "Zèle et connaissance juste",
+              "content": "Approfondissement spirituel : L'épignōsis (ἐπίγνωσιν) n'est pas un savoir abstrait et cumulatif, mais une connaissance expérientielle et unifiante. L'Ego mondain (la foule religieuse) possède un 'zèle' pour Dieu, mais il est dénué de cette vision intérieure. Il s'enferme dans l'Arbre de la Connaissance, croyant posséder l'Incréé par l'application mathématique d'une loi.",
+              "related": [
+                "οὐ",
+                "κατ’"
+              ]
+            }
+          }
         ]
       },
       {
@@ -288,24 +950,89 @@
           "darby": "Car ignorant la justice de Dieu et cherchant à établir leur propre justice, ils ne se sont pas soumis à la justice de Dieu."
         },
         "interlinear": [
-          { "greek": "ἀγνοοῦντες", "gloss": "ignorant" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "δικαιοσύνην,", "gloss": "justice" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἰδίαν", "gloss": "propre", "analyse": "Leur propre justice (τὴν ἰδίαν). Le propre du Monde duel est de chercher toujours à s'auto-justifier, à construire son propre salut par ses forces ('l'Avoir'). Ce besoin d'autosuffisance empêche la kénose, car il refuse de se soumettre (hypotassō) au 'creux' réceptif indispensable pour accueillir la justice divine comme un pur don." },
-          { "greek": "δικαιοσύνην", "gloss": "justice" },
-          { "greek": "ζητοῦντες", "gloss": "cherchant" },
-          { "greek": "στῆσαι,", "gloss": "à_établir" },
-          { "greek": "τῇ", "gloss": "à_la" },
-          { "greek": "δικαιοσύνῃ", "gloss": "justice" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "οὐχ", "gloss": "ne...pas" },
-          { "greek": "ὑπετάγησαν·", "gloss": "ils_se_sont_soumis" }
+          {
+            "greek": "ἀγνοοῦντες",
+            "gloss": "ignorant"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "δικαιοσύνην,",
+            "gloss": "justice"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἰδίαν",
+            "gloss": "propre",
+            "annotation": {
+              "type": "repetition",
+              "title": "Établir sa propre justice",
+              "content": "Approfondissement spirituel : Leur propre justice (τὴν ἰδίαν). Le propre du Monde duel est de chercher toujours à s'auto-justifier, à construire son propre salut par ses forces ('l'Avoir'). Ce besoin d'autosuffisance empêche la kénose, car il refuse de se soumettre (hypotassō) au 'creux' réceptif indispensable pour accueillir la justice divine comme un pur don.",
+              "related": [
+                "καὶ",
+                "τὴν",
+                "δικαιοσύνην",
+                "ζητοῦντες"
+              ]
+            }
+          },
+          {
+            "greek": "δικαιοσύνην",
+            "gloss": "justice"
+          },
+          {
+            "greek": "ζητοῦντες",
+            "gloss": "cherchant"
+          },
+          {
+            "greek": "στῆσαι,",
+            "gloss": "à_établir"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "δικαιοσύνῃ",
+            "gloss": "justice"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "οὐχ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ὑπετάγησαν·",
+            "gloss": "ils_se_sont_soumis"
+          }
         ]
       },
       {
@@ -315,15 +1042,42 @@
           "darby": "car Christ est la fin de la loi pour justice à tout croyant."
         },
         "interlinear": [
-          { "greek": "τέλος", "gloss": "fin/accomplissement" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "νόμου", "gloss": "de_la_loi" },
-          { "greek": "Χριστὸς", "gloss": "Christ" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "δικαιοσύνην", "gloss": "justice" },
-          { "greek": "παντὶ", "gloss": "à_tout" },
-          { "greek": "τῷ", "gloss": "le/celui_qui" },
-          { "greek": "πιστεύοντι.", "gloss": "croyant" }
+          {
+            "greek": "τέλος",
+            "gloss": "fin/accomplissement"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "νόμου",
+            "gloss": "de_la_loi"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "δικαιοσύνην",
+            "gloss": "justice"
+          },
+          {
+            "greek": "παντὶ",
+            "gloss": "à_tout"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le/celui_qui"
+          },
+          {
+            "greek": "πιστεύοντι.",
+            "gloss": "croyant"
+          }
         ]
       },
       {
@@ -333,22 +1087,70 @@
           "darby": "Car Moïse décrit la justice qui vient de la loi: L'homme qui aura fait ces choses vivra par elles."
         },
         "interlinear": [
-          { "greek": "Μωϋσῆς", "gloss": "Moïse" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "γράφει", "gloss": "écrit" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "δικαιοσύνην", "gloss": "justice" },
-          { "greek": "τὴν", "gloss": "celle" },
-          { "greek": "ἐκ", "gloss": "issue_de" },
-          { "greek": "νόμου", "gloss": "la_loi" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "ποιήσας", "gloss": "ayant_fait" },
-          { "greek": "αὐτὰ", "gloss": "ces_choses" },
-          { "greek": "ἄνθρωπος", "gloss": "homme" },
-          { "greek": "ζήσεται", "gloss": "vivra" },
-          { "greek": "ἐν", "gloss": "en/par" },
-          { "greek": "αὐτοῖς.", "gloss": "elles" }
+          {
+            "greek": "Μωϋσῆς",
+            "gloss": "Moïse"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "γράφει",
+            "gloss": "écrit"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "δικαιοσύνην",
+            "gloss": "justice"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "celle"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "issue_de"
+          },
+          {
+            "greek": "νόμου",
+            "gloss": "la_loi"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ποιήσας",
+            "gloss": "ayant_fait"
+          },
+          {
+            "greek": "αὐτὰ",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "ἄνθρωπος",
+            "gloss": "homme"
+          },
+          {
+            "greek": "ζήσεται",
+            "gloss": "vivra"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/par"
+          },
+          {
+            "greek": "αὐτοῖς.",
+            "gloss": "elles"
+          }
         ]
       },
       {
@@ -358,28 +1160,105 @@
           "darby": "Mais la justice qui est sur le principe de la foi parle ainsi: Ne dis pas en ton coeur: Qui montera au ciel? c'est à dire pour faire descendre Christ;"
         },
         "interlinear": [
-          { "greek": "ἡ", "gloss": "La" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "ἐκ", "gloss": "issue_de" },
-          { "greek": "πίστεως", "gloss": "foi" },
-          { "greek": "δικαιοσύνη", "gloss": "justice" },
-          { "greek": "οὕτως", "gloss": "ainsi" },
-          { "greek": "λέγει·", "gloss": "parle" },
-          { "greek": "Μὴ", "gloss": "Ne...pas" },
-          { "greek": "εἴπῃς", "gloss": "dis" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "καρδίᾳ", "gloss": "cœur" },
-          { "greek": "σου·", "gloss": "de_toi" },
-          { "greek": "Τίς", "gloss": "Qui" },
-          { "greek": "ἀναβήσεται", "gloss": "montera" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "οὐρανόν;", "gloss": "ciel" },
-          { "greek": "τοῦτ’", "gloss": "ceci" },
-          { "greek": "ἔστιν", "gloss": "est", "analyse": "Le refus des conquêtes spatiales de l'Ego. L'homme du Monde duel cherche perpétuellement à 'monter' ou 'descendre', s'imaginant devoir maîtriser l'espace pour attraper l'Incréé. La foi orthodoxe (Arbre de Vie) inverse ce mouvement : elle renonce à la préhension extérieure pour accueillir le Christ qui s'est déjà abaissé vers nous." },
-          { "greek": "Χριστὸν", "gloss": "Christ" },
-          { "greek": "καταγαγεῖν·", "gloss": "faire_descendre" }
+          {
+            "greek": "ἡ",
+            "gloss": "La"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "issue_de"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi"
+          },
+          {
+            "greek": "δικαιοσύνη",
+            "gloss": "justice"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "λέγει·",
+            "gloss": "parle"
+          },
+          {
+            "greek": "Μὴ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "εἴπῃς",
+            "gloss": "dis"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "καρδίᾳ",
+            "gloss": "cœur"
+          },
+          {
+            "greek": "σου·",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "Τίς",
+            "gloss": "Qui"
+          },
+          {
+            "greek": "ἀναβήσεται",
+            "gloss": "montera"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὐρανόν;",
+            "gloss": "ciel"
+          },
+          {
+            "greek": "τοῦτ’",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ni monter ni descendre",
+              "content": "Approfondissement spirituel : Le refus des conquêtes spatiales de l'Ego. L'homme du Monde duel cherche perpétuellement à 'monter' ou 'descendre', s'imaginant devoir maîtriser l'espace pour attraper l'Incréé. La foi orthodoxe (Arbre de Vie) inverse ce mouvement : elle renonce à la préhension extérieure pour accueillir le Christ qui s'est déjà abaissé vers nous.",
+              "related": [
+                "οὐρανόν;",
+                "τοῦτ’",
+                "Χριστὸν",
+                "καταγαγεῖν·"
+              ]
+            }
+          },
+          {
+            "greek": "Χριστὸν",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "καταγαγεῖν·",
+            "gloss": "faire_descendre"
+          }
         ]
       },
       {
@@ -389,18 +1268,54 @@
           "darby": "ou: Qui descendra dans l'abîme? c'est à dire pour faire remonter Christ d'entre les morts."
         },
         "interlinear": [
-          { "greek": "ἤ·", "gloss": "ou" },
-          { "greek": "Τίς", "gloss": "Qui" },
-          { "greek": "καταβήσεται", "gloss": "descendra" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἄβυσσον;", "gloss": "abîme" },
-          { "greek": "τοῦτ’", "gloss": "ceci" },
-          { "greek": "ἔστιν", "gloss": "est" },
-          { "greek": "Χριστὸν", "gloss": "Christ" },
-          { "greek": "ἐκ", "gloss": "d'entre" },
-          { "greek": "νεκρῶν", "gloss": "les_morts" },
-          { "greek": "ἀναγαγεῖν.", "gloss": "faire_remonter" }
+          {
+            "greek": "ἤ·",
+            "gloss": "ou"
+          },
+          {
+            "greek": "Τίς",
+            "gloss": "Qui"
+          },
+          {
+            "greek": "καταβήσεται",
+            "gloss": "descendra"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἄβυσσον;",
+            "gloss": "abîme"
+          },
+          {
+            "greek": "τοῦτ’",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "Χριστὸν",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "d'entre"
+          },
+          {
+            "greek": "νεκρῶν",
+            "gloss": "les_morts"
+          },
+          {
+            "greek": "ἀναγαγεῖν.",
+            "gloss": "faire_remonter"
+          }
         ]
       },
       {
@@ -410,31 +1325,117 @@
           "darby": "Mais que dit-elle? La parole est près de toi, dans ta bouche et dans ton coeur: c'est la parole de la foi, laquelle nous prêchons,"
         },
         "interlinear": [
-          { "greek": "ἀλλὰ", "gloss": "Mais" },
-          { "greek": "τί", "gloss": "que" },
-          { "greek": "λέγει;", "gloss": "dit-elle" },
-          { "greek": "Ἐγγύς", "gloss": "Près" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "ῥῆμά", "gloss": "parole" },
-          { "greek": "ἐστιν,", "gloss": "est" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "στόματί", "gloss": "bouche" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "καρδίᾳ", "gloss": "cœur", "analyse": "Dans la mystagogie et l'hésychasme roumain, le cœur (kardia) n'est pas le simple siège des émotions, mais le centre ontologique de l'homme, l'autel de la liturgie intérieure. C'est là que le 'Nous' (l'intellect spirituel) doit descendre pour s'unifier. La Parole n'est plus un objet extérieur à saisir, elle habite ce centre purifié." },
-          { "greek": "σου·", "gloss": "de_toi" },
-          { "greek": "τοῦτ’", "gloss": "ceci" },
-          { "greek": "ἔστιν", "gloss": "est" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "ῥῆμα", "gloss": "parole" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "πίστεως", "gloss": "foi" },
-          { "greek": "ὃ", "gloss": "laquelle" },
-          { "greek": "κηρύσσομεν.", "gloss": "nous_prêchons" }
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "Mais"
+          },
+          {
+            "greek": "τί",
+            "gloss": "que"
+          },
+          {
+            "greek": "λέγει;",
+            "gloss": "dit-elle"
+          },
+          {
+            "greek": "Ἐγγύς",
+            "gloss": "Près"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ῥῆμά",
+            "gloss": "parole"
+          },
+          {
+            "greek": "ἐστιν,",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "στόματί",
+            "gloss": "bouche"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "καρδίᾳ",
+            "gloss": "cœur",
+            "annotation": {
+              "type": "theologie",
+              "title": "Le cœur, centre de la personne",
+              "content": "Approfondissement spirituel : Dans la mystagogie et l'hésychasme roumain, le cœur (kardia) n'est pas le simple siège des émotions, mais le centre ontologique de l'homme, l'autel de la liturgie intérieure. C'est là que le 'Nous' (l'intellect spirituel) doit descendre pour s'unifier. La Parole n'est plus un objet extérieur à saisir, elle habite ce centre purifié.",
+              "related": [
+                "ἐν",
+                "τῇ",
+                "σου·",
+                "τοῦτ’"
+              ]
+            }
+          },
+          {
+            "greek": "σου·",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "τοῦτ’",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ῥῆμα",
+            "gloss": "parole"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "κηρύσσομεν.",
+            "gloss": "nous_prêchons"
+          }
         ]
       },
       {
@@ -444,29 +1445,109 @@
           "darby": "savoir que, si tu confesses de ta bouche Jésus comme Seigneur et que tu croies dans ton coeur que Dieu l'a ressuscité d'entre les morts, tu seras sauvé."
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "que/savoir_que" },
-          { "greek": "ἐὰν", "gloss": "si" },
-          { "greek": "ὁμολογήσῃς", "gloss": "tu_confesses", "analyse": "Le verbe 'homologeo' (dire la même parole, entrer en résonance). Le Sujet, dont le cœur a été évidé de l'Ego et rempli par le Logos, ne récite plus une doctrine dogmatique. Il 'dit avec' (homou-logos) le Christ. La confession de la bouche, propre à l'axe de l'Ouïe et de la Parole de la Pentecôte, est le fruit naturel du cœur transfiguré." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "στόματί", "gloss": "bouche" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "κύριον", "gloss": "Seigneur" },
-          { "greek": "Ἰησοῦν,", "gloss": "Jésus" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πιστεύσῃς", "gloss": "tu_crois" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "καρδίᾳ", "gloss": "cœur" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἤγειρεν", "gloss": "a_réveillé/ressuscité" },
-          { "greek": "ἐκ", "gloss": "d'entre" },
-          { "greek": "νεκρῶν,", "gloss": "les_morts" },
-          { "greek": "σωθήσῃ·", "gloss": "tu_seras_sauvé" }
+          {
+            "greek": "ὅτι",
+            "gloss": "que/savoir_que"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "ὁμολογήσῃς",
+            "gloss": "tu_confesses",
+            "annotation": {
+              "type": "racine",
+              "title": "Confesser — ὁμολογέω",
+              "content": "Approfondissement spirituel : Le verbe 'homologeo' (dire la même parole, entrer en résonance). Le Sujet, dont le cœur a été évidé de l'Ego et rempli par le Logos, ne récite plus une doctrine dogmatique. Il 'dit avec' (homou-logos) le Christ. La confession de la bouche, propre à l'axe de l'Ouïe et de la Parole de la Pentecôte, est le fruit naturel du cœur transfiguré.",
+              "related": [
+                "ὅτι",
+                "ἐὰν",
+                "ἐν",
+                "τῷ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "στόματί",
+            "gloss": "bouche"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "κύριον",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "Ἰησοῦν,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πιστεύσῃς",
+            "gloss": "tu_crois"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "καρδίᾳ",
+            "gloss": "cœur"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἤγειρεν",
+            "gloss": "a_réveillé/ressuscité"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "d'entre"
+          },
+          {
+            "greek": "νεκρῶν,",
+            "gloss": "les_morts"
+          },
+          {
+            "greek": "σωθήσῃ·",
+            "gloss": "tu_seras_sauvé"
+          }
         ]
       },
       {
@@ -476,19 +1557,111 @@
           "darby": "car du coeur on croit à justice, et de la bouche on confesse à salut."
         },
         "interlinear": [
-         { "greek": "καρδίᾳ", "gloss": "Du_cœur" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "πιστεύεται", "gloss": "il_est_cru", "analyse": "Verbe au passif (impersonnel 'on croit'). Segond et Darby traduisent par 'on', mais le passif grec souligne la réceptivité eucharistique : le salut n'est pas une conquête active de l'Ego, mais un état de disponibilité où la foi est reçue." },
-          { "greek": "εἰς", "gloss": "pour/vers" },
-          { "greek": "δικαιοσύνην,", "gloss": "justice" },
-          { "greek": "στόματι", "gloss": "de_la_bouche" },
-          { "greek": "δὲ", "gloss": "et/or" },
-          { "greek": "ὁμολογεῖται", "gloss": "il_est_confessé", "analyse": "Passif impersonnel. Ici encore, la traduction par 'on' chez Segond/Darby masque la dimension de résonance ontologique : le Sujet, évidé de son masque social, devient le lieu où la confession de la Vérité se dit elle-même." },
-          { "greek": "εἰς", "gloss": "pour/vers" },
-          { "greek": "σωτηρίαν.", "gloss": "salut" }
+          {
+            "greek": "καρδίᾳ",
+            "gloss": "Du_cœur"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "πιστεύεται",
+            "gloss": "il_est_cru",
+            "annotation": {
+              "type": "traduction",
+              "title": "Croire du cœur",
+              "content": "La forme πιστεύεται est un présent passif employé ici de manière impersonnelle : « avec le cœur, on croit ». La grammaire seule ne permet pas d’affirmer que la foi serait passivement reçue ; le verset unit plutôt l’adhésion du cœur à la justice.",
+              "related": [
+                "καρδίᾳ",
+                "γὰρ",
+                "εἰς",
+                "δικαιοσύνην,"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour/vers"
+          },
+          {
+            "greek": "δικαιοσύνην,",
+            "gloss": "justice"
+          },
+          {
+            "greek": "στόματι",
+            "gloss": "de_la_bouche"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "et/or"
+          },
+          {
+            "greek": "ὁμολογεῖται",
+            "gloss": "il_est_confessé",
+            "annotation": {
+              "type": "traduction",
+              "title": "Confesser de la bouche",
+              "content": "La forme ὁμολογεῖται est un présent passif employé de manière impersonnelle : « avec la bouche, on confesse ». Le parallèle avec le cœur montre une personne unifiée : la confession extérieure correspond à la foi intérieure.",
+              "related": [
+                "στόματι",
+                "δὲ",
+                "εἰς",
+                "σωτηρίαν."
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour/vers"
+          },
+          {
+            "greek": "σωτηρίαν.",
+            "gloss": "salut"
+          }
         ]
       }
     ],
- "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 2 - κατ' ἐπίγνωσιν (kat' epignōsin) : Souvent traduit par 'sans intelligence' ou 'sans une pleine connaissance' (Segond). Le mot grec *epignosis* dépasse la simple *gnosis* (le savoir intellectuel textuel). Le préfixe *epi* indique une implication, une connaissance relationnelle, intime et expérientielle. Le drame du zèle religieux mondain, c'est de s'agiter frénétiquement autour d'un savoir 'en plein', tout en manquant tragiquement l'expérience intérieure de la Grâce.\n\n• Verset 3 - τὴν ἰδίαν ζητοῦντες στῆσαι (tēn idian zētountes stēsai) : Traduit par 'cherchant à établir leur propre justice'. L'adjectif *idios* (propre, privé, séparé) révèle la pathologie du 'Monde duel' : la privatisation du salut. Quant au verbe *histemi* (établir, dresser), il évoque la construction d'un monument ou d'une idole. L'Ego cherche à ériger son salut comme une tour de Babel, au lieu de s'agenouiller dans le creux de la kénose pour recevoir la vie incréée.\n\n• Verset 8 - τὸ ῥῆμά ἐστιν (to rhēma estin) : 'La parole est près de toi'. Le grec utilise ici *rhēma* et non *logos*. Alors que le *logos* désigne souvent la structure, le Verbe éternel ou le discours, le *rhēma* est l'événement de la parole, le souffle vivant en train de s'énoncer. Cette Parole n'est pas un code moral extérieur qu'il faudrait aller conquérir au ciel ou dans l'abîme ; c'est une Énergie vibratoire vivante qui vient déposer sa semence directement dans la matrice du cœur (*kardia*).\n\nAnalyse spirituelle et mystagogique :\n\nL'Apôtre de ce 5ème dimanche répond admirablement à l'Évangile des démoniaques gadaréniens. Alors que les habitants de Gadara refusent le Christ pour préserver leur 'Avoir' matériel et leur confort extérieur, l'Épître aux Romains recentre le salut sur l'intériorité absolue du Sujet, au cœur de la tradition philocalique.\n\n1. La chute du Savoir 'en plein'\nPaul décrit le zèle des enfants d'Israël, mais précise qu'il est 'sans intelligence' (epignōsis, la connaissance expérientielle). Le Monde duel, même lorsqu'il se veut religieux, bâtit des systèmes d'autosuffisance. Il cherche à 'établir sa propre justice' (v. 3), transformant la Loi en un Arbre de la Connaissance où l'homme croit pouvoir forcer l'Incréé par ses propres exploits ('monter au ciel' ou 'descendre dans l'abîme'). L'Ego se fatigue dans une gesticulation extérieure.\n\n2. Le Cœur comme 'Creux' de la Foi\nLa foi orthodoxe inverse cette dynamique d'appropriation spatiale. La Parole n'est pas loin, elle n'est pas à conquérir : elle est 'dans ta bouche et dans ton cœur'. Dans la mystagogie roumaine, le cœur est l'autel profond où l'intelligence (*Nous*) doit se retirer et s'apaiser. En renonçant à chercher sa propre justice, le Sujet opère une kénose, un évidement salutaire (l'Arbre de Vie). C'est dans ce creux silencieux que l'Esprit Saint vient se déposer.\n\n3. L'Ouïe et la Confession\nLa pédagogie des sens trouve ici son achèvement : la foi naît de ce qui s'entend intérieurement, et aboutit à la confession de la bouche (*homologeo*). Le Sujet unifié ne produit plus le bruit chaotique et agressif des démoniaques gadaréniens, mais la résonance pure du Logos. La justification et le salut ne relèvent donc pas d'une transaction extérieure, mais de cet engendrement mutuel où la Parole habite le cœur et jaillit par les lèvres."  
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 2 - κατ' ἐπίγνωσιν (kat' epignōsin) : Souvent traduit par 'sans intelligence' ou 'sans une pleine connaissance' (Segond). Le mot grec *epignosis* dépasse la simple *gnosis* (le savoir intellectuel textuel). Le préfixe *epi* indique une implication, une connaissance relationnelle, intime et expérientielle. Le drame du zèle religieux mondain, c'est de s'agiter frénétiquement autour d'un savoir 'en plein', tout en manquant tragiquement l'expérience intérieure de la Grâce.\n\n• Verset 3 - τὴν ἰδίαν ζητοῦντες στῆσαι (tēn idian zētountes stēsai) : Traduit par 'cherchant à établir leur propre justice'. L'adjectif *idios* (propre, privé, séparé) révèle la pathologie du 'Monde duel' : la privatisation du salut. Quant au verbe *histemi* (établir, dresser), il évoque la construction d'un monument ou d'une idole. L'Ego cherche à ériger son salut comme une tour de Babel, au lieu de s'agenouiller dans le creux de la kénose pour recevoir la vie incréée.\n\n• Verset 8 - τὸ ῥῆμά ἐστιν (to rhēma estin) : 'La parole est près de toi'. Le grec utilise ici *rhēma* et non *logos*. Alors que le *logos* désigne souvent la structure, le Verbe éternel ou le discours, le *rhēma* est l'événement de la parole, le souffle vivant en train de s'énoncer. Cette Parole n'est pas un code moral extérieur qu'il faudrait aller conquérir au ciel ou dans l'abîme ; c'est une Énergie vibratoire vivante qui vient déposer sa semence directement dans la matrice du cœur (*kardia*).\n\nAnalyse spirituelle et mystagogique :\n\nL'Apôtre de ce 5ème dimanche répond admirablement à l'Évangile des démoniaques gadaréniens. Alors que les habitants de Gadara refusent le Christ pour préserver leur 'Avoir' matériel et leur confort extérieur, l'Épître aux Romains recentre le salut sur l'intériorité absolue du Sujet, au cœur de la tradition philocalique.\n\n1. La chute du Savoir 'en plein'\nPaul décrit le zèle des enfants d'Israël, mais précise qu'il est 'sans intelligence' (epignōsis, la connaissance expérientielle). Le Monde duel, même lorsqu'il se veut religieux, bâtit des systèmes d'autosuffisance. Il cherche à 'établir sa propre justice' (v. 3), transformant la Loi en un Arbre de la Connaissance où l'homme croit pouvoir forcer l'Incréé par ses propres exploits ('monter au ciel' ou 'descendre dans l'abîme'). L'Ego se fatigue dans une gesticulation extérieure.\n\n2. Le Cœur comme 'Creux' de la Foi\nLa foi orthodoxe inverse cette dynamique d'appropriation spatiale. La Parole n'est pas loin, elle n'est pas à conquérir : elle est 'dans ta bouche et dans ton cœur'. Dans la mystagogie roumaine, le cœur est l'autel profond où l'intelligence (*Nous*) doit se retirer et s'apaiser. En renonçant à chercher sa propre justice, le Sujet opère une kénose, un évidement salutaire (l'Arbre de Vie). C'est dans ce creux silencieux que l'Esprit Saint vient se déposer.\n\n3. L'Ouïe et la Confession\nLa pédagogie des sens trouve ici son achèvement : la foi naît de ce qui s'entend intérieurement, et aboutit à la confession de la bouche (*homologeo*). Le Sujet unifié ne produit plus le bruit chaotique et agressif des démoniaques gadaréniens, mais la résonance pure du Logos. La justification et le salut ne relèvent donc pas d'une transaction extérieure, mais de cet engendrement mutuel où la Parole habite le cœur et jaillit par les lèvres.\n\nComplément de lecture : Paul oppose une justice que l’on cherche à dresser soi-même à la justice reçue dans la foi. Les verbes ἀναβαίνω et καταβαίνω dessinent des mouvements vers le haut et vers le bas, aussitôt désamorcés : le Christ n’est pas à conquérir, car la parole est proche, dans la bouche et dans le cœur.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement le fil qui vous appelle dans les deux lectures du 5e dimanche après la Pentecôte : un geste, une parole, un contraste, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez le mouvement propre de l’Évangile, puis regardez comment l’Apôtre le déplace, l’approfondit ou en montre le fruit ecclésial. Vous pouvez aussi ne retenir qu’une seule correspondance."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit ou donne ici. Gardez le Christ au centre et distinguez cette annonce des exigences qui en découlent."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par ces textes : peur, enfermement, faiblesse, division, manque, besoin d’être porté ou difficulté à accueillir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans dicter une conduite uniforme : accueillir, demander, porter, partager, bénir, se laisser relever ou restaurer une communion."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression claire. Présentez les interprétations symboliques comme une lecture spirituelle, non comme le seul sens du texte, et évitez toute promesse automatique de guérison ou de réussite."
+      }
+    ],
+    "liturgical_echoes": []
   }
-  }
+}
