@@ -5,96 +5,262 @@
     "url": "https://calendar.patriarhia.ro/"
   },
   "cross_checks": [
-    { "name": "Doxologia", "url": "https://doxologia.ro/calendar-ortodox/202601" },
-    { "name": "CreștinOrtodox", "url": "https://www.crestinortodox.ro/calendar-ortodox" }
+    {
+      "name": "Doxologia",
+      "url": "https://doxologia.ro/calendar-ortodox/202601"
+    },
+    {
+      "name": "CreștinOrtodox",
+      "url": "https://www.crestinortodox.ro/calendar-ortodox"
+    }
   ],
   "sundays": [
-    { "date": "2026-01-04", "key": "93_theophany_before" },
-    { "date": "2026-01-11", "key": "94_theophany_after" },
+    {
+      "date": "2026-01-04",
+      "key": "93_theophany_before"
+    },
+    {
+      "date": "2026-01-11",
+      "key": "94_theophany_after"
+    },
     {
       "date": "2026-01-18",
       "key": null,
       "related_key": "328_after_pentecost_28",
       "official_title": "29e dimanche après la Pentecôte — guérison des dix lépreux",
       "readings": {
-        "gospel": { "reference": "Luc 17, 12-19", "key": "328_after_pentecost_28" },
-        "apostle": { "reference": "Colossiens 1, 12-18", "key": null }
+        "gospel": {
+          "reference": "Luc 17, 12-19",
+          "key": "328_after_pentecost_28"
+        },
+        "apostle": {
+          "reference": "Colossiens 1, 12-18",
+          "key": null
+        }
       },
       "note": "L’Évangile correspond à la fiche « Les Dix Lépreux ». Pour cette date, le calendrier officiel indique Colossiens 1, 12-18, tandis que la fiche actuelle contient Colossiens 3, 4-11."
     },
-    { "date": "2026-01-25", "key": "332_after_pentecost_32" },
-    { "date": "2026-02-01", "key": "00_publican_pharisee" },
-    { "date": "2026-02-08", "key": "01_prodigal_son" },
-    { "date": "2026-02-15", "key": "02_meatfare" },
-    { "date": "2026-02-22", "key": "03_cheese_fare" },
-    { "date": "2026-03-01", "key": "10_great_lent_1" },
-    { "date": "2026-03-08", "key": "11_great_lent_2" },
-    { "date": "2026-03-15", "key": "12_great_lent_3" },
-    { "date": "2026-03-22", "key": "13_great_lent_4" },
-    { "date": "2026-03-29", "key": "14_great_lent_5" },
-    { "date": "2026-04-05", "key": "15_palm_sunday" },
-    { "date": "2026-04-12", "key": "21_pascha" },
-    { "date": "2026-04-19", "key": "22_thomas_sunday" },
-    { "date": "2026-04-26", "key": "23_myrrhbearers" },
-    { "date": "2026-05-03", "key": "24_paralytic" },
-    { "date": "2026-05-10", "key": "25_samaritan" },
-    { "date": "2026-05-17", "key": "26_blind_man" },
-    { "date": "2026-05-24", "key": "27_holy_fathers_1" },
-    { "date": "2026-05-31", "key": "28_pentecost" },
-    { "date": "2026-06-07", "key": "29_all_saints" },
-    { "date": "2026-06-14", "key": "302_after_pentecost_2" },
-    { "date": "2026-06-21", "key": "303_after_pentecost_3" },
-    { "date": "2026-06-28", "key": "304_after_pentecost_4" },
-    { "date": "2026-07-05", "key": "305_after_pentecost_5" },
-    { "date": "2026-07-12", "key": "306_after_pentecost_6" },
-    { "date": "2026-07-19", "key": "307_after_pentecost_7" },
-    { "date": "2026-07-26", "key": "308_after_pentecost_8" },
-    { "date": "2026-08-02", "key": "309_after_pentecost_9" },
-    { "date": "2026-08-09", "key": "310_after_pentecost_10" },
-    { "date": "2026-08-16", "key": "311_after_pentecost_11" },
-    { "date": "2026-08-23", "key": "312_after_pentecost_12" },
-    { "date": "2026-08-30", "key": "313_after_pentecost_13" },
-    { "date": "2026-09-06", "key": "314_after_pentecost_14" },
+    {
+      "date": "2026-01-25",
+      "key": "332_after_pentecost_32"
+    },
+    {
+      "date": "2026-02-01",
+      "key": "00_publican_pharisee"
+    },
+    {
+      "date": "2026-02-08",
+      "key": "01_prodigal_son"
+    },
+    {
+      "date": "2026-02-15",
+      "key": "02_meatfare"
+    },
+    {
+      "date": "2026-02-22",
+      "key": "03_cheese_fare"
+    },
+    {
+      "date": "2026-03-01",
+      "key": "10_great_lent_1"
+    },
+    {
+      "date": "2026-03-08",
+      "key": "11_great_lent_2"
+    },
+    {
+      "date": "2026-03-15",
+      "key": "12_great_lent_3"
+    },
+    {
+      "date": "2026-03-22",
+      "key": "13_great_lent_4"
+    },
+    {
+      "date": "2026-03-29",
+      "key": "14_great_lent_5"
+    },
+    {
+      "date": "2026-04-05",
+      "key": "15_palm_sunday"
+    },
+    {
+      "date": "2026-04-12",
+      "key": "21_pascha"
+    },
+    {
+      "date": "2026-04-19",
+      "key": "22_thomas_sunday"
+    },
+    {
+      "date": "2026-04-26",
+      "key": "23_myrrhbearers"
+    },
+    {
+      "date": "2026-05-03",
+      "key": "24_paralytic"
+    },
+    {
+      "date": "2026-05-10",
+      "key": "25_samaritan"
+    },
+    {
+      "date": "2026-05-17",
+      "key": "26_blind_man"
+    },
+    {
+      "date": "2026-05-24",
+      "key": "27_holy_fathers_1"
+    },
+    {
+      "date": "2026-05-31",
+      "key": "28_pentecost"
+    },
+    {
+      "date": "2026-06-07",
+      "key": "29_all_saints"
+    },
+    {
+      "date": "2026-06-14",
+      "key": "302_after_pentecost_2"
+    },
+    {
+      "date": "2026-06-21",
+      "key": "303_after_pentecost_3"
+    },
+    {
+      "date": "2026-06-28",
+      "key": "304_after_pentecost_4"
+    },
+    {
+      "date": "2026-07-05",
+      "key": "305_after_pentecost_5"
+    },
+    {
+      "date": "2026-07-12",
+      "key": "306_after_pentecost_6"
+    },
+    {
+      "date": "2026-07-19",
+      "key": "307_after_pentecost_7"
+    },
+    {
+      "date": "2026-07-26",
+      "key": "308_after_pentecost_8"
+    },
+    {
+      "date": "2026-08-02",
+      "key": "309_after_pentecost_9"
+    },
+    {
+      "date": "2026-08-09",
+      "key": "310_after_pentecost_10"
+    },
+    {
+      "date": "2026-08-16",
+      "key": "311_after_pentecost_11"
+    },
+    {
+      "date": "2026-08-23",
+      "key": "312_after_pentecost_12"
+    },
+    {
+      "date": "2026-08-30",
+      "key": "313_after_pentecost_13"
+    },
+    {
+      "date": "2026-09-06",
+      "key": "314_after_pentecost_14"
+    },
     {
       "date": "2026-09-13",
-      "key": null,
-      "related_key": "322_after_pentecost_22",
+      "key": "96_cross_before",
       "doxologia_title": "Dimanche avant l’Exaltation de la Sainte-Croix",
       "readings": {
-        "gospel": { "reference": "Jean 3, 13-17", "key": null },
-        "apostle": { "reference": "Galates 6, 11-18", "key": "322_after_pentecost_22" }
+        "gospel": {
+          "reference": "Jean 3, 13-17",
+          "key": "96_cross_before"
+        },
+        "apostle": {
+          "reference": "Galates 6, 11-18",
+          "key": "96_cross_before"
+        }
       },
-      "note": "L’épître est déjà présente dans la fiche « Le Riche et Lazare ». L’Évangile est une lecture propre à ce dimanche."
+      "note": "Lectures propres au dimanche avant l’Exaltation de la Sainte-Croix."
     },
     {
       "date": "2026-09-20",
-      "key": null,
-      "related_key": "12_great_lent_3",
+      "key": "97_cross_after",
       "doxologia_title": "Dimanche après l’Exaltation de la Sainte-Croix",
       "readings": {
-        "gospel": { "reference": "Marc 8, 34 - 9, 1", "key": "12_great_lent_3" },
-        "apostle": { "reference": "Galates 2, 16-20", "key": null }
+        "gospel": {
+          "reference": "Marc 8, 34 - 9, 1",
+          "key": "97_cross_after"
+        },
+        "apostle": {
+          "reference": "Galates 2, 16-20",
+          "key": "97_cross_after"
+        }
       },
-      "note": "L’Évangile est déjà présent dans la fiche « Vénération de la Croix ». L’épître est propre à ce dimanche."
+      "note": "Lectures propres au dimanche après l’Exaltation de la Sainte-Croix."
     },
-    { "date": "2026-09-27", "key": "318_after_pentecost_18" },
-    { "date": "2026-10-04", "key": "319_after_pentecost_19" },
+    {
+      "date": "2026-09-27",
+      "key": "318_after_pentecost_18"
+    },
+    {
+      "date": "2026-10-04",
+      "key": "319_after_pentecost_19"
+    },
     {
       "date": "2026-10-11",
       "key": "321_after_pentecost_21",
       "official_title": "21e dimanche après la Pentecôte — dimanche des Pères du VIIe Concile œcuménique",
       "note": "L’Évangile correspond à la fiche « Le Semeur ». Le calendrier officiel indique Galates 2, 16-20 pour le dimanche et Tite 3, 8-15 pour les saints Pères ; cette seconde épître est celle qui figure actuellement dans la fiche."
     },
-    { "date": "2026-10-18", "key": "320_after_pentecost_20" },
-    { "date": "2026-10-25", "key": "323_after_pentecost_23" },
-    { "date": "2026-11-01", "key": "322_after_pentecost_22" },
-    { "date": "2026-11-08", "key": "324_after_pentecost_24" },
-    { "date": "2026-11-15", "key": "325_after_pentecost_25" },
-    { "date": "2026-11-22", "key": "326_after_pentecost_26" },
-    { "date": "2026-11-29", "key": "330_after_pentecost_30" },
-    { "date": "2026-12-06", "key": "327_after_pentecost_27" },
-    { "date": "2026-12-13", "key": "90_advent_2" },
-    { "date": "2026-12-20", "key": "91_advent_1" },
-    { "date": "2026-12-27", "key": "92_nativity_after" }
+    {
+      "date": "2026-10-18",
+      "key": "320_after_pentecost_20"
+    },
+    {
+      "date": "2026-10-25",
+      "key": "323_after_pentecost_23"
+    },
+    {
+      "date": "2026-11-01",
+      "key": "322_after_pentecost_22"
+    },
+    {
+      "date": "2026-11-08",
+      "key": "324_after_pentecost_24"
+    },
+    {
+      "date": "2026-11-15",
+      "key": "325_after_pentecost_25"
+    },
+    {
+      "date": "2026-11-22",
+      "key": "326_after_pentecost_26"
+    },
+    {
+      "date": "2026-11-29",
+      "key": "330_after_pentecost_30"
+    },
+    {
+      "date": "2026-12-06",
+      "key": "327_after_pentecost_27"
+    },
+    {
+      "date": "2026-12-13",
+      "key": "90_advent_2"
+    },
+    {
+      "date": "2026-12-20",
+      "key": "91_advent_1"
+    },
+    {
+      "date": "2026-12-27",
+      "key": "92_nativity_after"
+    }
   ]
 }
