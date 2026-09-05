@@ -358,6 +358,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const pdfButtonContainer = document.getElementById('pdf-button-container');
         const homileticAxesContainer = document.getElementById('homiletic-axes-container');
         const homileticAxesList = document.getElementById('homiletic-axes-list');
+        const liturgicalEchoesContainer = document.getElementById('liturgical-echoes-container');
+        const liturgicalEchoesList = document.getElementById('liturgical-echoes-list');
         const goingFurtherContainer = document.getElementById('going-further-container');
         const goingFurtherList = document.getElementById('going-further-list'); 
         if(mainText) mainText.innerHTML = '<p style="text-align:center;"><em>Chargement...</em></p>';
@@ -470,6 +472,52 @@ document.addEventListener('DOMContentLoaded', () => {
                     homileticAxesList.appendChild(article);
                 });
                 homileticAxesContainer.hidden = axes.length === 0;
+            }
+            if (liturgicalEchoesContainer && liturgicalEchoesList) {
+                const echoes = Array.isArray(reading.liturgical_echoes) ? reading.liturgical_echoes : [];
+                liturgicalEchoesList.innerHTML = '';
+                echoes.forEach(echo => {
+                    const article = document.createElement('article');
+                    article.className = 'liturgical-echo';
+                    const heading = document.createElement('h5');
+                    heading.textContent = echo.title || 'Écho liturgique';
+                    article.appendChild(heading);
+                    if (echo.reference) {
+                        const reference = document.createElement('p');
+                        reference.className = 'liturgical-echo-reference';
+                        reference.textContent = echo.reference;
+                        article.appendChild(reference);
+                    }
+                    if (echo.content) {
+                        const content = document.createElement('p');
+                        content.textContent = echo.content;
+                        article.appendChild(content);
+                    }
+                    if (Array.isArray(echo.connections) && echo.connections.length) {
+                        const list = document.createElement('ul');
+                        echo.connections.forEach(connection => {
+                            const item = document.createElement('li');
+                            const label = document.createElement('strong');
+                            label.textContent = `${connection.label || 'Rapprochement'} : `;
+                            item.appendChild(label);
+                            item.appendChild(document.createTextNode(connection.content || ''));
+                            list.appendChild(item);
+                        });
+                        article.appendChild(list);
+                    }
+                    const addButton = document.createElement('button');
+                    addButton.type = 'button';
+                    addButton.className = 'axis-add-button';
+                    addButton.textContent = 'Garder cet écho dans mon brouillon';
+                    addButton.addEventListener('click', () => addMaterialToHomily({
+                        title: echo.title || 'Écho liturgique',
+                        content: [echo.content, ...(echo.connections || []).map(connection => `${connection.label} : ${connection.content}`)].filter(Boolean).join('\n'),
+                        keywords: echo.reference ? [echo.reference] : []
+                    }));
+                    article.appendChild(addButton);
+                    liturgicalEchoesList.appendChild(article);
+                });
+                liturgicalEchoesContainer.hidden = echoes.length === 0;
             }
             renderHomilyWorkspace(reading);
 
@@ -699,10 +747,12 @@ document.addEventListener('DOMContentLoaded', () => {
         const mainText = document.getElementById('gospel-text');
         const notes = document.getElementById('my-notes');
         const homileticAxes = document.getElementById('homiletic-axes-container');
+        const liturgicalEchoes = document.getElementById('liturgical-echoes-container');
         if (title) title.textContent = `${typeLabel} — ${reading?.reference || entry.official_title || entry.doxologia_title}`;
         if (mainText) mainText.innerHTML = '<p class="calendar-pending">Cette lecture propre au calendrier 2026 n’est pas encore reliée à une fiche dans l’application.</p>';
         if (notes) notes.textContent = 'La référence a été vérifiée dans le calendrier officiel de la Patriarhie roumaine. Son contenu ne sera ajouté qu’après identification de la source correspondante dans les données.';
         if (homileticAxes) homileticAxes.hidden = true;
+        if (liturgicalEchoes) liturgicalEchoes.hidden = true;
         document.querySelectorAll('#text-selector button').forEach(button => button.classList.remove('active'));
         const activeButton = document.getElementById(`select-${readingType}`);
         if (activeButton) activeButton.classList.add('active');
