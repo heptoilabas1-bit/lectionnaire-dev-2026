@@ -10,33 +10,150 @@
           "darby": "Et voici, il vint un homme dont le nom était Jaïrus, et il était chef de la synagogue ; et, se jetant aux pieds de Jésus, il le priait d'entrer dans sa maison,"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "ἦλθεν", "gloss": "vint" },
-          { "greek": "ἀνὴρ", "gloss": "un_homme" },
-          { "greek": "ᾧ", "gloss": "à_qui" },
-          { "greek": "ὄνομα", "gloss": "nom" },
-          { "greek": "Ἰάϊρος,", "gloss": "Jaïrus", "analyse": "De l'hébreu *Yair* ('Il éclaire' ou 'Dieu réveille'). Ce nom contient déjà prophétiquement le thème central de la péricope : le réveil ontologique, le passage du sommeil de la mort à l'éveil du Sujet verticalisé." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οὗτος", "gloss": "celui-ci" },
-          { "greek": "ἄρχων", "gloss": "chef/notable" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "συναγωγῆς", "gloss": "synagogue", "analyse": "Composé de *syn-* (ensemble) et *ago* (conduire). Le lieu du rassemblement horizontal. Jaïrus est une figure majeure de l'ordre religieux et social du Monde duel." },
-          { "greek": "ὑπῆρχεν·", "gloss": "était/existait" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πεσὼν", "gloss": "ayant_jeté/tombé" },
-          { "greek": "παρὰ", "gloss": "auprès_de/contre" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "πόδας", "gloss": "pieds" },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus", "analyse": "Topographie de la soumission de l'Ego. Cet homme puissant abdique sa fonction sociale et s'effondre tout contre (*para*) les pieds du Christ, reconnaissant la hiérarchie de l'Axe vertical." },
-          { "greek": "παρεκάλει", "gloss": "il_priait/implorait" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "εἰσελθεῖν", "gloss": "d'entrer", "analyse": "Composé de *eis-* (mouvement vers l'intérieur) et *erchomai* (aller). Jaïrus demande à la Grâce de pénétrer à l'intérieur de son espace privé, là où la mort est en train de frapper." },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "οἶκον", "gloss": "maison" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "vint"
+          },
+          {
+            "greek": "ἀνὴρ",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "à_qui"
+          },
+          {
+            "greek": "ὄνομα",
+            "gloss": "nom"
+          },
+          {
+            "greek": "Ἰάϊρος,",
+            "gloss": "Jaïrus",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : De l'hébreu *Yair* ('Il éclaire' ou 'Dieu réveille'). Ce nom contient déjà prophétiquement le thème central de la péricope : le réveil ontologique, le passage du sommeil de la mort à l'éveil du Sujet verticalisé.",
+              "related": [
+                "ὄνομα",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὗτος",
+            "gloss": "celui-ci"
+          },
+          {
+            "greek": "ἄρχων",
+            "gloss": "chef/notable"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "συναγωγῆς",
+            "gloss": "synagogue",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *syn-* (ensemble) et *ago* (conduire). Le lieu du rassemblement horizontal. Jaïrus est une figure majeure de l'ordre religieux et social du Monde duel.",
+              "related": [
+                "τῆς",
+                "ὑπῆρχεν·"
+              ]
+            }
+          },
+          {
+            "greek": "ὑπῆρχεν·",
+            "gloss": "était/existait"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πεσὼν",
+            "gloss": "ayant_jeté/tombé"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_de/contre"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πόδας",
+            "gloss": "pieds"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Topographie de la soumission de l'Ego. Cet homme puissant abdique sa fonction sociale et s'effondre tout contre (*para*) les pieds du Christ, reconnaissant la hiérarchie de l'Axe vertical.",
+              "related": [
+                "τοῦ",
+                "παρεκάλει"
+              ]
+            }
+          },
+          {
+            "greek": "παρεκάλει",
+            "gloss": "il_priait/implorait"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰσελθεῖν",
+            "gloss": "d'entrer",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *eis-* (mouvement vers l'intérieur) et *erchomai* (aller). Jaïrus demande à la Grâce de pénétrer à l'intérieur de son espace privé, là où la mort est en train de frapper.",
+              "related": [
+                "αὐτὸν",
+                "εἰς"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἶκον",
+            "gloss": "maison"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -46,26 +163,122 @@
           "darby": "car il avait une fille unique, d'environ douze ans, et elle se mourait. Et comme il y allait, les foules le pressaient."
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "car/parce_que" },
-          { "greek": "θυγάτηρ", "gloss": "fille" },
-          { "greek": "μονογενὴς", "gloss": "unique", "analyse": "Composé de *monos* (seul, unique) et *ginomai* (générer). Ce terme renvoie à l'essence pure. Ce qui est unique est irremplaçable dans le Royaume UN ; ce n'est pas une marchandise interchangeable du Monde duel." },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ὡς", "gloss": "environ" },
-          { "greek": "ἐτῶν", "gloss": "ans" },
-          { "greek": "δώδεκα", "gloss": "douze", "analyse": "Le chiffre 12 symbolise la plénitude d'un cycle temporel. À 12 ans, la jeune fille arrive au seuil de la puberté, de la transmission de la vie horizontale. C'est précisément à ce point d'achèvement que le système se bloque et meurt." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὕτη", "gloss": "elle" },
-          { "greek": "ἀπέθνῃσκεν.", "gloss": "se_mourait" },
-          { "greek": "Ἐν", "gloss": "Dans/pendant" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "ὑπάγειν", "gloss": "aller/faire_route", "analyse": "Composé de *hypo-* (en dessous, en retrait) et *ago* (conduire). Jésus avance en se coulant sous les nécessités du temps et de l'espace." },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ὄχλοι", "gloss": "foules" },
-          { "greek": "συνέπνιγον", "gloss": "le_pressaient/étouffaient", "analyse": "Composé de *syn-* (ensemble) et *pnigo* (étouffer/asphyxier). La foule est une masse compacte horizontale indifférenciée qui génère une pression d'asphyxie (*syn-pnigo*). C'est la description de la prison du Monde duel, où l'accumulation anonyme étouffe le Souffle (*Pneuma*)." },
-          { "greek": "αὐτόν.", "gloss": "lui" }
+          {
+            "greek": "ὅτι",
+            "gloss": "car/parce_que"
+          },
+          {
+            "greek": "θυγάτηρ",
+            "gloss": "fille"
+          },
+          {
+            "greek": "μονογενὴς",
+            "gloss": "unique",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *monos* (seul, unique) et *ginomai* (générer). Ce terme renvoie à l'essence pure. Ce qui est unique est irremplaçable dans le Royaume UN ; ce n'est pas une marchandise interchangeable du Monde duel.",
+              "related": [
+                "θυγάτηρ",
+                "ἦν"
+              ]
+            }
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "environ"
+          },
+          {
+            "greek": "ἐτῶν",
+            "gloss": "ans"
+          },
+          {
+            "greek": "δώδεκα",
+            "gloss": "douze",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le chiffre 12 symbolise la plénitude d'un cycle temporel. À 12 ans, la jeune fille arrive au seuil de la puberté, de la transmission de la vie horizontale. C'est précisément à ce point d'achèvement que le système se bloque et meurt.",
+              "related": [
+                "ἐτῶν",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὕτη",
+            "gloss": "elle"
+          },
+          {
+            "greek": "ἀπέθνῃσκεν.",
+            "gloss": "se_mourait"
+          },
+          {
+            "greek": "Ἐν",
+            "gloss": "Dans/pendant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὑπάγειν",
+            "gloss": "aller/faire_route",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *hypo-* (en dessous, en retrait) et *ago* (conduire). Jésus avance en se coulant sous les nécessités du temps et de l'espace.",
+              "related": [
+                "τῷ",
+                "αὐτὸν"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὄχλοι",
+            "gloss": "foules"
+          },
+          {
+            "greek": "συνέπνιγον",
+            "gloss": "le_pressaient/étouffaient",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *syn-* (ensemble) et *pnigo* (étouffer/asphyxier). La foule est une masse compacte horizontale indifférenciée qui génère une pression d'asphyxie (*syn-pnigo*). C'est la description de la prison du Monde duel, où l'accumulation anonyme étouffe le Souffle (*Pneuma*).",
+              "related": [
+                "ὄχλοι",
+                "αὐτόν."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -75,21 +288,93 @@
           "darby": "Et une femme qui avait un flux de sang depuis douze ans, et qui, ayant dépensé tout son bien en médecins, n'avait pu être guérie par aucun,"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "γυνὴ", "gloss": "une_femme" },
-          { "greek": "οὖσα", "gloss": "étant" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ῥύσει", "gloss": "un_flux", "analyse": "Du verbe *rheo* (couler, s'écouler). Le flux de sang symbolise l'hémorragie de la substance vitale. L'énergie de cette femme fuit de manière continue vers le bas, vers la terre, l'empêchant de se verticaliser. C'est l'entropie de l'Ego qui se vapore à vide." },
-          { "greek": "αἵματος", "gloss": "de_sang" },
-          { "greek": "ἀπὸ", "gloss": "depuis" },
-          { "greek": "ἐτῶν", "gloss": "ans" },
-          { "greek": "δώδεκα,", "gloss": "douze", "analyse": "Parfaite symétrie avec la fille de Jaïrus. Pendant que l'une grandissait vers la vie durant 12 ans, l'autre se vidait de sa vie durant la même période. Les deux pôles de la détresse humaine dans le Monde duel." },
-          { "greek": "ἥτις", "gloss": "laquelle" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἴσχυσεν", "gloss": "eut_la_force", "analyse": "Du mot *ischys* (la force brute, la puissance physique). La femme a épuisé toutes ses ressources horizontales (*bios*, la vie matérielle/l'argent). Le Monde duel (représenté ici par la science des médecins) s'avère totalement impuissant (*ouk ischysen*) à colmater la fuite ontologique." },
-          { "greek": "ἀπ’", "gloss": "par/depuis" },
-          { "greek": "οὐδενὸς", "gloss": "aucun" },
-          { "greek": "θεραπευθῆναι,", "gloss": "être_guérie" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "γυνὴ",
+            "gloss": "une_femme"
+          },
+          {
+            "greek": "οὖσα",
+            "gloss": "étant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ῥύσει",
+            "gloss": "un_flux",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *rheo* (couler, s'écouler). Le flux de sang symbolise l'hémorragie de la substance vitale. L'énergie de cette femme fuit de manière continue vers le bas, vers la terre, l'empêchant de se verticaliser. C'est l'entropie de l'Ego qui se vapore à vide.",
+              "related": [
+                "ἐν",
+                "αἵματος"
+              ]
+            }
+          },
+          {
+            "greek": "αἵματος",
+            "gloss": "de_sang"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "ἐτῶν",
+            "gloss": "ans"
+          },
+          {
+            "greek": "δώδεκα,",
+            "gloss": "douze",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Parfaite symétrie avec la fille de Jaïrus. Pendant que l'une grandissait vers la vie durant 12 ans, l'autre se vidait de sa vie durant la même période. Les deux pôles de la détresse humaine dans le Monde duel.",
+              "related": [
+                "ἐτῶν",
+                "ἥτις"
+              ]
+            }
+          },
+          {
+            "greek": "ἥτις",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἴσχυσεν",
+            "gloss": "eut_la_force",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du mot *ischys* (la force brute, la puissance physique). La femme a épuisé toutes ses ressources horizontales (*bios*, la vie matérielle/l'argent). Le Monde duel (représenté ici par la science des médecins) s'avère totalement impuissant (*ouk ischysen*) à colmater la fuite ontologique.",
+              "related": [
+                "οὐκ",
+                "ἀπ’"
+              ]
+            }
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "par/depuis"
+          },
+          {
+            "greek": "οὐδενὸς",
+            "gloss": "aucun"
+          },
+          {
+            "greek": "θεραπευθῆναι,",
+            "gloss": "être_guérie"
+          }
         ]
       },
       {
@@ -99,22 +384,114 @@
           "darby": "s'approcha par-derrière et toucha le bord du vêtement de Jésus ; et au même instant son flux de sang s'arrêta."
         },
         "interlinear": [
-          { "greek": "προσελθοῦσα", "gloss": "s'étant_approchée", "analyse": "Composé de *pros-* (vers, tout près) et *erchomai* (venir). Un mouvement d'approche ciblé qui rompt avec le mouvement désordonné de la foule." },
-          { "greek": "ὄπισθεν", "gloss": "par-derrière", "analyse": "Topographie de l'effacement et de la honte sociale (l'impureté rituelle liée au sang). Elle n'ose pas affronter l'Axe face à face ; elle s'approche par la périphérie invisible." },
-          { "greek": "ἥψατο", "gloss": "toucha", "analyse": "Du verbe *haptomai* (toucher, s'attacher à, allumer). Ce n'est pas le choc fortuit des corps dans la foule, c'est un contact intentionnel, une connexion vibratoire instantanée qui cherche à capter la Source." },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "κρασπέδου", "gloss": "bord/frange", "analyse": "Le *kraspedon* (la frange ou le fil bleu prescrit par la Loi sur les vêtements des Hébreux). C'est le point de contact le plus bas, la périphérie ultime de la manifestation du Christ. La femme comprend que même l'extrême limite de l'Incréé est saturée de Plénitude." },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "ἱματίου", "gloss": "vêtement" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "παραχρῆμα", "gloss": "au_même_instant/immédiatement" },
-          { "greek": "ἔστη", "gloss": "s'arrêta/se_tint_debout", "analyse": "Du verbe *histemi* (se tenir debout, immobiliser). Miracle topographique instantané : le flux descendant qui fuyait vers la terre est immédiatement stabilisé, arrêté (*este*). L'hémorragie entropique cesse dès que le contact avec l'Axe vertical est établi." },
-          { "greek": "ἡ", "gloss": "le" },
-          { "greek": "ῥύσις", "gloss": "flux" },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "αἵματος", "gloss": "sang" },
-          { "greek": "αὐτῆς.", "gloss": "de_elle" }
+          {
+            "greek": "προσελθοῦσα",
+            "gloss": "s'étant_approchée",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *pros-* (vers, tout près) et *erchomai* (venir). Un mouvement d'approche ciblé qui rompt avec le mouvement désordonné de la foule.",
+              "related": [
+                "ὄπισθεν"
+              ]
+            }
+          },
+          {
+            "greek": "ὄπισθεν",
+            "gloss": "par-derrière",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Topographie de l'effacement et de la honte sociale (l'impureté rituelle liée au sang). Elle n'ose pas affronter l'Axe face à face ; elle s'approche par la périphérie invisible.",
+              "related": [
+                "προσελθοῦσα",
+                "ἥψατο"
+              ]
+            }
+          },
+          {
+            "greek": "ἥψατο",
+            "gloss": "toucha",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *haptomai* (toucher, s'attacher à, allumer). Ce n'est pas le choc fortuit des corps dans la foule, c'est un contact intentionnel, une connexion vibratoire instantanée qui cherche à capter la Source.",
+              "related": [
+                "ὄπισθεν",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κρασπέδου",
+            "gloss": "bord/frange",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *kraspedon* (la frange ou le fil bleu prescrit par la Loi sur les vêtements des Hébreux). C'est le point de contact le plus bas, la périphérie ultime de la manifestation du Christ. La femme comprend que même l'extrême limite de l'Incréé est saturée de Plénitude.",
+              "related": [
+                "τοῦ",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "ἱματίου",
+            "gloss": "vêtement"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παραχρῆμα",
+            "gloss": "au_même_instant/immédiatement"
+          },
+          {
+            "greek": "ἔστη",
+            "gloss": "s'arrêta/se_tint_debout",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *histemi* (se tenir debout, immobiliser). Miracle topographique instantané : le flux descendant qui fuyait vers la terre est immédiatement stabilisé, arrêté (*este*). L'hémorragie entropique cesse dès que le contact avec l'Axe vertical est établi.",
+              "related": [
+                "παραχρῆμα",
+                "ἡ"
+              ]
+            }
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ῥύσις",
+            "gloss": "flux"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "αἵματος",
+            "gloss": "sang"
+          },
+          {
+            "greek": "αὐτῆς.",
+            "gloss": "de_elle"
+          }
         ]
       },
       {
@@ -124,27 +501,116 @@
           "darby": "Et Jésus dit : Qui est celui qui m'a touché ? Et comme tous niaient, Pierre dit, et ceux qui étaient avec lui : Maître, les foules te serrent et te pressent,"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Τίς", "gloss": "Qui" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "ἁψάμενός", "gloss": "ayant_touché" },
-          { "greek": "μου;", "gloss": "moi" },
-          { "greek": "ἀρνουμένων", "gloss": "niaient/se_défendaient" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "πάντων", "gloss": "tous" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Πέτρος·", "gloss": "Pierre" },
-          { "greek": "Ἐπιστάτα,", "gloss": "Maître/Commandant", "analyse": "Du mot *Epistates* (celui qui est placé au-dessus). Pierre parle encore depuis la logique de l'observation horizontale et hiérarchique." },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ὄχλοι", "gloss": "foules" },
-          { "greek": "συνέχουσίν", "gloss": "te_serrent/pressent", "analyse": "Composé de *syn-* (ensemble) et *echo* (tenir). La foule maintient une étreinte globale, mécanique et inconsciente." },
-          { "greek": "σε", "gloss": "toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀποθλίβουσιν.", "gloss": "t'écrasent/te_compriment", "analyse": "Composé de *apo-* (arrachement/intensité) et *thlibo* (presser, opprimer). C'est la friction pure de la masse. La foule touche Jésus par contrainte spatiale, mais sans intentionnalité spirituelle. Elle bouscule l'Axe sans s'y connecter." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Τίς",
+            "gloss": "Qui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἁψάμενός",
+            "gloss": "ayant_touché"
+          },
+          {
+            "greek": "μου;",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἀρνουμένων",
+            "gloss": "niaient/se_défendaient"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "tous"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Πέτρος·",
+            "gloss": "Pierre"
+          },
+          {
+            "greek": "Ἐπιστάτα,",
+            "gloss": "Maître/Commandant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du mot *Epistates* (celui qui est placé au-dessus). Pierre parle encore depuis la logique de l'observation horizontale et hiérarchique.",
+              "related": [
+                "Πέτρος·",
+                "οἱ"
+              ]
+            }
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὄχλοι",
+            "gloss": "foules"
+          },
+          {
+            "greek": "συνέχουσίν",
+            "gloss": "te_serrent/pressent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *syn-* (ensemble) et *echo* (tenir). La foule maintient une étreinte globale, mécanique et inconsciente.",
+              "related": [
+                "ὄχλοι",
+                "σε"
+              ]
+            }
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποθλίβουσιν.",
+            "gloss": "t'écrasent/te_compriment",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (arrachement/intensité) et *thlibo* (presser, opprimer). C'est la friction pure de la masse. La foule touche Jésus par contrainte spatiale, mais sans intentionnalité spirituelle. Elle bouscule l'Axe sans s'y connecter.",
+              "related": [
+                "καὶ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -154,20 +620,89 @@
           "darby": "Et Jésus dit : Quelqu'un m'a touché, car je connais qu'une force est sortie de moi."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Ἥψατό", "gloss": "Toucha" },
-          { "greek": "μού", "gloss": "moi" },
-          { "greek": "τις,", "gloss": "quelqu'un", "analyse": "Le pronom indéfini *tis* ('quelqu'un') s'oppose radicalement à la 'foule' (*ochlos*). Jésus discrimine. Il extrait un acte conscient de la masse anonyme. Quelqu'un s'est constitué en Sujet en posant un acte d'alignement pur." },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἔγνων", "gloss": "j'ai_connu/senti" },
-          { "greek": "δύναμιν", "gloss": "une_force/énergie", "analyse": "La *dynamis* (l'énergie, la puissance intrinsèque). Elle n'est pas statique : elle est une effusion qui répond instantanément à l'appel vibratoire de la foi. C'est l'influx de l'Incréé." },
-          { "greek": "ἐξεληλυθυῖαν", "gloss": "étant_sortie", "analyse": "Composé de *ex-* (hors de) et *erchomai* (aller). Le mouvement d'extraction de l'Énergie divine qui quitte le Centre pour aller saturer la périphérie vide qui l'a appelée." },
-          { "greek": "ἀπ’", "gloss": "de" },
-          { "greek": "ἐμοῦ.", "gloss": "moi" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἥψατό",
+            "gloss": "Toucha"
+          },
+          {
+            "greek": "μού",
+            "gloss": "moi"
+          },
+          {
+            "greek": "τις,",
+            "gloss": "quelqu'un",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le pronom indéfini *tis* ('quelqu'un') s'oppose radicalement à la 'foule' (*ochlos*). Jésus discrimine. Il extrait un acte conscient de la masse anonyme. Quelqu'un s'est constitué en Sujet en posant un acte d'alignement pur.",
+              "related": [
+                "μού",
+                "ἐγὼ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἔγνων",
+            "gloss": "j'ai_connu/senti"
+          },
+          {
+            "greek": "δύναμιν",
+            "gloss": "une_force/énergie",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La *dynamis* (l'énergie, la puissance intrinsèque). Elle n'est pas statique : elle est une effusion qui répond instantanément à l'appel vibratoire de la foi. C'est l'influx de l'Incréé.",
+              "related": [
+                "ἔγνων",
+                "ἐξεληλυθυῖαν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐξεληλυθυῖαν",
+            "gloss": "étant_sortie",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ex-* (hors de) et *erchomai* (aller). Le mouvement d'extraction de l'Énergie divine qui quitte le Centre pour aller saturer la périphérie vide qui l'a appelée.",
+              "related": [
+                "δύναμιν",
+                "ἀπ’"
+              ]
+            }
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "de"
+          },
+          {
+            "greek": "ἐμοῦ.",
+            "gloss": "moi"
+          }
         ]
       },
       {
@@ -177,32 +712,128 @@
           "darby": "Et la femme, voyant qu'elle n'était pas cachée, vint en tremblant ; et, se jetant devant lui, elle déclara devant tout le peuple pour quelle cause elle l'avait touché, et comment elle avait été guérie au même instant."
         },
         "interlinear": [
-          { "greek": "ἰδοῦσα", "gloss": "Ayant_vu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "γυνὴ", "gloss": "femme" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔλαθεν,", "gloss": "elle_était_cachée", "analyse": "Du verbe *lanthano* (être caché, échapper à l'attention). Impossible de rester dans l'anonymat de la périphérie une fois qu'on a goûté à l'Incréé. Le Sujet doit être pleinement manifesté." },
-          { "greek": "τρέμουσα", "gloss": "tremblante" },
-          { "greek": "ἦλθεν", "gloss": "vint" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "προσπεσοῦσα", "gloss": "s'étant_jetée_devant", "analyse": "Composé de *pros-* (vers/contre) et *pipto* (tomber). Elle abandonne sa posture cachée de 'derrière' (*opisthen*) pour se placer devant l'Axe, dans une kénose de reconnaissance." },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "δι’", "gloss": "pour" },
-          { "greek": "ἣν", "gloss": "laquelle" },
-          { "greek": "αἰτίαν", "gloss": "cause" },
-          { "greek": "ἥψατο", "gloss": "elle_toucha" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "ἀπήγγειλεν", "gloss": "elle_annonça/déclara" },
-          { "greek": "ἐνώπιον", "gloss": "devant" },
-          { "greek": "παντὸς", "gloss": "tout" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "λαοῦ", "gloss": "peuple" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὡς", "gloss": "comment" },
-          { "greek": "ἰάθη", "gloss": "elle_fut_guérie" },
-          { "greek": "παραχρῆμα.", "gloss": "au_même_instant" }
+          {
+            "greek": "ἰδοῦσα",
+            "gloss": "Ayant_vu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυνὴ",
+            "gloss": "femme"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔλαθεν,",
+            "gloss": "elle_était_cachée",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *lanthano* (être caché, échapper à l'attention). Impossible de rester dans l'anonymat de la périphérie une fois qu'on a goûté à l'Incréé. Le Sujet doit être pleinement manifesté.",
+              "related": [
+                "οὐκ",
+                "τρέμουσα"
+              ]
+            }
+          },
+          {
+            "greek": "τρέμουσα",
+            "gloss": "tremblante"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "vint"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προσπεσοῦσα",
+            "gloss": "s'étant_jetée_devant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *pros-* (vers/contre) et *pipto* (tomber). Elle abandonne sa posture cachée de 'derrière' (*opisthen*) pour se placer devant l'Axe, dans une kénose de reconnaissance.",
+              "related": [
+                "καὶ",
+                "αὐτῷ"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ἣν",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "αἰτίαν",
+            "gloss": "cause"
+          },
+          {
+            "greek": "ἥψατο",
+            "gloss": "elle_toucha"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἀπήγγειλεν",
+            "gloss": "elle_annonça/déclara"
+          },
+          {
+            "greek": "ἐνώπιον",
+            "gloss": "devant"
+          },
+          {
+            "greek": "παντὸς",
+            "gloss": "tout"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λαοῦ",
+            "gloss": "peuple"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comment"
+          },
+          {
+            "greek": "ἰάθη",
+            "gloss": "elle_fut_guérie"
+          },
+          {
+            "greek": "παραχρῆμα.",
+            "gloss": "au_même_instant"
+          }
         ]
       },
       {
@@ -212,46 +843,183 @@
           "darby": "Et il lui dit : Prends courage, ma fille ; ta foi t'a guérie ; va en paix."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῇ·", "gloss": "à_elle" },
-          { "greek": "Θυγάτηρ,", "gloss": "Fille", "analyse": "Mot de réintégration ontologique. Le Christ ne l'appelle pas 'femme' ou 'malade', mais *Thygater*. Par ce terme, il lui donne immédiatement une filiation spirituelle directe. Elle acquiert la même dignité que la fille de Jaïrus." },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "πίστις", "gloss": "foi" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "σέσωκέν", "gloss": "t'a_sauvée", "analyse": "Du verbe *sozo* (rendre entier, sauver). Ce n'est pas seulement une réparation tissulaire ou vasculaire (*iaomai* au v.47) ; c'est un salut total. L'être est restauré dans son intégrité non-duelle." },
-          { "greek": "σε·", "gloss": "toi" },
-          { "greek": "πορεύου", "gloss": "va/fais_route" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "εἰρήνην.", "gloss": "la_paix", "analyse": "L'*eirene* (la paix). Ce n'est pas l'absence de guerre, c'est l'état d'unification interne. Le Sujet guéri ne fuit plus, il chemine à l'intérieur de l'harmonie retrouvée." }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῇ·",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "Θυγάτηρ,",
+            "gloss": "Fille",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Mot de réintégration ontologique. Le Christ ne l'appelle pas 'femme' ou 'malade', mais *Thygater*. Par ce terme, il lui donne immédiatement une filiation spirituelle directe. Elle acquiert la même dignité que la fille de Jaïrus.",
+              "related": [
+                "αὐτῇ·",
+                "ἡ"
+              ]
+            }
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστις",
+            "gloss": "foi"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "σέσωκέν",
+            "gloss": "t'a_sauvée",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *sozo* (rendre entier, sauver). Ce n'est pas seulement une réparation tissulaire ou vasculaire (*iaomai* au v.47) ; c'est un salut total. L'être est restauré dans son intégrité non-duelle.",
+              "related": [
+                "σου",
+                "σε·"
+              ]
+            }
+          },
+          {
+            "greek": "σε·",
+            "gloss": "toi"
+          },
+          {
+            "greek": "πορεύου",
+            "gloss": "va/fais_route"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "εἰρήνην.",
+            "gloss": "la_paix",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'*eirene* (la paix). Ce n'est pas l'absence de guerre, c'est l'état d'unification interne. Le Sujet guéri ne fuit plus, il chemine à l'intérieur de l'harmonie retrouvée.",
+              "related": [
+                "εἰς"
+              ]
+            }
+          }
         ]
       },
-{
+      {
         "verse_number": 49,
         "translations": {
           "segond": "Comme il parlait encore, survint quelqu'un de chez le chef de la synagogue, disant : Ta fille est morte ; n'importune pas le maître.",
           "darby": "Comme il parlait encore, quelqu'un vient de chez le chef de la synagogue, disant : Ta fille est morte, n'importune pas le maître."
         },
         "interlinear": [
-          { "greek": "Ἔτι", "gloss": "Encore" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "λαλοῦντος", "gloss": "parlant" },
-          { "greek": "ἔρχεταί", "gloss": "vient" },
-          { "greek": "τις", "gloss": "quelqu'un" },
-          { "greek": "παρὰ", "gloss": "de_chez/auprès_de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "ἀρχισυναγώγου", "gloss": "chef_de_synagogue" },
-          { "greek": "λέγων", "gloss": "disant" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Τέθνηκεν", "gloss": "est_morte", "analyse": "Du verbe *thnesko* (mourir). Le constat du Monde duel est sans appel, irréversible. Pour la logique horizontale, la rupture biologique est une fin absolue qui clôt toute possibilité de mouvement." },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "θυγάτηρ", "gloss": "fille" },
-          { "greek": "σου,", "gloss": "de_toi" },
-          { "greek": "μηκέτι", "gloss": "ne...plus" },
-          { "greek": "σκύλλε", "gloss": "importune/fatigue", "analyse": "Du verbe *skyllo* (écorcher, harceler, fatiguer). La logique humaine rationnelle considère que la Grâce a ses limites et qu'il est inutile d'épuiser l'Énergie divine pour ce qui est jugé définitivement perdu. C'est l'économie du calcul." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "διδάσκαλον.", "gloss": "maître/enseignant" }
+          {
+            "greek": "Ἔτι",
+            "gloss": "Encore"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "λαλοῦντος",
+            "gloss": "parlant"
+          },
+          {
+            "greek": "ἔρχεταί",
+            "gloss": "vient"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "de_chez/auprès_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀρχισυναγώγου",
+            "gloss": "chef_de_synagogue"
+          },
+          {
+            "greek": "λέγων",
+            "gloss": "disant"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Τέθνηκεν",
+            "gloss": "est_morte",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *thnesko* (mourir). Le constat du Monde duel est sans appel, irréversible. Pour la logique horizontale, la rupture biologique est une fin absolue qui clôt toute possibilité de mouvement.",
+              "related": [
+                "ὅτι",
+                "ἡ"
+              ]
+            }
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "θυγάτηρ",
+            "gloss": "fille"
+          },
+          {
+            "greek": "σου,",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "μηκέτι",
+            "gloss": "ne...plus"
+          },
+          {
+            "greek": "σκύλλε",
+            "gloss": "importune/fatigue",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *skyllo* (écorcher, harceler, fatiguer). La logique humaine rationnelle considère que la Grâce a ses limites et qu'il est inutile d'épuiser l'Énergie divine pour ce qui est jugé définitivement perdu. C'est l'économie du calcul.",
+              "related": [
+                "μηκέτι",
+                "τὸν"
+              ]
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "διδάσκαλον.",
+            "gloss": "maître/enseignant"
+          }
         ]
       },
       {
@@ -261,18 +1029,80 @@
           "darby": "Mais Jésus, l'ayant entendu, lui répondit, disant : Ne crains pas, crois seulement, et elle sera sauvée."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "mais/or" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ἀκούσας", "gloss": "ayant_entendu" },
-          { "greek": "ἀπεκρίθη", "gloss": "répondit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Μὴ", "gloss": "Ne...pas" },
-          { "greek": "φοβοῦ,", "gloss": "crains", "analyse": "Du verbe *phobeomai* (avoir peur, être terrifié). La peur est la vibration de l'Ego face au néant et à la perte de contrôle. Le Christ exige l'arrêt immédiat de cette baisse de fréquence vibratoire." },
-          { "greek": "μόνον", "gloss": "seulement" },
-          { "greek": "πίστευσον,", "gloss": "crois/adhère", "analyse": "L'impératif aoriste *pisteuson* exige un basculement immédiat et total. Ce n'est pas un espoir psychologique, mais un acte pur d'alignement. Faire confiance à l'Axe vertical alors même que l'horizontalité s'effondre." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "σωθήσεται.", "gloss": "elle_sera_sauvée", "analyse": "Du verbe *sozo* (rendre entier, sauver). Le Christ ne promet pas une réanimation temporaire, mais une entrée dans l'intégrité ontologique de l'Incréé. Le salut triomphe de la fragmentation de la mort." }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais/or"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἀκούσας",
+            "gloss": "ayant_entendu"
+          },
+          {
+            "greek": "ἀπεκρίθη",
+            "gloss": "répondit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Μὴ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "φοβοῦ,",
+            "gloss": "crains",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *phobeomai* (avoir peur, être terrifié). La peur est la vibration de l'Ego face au néant et à la perte de contrôle. Le Christ exige l'arrêt immédiat de cette baisse de fréquence vibratoire.",
+              "related": [
+                "Μὴ",
+                "μόνον"
+              ]
+            }
+          },
+          {
+            "greek": "μόνον",
+            "gloss": "seulement"
+          },
+          {
+            "greek": "πίστευσον,",
+            "gloss": "crois/adhère",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'impératif aoriste *pisteuson* exige un basculement immédiat et total. Ce n'est pas un espoir psychologique, mais un acte pur d'alignement. Faire confiance à l'Axe vertical alors même que l'horizontalité s'effondre.",
+              "related": [
+                "μόνον",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σωθήσεται.",
+            "gloss": "elle_sera_sauvée",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *sozo* (rendre entier, sauver). Le Christ ne promet pas une réanimation temporaire, mais une entrée dans l'intégrité ontologique de l'Incréé. Le salut triomphe de la fragmentation de la mort.",
+              "related": [
+                "καὶ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -282,32 +1112,137 @@
           "darby": "Et quand il fut venu à la maison, il ne permit à personne d'entrer, sinon à Pierre, et à Jean, et à Jacques, et au père et à la mère de l'enfant."
         },
         "interlinear": [
-          { "greek": "ἐλθὼν", "gloss": "Étant_venu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "οἰκίαν", "gloss": "maison" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἀφῆκεν", "gloss": "il_permit/laissa", "analyse": "Composé de *apo-* (séparation) et *hiemi* (envoyer). Littéralement : 'renvoyer loin de'. Jésus opère une coupure radicale, un tri vibratoire strict. Il isole l'espace du miracle de la pollution psychologique de la foule." },
-          { "greek": "εἰσελθεῖν", "gloss": "d'entrer", "analyse": "Composé de *eis-* (dans) et *erchomai* (venir). Entrer dans la chambre de la mort exige un certain état de conscience unifié." },
-          { "greek": "τινα", "gloss": "personne/quelqu'un" },
-          { "greek": "σὺν", "gloss": "avec", "analyse": "Le préfixe de co-inclusion *syn-*. Seul un petit noyau de témoins intimes (les piliers de la Conscience et les parents) est inclus (*syn*) dans le champ énergétique de l'Axe vertical." },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "μὴ", "gloss": "ce_n'est" },
-          { "greek": "Πέτρον", "gloss": "Pierre" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰωάννην", "gloss": "Jean" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰάκωβον", "gloss": "Jacques" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "πατέρα", "gloss": "père" },
-          { "greek": "τῆς", "gloss": "de_l'" },
-          { "greek": "παιδὸς", "gloss": "enfant/fille" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "μητέρα.", "gloss": "mère" }
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "Étant_venu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἰκίαν",
+            "gloss": "maison"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἀφῆκεν",
+            "gloss": "il_permit/laissa",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (séparation) et *hiemi* (envoyer). Littéralement : 'renvoyer loin de'. Jésus opère une coupure radicale, un tri vibratoire strict. Il isole l'espace du miracle de la pollution psychologique de la foule.",
+              "related": [
+                "οὐκ",
+                "εἰσελθεῖν"
+              ]
+            }
+          },
+          {
+            "greek": "εἰσελθεῖν",
+            "gloss": "d'entrer",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *eis-* (dans) et *erchomai* (venir). Entrer dans la chambre de la mort exige un certain état de conscience unifié.",
+              "related": [
+                "ἀφῆκεν",
+                "τινα"
+              ]
+            }
+          },
+          {
+            "greek": "τινα",
+            "gloss": "personne/quelqu'un"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le préfixe de co-inclusion *syn-*. Seul un petit noyau de témoins intimes (les piliers de la Conscience et les parents) est inclus (*syn*) dans le champ énergétique de l'Axe vertical.",
+              "related": [
+                "τινα",
+                "αὐτῷ"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ce_n'est"
+          },
+          {
+            "greek": "Πέτρον",
+            "gloss": "Pierre"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰωάννην",
+            "gloss": "Jean"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰάκωβον",
+            "gloss": "Jacques"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατέρα",
+            "gloss": "père"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "παιδὸς",
+            "gloss": "enfant/fille"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "μητέρα.",
+            "gloss": "mère"
+          }
         ]
       },
       {
@@ -317,22 +1252,96 @@
           "darby": "Et tous pleuraient et se lamentaient sur elle. Mais il dit : Ne pleurez pas, car elle n'est pas morte, mais elle dort."
         },
         "interlinear": [
-          { "greek": "ἔκλαιον", "gloss": "Pleuraient" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "πάντες", "gloss": "tous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐκόπτοντο", "gloss": "se_lamentaient/se_frappaient", "analyse": "Du verbe *kopto* (frapper, se frapper la poitrine en signe de deuil). C'est l'agitation désordonnée et purement physique de la chair face à la perte. La foule s'enferme dans le drame horizontal de la finitude." },
-          { "greek": "αὐτήν.", "gloss": "elle" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Μὴ", "gloss": "Ne...pas" },
-          { "greek": "κλαίετε·", "gloss": "pleurez" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἀπέθανεν", "gloss": "elle_est_morte", "analyse": "Composé de *apo-* (séparation) et *thnesko* (mourir). Jésus nie la définition humaine de la mort. Pour l'Incréé, la mort n'est pas une disparition définitive, elle n'est qu'un accident de surface." },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "καθεύδει.", "gloss": "elle_dort", "analyse": "Du verbe *katheudo* (dormir, être endormi). Changement radical de paradigme linguistique. Ce qui semble être le néant pour le Monde duel n'est qu'un état de sommeil réversible pour le Royaume UN. L'essence reste intacte, elle attend le réveil." }
+          {
+            "greek": "ἔκλαιον",
+            "gloss": "Pleuraient"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐκόπτοντο",
+            "gloss": "se_lamentaient/se_frappaient",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *kopto* (frapper, se frapper la poitrine en signe de deuil). C'est l'agitation désordonnée et purement physique de la chair face à la perte. La foule s'enferme dans le drame horizontal de la finitude.",
+              "related": [
+                "καὶ",
+                "αὐτήν."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτήν.",
+            "gloss": "elle"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Μὴ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "κλαίετε·",
+            "gloss": "pleurez"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἀπέθανεν",
+            "gloss": "elle_est_morte",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (séparation) et *thnesko* (mourir). Jésus nie la définition humaine de la mort. Pour l'Incréé, la mort n'est pas une disparition définitive, elle n'est qu'un accident de surface.",
+              "related": [
+                "γὰρ",
+                "ἀλλὰ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "καθεύδει.",
+            "gloss": "elle_dort",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *katheudo* (dormir, être endormi). Changement radical de paradigme linguistique. Ce qui semble être le néant pour le Monde duel n'est qu'un état de sommeil réversible pour le Royaume UN. L'essence reste intacte, elle attend le réveil.",
+              "related": [
+                "ἀλλὰ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -342,12 +1351,39 @@
           "darby": "Et ils se moquaient de lui, sachant qu'elle était morte."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "κατεγέλων", "gloss": "ils_se_moquaient_de/raillaient", "analyse": "Composé du préfixe *kata-* (vers le bas, mépris) et *gelao* (rire). Littéralement : 'rire de haut en bas', écraser par le rire. C'est la réaction typique du rationalisme de l'Ego qui, enfermé dans ses certitudes matérielles, tourne en dérision la logique verticale de l'Esprit." },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "εἰδότες", "gloss": "sachant" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ἀπέθανεν.", "gloss": "elle_était_morte" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "κατεγέλων",
+            "gloss": "ils_se_moquaient_de/raillaient",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé du préfixe *kata-* (vers le bas, mépris) et *gelao* (rire). Littéralement : 'rire de haut en bas', écraser par le rire. C'est la réaction typique du rationalisme de l'Ego qui, enfermé dans ses certitudes matérielles, tourne en dérision la logique verticale de l'Esprit.",
+              "related": [
+                "καὶ",
+                "αὐτοῦ,"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "εἰδότες",
+            "gloss": "sachant"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἀπέθανεν.",
+            "gloss": "elle_était_morte"
+          }
         ]
       },
       {
@@ -357,17 +1393,76 @@
           "darby": "Mais lui, les ayant tous mis dehors, et la prenant par la main, cria, disant : Enfant, lève-toi."
         },
         "interlinear": [
-          { "greek": "αὐτὸς", "gloss": "Lui" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "κρατήσας", "gloss": "ayant_saisi", "analyse": "Du verbe *krateo* (saisir fortement, être maître de). Le Christ pose un acte d'autorité physique directe. Il connecte sa Force souveraine à la main inerte de l'enfant pour y injecter l'Énergie vitale." },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "χειρὸς", "gloss": "main" },
-          { "greek": "αὐτῆς", "gloss": "de_elle" },
-          { "greek": "ἐφώνησεν", "gloss": "cria/appela", "analyse": "Du verbe *phoneo* (émettre un son, appeler à haute voix). Ce n'est pas un cri de panique, c'est l'émission d'un son primordial, une vibration de haute fréquence capable de traverser le voile de la mort pour rappeler l'âme." },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Ἡ", "gloss": "L'" },
-          { "greek": "παῖς,", "gloss": "enfant/fille" },
-          { "greek": "ἐγείρου.", "gloss": "lève-toi/éveille-toi", "analyse": "L'impératif présent passif *egeirou* (éveille-toi / sois redressée). Le Christ ordonne la verticalisation immédiate de l'être. L'enfant est invitée à s'extraire de la posture couchée de la mort pour se tenir debout sur l'Axe." }
+          {
+            "greek": "αὐτὸς",
+            "gloss": "Lui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "κρατήσας",
+            "gloss": "ayant_saisi",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *krateo* (saisir fortement, être maître de). Le Christ pose un acte d'autorité physique directe. Il connecte sa Force souveraine à la main inerte de l'enfant pour y injecter l'Énergie vitale.",
+              "related": [
+                "δὲ",
+                "τῆς"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "χειρὸς",
+            "gloss": "main"
+          },
+          {
+            "greek": "αὐτῆς",
+            "gloss": "de_elle"
+          },
+          {
+            "greek": "ἐφώνησεν",
+            "gloss": "cria/appela",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *phoneo* (émettre un son, appeler à haute voix). Ce n'est pas un cri de panique, c'est l'émission d'un son primordial, une vibration de haute fréquence capable de traverser le voile de la mort pour rappeler l'âme.",
+              "related": [
+                "αὐτῆς",
+                "λέγων·"
+              ]
+            }
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἡ",
+            "gloss": "L'"
+          },
+          {
+            "greek": "παῖς,",
+            "gloss": "enfant/fille"
+          },
+          {
+            "greek": "ἐγείρου.",
+            "gloss": "lève-toi/éveille-toi",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'impératif présent passif *egeirou* (éveille-toi / sois redressée). Le Christ ordonne la verticalisation immédiate de l'être. L'enfant est invitée à s'extraire de la posture couchée de la mort pour se tenir debout sur l'Axe.",
+              "related": [
+                "παῖς,"
+              ]
+            }
+          }
         ]
       },
       {
@@ -377,19 +1472,102 @@
           "darby": "Et son esprit revint ; et elle se leva immédiatement, et il ordonna de lui donner à manger."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐπέστρεψεν", "gloss": "revint/se_retourna", "analyse": "Composé de *epi-* (vers, sur) et *strepho* (tourner). Le mouvement de retour. L'esprit opère une conversion spatiale : il rebrousse chemin, quittant le défilé de la mort pour réintégrer l'enveloppe corporelle." },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "πνεῦμα", "gloss": "esprit/souffle", "analyse": "Le *Pneuma*. Le Souffle de vie divin, le principe ontologique le plus élevé. Il revient habiter la chair qui était asphyxiée." },
-          { "greek": "αὐτῆς,", "gloss": "de_elle" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀνέστη", "gloss": "elle_se_leva/ressuscita", "analyse": "Le verbe de la Résurrection : *ana-histemi*. Composé du préfixe de redressement *ana-* (vers le haut) et *histemi* (se tenir debout). Victoire absolue de l'Axe vertical : la jeune fille brise instantanément l'immobilité gravitaire pour se dresser face au Ciel." },
-          { "greek": "παραχρῆμα,", "gloss": "au_même_instant/immédiatement" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "διέταξεν", "gloss": "il_ordonna", "analyse": "Composé de *dia-* (à travers) et *tasso* (ordonner, structurer). Le Christ réintroduit immédiatement l'ordre et la structure dans le réel physique restauré." },
-          { "greek": "αὐτῇ", "gloss": "à_elle" },
-          { "greek": "δοθῆναι", "gloss": "d'être_donné" },
-          { "greek": "φαγεῖν.", "gloss": "à_manger", "analyse": "L'acte de manger réancre le Sujet dans la réalité concrète de l'incarnation. Le miracle n'est pas une extase éthérée ou fantasmagorique, il s'actualise dans la matière la plus quotidienne." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐπέστρεψεν",
+            "gloss": "revint/se_retourna",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi-* (vers, sur) et *strepho* (tourner). Le mouvement de retour. L'esprit opère une conversion spatiale : il rebrousse chemin, quittant le défilé de la mort pour réintégrer l'enveloppe corporelle.",
+              "related": [
+                "καὶ",
+                "τὸ"
+              ]
+            }
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "πνεῦμα",
+            "gloss": "esprit/souffle",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *Pneuma*. Le Souffle de vie divin, le principe ontologique le plus élevé. Il revient habiter la chair qui était asphyxiée.",
+              "related": [
+                "τὸ",
+                "αὐτῆς,"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῆς,",
+            "gloss": "de_elle"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀνέστη",
+            "gloss": "elle_se_leva/ressuscita",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe de la Résurrection : *ana-histemi*. Composé du préfixe de redressement *ana-* (vers le haut) et *histemi* (se tenir debout). Victoire absolue de l'Axe vertical : la jeune fille brise instantanément l'immobilité gravitaire pour se dresser face au Ciel.",
+              "related": [
+                "καὶ",
+                "παραχρῆμα,"
+              ]
+            }
+          },
+          {
+            "greek": "παραχρῆμα,",
+            "gloss": "au_même_instant/immédiatement"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διέταξεν",
+            "gloss": "il_ordonna",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *dia-* (à travers) et *tasso* (ordonner, structurer). Le Christ réintroduit immédiatement l'ordre et la structure dans le réel physique restauré.",
+              "related": [
+                "καὶ",
+                "αὐτῇ"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῇ",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "δοθῆναι",
+            "gloss": "d'être_donné"
+          },
+          {
+            "greek": "φαγεῖν.",
+            "gloss": "à_manger",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'acte de manger réancre le Sujet dans la réalité concrète de l'incarnation. Le miracle n'est pas une extase éthérée ou fantasmagorique, il s'actualise dans la matière la plus quotidienne.",
+              "related": [
+                "δοθῆναι"
+              ]
+            }
+          }
         ]
       },
       {
@@ -399,25 +1577,155 @@
           "darby": "Et ses parents furent saisis d'étonnement ; mais il leur enjoignit de ne dire à personne ce qui était arrivé."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐξέστησαν", "gloss": "furent_dans_l'étonnement/hors_d'eux-mêmes", "analyse": "Composé de *ek-* (hors de) et *histemi* (se tenir). Littéralement : 'être déplacé hors de sa position habituelle'. La puissance de l'Incréé expulse les parents hors de leurs repères mentaux ordinaires ; ils subissent un choc ontologique qui fait sauter les verrous de leur Ego." },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "γονεῖς", "gloss": "parents" },
-          { "greek": "αὐτῆς·", "gloss": "de_elle" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "παρήγγειλεν", "gloss": "recommanda/enjoignit" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "μηδενὶ", "gloss": "à_personne" },
-          { "greek": "εἰπεῖν", "gloss": "de_dire" },
-          { "greek": "tὸ", "gloss": "le" },
-          { "greek": "γεγονός.", "gloss": "fait/ce_qui_était_arrivé" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐξέστησαν",
+            "gloss": "furent_dans_l'étonnement/hors_d'eux-mêmes",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ek-* (hors de) et *histemi* (se tenir). Littéralement : 'être déplacé hors de sa position habituelle'. La puissance de l'Incréé expulse les parents hors de leurs repères mentaux ordinaires ; ils subissent un choc ontologique qui fait sauter les verrous de leur Ego.",
+              "related": [
+                "καὶ",
+                "οἱ"
+              ]
+            }
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "γονεῖς",
+            "gloss": "parents"
+          },
+          {
+            "greek": "αὐτῆς·",
+            "gloss": "de_elle"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "παρήγγειλεν",
+            "gloss": "recommanda/enjoignit"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "μηδενὶ",
+            "gloss": "à_personne"
+          },
+          {
+            "greek": "εἰπεῖν",
+            "gloss": "de_dire"
+          },
+          {
+            "greek": "tὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "γεγονός.",
+            "gloss": "fait/ce_qui_était_arrivé"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 52 - ἐκόπτοντο : Traduit par 'se lamentaient' (Segond, Darby). Ce choix affaiblit la dimension corporelle et convulsive du grec. *Kopto* signifie littéralement 'se frapper', s'auto-mutiler ou se cogner la poitrine par désespoir. Cela illustre la manière dont la foule du Monde duel subit la mort de façon purement épidermique et mécanique.\n• Verset 53 - κατεγέλων : 'Se moquaient de lui'. Le préfixe *kata-* (vers le bas) indique un rire de dédain, une tentative de l'Ego rationnel d'abaisser la parole christique pour se rassurer face à l'incompréhensible. Les traductions françaises manquent cette topographie du mépris.\n• Verset 55 - ἀνέστη : 'Elle se leva'. Le verbe *ana-histemi* est le terme technique de la résurrection (se tenir debout vers le haut). En traduisant simplement par 'se leva', Segond et Darby masquent l'émergence fulgurante de l'Axe vertical triomphant de la pesanteur de la mort.\n\nAnalyse spirituelle :\nCette seconde partie de la péricope orchestre le choc frontal entre le diagnostic de finitude du Monde duel et la puissance de résurrection du Royaume UN.\n\nQuand la nouvelle tombe ('Ta fille est morte', v. 49), la réaction immédiate de l'entourage est de clore le dossier : 'n'importune plus le maître'. C'est la signature de l'Ego : face à la mort physique, tout s'arrête, car il ne connaît aucune dimension au-delà de la matière. La foule s'enferme alors dans un deuil frénétique, automatique et bruyant (*ekoptonto*). Lorsque Jésus introduit une nouvelle clé de lecture en affirmant que l'enfant 'dort' (*katheudei*), le rationalisme horizontal se cabre et bascule dans le cynisme (*katagelon*) : l'homme du monde duel préfère ricaner plutôt que de voir ses certitudes de finitude ébranlées.\n\nPour accomplir le miracle, le Christ doit d'abord purifier l'espace vibratoire en expulsant la foule (*apheken*, v. 51). Il ne garde avec lui que les disciples unifiés et les parents. La résurrection s'opère par un double mouvement topographique et sonore : Jésus saisit la main (*krateo*) et émet un appel vibrant (*ephonesen*), ordonnant le redressement (*egeirou*). Le verset 55 décrit la cinématique du retour à la vie : le Souffle (*Pneuma*) fait volte-face (*epestrepsen*) et réintègre le corps, déclenchant l'immédiate verticalisation de l'être (*aneste*). \n\nL'injonction finale de donner à manger montre que la spiritualité non-duelle n'est pas une fuite désincarnée : l'Incréé se manifeste pour restaurer la vie dans sa dimension la plus concrète. Les parents, éjectés hors de leurs certitudes logiques (*exestesan*), découvrent le secret du Sujet éveillé : là où l'Ego ne voit qu'une impasse définitive, la Grâce ne voit qu'un sommeil transitoire prêt à céder devant l'Axe vertical."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 52 - ἐκόπτοντο : Traduit par 'se lamentaient' (Segond, Darby). Ce choix affaiblit la dimension corporelle et convulsive du grec. *Kopto* signifie littéralement 'se frapper', s'auto-mutiler ou se cogner la poitrine par désespoir. Cela illustre la manière dont la foule du Monde duel subit la mort de façon purement épidermique et mécanique.\n• Verset 53 - κατεγέλων : 'Se moquaient de lui'. Le préfixe *kata-* (vers le bas) indique un rire de dédain, une tentative de l'Ego rationnel d'abaisser la parole christique pour se rassurer face à l'incompréhensible. Les traductions françaises manquent cette topographie du mépris.\n• Verset 55 - ἀνέστη : 'Elle se leva'. Le verbe *ana-histemi* est le terme technique de la résurrection (se tenir debout vers le haut). En traduisant simplement par 'se leva', Segond et Darby masquent l'émergence fulgurante de l'Axe vertical triomphant de la pesanteur de la mort.\n\nAnalyse spirituelle :\nCette seconde partie de la péricope orchestre le choc frontal entre le diagnostic de finitude du Monde duel et la puissance de résurrection du Royaume UN.\n\nQuand la nouvelle tombe ('Ta fille est morte', v. 49), la réaction immédiate de l'entourage est de clore le dossier : 'n'importune plus le maître'. C'est la signature de l'Ego : face à la mort physique, tout s'arrête, car il ne connaît aucune dimension au-delà de la matière. La foule s'enferme alors dans un deuil frénétique, automatique et bruyant (*ekoptonto*). Lorsque Jésus introduit une nouvelle clé de lecture en affirmant que l'enfant 'dort' (*katheudei*), le rationalisme horizontal se cabre et bascule dans le cynisme (*katagelon*) : l'homme du monde duel préfère ricaner plutôt que de voir ses certitudes de finitude ébranlées.\n\nPour accomplir le miracle, le Christ doit d'abord purifier l'espace vibratoire en expulsant la foule (*apheken*, v. 51). Il ne garde avec lui que les disciples unifiés et les parents. La résurrection s'opère par un double mouvement topographique et sonore : Jésus saisit la main (*krateo*) et émet un appel vibrant (*ephonesen*), ordonnant le redressement (*egeirou*). Le verset 55 décrit la cinématique du retour à la vie : le Souffle (*Pneuma*) fait volte-face (*epestrepsen*) et réintègre le corps, déclenchant l'immédiate verticalisation de l'être (*aneste*). \n\nL'injonction finale de donner à manger montre que la spiritualité non-duelle n'est pas une fuite désincarnée : l'Incréé se manifeste pour restaurer la vie dans sa dimension la plus concrète. Les parents, éjectés hors de leurs certitudes logiques (*exestesan*), découvrent le secret du Sujet éveillé : là où l'Ego ne voit qu'une impasse définitive, la Grâce ne voit qu'un sommeil transitoire prêt à céder devant l'Axe vertical.\n\nComplément de lecture : deux récits s’entrelacent. Jaïrus demande pour sa fille de douze ans tandis qu’une femme malade depuis douze ans touche en secret le vêtement de Jésus. Le Christ refuse que la guérison demeure anonyme : il fait passer la femme de la dissimulation à la parole et l’appelle « fille », puis il rejoint l’enfant malgré l’annonce de sa mort.",
+    "homiletic_axes": [
+      {
+        "title": "Deux filles et douze années",
+        "content": "Le récit unit une enfant de douze ans et une femme malade depuis douze ans. L’interruption apparente devient le lieu où chacune est rejointe personnellement.",
+        "keywords": [
+          "θυγάτηρ",
+          "ἥψατο"
+        ]
+      },
+      {
+        "title": "Toucher au milieu de la foule",
+        "content": "Beaucoup pressent Jésus, mais un toucher devient relation. La puissance n’agit pas comme un mécanisme magique : Jésus cherche le visage et la parole de celle qui a été guérie.",
+        "keywords": [
+          "ἱματίου",
+          "δύναμιν",
+          "πίστις"
+        ]
+      },
+      {
+        "title": "Ne crains pas, crois seulement",
+        "content": "La nouvelle de la mort semble clore l’attente de Jaïrus. La parole de Jésus ouvre pourtant un passage de la peur à la confiance.",
+        "keywords": [
+          "θυγάτηρ",
+          "πίστευσον,"
+        ]
+      },
+      {
+        "title": "Le Christ abat le mur",
+        "content": "L’Apôtre éclaire ces passages de l’exclusion à la relation : le Christ est la paix qui détruit la séparation et ouvre un même accès au Père.",
+        "keywords": [
+          "εἰρήνη",
+          "μεσότοιχον",
+          "ἕνα"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement une entrée dans les deux lectures du 24e dimanche après la Pentecôte : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : enfermement, attente, blessure, isolement, accumulation, courbure, peur ou désir de retrouver une relation vivante."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : écouter, se laisser rejoindre, toucher avec délicatesse, devenir prochain, partager, se redresser ou recevoir la grâce."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes malades ou éprouvées."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Du contact caché à la paix qui rassemble",
+        "reference": "Luc 8, 41-56 ; Éphésiens 2, 14-22",
+        "content": "La femme sort de l’anonymat de la foule et Jaïrus traverse la peur ; l’Apôtre nomme le fondement de ces passages : le Christ lui-même est notre paix et abat ce qui séparait.",
+        "connections": []
+      }
+    ]
   },
-    "apostle": {
+  "apostle": {
     "reference": "Éphésiens 2, 14-22",
     "title": "La Paix Non-Duelle : Destruction du Mur Médian et Unification de l'Homme Nouveau",
     "interlinear": [
@@ -428,23 +1736,100 @@
           "darby": "Car c'est lui qui est notre paix, qui des deux en a fait un et a renversé le mur de séparation mitoyen,"
         },
         "interlinear": [
-          { "greek": "Αὐτὸς", "gloss": "Lui" },
-          { "greek": "γάρ", "gloss": "car" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "εἰρήνη", "gloss": "paix" },
-          { "greek": "ἡμῶν,", "gloss": "de_nous" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "ποιήσας", "gloss": "ayant_fait" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ἀμφότερα", "gloss": "deux" },
-          { "greek": "ἕν", "gloss": "un", "analyse": "Le neutre cardinal *hen* (l'Un). Le Christ ne réalise pas un compromis politique ou une alliance diplomatique entre deux blocs : Il dissout la dualité elle-même pour intégrer les opposés dans une unité ontologique absolue, caractéristique du Royaume UN." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "μεσότοιχον", "gloss": "mur_médian/mitoyen", "analyse": "Composé de *mesos* (milieu) et *toichos* (mur). Topographie de la séparation : c'est le mur du temple qui séparait les Juifs des païens. Métaphysiquement, c'est la frontière que l'Ego érige au milieu du réel pour fragmenter le monde, créer des identités de surface et s'isoler dans sa propre dualité." },
-          { "greek": "τοῦ", "gloss": "de_la" },
-          { "greek": "φραγμοῦ", "gloss": "clôture/séparation" },
-          { "greek": "λύσας,", "gloss": "ayant_délié/détruit", "analyse": "Du verbe *lyo* (délier, dissoudre, rompre). La Grâce ne contourne pas le mur, elle en dissout la consistance même en désamorçant les projections égotiques qui le maintenaient debout." }
+          {
+            "greek": "Αὐτὸς",
+            "gloss": "Lui"
+          },
+          {
+            "greek": "γάρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "εἰρήνη",
+            "gloss": "paix"
+          },
+          {
+            "greek": "ἡμῶν,",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ποιήσας",
+            "gloss": "ayant_fait"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀμφότερα",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἕν",
+            "gloss": "un",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le neutre cardinal *hen* (l'Un). Le Christ ne réalise pas un compromis politique ou une alliance diplomatique entre deux blocs : Il dissout la dualité elle-même pour intégrer les opposés dans une unité ontologique absolue, caractéristique du Royaume UN.",
+              "related": [
+                "ἀμφότερα",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μεσότοιχον",
+            "gloss": "mur_médian/mitoyen",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *mesos* (milieu) et *toichos* (mur). Topographie de la séparation : c'est le mur du temple qui séparait les Juifs des païens. Métaphysiquement, c'est la frontière que l'Ego érige au milieu du réel pour fragmenter le monde, créer des identités de surface et s'isoler dans sa propre dualité.",
+              "related": [
+                "τὸ",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "φραγμοῦ",
+            "gloss": "clôture/séparation"
+          },
+          {
+            "greek": "λύσας,",
+            "gloss": "ayant_délié/détruit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *lyo* (délier, dissoudre, rompre). La Grâce ne contourne pas le mur, elle en dissout la consistance même en désamorçant les projections égotiques qui le maintenaient debout.",
+              "related": [
+                "φραγμοῦ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -454,31 +1839,151 @@
           "darby": "ayant aboli dans sa chair l'inimitié, la loi des commandements exprimée en ordonnances, afin qu'il créât les deux en lui-même pour être un seul homme nouveau, faisant la paix,"
         },
         "interlinear": [
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἔχθραν", "gloss": "inimitié" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "σαρκὶ", "gloss": "chair" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "νόμον", "gloss": "loi" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἐντολῶν", "gloss": "commandements" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "δόγμασιν", "gloss": "ordonnances/dogmes", "analyse": "Les *dogmata* (les décrets, prescriptions extérieures). C'est le légalisme du Monde duel qui codifie les séparations et les exclusions. Le Christ abolit cette ossification religieuse périphérique en la clouant sur l'Axe vertical de la Croix." },
-          { "greek": "καταργήσας,", "gloss": "ayant_rendu_inactif/abolit", "analyse": "Composé du préfixe d'effacement *kata-* et d'*argeo* (être oisif, sans effet). La Loi transactionnelle est vidée de sa substance, neutralisée par l'amour kénotique." },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "κτίσῃ", "gloss": "il_crée", "analyse": "Du verbe *ktizo* (créer, fonder). Il ne s'agit pas d'une réforme ou d'un recyclage de l'Ego, mais d'un acte pur de Genèse." },
-          { "greek": "ἐν", "gloss": "en/dans" },
-          { "greek": "ἑαυτῷ", "gloss": "lui-même" },
-          { "greek": "εἰς", "gloss": "en/vers" },
-          { "greek": "ἕνα", "gloss": "un_seul", "analyse": "L'accusatif d'εἷς (Un). C'est le point focal du 7ème dimanche de Pâques. En écho total à la prière sacerdotale du Christ lue à l'Évangile ('afin que tous soient UN', ἵνα ὦσιν ἓν - Jean 17), ce 'Un' marque la pulvérisation du 'Monde duel'. La Kénose christique dissout l'inimitié (la séparation égotique, le 'deux') pour forger un Sujet unique. Dans la trame biblique, le péché (la chute) fragmente et disperse (la légion, Babel), tandis que la Croix ramène la multiplicité des fragments humains à la Monade indivisée du Logos." },
-          { "greek": "καινὸν", "gloss": "nouveau" },
-          { "greek": "ἄνθρωπον", "gloss": "homme", "analyse": "L'*anthropos kainos*. L'Homme Nouveau n'est pas l'homme amélioré chronologiquement (*neos*), mais un homme qualitativement autre (*kainos*), unifié, dont la Conscience s'est éveillée à l'Incréé, par-delà les masques identitaires de la chair." },
-          { "greek": "ποιῶν", "gloss": "faisant" },
-          { "greek": "εἰρήνην,", "gloss": "la_paix" }
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἔχθραν",
+            "gloss": "inimitié"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "σαρκὶ",
+            "gloss": "chair"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "νόμον",
+            "gloss": "loi"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἐντολῶν",
+            "gloss": "commandements"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "δόγμασιν",
+            "gloss": "ordonnances/dogmes",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Les *dogmata* (les décrets, prescriptions extérieures). C'est le légalisme du Monde duel qui codifie les séparations et les exclusions. Le Christ abolit cette ossification religieuse périphérique en la clouant sur l'Axe vertical de la Croix.",
+              "related": [
+                "ἐν",
+                "καταργήσας,"
+              ]
+            }
+          },
+          {
+            "greek": "καταργήσας,",
+            "gloss": "ayant_rendu_inactif/abolit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé du préfixe d'effacement *kata-* et d'*argeo* (être oisif, sans effet). La Loi transactionnelle est vidée de sa substance, neutralisée par l'amour kénotique.",
+              "related": [
+                "δόγμασιν",
+                "ἵνα"
+              ]
+            }
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "κτίσῃ",
+            "gloss": "il_crée",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *ktizo* (créer, fonder). Il ne s'agit pas d'une réforme ou d'un recyclage de l'Ego, mais d'un acte pur de Genèse.",
+              "related": [
+                "δύο",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/dans"
+          },
+          {
+            "greek": "ἑαυτῷ",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en/vers"
+          },
+          {
+            "greek": "ἕνα",
+            "gloss": "un_seul",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'accusatif d'εἷς (Un). C'est le point focal du 7ème dimanche de Pâques. En écho total à la prière sacerdotale du Christ lue à l'Évangile ('afin que tous soient UN', ἵνα ὦσιν ἓν - Jean 17), ce 'Un' marque la pulvérisation du 'Monde duel'. La Kénose christique dissout l'inimitié (la séparation égotique, le 'deux') pour forger un Sujet unique. Dans la trame biblique, le péché (la chute) fragmente et disperse (la légion, Babel), tandis que la Croix ramène la multiplicité des fragments humains à la Monade indivisée du Logos.",
+              "related": [
+                "εἰς",
+                "καινὸν"
+              ]
+            }
+          },
+          {
+            "greek": "καινὸν",
+            "gloss": "nouveau"
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "homme",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'*anthropos kainos*. L'Homme Nouveau n'est pas l'homme amélioré chronologiquement (*neos*), mais un homme qualitativement autre (*kainos*), unifié, dont la Conscience s'est éveillée à l'Incréé, par-delà les masques identitaires de la chair.",
+              "related": [
+                "καινὸν",
+                "ποιῶν"
+              ]
+            }
+          },
+          {
+            "greek": "ποιῶν",
+            "gloss": "faisant"
+          },
+          {
+            "greek": "εἰρήνην,",
+            "gloss": "la_paix"
+          }
         ]
       },
       {
@@ -488,23 +1993,110 @@
           "darby": "et qu'il réconciliât les deux en un seul corps avec Dieu par la croix, ayant tué par elle l'inimitié."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀποκαταλλάξῃ", "gloss": "il_réconcilie_pleinement", "analyse": "Composé de *apo-* (arrachement/intensité), *kata-* (mouvement vers le bas/accomplissement) et *allasso* (changer, transformer). Ce verbe exprime une transformation corrective totale : ramener l'être égaré au point d'origine, en inversant complètement la trajectoire de la chute." },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ἀμφοτέρους", "gloss": "deux" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ἑνὶ", "gloss": "un_seul", "analyse": "Le datif d'εἷς (Un), qualifiant ici le 'corps' (σῶμα). L'Évangile appelait l'Unité de ses vœux ; l'Apôtre confirme son incarnation physique. L'Ego mondain classe et sépare la chair (Juifs/Païens, Maîtres/Esclaves), mais la Croix agit comme un creuset alchimique. Ce rassemblement en UN SEUL Corps est l'antithèse absolue de la multitude informe et mimétique (la foule). Le diviseur diabolos sépare ; le Christ unit l'altérité sans l'écraser." },
-          { "greek": "σώματι", "gloss": "corps" },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "θεῷ", "gloss": "Dieu" },
-          { "greek": "διὰ", "gloss": "par/à_travers" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "σταυροῦ,", "gloss": "croix", "analyse": "Le *stauros*, le poteau vertical. C'est l'instrument de la mort de l'Ego. C'est sur cet Axe vertical que la dualité conflictuelle de la terre est hissée et transmuée en Unité sous le regard de l'Incréé." },
-          { "greek": "ἀποκτείνας", "gloss": "ayant_tué", "analyse": "Composé de *apo-* (séparation définitive) et *kteino* (tuer). Paul utilise un terme d'une violence absolue : la Croix ne pacifie pas superficiellement l'inimitié, elle la 'tue', l'extermine en coupant la racine même de la division égotique." },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἔχθραν", "gloss": "inimitié" },
-          { "greek": "ἐν", "gloss": "en/par" },
-          { "greek": "αὐτῷ.", "gloss": "elle/lui-même" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποκαταλλάξῃ",
+            "gloss": "il_réconcilie_pleinement",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (arrachement/intensité), *kata-* (mouvement vers le bas/accomplissement) et *allasso* (changer, transformer). Ce verbe exprime une transformation corrective totale : ramener l'être égaré au point d'origine, en inversant complètement la trajectoire de la chute.",
+              "related": [
+                "καὶ",
+                "τοὺς"
+              ]
+            }
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀμφοτέρους",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἑνὶ",
+            "gloss": "un_seul",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le datif d'εἷς (Un), qualifiant ici le 'corps' (σῶμα). L'Évangile appelait l'Unité de ses vœux ; l'Apôtre confirme son incarnation physique. L'Ego mondain classe et sépare la chair (Juifs/Païens, Maîtres/Esclaves), mais la Croix agit comme un creuset alchimique. Ce rassemblement en UN SEUL Corps est l'antithèse absolue de la multitude informe et mimétique (la foule). Le diviseur diabolos sépare ; le Christ unit l'altérité sans l'écraser.",
+              "related": [
+                "ἐν",
+                "σώματι"
+              ]
+            }
+          },
+          {
+            "greek": "σώματι",
+            "gloss": "corps"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "θεῷ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par/à_travers"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "σταυροῦ,",
+            "gloss": "croix",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *stauros*, le poteau vertical. C'est l'instrument de la mort de l'Ego. C'est sur cet Axe vertical que la dualité conflictuelle de la terre est hissée et transmuée en Unité sous le regard de l'Incréé.",
+              "related": [
+                "τοῦ",
+                "ἀποκτείνας"
+              ]
+            }
+          },
+          {
+            "greek": "ἀποκτείνας",
+            "gloss": "ayant_tué",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (séparation définitive) et *kteino* (tuer). Paul utilise un terme d'une violence absolue : la Croix ne pacifie pas superficiellement l'inimitié, elle la 'tue', l'extermine en coupant la racine même de la division égotique.",
+              "related": [
+                "σταυροῦ,",
+                "τὴν"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἔχθραν",
+            "gloss": "inimitié"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/par"
+          },
+          {
+            "greek": "αὐτῷ.",
+            "gloss": "elle/lui-même"
+          }
         ]
       },
       {
@@ -514,17 +2106,59 @@
           "darby": "Et il est venu et a évangélisé la paix à vous qui étiez loin, et la paix à ceux qui étaient près ;"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐλθὼν", "gloss": "étant_venu" },
-          { "greek": "εὐηγγελίσατο", "gloss": "il_annonça_la_bonne_nouvelle" },
-          { "greek": "εἰρήνην", "gloss": "paix" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "τοῖς", "gloss": "les" },
-          { "greek": "μακρὰν", "gloss": "loin", "analyse": "Topographie de la distance psychologique et rituelle. Être 'loin' ou 'près' de l'Axe sont des catégories spatiales du Monde duel. Le Message de la Paix non-duelle abolit ces coordonnées géographiques pour révéler la Présence immédiate de la Source." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἰρήνην", "gloss": "paix" },
-          { "greek": "τοῖς", "gloss": "à_ceux" },
-          { "greek": "ἐγγύς·", "gloss": "près" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "εὐηγγελίσατο",
+            "gloss": "il_annonça_la_bonne_nouvelle"
+          },
+          {
+            "greek": "εἰρήνην",
+            "gloss": "paix"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "μακρὰν",
+            "gloss": "loin",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Topographie de la distance psychologique et rituelle. Être 'loin' ou 'près' de l'Axe sont des catégories spatiales du Monde duel. Le Message de la Paix non-duelle abolit ces coordonnées géographiques pour révéler la Présence immédiate de la Source.",
+              "related": [
+                "τοῖς",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἰρήνην",
+            "gloss": "paix"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "à_ceux"
+          },
+          {
+            "greek": "ἐγγύς·",
+            "gloss": "près"
+          }
         ]
       },
       {
@@ -534,45 +2168,198 @@
           "darby": "car par lui nous avons, les uns et les autres, accès auprès du Père par un seul Esprit."
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "car/parce_que" },
-          { "greek": "δι’", "gloss": "par/à_travers" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "ἔχομεν", "gloss": "nous_avons" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "προσαγωγὴν", "gloss": "accès/introduction", "analyse": "Composé de *pros-* (vers, mouvement d'approche intime) et *ago* (conduire). Le Christ est le vecteur de verticalisation qui conduit le Sujet tout contre (*pros-*) l'Intimité du Père, brisant toute distance ontologique." },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ἀμφότεροι", "gloss": "deux" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ἑνὶ", "gloss": "un_seul", "analyse": "Ce 'Un' qualifie ici l'Esprit (πνεῦμα). Il tend l'arc liturgique vers le dimanche suivant : la Pentecôte. La Matrice du monde est saturée de bruits, d'idoles et d'esprits de division. Ici, la trinité restauratrice est déployée : par le Fils, portés par UN SEUL Souffle, nous accédons au Père. L'humanité, désintégrée par la chute et l'Arbre de la Connaissance, retrouve son diapason parfait et vibre à nouveau sur l'unique fréquence incréée." },
-          { "greek": "πνεύματι", "gloss": "Esprit/Souffle", "analyse": "Le *Hen Pneuma* (l'Unique Souffle). C'est le milieu vibratoire non-duel par excellence. Loin des langages et des dogmes fragmentés de la terre, les Sujets se découvrent co-inclus dans le même courant de Vie de l'Incréé." },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "πατέρα.", "gloss": "Père" }
+          {
+            "greek": "ὅτι",
+            "gloss": "car/parce_que"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par/à_travers"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἔχομεν",
+            "gloss": "nous_avons"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "προσαγωγὴν",
+            "gloss": "accès/introduction",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *pros-* (vers, mouvement d'approche intime) et *ago* (conduire). Le Christ est le vecteur de verticalisation qui conduit le Sujet tout contre (*pros-*) l'Intimité du Père, brisant toute distance ontologique.",
+              "related": [
+                "τὴν",
+                "οἱ"
+              ]
+            }
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀμφότεροι",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἑνὶ",
+            "gloss": "un_seul",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Ce 'Un' qualifie ici l'Esprit (πνεῦμα). Il tend l'arc liturgique vers le dimanche suivant : la Pentecôte. La Matrice du monde est saturée de bruits, d'idoles et d'esprits de division. Ici, la trinité restauratrice est déployée : par le Fils, portés par UN SEUL Souffle, nous accédons au Père. L'humanité, désintégrée par la chute et l'Arbre de la Connaissance, retrouve son diapason parfait et vibre à nouveau sur l'unique fréquence incréée.",
+              "related": [
+                "ἐν",
+                "πνεύματι"
+              ]
+            }
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "Esprit/Souffle",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *Hen Pneuma* (l'Unique Souffle). C'est le milieu vibratoire non-duel par excellence. Loin des langages et des dogmes fragmentés de la terre, les Sujets se découvrent co-inclus dans le même courant de Vie de l'Incréé.",
+              "related": [
+                "ἑνὶ",
+                "πρὸς"
+              ]
+            }
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατέρα.",
+            "gloss": "Père"
+          }
         ]
       },
-  {
+      {
         "verse_number": 19,
         "translations": {
           "segond": "Ainsi donc, vous n'êtes plus des étrangers, ni des gens du dehors; mais vous êtes concitoyens des saints, gens de la maison de Dieu.",
           "darby": "Ainsi donc vous n'êtes plus étrangers ni forains, mais vous êtes concitoyens des saints et gens de la maison de Dieu,"
         },
         "interlinear": [
-          { "greek": "Ἄρα", "gloss": "Ainsi" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "οὐκέτι", "gloss": "non_plus" },
-          { "greek": "ἐστὲ", "gloss": "vous_êtes" },
-          { "greek": "ξένοι", "gloss": "étrangers", "analyse": "Le *xenos* (l'étranger, l'exilé). L'état naturel de l'Ego dans le Monde duel est l'exil ontologique. Il se sent toujours menacé et extérieur à l'Être." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πάροικοι,", "gloss": "résidents_temporaires/gens_du_dehors", "analyse": "Composé de *para-* (à côté de) et *oikos* (maison). Topographie de la périphérie : le *paroikos* est celui qui campe 'à côté' de la maison sans jamais pouvoir y pénétrer. Il est contigu à la vérité, mais n'y habite pas." },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "ἐστὲ", "gloss": "vous_êtes" },
-          { "greek": "συμπολῖται", "gloss": "concitoyens", "analyse": "Composé du préfixe de co-inclusion *syn-* (avec) et *polites* (citoyen). C'est la fin de la périphérie : le Sujet est intégré de plein droit dans le Centre, la Cité de l'Incréé." },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἁγίων", "gloss": "saints" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οἰκεῖοι", "gloss": "gens_de_la_maison", "analyse": "Le mot racine *oikos* (maison) est repris ici sans le préfixe péjoratif *para-*. Les croyants ne sont plus à côté de la maison, ils sont devenus la substance même du Foyer divin." },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "θεοῦ,", "gloss": "Dieu" }
+          {
+            "greek": "Ἄρα",
+            "gloss": "Ainsi"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "οὐκέτι",
+            "gloss": "non_plus"
+          },
+          {
+            "greek": "ἐστὲ",
+            "gloss": "vous_êtes"
+          },
+          {
+            "greek": "ξένοι",
+            "gloss": "étrangers",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *xenos* (l'étranger, l'exilé). L'état naturel de l'Ego dans le Monde duel est l'exil ontologique. Il se sent toujours menacé et extérieur à l'Être.",
+              "related": [
+                "ἐστὲ",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάροικοι,",
+            "gloss": "résidents_temporaires/gens_du_dehors",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *para-* (à côté de) et *oikos* (maison). Topographie de la périphérie : le *paroikos* est celui qui campe 'à côté' de la maison sans jamais pouvoir y pénétrer. Il est contigu à la vérité, mais n'y habite pas.",
+              "related": [
+                "καὶ",
+                "ἀλλὰ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἐστὲ",
+            "gloss": "vous_êtes"
+          },
+          {
+            "greek": "συμπολῖται",
+            "gloss": "concitoyens",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé du préfixe de co-inclusion *syn-* (avec) et *polites* (citoyen). C'est la fin de la périphérie : le Sujet est intégré de plein droit dans le Centre, la Cité de l'Incréé.",
+              "related": [
+                "ἐστὲ",
+                "τῶν"
+              ]
+            }
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἁγίων",
+            "gloss": "saints"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἰκεῖοι",
+            "gloss": "gens_de_la_maison",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot racine *oikos* (maison) est repris ici sans le préfixe péjoratif *para-*. Les croyants ne sont plus à côté de la maison, ils sont devenus la substance même du Foyer divin.",
+              "related": [
+                "καὶ",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -582,19 +2369,75 @@
           "darby": "ayant été édifiés sur le fondement des apôtres et prophètes, Jésus Christ lui-même étant la maîtresse pierre du coin,"
         },
         "interlinear": [
-          { "greek": "ἐποικοδομηθέντες", "gloss": "ayant_été_édifiés_sur", "analyse": "Composé de *epi-* (sur), *oikos* (maison) et *domeo* (bâtir). C'est le mouvement de la verticalité spirituelle (*epi-*) qui s'appuie sur une matrice préexistante solide." },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "θεμελίῳ", "gloss": "fondement" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἀποστόλων", "gloss": "apôtres" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "προφητῶν,", "gloss": "prophètes" },
-          { "greek": "ὄντος", "gloss": "étant" },
-          { "greek": "ἀκρογωνιαίου", "gloss": "pierre_angulaire/sommet", "analyse": "Composé de *akron* (le sommet, l'extrême limite) et *gonia* (l'angle). C'est la pierre de voûte ou d'angle qui encaisse les tensions contraires de l'édifice pour les unifier. Le Christ est ce point de convergence absolue où la dualité des murs horizontaux se résout dans l'Axe vertical." },
-          { "greek": "αὐτοῦ", "gloss": "lui-même" },
-          { "greek": "Χριστοῦ", "gloss": "Christ" },
-          { "greek": "Ἰησοῦ,", "gloss": "Jésus" }
+          {
+            "greek": "ἐποικοδομηθέντες",
+            "gloss": "ayant_été_édifiés_sur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi-* (sur), *oikos* (maison) et *domeo* (bâtir). C'est le mouvement de la verticalité spirituelle (*epi-*) qui s'appuie sur une matrice préexistante solide.",
+              "related": [
+                "ἐπὶ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεμελίῳ",
+            "gloss": "fondement"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀποστόλων",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προφητῶν,",
+            "gloss": "prophètes"
+          },
+          {
+            "greek": "ὄντος",
+            "gloss": "étant"
+          },
+          {
+            "greek": "ἀκρογωνιαίου",
+            "gloss": "pierre_angulaire/sommet",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *akron* (le sommet, l'extrême limite) et *gonia* (l'angle). C'est la pierre de voûte ou d'angle qui encaisse les tensions contraires de l'édifice pour les unifier. Le Christ est ce point de convergence absolue où la dualité des murs horizontaux se résout dans l'Axe vertical.",
+              "related": [
+                "ὄντος",
+                "αὐτοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦ,",
+            "gloss": "Jésus"
+          }
         ]
       },
       {
@@ -604,17 +2447,86 @@
           "darby": "en qui toute l'édifice, bien ajusté ensemble, croît pour être un temple saint dans le Seigneur ;"
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ᾧ", "gloss": "qui" },
-          { "greek": "πᾶσα", "gloss": "tout" },
-          { "greek": "οἰκοδομὴ", "gloss": "édifice/construction" },
-          { "greek": "συναρμολογουμένη", "gloss": "étant_bien_coordonnée/assemblée", "analyse": "Composé de *syn-* (ensemble), *harmos* (joint, articulation) et *lego* (rassembler). L'ajustement vibratoire parfait. Dans le Royaume UN, chaque Sujet trouve sa place exacte, s'articulant organiquement avec l'autre sans aucune friction égotique." },
-          { "greek": "αὔξει", "gloss": "s'élève/croît", "analyse": "La croissance de l'édifice divin est organique (*auxano*, comme une plante), non mécanique. La pierre est vivante." },
-          { "greek": "εἰς", "gloss": "en/vers", "analyse": "La préposition 'eis' indique la dynamique, la trajectoire, l'intégration. Le Royaume n'est pas un concept statique ou un acquis de l'Ego. Les croyants (les pierres vivantes) sont aspirés 'vers' (eis) l'édifice unique. Ce mouvement d'attraction vers le centre est la force centripète de l'Esprit Saint ; elle vient vaincre la force centrifuge de l'entropie mondaine qui disperse perpétuellement la conscience." },
-          { "greek": "ναὸν", "gloss": "un_temple_intérieur", "analyse": "Le *naos*. C'est le Saint des Saints, le sanctuaire intime où réside la divinité, par opposition au *hieron* (l'esplanade extérieure du temple, avec ses parvis de séparation, ses marchands et sa foule). Le but de l'ascèse est de devenir un *naos*, non un *hieron*." },
-          { "greek": "ἅγιον", "gloss": "saint" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "κυρίῳ,", "gloss": "le_Seigneur" }
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "πᾶσα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "οἰκοδομὴ",
+            "gloss": "édifice/construction"
+          },
+          {
+            "greek": "συναρμολογουμένη",
+            "gloss": "étant_bien_coordonnée/assemblée",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *syn-* (ensemble), *harmos* (joint, articulation) et *lego* (rassembler). L'ajustement vibratoire parfait. Dans le Royaume UN, chaque Sujet trouve sa place exacte, s'articulant organiquement avec l'autre sans aucune friction égotique.",
+              "related": [
+                "οἰκοδομὴ",
+                "αὔξει"
+              ]
+            }
+          },
+          {
+            "greek": "αὔξει",
+            "gloss": "s'élève/croît",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La croissance de l'édifice divin est organique (*auxano*, comme une plante), non mécanique. La pierre est vivante.",
+              "related": [
+                "συναρμολογουμένη",
+                "εἰς"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en/vers",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La préposition 'eis' indique la dynamique, la trajectoire, l'intégration. Le Royaume n'est pas un concept statique ou un acquis de l'Ego. Les croyants (les pierres vivantes) sont aspirés 'vers' (eis) l'édifice unique. Ce mouvement d'attraction vers le centre est la force centripète de l'Esprit Saint ; elle vient vaincre la force centrifuge de l'entropie mondaine qui disperse perpétuellement la conscience.",
+              "related": [
+                "αὔξει",
+                "ναὸν"
+              ]
+            }
+          },
+          {
+            "greek": "ναὸν",
+            "gloss": "un_temple_intérieur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *naos*. C'est le Saint des Saints, le sanctuaire intime où réside la divinité, par opposition au *hieron* (l'esplanade extérieure du temple, avec ses parvis de séparation, ses marchands et sa foule). Le but de l'ascèse est de devenir un *naos*, non un *hieron*.",
+              "related": [
+                "εἰς",
+                "ἅγιον"
+              ]
+            }
+          },
+          {
+            "greek": "ἅγιον",
+            "gloss": "saint"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κυρίῳ,",
+            "gloss": "le_Seigneur"
+          }
         ]
       },
       {
@@ -624,20 +2536,120 @@
           "darby": "en qui, vous aussi, vous êtes édifiés ensemble pour être une habitation de Dieu par l'Esprit."
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ᾧ", "gloss": "qui" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "συνοικοδομεῖσθε", "gloss": "vous_êtes_édifiés_ensemble", "analyse": "Troisième occurrence du préfixe *syn-* dans ce lexique architectural (*sym-politai*, *syn-armologoumene*, *syn-oikodomeisthe*). Paul martèle l'impossibilité d'un éveil solipsiste. Le Sujet ne peut se verticaliser qu'en acceptant la co-inclusion et l'interdépendance avec les autres pierres vivantes." },
-          { "greek": "εἰς", "gloss": "en/vers", "analyse": "Cette dernière préposition 'eis' scelle la péricope sur l'anagogie finale : la destination (le lieu d'habitation, le creux matriciel de Dieu). Le Sujet, s'étant vidé de son Ego (kénose), ne s'évapore pas dans le néant à la manière des sagesses orientales duales : il se structure 'en' devenant le tabernacle vivant de l'Incréé. L'Apôtre achève de redresser l'Axe : Dieu n'habite pas les structures figées du monde ('en plein'), Il habite l'architecture unifiée des cœurs." },
-          { "greek": "κατοικητήριον", "gloss": "une_habitation/demeure", "analyse": "Composé du préfixe *kata-* (vers le bas, intensité) et *oiketerion* (demeure). Le mouvement de verticalité humaine (*epoikodomethentes* au v.20) attire le mouvement descendant fulgurant de la Grâce (*kata-*). L'Incréé 'descend' faire sa demeure dans l'Homme Nouveau unifié." },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "πνεύματι.", "gloss": "Esprit" }
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "συνοικοδομεῖσθε",
+            "gloss": "vous_êtes_édifiés_ensemble",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Troisième occurrence du préfixe *syn-* dans ce lexique architectural (*sym-politai*, *syn-armologoumene*, *syn-oikodomeisthe*). Paul martèle l'impossibilité d'un éveil solipsiste. Le Sujet ne peut se verticaliser qu'en acceptant la co-inclusion et l'interdépendance avec les autres pierres vivantes.",
+              "related": [
+                "ὑμεῖς",
+                "εἰς"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en/vers",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Cette dernière préposition 'eis' scelle la péricope sur l'anagogie finale : la destination (le lieu d'habitation, le creux matriciel de Dieu). Le Sujet, s'étant vidé de son Ego (kénose), ne s'évapore pas dans le néant à la manière des sagesses orientales duales : il se structure 'en' devenant le tabernacle vivant de l'Incréé. L'Apôtre achève de redresser l'Axe : Dieu n'habite pas les structures figées du monde ('en plein'), Il habite l'architecture unifiée des cœurs.",
+              "related": [
+                "συνοικοδομεῖσθε",
+                "κατοικητήριον"
+              ]
+            }
+          },
+          {
+            "greek": "κατοικητήριον",
+            "gloss": "une_habitation/demeure",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé du préfixe *kata-* (vers le bas, intensité) et *oiketerion* (demeure). Le mouvement de verticalité humaine (*epoikodomethentes* au v.20) attire le mouvement descendant fulgurant de la Grâce (*kata-*). L'Incréé 'descend' faire sa demeure dans l'Homme Nouveau unifié.",
+              "related": [
+                "εἰς",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "πνεύματι.",
+            "gloss": "Esprit"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 19 - πάροικοι : Traduit par 'gens du dehors' (Segond) ou 'forains' (Darby). Le préfixe *para-* (à côté) illustre magnifiquement la tragédie de l'Ego religieux : il campe *autour* ou *à côté* du Mystère sans jamais s'y fondre. Les traductions françaises ne rendent que partiellement cette notion d'être 'frustré sur le pas de la porte'.\n• Verset 21 - ναὸν : 'Temple'. En grec, il y a deux mots pour le temple. Le *hieron* (le complexe architectural global, avec ses divisions pour les païens, les femmes, les Juifs) et le *naos* (le Saint des Saints). Paul utilise *naos*. L'Homme Nouveau ne reproduit pas les structures de séparation extérieures du *hieron*, il est immédiatement le réceptacle intime de la divinité.\n\nAnalyse spirituelle :\nCe texte est la charte fondatrice de la 'Nouvelle Création' et de la non-dualité paulinienne.\n\nLa première partie (v.14-18) décrit une double opération de destruction et de création. Le Christ ne se contente pas d'enjamber les barrières humaines, il dissout le 'mur médian de séparation' (*mesotoichon*). Ce mur représente toutes les polarités du Monde duel : la haine, le tribalisme, les lois religieuses d'exclusion, les justifications égotiques (les *dogmata*). La Grâce cloue cette logique horizontale sur l'Axe de la Croix, non pour faire cohabiter pacifiquement deux identités distinctes, mais pour 'tuer' (*apokteinas*, v.16) l'inimitié et forger un Être qualitativement inédit : l'Homme Nouveau unifié.\n\nLa seconde partie (v.19-22) illustre le résultat de cette fusion, en utilisant l'image éblouissante de l'architecture divine. L'Ego est un *xenos* (un étranger) ou un *paroikos* (un campeur périphérique). Mais le Sujet éveillé, attiré par la Pierre Angulaire (le point de tension où tous les opposés se résolvent), est encastré dans l'édifice par le Souffle divin. Paul sature son texte de préfixes *syn-* (avec) pour nous enseigner qu'il n'y a pas de salut isolé. Nous sommes co-assemblés (*synarmologoumene*). \n\nL'ascèse spirituelle est ce travail de taille de la pierre : éliminer les aspérités de l'Ego pour s'emboîter parfaitement avec l'autre, formant ainsi un *Naos*, un espace intérieur unifié. Ce n'est qu'à ce moment-là que se produit le mouvement de bascule ultime (le préfixe *kata-* du v.22) : l'Incréé descend habiter (*katoiketerion*) la matière pacifiée."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 19 - πάροικοι : Traduit par 'gens du dehors' (Segond) ou 'forains' (Darby). Le préfixe *para-* (à côté) illustre magnifiquement la tragédie de l'Ego religieux : il campe *autour* ou *à côté* du Mystère sans jamais s'y fondre. Les traductions françaises ne rendent que partiellement cette notion d'être 'frustré sur le pas de la porte'.\n• Verset 21 - ναὸν : 'Temple'. En grec, il y a deux mots pour le temple. Le *hieron* (le complexe architectural global, avec ses divisions pour les païens, les femmes, les Juifs) et le *naos* (le Saint des Saints). Paul utilise *naos*. L'Homme Nouveau ne reproduit pas les structures de séparation extérieures du *hieron*, il est immédiatement le réceptacle intime de la divinité.\n\nAnalyse spirituelle :\nCe texte est la charte fondatrice de la 'Nouvelle Création' et de la non-dualité paulinienne.\n\nLa première partie (v.14-18) décrit une double opération de destruction et de création. Le Christ ne se contente pas d'enjamber les barrières humaines, il dissout le 'mur médian de séparation' (*mesotoichon*). Ce mur représente toutes les polarités du Monde duel : la haine, le tribalisme, les lois religieuses d'exclusion, les justifications égotiques (les *dogmata*). La Grâce cloue cette logique horizontale sur l'Axe de la Croix, non pour faire cohabiter pacifiquement deux identités distinctes, mais pour 'tuer' (*apokteinas*, v.16) l'inimitié et forger un Être qualitativement inédit : l'Homme Nouveau unifié.\n\nLa seconde partie (v.19-22) illustre le résultat de cette fusion, en utilisant l'image éblouissante de l'architecture divine. L'Ego est un *xenos* (un étranger) ou un *paroikos* (un campeur périphérique). Mais le Sujet éveillé, attiré par la Pierre Angulaire (le point de tension où tous les opposés se résolvent), est encastré dans l'édifice par le Souffle divin. Paul sature son texte de préfixes *syn-* (avec) pour nous enseigner qu'il n'y a pas de salut isolé. Nous sommes co-assemblés (*synarmologoumene*). \n\nL'ascèse spirituelle est ce travail de taille de la pierre : éliminer les aspérités de l'Ego pour s'emboîter parfaitement avec l'autre, formant ainsi un *Naos*, un espace intérieur unifié. Ce n'est qu'à ce moment-là que se produit le mouvement de bascule ultime (le préfixe *kata-* du v.22) : l'Incréé descend habiter (*katoiketerion*) la matière pacifiée.\n\nComplément de lecture : Éphésiens proclame que le Christ est notre paix. Il ne juxtapose pas deux groupes séparés : il abat le mur, crée en lui-même un homme nouveau et donne aux uns et aux autres accès auprès du Père dans un seul Esprit.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement une entrée dans les deux lectures du 24e dimanche après la Pentecôte : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : enfermement, attente, blessure, isolement, accumulation, courbure, peur ou désir de retrouver une relation vivante."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : écouter, se laisser rejoindre, toucher avec délicatesse, devenir prochain, partager, se redresser ou recevoir la grâce."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes malades ou éprouvées."
+      }
+    ],
+    "liturgical_echoes": []
   }
 }
