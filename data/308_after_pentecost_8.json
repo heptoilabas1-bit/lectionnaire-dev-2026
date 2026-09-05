@@ -3,486 +3,1728 @@
     "reference": "Matthieu 14, 14-22",
     "title": "La Multiplication des Pains : Le Pain de Vie au Désert",
     "interlinear": [
-  {
-    "verse_number": 14,
-    "translations": {
-      "segond": "Quand il sortit de la barque, il vit une grande foule, et fut ému de compassion pour elle, et il guérit les malades.",
-      "darby": "Et Jésus, sortant, vit une grande foule ; et il fut ému de compassion envers eux, et guérit leurs infirmes."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἐξελθὼν", "gloss": "étant_sorti" },
-      { "greek": "εἶδεν", "gloss": "il_vit" },
-      { "greek": "πολὺν", "gloss": "une_nombreuse" },
-      { "greek": "ὄχλον,", "gloss": "foule" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐσπλαγχνίσθη", "gloss": "il_fut_ému_aux_entrailles", "analyse": "Le verbe *splagchnizomai* (être remué jusqu'aux entrailles). Dans le Monde duel, l'Ego garde ses distances pour se protéger de la souffrance des autres. La compassion divine n'est pas un vague sentiment de pitié, c'est un ébranlement ontologique viscéral : le Sujet divin refuse la séparation et fait sienne la maladie et la faim de l'humanité." },
-      { "greek": "ἐπ’", "gloss": "sur/envers" },
-      { "greek": "αὐτοῖς", "gloss": "eux" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐθεράπευσεν", "gloss": "il_guérit" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ἀρρώστους", "gloss": "malades/sans_force" },
-      { "greek": "αὐτῶν.", "gloss": "d'eux" }
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Quand il sortit de la barque, il vit une grande foule, et fut ému de compassion pour elle, et il guérit les malades.",
+          "darby": "Et Jésus, sortant, vit une grande foule ; et il fut ému de compassion envers eux, et guérit leurs infirmes."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐξελθὼν",
+            "gloss": "étant_sorti"
+          },
+          {
+            "greek": "εἶδεν",
+            "gloss": "il_vit"
+          },
+          {
+            "greek": "πολὺν",
+            "gloss": "une_nombreuse"
+          },
+          {
+            "greek": "ὄχλον,",
+            "gloss": "foule"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐσπλαγχνίσθη",
+            "gloss": "il_fut_ému_aux_entrailles",
+            "annotation": {
+              "type": "traduction",
+              "title": "Remué dans ses entrailles",
+              "content": "Approfondissement spirituel : Le verbe *splagchnizomai* (être remué jusqu'aux entrailles). Dans le Monde duel, l'Ego garde ses distances pour se protéger de la souffrance des autres. La compassion divine n'est pas un vague sentiment de pitié, c'est un ébranlement ontologique viscéral : le Sujet divin refuse la séparation et fait sienne la maladie et la faim de l'humanité.",
+              "related": [
+                "ὄχλον,",
+                "καὶ",
+                "ἐπ’",
+                "αὐτοῖς"
+              ]
+            }
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur/envers"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐθεράπευσεν",
+            "gloss": "il_guérit"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀρρώστους",
+            "gloss": "malades/sans_force"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "d'eux"
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "translations": {
+          "segond": "Le soir étant venu, les disciples s'approchèrent de lui, et dirent : Ce lieu est désert, et l'heure est déjà avancée ; renvoie la foule, afin qu'elle aille dans les villages, pour s'acheter des vivres.",
+          "darby": "Et le soir étant venu, ses disciples vinrent à lui, disant : Le lieu est désert, et l'heure est déjà passée ; renvoie les foules, afin qu'elles aillent dans les villages et qu'elles s'achètent des vivres."
+        },
+        "interlinear": [
+          {
+            "greek": "ὀψίας",
+            "gloss": "Le_soir"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "γενομένης",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "προσῆλθον",
+            "gloss": "s'approchèrent"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἔρημός",
+            "gloss": "Désert"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τόπος",
+            "gloss": "lieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὥρα",
+            "gloss": "heure"
+          },
+          {
+            "greek": "ἤδη",
+            "gloss": "déjà"
+          },
+          {
+            "greek": "παρῆλθεν·",
+            "gloss": "est_passée"
+          },
+          {
+            "greek": "ἀπόλυσον",
+            "gloss": "renvoie/délie"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὄχλους,",
+            "gloss": "foules"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_qu'"
+          },
+          {
+            "greek": "ἀπελθόντες",
+            "gloss": "étant_allées"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "κώμας",
+            "gloss": "villages"
+          },
+          {
+            "greek": "ἀγοράσωσιν",
+            "gloss": "elles_achètent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Acheter ou recevoir et partager",
+              "content": "Approfondissement spirituel : Le verbe *agorazō* (acheter sur la place publique, faire du commerce). Les disciples réagissent selon la matrice économique du Monde duel : face au manque, la seule solution est l'argent et la dispersion. L'Ego calcule, marchande et, par peur du vide, renvoie l'autre à sa propre solitude.",
+              "related": [
+                "τὰς",
+                "κώμας",
+                "ἑαυτοῖς",
+                "βρώματα."
+              ]
+            }
+          },
+          {
+            "greek": "ἑαυτοῖς",
+            "gloss": "pour_elles-mêmes"
+          },
+          {
+            "greek": "βρώματα.",
+            "gloss": "nourritures/vivres"
+          }
+        ]
+      },
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "Jésus leur répondit : Ils n'ont pas besoin de s'en aller ; donnez-leur vous-mêmes à manger.",
+          "darby": "Mais Jésus leur dit : Ils n'ont pas besoin de s'en aller ; vous, donnez-leur à manger."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Le/Mais"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Οὐ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "χρείαν",
+            "gloss": "besoin"
+          },
+          {
+            "greek": "ἔχουσιν",
+            "gloss": "elles_ont"
+          },
+          {
+            "greek": "ἀπελθεῖν,",
+            "gloss": "de_s'en_aller"
+          },
+          {
+            "greek": "δότε",
+            "gloss": "donnez",
+            "annotation": {
+              "type": "repetition",
+              "title": "« Donnez-leur vous-mêmes »",
+              "content": "Approfondissement spirituel : L'impératif *dote* (donnez) est le basculement. Le Christ refuse la logique de l'achat (*agorazō*). Il invite ses disciples à devenir eux-mêmes des 'sujets' eucharistiques. Dans le Royaume UN, la ressource n'est pas ce que l'on possède matériellement, mais ce que l'on accepte de donner et de partager.",
+              "related": [
+                "ἔχουσιν",
+                "ἀπελθεῖν,",
+                "αὐτοῖς",
+                "ὑμεῖς"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous-mêmes"
+          },
+          {
+            "greek": "φαγεῖν.",
+            "gloss": "à_manger"
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "translations": {
+          "segond": "Mais ils lui dirent : Nous n'avons ici que cinq pains et deux poissons.",
+          "darby": "Et ils lui disent : Nous n'avons ici que cinq pains et deux poissons."
+        },
+        "interlinear": [
+          {
+            "greek": "οἱ",
+            "gloss": "Eux/Les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "λέγουσιν",
+            "gloss": "disent"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Οὐκ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "ἔχομεν",
+            "gloss": "nous_avons"
+          },
+          {
+            "greek": "ὧδε",
+            "gloss": "ici"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ce_n'est"
+          },
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "ἄρτους",
+            "gloss": "pains"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἰχθύας.",
+            "gloss": "poissons",
+            "annotation": {
+              "type": "analyse",
+              "title": "La pauvreté offerte",
+              "content": "Approfondissement spirituel : Le constat paralysant de l'Ego face au réel. Les disciples évaluent l'Énergie divine à l'aune de leurs moyens matériels dérisoires. L'illusion du Monde duel est de croire que nos ressources (5 pains, 2 poissons) sont les seules données de l'équation, en oubliant l'axe vertical de la Grâce.",
+              "related": [
+                "καὶ",
+                "δύο"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "translations": {
+          "segond": "Et il dit : Apportez-les-moi ici.",
+          "darby": "Et il dit : Apportez-les-moi ici."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Le/Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Φέρετέ",
+            "gloss": "Apportez",
+            "annotation": {
+              "type": "analyse",
+              "title": "« Apportez-les-moi »",
+              "content": "Approfondissement spirituel : Le Christ ne crée pas la nourriture à partir de rien pour humilier l'homme. Il demande : 'Apportez-les-moi'. Le Royaume UN ne détruit pas la création, il l'assume. Le sujet doit offrir sa pauvreté, son manque (ses cinq pains), pour que la Grâce puisse s'y greffer et la transfigurer.",
+              "related": [
+                "δὲ",
+                "εἶπεν·",
+                "μοι",
+                "ὧδε"
+              ]
+            }
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ὧδε",
+            "gloss": "ici"
+          },
+          {
+            "greek": "αὐτούς.",
+            "gloss": "eux/les"
+          }
+        ]
+      },
+      {
+        "verse_number": 19,
+        "translations": {
+          "segond": "Il fit asseoir la foule sur l'herbe, prit les cinq pains et les deux poissons, et, levant les yeux vers le ciel, il rendit grâces. Puis, il rompit les pains et les donna aux disciples, qui les distribuèrent à la foule.",
+          "darby": "Et ayant commandé aux foules de s'asseoir sur l'herbe, il prit les cinq pains et les deux poissons, et, regardant vers le ciel, il bénit ; et ayant rompu les pains, il les donna aux disciples, et les disciples aux foules."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "κελεύσας",
+            "gloss": "ayant_ordonné"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὄχλους",
+            "gloss": "foules"
+          },
+          {
+            "greek": "ἀνακλιθῆναι",
+            "gloss": "de_s'étendre/s'asseoir",
+            "annotation": {
+              "type": "racine",
+              "title": "Prendre place pour le repas",
+              "content": "Approfondissement spirituel : Du verbe *anaklino* (s'incliner en arrière, s'allonger pour le repas). Le Christ ordonne à la foule de cesser l'agitation anxieuse propre à la survie. Avant même d'être nourris, ils doivent adopter la posture du repos et de la confiance.",
+              "related": [
+                "τοὺς",
+                "ὄχλους",
+                "ἐπὶ",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "χόρτου,",
+            "gloss": "herbe"
+          },
+          {
+            "greek": "λαβὼν",
+            "gloss": "ayant_pris"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "ἄρτους",
+            "gloss": "pains"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἰχθύας,",
+            "gloss": "poissons"
+          },
+          {
+            "greek": "ἀναβλέψας",
+            "gloss": "ayant_regardé_en_haut",
+            "annotation": {
+              "type": "racine",
+              "title": "Lever les yeux",
+              "content": "Approfondissement spirituel : Le regard vers le Ciel rétablit l'axe vertical. L'Ego regarde horizontalement (pour comparer, marchander, s'inquiéter). Le Christ, en tant que pur Sujet filial, relie instantanément la matière (le pain) à sa Source incréée (le Père).",
+              "related": [
+                "δύο",
+                "ἰχθύας,",
+                "εἰς",
+                "τὸν"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὐρανὸν",
+            "gloss": "ciel"
+          },
+          {
+            "greek": "εὐλόγησεν",
+            "gloss": "il_bénit/rendit_grâces"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κλάσας",
+            "gloss": "ayant_rompu"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "il_donna"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "μαθηταῖς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἄρτους,",
+            "gloss": "pains"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ὄχλοις.",
+            "gloss": "foules"
+          }
+        ]
+      },
+      {
+        "verse_number": 20,
+        "translations": {
+          "segond": "Tous mangèrent et furent rassasiés, et l'on emporta douze paniers pleins des morceaux qui restaient.",
+          "darby": "Et ils mangèrent tous et furent rassasiés ; et ils ramassèrent, des morceaux qui étaient de reste, douze paniers pleins."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἔφαγον",
+            "gloss": "ils_mangèrent"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐχορτάσθησαν,",
+            "gloss": "furent_rassasiés",
+            "annotation": {
+              "type": "traduction",
+              "title": "Tous furent rassasiés",
+              "content": "Approfondissement spirituel : Le verbe *chortazō* (être gavé, pleinement satisfait). C'est l'antithèse absolue du vide et du manque du Monde duel. La Grâce ne donne pas le strict minimum pour survivre, elle comble le sujet d'une plénitude qui déborde ses capacités d'absorption.",
+              "related": [
+                "πάντες",
+                "καὶ",
+                "καὶ",
+                "ἦραν"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἦραν",
+            "gloss": "ils_enlevèrent/ramassèrent"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "περισσεῦον",
+            "gloss": "surabondant/restant"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "κλασμάτων",
+            "gloss": "morceaux"
+          },
+          {
+            "greek": "δώδεκα",
+            "gloss": "douze"
+          },
+          {
+            "greek": "κοφίνους",
+            "gloss": "paniers"
+          },
+          {
+            "greek": "πλήρεις.",
+            "gloss": "pleins"
+          }
+        ]
+      },
+      {
+        "verse_number": 21,
+        "translations": {
+          "segond": "Ceux qui avaient mangé étaient environ cinq mille hommes, sans les femmes et les enfants.",
+          "darby": "Et ceux qui avaient mangé étaient environ cinq mille hommes, outre les femmes et les enfants."
+        },
+        "interlinear": [
+          {
+            "greek": "οἱ",
+            "gloss": "Ceux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐσθίοντες",
+            "gloss": "mangeant"
+          },
+          {
+            "greek": "ἦσαν",
+            "gloss": "étaient"
+          },
+          {
+            "greek": "ἄνδρες",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "ὡσεὶ",
+            "gloss": "environ"
+          },
+          {
+            "greek": "πεντακισχίλιοι",
+            "gloss": "cinq_mille"
+          },
+          {
+            "greek": "χωρὶς",
+            "gloss": "à_part/sans"
+          },
+          {
+            "greek": "γυναικῶν",
+            "gloss": "femmes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παιδίων.",
+            "gloss": "enfants"
+          }
+        ]
+      },
+      {
+        "verse_number": 22,
+        "translations": {
+          "segond": "Aussitôt après, il obligea les disciples à monter dans la barque et à passer avant lui de l'autre côté, pendant qu'il renverrait la foule.",
+          "darby": "Et aussitôt il contraignit les disciples de monter dans la nacelle et de le précéder à l'autre bord, jusqu'à ce qu'il eût renvoyé les foules."
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εὐθέως",
+            "gloss": "aussitôt"
+          },
+          {
+            "greek": "ἠνάγκασεν",
+            "gloss": "il_obligea/contraignit",
+            "annotation": {
+              "type": "traduction",
+              "title": "Le départ imposé après le signe",
+              "content": "Approfondissement spirituel : Le verbe *anagkazō* est très fort (forcer, contraindre). Après le miracle, l'Ego humain veut figer l'instant, garder le pouvoir (on a du pain gratuit !). Le Christ détruit cette tentation en forçant immédiatement les disciples à repartir en mer, vers la tempête et l'inconnu, pour éviter qu'ils ne fassent du Royaume une idole terrestre.",
+              "related": [
+                "Καὶ",
+                "εὐθέως",
+                "τοὺς",
+                "μαθηταὺς"
+              ]
+            }
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὺς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "ἐμβῆναι",
+            "gloss": "de_monter"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλοῖον",
+            "gloss": "barque"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προάγειν",
+            "gloss": "de_précéder"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "πέραν,",
+            "gloss": "autre_bord"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à_ce_que"
+          },
+          {
+            "greek": "οὗ",
+            "gloss": "—"
+          },
+          {
+            "greek": "ἀπολύσῃ",
+            "gloss": "il_renvoie"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὄχλους.",
+            "gloss": "foules"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 19 - ἀνακλιθῆναι : Segond et Darby traduisent simplement par 's'asseoir'. Le verbe grec décrit l'attitude de se pencher en arrière, de s'allonger (comme lors des banquets antiques). C'est une posture de confiance et de repos, à l'opposé de la tension nerveuse d'une foule affamée dans le désert.\n• Verset 19 - εὐλόγησεν : Darby choisit 'il bénit', Segond choisit 'il rendit grâces'. Les deux sont vrais, mais l'*eulogia* (dire du bien, bénir) souligne l'acte eucharistique par excellence : la matière n'est pas maudite ou ignorée, elle est bénie et réintégrée dans l'amour du Père.\n• Verset 20 - ἐχορτάσθησαν : Traduit par 'furent rassasiés'. Le terme grec est fort, presque animal (être gavé, repu). Il souligne l'incroyable physicalité et l'abondance écrasante du don de Dieu, qui ne fait pas dans la demi-mesure spirituelle.\n\nAnalyse spirituelle :\nCet Évangile est le manuel du passage de l'économie du 'Monde duel' à l'abondance du 'Royaume UN'. Face au désert et au soir qui tombe, les disciples réagissent en comptables de l'Ego : ils constatent le manque (5 pains) et proposent la séparation ('renvoie-les pour qu'ils achètent'). \n\nLe Christ oppose à cette angoisse la kénose eucharistique. Il demande aux disciples de lui confier leur misérable réalité matérielle ('Apportez-les-moi ici'). Puis Il accomplit les quatre verbes fondateurs de la restauration du Sujet : Prendre (assumer le réel), Regarder vers le Ciel (rétablir l'axe vertical), Bénir (laver la matière par l'Énergie incréée) et Rompre (accepter la kénose, se briser pour l'autre). \n\nLe résultat est mathématiquement impossible dans le Monde duel : la fragmentation de la matière ne produit pas la pénurie, mais une surabondance absolue (12 paniers de restes). Mais attention : le Christ refuse que ce prodige soit récupéré par l'Ego collectif. Aussitôt le repas terminé, Il 'oblige' (*anagkazo*) les disciples à repartir en mer. Le Royaume n'est pas un supermarché magique où l'on s'installe ; c'est une traversée perpétuelle, un arrachement continu vers l'Autre bord.\n\nComplément de lecture : Jésus ne contourne ni le désert ni la petitesse des ressources. Il reçoit ce qui est apporté, lève les yeux, bénit, rompt et donne aux disciples afin qu’ils donnent à la foule. Le mouvement eucharistique transforme la peur du manque en communion et en surabondance recueillie.",
+    "homiletic_axes": [
+      {
+        "title": "La compassion avant le calcul",
+        "content": "Jésus voit la foule, en est remué et guérit. Les disciples voient surtout le désert, l’heure tardive et la nécessité d’acheter.",
+        "keywords": [
+          "εἶδεν",
+          "ἐσπλαγχνίσθη",
+          "Ἔρημός",
+          "ἀγοράσωσιν"
+        ]
+      },
+      {
+        "title": "« Donnez-leur vous-mêmes »",
+        "content": "Jésus implique les disciples : leur pauvreté offerte devient matière du don, sans que la grâce dispense du partage concret.",
+        "keywords": [
+          "δότε",
+          "ὑμεῖς",
+          "πέντε",
+          "ἄρτους",
+          "ἰχθύας."
+        ]
+      },
+      {
+        "title": "Prendre, lever les yeux, bénir, rompre, donner",
+        "content": "La succession des gestes donne au récit sa profondeur eucharistique et relie la matière reçue du Père à la communion de tous.",
+        "keywords": [
+          "λαβὼν",
+          "ἀναβλέψας",
+          "εὐλόγησεν",
+          "κλάσας",
+          "ἔδωκεν"
+        ]
+      },
+      {
+        "title": "De la fragmentation à la communion",
+        "content": "Les pains rompus nourrissent tous ; l’Apôtre refuse que le Corps du Christ soit déchiré en partis. La fraction eucharistique rassemble, le schisme disperse.",
+        "keywords": [
+          "κλασμάτων",
+          "πάντες",
+          "σχίσματα,",
+          "μεμέρισται"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement le fil qui vous appelle dans les deux lectures du 8e dimanche après la Pentecôte : un geste, une parole, un contraste, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez le mouvement propre de l’Évangile, puis regardez comment l’Apôtre le déplace, l’approfondit ou en montre le fruit ecclésial. Vous pouvez aussi ne retenir qu’une seule correspondance."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit ou donne ici. Gardez le Christ au centre et distinguez cette annonce des exigences qui en découlent."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par ces textes : peur, enfermement, faiblesse, division, manque, besoin d’être porté ou difficulté à accueillir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans dicter une conduite uniforme : accueillir, demander, porter, partager, bénir, se laisser relever ou restaurer une communion."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression claire. Présentez les interprétations symboliques comme une lecture spirituelle, non comme le seul sens du texte, et évitez toute promesse automatique de guérison ou de réussite."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Le pain rompu et le Christ indivisible",
+        "reference": "Matthieu 14, 14-22 ; 1 Corinthiens 1, 10-18",
+        "content": "Dans l’Évangile, le pain est rompu pour être partagé et tous sont rassasiés ; dans l’Apôtre, Paul refuse que le Christ soit morcelé par les appartenances rivales. La Croix et l’Eucharistie convertissent la fragmentation en communion.",
+        "connections": []
+      }
     ]
   },
-  {
-    "verse_number": 15,
-    "translations": {
-      "segond": "Le soir étant venu, les disciples s'approchèrent de lui, et dirent : Ce lieu est désert, et l'heure est déjà avancée ; renvoie la foule, afin qu'elle aille dans les villages, pour s'acheter des vivres.",
-      "darby": "Et le soir étant venu, ses disciples vinrent à lui, disant : Le lieu est désert, et l'heure est déjà passée ; renvoie les foules, afin qu'elles aillent dans les villages et qu'elles s'achètent des vivres."
-    },
+  "apostle": {
+    "reference": "1 Corinthiens 1, 10-18",
+    "title": "L'Appel à l'Unité et la Folie de la Croix",
     "interlinear": [
-      { "greek": "ὀψίας", "gloss": "Le_soir" },
-      { "greek": "δὲ", "gloss": "or/et" },
-      { "greek": "γενομένης", "gloss": "étant_venu" },
-      { "greek": "προσῆλθον", "gloss": "s'approchèrent" },
-      { "greek": "αὐτῷ", "gloss": "de_lui" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "μαθηταὶ", "gloss": "disciples" },
-      { "greek": "λέγοντες·", "gloss": "disant" },
-      { "greek": "Ἔρημός", "gloss": "Désert" },
-      { "greek": "ἐστιν", "gloss": "est" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "τόπος", "gloss": "lieu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἡ", "gloss": "l'" },
-      { "greek": "ὥρα", "gloss": "heure" },
-      { "greek": "ἤδη", "gloss": "déjà" },
-      { "greek": "παρῆλθεν·", "gloss": "est_passée" },
-      { "greek": "ἀπόλυσον", "gloss": "renvoie/délie" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ὄχλους,", "gloss": "foules" },
-      { "greek": "ἵνα", "gloss": "afin_qu'" },
-      { "greek": "ἀπελθόντες", "gloss": "étant_allées" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὰς", "gloss": "les" },
-      { "greek": "κώμας", "gloss": "villages" },
-      { "greek": "ἀγοράσωσιν", "gloss": "elles_achètent", "analyse": "Le verbe *agorazō* (acheter sur la place publique, faire du commerce). Les disciples réagissent selon la matrice économique du Monde duel : face au manque, la seule solution est l'argent et la dispersion. L'Ego calcule, marchande et, par peur du vide, renvoie l'autre à sa propre solitude." },
-      { "greek": "ἑαυτοῖς", "gloss": "pour_elles-mêmes" },
-      { "greek": "βρώματα.", "gloss": "nourritures/vivres" }
-    ]
-  },
-  {
-    "verse_number": 16,
-    "translations": {
-      "segond": "Jésus leur répondit : Ils n'ont pas besoin de s'en aller ; donnez-leur vous-mêmes à manger.",
-      "darby": "Mais Jésus leur dit : Ils n'ont pas besoin de s'en aller ; vous, donnez-leur à manger."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "Le/Mais" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-      { "greek": "Οὐ", "gloss": "Non" },
-      { "greek": "χρείαν", "gloss": "besoin" },
-      { "greek": "ἔχουσιν", "gloss": "elles_ont" },
-      { "greek": "ἀπελθεῖν,", "gloss": "de_s'en_aller" },
-      { "greek": "δότε", "gloss": "donnez", "analyse": "L'impératif *dote* (donnez) est le basculement. Le Christ refuse la logique de l'achat (*agorazō*). Il invite ses disciples à devenir eux-mêmes des 'sujets' eucharistiques. Dans le Royaume UN, la ressource n'est pas ce que l'on possède matériellement, mais ce que l'on accepte de donner et de partager." },
-      { "greek": "αὐτοῖς", "gloss": "à_eux" },
-      { "greek": "ὑμεῖς", "gloss": "vous-mêmes" },
-      { "greek": "φαγεῖν.", "gloss": "à_manger" }
-    ]
-  },
-  {
-    "verse_number": 17,
-    "translations": {
-      "segond": "Mais ils lui dirent : Nous n'avons ici que cinq pains et deux poissons.",
-      "darby": "Et ils lui disent : Nous n'avons ici que cinq pains et deux poissons."
-    },
-    "interlinear": [
-      { "greek": "οἱ", "gloss": "Eux/Les" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "λέγουσιν", "gloss": "disent" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Οὐκ", "gloss": "Ne...pas" },
-      { "greek": "ἔχομεν", "gloss": "nous_avons" },
-      { "greek": "ὧδε", "gloss": "ici" },
-      { "greek": "εἰ", "gloss": "si" },
-      { "greek": "μὴ", "gloss": "ce_n'est" },
-      { "greek": "πέντε", "gloss": "cinq" },
-      { "greek": "ἄρτους", "gloss": "pains" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "δύο", "gloss": "deux" },
-      { "greek": "ἰχθύας.", "gloss": "poissons", "analyse": "Le constat paralysant de l'Ego face au réel. Les disciples évaluent l'Énergie divine à l'aune de leurs moyens matériels dérisoires. L'illusion du Monde duel est de croire que nos ressources (5 pains, 2 poissons) sont les seules données de l'équation, en oubliant l'axe vertical de la Grâce." }
-    ]
-  },
-{
-    "verse_number": 18,
-    "translations": {
-      "segond": "Et il dit : Apportez-les-moi ici.",
-      "darby": "Et il dit : Apportez-les-moi ici."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "Le/Il" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "εἶπεν·", "gloss": "dit" },
-      { "greek": "Φέρετέ", "gloss": "Apportez", "analyse": "Le Christ ne crée pas la nourriture à partir de rien pour humilier l'homme. Il demande : 'Apportez-les-moi'. Le Royaume UN ne détruit pas la création, il l'assume. Le sujet doit offrir sa pauvreté, son manque (ses cinq pains), pour que la Grâce puisse s'y greffer et la transfigurer." },
-      { "greek": "μοι", "gloss": "à_moi" },
-      { "greek": "ὧδε", "gloss": "ici" },
-      { "greek": "αὐτούς.", "gloss": "eux/les" }
-    ]
-  },
-  {
-    "verse_number": 19,
-    "translations": {
-      "segond": "Il fit asseoir la foule sur l'herbe, prit les cinq pains et les deux poissons, et, levant les yeux vers le ciel, il rendit grâces. Puis, il rompit les pains et les donna aux disciples, qui les distribuèrent à la foule.",
-      "darby": "Et ayant commandé aux foules de s'asseoir sur l'herbe, il prit les cinq pains et les deux poissons, et, regardant vers le ciel, il bénit ; et ayant rompu les pains, il les donna aux disciples, et les disciples aux foules."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "κελεύσας", "gloss": "ayant_ordonné" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ὄχλους", "gloss": "foules" },
-      { "greek": "ἀνακλιθῆναι", "gloss": "de_s'étendre/s'asseoir", "analyse": "Du verbe *anaklino* (s'incliner en arrière, s'allonger pour le repas). Le Christ ordonne à la foule de cesser l'agitation anxieuse propre à la survie. Avant même d'être nourris, ils doivent adopter la posture du repos et de la confiance." },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "τοῦ", "gloss": "l'" },
-      { "greek": "χόρτου,", "gloss": "herbe" },
-      { "greek": "λαβὼν", "gloss": "ayant_pris" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "πέντε", "gloss": "cinq" },
-      { "greek": "ἄρτους", "gloss": "pains" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "δύο", "gloss": "deux" },
-      { "greek": "ἰχθύας,", "gloss": "poissons" },
-      { "greek": "ἀναβλέψας", "gloss": "ayant_regardé_en_haut", "analyse": "Le regard vers le Ciel rétablit l'axe vertical. L'Ego regarde horizontalement (pour comparer, marchander, s'inquiéter). Le Christ, en tant que pur Sujet filial, relie instantanément la matière (le pain) à sa Source incréée (le Père)." },
-      { "greek": "εἰς", "gloss": "vers" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "οὐρανὸν", "gloss": "ciel" },
-      { "greek": "εὐλόγησεν", "gloss": "il_bénit/rendit_grâces" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "κλάσας", "gloss": "ayant_rompu" },
-      { "greek": "ἔδωκεν", "gloss": "il_donna" },
-      { "greek": "τοῖς", "gloss": "aux" },
-      { "greek": "μαθηταῖς", "gloss": "disciples" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ἄρτους,", "gloss": "pains" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "μαθηταὶ", "gloss": "disciples" },
-      { "greek": "τοῖς", "gloss": "aux" },
-      { "greek": "ὄχλοις.", "gloss": "foules" }
-    ]
-  },
-  {
-    "verse_number": 20,
-    "translations": {
-      "segond": "Tous mangèrent et furent rassasiés, et l'on emporta douze paniers pleins des morceaux qui restaient.",
-      "darby": "Et ils mangèrent tous et furent rassasiés ; et ils ramassèrent, des morceaux qui étaient de reste, douze paniers pleins."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἔφαγον", "gloss": "ils_mangèrent" },
-      { "greek": "πάντες", "gloss": "tous" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐχορτάσθησαν,", "gloss": "furent_rassasiés", "analyse": "Le verbe *chortazō* (être gavé, pleinement satisfait). C'est l'antithèse absolue du vide et du manque du Monde duel. La Grâce ne donne pas le strict minimum pour survivre, elle comble le sujet d'une plénitude qui déborde ses capacités d'absorption." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἦραν", "gloss": "ils_enlevèrent/ramassèrent" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "περισσεῦον", "gloss": "surabondant/restant" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "κλασμάτων", "gloss": "morceaux" },
-      { "greek": "δώδεκα", "gloss": "douze" },
-      { "greek": "κοφίνους", "gloss": "paniers" },
-      { "greek": "πλήρεις.", "gloss": "pleins" }
-    ]
-  },
-  {
-    "verse_number": 21,
-    "translations": {
-      "segond": "Ceux qui avaient mangé étaient environ cinq mille hommes, sans les femmes et les enfants.",
-      "darby": "Et ceux qui avaient mangé étaient environ cinq mille hommes, outre les femmes et les enfants."
-    },
-    "interlinear": [
-      { "greek": "οἱ", "gloss": "Ceux" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ἐσθίοντες", "gloss": "mangeant" },
-      { "greek": "ἦσαν", "gloss": "étaient" },
-      { "greek": "ἄνδρες", "gloss": "hommes" },
-      { "greek": "ὡσεὶ", "gloss": "environ" },
-      { "greek": "πεντακισχίλιοι", "gloss": "cinq_mille" },
-      { "greek": "χωρὶς", "gloss": "à_part/sans" },
-      { "greek": "γυναικῶν", "gloss": "femmes" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "παιδίων.", "gloss": "enfants" }
-    ]
-  },
-  {
-    "verse_number": 22,
-    "translations": {
-      "segond": "Aussitôt après, il obligea les disciples à monter dans la barque et à passer avant lui de l'autre côté, pendant qu'il renverrait la foule.",
-      "darby": "Et aussitôt il contraignit les disciples de monter dans la nacelle et de le précéder à l'autre bord, jusqu'à ce qu'il eût renvoyé les foules."
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "εὐθέως", "gloss": "aussitôt" },
-      { "greek": "ἠνάγκασεν", "gloss": "il_obligea/contraignit", "analyse": "Le verbe *anagkazō* est très fort (forcer, contraindre). Après le miracle, l'Ego humain veut figer l'instant, garder le pouvoir (on a du pain gratuit !). Le Christ détruit cette tentation en forçant immédiatement les disciples à repartir en mer, vers la tempête et l'inconnu, pour éviter qu'ils ne fassent du Royaume une idole terrestre." },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "μαθηταὺς", "gloss": "disciples" },
-      { "greek": "ἐμβῆναι", "gloss": "de_monter" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸ", "gloss": "la" },
-      { "greek": "πλοῖον", "gloss": "barque" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "προάγειν", "gloss": "de_précéder" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "εἰς", "gloss": "vers" },
-      { "greek": "τὸ", "gloss": "l'" },
-      { "greek": "πέραν,", "gloss": "autre_bord" },
-      { "greek": "ἕως", "gloss": "jusqu'à_ce_que" },
-      { "greek": "οὗ", "gloss": "—" },
-      { "greek": "ἀπολύσῃ", "gloss": "il_renvoie" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ὄχλους.", "gloss": "foules" }
-    ]
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "Je vous exhorte, frères, par le nom de notre Seigneur Jésus Christ, à tenir tous un même langage, et à ne point avoir de divisions parmi vous, mais à être parfaitement unis dans un même esprit et dans un même sentiment.",
+          "darby": "Or je vous exhorte, frères, par le nom de notre Seigneur Jésus Christ, à dire tous la même chose et à ce qu'il n'y ait point de divisions parmi vous, mais que vous soyez parfaitement unis dans un même entendement et dans un même avis."
+        },
+        "interlinear": [
+          {
+            "greek": "Παρακαλῶ",
+            "gloss": "J'exhorte/Je_prie"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἀδελφοί,",
+            "gloss": "frères"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὀνόματος",
+            "gloss": "nom"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Χριστοῦ,",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "αὐτὸ",
+            "gloss": "même_chose"
+          },
+          {
+            "greek": "λέγητε",
+            "gloss": "vous_disiez"
+          },
+          {
+            "greek": "πάντες,",
+            "gloss": "tous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "qu'il_n'y_ait_pas"
+          },
+          {
+            "greek": "ᾖ",
+            "gloss": "soit"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "σχίσματα,",
+            "gloss": "divisions/déchirures",
+            "annotation": {
+              "type": "racine",
+              "title": "Les déchirures du corps",
+              "content": "Approfondissement spirituel : Le mot *schismata* a donné 'schisme'. Il désigne une déchirure dans un tissu. C'est la signature exacte du Monde duel : la fragmentation. L'Ego a un besoin compulsif de découper la réalité pour s'en approprier une part. L'Église de Corinthe est spirituellement malade car elle a remplacé la communion par la compétition des identités.",
+              "related": [
+                "ἐν",
+                "ὑμῖν",
+                "ἦτε",
+                "δὲ"
+              ]
+            }
+          },
+          {
+            "greek": "ἦτε",
+            "gloss": "que_vous_soyez"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "κατηρτισμένοι",
+            "gloss": "parfaitement_unis/restaurés",
+            "annotation": {
+              "type": "traduction",
+              "title": "Réparés et réaccordés",
+              "content": "Approfondissement spirituel : Le verbe *katartizo* est un terme médical et artisanal. Il s'emploie pour réparer un filet de pêche déchiré ou remettre en place un os déboîté (réduire une fracture). L'unité dans le Christ n'est pas un concept abstrait, c'est une guérison structurelle, une restauration de l'ossature du Sujet collectif.",
+              "related": [
+                "ἦτε",
+                "δὲ",
+                "ἐν",
+                "τῷ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "même"
+          },
+          {
+            "greek": "νοῒ",
+            "gloss": "intellect/esprit"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "αὐτῇ",
+            "gloss": "même"
+          },
+          {
+            "greek": "γνώμῃ.",
+            "gloss": "opinion/avis"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Car, mes frères, j'ai appris à votre sujet, par les gens de Chloé, qu'il y a des disputes au milieu de vous.",
+          "darby": "Car, mes frères, il m'a été déclaré à votre sujet, par ceux de la maison de Chloé, qu'il y a des contestations entre vous."
+        },
+        "interlinear": [
+          {
+            "greek": "ἐδηλώθη",
+            "gloss": "Il_a_été_déclaré/révélé"
+          },
+          {
+            "greek": "γάρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "ὑμῶν,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἀδελφοί",
+            "gloss": "frères"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "Χλόης",
+            "gloss": "de_Chloé"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἔριδες",
+            "gloss": "disputes/querelles"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "εἰσιν.",
+            "gloss": "sont"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "Je veux dire que chacun de vous parle ainsi : Moi, je suis de Paul ! et moi, d'Apollos ! et moi, de Céphas ! et moi, de Christ !",
+          "darby": "Or je dis ceci, que chacun de vous dit : Moi, je suis de Paul ; et moi, d'Apollos ; et moi, de Céphas ; et moi, de Christ."
+        },
+        "interlinear": [
+          {
+            "greek": "λέγω",
+            "gloss": "Je_dis"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τοῦτο,",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἕκαστος",
+            "gloss": "chacun"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "λέγει·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "μέν",
+            "gloss": "d'une_part"
+          },
+          {
+            "greek": "εἰμι",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "Παύλου,",
+            "gloss": "de_Paul"
+          },
+          {
+            "greek": "Ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "d'autre_part"
+          },
+          {
+            "greek": "Ἀπολλῶ,",
+            "gloss": "d'Apollos"
+          },
+          {
+            "greek": "Ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "d'autre_part"
+          },
+          {
+            "greek": "Κηφᾶ,",
+            "gloss": "de_Céphas"
+          },
+          {
+            "greek": "Ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "d'autre_part"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "de_Christ"
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "translations": {
+          "segond": "Christ est-il divisé ? Paul a-t-il été crucifié pour vous, ou est-ce au nom de Paul que vous avez été baptisés ?",
+          "darby": "Le Christ est-il divisé ? Paul a-t-il été crucifié pour vous ? ou avez-vous été baptisés pour le nom de Paul ?"
+        },
+        "interlinear": [
+          {
+            "greek": "μεμέρισται",
+            "gloss": "A-t-il_été_divisé",
+            "annotation": {
+              "type": "repetition",
+              "title": "Le Christ est-il divisé ?",
+              "content": "Approfondissement spirituel : Le verbe *merizo* (partager en morceaux, morceler). Saint Paul pousse la logique du Monde duel jusqu'à l'absurde. Christ est le Royaume UN. Vouloir posséder le Christ comme on possède un parti politique ou une idéologie, c'est essayer de découper l'Incréé. C'est le triomphe de la consommation égoïste du sacré.",
+              "related": [
+                "ὁ",
+                "Χριστός;"
+              ]
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστός;",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "Est-ce_que"
+          },
+          {
+            "greek": "Παῦλος",
+            "gloss": "Paul"
+          },
+          {
+            "greek": "ἐσταυρώθη",
+            "gloss": "a_été_crucifié"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ὑμῶν,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour/dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὄνομα",
+            "gloss": "nom"
+          },
+          {
+            "greek": "Παύλου",
+            "gloss": "de_Paul"
+          },
+          {
+            "greek": "ἐβαπτίσθητε;",
+            "gloss": "avez-vous_été_baptisés"
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Je rends grâces à Dieu de ce que je n'ai baptisé aucun de vous, excepté Crispus et Gaïus,",
+          "darby": "Je rends grâces à Dieu de ce que je n'ai baptisé aucun de vous, sinon Crispus et Gaïus ;"
+        },
+        "interlinear": [
+          {
+            "greek": "εὐχαριστῶ",
+            "gloss": "Je_rends_grâces"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "θεῷ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "de_ce_que"
+          },
+          {
+            "greek": "οὐδένα",
+            "gloss": "personne"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "ἐβάπτισα",
+            "gloss": "j'ai_baptisé"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "Κρίσπον",
+            "gloss": "Crispus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Γάϊον,",
+            "gloss": "Gaïus"
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "translations": {
+          "segond": "afin que personne ne dise que vous avez été baptisés en mon nom.",
+          "darby": "afin que personne ne dise que j'ai baptisé pour mon propre nom."
+        },
+        "interlinear": [
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μή",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "εἴπῃ",
+            "gloss": "dise"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour/dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐμὸν",
+            "gloss": "mon"
+          },
+          {
+            "greek": "ὄνομα",
+            "gloss": "nom",
+            "annotation": {
+              "type": "repetition",
+              "title": "Le Nom qui rassemble",
+              "content": "Approfondissement spirituel : Le 'Nom' (Onoma). Dans la mentalité du Monde duel, baptiser en son propre nom, c'est fonder une secte, c'est s'approprier les âmes pour gonfler son Ego. Paul a une horreur absolue de cette captation. Le Sujet apostolique s'efface totalement pour que seul le Nom du Christ subsiste.",
+              "related": [
+                "τὸ",
+                "ἐμὸν",
+                "ἐβαπτίσθητε."
+              ]
+            }
+          },
+          {
+            "greek": "ἐβαπτίσθητε.",
+            "gloss": "vous_avez_été_baptisés"
+          }
+        ]
+      },
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "J'ai encore baptisé la famille de Stéphanas ; du reste, je ne sache pas que j'aie baptisé quelque autre personne.",
+          "darby": "Or j'ai baptisé aussi la maison de Stéphanas ; du reste je ne sais pas si j'ai baptisé quelque autre."
+        },
+        "interlinear": [
+          {
+            "greek": "ἐβάπτισα",
+            "gloss": "J'ai_baptisé"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "Στεφανᾶ",
+            "gloss": "de_Stéphanas"
+          },
+          {
+            "greek": "οἶκον·",
+            "gloss": "maison"
+          },
+          {
+            "greek": "λοιπὸν",
+            "gloss": "du_reste"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "οἶδα",
+            "gloss": "je_sais"
+          },
+          {
+            "greek": "εἴ",
+            "gloss": "si"
+          },
+          {
+            "greek": "τινα",
+            "gloss": "quelque"
+          },
+          {
+            "greek": "ἄλλον",
+            "gloss": "autre"
+          },
+          {
+            "greek": "ἐβάπτισα.",
+            "gloss": "j'ai_baptisé"
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "translations": {
+          "segond": "Ce n'est pas pour baptiser que Christ m'a envoyé, c'est pour annoncer l'Évangile, et cela sans la sagesse du langage, afin que la croix de Christ ne soit pas rendue vaine.",
+          "darby": "Car le Christ ne m'a pas envoyé pour baptiser, mais pour évangéliser, non point avec sagesse de parole, afin que la croix du Christ ne soit pas rendue vaine."
+        },
+        "interlinear": [
+          {
+            "greek": "οὐ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἀπέστειλέν",
+            "gloss": "a_envoyé"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "βαπτίζειν",
+            "gloss": "pour_baptiser"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "εὐαγγελίζεσθαι,",
+            "gloss": "pour_évangéliser"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec/dans"
+          },
+          {
+            "greek": "σοφίᾳ",
+            "gloss": "sagesse"
+          },
+          {
+            "greek": "λόγου,",
+            "gloss": "de_parole/langage",
+            "annotation": {
+              "type": "traduction",
+              "title": "La sagesse du discours",
+              "content": "Approfondissement spirituel : La 'sagesse du langage' (*sophia logou*) est la rhétorique habile du philosophe ou du politicien. C'est l'outil par excellence de l'Ego pour convaincre, séduire et dominer dans le Monde duel. L'Évangile ne se discute pas horizontalement, il se proclame verticalement.",
+              "related": [
+                "ἐν",
+                "σοφίᾳ",
+                "ἵνα",
+                "μὴ"
+              ]
+            }
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "κενωθῇ",
+            "gloss": "soit_vidée",
+            "annotation": {
+              "type": "racine",
+              "title": "Ne pas vider la Croix",
+              "content": "Approfondissement spirituel : Le verbe *kenoō* (vider), qui donne la fameuse 'Kénose' (anéantissement). Si l'on explique la Croix par la sagesse intellectuelle, on la 'vide' de son Énergie divine. La Croix n'est pas un concept à comprendre, c'est une réalité ontologique à traverser.",
+              "related": [
+                "ἵνα",
+                "μὴ",
+                "ὁ",
+                "σταυρὸς"
+              ]
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "σταυρὸς",
+            "gloss": "croix"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "Christ"
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "translations": {
+          "segond": "Car la prédication de la croix est une folie pour ceux qui périssent ; mais pour nous qui sommes sauvés, elle est une puissance de Dieu.",
+          "darby": "Car la parole de la croix est folie pour ceux qui périssent, mais à nous qui obtenons le salut elle est la puissance de Dieu."
+        },
+        "interlinear": [
+          {
+            "greek": "Ὁ",
+            "gloss": "La"
+          },
+          {
+            "greek": "λόγος",
+            "gloss": "parole/prédication"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celle"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "σταυροῦ",
+            "gloss": "croix"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "pour_ceux"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "d'une_part"
+          },
+          {
+            "greek": "ἀπολλυμένοις",
+            "gloss": "périssant"
+          },
+          {
+            "greek": "μωρία",
+            "gloss": "folie",
+            "annotation": {
+              "type": "traduction",
+              "title": "La folie de la Croix",
+              "content": "Approfondissement spirituel : Le mot *mōria* (absurdité totale, idiotie). Pour l'intelligence figée du Monde duel, un Dieu qui se laisse massacrer sans se défendre est le summum de l'échec et de l'imbécillité. Le système horizontal ne respecte que la domination et le succès.",
+              "related": [
+                "μὲν",
+                "ἀπολλυμένοις",
+                "ἐστίν,",
+                "τοῖς"
+              ]
+            }
+          },
+          {
+            "greek": "ἐστίν,",
+            "gloss": "est"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "pour_ceux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "d'autre_part"
+          },
+          {
+            "greek": "σῳζομένοις",
+            "gloss": "étant_sauvés"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "δύναμις",
+            "gloss": "puissance/énergie",
+            "annotation": {
+              "type": "theologie",
+              "title": "La puissance de Dieu",
+              "content": "Approfondissement spirituel : Le mot *dynamis* (puissance). Ce qui est faiblesse absolue à l'horizontale s'avère être la pure Énergie incréée à la verticale. La Croix brise la matrice du Monde duel : en refusant la violence égoïste, le Christ libère la *dynamis* qui ressuscite et sauve le Sujet.",
+              "related": [
+                "σῳζομένοις",
+                "ἡμῖν",
+                "θεοῦ",
+                "ἐστιν."
+              ]
+            }
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "ἐστιν.",
+            "gloss": "est"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 17 - κενωθῇ : Traduit par 'rendue vaine' dans Segond et Darby. C'est théologiquement juste, mais on perd l'étymologie très visuelle du verbe *kenoō* (vider). Saint Paul avertit que la philosophie humaine 'siphonne', vide la Croix de son Énergie. On transforme l'événement charnel en idée abstraite.\n• Verset 18 - Ὁ λόγος : Segond traduit par 'prédication', Darby par 'parole'. Darby est plus fidèle au grec (*Logos*). Le *Logos* de la croix s'oppose au *Logos* (langage/sagesse) des hommes du verset précédent. Ce n'est pas un discours sur la croix, c'est la vibration même de la croix.\n\nAnalyse spirituelle :\nCe texte est la charge la plus fulgurante de saint Paul contre l'Ego spirituel. L'Église de Corinthe est malade du 'Monde duel' : elle s'est fragmentée (*schismata*) en tribus identitaires, chacune brandissant son gourou (Paul, Apollos) comme un trophée. L'Ego a un besoin terrifiant d'appartenance à un clan pour se rassurer et s'opposer aux autres.\n\nMais le Royaume UN, le Christ, 'ne peut être morcelé' (v. 13). Pour briser cette maladie de la division, Paul refuse de jouer le jeu de la 'sagesse du langage' (le débat intellectuel qui flatte l'Ego). Il dresse à la place le seul antidote absolu : la Croix.\n\nAu verset 18, la ligne de démarcation est tracée. Pour l'homme enfermé dans la matrice horizontale de la compétition et du succès, la kénose de la Croix est une 'folie' (*mōria*), une absurdité pitoyable. Mais pour le Sujet qui accepte d'être guéri, ce vide apparent (*kenosis*) devient le seul réceptacle capable d'accueillir la *dynamis*, l'Énergie divine qui unifie. Dans l'Évangile (les pains), le Christ rompait la matière pour révéler la surabondance ; ici, la Croix rompt la logique de l'Ego pour révéler la puissance du Salut.\n\nComplément de lecture : Paul répond aux divisions par un double centre : le Nom du Christ et sa Croix. Καταρτίζω évoque la remise en état de ce qui est disjoint ; κενόω avertit qu’une rhétorique autosuffisante peut vider la Croix de sa portée. La puissance de Dieu se manifeste précisément là où la logique des clans ne voit que folie.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement le fil qui vous appelle dans les deux lectures du 8e dimanche après la Pentecôte : un geste, une parole, un contraste, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez le mouvement propre de l’Évangile, puis regardez comment l’Apôtre le déplace, l’approfondit ou en montre le fruit ecclésial. Vous pouvez aussi ne retenir qu’une seule correspondance."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez en une phrase ce que Dieu accomplit ou donne ici. Gardez le Christ au centre et distinguez cette annonce des exigences qui en découlent."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par ces textes : peur, enfermement, faiblesse, division, manque, besoin d’être porté ou difficulté à accueillir la grâce."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable, sans dicter une conduite uniforme : accueillir, demander, porter, partager, bénir, se laisser relever ou restaurer une communion."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression claire. Présentez les interprétations symboliques comme une lecture spirituelle, non comme le seul sens du texte, et évitez toute promesse automatique de guérison ou de réussite."
+      }
+    ],
+    "liturgical_echoes": []
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 19 - ἀνακλιθῆναι : Segond et Darby traduisent simplement par 's'asseoir'. Le verbe grec décrit l'attitude de se pencher en arrière, de s'allonger (comme lors des banquets antiques). C'est une posture de confiance et de repos, à l'opposé de la tension nerveuse d'une foule affamée dans le désert.\n• Verset 19 - εὐλόγησεν : Darby choisit 'il bénit', Segond choisit 'il rendit grâces'. Les deux sont vrais, mais l'*eulogia* (dire du bien, bénir) souligne l'acte eucharistique par excellence : la matière n'est pas maudite ou ignorée, elle est bénie et réintégrée dans l'amour du Père.\n• Verset 20 - ἐχορτάσθησαν : Traduit par 'furent rassasiés'. Le terme grec est fort, presque animal (être gavé, repu). Il souligne l'incroyable physicalité et l'abondance écrasante du don de Dieu, qui ne fait pas dans la demi-mesure spirituelle.\n\nAnalyse spirituelle :\nCet Évangile est le manuel du passage de l'économie du 'Monde duel' à l'abondance du 'Royaume UN'. Face au désert et au soir qui tombe, les disciples réagissent en comptables de l'Ego : ils constatent le manque (5 pains) et proposent la séparation ('renvoie-les pour qu'ils achètent'). \n\nLe Christ oppose à cette angoisse la kénose eucharistique. Il demande aux disciples de lui confier leur misérable réalité matérielle ('Apportez-les-moi ici'). Puis Il accomplit les quatre verbes fondateurs de la restauration du Sujet : Prendre (assumer le réel), Regarder vers le Ciel (rétablir l'axe vertical), Bénir (laver la matière par l'Énergie incréée) et Rompre (accepter la kénose, se briser pour l'autre). \n\nLe résultat est mathématiquement impossible dans le Monde duel : la fragmentation de la matière ne produit pas la pénurie, mais une surabondance absolue (12 paniers de restes). Mais attention : le Christ refuse que ce prodige soit récupéré par l'Ego collectif. Aussitôt le repas terminé, Il 'oblige' (*anagkazo*) les disciples à repartir en mer. Le Royaume n'est pas un supermarché magique où l'on s'installe ; c'est une traversée perpétuelle, un arrachement continu vers l'Autre bord."
-},
-"apostle": {
-  "reference": "1 Corinthiens 1, 10-18",
-  "title": "L'Appel à l'Unité et la Folie de la Croix",
-  "interlinear": [
-    {
-      "verse_number": 10,
-      "translations": {
-        "segond": "Je vous exhorte, frères, par le nom de notre Seigneur Jésus Christ, à tenir tous un même langage, et à ne point avoir de divisions parmi vous, mais à être parfaitement unis dans un même esprit et dans un même sentiment.",
-        "darby": "Or je vous exhorte, frères, par le nom de notre Seigneur Jésus Christ, à dire tous la même chose et à ce qu'il n'y ait point de divisions parmi vous, mais que vous soyez parfaitement unis dans un même entendement et dans un même avis."
-      },
-      "interlinear": [
-        { "greek": "Παρακαλῶ", "gloss": "J'exhorte/Je_prie" },
-        { "greek": "δὲ", "gloss": "or" },
-        { "greek": "ὑμᾶς,", "gloss": "vous" },
-        { "greek": "ἀδελφοί,", "gloss": "frères" },
-        { "greek": "διὰ", "gloss": "par" },
-        { "greek": "τοῦ", "gloss": "le" },
-        { "greek": "ὀνόματος", "gloss": "nom" },
-        { "greek": "τοῦ", "gloss": "du" },
-        { "greek": "κυρίου", "gloss": "seigneur" },
-        { "greek": "ἡμῶν", "gloss": "de_nous" },
-        { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-        { "greek": "Χριστοῦ,", "gloss": "Christ" },
-        { "greek": "ἵνα", "gloss": "afin_que" },
-        { "greek": "τὸ", "gloss": "la" },
-        { "greek": "αὐτὸ", "gloss": "même_chose" },
-        { "greek": "λέγητε", "gloss": "vous_disiez" },
-        { "greek": "πάντες,", "gloss": "tous" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "μὴ", "gloss": "qu'il_n'y_ait_pas" },
-        { "greek": "ᾖ", "gloss": "soit" },
-        { "greek": "ἐν", "gloss": "parmi" },
-        { "greek": "ὑμῖν", "gloss": "vous" },
-        { "greek": "σχίσματα,", "gloss": "divisions/déchirures", "analyse": "Le mot *schismata* a donné 'schisme'. Il désigne une déchirure dans un tissu. C'est la signature exacte du Monde duel : la fragmentation. L'Ego a un besoin compulsif de découper la réalité pour s'en approprier une part. L'Église de Corinthe est spirituellement malade car elle a remplacé la communion par la compétition des identités." },
-        { "greek": "ἦτε", "gloss": "que_vous_soyez" },
-        { "greek": "δὲ", "gloss": "mais" },
-        { "greek": "κατηρτισμένοι", "gloss": "parfaitement_unis/restaurés", "analyse": "Le verbe *katartizo* est un terme médical et artisanal. Il s'emploie pour réparer un filet de pêche déchiré ou remettre en place un os déboîté (réduire une fracture). L'unité dans le Christ n'est pas un concept abstrait, c'est une guérison structurelle, une restauration de l'ossature du Sujet collectif." },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "τῷ", "gloss": "le" },
-        { "greek": "αὐτῷ", "gloss": "même" },
-        { "greek": "νοῒ", "gloss": "intellect/esprit" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "ἐν", "gloss": "dans" },
-        { "greek": "τῇ", "gloss": "la" },
-        { "greek": "αὐτῇ", "gloss": "même" },
-        { "greek": "γνώμῃ.", "gloss": "opinion/avis" }
-      ]
-    },
-    {
-      "verse_number": 11,
-      "translations": {
-        "segond": "Car, mes frères, j'ai appris à votre sujet, par les gens de Chloé, qu'il y a des disputes au milieu de vous.",
-        "darby": "Car, mes frères, il m'a été déclaré à votre sujet, par ceux de la maison de Chloé, qu'il y a des contestations entre vous."
-      },
-      "interlinear": [
-        { "greek": "ἐδηλώθη", "gloss": "Il_a_été_déclaré/révélé" },
-        { "greek": "γάρ", "gloss": "car" },
-        { "greek": "μοι", "gloss": "à_moi" },
-        { "greek": "περὶ", "gloss": "au_sujet_de" },
-        { "greek": "ὑμῶν,", "gloss": "vous" },
-        { "greek": "ἀδελφοί", "gloss": "frères" },
-        { "greek": "μου,", "gloss": "de_moi" },
-        { "greek": "ὑπὸ", "gloss": "par" },
-        { "greek": "τῶν", "gloss": "ceux" },
-        { "greek": "Χλόης", "gloss": "de_Chloé" },
-        { "greek": "ὅτι", "gloss": "que" },
-        { "greek": "ἔριδες", "gloss": "disputes/querelles" },
-        { "greek": "ἐν", "gloss": "parmi" },
-        { "greek": "ὑμῖν", "gloss": "vous" },
-        { "greek": "εἰσιν.", "gloss": "sont" }
-      ]
-    },
-    {
-      "verse_number": 12,
-      "translations": {
-        "segond": "Je veux dire que chacun de vous parle ainsi : Moi, je suis de Paul ! et moi, d'Apollos ! et moi, de Céphas ! et moi, de Christ !",
-        "darby": "Or je dis ceci, que chacun de vous dit : Moi, je suis de Paul ; et moi, d'Apollos ; et moi, de Céphas ; et moi, de Christ."
-      },
-      "interlinear": [
-        { "greek": "λέγω", "gloss": "Je_dis" },
-        { "greek": "δὲ", "gloss": "or" },
-        { "greek": "τοῦτο,", "gloss": "ceci" },
-        { "greek": "ὅτι", "gloss": "que" },
-        { "greek": "ἕκαστος", "gloss": "chacun" },
-        { "greek": "ὑμῶν", "gloss": "de_vous" },
-        { "greek": "λέγει·", "gloss": "dit" },
-        { "greek": "Ἐγὼ", "gloss": "Moi" },
-        { "greek": "μέν", "gloss": "d'une_part" },
-        { "greek": "εἰμι", "gloss": "je_suis" },
-        { "greek": "Παύλου,", "gloss": "de_Paul" },
-        { "greek": "Ἐγὼ", "gloss": "Moi" },
-        { "greek": "δὲ", "gloss": "d'autre_part" },
-        { "greek": "Ἀπολλῶ,", "gloss": "d'Apollos" },
-        { "greek": "Ἐγὼ", "gloss": "Moi" },
-        { "greek": "δὲ", "gloss": "d'autre_part" },
-        { "greek": "Κηφᾶ,", "gloss": "de_Céphas" },
-        { "greek": "Ἐγὼ", "gloss": "Moi" },
-        { "greek": "δὲ", "gloss": "d'autre_part" },
-        { "greek": "Χριστοῦ.", "gloss": "de_Christ" }
-      ]
-    },
-    {
-      "verse_number": 13,
-      "translations": {
-        "segond": "Christ est-il divisé ? Paul a-t-il été crucifié pour vous, ou est-ce au nom de Paul que vous avez été baptisés ?",
-        "darby": "Le Christ est-il divisé ? Paul a-t-il été crucifié pour vous ? ou avez-vous été baptisés pour le nom de Paul ?"
-      },
-      "interlinear": [
-        { "greek": "μεμέρισται", "gloss": "A-t-il_été_divisé", "analyse": "Le verbe *merizo* (partager en morceaux, morceler). Saint Paul pousse la logique du Monde duel jusqu'à l'absurde. Christ est le Royaume UN. Vouloir posséder le Christ comme on possède un parti politique ou une idéologie, c'est essayer de découper l'Incréé. C'est le triomphe de la consommation égoïste du sacré." },
-        { "greek": "ὁ", "gloss": "le" },
-        { "greek": "Χριστός;", "gloss": "Christ" },
-        { "greek": "μὴ", "gloss": "Est-ce_que" },
-        { "greek": "Παῦλος", "gloss": "Paul" },
-        { "greek": "ἐσταυρώθη", "gloss": "a_été_crucifié" },
-        { "greek": "ὑπὲρ", "gloss": "pour" },
-        { "greek": "ὑμῶν,", "gloss": "vous" },
-        { "greek": "ἢ", "gloss": "ou" },
-        { "greek": "εἰς", "gloss": "pour/dans" },
-        { "greek": "τὸ", "gloss": "le" },
-        { "greek": "ὄνομα", "gloss": "nom" },
-        { "greek": "Παύλου", "gloss": "de_Paul" },
-        { "greek": "ἐβαπτίσθητε;", "gloss": "avez-vous_été_baptisés" }
-      ]
-    },
-    {
-      "verse_number": 14,
-      "translations": {
-        "segond": "Je rends grâces à Dieu de ce que je n'ai baptisé aucun de vous, excepté Crispus et Gaïus,",
-        "darby": "Je rends grâces à Dieu de ce que je n'ai baptisé aucun de vous, sinon Crispus et Gaïus ;"
-      },
-      "interlinear": [
-        { "greek": "εὐχαριστῶ", "gloss": "Je_rends_grâces" },
-        { "greek": "τῷ", "gloss": "au" },
-        { "greek": "θεῷ", "gloss": "Dieu" },
-        { "greek": "ὅτι", "gloss": "de_ce_que" },
-        { "greek": "οὐδένα", "gloss": "personne" },
-        { "greek": "ὑμῶν", "gloss": "de_vous" },
-        { "greek": "ἐβάπτισα", "gloss": "j'ai_baptisé" },
-        { "greek": "εἰ", "gloss": "si" },
-        { "greek": "μὴ", "gloss": "non" },
-        { "greek": "Κρίσπον", "gloss": "Crispus" },
-        { "greek": "καὶ", "gloss": "et" },
-        { "greek": "Γάϊον,", "gloss": "Gaïus" }
-      ]
-    },
-    {
-      "verse_number": 15,
-      "translations": {
-        "segond": "afin que personne ne dise que vous avez été baptisés en mon nom.",
-        "darby": "afin que personne ne dise que j'ai baptisé pour mon propre nom."
-      },
-      "interlinear": [
-        { "greek": "ἵνα", "gloss": "afin_que" },
-        { "greek": "μή", "gloss": "ne_pas" },
-        { "greek": "τις", "gloss": "quelqu'un" },
-        { "greek": "εἴπῃ", "gloss": "dise" },
-        { "greek": "ὅτι", "gloss": "que" },
-        { "greek": "εἰς", "gloss": "pour/dans" },
-        { "greek": "τὸ", "gloss": "le" },
-        { "greek": "ἐμὸν", "gloss": "mon" },
-        { "greek": "ὄνομα", "gloss": "nom", "analyse": "Le 'Nom' (Onoma). Dans la mentalité du Monde duel, baptiser en son propre nom, c'est fonder une secte, c'est s'approprier les âmes pour gonfler son Ego. Paul a une horreur absolue de cette captation. Le Sujet apostolique s'efface totalement pour que seul le Nom du Christ subsiste." },
-        { "greek": "ἐβαπτίσθητε.", "gloss": "vous_avez_été_baptisés" }
-      ]
-    },
-    {
-      "verse_number": 16,
-      "translations": {
-        "segond": "J'ai encore baptisé la famille de Stéphanas ; du reste, je ne sache pas que j'aie baptisé quelque autre personne.",
-        "darby": "Or j'ai baptisé aussi la maison de Stéphanas ; du reste je ne sais pas si j'ai baptisé quelque autre."
-      },
-      "interlinear": [
-        { "greek": "ἐβάπτισα", "gloss": "J'ai_baptisé" },
-        { "greek": "δὲ", "gloss": "or/et" },
-        { "greek": "καὶ", "gloss": "aussi" },
-        { "greek": "τὸν", "gloss": "la" },
-        { "greek": "Στεφανᾶ", "gloss": "de_Stéphanas" },
-        { "greek": "οἶκον·", "gloss": "maison" },
-        { "greek": "λοιπὸν", "gloss": "du_reste" },
-        { "greek": "οὐκ", "gloss": "ne...pas" },
-        { "greek": "οἶδα", "gloss": "je_sais" },
-        { "greek": "εἴ", "gloss": "si" },
-        { "greek": "τινα", "gloss": "quelque" },
-        { "greek": "ἄλλον", "gloss": "autre" },
-        { "greek": "ἐβάπτισα.", "gloss": "j'ai_baptisé" }
-      ]
-    },
-    {
-      "verse_number": 17,
-      "translations": {
-        "segond": "Ce n'est pas pour baptiser que Christ m'a envoyé, c'est pour annoncer l'Évangile, et cela sans la sagesse du langage, afin que la croix de Christ ne soit pas rendue vaine.",
-        "darby": "Car le Christ ne m'a pas envoyé pour baptiser, mais pour évangéliser, non point avec sagesse de parole, afin que la croix du Christ ne soit pas rendue vaine."
-      },
-      "interlinear": [
-        { "greek": "οὐ", "gloss": "Ne...pas" },
-        { "greek": "γὰρ", "gloss": "car" },
-        { "greek": "ἀπέστειλέν", "gloss": "a_envoyé" },
-        { "greek": "με", "gloss": "moi" },
-        { "greek": "Χριστὸς", "gloss": "Christ" },
-        { "greek": "βαπτίζειν", "gloss": "pour_baptiser" },
-        { "greek": "ἀλλὰ", "gloss": "mais" },
-        { "greek": "εὐαγγελίζεσθαι,", "gloss": "pour_évangéliser" },
-        { "greek": "οὐκ", "gloss": "non" },
-        { "greek": "ἐν", "gloss": "avec/dans" },
-        { "greek": "σοφίᾳ", "gloss": "sagesse" },
-        { "greek": "λόγου,", "gloss": "de_parole/langage", "analyse": "La 'sagesse du langage' (*sophia logou*) est la rhétorique habile du philosophe ou du politicien. C'est l'outil par excellence de l'Ego pour convaincre, séduire et dominer dans le Monde duel. L'Évangile ne se discute pas horizontalement, il se proclame verticalement." },
-        { "greek": "ἵνα", "gloss": "afin_que" },
-        { "greek": "μὴ", "gloss": "ne_pas" },
-        { "greek": "κενωθῇ", "gloss": "soit_vidée", "analyse": "Le verbe *kenoō* (vider), qui donne la fameuse 'Kénose' (anéantissement). Si l'on explique la Croix par la sagesse intellectuelle, on la 'vide' de son Énergie divine. La Croix n'est pas un concept à comprendre, c'est une réalité ontologique à traverser." },
-        { "greek": "ὁ", "gloss": "la" },
-        { "greek": "σταυρὸς", "gloss": "croix" },
-        { "greek": "τοῦ", "gloss": "du" },
-        { "greek": "Χριστοῦ.", "gloss": "Christ" }
-      ]
-    },
-    {
-      "verse_number": 18,
-      "translations": {
-        "segond": "Car la prédication de la croix est une folie pour ceux qui périssent ; mais pour nous qui sommes sauvés, elle est une puissance de Dieu.",
-        "darby": "Car la parole de la croix est folie pour ceux qui périssent, mais à nous qui obtenons le salut elle est la puissance de Dieu."
-      },
-      "interlinear": [
-        { "greek": "Ὁ", "gloss": "La" },
-        { "greek": "λόγος", "gloss": "parole/prédication" },
-        { "greek": "γὰρ", "gloss": "car" },
-        { "greek": "ὁ", "gloss": "celle" },
-        { "greek": "τοῦ", "gloss": "de_la" },
-        { "greek": "σταυροῦ", "gloss": "croix" },
-        { "greek": "τοῖς", "gloss": "pour_ceux" },
-        { "greek": "μὲν", "gloss": "d'une_part" },
-        { "greek": "ἀπολλυμένοις", "gloss": "périssant" },
-        { "greek": "μωρία", "gloss": "folie", "analyse": "Le mot *mōria* (absurdité totale, idiotie). Pour l'intelligence figée du Monde duel, un Dieu qui se laisse massacrer sans se défendre est le summum de l'échec et de l'imbécillité. Le système horizontal ne respecte que la domination et le succès." },
-        { "greek": "ἐστίν,", "gloss": "est" },
-        { "greek": "τοῖς", "gloss": "pour_ceux" },
-        { "greek": "δὲ", "gloss": "d'autre_part" },
-        { "greek": "σῳζομένοις", "gloss": "étant_sauvés" },
-        { "greek": "ἡμῖν", "gloss": "nous" },
-        { "greek": "δύναμις", "gloss": "puissance/énergie", "analyse": "Le mot *dynamis* (puissance). Ce qui est faiblesse absolue à l'horizontale s'avère être la pure Énergie incréée à la verticale. La Croix brise la matrice du Monde duel : en refusant la violence égoïste, le Christ libère la *dynamis* qui ressuscite et sauve le Sujet." },
-        { "greek": "θεοῦ", "gloss": "de_Dieu" },
-        { "greek": "ἐστιν.", "gloss": "est" }
-      ]
-    }
-  ],
-  "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 17 - κενωθῇ : Traduit par 'rendue vaine' dans Segond et Darby. C'est théologiquement juste, mais on perd l'étymologie très visuelle du verbe *kenoō* (vider). Saint Paul avertit que la philosophie humaine 'siphonne', vide la Croix de son Énergie. On transforme l'événement charnel en idée abstraite.\n• Verset 18 - Ὁ λόγος : Segond traduit par 'prédication', Darby par 'parole'. Darby est plus fidèle au grec (*Logos*). Le *Logos* de la croix s'oppose au *Logos* (langage/sagesse) des hommes du verset précédent. Ce n'est pas un discours sur la croix, c'est la vibration même de la croix.\n\nAnalyse spirituelle :\nCe texte est la charge la plus fulgurante de saint Paul contre l'Ego spirituel. L'Église de Corinthe est malade du 'Monde duel' : elle s'est fragmentée (*schismata*) en tribus identitaires, chacune brandissant son gourou (Paul, Apollos) comme un trophée. L'Ego a un besoin terrifiant d'appartenance à un clan pour se rassurer et s'opposer aux autres.\n\nMais le Royaume UN, le Christ, 'ne peut être morcelé' (v. 13). Pour briser cette maladie de la division, Paul refuse de jouer le jeu de la 'sagesse du langage' (le débat intellectuel qui flatte l'Ego). Il dresse à la place le seul antidote absolu : la Croix.\n\nAu verset 18, la ligne de démarcation est tracée. Pour l'homme enfermé dans la matrice horizontale de la compétition et du succès, la kénose de la Croix est une 'folie' (*mōria*), une absurdité pitoyable. Mais pour le Sujet qui accepte d'être guéri, ce vide apparent (*kenosis*) devient le seul réceptacle capable d'accueillir la *dynamis*, l'Énergie divine qui unifie. Dans l'Évangile (les pains), le Christ rompait la matière pour révéler la surabondance ; ici, la Croix rompt la logique de l'Ego pour révéler la puissance du Salut."
 }
-}  
