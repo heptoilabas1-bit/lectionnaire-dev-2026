@@ -10,20 +10,71 @@
           "darby": "Or il y avait un homme riche, qui se vêtait de pourpre et de fin lin, faisant chaque jour brillante chère."
         },
         "interlinear": [
-          { "greek": "Ἄνθρωπος", "gloss": "Un_homme" },
-          { "greek": "δέ", "gloss": "or" },
-          { "greek": "τις", "gloss": "certain" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "πλούσιος,", "gloss": "riche" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐνεδιδύσκετο", "gloss": "se_vêtait/s'enveloppait", "analyse": "Composé de *en-* (dans) et *dyo* (s'enfoncer, plonger, s'habiller). Le riche s'enfonce dans la matière. Son Ego construit une armure horizontale (pourpre et lin) pour se séparer du monde et s'isoler dans sa propre autosuffisance." },
-          { "greek": "πορφύραν", "gloss": "de_pourpre" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "βύσσον", "gloss": "de_fin_lin" },
-          { "greek": "εὐφραινόμενος", "gloss": "se_réjouissant" },
-          { "greek": "καθ’", "gloss": "chaque/selon" },
-          { "greek": "ἡμέραν", "gloss": "jour" },
-          { "greek": "λαμπρῶς.", "gloss": "brillamment" }
+          {
+            "greek": "Ἄνθρωπος",
+            "gloss": "Un_homme"
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τις",
+            "gloss": "certain"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "πλούσιος,",
+            "gloss": "riche"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐνεδιδύσκετο",
+            "gloss": "se_vêtait/s'enveloppait",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le riche s’enveloppait",
+              "content": "Approfondissement spirituel : Composé de *en-* (dans) et *dyo* (s'enfoncer, plonger, s'habiller). Le riche s'enfonce dans la matière. Son Ego construit une armure horizontale (pourpre et lin) pour se séparer du monde et s'isoler dans sa propre autosuffisance.",
+              "related": [
+                "καὶ",
+                "πορφύραν"
+              ]
+            }
+          },
+          {
+            "greek": "πορφύραν",
+            "gloss": "de_pourpre"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "βύσσον",
+            "gloss": "de_fin_lin"
+          },
+          {
+            "greek": "εὐφραινόμενος",
+            "gloss": "se_réjouissant"
+          },
+          {
+            "greek": "καθ’",
+            "gloss": "chaque/selon"
+          },
+          {
+            "greek": "ἡμέραν",
+            "gloss": "jour"
+          },
+          {
+            "greek": "λαμπρῶς.",
+            "gloss": "brillamment"
+          }
         ]
       },
       {
@@ -33,17 +84,68 @@
           "darby": "Et il y avait un certain pauvre, nommé Lazare, qui était jeté à son portail, tout couvert d'ulcères,"
         },
         "interlinear": [
-          { "greek": "πτωχὸς", "gloss": "Un_pauvre" },
-          { "greek": "δέ", "gloss": "or" },
-          { "greek": "τις", "gloss": "certain" },
-          { "greek": "ὀνόματι", "gloss": "de_nom" },
-          { "greek": "Λάζαρος", "gloss": "Lazare", "analyse": "De l'hébreu Eléazar ('Dieu aide'). Paradoxalement, c'est le pauvre qui porte un nom dans ce récit, tandis que le riche est anonyme. Dans le Monde duel, le riche a une identité sociale écrasante, mais dans le Royaume UN, seul celui qui s'en remet à l'Axe vertical ('Dieu aide') possède une véritable identité ontologique." },
-          { "greek": "ἐβέβλητο", "gloss": "était_jeté/couché", "analyse": "Du verbe *ballo* (jeter). Lazare est dans un état de passivité absolue. Il ne 's'enfonce' pas dans ses vêtements comme le riche, il est littéralement jeté là par l'existence, dans une kénose totale, réduit à son essence." },
-          { "greek": "πρὸς", "gloss": "vers/près_de" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "πυλῶνα", "gloss": "portail" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "εἱλκωμένος", "gloss": "couvert_d'ulcères" }
+          {
+            "greek": "πτωχὸς",
+            "gloss": "Un_pauvre"
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τις",
+            "gloss": "certain"
+          },
+          {
+            "greek": "ὀνόματι",
+            "gloss": "de_nom"
+          },
+          {
+            "greek": "Λάζαρος",
+            "gloss": "Lazare",
+            "annotation": {
+              "type": "analyse",
+              "title": "Lazare a un nom",
+              "content": "Approfondissement spirituel : De l'hébreu Eléazar ('Dieu aide'). Paradoxalement, c'est le pauvre qui porte un nom dans ce récit, tandis que le riche est anonyme. Dans le Monde duel, le riche a une identité sociale écrasante, mais dans le Royaume UN, seul celui qui s'en remet à l'Axe vertical ('Dieu aide') possède une véritable identité ontologique.",
+              "related": [
+                "ὀνόματι",
+                "ἐβέβλητο"
+              ]
+            }
+          },
+          {
+            "greek": "ἐβέβλητο",
+            "gloss": "était_jeté/couché",
+            "annotation": {
+              "type": "analyse",
+              "title": "Lazare était jeté au portail",
+              "content": "Approfondissement spirituel : Du verbe *ballo* (jeter). Lazare est dans un état de passivité absolue. Il ne 's'enfonce' pas dans ses vêtements comme le riche, il est littéralement jeté là par l'existence, dans une kénose totale, réduit à son essence.",
+              "related": [
+                "Λάζαρος",
+                "πρὸς"
+              ]
+            }
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers/près_de"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πυλῶνα",
+            "gloss": "portail"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "εἱλκωμένος",
+            "gloss": "couvert_d'ulcères"
+          }
         ]
       },
       {
@@ -53,26 +155,95 @@
           "darby": "et qui désirait de se rassasier des miettes qui tombaient de la table du riche ; mais les chiens aussi venaient et léchaient ses ulcères."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπιθυμῶν", "gloss": "désirant" },
-          { "greek": "χορτασθῆναι", "gloss": "être_rassasié" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "πιπτόντων", "gloss": "tombant", "analyse": "Du verbe *pipto* (tomber). Exactement comme la Cananéenne (Matthieu 15), Lazare attend la Grâce dans un mouvement descendant. Il occupe la place la plus basse." },
-          { "greek": "ἀπὸ", "gloss": "depuis/de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "τραπέζης", "gloss": "table" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "πλουσίου·", "gloss": "riche" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "καὶ", "gloss": "même" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "κύνες", "gloss": "chiens" },
-          { "greek": "ἐρχόμενοι", "gloss": "venant" },
-          { "greek": "ἐπέλειχον", "gloss": "léchaient" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ἕλκη", "gloss": "ulcères" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπιθυμῶν",
+            "gloss": "désirant"
+          },
+          {
+            "greek": "χορτασθῆναι",
+            "gloss": "être_rassasié"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "πιπτόντων",
+            "gloss": "tombant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ce qui tombe de la table",
+              "content": "Approfondissement spirituel : Du verbe *pipto* (tomber). Exactement comme la Cananéenne (Matthieu 15), Lazare attend la Grâce dans un mouvement descendant. Il occupe la place la plus basse.",
+              "related": [
+                "τῶν",
+                "ἀπὸ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis/de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "τραπέζης",
+            "gloss": "table"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "πλουσίου·",
+            "gloss": "riche"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "même"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "κύνες",
+            "gloss": "chiens"
+          },
+          {
+            "greek": "ἐρχόμενοι",
+            "gloss": "venant"
+          },
+          {
+            "greek": "ἐπέλειχον",
+            "gloss": "léchaient"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἕλκη",
+            "gloss": "ulcères"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -82,28 +253,129 @@
           "darby": "Or il arriva que le pauvre mourut, et qu'il fut porté par les anges dans le sein d'Abraham. Et le riche aussi mourut, et fut enseveli."
         },
         "interlinear": [
-          { "greek": "ἐγένετο", "gloss": "Il_arriva" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἀποθανεῖν", "gloss": "de_mourir", "analyse": "Composé de *apo-* (loin de, séparation) et *thnesko* (mourir). C'est la coupure d'avec le Monde duel." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "πτωχὸν", "gloss": "pauvre" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀπενεχθῆναι", "gloss": "d'être_emporté_au_loin", "analyse": "Composé de *apo-* (éloignement) et *phero* (porter). La mort n'est pas une fin pour Lazare, c'est un transport ontologique. Il est arraché à l'horizontalité terrestre." },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ὑπὸ", "gloss": "par" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ἀγγέλων", "gloss": "anges" },
-          { "greek": "εἰς", "gloss": "dans/vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κόλπον", "gloss": "sein/giron", "analyse": "Le *kolpos* (le sein, l'intimité). Le pauvre passe de l'extérieur absolu (le portail) à l'intériorité absolue (le sein du Patriarche). C'est l'accueil dans l'Incréé." },
-          { "greek": "Ἀβραάμ·", "gloss": "d'Abraham" },
-          { "greek": "ἀπέθανεν", "gloss": "mourut" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "πλούσιος", "gloss": "riche" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐτάφη.", "gloss": "fut_enseveli", "analyse": "Aucun mouvement d'élévation pour le riche. Il s'était habillé de matière (v. 19), il retourne sous la terre. Son mouvement d'enfouissement initié de son vivant s'achève littéralement." }
+          {
+            "greek": "ἐγένετο",
+            "gloss": "Il_arriva"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀποθανεῖν",
+            "gloss": "de_mourir",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (loin de, séparation) et *thnesko* (mourir). C'est la coupure d'avec le Monde duel.",
+              "related": [
+                "δὲ",
+                "τὸν"
+              ]
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πτωχὸν",
+            "gloss": "pauvre"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπενεχθῆναι",
+            "gloss": "d'être_emporté_au_loin",
+            "annotation": {
+              "type": "racine",
+              "title": "Porté par les anges",
+              "content": "Approfondissement spirituel : Composé de *apo-* (éloignement) et *phero* (porter). La mort n'est pas une fin pour Lazare, c'est un transport ontologique. Il est arraché à l'horizontalité terrestre.",
+              "related": [
+                "καὶ",
+                "αὐτὸν"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀγγέλων",
+            "gloss": "anges"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans/vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόλπον",
+            "gloss": "sein/giron",
+            "annotation": {
+              "type": "traduction",
+              "title": "Dans le sein d’Abraham",
+              "content": "Approfondissement spirituel : Le *kolpos* (le sein, l'intimité). Le pauvre passe de l'extérieur absolu (le portail) à l'intériorité absolue (le sein du Patriarche). C'est l'accueil dans l'Incréé.",
+              "related": [
+                "τὸν",
+                "Ἀβραάμ·"
+              ]
+            }
+          },
+          {
+            "greek": "Ἀβραάμ·",
+            "gloss": "d'Abraham"
+          },
+          {
+            "greek": "ἀπέθανεν",
+            "gloss": "mourut"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πλούσιος",
+            "gloss": "riche"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐτάφη.",
+            "gloss": "fut_enseveli",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Aucun mouvement d'élévation pour le riche. Il s'était habillé de matière (v. 19), il retourne sous la terre. Son mouvement d'enfouissement initié de son vivant s'achève littéralement.",
+              "related": [
+                "καὶ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -113,27 +385,99 @@
           "darby": "Et dans l' hadès, levant les yeux, comme il était dans les tourments, il voit de loin Abraham, et Lazare dans son sein."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "l'" },
-          { "greek": "ᾅδῃ", "gloss": "Hadès" },
-          { "greek": "ἐπάρας", "gloss": "ayant_levé", "analyse": "Composé de *epi-* (sur, vers) et *airo* (soulever). L'inversion topographique est consommée. Sur terre, le riche regardait de haut Lazare jeté en bas. Maintenant, c'est le riche qui, du bas de l'Hadès, doit lever les yeux (*epi-airo*) vers le haut." },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ὀφθαλμοὺς", "gloss": "yeux" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "ὑπάρχων", "gloss": "étant" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "βασάνοις,", "gloss": "les_tourments" },
-          { "greek": "ὁρᾷ", "gloss": "il_voit" },
-          { "greek": "Ἀβραὰμ", "gloss": "Abraham" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "μακρόθεν", "gloss": "loin" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Λάζαρον", "gloss": "Lazare" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τοῖς", "gloss": "les" },
-          { "greek": "κόλποις", "gloss": "seins" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ᾅδῃ",
+            "gloss": "Hadès"
+          },
+          {
+            "greek": "ἐπάρας",
+            "gloss": "ayant_levé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi-* (sur, vers) et *airo* (soulever). L'inversion topographique est consommée. Sur terre, le riche regardait de haut Lazare jeté en bas. Maintenant, c'est le riche qui, du bas de l'Hadès, doit lever les yeux (*epi-airo*) vers le haut.",
+              "related": [
+                "ᾅδῃ",
+                "τοὺς"
+              ]
+            }
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὀφθαλμοὺς",
+            "gloss": "yeux"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ὑπάρχων",
+            "gloss": "étant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "βασάνοις,",
+            "gloss": "les_tourments"
+          },
+          {
+            "greek": "ὁρᾷ",
+            "gloss": "il_voit"
+          },
+          {
+            "greek": "Ἀβραὰμ",
+            "gloss": "Abraham"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "μακρόθεν",
+            "gloss": "loin"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Λάζαρον",
+            "gloss": "Lazare"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "κόλποις",
+            "gloss": "seins"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -143,36 +487,135 @@
           "darby": "Et s'écriant, il dit : Père Abraham, aie pitié de moi et envoie Lazare, afin qu'il trempe le bout de son doigt dans l'eau et qu'il rafraîchisse ma langue, car je suis tourmenté dans cette flamme."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "αὐτὸς", "gloss": "lui" },
-          { "greek": "φωνήσας", "gloss": "ayant_crié" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Πάτερ", "gloss": "Père" },
-          { "greek": "Ἀβραάμ,", "gloss": "Abraham" },
-          { "greek": "ἐλέησόν", "gloss": "aie_pitié" },
-          { "greek": "με", "gloss": "de_moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πέμψον", "gloss": "envoie" },
-          { "greek": "Λάζαρον", "gloss": "Lazare" },
-          { "greek": "ἵνα", "gloss": "afin_qu'" },
-          { "greek": "βάψῃ", "gloss": "il_trempe" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ἄκρον", "gloss": "bout" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "δακτύλου", "gloss": "doigt" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ὕδατος", "gloss": "d'eau" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "καταψύξῃ", "gloss": "rafraîchisse/refroidisse", "analyse": "Composé de *kata-* (mouvement vers le bas) et *psycho* (souffler, refroidir). Le riche implore qu'une goutte de Grâce descende (*kata-*) sur lui. Mais même dans l'Hadès, son Ego n'a pas changé : il demande que Lazare lui serve de 'garçon de course' pour adoucir son confort personnel." },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "γλῶσσάν", "gloss": "langue" },
-          { "greek": "μου,", "gloss": "de_moi" },
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "ὀδυνῶμαι", "gloss": "je_suis_tourmenté" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "φλογὶ", "gloss": "flamme" },
-          { "greek": "ταύτῃ.", "gloss": "cette" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui"
+          },
+          {
+            "greek": "φωνήσας",
+            "gloss": "ayant_crié"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Πάτερ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "Ἀβραάμ,",
+            "gloss": "Abraham"
+          },
+          {
+            "greek": "ἐλέησόν",
+            "gloss": "aie_pitié"
+          },
+          {
+            "greek": "με",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πέμψον",
+            "gloss": "envoie"
+          },
+          {
+            "greek": "Λάζαρον",
+            "gloss": "Lazare"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_qu'"
+          },
+          {
+            "greek": "βάψῃ",
+            "gloss": "il_trempe"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄκρον",
+            "gloss": "bout"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "δακτύλου",
+            "gloss": "doigt"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ὕδατος",
+            "gloss": "d'eau"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "καταψύξῃ",
+            "gloss": "rafraîchisse/refroidisse",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *kata-* (mouvement vers le bas) et *psycho* (souffler, refroidir). Le riche implore qu'une goutte de Grâce descende (*kata-*) sur lui. Mais même dans l'Hadès, son Ego n'a pas changé : il demande que Lazare lui serve de 'garçon de course' pour adoucir son confort personnel.",
+              "related": [
+                "καὶ",
+                "τὴν"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "γλῶσσάν",
+            "gloss": "langue"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὀδυνῶμαι",
+            "gloss": "je_suis_tourmenté"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "φλογὶ",
+            "gloss": "flamme"
+          },
+          {
+            "greek": "ταύτῃ.",
+            "gloss": "cette"
+          }
         ]
       },
       {
@@ -182,32 +625,119 @@
           "darby": "Mais Abraham dit : Mon enfant, souviens-toi que tu as reçu tes biens pendant ta vie, et Lazare pareillement les maux ; et maintenant il est consolé ici, et toi tu es tourmenté."
         },
         "interlinear": [
-          { "greek": "εἶπεν", "gloss": "Dit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Ἀβραάμ·", "gloss": "Abraham" },
-          { "greek": "Τέκνον,", "gloss": "Enfant" },
-          { "greek": "μνήσθητι", "gloss": "souviens-toi" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ἀπέλαβες", "gloss": "tu_as_reçu_en_retour", "analyse": "Composé de *apo-* (séparation, retour) et *lambano* (recevoir). C'est le verbe de la comptabilité du Monde duel (le même qu'en Luc 6:34). Le riche a déjà touché son capital et bouclé son circuit horizontal égotique. Il s'est lui-même séparé (*apo*) de l'Infini." },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ἀγαθά", "gloss": "biens" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "ζωῇ", "gloss": "vie" },
-          { "greek": "σου,", "gloss": "de_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Λάζαρος", "gloss": "Lazare" },
-          { "greek": "ὁμοίως", "gloss": "pareillement" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "κακά·", "gloss": "maux" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὧδε", "gloss": "ici" },
-          { "greek": "παρακαλεῖται,", "gloss": "il_est_consolé" },
-          { "greek": "σὺ", "gloss": "toi" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὀδυνᾶσαι.", "gloss": "tu_es_tourmenté" }
+          {
+            "greek": "εἶπεν",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἀβραάμ·",
+            "gloss": "Abraham"
+          },
+          {
+            "greek": "Τέκνον,",
+            "gloss": "Enfant"
+          },
+          {
+            "greek": "μνήσθητι",
+            "gloss": "souviens-toi"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἀπέλαβες",
+            "gloss": "tu_as_reçu_en_retour",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (séparation, retour) et *lambano* (recevoir). C'est le verbe de la comptabilité du Monde duel (le même qu'en Luc 6:34). Le riche a déjà touché son capital et bouclé son circuit horizontal égotique. Il s'est lui-même séparé (*apo*) de l'Infini.",
+              "related": [
+                "ὅτι",
+                "τὰ"
+              ]
+            }
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀγαθά",
+            "gloss": "biens"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ζωῇ",
+            "gloss": "vie"
+          },
+          {
+            "greek": "σου,",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Λάζαρος",
+            "gloss": "Lazare"
+          },
+          {
+            "greek": "ὁμοίως",
+            "gloss": "pareillement"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "κακά·",
+            "gloss": "maux"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὧδε",
+            "gloss": "ici"
+          },
+          {
+            "greek": "παρακαλεῖται,",
+            "gloss": "il_est_consolé"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὀδυνᾶσαι.",
+            "gloss": "tu_es_tourmenté"
+          }
         ]
       },
       {
@@ -217,32 +747,145 @@
           "darby": "Et outre tout cela, un grand gouffre est fermement établi entre nous et vous ; en sorte que ceux qui veulent passer d'ici vers vous ne le puissent, et que ceux qui veulent passer de là ne traversent pas vers nous."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐν", "gloss": "dans/parmi" },
-          { "greek": "πᾶσι", "gloss": "tous" },
-          { "greek": "τούτοις", "gloss": "ceux-ci" },
-          { "greek": "μεταξὺ", "gloss": "entre" },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὑμῶν", "gloss": "vous" },
-          { "greek": "χάσμα", "gloss": "un_gouffre/abîme", "analyse": "Un espace béant infranchissable. Ce n'est pas Dieu qui a creusé ce gouffre, c'est le prolongement métaphysique de la distance que le riche avait lui-même établie de son vivant entre son portail et sa table." },
-          { "greek": "μέγα", "gloss": "grand" },
-          { "greek": "ἐστήρικται,", "gloss": "a_été_fixé", "analyse": "Du verbe *sterizo* (rendre ferme, établir de manière inébranlable). L'état d'isolement de l'Ego, une fois l'illusion du temps disparue, devient une réalité ontologique définitive." },
-          { "greek": "ὅπως", "gloss": "afin_que" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "θέλοντες", "gloss": "voulant" },
-          { "greek": "διαβῆναι", "gloss": "traverser", "analyse": "Composé de *dia-* (à travers, franchissement spatial) et *baino* (aller/marcher). L'Ego est prisonnier de sa propre polarisation. La traversée d'un état à l'autre est impossible car il n'y a plus de fluidité, tout est figé." },
-          { "greek": "ἔνθεν", "gloss": "d'ici" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "δύνωνται,", "gloss": "puissent" },
-          { "greek": "μηδὲ", "gloss": "ni" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "ἐκεῖθεν", "gloss": "de_là" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "ἡμᾶς", "gloss": "nous" },
-          { "greek": "διαπερῶσιν.", "gloss": "ne_traversent", "analyse": "Composé de *dia-* (à travers) et *perao* (passer outre). Le Monde duel est devenu une prison hermétique." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/parmi"
+          },
+          {
+            "greek": "πᾶσι",
+            "gloss": "tous"
+          },
+          {
+            "greek": "τούτοις",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "μεταξὺ",
+            "gloss": "entre"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "χάσμα",
+            "gloss": "un_gouffre/abîme",
+            "annotation": {
+              "type": "traduction",
+              "title": "Un grand abîme",
+              "content": "Χάσμα signifie ouverture béante, gouffre ou abîme. Le parfait ἐστήρικται indique qu’il est désormais fixé. La parabole avertit que l’indifférence répétée peut devenir une séparation durable ; elle ne fournit pas une cartographie exhaustive de l’au-delà.",
+              "related": [
+                "ὑμῶν",
+                "μέγα"
+              ]
+            }
+          },
+          {
+            "greek": "μέγα",
+            "gloss": "grand"
+          },
+          {
+            "greek": "ἐστήρικται,",
+            "gloss": "a_été_fixé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *sterizo* (rendre ferme, établir de manière inébranlable). L'état d'isolement de l'Ego, une fois l'illusion du temps disparue, devient une réalité ontologique définitive.",
+              "related": [
+                "μέγα",
+                "ὅπως"
+              ]
+            }
+          },
+          {
+            "greek": "ὅπως",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "θέλοντες",
+            "gloss": "voulant"
+          },
+          {
+            "greek": "διαβῆναι",
+            "gloss": "traverser",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *dia-* (à travers, franchissement spatial) et *baino* (aller/marcher). L'Ego est prisonnier de sa propre polarisation. La traversée d'un état à l'autre est impossible car il n'y a plus de fluidité, tout est figé.",
+              "related": [
+                "θέλοντες",
+                "ἔνθεν"
+              ]
+            }
+          },
+          {
+            "greek": "ἔνθεν",
+            "gloss": "d'ici"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "δύνωνται,",
+            "gloss": "puissent"
+          },
+          {
+            "greek": "μηδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἐκεῖθεν",
+            "gloss": "de_là"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "διαπερῶσιν.",
+            "gloss": "ne_traversent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Impossible de traverser",
+              "content": "Approfondissement spirituel : Composé de *dia-* (à travers) et *perao* (passer outre). Le Monde duel est devenu une prison hermétique.",
+              "related": [
+                "ἡμᾶς"
+              ]
+            }
+          }
         ]
       },
       {
@@ -252,21 +895,66 @@
           "darby": "Et il dit : Je te prie donc, père, de l'envoyer dans la maison de mon père,"
         },
         "interlinear": [
-          { "greek": "εἶπεν", "gloss": "Il_dit" },
-          { "greek": "δέ·", "gloss": "or" },
-          { "greek": "Ἐρωτῶ", "gloss": "Je_demande/prie" },
-          { "greek": "σε", "gloss": "te" },
-          { "greek": "οὖν,", "gloss": "donc" },
-          { "greek": "πάτερ,", "gloss": "père" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "πέμψῃς", "gloss": "tu_envoies" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "οἶκον", "gloss": "maison" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "πατρός", "gloss": "père" },
-          { "greek": "μου·", "gloss": "de_moi" }
+          {
+            "greek": "εἶπεν",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "δέ·",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἐρωτῶ",
+            "gloss": "Je_demande/prie"
+          },
+          {
+            "greek": "σε",
+            "gloss": "te"
+          },
+          {
+            "greek": "οὖν,",
+            "gloss": "donc"
+          },
+          {
+            "greek": "πάτερ,",
+            "gloss": "père"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "πέμψῃς",
+            "gloss": "tu_envoies"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἶκον",
+            "gloss": "maison"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "πατρός",
+            "gloss": "père"
+          },
+          {
+            "greek": "μου·",
+            "gloss": "de_moi"
+          }
         ]
       },
       {
@@ -276,24 +964,87 @@
           "darby": "car j'ai cinq frères ; en sorte qu'il les adjure, afin qu'ils ne viennent pas, eux aussi, dans ce lieu de tourment."
         },
         "interlinear": [
-          { "greek": "ἔχω", "gloss": "J'ai" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "πέντε", "gloss": "cinq" },
-          { "greek": "ἀδελφούς·", "gloss": "frères" },
-          { "greek": "ὅπως", "gloss": "afin_qu'" },
-          { "greek": "διαμαρτύρηται", "gloss": "il_témoigne_ardemment", "analyse": "Composé de *dia-* (à travers, insistance) et *martyreo* (rendre témoignage). Le riche croit encore que l'information intellectuelle (le témoignage) suffit à sauver. Il projette sa vision du monde matériel sur la réalité spirituelle." },
-          { "greek": "αὐτοῖς,", "gloss": "à_eux" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "αὐτοὶ", "gloss": "eux" },
-          { "greek": "ἔλθωσιν", "gloss": "viennent" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "τόπον", "gloss": "lieu" },
-          { "greek": "τοῦτον", "gloss": "ce" },
-          { "greek": "τῆς", "gloss": "des" },
-          { "greek": "βασάνου.", "gloss": "tourments" }
+          {
+            "greek": "ἔχω",
+            "gloss": "J'ai"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "ἀδελφούς·",
+            "gloss": "frères"
+          },
+          {
+            "greek": "ὅπως",
+            "gloss": "afin_qu'"
+          },
+          {
+            "greek": "διαμαρτύρηται",
+            "gloss": "il_témoigne_ardemment",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *dia-* (à travers, insistance) et *martyreo* (rendre témoignage). Le riche croit encore que l'information intellectuelle (le témoignage) suffit à sauver. Il projette sa vision du monde matériel sur la réalité spirituelle.",
+              "related": [
+                "ὅπως",
+                "αὐτοῖς,"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοῖς,",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἔλθωσιν",
+            "gloss": "viennent"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "τόπον",
+            "gloss": "lieu"
+          },
+          {
+            "greek": "τοῦτον",
+            "gloss": "ce"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "des"
+          },
+          {
+            "greek": "βασάνου.",
+            "gloss": "tourments"
+          }
         ]
       },
       {
@@ -303,16 +1054,46 @@
           "darby": "Mais Abraham lui dit : Ils ont Moïse et les prophètes ; qu'ils les écoutent."
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Dit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Ἀβραάμ·", "gloss": "Abraham" },
-          { "greek": "Ἔχουσι", "gloss": "Ils_ont" },
-          { "greek": "Μωϋσέα", "gloss": "Moïse" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "προφήτας·", "gloss": "prophètes" },
-          { "greek": "ἀκουσάτωσαν", "gloss": "qu'ils_écoutent" },
-          { "greek": "αὐτῶν.", "gloss": "d'eux" }
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἀβραάμ·",
+            "gloss": "Abraham"
+          },
+          {
+            "greek": "Ἔχουσι",
+            "gloss": "Ils_ont"
+          },
+          {
+            "greek": "Μωϋσέα",
+            "gloss": "Moïse"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "προφήτας·",
+            "gloss": "prophètes"
+          },
+          {
+            "greek": "ἀκουσάτωσαν",
+            "gloss": "qu'ils_écoutent"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "d'eux"
+          }
         ]
       },
       {
@@ -322,21 +1103,74 @@
           "darby": "Mais il dit : Non, père Abraham ; mais si quelqu'un va des morts vers eux, ils se repentiront."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Οὐχί,", "gloss": "Non" },
-          { "greek": "πάτερ", "gloss": "père" },
-          { "greek": "Ἀβραάμ,", "gloss": "Abraham" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "ἐάν", "gloss": "si" },
-          { "greek": "τις", "gloss": "quelqu'un" },
-          { "greek": "ἀπὸ", "gloss": "de/depuis" },
-          { "greek": "νεκρῶν", "gloss": "les_morts" },
-          { "greek": "πορευθῇ", "gloss": "va" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "μετανοήσουσιν.", "gloss": "ils_se_repentiront", "analyse": "Le riche comprend enfin que la solution est la *metanoia* (le changement d'intellect, le retournement de l'Ego). Mais il s'illusionne sur le moyen de la déclencher : il croit qu'un miracle extérieur spectaculaire (une apparition) peut forcer le changement intérieur." }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Οὐχί,",
+            "gloss": "Non"
+          },
+          {
+            "greek": "πάτερ",
+            "gloss": "père"
+          },
+          {
+            "greek": "Ἀβραάμ,",
+            "gloss": "Abraham"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἐάν",
+            "gloss": "si"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de/depuis"
+          },
+          {
+            "greek": "νεκρῶν",
+            "gloss": "les_morts"
+          },
+          {
+            "greek": "πορευθῇ",
+            "gloss": "va"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "μετανοήσουσιν.",
+            "gloss": "ils_se_repentiront",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le riche comprend enfin que la solution est la *metanoia* (le changement d'intellect, le retournement de l'Ego). Mais il s'illusionne sur le moyen de la déclencher : il croit qu'un miracle extérieur spectaculaire (une apparition) peut forcer le changement intérieur.",
+              "related": [
+                "αὐτοὺς"
+              ]
+            }
+          }
         ]
       },
       {
@@ -346,29 +1180,177 @@
           "darby": "Et il lui dit : S'ils n'écoutent pas Moïse et les prophètes, ils ne seront pas persuadés non plus si quelqu'un ressuscite d'entre les morts."
         },
         "interlinear": [
-          { "greek": "εἶπεν", "gloss": "Il_dit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Εἰ", "gloss": "Si" },
-          { "greek": "Μωϋσέως", "gloss": "Moïse" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "προφητῶν", "gloss": "prophètes" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἀκούουσιν,", "gloss": "ils_écoutent" },
-          { "greek": "οὐδ’", "gloss": "ni_même" },
-          { "greek": "ἐάν", "gloss": "si" },
-          { "greek": "τις", "gloss": "quelqu'un" },
-          { "greek": "ἐκ", "gloss": "d'entre" },
-          { "greek": "νεκρῶν", "gloss": "les_morts" },
-          { "greek": "ἀναστῇ", "gloss": "se_lève/ressuscite", "analyse": "Composé de *ana-* (vers le haut) et *histemi* (se tenir debout). C'est le triomphe de l'Axe vertical sur la mort. Mais Abraham affirme que ce jaillissement vertical ne peut pas forcer la porte d'un Ego verrouillé sur sa propre autosuffisance horizontale." },
-          { "greek": "πεισθήσονται.", "gloss": "ils_seront_persuadés" }
+          {
+            "greek": "εἶπεν",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "Μωϋσέως",
+            "gloss": "Moïse"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "προφητῶν",
+            "gloss": "prophètes"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἀκούουσιν,",
+            "gloss": "ils_écoutent"
+          },
+          {
+            "greek": "οὐδ’",
+            "gloss": "ni_même"
+          },
+          {
+            "greek": "ἐάν",
+            "gloss": "si"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "d'entre"
+          },
+          {
+            "greek": "νεκρῶν",
+            "gloss": "les_morts"
+          },
+          {
+            "greek": "ἀναστῇ",
+            "gloss": "se_lève/ressuscite",
+            "annotation": {
+              "type": "analyse",
+              "title": "Même si quelqu’un ressuscite",
+              "content": "Approfondissement spirituel : Composé de *ana-* (vers le haut) et *histemi* (se tenir debout). C'est le triomphe de l'Axe vertical sur la mort. Mais Abraham affirme que ce jaillissement vertical ne peut pas forcer la porte d'un Ego verrouillé sur sa propre autosuffisance horizontale.",
+              "related": [
+                "νεκρῶν",
+                "πεισθήσονται."
+              ]
+            }
+          },
+          {
+            "greek": "πεισθήσονται.",
+            "gloss": "ils_seront_persuadés"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 20 - ἐβέβλητο : Traduit platement par 'était couché' chez Segond, Darby est plus fidèle en traduisant par 'était jeté'. C'est le verbe *ballo* (jeter) au plus-que-parfait passif. La passivité de Lazare contraste violemment avec l'action du riche qui s'enveloppe de pourpre. Lazare est dépossédé de toute action mondaine.\n• Verset 26 - ἐστήρικται / χάσμα : 'Gouffre fermement établi'. Le verbe *sterizo* montre que la coupure n'est pas une humeur divine passagère, mais une solidification ontologique de l'état d'esprit du riche.\n\nAnalyse spirituelle :\nCe récit est une parabole vertigineuse sur l'inversion des topographies entre le 'Monde duel' et le 'Royaume UN'.\n\nSur terre, le riche évoluait dans la superficialité du paraître horizontal (vêtements luxueux, festins), tandis que Lazare, 'jeté' à l'extérieur de la porte, vivait la kénose absolue. La mort agit ici comme un révélateur photographique, développant les négatifs. Le riche s'étant construit un monde fermé, hermétique à la Grâce, se retrouve dans un gouffre (*chasma*) devenu définitif et infranchissable (*sterizo*). \n\nL'inversion spatiale est totale : Lazare, qui gisait au sol et attendait les miettes qui tombaient (*pipto*), est transporté au loin (*apo-phero*) dans l'intimité même de l'Incréé (le sein d'Abraham). À l'inverse, le riche, qui trônait en haut, est enterré et doit lever les yeux de tout en bas (*epi-airo*) pour espérer recevoir une goutte d'eau descendante (*kata-psycho*).\n\nLe drame de la fin de la parabole est que le riche, même dans l'Hadès, conserve les structures de son Ego : il veut utiliser Lazare comme un messager subalterne (v. 27). Il est convaincu qu'un miracle 'horizontal' (l'apparition spectaculaire d'un mort) pourra forcer ses frères à changer. Abraham déconstruit cette illusion : l'éveil du Sujet ne provient pas de l'observation d'un prodige magique, mais de l'écoute intérieure de la Parole. Si l'Ego refuse de se laisser percer dans sa cuirasse, même le mouvement ascensionnel absolu de la Résurrection (*ana-stemi*) ne suffira pas à le persuader."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 20 - ἐβέβλητο : Traduit platement par 'était couché' chez Segond, Darby est plus fidèle en traduisant par 'était jeté'. C'est le verbe *ballo* (jeter) au plus-que-parfait passif. La passivité de Lazare contraste violemment avec l'action du riche qui s'enveloppe de pourpre. Lazare est dépossédé de toute action mondaine.\n• Verset 26 - ἐστήρικται / χάσμα : 'Gouffre fermement établi'. Le verbe *sterizo* montre que la coupure n'est pas une humeur divine passagère, mais une solidification ontologique de l'état d'esprit du riche.\n\nAnalyse spirituelle :\nCe récit est une parabole vertigineuse sur l'inversion des topographies entre le 'Monde duel' et le 'Royaume UN'.\n\nSur terre, le riche évoluait dans la superficialité du paraître horizontal (vêtements luxueux, festins), tandis que Lazare, 'jeté' à l'extérieur de la porte, vivait la kénose absolue. La mort agit ici comme un révélateur photographique, développant les négatifs. Le riche s'étant construit un monde fermé, hermétique à la Grâce, se retrouve dans un gouffre (*chasma*) devenu définitif et infranchissable (*sterizo*). \n\nL'inversion spatiale est totale : Lazare, qui gisait au sol et attendait les miettes qui tombaient (*pipto*), est transporté au loin (*apo-phero*) dans l'intimité même de l'Incréé (le sein d'Abraham). À l'inverse, le riche, qui trônait en haut, est enterré et doit lever les yeux de tout en bas (*epi-airo*) pour espérer recevoir une goutte d'eau descendante (*kata-psycho*).\n\nLe drame de la fin de la parabole est que le riche, même dans l'Hadès, conserve les structures de son Ego : il veut utiliser Lazare comme un messager subalterne (v. 27). Il est convaincu qu'un miracle 'horizontal' (l'apparition spectaculaire d'un mort) pourra forcer ses frères à changer. Abraham déconstruit cette illusion : l'éveil du Sujet ne provient pas de l'observation d'un prodige magique, mais de l'écoute intérieure de la Parole. Si l'Ego refuse de se laisser percer dans sa cuirasse, même le mouvement ascensionnel absolu de la Résurrection (*ana-stemi*) ne suffira pas à le persuader.\n\nComplément de lecture : la parabole organise l’espace : le riche est dedans, Lazare reste au portail ; après la mort, Lazare est accueilli dans le sein d’Abraham et un abîme sépare les deux situations. Le drame n’est pas la richesse abstraite, mais la proximité d’un pauvre nommé que le riche ne laisse jamais devenir son prochain.",
+    "homiletic_axes": [
+      {
+        "title": "À la porte, un homme qui a un nom",
+        "content": "Le riche demeure anonyme malgré son éclat ; le pauvre couché à son portail est appelé Lazare. La proximité physique n’est jamais devenue rencontre.",
+        "keywords": [
+          "πλούσιος,",
+          "Λάζαρος",
+          "πυλῶνα",
+          "αὐτοῦ"
+        ]
+      },
+      {
+        "title": "Du portail au sein d’Abraham",
+        "content": "La mort renverse les positions : Lazare passe de l’extérieur à l’intimité d’Abraham, tandis que le riche découvre la distance qu’il a laissée se creuser.",
+        "keywords": [
+          "ἀπενεχθῆναι",
+          "κόλπον",
+          "χάσμα",
+        "ἐστήρικται,"
+        ]
+      },
+      {
+        "title": "Écouter Moïse et les prophètes",
+        "content": "La parabole refuse de remplacer l’écoute par la recherche d’un signe spectaculaire. Même une résurrection ne contraint pas celui qui refuse d’entendre.",
+        "keywords": [
+          "Μωϋσέα",
+          "προφήτας·",
+          "ἀκουσάτωσαν",
+          "ἀναστῇ"
+        ]
+      },
+      {
+        "title": "De la belle apparence à la création nouvelle",
+        "content": "Paul oppose le désir de faire bonne figure à la Croix et à la création nouvelle. L’identité reçue ne se construit plus contre autrui.",
+        "keywords": [
+          "εὐπροσωπῆσαι",
+          "σταυρῷ",
+          "κόσμος",
+          "καινὴ"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche du Riche et de Lazare : une parole, un geste, une opposition, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : attente d’un retour, deuil, stérilité, dispersion intérieure, indifférence, faiblesse ou désir de porter du fruit."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : aimer sans calcul, compatir, écouter, retenir la parole, servir, franchir une distance ou recevoir la grâce dans une faiblesse."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes souffrantes."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Voir Lazare et devenir création nouvelle",
+        "reference": "Luc 16, 19-31 ; Galates 6, 11-18",
+        "content": "Le riche ne laisse pas Lazare devenir son prochain malgré leur proximité ; Paul refuse une identité religieuse fondée sur l’apparence et la séparation. La Croix ouvre une création nouvelle capable de voir, d’accueillir et de marcher autrement.",
+        "connections": []
+      }
+    ]
   },
- "apostle": {
+  "apostle": {
     "reference": "Galates 6, 11-18",
     "title": "La Nouvelle Création et la Croix : L'Alignement sur l'Axe Vertical",
     "interlinear": [
@@ -379,14 +1361,38 @@
           "darby": "Voyez avec quelles grandes lettres je vous ai écrit de ma propre main."
         },
         "interlinear": [
-          { "greek": "Ἴδετε", "gloss": "Voyez" },
-          { "greek": "πηλίκοις", "gloss": "avec_quelles_grandes" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "γράμμασιν", "gloss": "lettres" },
-          { "greek": "ἔγραψα", "gloss": "j'ai_écrit" },
-          { "greek": "τῇ", "gloss": "de_la" },
-          { "greek": "ἐμῇ", "gloss": "ma_propre" },
-          { "greek": "χειρί.", "gloss": "main" }
+          {
+            "greek": "Ἴδετε",
+            "gloss": "Voyez"
+          },
+          {
+            "greek": "πηλίκοις",
+            "gloss": "avec_quelles_grandes"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "γράμμασιν",
+            "gloss": "lettres"
+          },
+          {
+            "greek": "ἔγραψα",
+            "gloss": "j'ai_écrit"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἐμῇ",
+            "gloss": "ma_propre"
+          },
+          {
+            "greek": "χειρί.",
+            "gloss": "main"
+          }
         ]
       },
       {
@@ -396,23 +1402,92 @@
           "darby": "Tous ceux qui veulent faire belle apparence dans la chair, ceux-là vous contraignent à être circoncis, seulement afin qu'ils ne soient pas persécutés pour la croix de Christ."
         },
         "interlinear": [
-          { "greek": "ὅσοι", "gloss": "Tous_ceux_qui" },
-          { "greek": "θέλουσιν", "gloss": "veulent" },
-          { "greek": "εὐπροσωπῆσαι", "gloss": "faire_bonne_figure", "analyse": "Composé de *eu-* (bien) et *prosopon* (visage, masque de théâtre). L'Ego cherche toujours à sauver les apparences en revêtant un masque acceptable pour la société religieuse. Vouloir 'faire bonne figure dans la chair', c'est rester piégé dans l'horizontalité du Monde duel en cherchant la validation des autres." },
-          { "greek": "ἐν", "gloss": "dans_la" },
-          { "greek": "σαρκί,", "gloss": "chair" },
-          { "greek": "οὗτοι", "gloss": "ceux-ci" },
-          { "greek": "ἀναγκάζουσιν", "gloss": "contraignent" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "περιτέμνεσθαι,", "gloss": "à_être_circoncis", "analyse": "Composé de *peri-* (autour, périphérie) et *temno* (couper). La circoncision est étymologiquement une coupure périphérique, de surface. Paul s'oppose à ceux qui veulent imposer une marque physique et extérieure (une identité mondaine) pour éviter la véritable coupure ontologique intérieure qu'exige la Croix." },
-          { "greek": "μόνον", "gloss": "seulement" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "τῷ", "gloss": "pour_la" },
-          { "greek": "σταυρῷ", "gloss": "croix" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "Χριστοῦ", "gloss": "Christ" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "διώκωνται·", "gloss": "ils_soient_persécutés" }
+          {
+            "greek": "ὅσοι",
+            "gloss": "Tous_ceux_qui"
+          },
+          {
+            "greek": "θέλουσιν",
+            "gloss": "veulent"
+          },
+          {
+            "greek": "εὐπροσωπῆσαι",
+            "gloss": "faire_bonne_figure",
+            "annotation": {
+              "type": "traduction",
+              "title": "Faire belle figure",
+              "content": "Εὐπροσωπέω signifie faire bonne figure ou présenter une apparence honorable. Πρόσωπον désigne le visage ou la personne et peut aussi désigner un masque de théâtre ; Paul critique ici la recherche d’une belle apparence extérieure pour éviter la persécution.",
+              "related": [
+                "θέλουσιν",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans_la"
+          },
+          {
+            "greek": "σαρκί,",
+            "gloss": "chair"
+          },
+          {
+            "greek": "οὗτοι",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "ἀναγκάζουσιν",
+            "gloss": "contraignent"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "περιτέμνεσθαι,",
+            "gloss": "à_être_circoncis",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *peri-* (autour, périphérie) et *temno* (couper). La circoncision est étymologiquement une coupure périphérique, de surface. Paul s'oppose à ceux qui veulent imposer une marque physique et extérieure (une identité mondaine) pour éviter la véritable coupure ontologique intérieure qu'exige la Croix.",
+              "related": [
+                "ὑμᾶς",
+                "μόνον"
+              ]
+            }
+          },
+          {
+            "greek": "μόνον",
+            "gloss": "seulement"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "pour_la"
+          },
+          {
+            "greek": "σταυρῷ",
+            "gloss": "croix"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "διώκωνται·",
+            "gloss": "ils_soient_persécutés"
+          }
         ]
       },
       {
@@ -422,23 +1497,74 @@
           "darby": "Car ceux-là mêmes qui sont circoncis ne gardent pas la loi ; mais ils veulent que vous soyez circoncis, afin de se glorifier dans votre chair."
         },
         "interlinear": [
-          { "greek": "οὐδὲ", "gloss": "Car_pas_même" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "περιτεμνόμενοι", "gloss": "étant_circoncis" },
-          { "greek": "αὐτοὶ", "gloss": "eux-mêmes" },
-          { "greek": "νόμον", "gloss": "la_loi" },
-          { "greek": "φυλάσσουσιν,", "gloss": "observent/gardent" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "θέλουσιν", "gloss": "ils_veulent" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "περιτέμνεσθαι", "gloss": "être_circoncis" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "ὑμετέρᾳ", "gloss": "votre" },
-          { "greek": "σαρκὶ", "gloss": "chair" },
-          { "greek": "καυχήσωνται.", "gloss": "ils_se_glorifient" }
+          {
+            "greek": "οὐδὲ",
+            "gloss": "Car_pas_même"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "περιτεμνόμενοι",
+            "gloss": "étant_circoncis"
+          },
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "eux-mêmes"
+          },
+          {
+            "greek": "νόμον",
+            "gloss": "la_loi"
+          },
+          {
+            "greek": "φυλάσσουσιν,",
+            "gloss": "observent/gardent"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "θέλουσιν",
+            "gloss": "ils_veulent"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "περιτέμνεσθαι",
+            "gloss": "être_circoncis"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὑμετέρᾳ",
+            "gloss": "votre"
+          },
+          {
+            "greek": "σαρκὶ",
+            "gloss": "chair"
+          },
+          {
+            "greek": "καυχήσωνται.",
+            "gloss": "ils_se_glorifient"
+          }
         ]
       },
       {
@@ -448,27 +1574,99 @@
           "darby": "Mais qu'il ne m'arrive pas à moi de me glorifier, sinon en la croix de notre Seigneur Jésus Christ, par laquelle le monde m'est crucifié, et moi au monde."
         },
         "interlinear": [
-          { "greek": "ἐμοὶ", "gloss": "À_moi" },
-          { "greek": "δὲ", "gloss": "or/quant" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "γένοιτο", "gloss": "qu'il_advienne/loin_de_moi" },
-          { "greek": "καυχᾶσθαι", "gloss": "de_me_glorifier" },
-          { "greek": "εἰ μὴ", "gloss": "si_ce_n'est" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "σταυρῷ", "gloss": "croix" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "κυρίου", "gloss": "Seigneur" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "Χριστοῦ,", "gloss": "Christ" },
-          { "greek": "δι’", "gloss": "par/à_travers" },
-          { "greek": "οὗ", "gloss": "lequel" },
-          { "greek": "ἐμοὶ", "gloss": "pour_moi" },
-          { "greek": "κόσμος", "gloss": "le_monde" },
-          { "greek": "ἐσταύρωται", "gloss": "a_été_crucifié", "analyse": "Le verbe *stauroo* (crucifier). Le *stauros* est le poteau vertical par excellence. En étant crucifié, le Sujet rompt définitivement avec le système d'échanges du 'monde' (*kosmos*, l'ordre duel horizontal). Le lien de dépendance aux apparences est cloué, suspendu, annulé." },
-          { "greek": "κἀγὼ", "gloss": "et_moi" },
-          { "greek": "κόσμῳ.", "gloss": "pour_le_monde" }
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "À_moi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/quant"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "γένοιτο",
+            "gloss": "qu'il_advienne/loin_de_moi"
+          },
+          {
+            "greek": "καυχᾶσθαι",
+            "gloss": "de_me_glorifier"
+          },
+          {
+            "greek": "εἰ μὴ",
+            "gloss": "si_ce_n'est"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "σταυρῷ",
+            "gloss": "croix"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Χριστοῦ,",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par/à_travers"
+          },
+          {
+            "greek": "οὗ",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "pour_moi"
+          },
+          {
+            "greek": "κόσμος",
+            "gloss": "le_monde"
+          },
+          {
+            "greek": "ἐσταύρωται",
+            "gloss": "a_été_crucifié",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le monde crucifié",
+              "content": "Approfondissement spirituel : Le verbe *stauroo* (crucifier). Le *stauros* est le poteau vertical par excellence. En étant crucifié, le Sujet rompt définitivement avec le système d'échanges du 'monde' (*kosmos*, l'ordre duel horizontal). Le lien de dépendance aux apparences est cloué, suspendu, annulé.",
+              "related": [
+                "κόσμος",
+                "κἀγὼ"
+              ]
+            }
+          },
+          {
+            "greek": "κἀγὼ",
+            "gloss": "et_moi"
+          },
+          {
+            "greek": "κόσμῳ.",
+            "gloss": "pour_le_monde"
+          }
         ]
       },
       {
@@ -478,16 +1676,54 @@
           "darby": "Car ni la circoncision, ni l'incirconcision ne sont rien, mais une nouvelle création."
         },
         "interlinear": [
-          { "greek": "οὔτε", "gloss": "Ni" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "περιτομή", "gloss": "la_circoncision" },
-          { "greek": "τί", "gloss": "quelque_chose" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "οὔτε", "gloss": "ni" },
-          { "greek": "ἀκροβυστία,", "gloss": "l'incirconcision" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "καινὴ", "gloss": "nouvelle" },
-          { "greek": "κτίσις.", "gloss": "création/créature", "analyse": "Le mot *ktisis* (création). Paul balaie d'un revers de main les dualités religieuses classiques (circoncis vs incirconcis). Dans le Royaume UN, l'identité ne se définit plus par ce qui est coupé ou non en surface (*peri-tome*), mais par un re-formatage ontologique total : devenir une *kaine ktisis*, une nouvelle genèse tirée directement de l'Incréé." }
+          {
+            "greek": "οὔτε",
+            "gloss": "Ni"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "περιτομή",
+            "gloss": "la_circoncision"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quelque_chose"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "οὔτε",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἀκροβυστία,",
+            "gloss": "l'incirconcision"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "καινὴ",
+            "gloss": "nouvelle"
+          },
+          {
+            "greek": "κτίσις.",
+            "gloss": "création/créature",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot *ktisis* (création). Paul balaie d'un revers de main les dualités religieuses classiques (circoncis vs incirconcis). Dans le Royaume UN, l'identité ne se définit plus par ce qui est coupé ou non en surface (*peri-tome*), mais par un re-formatage ontologique total : devenir une *kaine ktisis*, une nouvelle genèse tirée directement de l'Incréé.",
+              "related": [
+                "καινὴ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -497,23 +1733,83 @@
           "darby": "Et à l'égard de tous ceux qui marcheront selon cette règle, paix et miséricorde sur eux, et sur l'Israël de Dieu !"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ὅσοι", "gloss": "tous_ceux_qui" },
-          { "greek": "τῷ", "gloss": "à_la" },
-          { "greek": "κανόνι", "gloss": "règle/norme" },
-          { "greek": "τούτῳ", "gloss": "cette" },
-          { "greek": "στοιχήσουσιν,", "gloss": "s'aligneront/marcheront_en_ligne", "analyse": "Du verbe *stoicheo* (marcher en rang, s'aligner). Le Sujet libéré ne vagabonde pas au gré des modes mondaines. Il s'aligne rigoureusement sur le *kanon* (la ligne de mesure, l'Axe vertical). C'est la rectification de l'être par alignement sur la dynamique de la Croix." },
-          { "greek": "εἰρήνη", "gloss": "paix" },
-          { "greek": "ἐπ’", "gloss": "sur" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔλεος,", "gloss": "miséricorde" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τὸν", "gloss": "l'" },
-          { "greek": "Ἰσραὴλ", "gloss": "Israël" },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "θεοῦ.", "gloss": "Dieu" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ὅσοι",
+            "gloss": "tous_ceux_qui"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "κανόνι",
+            "gloss": "règle/norme"
+          },
+          {
+            "greek": "τούτῳ",
+            "gloss": "cette"
+          },
+          {
+            "greek": "στοιχήσουσιν,",
+            "gloss": "s'aligneront/marcheront_en_ligne",
+            "annotation": {
+              "type": "analyse",
+              "title": "Marcher selon cette règle",
+              "content": "Approfondissement spirituel : Du verbe *stoicheo* (marcher en rang, s'aligner). Le Sujet libéré ne vagabonde pas au gré des modes mondaines. Il s'aligne rigoureusement sur le *kanon* (la ligne de mesure, l'Axe vertical). C'est la rectification de l'être par alignement sur la dynamique de la Croix.",
+              "related": [
+                "τούτῳ",
+                "εἰρήνη"
+              ]
+            }
+          },
+          {
+            "greek": "εἰρήνη",
+            "gloss": "paix"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔλεος,",
+            "gloss": "miséricorde"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "Ἰσραὴλ",
+            "gloss": "Israël"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ.",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -523,23 +1819,83 @@
           "darby": "Désormais que personne ne me cause des peines, car moi, je porte en mon corps les marques du Seigneur Jésus."
         },
         "interlinear": [
-          { "greek": "Τοῦ", "gloss": "Pour_le" },
-          { "greek": "λοιποῦ", "gloss": "reste" },
-          { "greek": "κόπους", "gloss": "des_peines/troubles" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "μηδεὶς", "gloss": "personne" },
-          { "greek": "παρεχέτω·", "gloss": "ne_fournisse/cause" },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "στίγματα", "gloss": "marques", "analyse": "Du mot *stigma* (marque faite au fer rouge sur un esclave pour identifier son propriétaire). Paul oppose ces stigmates intérieurs et sacrificiels au *prosopon* (masque) du verset 12. Il ne cherche plus à 'faire bonne figure', il porte dans sa chair la brûlure indélébile de son appartenance à l'Incréé." },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "σώματί", "gloss": "corps" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "βαστάζω.", "gloss": "je_porte" }
+          {
+            "greek": "Τοῦ",
+            "gloss": "Pour_le"
+          },
+          {
+            "greek": "λοιποῦ",
+            "gloss": "reste"
+          },
+          {
+            "greek": "κόπους",
+            "gloss": "des_peines/troubles"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "μηδεὶς",
+            "gloss": "personne"
+          },
+          {
+            "greek": "παρεχέτω·",
+            "gloss": "ne_fournisse/cause"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "στίγματα",
+            "gloss": "marques",
+            "annotation": {
+              "type": "traduction",
+              "title": "Les marques de Jésus",
+              "content": "Approfondissement spirituel : Du mot *stigma* (marque faite au fer rouge sur un esclave pour identifier son propriétaire). Paul oppose ces stigmates intérieurs et sacrificiels au *prosopon* (masque) du verset 12. Il ne cherche plus à 'faire bonne figure', il porte dans sa chair la brûlure indélébile de son appartenance à l'Incréé.",
+              "related": [
+                "τὰ",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σώματί",
+            "gloss": "corps"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "βαστάζω.",
+            "gloss": "je_porte"
+          }
         ]
       },
       {
@@ -549,22 +1905,101 @@
           "darby": "Que la grâce de notre Seigneur Jésus Christ soit avec votre esprit, frères ! Amen."
         },
         "interlinear": [
-          { "greek": "Ἡ", "gloss": "La" },
-          { "greek": "χάρις", "gloss": "grâce" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "κυρίου", "gloss": "Seigneur" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "Χριστοῦ", "gloss": "Christ" },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "πνεύματος", "gloss": "esprit" },
-          { "greek": "ὑμῶν,", "gloss": "de_vous" },
-          { "greek": "ἀδελφοί·", "gloss": "frères" },
-          { "greek": "ἀμήν.", "gloss": "amen" }
+          {
+            "greek": "Ἡ",
+            "gloss": "La"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "ὑμῶν,",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "ἀδελφοί·",
+            "gloss": "frères"
+          },
+          {
+            "greek": "ἀμήν.",
+            "gloss": "amen"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 12 - εὐπροσωπῆσαι : Segond traduit par 'se rendre agréables', Darby par 'faire belle apparence'. Le terme grec est beaucoup plus visuel : *eu-prosopon* signifie 'avoir un beau visage' ou un 'beau masque' (le *prosopon* étant le masque de l'acteur antique). Paul dénonce la propension de l'Ego religieux à se fabriquer une identité de surface acceptable pour échapper à la persécution.\n• Verset 16 - στοιχήσουσιν : 'Suivront cette règle' ou 'marcheront selon cette règle'. Le verbe *stoicheo* implique une discipline géométrique, l'action de s'aligner sur une ligne tracée au cordeau. Ce n'est pas une simple obéissance morale, c'est un redressement physique et ontologique sur la matrice de la Croix.\n\nAnalyse spirituelle :\nCette conclusion de l'Épître aux Galates offre un contraste saisissant avec l'Évangile du Mauvais Riche et Lazare (Luc 16). Là où le Mauvais Riche s'était enfermé dans la matière ('vêtu de pourpre', préoccupé par son apparence dans le Monde duel), Paul montre le chemin inverse : la crucifixion de l'Ego et des apparences.\n\nPaul y dénonce la 'circoncision' lorsqu'elle n'est plus qu'une mutilation de surface (*peri-tome*, coupure autour) exigée par le monde religieux pour maintenir le masque (*prosopon*) de la conformité sociale. Ceux qui imposent cette coupure périphérique le font pour s'éviter le véritable choc ontologique : la Croix (*stauros*).\n\nLe verset 14 est le sommet métaphysique de ce passage. L'Apôtre déclare que par la Croix, le *kosmos* (l'ordre d'organisation du monde duel) lui est crucifié. Le Sujet s'arrache à la matrice des jugements humains, à la quête de gloire horizontale et à la sécurité matérielle. Il n'y a plus rien à couper ou à préserver dans la chair, la seule chose qui compte désormais est de devenir une 'Nouvelle Création' (*kaine ktisis*). C'est cet alignement absolu (*stoicheo*) sur la verticalité divine qui remplace les apparences par la seule marque qui vaille : les *stigmata*, les marques indélébiles de l'amour kénotique du Christ."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 12 - εὐπροσωπῆσαι : Segond traduit par 'se rendre agréables', Darby par 'faire belle apparence'. Le terme grec est beaucoup plus visuel : *eu-prosopon* signifie 'avoir un beau visage' ou un 'beau masque' (le *prosopon* étant le masque de l'acteur antique). Paul dénonce la propension de l'Ego religieux à se fabriquer une identité de surface acceptable pour échapper à la persécution.\n• Verset 16 - στοιχήσουσιν : 'Suivront cette règle' ou 'marcheront selon cette règle'. Le verbe *stoicheo* implique une discipline géométrique, l'action de s'aligner sur une ligne tracée au cordeau. Ce n'est pas une simple obéissance morale, c'est un redressement physique et ontologique sur la matrice de la Croix.\n\nAnalyse spirituelle :\nCette conclusion de l'Épître aux Galates offre un contraste saisissant avec l'Évangile du Mauvais Riche et Lazare (Luc 16). Là où le Mauvais Riche s'était enfermé dans la matière ('vêtu de pourpre', préoccupé par son apparence dans le Monde duel), Paul montre le chemin inverse : la crucifixion de l'Ego et des apparences.\n\nPaul y dénonce la 'circoncision' lorsqu'elle n'est plus qu'une mutilation de surface (*peri-tome*, coupure autour) exigée par le monde religieux pour maintenir le masque (*prosopon*) de la conformité sociale. Ceux qui imposent cette coupure périphérique le font pour s'éviter le véritable choc ontologique : la Croix (*stauros*).\n\nLe verset 14 est le sommet métaphysique de ce passage. L'Apôtre déclare que par la Croix, le *kosmos* (l'ordre d'organisation du monde duel) lui est crucifié. Le Sujet s'arrache à la matrice des jugements humains, à la quête de gloire horizontale et à la sécurité matérielle. Il n'y a plus rien à couper ou à préserver dans la chair, la seule chose qui compte désormais est de devenir une 'Nouvelle Création' (*kaine ktisis*). C'est cet alignement absolu (*stoicheo*) sur la verticalité divine qui remplace les apparences par la seule marque qui vaille : les *stigmata*, les marques indélébiles de l'amour kénotique du Christ.\n\nComplément de lecture : Paul dénonce ceux qui imposent une marque corporelle pour faire bonne figure et éviter la persécution. Il oppose à cette apparence la Croix du Christ, qui crucifie les anciennes mesures du monde. La seule réalité décisive devient la création nouvelle, puis une marche accordée à cette règle.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche du Riche et de Lazare : une parole, un geste, une opposition, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : attente d’un retour, deuil, stérilité, dispersion intérieure, indifférence, faiblesse ou désir de porter du fruit."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : aimer sans calcul, compatir, écouter, retenir la parole, servir, franchir une distance ou recevoir la grâce dans une faiblesse."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes souffrantes."
+      }
+    ],
+    "liturgical_echoes": []
   }
-  }
+}
