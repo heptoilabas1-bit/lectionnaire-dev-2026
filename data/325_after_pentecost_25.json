@@ -10,20 +10,88 @@
           "darby": "Et voici, un docteur de la loi se leva, l'éprouvant et disant : Maître, que faut-il que j'aie fait pour hériter de la vie éternelle ?"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "νομικός", "gloss": "un_homme_de_loi" },
-          { "greek": "τις", "gloss": "un_certain" },
-          { "greek": "ἀνέστη", "gloss": "se_leva", "analyse": "Du verbe *ana-histemi* (se lever, se dresser vers le haut). C'est le verbe de la résurrection. Mais ici, le légiste singe la verticalité. Son redressement corporel n'est qu'une posture de l'Ego qui veut affronter le Christ d'égal à égal, sans véritable kénose intérieure." },
-          { "greek": "ἐκπειράζων", "gloss": "mettant_à_l'épreuve", "analyse": "Composé de *ek-* (hors de) et *peirazo* (tenter/éprouver). L'Ego interroge toujours depuis l'extérieur (*ek-*). Il ne cherche pas la vérité, il cherche la faille pour maintenir son propre système." },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Διδάσκαλε,", "gloss": "Maître" },
-          { "greek": "τί", "gloss": "quoi/que" },
-          { "greek": "ποιήσας", "gloss": "ayant_fait" },
-          { "greek": "ζωὴν", "gloss": "vie" },
-          { "greek": "αἰώνιον", "gloss": "éternelle" },
-          { "greek": "κληρονομήσω;", "gloss": "hériterai-je", "analyse": "Du verbe *kleronomeo* (recevoir en héritage/acquérir). La question trahit la maladie de l'Ego : la logique d'appropriation. Le légiste croit que l'Incréé ('la vie éternelle') est un bien horizontal que l'on peut acquérir par un contrat ou un acte ponctuel ('qu'ayant fait')." }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "νομικός",
+            "gloss": "un_homme_de_loi"
+          },
+          {
+            "greek": "τις",
+            "gloss": "un_certain"
+          },
+          {
+            "greek": "ἀνέστη",
+            "gloss": "se_leva",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *ana-histemi* (se lever, se dresser vers le haut). C'est le verbe de la résurrection. Mais ici, le légiste singe la verticalité. Son redressement corporel n'est qu'une posture de l'Ego qui veut affronter le Christ d'égal à égal, sans véritable kénose intérieure.",
+              "related": [
+                "τις",
+                "ἐκπειράζων"
+              ]
+            }
+          },
+          {
+            "greek": "ἐκπειράζων",
+            "gloss": "mettant_à_l'épreuve",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ek-* (hors de) et *peirazo* (tenter/éprouver). L'Ego interroge toujours depuis l'extérieur (*ek-*). Il ne cherche pas la vérité, il cherche la faille pour maintenir son propre système.",
+              "related": [
+                "ἀνέστη",
+                "αὐτὸν"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Διδάσκαλε,",
+            "gloss": "Maître"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quoi/que"
+          },
+          {
+            "greek": "ποιήσας",
+            "gloss": "ayant_fait"
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "vie"
+          },
+          {
+            "greek": "αἰώνιον",
+            "gloss": "éternelle"
+          },
+          {
+            "greek": "κληρονομήσω;",
+            "gloss": "hériterai-je",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *kleronomeo* (recevoir en héritage/acquérir). La question trahit la maladie de l'Ego : la logique d'appropriation. Le légiste croit que l'Incréé ('la vie éternelle') est un bien horizontal que l'on peut acquérir par un contrat ou un acte ponctuel ('qu'ayant fait').",
+              "related": [
+                "αἰώνιον"
+              ]
+            }
+          }
         ]
       },
       {
@@ -33,18 +101,62 @@
           "darby": "Et il lui dit : Qu'est-il écrit dans la loi ? comment lis-tu ?"
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "αὐτόν·", "gloss": "lui" },
-          { "greek": "Ἐν", "gloss": "Dans" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "νόμῳ", "gloss": "loi" },
-          { "greek": "τί", "gloss": "quoi" },
-          { "greek": "γέγραπται;", "gloss": "est_écrit" },
-          { "greek": "πῶς", "gloss": "comment" },
-          { "greek": "ἀναγινώσκεις;", "gloss": "lis-tu", "analyse": "Composé de *ana-* (vers le haut, à nouveau) et *ginosko* (connaître). Jésus ne lui demande pas s'il sait déchiffrer des lettres, mais s'il est capable d'une 're-connaissance' verticale (*ana*). La lettre tue si elle n'est pas lue depuis l'Axe de l'Esprit." }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτόν·",
+            "gloss": "lui"
+          },
+          {
+            "greek": "Ἐν",
+            "gloss": "Dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "νόμῳ",
+            "gloss": "loi"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quoi"
+          },
+          {
+            "greek": "γέγραπται;",
+            "gloss": "est_écrit"
+          },
+          {
+            "greek": "πῶς",
+            "gloss": "comment"
+          },
+          {
+            "greek": "ἀναγινώσκεις;",
+            "gloss": "lis-tu",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ana-* (vers le haut, à nouveau) et *ginosko* (connaître). Jésus ne lui demande pas s'il sait déchiffrer des lettres, mais s'il est capable d'une 're-connaissance' verticale (*ana*). La lettre tue si elle n'est pas lue depuis l'Axe de l'Esprit.",
+              "related": [
+                "πῶς"
+              ]
+            }
+          }
         ]
       },
       {
@@ -54,44 +166,221 @@
           "darby": "Et lui, répondant, dit : Tu aimeras le Seigneur ton Dieu de tout ton coeur, et de toute ton âme, et de toute ta force, et de toute ta pensée ; et ton prochain comme toi-même."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Celui-ci" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἀποκριθεὶς", "gloss": "ayant_répondu" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Ἀγαπήσεις", "gloss": "Tu_aimeras" },
-         { "greek": "Κύριον", "gloss": "Le_Seigneur", "analyse": "Cette formulation redondante 'Le Seigneur le Dieu', ancre l'absolue primauté de l'Axe vertical. L'Unité commence par la reconnaissance du Principe unique avant toute considération horizontale." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεόν", "gloss": "Dieu" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἐξ", "gloss": "hors_de/depuis", "analyse": "Le préfixe *ex-* (hors de) répété quatre fois. L'amour n'est pas un sentiment contenu à l'intérieur, c'est une extraction. L'être doit sortir 'hors de' son centre de gravité égotique (cœur, âme, force, pensée) pour s'aligner totalement sur l'Incréé." },
-          { "greek": "**ὅλης**", "gloss": "de_toute/entière", "analyse": "L'adjectif *holos* (entier). Ce mot est martelé quatre fois. Pour aimer Dieu, il faut être *holos* (entier) : de tout son cœur, de toute son âme[cite: 3]. L'homme déchu est fragmenté, divisé par le 'deux' du monde duel. Le Samaritain est cet homme entier qui a réuni en lui la verticalité (la relation à Dieu) et l'horizontalité (le soin du blessé)[cite: 3]. Il devient ainsi l'image du Christ qui, sur la Croix, 'fait un' de ce qui était 'deux'." },
-          { "greek": "τῆς", "gloss": "le" },
-          { "greek": "καρδίας", "gloss": "cœur" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "dans/avec" },
-          { "greek": "**ὅλη**", "gloss": "de_toute/entière", "analyse": "L'adjectif *holos* (entier). Ce mot est martelé quatre fois. Pour aimer Dieu, il faut être *holos* (entier) : de tout son cœur, de toute son âme[cite: 3]. L'homme déchu est fragmenté, divisé par le 'deux' du monde duel. Le Samaritain est cet homme entier qui a réuni en lui la verticalité (la relation à Dieu) et l'horizontalité (le soin du blessé)[cite: 3]. Il devient ainsi l'image du Christ qui, sur la Croix, 'fait un' de ce qui était 'deux'." },
-          { "greek": "τῇ", "gloss": "l'" },
-          { "greek": "ψυχῇ", "gloss": "âme" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "dans/avec" },
-         { "greek": "**ὅλη**", "gloss": "de_toute/entière", "analyse": "L'adjectif *holos* (entier). Ce mot est martelé quatre fois. Pour aimer Dieu, il faut être *holos* (entier) : de tout son cœur, de toute son âme[cite: 3]. L'homme déchu est fragmenté, divisé par le 'deux' du monde duel. Le Samaritain est cet homme entier qui a réuni en lui la verticalité (la relation à Dieu) et l'horizontalité (le soin du blessé)[cite: 3]. Il devient ainsi l'image du Christ qui, sur la Croix, 'fait un' de ce qui était 'deux'." },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "ἰσχύϊ", "gloss": "force" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "dans/avec" },
-         { "greek": "**ὅλη**", "gloss": "de_toute/entière", "analyse": "L'adjectif *holos* (entier). Ce mot est martelé quatre fois. Pour aimer Dieu, il faut être *holos* (entier) : de tout son cœur, de toute son âme[cite: 3]. L'homme déchu est fragmenté, divisé par le 'deux' du monde duel. Le Samaritain est cet homme entier qui a réuni en lui la verticalité (la relation à Dieu) et l'horizontalité (le soin du blessé)[cite: 3]. Il devient ainsi l'image du Christ qui, sur la Croix, 'fait un' de ce qui était 'deux'." },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "διανοίᾳ", "gloss": "pensée" },
-          { "greek": "σου,", "gloss": "de_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "πλησίον", "gloss": "prochain/celui_qui_est_près", "analyse": "Adverbe spatial *plesion* (près de, voisin). Le légiste comprend théoriquement la topographie spirituelle : l'alignement absolu sur le divin efface la distance avec l'autre, qui n'est plus un objet extérieur mais une extension de soi ('comme toi-même')." },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "σεαυτόν.", "gloss": "toi-même" }
+          {
+            "greek": "ὁ",
+            "gloss": "Celui-ci"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "ayant_répondu"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἀγαπήσεις",
+            "gloss": "Tu_aimeras"
+          },
+          {
+            "greek": "Κύριον",
+            "gloss": "Le_Seigneur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Cette formulation redondante 'Le Seigneur le Dieu', ancre l'absolue primauté de l'Axe vertical. L'Unité commence par la reconnaissance du Principe unique avant toute considération horizontale.",
+              "related": [
+                "Ἀγαπήσεις",
+                "τὸν"
+              ]
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεόν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "hors_de/depuis",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le préfixe *ex-* (hors de) répété quatre fois. L'amour n'est pas un sentiment contenu à l'intérieur, c'est une extraction. L'être doit sortir 'hors de' son centre de gravité égotique (cœur, âme, force, pensée) pour s'aligner totalement sur l'Incréé.",
+              "related": [
+                "σου",
+                "**ὅλης**"
+              ]
+            }
+          },
+          {
+            "greek": "**ὅλης**",
+            "gloss": "de_toute/entière",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'adjectif *holos* (entier). Ce mot est martelé quatre fois. Pour aimer Dieu, il faut être *holos* (entier) : de tout son cœur, de toute son âme. L'homme déchu est fragmenté, divisé par le 'deux' du monde duel. Le Samaritain est cet homme entier qui a réuni en lui la verticalité (la relation à Dieu) et l'horizontalité (le soin du blessé). Il devient ainsi l'image du Christ qui, sur la Croix, 'fait un' de ce qui était 'deux'.",
+              "related": [
+                "ἐξ",
+                "τῆς"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "le"
+          },
+          {
+            "greek": "καρδίας",
+            "gloss": "cœur"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/avec"
+          },
+          {
+            "greek": "**ὅλη**",
+            "gloss": "de_toute/entière",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'adjectif *holos* (entier). Ce mot est martelé quatre fois. Pour aimer Dieu, il faut être *holos* (entier) : de tout son cœur, de toute son âme. L'homme déchu est fragmenté, divisé par le 'deux' du monde duel. Le Samaritain est cet homme entier qui a réuni en lui la verticalité (la relation à Dieu) et l'horizontalité (le soin du blessé). Il devient ainsi l'image du Christ qui, sur la Croix, 'fait un' de ce qui était 'deux'.",
+              "related": [
+                "ἐν",
+                "τῇ"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ψυχῇ",
+            "gloss": "âme"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/avec"
+          },
+          {
+            "greek": "**ὅλη**",
+            "gloss": "de_toute/entière",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'adjectif *holos* (entier). Ce mot est martelé quatre fois. Pour aimer Dieu, il faut être *holos* (entier) : de tout son cœur, de toute son âme. L'homme déchu est fragmenté, divisé par le 'deux' du monde duel. Le Samaritain est cet homme entier qui a réuni en lui la verticalité (la relation à Dieu) et l'horizontalité (le soin du blessé). Il devient ainsi l'image du Christ qui, sur la Croix, 'fait un' de ce qui était 'deux'.",
+              "related": [
+                "ἐν",
+                "τῇ"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἰσχύϊ",
+            "gloss": "force"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/avec"
+          },
+          {
+            "greek": "**ὅλη**",
+            "gloss": "de_toute/entière",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'adjectif *holos* (entier). Ce mot est martelé quatre fois. Pour aimer Dieu, il faut être *holos* (entier) : de tout son cœur, de toute son âme. L'homme déchu est fragmenté, divisé par le 'deux' du monde duel. Le Samaritain est cet homme entier qui a réuni en lui la verticalité (la relation à Dieu) et l'horizontalité (le soin du blessé). Il devient ainsi l'image du Christ qui, sur la Croix, 'fait un' de ce qui était 'deux'.",
+              "related": [
+                "ἐν",
+                "τῇ"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "διανοίᾳ",
+            "gloss": "pensée"
+          },
+          {
+            "greek": "σου,",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πλησίον",
+            "gloss": "prochain/celui_qui_est_près",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Adverbe spatial *plesion* (près de, voisin). Le légiste comprend théoriquement la topographie spirituelle : l'alignement absolu sur le divin efface la distance avec l'autre, qui n'est plus un objet extérieur mais une extension de soi ('comme toi-même').",
+              "related": [
+                "τὸν",
+                "σου"
+              ]
+            }
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "σεαυτόν.",
+            "gloss": "toi-même"
+          }
         ]
       },
       {
@@ -101,15 +390,60 @@
           "darby": "Et il lui dit : Tu as bien répondu ; fais cela, et tu vivras."
         },
         "interlinear": [
-          { "greek": "εἶπεν", "gloss": "Il_dit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Ὀρθῶς", "gloss": "Droitement/exactement", "analyse": "Adverbe de la rectitude spatiale (*orthos*, droit, redressé). Le Christ valide la géométrie du légiste : sur le plan théorique, l'alignement est correct." },
-          { "greek": "ἀπεκρίθης·", "gloss": "tu_as_répondu" },
-          { "greek": "τοῦτο", "gloss": "cela" },
-          { "greek": "ποίει", "gloss": "fais", "analyse": "Impératif présent actif. Ce n'est pas 'fais-le une fois' (ce que demandait le légiste au v.25), c'est 'pratique-le continuellement'. L'Incréé n'est pas une transaction ponctuelle, c'est une respiration permanente." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ζήσῃ.", "gloss": "tu_vivras" }
+          {
+            "greek": "εἶπεν",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ὀρθῶς",
+            "gloss": "Droitement/exactement",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Adverbe de la rectitude spatiale (*orthos*, droit, redressé). Le Christ valide la géométrie du légiste : sur le plan théorique, l'alignement est correct.",
+              "related": [
+                "αὐτῷ·",
+                "ἀπεκρίθης·"
+              ]
+            }
+          },
+          {
+            "greek": "ἀπεκρίθης·",
+            "gloss": "tu_as_répondu"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "ποίει",
+            "gloss": "fais",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Impératif présent actif. Ce n'est pas 'fais-le une fois' (ce que demandait le légiste au v.25), c'est 'pratique-le continuellement'. L'Incréé n'est pas une transaction ponctuelle, c'est une respiration permanente.",
+              "related": [
+                "τοῦτο",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ζήσῃ.",
+            "gloss": "tu_vivras"
+          }
         ]
       },
       {
@@ -119,20 +453,79 @@
           "darby": "Mais lui, voulant se justifier lui-même, dit à Jésus : Et qui est mon prochain ?"
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "θέλων", "gloss": "voulant" },
-          { "greek": "δικαιῶσαι", "gloss": "justifier", "analyse": "L'obsession de l'Ego religieux : la *dikaiosyne* (justification). Face au vertige de l'Amour infini qui demande une reddition totale, l'Ego panique. Il veut se justifier, c'est-à-dire refermer le système, poser des limites intellectuelles pour prouver qu'il est déjà en règle." },
-          { "greek": "ἑαυτὸν", "gloss": "lui-même" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰησοῦν·", "gloss": "Jésus" },
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "τίς", "gloss": "qui" },
-          { "greek": "ἐστίν", "gloss": "est" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "πλησίον;", "gloss": "prochain/proche", "analyse": "En posant la question de l'identité du 'proche', le légiste veut tracer une frontière : 'Où commence le lointain que je n'ai pas l'obligation d'aimer ?'. Il demande au Christ de ratifier une topographie de la séparation." }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "θέλων",
+            "gloss": "voulant"
+          },
+          {
+            "greek": "δικαιῶσαι",
+            "gloss": "justifier",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'obsession de l'Ego religieux : la *dikaiosyne* (justification). Face au vertige de l'Amour infini qui demande une reddition totale, l'Ego panique. Il veut se justifier, c'est-à-dire refermer le système, poser des limites intellectuelles pour prouver qu'il est déjà en règle.",
+              "related": [
+                "θέλων",
+                "ἑαυτὸν"
+              ]
+            }
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦν·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τίς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἐστίν",
+            "gloss": "est"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "πλησίον;",
+            "gloss": "prochain/proche",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : En posant la question de l'identité du 'proche', le légiste veut tracer une frontière : 'Où commence le lointain que je n'ai pas l'obligation d'aimer ?'. Il demande au Christ de ratifier une topographie de la séparation.",
+              "related": [
+                "μου"
+              ]
+            }
+          }
         ]
       },
       {
@@ -142,30 +535,146 @@
           "darby": "Et Jésus, reprenant, dit : Un homme descendit de Jérusalem à Jéricho, et tomba entre les mains des voleurs, qui aussi, l'ayant dépouillé et l'ayant couvert de blessures, s'en allèrent, le laissant à demi mort."
         },
         "interlinear": [
-          { "greek": "ὑπολαβὼν", "gloss": "Ayant_pris_la_parole" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Ἄνθρωπός", "gloss": "Un_homme" },
-          { "greek": "τις", "gloss": "certain" },
-          { "greek": "κατέβαινεν", "gloss": "descendait", "analyse": "Le verbe de la Chute : *kata-baino* (aller vers le bas). Cet homme anonyme incarne toute l'humanité. Il quitte Jérusalem (la Cité de la Paix, l'altitude spirituelle, le lieu de la Présence) pour Jéricho (la ville la plus basse de la terre, dans la dépression de la Mer Morte, symbole du Monde duel entropique)." },
-          { "greek": "ἀπὸ", "gloss": "depuis/de" },
-          { "greek": "Ἰερουσαλὴμ", "gloss": "Jérusalem" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "Ἰεριχὼ", "gloss": "Jéricho" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λῃσταῖς", "gloss": "à_des_brigands" },
-          { "greek": "περιέπεσεν,", "gloss": "tomba_au_milieu", "analyse": "Composé de *peri-* (autour) et *pipto* (tomber). La violence du monde duel n'est pas un simple accident frontal, c'est un encerclement. L'être déchu est enveloppé (*peri*) par la force de fragmentation." },
-          { "greek": "οἳ", "gloss": "qui" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἐκδύσαντες", "gloss": "l'ayant_dépouillé/déshabillé", "analyse": "Composé de *ek-* (hors de) et *dyo* (plonger/vêtir). Le vol n'est pas que matériel. C'est le dépouillement ontologique (perte du 'vêtement de lumière'). L'Ego est laissé nu, sans protection spirituelle." },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πληγὰς", "gloss": "des_coups/blessures" },
-          { "greek": "ἐπιθέντες", "gloss": "ayant_imposé" },
-          { "greek": "ἀπῆλθον", "gloss": "s'en_allèrent", "analyse": "Composé de *apo-* (loin de) et *erchomai* (aller). Le mouvement centrifuge des forces ténébreuses : après avoir détruit, elles s'éloignent, laissant le vide." },
-          { "greek": "ἀφέντες", "gloss": "l'ayant_laissé" },
-          { "greek": "ἡμιθανῆ.", "gloss": "à_demi-mort", "analyse": "Le mot *hemi-thanes*. Définition clinique de l'état de l'homme dans la matrice du Monde duel : ni tout à fait vivant (car déconnecté de l'Incréé), ni totalement mort, survivant dans les limbes de l'angoisse égotique." }
+          {
+            "greek": "ὑπολαβὼν",
+            "gloss": "Ayant_pris_la_parole"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἄνθρωπός",
+            "gloss": "Un_homme"
+          },
+          {
+            "greek": "τις",
+            "gloss": "certain"
+          },
+          {
+            "greek": "κατέβαινεν",
+            "gloss": "descendait",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe de la Chute : *kata-baino* (aller vers le bas). Cet homme anonyme incarne toute l'humanité. Il quitte Jérusalem (la Cité de la Paix, l'altitude spirituelle, le lieu de la Présence) pour Jéricho (la ville la plus basse de la terre, dans la dépression de la Mer Morte, symbole du Monde duel entropique).",
+              "related": [
+                "τις",
+                "ἀπὸ"
+              ]
+            }
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis/de"
+          },
+          {
+            "greek": "Ἰερουσαλὴμ",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "Ἰεριχὼ",
+            "gloss": "Jéricho"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λῃσταῖς",
+            "gloss": "à_des_brigands"
+          },
+          {
+            "greek": "περιέπεσεν,",
+            "gloss": "tomba_au_milieu",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *peri-* (autour) et *pipto* (tomber). La violence du monde duel n'est pas un simple accident frontal, c'est un encerclement. L'être déchu est enveloppé (*peri*) par la force de fragmentation.",
+              "related": [
+                "λῃσταῖς",
+                "οἳ"
+              ]
+            }
+          },
+          {
+            "greek": "οἳ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἐκδύσαντες",
+            "gloss": "l'ayant_dépouillé/déshabillé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ek-* (hors de) et *dyo* (plonger/vêtir). Le vol n'est pas que matériel. C'est le dépouillement ontologique (perte du 'vêtement de lumière'). L'Ego est laissé nu, sans protection spirituelle.",
+              "related": [
+                "καὶ",
+                "αὐτὸν"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πληγὰς",
+            "gloss": "des_coups/blessures"
+          },
+          {
+            "greek": "ἐπιθέντες",
+            "gloss": "ayant_imposé"
+          },
+          {
+            "greek": "ἀπῆλθον",
+            "gloss": "s'en_allèrent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (loin de) et *erchomai* (aller). Le mouvement centrifuge des forces ténébreuses : après avoir détruit, elles s'éloignent, laissant le vide.",
+              "related": [
+                "ἐπιθέντες",
+                "ἀφέντες"
+              ]
+            }
+          },
+          {
+            "greek": "ἀφέντες",
+            "gloss": "l'ayant_laissé"
+          },
+          {
+            "greek": "ἡμιθανῆ.",
+            "gloss": "à_demi-mort",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot *hemi-thanes*. Définition clinique de l'état de l'homme dans la matrice du Monde duel : ni tout à fait vivant (car déconnecté de l'Incréé), ni totalement mort, survivant dans les limbes de l'angoisse égotique.",
+              "related": [
+                "ἀφέντες"
+              ]
+            }
+          }
         ]
       },
       {
@@ -175,41 +684,153 @@
           "darby": "Or, par rencontre, un certain sacrificateur descendait par ce chemin-là ; et le voyant, il passa outre de l'autre côté."
         },
         "interlinear": [
-          { "greek": "κατὰ", "gloss": "Selon/par" },
-          { "greek": "συγκυρίαν", "gloss": "coïncidence", "analyse": "Composé de *syn-* (ensemble) et *kyreo* (rencontrer, coïncider). Le pur carrefour horizontal. Le hasard du temps et de l'espace fait se croiser les trajectoires, mais sans connexion d'Esprit." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἱερεύς", "gloss": "un_prêtre/sacrificateur" },
-          { "greek": "τις", "gloss": "certain" },
-          { "greek": "κατέβαινεν", "gloss": "descendait", "analyse": "Le même verbe *kata-baino*. Le prêtre, figure suprême de la religion institutionnelle, est pris dans la même force gravitationnelle que la victime. Son statut hiérarchique ne le protège pas de la descente vers le bas." },
-          { "greek": "ἐν", "gloss": "dans/par" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "ὁδῷ", "gloss": "chemin" },
-          { "greek": "ἐκείνῃ,", "gloss": "ce...-là" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰδὼν", "gloss": "l'ayant_vu" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἀντιπαρῆλθεν·", "gloss": "il_passa_outre_du_côté_opposé", "analyse": "Un verbe à triple fondation d'une complexité géométrique effarante : *anti-* (contre, à l'opposé), *para-* (à côté de) et *erchomai* (aller). La topographie de l'évitement pur. L'Ego religieux s'approche (*para*), voit la souffrance, mais crée immédiatement un mur protecteur en passant sur la ligne parallèle opposée (*anti*). C'est la préservation de la pureté rituelle aux dépens de l'Être." }
+          {
+            "greek": "κατὰ",
+            "gloss": "Selon/par"
+          },
+          {
+            "greek": "συγκυρίαν",
+            "gloss": "coïncidence",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *syn-* (ensemble) et *kyreo* (rencontrer, coïncider). Le pur carrefour horizontal. Le hasard du temps et de l'espace fait se croiser les trajectoires, mais sans connexion d'Esprit.",
+              "related": [
+                "κατὰ",
+                "δὲ"
+              ]
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἱερεύς",
+            "gloss": "un_prêtre/sacrificateur"
+          },
+          {
+            "greek": "τις",
+            "gloss": "certain"
+          },
+          {
+            "greek": "κατέβαινεν",
+            "gloss": "descendait",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le même verbe *kata-baino*. Le prêtre, figure suprême de la religion institutionnelle, est pris dans la même force gravitationnelle que la victime. Son statut hiérarchique ne le protège pas de la descente vers le bas.",
+              "related": [
+                "τις",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/par"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὁδῷ",
+            "gloss": "chemin"
+          },
+          {
+            "greek": "ἐκείνῃ,",
+            "gloss": "ce...-là"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "l'ayant_vu"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἀντιπαρῆλθεν·",
+            "gloss": "il_passa_outre_du_côté_opposé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Un verbe à triple fondation d'une complexité géométrique effarante : *anti-* (contre, à l'opposé), *para-* (à côté de) et *erchomai* (aller). La topographie de l'évitement pur. L'Ego religieux s'approche (*para*), voit la souffrance, mais crée immédiatement un mur protecteur en passant sur la ligne parallèle opposée (*anti*). C'est la préservation de la pureté rituelle aux dépens de l'Être.",
+              "related": [
+                "αὐτὸν"
+              ]
+            }
+          }
         ]
       },
- {
+      {
         "verse_number": 32,
         "translations": {
           "segond": "Un Lévite, qui arriva aussi dans ce lieu, l'ayant vu, passa outre.",
           "darby": "Et pareillement aussi un Lévite, étant arrivé à cet endroit, vint et le vit, et passa outre de l'autre côté."
         },
         "interlinear": [
-          { "greek": "ὁμοίως", "gloss": "Pareillement/de_même" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "Λευίτης", "gloss": "un_Lévite" },
-          { "greek": "γενόμενος", "gloss": "étant_arrivé" },
-          { "greek": "κατὰ", "gloss": "selon/sur" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "τόπον", "gloss": "lieu" },
-          { "greek": "ἐλθὼν", "gloss": "étant_venu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
-          { "greek": "ἀντιπαρῆλθεν.", "gloss": "passa_outre_du_côté_opposé", "analyse": "Répétition exacte du verbe géométrique *anti-para-erchomai*. La religion institutionnelle (le Prêtre puis le Lévite) est incapable de kénose. Elle constate la blessure ('ayant vu'), mais sa priorité absolue est la préservation de son propre statut rituel horizontal. Elle maintient la distance sanitaire (*anti-para*) pour ne pas être contaminée par la mort, s'enfermant ainsi dans sa propre mort spirituelle." }
+          {
+            "greek": "ὁμοίως",
+            "gloss": "Pareillement/de_même"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "Λευίτης",
+            "gloss": "un_Lévite"
+          },
+          {
+            "greek": "γενόμενος",
+            "gloss": "étant_arrivé"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon/sur"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "τόπον",
+            "gloss": "lieu"
+          },
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "ἀντιπαρῆλθεν.",
+            "gloss": "passa_outre_du_côté_opposé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Répétition exacte du verbe géométrique *anti-para-erchomai*. La religion institutionnelle (le Prêtre puis le Lévite) est incapable de kénose. Elle constate la blessure ('ayant vu'), mais sa priorité absolue est la préservation de son propre statut rituel horizontal. Elle maintient la distance sanitaire (*anti-para*) pour ne pas être contaminée par la mort, s'enfermant ainsi dans sa propre mort spirituelle.",
+              "related": [
+                "ἰδὼν"
+              ]
+            }
+          }
         ]
       },
       {
@@ -219,16 +840,71 @@
           "darby": "Mais un certain Samaritain, faisant route, vint vers lui, et, le voyant, fut ému de compassion ;"
         },
         "interlinear": [
-          { "greek": "Σαμαρίτης", "gloss": "Un_Samaritain", "analyse": "La figure de l'hérétique, l'exclu du système religieux officiel. Dans la logique du Monde duel, il est l'ennemi. Le Christ choisit celui qui n'a aucun statut à défendre pour incarner l'irruption de la Grâce." },
-          { "greek": "δέ", "gloss": "or" },
-          { "greek": "τις", "gloss": "certain" },
-          { "greek": "ὁδεύων", "gloss": "faisant_route/voyageant", "analyse": "Du mot *hodos* (le chemin). Contrairement au blessé, au prêtre et au Lévite qui 'descendaient' (*kata-baino*, le mouvement de la chute), le Samaritain fait simplement route. Il est en mouvement constant, libre de la force gravitationnelle du péché." },
-          { "greek": "ἦλθεν", "gloss": "vint" },
-          { "greek": "κατ’", "gloss": "sur/contre" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
-          { "greek": "ἐσπλαγχνίσθη,", "gloss": "fut_ému_aux_entrailles", "analyse": "Le verbe viscéral : *splagchnizomai* (être remué dans ses viscères/*splagchna*). Ce n'est pas une émotion psychologique ou une compassion morale. C'est le tressaillement ontologique de l'Incréé face à la souffrance. Le Samaritain ne réfléchit pas au code pénal ou rituel, son Centre est touché : l'Ego éclate pour laisser jaillir l'amour pur." }
+          {
+            "greek": "Σαμαρίτης",
+            "gloss": "Un_Samaritain",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La figure de l'hérétique, l'exclu du système religieux officiel. Dans la logique du Monde duel, il est l'ennemi. Le Christ choisit celui qui n'a aucun statut à défendre pour incarner l'irruption de la Grâce.",
+              "related": [
+                "δέ"
+              ]
+            }
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τις",
+            "gloss": "certain"
+          },
+          {
+            "greek": "ὁδεύων",
+            "gloss": "faisant_route/voyageant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du mot *hodos* (le chemin). Contrairement au blessé, au prêtre et au Lévite qui 'descendaient' (*kata-baino*, le mouvement de la chute), le Samaritain fait simplement route. Il est en mouvement constant, libre de la force gravitationnelle du péché.",
+              "related": [
+                "τις",
+                "ἦλθεν"
+              ]
+            }
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "vint"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "sur/contre"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "ἐσπλαγχνίσθη,",
+            "gloss": "fut_ému_aux_entrailles",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe viscéral : *splagchnizomai* (être remué dans ses viscères/*splagchna*). Ce n'est pas une émotion psychologique ou une compassion morale. C'est le tressaillement ontologique de l'Incréé face à la souffrance. Le Samaritain ne réfléchit pas au code pénal ou rituel, son Centre est touché : l'Ego éclate pour laisser jaillir l'amour pur.",
+              "related": [
+                "ἰδὼν"
+              ]
+            }
+          }
         ]
       },
       {
@@ -238,30 +914,147 @@
           "darby": "et s'approchant, il banda ses plaies, y versant de l'huile et du vin ; et l'ayant mis sur sa propre bête, il le mena dans l'hôtellerie et eut soin de lui."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "προσελθὼν", "gloss": "s'étant_approché", "analyse": "Composé de *pros-* (vers, mouvement intime) et *erchomai*. Le mouvement inverse de l'*anti-para-erchomai* du prêtre. Le Samaritain brise la distance, annule la séparation protectrice et s'expose au contact direct avec la kénose de la victime." },
-          { "greek": "κατέδησεν", "gloss": "il_banda/lia" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "τραύματα", "gloss": "plaies/blessures" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἐπιχέων", "gloss": "versant_sur", "analyse": "Composé de *epi-* (sur) et *cheo* (verser). Le mouvement d'effusion thérapeutique." },
-          { "greek": "ἔλαιον", "gloss": "huile" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οἶνον,", "gloss": "vin", "analyse": "Les deux fluides symboliques de la restauration : l'huile (la Grâce, la douceur de l'Esprit qui apaise) et le vin (l'Eucharistie, le Sang qui purifie et vivifie). Le Sujet injecte la force de l'Incréé dans les brèches du Monde duel." },
-          { "greek": "ἐπιβιβάσας", "gloss": "l'ayant_fait_monter", "analyse": "Composé de *epi-* (sur, vers le haut) et *bibazo* (faire monter). L'homme 'descendait' (v. 30), il est maintenant tiré vers le haut, élevé sur la monture. C'est l'inversion de la chute entropique." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "ἴδιον", "gloss": "propre" },
-          { "greek": "κτῆνος", "gloss": "bête/monture" },
-          { "greek": "ἤγαγεν", "gloss": "il_conduisit" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "πανδοχεῖον", "gloss": "une_hôtellerie", "analyse": "Un terme topographique vertigineux : *pan-docheion*. Composé de *pan-* (tout/tous) et *dechomai* (recevoir/accueillir). Littéralement 'le lieu qui reçoit tout le monde'. Par opposition au temple de Jérusalem qui exclut et sépare, l'hôtellerie symbolise l'Église (ou le Royaume UN) : l'espace de la non-dualité où toutes les fragmentations sont accueillies pour être unifiées." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπεμελήθη", "gloss": "il_prit_soin" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "προσελθὼν",
+            "gloss": "s'étant_approché",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *pros-* (vers, mouvement intime) et *erchomai*. Le mouvement inverse de l'*anti-para-erchomai* du prêtre. Le Samaritain brise la distance, annule la séparation protectrice et s'expose au contact direct avec la kénose de la victime.",
+              "related": [
+                "καὶ",
+                "κατέδησεν"
+              ]
+            }
+          },
+          {
+            "greek": "κατέδησεν",
+            "gloss": "il_banda/lia"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "τραύματα",
+            "gloss": "plaies/blessures"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐπιχέων",
+            "gloss": "versant_sur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi-* (sur) et *cheo* (verser). Le mouvement d'effusion thérapeutique.",
+              "related": [
+                "αὐτοῦ",
+                "ἔλαιον"
+              ]
+            }
+          },
+          {
+            "greek": "ἔλαιον",
+            "gloss": "huile"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἶνον,",
+            "gloss": "vin",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Les deux fluides symboliques de la restauration : l'huile (la Grâce, la douceur de l'Esprit qui apaise) et le vin (l'Eucharistie, le Sang qui purifie et vivifie). Le Sujet injecte la force de l'Incréé dans les brèches du Monde duel.",
+              "related": [
+                "καὶ",
+                "ἐπιβιβάσας"
+              ]
+            }
+          },
+          {
+            "greek": "ἐπιβιβάσας",
+            "gloss": "l'ayant_fait_monter",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi-* (sur, vers le haut) et *bibazo* (faire monter). L'homme 'descendait' (v. 30), il est maintenant tiré vers le haut, élevé sur la monture. C'est l'inversion de la chute entropique.",
+              "related": [
+                "οἶνον,",
+                "δὲ"
+              ]
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἴδιον",
+            "gloss": "propre"
+          },
+          {
+            "greek": "κτῆνος",
+            "gloss": "bête/monture"
+          },
+          {
+            "greek": "ἤγαγεν",
+            "gloss": "il_conduisit"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πανδοχεῖον",
+            "gloss": "une_hôtellerie",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Un terme topographique vertigineux : *pan-docheion*. Composé de *pan-* (tout/tous) et *dechomai* (recevoir/accueillir). Littéralement 'le lieu qui reçoit tout le monde'. Par opposition au temple de Jérusalem qui exclut et sépare, l'hôtellerie symbolise l'Église (ou le Royaume UN) : l'espace de la non-dualité où toutes les fragmentations sont accueillies pour être unifiées.",
+              "related": [
+                "εἰς",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπεμελήθη",
+            "gloss": "il_prit_soin"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -271,32 +1064,137 @@
           "darby": "Et le lendemain, en partant, il tira deux deniers et les donna à l'hôtelier, et lui dit : Aie soin de lui ; et ce que tu dépenseras de plus, moi, à mon retour, je te le rendrai."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "αὔριον", "gloss": "lendemain" },
-          { "greek": "ἐκβαλὼν", "gloss": "ayant_tiré_hors", "analyse": "Composé de *ek-* (hors de) et *ballo* (jeter/tirer). Le mouvement de l'extraction. Le Samaritain se dépouille matériellement de ses propres ressources pour l'autre." },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "δηνάρια", "gloss": "deniers" },
-          { "greek": "ἔδωκεν", "gloss": "donna" },
-          { "greek": "τῷ", "gloss": "à_l'" },
-          { "greek": "πανδοχεῖ", "gloss": "hôtelier" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Ἐπιμελήθητι", "gloss": "Prends_soin" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὅ", "gloss": "ce_que" },
-          { "greek": "τι", "gloss": "n'importe" },
-          { "greek": "ἂν", "gloss": "éventuellement" },
-          { "greek": "προσδαπανήσῃς", "gloss": "tu_dépenseras_en_plus", "analyse": "Composé de *pros-* (en plus, par surcroît) et *dapanao* (dépenser). La Grâce est toujours surabondante. Elle excède le calcul strict et la stricte nécessité." },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "ἐπανέρχεσθαί", "gloss": "revenir", "analyse": "Composé de *epi-* (sur), *ana-* (vers le haut, à nouveau) et *erchomai* (venir). Ce triple composé désigne le retour divin (la Parousie). Le Samaritain s'inscrit dans un cycle temporel absolu : il garantit la prise en charge jusqu'à l'achèvement final de l'histoire." },
-          { "greek": "με", "gloss": "me" },
-          { "greek": "ἀποδώσω", "gloss": "je_rendrai" },
-          { "greek": "σοι.", "gloss": "à_toi" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "αὔριον",
+            "gloss": "lendemain"
+          },
+          {
+            "greek": "ἐκβαλὼν",
+            "gloss": "ayant_tiré_hors",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ek-* (hors de) et *ballo* (jeter/tirer). Le mouvement de l'extraction. Le Samaritain se dépouille matériellement de ses propres ressources pour l'autre.",
+              "related": [
+                "αὔριον",
+                "δύο"
+              ]
+            }
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "δηνάρια",
+            "gloss": "deniers"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "donna"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_l'"
+          },
+          {
+            "greek": "πανδοχεῖ",
+            "gloss": "hôtelier"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἐπιμελήθητι",
+            "gloss": "Prends_soin"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὅ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "τι",
+            "gloss": "n'importe"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "éventuellement"
+          },
+          {
+            "greek": "προσδαπανήσῃς",
+            "gloss": "tu_dépenseras_en_plus",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *pros-* (en plus, par surcroît) et *dapanao* (dépenser). La Grâce est toujours surabondante. Elle excède le calcul strict et la stricte nécessité.",
+              "related": [
+                "ἂν",
+                "ἐγὼ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐπανέρχεσθαί",
+            "gloss": "revenir",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi-* (sur), *ana-* (vers le haut, à nouveau) et *erchomai* (venir). Ce triple composé désigne le retour divin (la Parousie). Le Samaritain s'inscrit dans un cycle temporel absolu : il garantit la prise en charge jusqu'à l'achèvement final de l'histoire.",
+              "related": [
+                "τῷ",
+                "με"
+              ]
+            }
+          },
+          {
+            "greek": "με",
+            "gloss": "me"
+          },
+          {
+            "greek": "ἀποδώσω",
+            "gloss": "je_rendrai"
+          },
+          {
+            "greek": "σοι.",
+            "gloss": "à_toi"
+          }
         ]
       },
       {
@@ -306,19 +1204,67 @@
           "darby": "Lequel de ces trois te semble avoir été le prochain de celui qui était tombé entre les voleurs ?"
         },
         "interlinear": [
-          { "greek": "Τίς", "gloss": "Qui" },
-          { "greek": "τούτων", "gloss": "de_ceux-ci" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "τριῶν", "gloss": "trois" },
-          { "greek": "πλησίον", "gloss": "prochain/proche" },
-          { "greek": "δοκεῖ", "gloss": "semble" },
-          { "greek": "σοι", "gloss": "à_toi" },
-          { "greek": "γεγονέναι", "gloss": "être_devenu", "analyse": "Le verbe *ginomai* (naître, devenir, advenir) au parfait. Jésus renverse totalement la géométrie du légiste (v. 29). Le légiste demandait : 'Qui est l'objet (le prochain) vers qui je dois aller ?'. Jésus demande : 'Lequel est DEVENU le prochain ?'. Le prochain n'est pas un objet extérieur que l'on identifie, c'est un état d'être, une mutation ontologique (*gegonenai*) par laquelle le Sujet se fait la Présence aimante de l'Incréé pour l'autre." },
-          { "greek": "τοῦ", "gloss": "de_celui" },
-          { "greek": "ἐμπεσόντος", "gloss": "étant_tombé_dans" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "λῃστάς;", "gloss": "brigands" }
+          {
+            "greek": "Τίς",
+            "gloss": "Qui"
+          },
+          {
+            "greek": "τούτων",
+            "gloss": "de_ceux-ci"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "τριῶν",
+            "gloss": "trois"
+          },
+          {
+            "greek": "πλησίον",
+            "gloss": "prochain/proche"
+          },
+          {
+            "greek": "δοκεῖ",
+            "gloss": "semble"
+          },
+          {
+            "greek": "σοι",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "γεγονέναι",
+            "gloss": "être_devenu",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe *ginomai* (naître, devenir, advenir) au parfait. Jésus renverse totalement la géométrie du légiste (v. 29). Le légiste demandait : 'Qui est l'objet (le prochain) vers qui je dois aller ?'. Jésus demande : 'Lequel est DEVENU le prochain ?'. Le prochain n'est pas un objet extérieur que l'on identifie, c'est un état d'être, une mutation ontologique (*gegonenai*) par laquelle le Sujet se fait la Présence aimante de l'Incréé pour l'autre.",
+              "related": [
+                "σοι",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_celui"
+          },
+          {
+            "greek": "ἐμπεσόντος",
+            "gloss": "étant_tombé_dans"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "λῃστάς;",
+            "gloss": "brigands"
+          }
         ]
       },
       {
@@ -328,29 +1274,177 @@
           "darby": "Et il dit : C'est celui qui a usé de miséricorde envers lui. Et Jésus lui dit : Va, et toi fais de même."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Ὁ", "gloss": "Celui" },
-          { "greek": "ποιήσας", "gloss": "ayant_fait/pratiqué" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "ἔλεος", "gloss": "miséricorde", "analyse": "Le légiste est incapable de prononcer le mot 'Samaritain' à cause de sa rigidité égotique et tribale. Il est contraint d'admettre la vérité sous forme d'action : c'est la manifestation de la miséricorde pure qui définit l'appartenance à l'Axe vertical, et non l'étiquette religieuse." },
-          { "greek": "μετ’", "gloss": "avec/envers" },
-          { "greek": "αὐτοῦ.", "gloss": "lui" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Πορεύου", "gloss": "Va/fais_route" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "σὺ", "gloss": "toi" },
-          { "greek": "ποίει", "gloss": "fais/crée" },
-          { "greek": "ὁμοίως.", "gloss": "pareillement" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ὁ",
+            "gloss": "Celui"
+          },
+          {
+            "greek": "ποιήσας",
+            "gloss": "ayant_fait/pratiqué"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἔλεος",
+            "gloss": "miséricorde",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le légiste est incapable de prononcer le mot 'Samaritain' à cause de sa rigidité égotique et tribale. Il est contraint d'admettre la vérité sous forme d'action : c'est la manifestation de la miséricorde pure qui définit l'appartenance à l'Axe vertical, et non l'étiquette religieuse.",
+              "related": [
+                "τὸ",
+                "μετ’"
+              ]
+            }
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec/envers"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Πορεύου",
+            "gloss": "Va/fais_route"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ποίει",
+            "gloss": "fais/crée"
+          },
+          {
+            "greek": "ὁμοίως.",
+            "gloss": "pareillement"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 31/32 - ἀντιπαρῆλθεν : Traduit par 'passa outre' (Segond) ou 'passa outre de l'autre côté' (Darby). Le génie de Darby est d'avoir tenté de rendre la complexité géométrique de *anti-para-erchomai*. Le prêtre et le Lévite ne font pas qu'ignorer, ils opèrent une manœuvre d'évitement active. Ils frôlent le drame (*para*) mais se barricadent immédiatement dans l'opposition (*anti*).\n• Verset 34 - πανδοχεῖον : 'Hôtellerie'. Le français perd la symbolique d'accueil inconditionnel du grec *pan-docheion* (le réceptacle de la totalité). \n• Verset 36 - γεγονέναι : 'Avoir été' (Segond/Darby). C'est le verbe *ginomai* (devenir/advenir). Traduire par le verbe 'être' aplatit le choc théologique du Christ. On ne 'naît' pas le prochain de quelqu'un, on le DEVIENT par un acte ontologique de kénose.\n\nAnalyse spirituelle :\nLa parabole du Bon Samaritain n'est pas une leçon de morale civique, mais une allégorie foudroyante sur la maladie du Monde duel et la thérapie de l'Incréé.\n\nLe récit s'ouvre sur un légiste qui cherche à 'hériter' la vie éternelle en posant une question de géomètre : 'Où s'arrête mon devoir d'amour ?' (Qui est mon prochain ?). Pour détruire cette rigidité, Jésus brosse la topographie d'une chute cosmique : l'homme qui 'descend' (*katabaino*) de Jérusalem vers Jéricho représente l'humanité arrachée au Centre et s'effondrant dans la matière, dépouillée et laissée 'à demi morte' (*hemithanes*) par les forces d'éclatement (les brigands).\n\nFace à cette détresse, la religion rituelle et intellectuelle du Monde duel (le Prêtre et le Lévite) se révèle mortifère. Soumise à la même gravité (*katabaino*), elle est obsédée par la pureté de surface et pratique l'évitement sanitaire (*anti-para-erchomai*). Elle refuse de se salir les mains, s'enfermant dans une pureté stérile qui est l'essence même de l'Ego.\n\nL'irruption de la Grâce prend les traits de l'hérétique absolu : le Samaritain. Il ne descend pas, il 'fait route' (*hodeuon*). Il est le Christ lui-même. Son action est une série de mouvements anti-égotiques : le frémissement viscéral (*splagchnizomai*), l'approche physique intime (*proserchomai*), l'effusion des fluides sacramentels, et surtout l'élévation de la victime (*epi-bibazo*). Il arrache l'homme à la rue de Jéricho pour le déposer dans le *Pan-docheion*, le lieu de l'accueil universel (l'Église spirituelle). \n\nJésus détruit la question du légiste. On ne trouve pas l'Incréé en classant les humains entre 'proches' et 'lointains'. On n'atteint l'Unité qu'en *devenant* (*ginomai*) soi-même l'espace de la miséricorde, laissant le Sujet intérieur agir à la place de l'Ego calculateur."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 31/32 - ἀντιπαρῆλθεν : Traduit par 'passa outre' (Segond) ou 'passa outre de l'autre côté' (Darby). Le génie de Darby est d'avoir tenté de rendre la complexité géométrique de *anti-para-erchomai*. Le prêtre et le Lévite ne font pas qu'ignorer, ils opèrent une manœuvre d'évitement active. Ils frôlent le drame (*para*) mais se barricadent immédiatement dans l'opposition (*anti*).\n• Verset 34 - πανδοχεῖον : 'Hôtellerie'. Le français perd la symbolique d'accueil inconditionnel du grec *pan-docheion* (le réceptacle de la totalité). \n• Verset 36 - γεγονέναι : 'Avoir été' (Segond/Darby). C'est le verbe *ginomai* (devenir/advenir). Traduire par le verbe 'être' aplatit le choc théologique du Christ. On ne 'naît' pas le prochain de quelqu'un, on le DEVIENT par un acte ontologique de kénose.\n\nAnalyse spirituelle :\nLa parabole du Bon Samaritain n'est pas une leçon de morale civique, mais une allégorie foudroyante sur la maladie du Monde duel et la thérapie de l'Incréé.\n\nLe récit s'ouvre sur un légiste qui cherche à 'hériter' la vie éternelle en posant une question de géomètre : 'Où s'arrête mon devoir d'amour ?' (Qui est mon prochain ?). Pour détruire cette rigidité, Jésus brosse la topographie d'une chute cosmique : l'homme qui 'descend' (*katabaino*) de Jérusalem vers Jéricho représente l'humanité arrachée au Centre et s'effondrant dans la matière, dépouillée et laissée 'à demi morte' (*hemithanes*) par les forces d'éclatement (les brigands).\n\nFace à cette détresse, la religion rituelle et intellectuelle du Monde duel (le Prêtre et le Lévite) se révèle mortifère. Soumise à la même gravité (*katabaino*), elle est obsédée par la pureté de surface et pratique l'évitement sanitaire (*anti-para-erchomai*). Elle refuse de se salir les mains, s'enfermant dans une pureté stérile qui est l'essence même de l'Ego.\n\nL'irruption de la Grâce prend les traits de l'hérétique absolu : le Samaritain. Il ne descend pas, il 'fait route' (*hodeuon*). Il est le Christ lui-même. Son action est une série de mouvements anti-égotiques : le frémissement viscéral (*splagchnizomai*), l'approche physique intime (*proserchomai*), l'effusion des fluides sacramentels, et surtout l'élévation de la victime (*epi-bibazo*). Il arrache l'homme à la rue de Jéricho pour le déposer dans le *Pan-docheion*, le lieu de l'accueil universel (l'Église spirituelle). \n\nJésus détruit la question du légiste. On ne trouve pas l'Incréé en classant les humains entre 'proches' et 'lointains'. On n'atteint l'Unité qu'en *devenant* (*ginomai*) soi-même l'espace de la miséricorde, laissant le Sujet intérieur agir à la place de l'Ego calculateur.\n\nComplément de lecture : la question « qui est mon prochain ? » cherche une limite ; Jésus répond par un déplacement : « lequel s’est fait prochain ? ». Le prêtre et le lévite passent de l’autre côté, tandis que le Samaritain voit, est saisi aux entrailles, s’approche, touche les plaies et organise la durée du soin.",
+    "homiletic_axes": [
+      {
+        "title": "De la limite à la proximité",
+        "content": "Le légiste demande qui mérite d’être inclus ; Jésus demande qui s’est fait prochain. La proximité devient une action et non une catégorie préalable.",
+        "keywords": [
+          "πλησίον;",
+          "πλησίον"
+        ]
+      },
+      {
+        "title": "Passer à l’opposé ou s’approcher",
+        "content": "Le prêtre et le lévite créent de la distance ; le Samaritain interrompt son trajet et se rend proche du blessé.",
+        "keywords": [
+          "ἀντιπαρῆλθεν·",
+          "ἀντιπαρῆλθεν.",
+          "ἐσπλαγχνίσθη,"
+        ]
+      },
+      {
+        "title": "Une compassion qui prend soin",
+        "content": "La compassion engage les sens, les entrailles, les mains, le temps et les biens. Elle ne reste pas une émotion sans lendemain.",
+        "keywords": [
+          "ἐσπλαγχνίσθη,",
+          "ἀποδώσω"
+        ]
+      },
+      {
+        "title": "Un seul corps dans la patience",
+        "content": "Éphésiens fonde le soin du prochain dans l’unité reçue du Christ et gardée par l’humilité, la douceur et la patience.",
+        "keywords": [
+          "μακροθυμίας,",
+          "εἷς",
+          "χάρις"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement une entrée dans les deux lectures du 25e dimanche après la Pentecôte : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : enfermement, attente, blessure, isolement, accumulation, courbure, peur ou désir de retrouver une relation vivante."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : écouter, se laisser rejoindre, toucher avec délicatesse, devenir prochain, partager, se redresser ou recevoir la grâce."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes malades ou éprouvées."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Se faire prochain dans l’unique Corps",
+        "reference": "Luc 10, 25-37 ; Éphésiens 4, 1-7",
+        "content": "Le Samaritain restaure concrètement une relation brisée ; l’Apôtre révèle que cette proximité trouve sa source dans l’unité du Corps, de l’Esprit, du Seigneur, de la foi et du baptême.",
+        "connections": []
+      }
+    ]
   },
   "apostle": {
     "reference": "Éphésiens 4, 1-7",
@@ -363,20 +1457,97 @@
           "darby": "Je vous exhorte donc, moi, le prisonnier dans le Seigneur, à marcher d'une manière digne de l'appel dont vous avez été appelés,"
         },
         "interlinear": [
-          { "greek": "Παρακαλῶ", "gloss": "J'exhorte/J'appelle_auprès", "analyse": "Composé de *para-* (auprès de, à côté) et *kaleo* (appeler). L'exhortation n'est pas un ordre vertical imposé de l'extérieur avec condescendance. C'est l'invitation d'un Sujet éveillé qui se tient 'tout contre' (*para*) ses frères pour les ramener à l'Axe." },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "δέσμιος", "gloss": "prisonnier/lié", "analyse": "Du verbe *deo* (lier). Le Sujet éveillé n'est plus 'libre' au sens de l'autonomie égotique ou de l'anarchie mondaine. Il est 'lié' à l'Axe vertical de l'Incréé. Cette captivité spirituelle est paradoxalement l'état de libération absolue hors du chaos horizontal." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "κυρίῳ", "gloss": "le_Seigneur" },
-          { "greek": "ἀξίως", "gloss": "dignement/avec_juste_poids", "analyse": "L'adverbe *axios* désigne originellement ce qui a un 'poids égal', ce qui fait contrepoids sur une balance. Marcher 'dignement', c'est aligner parfaitement son action horizontale pour qu'elle fasse exactement l'équilibre avec la fréquence de l'Incréé reçue." },
-          { "greek": "περιπατῆσαι", "gloss": "marcher", "analyse": "Composé de *peri-* (autour) et *pateo* (marcher). C'est l'action dans le monde duel (l'espace et le temps). L'enjeu n'est pas de fuir le monde, mais d'y marcher en étant tracté par la verticalité de l'Appel." },
-          { "greek": "τῆς", "gloss": "de_l'" },
-          { "greek": "κλήσεως", "gloss": "appel/vocation" },
-          { "greek": "ἧς", "gloss": "dont" },
-          { "greek": "ἐκλήθητε,", "gloss": "vous_fûtes_appelés" }
+          {
+            "greek": "Παρακαλῶ",
+            "gloss": "J'exhorte/J'appelle_auprès",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *para-* (auprès de, à côté) et *kaleo* (appeler). L'exhortation n'est pas un ordre vertical imposé de l'extérieur avec condescendance. C'est l'invitation d'un Sujet éveillé qui se tient 'tout contre' (*para*) ses frères pour les ramener à l'Axe.",
+              "related": [
+                "οὖν"
+              ]
+            }
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δέσμιος",
+            "gloss": "prisonnier/lié",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *deo* (lier). Le Sujet éveillé n'est plus 'libre' au sens de l'autonomie égotique ou de l'anarchie mondaine. Il est 'lié' à l'Axe vertical de l'Incréé. Cette captivité spirituelle est paradoxalement l'état de libération absolue hors du chaos horizontal.",
+              "related": [
+                "ὁ",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "le_Seigneur"
+          },
+          {
+            "greek": "ἀξίως",
+            "gloss": "dignement/avec_juste_poids",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'adverbe *axios* désigne originellement ce qui a un 'poids égal', ce qui fait contrepoids sur une balance. Marcher 'dignement', c'est aligner parfaitement son action horizontale pour qu'elle fasse exactement l'équilibre avec la fréquence de l'Incréé reçue.",
+              "related": [
+                "κυρίῳ",
+                "περιπατῆσαι"
+              ]
+            }
+          },
+          {
+            "greek": "περιπατῆσαι",
+            "gloss": "marcher",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *peri-* (autour) et *pateo* (marcher). C'est l'action dans le monde duel (l'espace et le temps). L'enjeu n'est pas de fuir le monde, mais d'y marcher en étant tracté par la verticalité de l'Appel.",
+              "related": [
+                "ἀξίως",
+                "τῆς"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "κλήσεως",
+            "gloss": "appel/vocation"
+          },
+          {
+            "greek": "ἧς",
+            "gloss": "dont"
+          },
+          {
+            "greek": "ἐκλήθητε,",
+            "gloss": "vous_fûtes_appelés"
+          }
         ]
       },
       {
@@ -386,17 +1557,86 @@
           "darby": "avec toute humilité et douceur, avec longanimité, vous supportant l'un l'autre dans l'amour ;"
         },
         "interlinear": [
-          { "greek": "μετὰ", "gloss": "Avec" },
-          { "greek": "πάσης", "gloss": "toute" },
-          { "greek": "ταπεινοφροσύνης", "gloss": "humilité/abaissement_mental", "analyse": "Composé de *tapeinos* (bas) et *phren* (intellect/diaphragme). Ce n'est pas la modestie morale, qui est encore un masque de l'Ego. C'est le vidage de la machinerie mentale, le refus total de la supériorité vibratoire. L'intellect se fait vallée pour que l'Énergie puisse y couler sans résistance." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πραΰτητος,", "gloss": "douceur", "analyse": "La *prautes*. Elle définit l'état d'un être pacifié, dompté, qui ne génère plus aucune friction égotique dans le Monde duel. C'est la force tranquille de la non-réactivité." },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "μακροθυμίας,", "gloss": "patience/longanimité", "analyse": "Composé de *makros* (long/vaste) et *thymos* (passion/souffle). L'Ego a un souffle court, il réagit immédiatement au choc par la colère ou la panique. La *makrothymia* est la capacité de dilater l'espace intérieur pour absorber le choc sans se rompre." },
-          { "greek": "ἀνεχόμενοι", "gloss": "vous_supportant/vous_soutenant", "analyse": "Composé de *ana-* (vers le haut) et *echo* (tenir). Se supporter mutuellement n'est pas une résignation fataliste horizontale. C'est un acte de levage : tenir l'autre 'vers le haut' (*ana*), le soutenir dans l'Axe de l'Incréé malgré les défaillances de sa chair." },
-          { "greek": "ἀλλήλων", "gloss": "les_uns_les_autres" },
-          { "greek": "ἐν", "gloss": "dans/en" },
-          { "greek": "ἀγάπῃ,", "gloss": "amour" }
+          {
+            "greek": "μετὰ",
+            "gloss": "Avec"
+          },
+          {
+            "greek": "πάσης",
+            "gloss": "toute"
+          },
+          {
+            "greek": "ταπεινοφροσύνης",
+            "gloss": "humilité/abaissement_mental",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *tapeinos* (bas) et *phren* (intellect/diaphragme). Ce n'est pas la modestie morale, qui est encore un masque de l'Ego. C'est le vidage de la machinerie mentale, le refus total de la supériorité vibratoire. L'intellect se fait vallée pour que l'Énergie puisse y couler sans résistance.",
+              "related": [
+                "πάσης",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πραΰτητος,",
+            "gloss": "douceur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La *prautes*. Elle définit l'état d'un être pacifié, dompté, qui ne génère plus aucune friction égotique dans le Monde duel. C'est la force tranquille de la non-réactivité.",
+              "related": [
+                "καὶ",
+                "μετὰ"
+              ]
+            }
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "μακροθυμίας,",
+            "gloss": "patience/longanimité",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *makros* (long/vaste) et *thymos* (passion/souffle). L'Ego a un souffle court, il réagit immédiatement au choc par la colère ou la panique. La *makrothymia* est la capacité de dilater l'espace intérieur pour absorber le choc sans se rompre.",
+              "related": [
+                "μετὰ",
+                "ἀνεχόμενοι"
+              ]
+            }
+          },
+          {
+            "greek": "ἀνεχόμενοι",
+            "gloss": "vous_supportant/vous_soutenant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ana-* (vers le haut) et *echo* (tenir). Se supporter mutuellement n'est pas une résignation fataliste horizontale. C'est un acte de levage : tenir l'autre 'vers le haut' (*ana*), le soutenir dans l'Axe de l'Incréé malgré les défaillances de sa chair.",
+              "related": [
+                "μακροθυμίας,",
+                "ἀλλήλων"
+              ]
+            }
+          },
+          {
+            "greek": "ἀλλήλων",
+            "gloss": "les_uns_les_autres"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/en"
+          },
+          {
+            "greek": "ἀγάπῃ,",
+            "gloss": "amour"
+          }
         ]
       },
       {
@@ -406,17 +1646,85 @@
           "darby": "vous appliquant à garder l'unité de l'Esprit par le lien de la paix."
         },
         "interlinear": [
-          { "greek": "σπουδάζοντες", "gloss": "vous_efforçant/vous_hâtant", "analyse": "Du verbe *spoudazo* (se hâter, agir avec un zèle intense). La non-dualité n'est pas une oisiveté spirituelle. Elle exige une tension vibratoire maximale de la part du Sujet pour ne pas retomber dans l'inertie de la séparation." },
-          { "greek": "τηρεῖν", "gloss": "de_garder/conserver", "analyse": "Le verbe *tereo* (monter la garde, protéger précieusement). L'unité ne se crée pas (elle est donnée par l'Esprit), mais elle peut être perdue si l'Ego n'est pas maintenu à l'extérieur de la forteresse intérieure." },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἑνότητα", "gloss": "unité", "analyse": "La racine *hen* (Un). Le but ultime de la voie paulinienne : la Non-Dualité pure. L'Esprit ne gère pas un rassemblement politique d'Egos séparés, il révèle la matrice unique et sans couture de l'Être." },
-          { "greek": "τοῦ", "gloss": "de_l'" },
-          { "greek": "πνεύματος", "gloss": "Esprit" },
-          { "greek": "ἐν", "gloss": "dans/par" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "συνδέσμῳ", "gloss": "lien/jointure", "analyse": "Composé de *syn-* (ensemble) et *desmos* (lien/chaîne). Fait écho direct au *desmios* (prisonnier) du verset 1. La paix n'est pas l'absence de conflit, c'est la force centripète de l'Incréé qui lie indissolublement les fragments dans l'Unité." },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "εἰρήνης·", "gloss": "paix" }
+          {
+            "greek": "σπουδάζοντες",
+            "gloss": "vous_efforçant/vous_hâtant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *spoudazo* (se hâter, agir avec un zèle intense). La non-dualité n'est pas une oisiveté spirituelle. Elle exige une tension vibratoire maximale de la part du Sujet pour ne pas retomber dans l'inertie de la séparation.",
+              "related": [
+                "τηρεῖν"
+              ]
+            }
+          },
+          {
+            "greek": "τηρεῖν",
+            "gloss": "de_garder/conserver",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe *tereo* (monter la garde, protéger précieusement). L'unité ne se crée pas (elle est donnée par l'Esprit), mais elle peut être perdue si l'Ego n'est pas maintenu à l'extérieur de la forteresse intérieure.",
+              "related": [
+                "σπουδάζοντες",
+                "τὴν"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἑνότητα",
+            "gloss": "unité",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La racine *hen* (Un). Le but ultime de la voie paulinienne : la Non-Dualité pure. L'Esprit ne gère pas un rassemblement politique d'Egos séparés, il révèle la matrice unique et sans couture de l'Être.",
+              "related": [
+                "τὴν",
+                "τοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/par"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "συνδέσμῳ",
+            "gloss": "lien/jointure",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *syn-* (ensemble) et *desmos* (lien/chaîne). Fait écho direct au *desmios* (prisonnier) du verset 1. La paix n'est pas l'absence de conflit, c'est la force centripète de l'Incréé qui lie indissolublement les fragments dans l'Unité.",
+              "related": [
+                "τῷ",
+                "τῆς"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "εἰρήνης·",
+            "gloss": "paix"
+          }
         ]
       },
       {
@@ -426,20 +1734,97 @@
           "darby": "Il y a un seul corps et un seul Esprit, comme aussi vous avez été appelés pour une seule espérance de votre appel."
         },
         "interlinear": [
-          { "greek": "Ἓν", "gloss": "Un_seul", "analyse": "L'anaphore foudroyante de l'Un (*Hen*). C'est le battement de cœur du système métaphysique chrétien. Toute illusion de séparation doit s'effondrer devant la réalité du Un." },
-          { "greek": "σῶμα", "gloss": "corps" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "**ἓν**", "gloss": "un_seul", "analyse": "Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême)[cite: 3]. Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ)[cite: 3]. Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'." },
-          { "greek": "πνεῦμα,", "gloss": "Esprit" },
-          { "greek": "καθὼς", "gloss": "comme" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἐκλήθητε", "gloss": "vous_avez_été_appelés" },
-          { "greek": "**ἓν**", "gloss": "un_seul", "analyse": "Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême)[cite: 3]. Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ)[cite: 3]. Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'." },
-          { "greek": "**μία**", "gloss": "une_seule", "analyse": "Le pronom féminin *Mia*. Cette unité de la foi s'oppose frontalement au mauvais *Diá* (l'esprit de division, le dia-bolos) et aux *dialogismoi* (les pensées calculantes) du légiste dans l'Évangile[cite: 3]. La foi n'est pas une simple adhésion à un dogme qui exclurait les autres ; c'est l'unique fréquence de la Grâce sur laquelle l'âme 'entière' (*holos*) doit se caler pour cesser de diviser le monde en deux (les purs et les impurs, le prochain et l'étranger)." },
-          { "greek": "ἐλπίδι", "gloss": "espérance" },
-          { "greek": "τῆς", "gloss": "de_l'" },
-          { "greek": "κλήσεως", "gloss": "appel" },
-          { "greek": "ὑμῶν·", "gloss": "de_vous" }
+          {
+            "greek": "Ἓν",
+            "gloss": "Un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'anaphore foudroyante de l'Un (*Hen*). C'est le battement de cœur du système métaphysique chrétien. Toute illusion de séparation doit s'effondrer devant la réalité du Un.",
+              "related": [
+                "σῶμα"
+              ]
+            }
+          },
+          {
+            "greek": "σῶμα",
+            "gloss": "corps"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "**ἓν**",
+            "gloss": "un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême). Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ). Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'.",
+              "related": [
+                "καὶ",
+                "πνεῦμα,"
+              ]
+            }
+          },
+          {
+            "greek": "πνεῦμα,",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἐκλήθητε",
+            "gloss": "vous_avez_été_appelés"
+          },
+          {
+            "greek": "**ἓν**",
+            "gloss": "un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême). Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ). Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'.",
+              "related": [
+                "ἐκλήθητε",
+                "**μία**"
+              ]
+            }
+          },
+          {
+            "greek": "**μία**",
+            "gloss": "une_seule",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le pronom féminin *Mia*. Cette unité de la foi s'oppose frontalement au mauvais *Diá* (l'esprit de division, le dia-bolos) et aux *dialogismoi* (les pensées calculantes) du légiste dans l'Évangile. La foi n'est pas une simple adhésion à un dogme qui exclurait les autres ; c'est l'unique fréquence de la Grâce sur laquelle l'âme 'entière' (*holos*) doit se caler pour cesser de diviser le monde en deux (les purs et les impurs, le prochain et l'étranger).",
+              "related": [
+                "**ἓν**",
+                "ἐλπίδι"
+              ]
+            }
+          },
+          {
+            "greek": "ἐλπίδι",
+            "gloss": "espérance"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "κλήσεως",
+            "gloss": "appel"
+          },
+          {
+            "greek": "ὑμῶν·",
+            "gloss": "de_vous"
+          }
         ]
       },
       {
@@ -449,12 +1834,73 @@
           "darby": "un seul Seigneur, une seule foi, un seul baptême,"
         },
         "interlinear": [
-          { "greek": "εἷς", "gloss": "Un_seul", "analyse": "L'injonction mathématique de l'Incréé continue (4ème occurrence du Un). Devant la fragmentation infinie du Monde duel (la Légion), Paul oppose l'Unité implacable de la Vérité." },
-          { "greek": "κύριος,", "gloss": "Seigneur" },
-          { "greek": "**μία**", "gloss": "une_seule", "analyse": "Le pronom féminin *Mia*. Cette unité de la foi s'oppose frontalement au mauvais *Diá* (l'esprit de division, le dia-bolos) et aux *dialogismoi* (les pensées calculantes) du légiste dans l'Évangile[cite: 3]. La foi n'est pas une simple adhésion à un dogme qui exclurait les autres ; c'est l'unique fréquence de la Grâce sur laquelle l'âme 'entière' (*holos*) doit se caler pour cesser de diviser le monde en deux (les purs et les impurs, le prochain et l'étranger)." },
-          { "greek": "πίστις,", "gloss": "foi", "analyse": "La *pistis* (l'adhésion, l'alignement). Puisqu'il n'y a qu'un seul Axe vertical (*Kyrios*), il ne peut y avoir qu'une seule modalité d'alignement. La foi n'est pas un catalogue de croyances diverses, c'est l'unique canal de réceptivité du Sujet." },
-         { "greek": "**ἓν**", "gloss": "un_seul", "analyse": "Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême)[cite: 3]. Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ)[cite: 3]. Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'." },
-          { "greek": "βάπτισμα,", "gloss": "baptême", "analyse": "Du verbe *baptizo* (plonger, immerger). Topographie de la kénose absolue. Il n'y a qu'une seule façon de naître à l'Incréé : la noyade de l'Ego, l'immersion totale qui engloutit l'identité de surface pour libérer le Sujet profond." }
+          {
+            "greek": "εἷς",
+            "gloss": "Un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'injonction mathématique de l'Incréé continue (4ème occurrence du Un). Devant la fragmentation infinie du Monde duel (la Légion), Paul oppose l'Unité implacable de la Vérité.",
+              "related": [
+                "κύριος,"
+              ]
+            }
+          },
+          {
+            "greek": "κύριος,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "**μία**",
+            "gloss": "une_seule",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le pronom féminin *Mia*. Cette unité de la foi s'oppose frontalement au mauvais *Diá* (l'esprit de division, le dia-bolos) et aux *dialogismoi* (les pensées calculantes) du légiste dans l'Évangile. La foi n'est pas une simple adhésion à un dogme qui exclurait les autres ; c'est l'unique fréquence de la Grâce sur laquelle l'âme 'entière' (*holos*) doit se caler pour cesser de diviser le monde en deux (les purs et les impurs, le prochain et l'étranger).",
+              "related": [
+                "κύριος,",
+                "πίστις,"
+              ]
+            }
+          },
+          {
+            "greek": "πίστις,",
+            "gloss": "foi",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La *pistis* (l'adhésion, l'alignement). Puisqu'il n'y a qu'un seul Axe vertical (*Kyrios*), il ne peut y avoir qu'une seule modalité d'alignement. La foi n'est pas un catalogue de croyances diverses, c'est l'unique canal de réceptivité du Sujet.",
+              "related": [
+                "**μία**",
+                "**ἓν**"
+              ]
+            }
+          },
+          {
+            "greek": "**ἓν**",
+            "gloss": "un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême). Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ). Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'.",
+              "related": [
+                "πίστις,",
+                "βάπτισμα,"
+              ]
+            }
+          },
+          {
+            "greek": "βάπτισμα,",
+            "gloss": "baptême",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *baptizo* (plonger, immerger). Topographie de la kénose absolue. Il n'y a qu'une seule façon de naître à l'Incréé : la noyade de l'Ego, l'immersion totale qui engloutit l'identité de surface pour libérer le Sujet profond.",
+              "related": [
+                "**ἓν**"
+              ]
+            }
+          }
         ]
       },
       {
@@ -464,20 +1910,97 @@
           "darby": "un seul Dieu et Père de tous, qui est au-dessus de tous, et par tous, et en nous tous."
         },
         "interlinear": [
-          { "greek": "εἷς", "gloss": "Un_seul", "analyse": "7ème et ultime occurrence du mot 'Un' dans cette strophe. Le sommet de la pyramide ontologique." },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πατὴρ", "gloss": "Père" },
-          { "greek": "πάντων,", "gloss": "de_tous" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "ἐπὶ", "gloss": "sur/au-dessus_de", "analyse": "La topographie de la Transcendance. L'Incréé règne souverainement *au-dessus* des contingences vibratoires de la matière." },
-          { "greek": "πάντων", "gloss": "tous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "διὰ", "gloss": "à_travers", "analyse": "La topographie de la Pénétration dynamique. L'Incréé n'est pas un concept distant : Il traverse, circule et irradie *à travers* toute l'horizontalité du réel." },
-          { "greek": "πάντων", "gloss": "tous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "dans/en", "analyse": "La topographie de l'Immanence intime. L'Incréé réside au cœur même du centre (*naos*) de chaque Sujet. Transcendance (*epi*), Omniprésence (*dia*) et Immanence (*en*) sont ici réunies dans une formule non-duelle fulgurante." },
-          { "greek": "πᾶσιν.", "gloss": "tous" }
+          {
+            "greek": "εἷς",
+            "gloss": "Un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : 7ème et ultime occurrence du mot 'Un' dans cette strophe. Le sommet de la pyramide ontologique.",
+              "related": [
+                "θεὸς"
+              ]
+            }
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "πάντων,",
+            "gloss": "de_tous"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur/au-dessus_de",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La topographie de la Transcendance. L'Incréé règne souverainement *au-dessus* des contingences vibratoires de la matière.",
+              "related": [
+                "ὁ",
+                "πάντων"
+              ]
+            }
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "tous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La topographie de la Pénétration dynamique. L'Incréé n'est pas un concept distant : Il traverse, circule et irradie *à travers* toute l'horizontalité du réel.",
+              "related": [
+                "καὶ",
+                "πάντων"
+              ]
+            }
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "tous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/en",
+            "annotation": {
+              "type": "repetition",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La topographie de l'Immanence intime. L'Incréé réside au cœur même du centre (*naos*) de chaque Sujet. Transcendance (*epi*), Omniprésence (*dia*) et Immanence (*en*) sont ici réunies dans une formule non-duelle fulgurante.",
+              "related": [
+                "καὶ",
+                "πᾶσιν."
+              ]
+            }
+          },
+          {
+            "greek": "πᾶσιν.",
+            "gloss": "tous"
+          }
         ]
       },
       {
@@ -487,23 +2010,123 @@
           "darby": "Mais à chacun de nous la grâce a été donnée selon la mesure du don du Christ."
         },
         "interlinear": [
-          { "greek": "Ἑνὶ", "gloss": "À_un_seul/À_chacun" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "ἑκάστῳ", "gloss": "chacun" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "ἐδόθη", "gloss": "fut_donnée" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "χάρις", "gloss": "grâce" },
-          { "greek": "κατὰ", "gloss": "selon/vers_le_bas", "analyse": "Le préfixe *kata-* marque la trajectoire de l'effusion. La Grâce descend de la Source pour épouser la forme de celui qui la reçoit." },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "μέτρον", "gloss": "mesure", "analyse": "Le *metron*. Paradoxe magnifique : l'Unité (les 7 'Un' précédents) ne produit pas l'uniformité. La Grâce pure se fragmente géométriquement pour s'adapter à l'architecture spirituelle unique de chaque Sujet. Chacun reçoit l'Énergie divine selon sa propre capacité d'accueil." },
-          { "greek": "τῆς", "gloss": "du" },
-          { "greek": "δωρεᾶς", "gloss": "don/gratuité" },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "Χριστοῦ.", "gloss": "Christ" }
+          {
+            "greek": "Ἑνὶ",
+            "gloss": "À_un_seul/À_chacun"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἑκάστῳ",
+            "gloss": "chacun"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "ἐδόθη",
+            "gloss": "fut_donnée"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon/vers_le_bas",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le préfixe *kata-* marque la trajectoire de l'effusion. La Grâce descend de la Source pour épouser la forme de celui qui la reçoit.",
+              "related": [
+                "χάρις",
+                "τὸ"
+              ]
+            }
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "μέτρον",
+            "gloss": "mesure",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le *metron*. Paradoxe magnifique : l'Unité (les 7 'Un' précédents) ne produit pas l'uniformité. La Grâce pure se fragmente géométriquement pour s'adapter à l'architecture spirituelle unique de chaque Sujet. Chacun reçoit l'Énergie divine selon sa propre capacité d'accueil.",
+              "related": [
+                "τὸ",
+                "τῆς"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "δωρεᾶς",
+            "gloss": "don/gratuité"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "Christ"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - διὰ πάντων : Segond traduit tristement par 'parmi tous', ce qui spatialise Dieu comme un simple élément posé au milieu des autres. Darby est plus précis avec 'par tous'. Mais le grec *dia* exprime un mouvement transperçant, une action 'à travers' le tout. L'Énergie divine traverse le cosmos, elle est le fluide vital qui irrigue l'intérieur de la réalité.\n• Verset 2 (partie 1) - ταπεινοφροσύνης : Souvent traduit par 'humilité'. L'étymologie grecque (*tapeinos* = bas, *phren* = le mental/l'intellect) désigne littéralement un 'mental abaissé'. L'Ego est gonflé de certitudes cérébrales (le bruit mental) ; l'abaissement de ce bruit est la condition sine qua non de la réceptivité métaphysique.\n\nAnalyse spirituelle :\nCette péricope offre l'architecture métaphysique de la Non-Dualité paulinienne. \n\nL'apôtre écrit depuis sa prison (*desmios*). Il montre que l'enfermement physique dans le Monde duel n'entrave en rien la liberté du Sujet éveillé, qui est lié à l'Axe de l'Incréé. Mais pour que cette Unité s'incarne dans la communauté humaine, elle exige une géométrie comportementale drastique : le Sujet doit abaisser son intellect (*tapeinophrosyne*), absorber le choc du temps (*makrothymia*), et exercer un mouvement de levage ascendant vers l'autre (*ana-echo*). Sans cette hygiène spatiale, l'Ego reprend instantanément ses droits et recrée la division.\n\nLes versets 4 à 6 déclenchent ensuite une scansion hypnotique du chiffre UN (prononcé 7 fois). Face à la Légion démoniaque (l'éclatement horizontal de l'Ego), Paul martèle la vérité du Royaume : un seul Corps, un seul Esprit, une seule Espérance, un seul Seigneur, une seule Foi, un seul Baptême, un seul Dieu. Le verset 6 en donne la cartographie absolue : Dieu est la Transcendance suprême (*Epi*, sur), la Présence traversante (*Dia*, à travers), et l'Immanence la plus intime (*En*, dans).\n\nCependant, le miracle de cette Non-Dualité culmine au verset 7 : cette Unité d'Essence n'écrase pas la multiplicité de l'existence. L'Incréé se verse 'sur mesure' (*kata to metron*) dans la coupe de chaque Sujet. Il n'y a qu'une seule Lumière, mais chaque âme en est un vitrail distinct, révélant la Beauté de l'Un par la symphonie de ses réfractions."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - διὰ πάντων : Segond traduit tristement par 'parmi tous', ce qui spatialise Dieu comme un simple élément posé au milieu des autres. Darby est plus précis avec 'par tous'. Mais le grec *dia* exprime un mouvement transperçant, une action 'à travers' le tout. L'Énergie divine traverse le cosmos, elle est le fluide vital qui irrigue l'intérieur de la réalité.\n• Verset 2 (partie 1) - ταπεινοφροσύνης : Souvent traduit par 'humilité'. L'étymologie grecque (*tapeinos* = bas, *phren* = le mental/l'intellect) désigne littéralement un 'mental abaissé'. L'Ego est gonflé de certitudes cérébrales (le bruit mental) ; l'abaissement de ce bruit est la condition sine qua non de la réceptivité métaphysique.\n\nAnalyse spirituelle :\nCette péricope offre l'architecture métaphysique de la Non-Dualité paulinienne. \n\nL'apôtre écrit depuis sa prison (*desmios*). Il montre que l'enfermement physique dans le Monde duel n'entrave en rien la liberté du Sujet éveillé, qui est lié à l'Axe de l'Incréé. Mais pour que cette Unité s'incarne dans la communauté humaine, elle exige une géométrie comportementale drastique : le Sujet doit abaisser son intellect (*tapeinophrosyne*), absorber le choc du temps (*makrothymia*), et exercer un mouvement de levage ascendant vers l'autre (*ana-echo*). Sans cette hygiène spatiale, l'Ego reprend instantanément ses droits et recrée la division.\n\nLes versets 4 à 6 déclenchent ensuite une scansion hypnotique du chiffre UN (prononcé 7 fois). Face à la Légion démoniaque (l'éclatement horizontal de l'Ego), Paul martèle la vérité du Royaume : un seul Corps, un seul Esprit, une seule Espérance, un seul Seigneur, une seule Foi, un seul Baptême, un seul Dieu. Le verset 6 en donne la cartographie absolue : Dieu est la Transcendance suprême (*Epi*, sur), la Présence traversante (*Dia*, à travers), et l'Immanence la plus intime (*En*, dans).\n\nCependant, le miracle de cette Non-Dualité culmine au verset 7 : cette Unité d'Essence n'écrase pas la multiplicité de l'existence. L'Incréé se verse 'sur mesure' (*kata to metron*) dans la coupe de chaque Sujet. Il n'y a qu'une seule Lumière, mais chaque âme en est un vitrail distinct, révélant la Beauté de l'Un par la symphonie de ses réfractions.\n\nComplément de lecture : la litanie paulinienne de l’un — un seul corps, un seul Esprit, une seule espérance, un seul Seigneur, une seule foi, un seul baptême, un seul Dieu et Père — donne le fondement ecclésial de la proximité. La patience et le support mutuel gardent l’unité reçue au lieu de la fabriquer.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement une entrée dans les deux lectures du 25e dimanche après la Pentecôte : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : enfermement, attente, blessure, isolement, accumulation, courbure, peur ou désir de retrouver une relation vivante."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : écouter, se laisser rejoindre, toucher avec délicatesse, devenir prochain, partager, se redresser ou recevoir la grâce."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes malades ou éprouvées."
+      }
+    ],
+    "liturgical_echoes": []
   }
 }
