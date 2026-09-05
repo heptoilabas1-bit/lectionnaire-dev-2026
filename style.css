@@ -401,6 +401,26 @@ main {
     font-size: .84rem;
     font-weight: 600;
 }
+.liturgical-echoes {
+    margin-top: 24px;
+    padding-top: 18px;
+    border-top: 1px solid #b9c8d8;
+}
+.liturgical-echoes[hidden] { display: none; }
+.liturgical-echoes h4 { margin: 0 0 5px; color: #263c5a; }
+.liturgical-echoes-intro { margin: 0 0 12px; color: #625c53; font-size: .9rem; }
+#liturgical-echoes-list { display: grid; gap: 12px; }
+.liturgical-echo {
+    padding: 14px 16px;
+    border-left: 4px solid #496b94;
+    border-radius: 4px;
+    background: #f4f8fc;
+}
+.liturgical-echo h5 { margin: 0 0 5px; color: #263c5a; font-size: 1rem; }
+.liturgical-echo p { margin: 0; line-height: 1.55; }
+.liturgical-echo-reference { margin-bottom: 8px !important; color: #671717; font-size: .84rem; font-weight: 600; }
+.liturgical-echo ul { margin: 10px 0 0; padding-left: 20px; line-height: 1.55; }
+.liturgical-echo li + li { margin-top: 6px; }
 .axis-add-button,
 .dialog-add-button {
     margin-top: 12px;
