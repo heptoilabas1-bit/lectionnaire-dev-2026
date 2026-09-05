@@ -81,6 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentHomilyReadingTitle = '';
     let calendarSundays = [];
     let currentCalendarEntry = null;
+    let homilySaveTimer;
 
     const defaultHomilyTemplate = [
         {
@@ -122,14 +123,60 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
 
     const getHomilyStorageKey = () =>
-        `lectionnaire:homily:${currentSundayKey}:${currentReadingType}`;
+        `lectionnaire:homily:${currentSundayKey}`;
 
-    const readHomilyDraft = () => {
+    const getLegacyHomilyStorageKey = readingType =>
+        `lectionnaire:homily:${currentSundayKey}:${readingType}`;
+
+    const parseStoredDraft = key => {
         try {
-            return JSON.parse(localStorage.getItem(getHomilyStorageKey())) || {};
+            return JSON.parse(localStorage.getItem(key)) || {};
         } catch {
             return {};
         }
+    };
+
+    const mergeLegacyHomilyDrafts = () => {
+        const gospelDraft = parseStoredDraft(getLegacyHomilyStorageKey('gospel'));
+        const apostleDraft = parseStoredDraft(getLegacyHomilyStorageKey('apostle'));
+        const fieldIds = new Set([
+            ...Object.keys(gospelDraft),
+            ...Object.keys(apostleDraft)
+        ]);
+        const merged = {};
+
+        fieldIds.forEach(fieldId => {
+            if (fieldId === '_oralReview') return;
+            const gospelContent = String(gospelDraft[fieldId] || '').trim();
+            const apostleContent = String(apostleDraft[fieldId] || '').trim();
+            if (gospelContent && apostleContent && gospelContent !== apostleContent) {
+                merged[fieldId] = `ÉVANGILE\n${gospelContent}\n\nAPÔTRE\n${apostleContent}`;
+            } else {
+                merged[fieldId] = gospelContent || apostleContent;
+            }
+        });
+
+        merged._oralReview = [...new Set([
+            ...(Array.isArray(gospelDraft._oralReview) ? gospelDraft._oralReview : []),
+            ...(Array.isArray(apostleDraft._oralReview) ? apostleDraft._oralReview : [])
+        ])];
+
+        return merged;
+    };
+
+    const readHomilyDraft = () => {
+        const unifiedKey = getHomilyStorageKey();
+        const unifiedDraft = parseStoredDraft(unifiedKey);
+        if (Object.keys(unifiedDraft).length) return unifiedDraft;
+
+        const migratedDraft = mergeLegacyHomilyDrafts();
+        const hasMigratedContent = Object.entries(migratedDraft)
+            .some(([key, value]) => key === '_oralReview' ? value.length : String(value || '').trim());
+        if (hasMigratedContent) {
+            localStorage.setItem(unifiedKey, JSON.stringify(migratedDraft));
+            return migratedDraft;
+        }
+        return {};
     };
 
     const collectHomilyDraft = () => {
@@ -192,6 +239,53 @@ document.addEventListener('DOMContentLoaded', () => {
         workspace.scrollIntoView({ behavior: 'smooth', block: 'start' });
     };
 
+    const buildUnifiedHomilyTemplate = data => {
+        const gospelTemplate = Array.isArray(data.gospel?.homily_template)
+            ? data.gospel.homily_template
+            : [];
+        const apostleTemplate = Array.isArray(data.apostle?.homily_template)
+            ? data.apostle.homily_template
+            : [];
+        const gospelById = new Map(gospelTemplate.map(section => [section.id, section]));
+        const apostleById = new Map(apostleTemplate.map(section => [section.id, section]));
+        const orderedIds = [...new Set([
+            ...defaultHomilyTemplate.map(section => section.id),
+            ...gospelTemplate.map(section => section.id),
+            ...apostleTemplate.map(section => section.id)
+        ])];
+
+        return orderedIds.map((id, index) => {
+            const fallback = defaultHomilyTemplate.find(section => section.id === id)
+                || { id, phase: index < 3 ? 'inspiration' : 'gestation', title: `${index + 1}. Étape`, prompt: '' };
+            const gospelSection = gospelById.get(id);
+            const apostleSection = apostleById.get(id);
+            const prompts = [];
+            if (gospelSection?.prompt) prompts.push(`Évangile — ${gospelSection.prompt}`);
+            if (apostleSection?.prompt) prompts.push(`Apôtre — ${apostleSection.prompt}`);
+
+            const sourcePhase = gospelSection?.phase || apostleSection?.phase || fallback.phase;
+            return {
+                ...fallback,
+                phase: sourcePhase === 'proclamation' ? 'expiration' : sourcePhase,
+                title: fallback.title,
+                prompt: prompts.length ? prompts.join('\n') : fallback.prompt
+            };
+        });
+    };
+
+    const buildUnifiedHomilyContext = data => {
+        const references = [
+            data.gospel?.reference ? `Évangile : ${data.gospel.reference}` : '',
+            data.apostle?.reference ? `Apôtre : ${data.apostle.reference}` : ''
+        ].filter(Boolean);
+
+        return {
+            title: liturgicalList[currentSundayKey] || 'Homélie',
+            reference: references.join(' · '),
+            homily_template: buildUnifiedHomilyTemplate(data)
+        };
+    };
+
     const renderHomilyWorkspace = (reading) => {
         const fields = document.getElementById('homily-fields');
         const title = document.getElementById('homily-workspace-title');
@@ -207,8 +301,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (title) title.textContent = `Construire l’homélie — ${currentHomilyReference || currentHomilyReadingTitle}`;
         if (status) status.textContent = Object.keys(draft).length
-            ? 'Brouillon sauvegardé retrouvé sur cet appareil.'
-            : 'Le brouillon sera sauvegardé automatiquement sur cet appareil.';
+            ? 'Brouillon commun à l’Évangile et à l’Apôtre retrouvé sur cet appareil.'
+            : 'Ce brouillon commun aux deux lectures sera sauvegardé automatiquement sur cet appareil.';
 
         const phases = {
             inspiration: {
@@ -347,6 +441,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 3. FONCTION DE CHARGEMENT DES DONNÉES (FETCH) ---
     const loadTextContext = async (sundayKey, readingType) => {
+        const existingHomilyFields = document.querySelectorAll('#homily-fields textarea');
+        if (existingHomilyFields.length) {
+            window.clearTimeout(homilySaveTimer);
+            localStorage.setItem(getHomilyStorageKey(), JSON.stringify(collectHomilyDraft()));
+        }
         currentSundayKey = sundayKey;
         currentReadingType = readingType;
 
@@ -519,7 +618,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
                 liturgicalEchoesContainer.hidden = echoes.length === 0;
             }
-            renderHomilyWorkspace(reading);
+            renderHomilyWorkspace(buildUnifiedHomilyContext(data));
 
 // --- GESTION DE LA SECTION "POUR ALLER PLUS LOIN" ---
             if (goingFurtherContainer && goingFurtherList) {
@@ -848,8 +947,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const homilyWorkspace = document.getElementById('homily-workspace');
     const toggleHomily = document.getElementById('toggle-homily');
     const closeHomily = document.getElementById('close-homily');
-    let homilySaveTimer;
-
     if (toggleHomily && homilyWorkspace) {
         toggleHomily.addEventListener('click', () => {
             homilyWorkspace.hidden = !homilyWorkspace.hidden;
@@ -944,8 +1041,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const clearHomily = document.getElementById('clear-homily');
     if (clearHomily) {
         clearHomily.addEventListener('click', () => {
-            if (!window.confirm('Effacer le brouillon de cette lecture sur cet appareil ?')) return;
+            if (!window.confirm('Effacer le brouillon de cette péricope sur cet appareil ?')) return;
+            window.clearTimeout(homilySaveTimer);
             localStorage.removeItem(getHomilyStorageKey());
+            localStorage.removeItem(getLegacyHomilyStorageKey('gospel'));
+            localStorage.removeItem(getLegacyHomilyStorageKey('apostle'));
             document.querySelectorAll('#homily-fields textarea').forEach(field => {
                 field.value = '';
             });
