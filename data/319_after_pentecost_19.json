@@ -10,17 +10,58 @@
           "darby": "Et comme vous voulez que les hommes vous fassent, faites-nous de même envers eux."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "καθὼς", "gloss": "selon_que" },
-          { "greek": "θέλετε", "gloss": "vous_voulez" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ποιῶσιν", "gloss": "fassent" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ἄνθρωποι,", "gloss": "hommes" },
-          { "greek": "ποιεῖτε", "gloss": "faites" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "ὁμοίως.", "gloss": "de_même/pareillement", "analyse": "Du mot *homoios* (semblable, de même nature). La Règle d'Or commence par poser un principe d'équivalence ontologique. Le prochain n'est pas un objet extérieur, il est un autre soi-même. Le Sujet s'éveille à la non-dualité en traitant l'autre selon sa propre aspiration à l'Être." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "selon_que"
+          },
+          {
+            "greek": "θέλετε",
+            "gloss": "vous_voulez"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ποιῶσιν",
+            "gloss": "fassent"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἄνθρωποι,",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "ποιεῖτε",
+            "gloss": "faites"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὁμοίως.",
+            "gloss": "de_même/pareillement",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du mot *homoios* (semblable, de même nature). La Règle d'Or commence par poser un principe d'équivalence ontologique. Le prochain n'est pas un objet extérieur, il est un autre soi-même. Le Sujet s'éveille à la non-dualité en traitant l'autre selon sa propre aspiration à l'Être.",
+              "related": [
+                "αὐτοῖς"
+              ]
+            }
+          }
         ]
       },
       {
@@ -30,24 +71,87 @@
           "darby": "Et si vous aimez ceux qui vous aiment, quelle grâce vous en sait-on ? Car les pécheurs aussi aiment ceux qui les aiment."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "ἀγαπᾶτε", "gloss": "vous_aimez" },
-          { "greek": "τοὺς", "gloss": "ceux" },
-          { "greek": "ἀγαπῶντας", "gloss": "aimant" },
-          { "greek": "ὑμᾶς,", "gloss": "vous" },
-          { "greek": "ποία", "gloss": "quelle" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "χάρις", "gloss": "grâce/reconnaissance", "analyse": "La *charis* (la grâce). Le Christ demande : où est la Grâce dans un échange strictement égalitaire ? Le système du 'donnant-donnant' appartient aux structures horizontales de l'Ego. La Grâce véritable est un flux incréé inconditionnel qui ne dépend pas d'un retour." },
-          { "greek": "ἐστίν;", "gloss": "est-elle" },
-          { "greek": "καὶ", "gloss": "car" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ἁμαρτωλοὶ", "gloss": "pécheurs" },
-          { "greek": "τοὺς", "gloss": "ceux" },
-          { "greek": "ἀγαπῶντας", "gloss": "aimant" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "ἀγαπῶσιν.", "gloss": "aiment" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "ἀγαπᾶτε",
+            "gloss": "vous_aimez"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἀγαπῶντας",
+            "gloss": "aimant"
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ποία",
+            "gloss": "quelle"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce/reconnaissance",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La *charis* (la grâce). Le Christ demande : où est la Grâce dans un échange strictement égalitaire ? Le système du 'donnant-donnant' appartient aux structures horizontales de l'Ego. La Grâce véritable est un flux incréé inconditionnel qui ne dépend pas d'un retour.",
+              "related": [
+                "ὑμῖν",
+                "ἐστίν;"
+              ]
+            }
+          },
+          {
+            "greek": "ἐστίν;",
+            "gloss": "est-elle"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "car"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁμαρτωλοὶ",
+            "gloss": "pécheurs"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἀγαπῶντας",
+            "gloss": "aimant"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἀγαπῶσιν.",
+            "gloss": "aiment"
+          }
         ]
       },
       {
@@ -57,23 +161,83 @@
           "darby": "Et si vous faites du bien à ceux qui vous font du bien, quelle grâce vous en sait-on ? Car les pécheurs aussi font de même."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "ἐὰν", "gloss": "si" },
-          { "greek": "ἀγαθοποιῆτε", "gloss": "vous_faites_du_bien", "analyse": "Composé de *agathos* (bon/bien) et *poieo* (faire). Faire le bien de manière sélective renforce le Monde duel en divisant l'humanité entre alliés et rivaux. Le Christ appelle à une action eucharistique universelle." },
-          { "greek": "τοὺς", "gloss": "ceux" },
-          { "greek": "ἀγαθοποιοῦντας", "gloss": "faisant_du_bien_à" },
-          { "greek": "ὑμᾶς,", "gloss": "vous" },
-          { "greek": "ποία", "gloss": "quelle" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "χάρις", "gloss": "grâce" },
-          { "greek": "ἐστίν;", "gloss": "est-elle" },
-          { "greek": "καὶ", "gloss": "—" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ἁμαρτωλοὶ", "gloss": "pécheurs" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "αὐτὸ", "gloss": "même" },
-          { "greek": "ποιοῦσιν.", "gloss": "font" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "ἀγαθοποιῆτε",
+            "gloss": "vous_faites_du_bien",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *agathos* (bon/bien) et *poieo* (faire). Faire le bien de manière sélective renforce le Monde duel en divisant l'humanité entre alliés et rivaux. Le Christ appelle à une action eucharistique universelle.",
+              "related": [
+                "ἐὰν",
+                "τοὺς"
+              ]
+            }
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἀγαθοποιοῦντας",
+            "gloss": "faisant_du_bien_à"
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ποία",
+            "gloss": "quelle"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "ἐστίν;",
+            "gloss": "est-elle"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "—"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁμαρτωλοὶ",
+            "gloss": "pécheurs"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "αὐτὸ",
+            "gloss": "même"
+          },
+          {
+            "greek": "ποιοῦσιν.",
+            "gloss": "font"
+          }
         ]
       },
       {
@@ -83,25 +247,91 @@
           "darby": "Et si vous prêtez à ceux de qui vous espérez recevoir, quelle grâce vous en sait-on ? Car les pécheurs aussi prêtent aux pécheurs, afin de recevoir la pareille."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐὰν", "gloss": "si" },
-          { "greek": "δανίσητε", "gloss": "vous_prêtez" },
-          { "greek": "παρ’", "gloss": "de_la_part_de" },
-          { "greek": "ὧν", "gloss": "ceux_dont" },
-          { "greek": "ἐλπίζετε", "gloss": "vous_espérez" },
-          { "greek": "λαβεῖν,", "gloss": "recevoir" },
-          { "greek": "ποία", "gloss": "quelle" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "χάρις", "gloss": "grâce" },
-          { "greek": "ἐστίν;", "gloss": "est-elle" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἁμαρτωλοὶ", "gloss": "les_pécheurs" },
-          { "greek": "ἁμαρτωλοῖς", "gloss": "aux_pécheurs" },
-          { "greek": "δανίζουσιν", "gloss": "prêtent" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἀπολάβωσιν", "gloss": "ils_reçoivent_en_retour", "analyse": "Composé de *apo-* (retour, séparation, achèvement) et *lambano* (prendre/recevoir). Le préfixe *apo-* souligne l'attente du circuit fermé : prendre en retour pour solder la dette. C'est la prison de la réciprocité karmique. L'Ego prête pour sécuriser son capital futur, refusant la gratuité radicale de l'Axe vertical." },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ἴσα.", "gloss": "choses_égales/la_pareille" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "δανίσητε",
+            "gloss": "vous_prêtez"
+          },
+          {
+            "greek": "παρ’",
+            "gloss": "de_la_part_de"
+          },
+          {
+            "greek": "ὧν",
+            "gloss": "ceux_dont"
+          },
+          {
+            "greek": "ἐλπίζετε",
+            "gloss": "vous_espérez"
+          },
+          {
+            "greek": "λαβεῖν,",
+            "gloss": "recevoir"
+          },
+          {
+            "greek": "ποία",
+            "gloss": "quelle"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "ἐστίν;",
+            "gloss": "est-elle"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἁμαρτωλοὶ",
+            "gloss": "les_pécheurs"
+          },
+          {
+            "greek": "ἁμαρτωλοῖς",
+            "gloss": "aux_pécheurs"
+          },
+          {
+            "greek": "δανίζουσιν",
+            "gloss": "prêtent"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἀπολάβωσιν",
+            "gloss": "ils_reçoivent_en_retour",
+            "annotation": {
+              "type": "traduction",
+              "title": "Recevoir en retour",
+              "content": "Ἀπολαμβάνω signifie recevoir pleinement ou recevoir en retour. Le préfixe ἀπό ne signifie pas à lui seul la fermeture d’un circuit ; c’est le contexte des prêts réciproques qui révèle ici la logique du retour attendu.",
+              "related": [
+                "ἵνα",
+                "τὰ"
+              ]
+            }
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἴσα.",
+            "gloss": "choses_égales/la_pareille"
+          }
         ]
       },
       {
@@ -111,36 +341,144 @@
           "darby": "Mais aimez vos ennemis, et faites du bien, et prêtez sans en rien espérer, et votre récompense sera grande, et vous serez les fils du Très-haut ; car il est bon envers les ingrats et les méchants."
         },
         "interlinear": [
-          { "greek": "πλὴν", "gloss": "Mais/Toutefois" },
-          { "greek": "ἀγαπᾶτε", "gloss": "aimez" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ἐχθροὺς", "gloss": "ennemis" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀγαθοποιεῖτε", "gloss": "faites_du_bien" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δανίζετε", "gloss": "prêtez" },
-          { "greek": "μηδὲν", "gloss": "rien" },
-          { "greek": "ἀπελπίζοντες·", "gloss": "espérant_en_retour/désespérant", "analyse": "Composé de *apo-* (éloignement, renoncement) et *elpizo* (espérer). Prêter en effectuant un détachement total (*apo-*) de toute attente. C'est l'acte kénotique absolu : couper le fil horizontal du retour pour laisser l'action se perdre dans le vide. C'est là que le don devient divin." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔσται", "gloss": "sera" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "μισθὸς", "gloss": "salaire/récompense" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "πολύς,", "gloss": "grand/abondant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔσεσθε", "gloss": "vous_serez" },
-          { "greek": "υἱοὶ", "gloss": "fils" },
-          { "greek": "Ὑψίστου,", "gloss": "du_Très-Haut", "analyse": "Du mot *Hypsistos* (le plus haut, verticalité suprême). En brisant le troc psychologique du Monde duel, le Sujet change de filiation : il s'aligne verticalement sur l'Incréé et participe à sa nature paternelle génératrice." },
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "αὐτὸς", "gloss": "lui" },
-          { "greek": "χρηστός", "gloss": "bon/excellent" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ἐπὶ", "gloss": "envers" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ἀχαρίστους", "gloss": "ingrats/sans_grâce" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πονηρούς.", "gloss": "méchants" }
+          {
+            "greek": "πλὴν",
+            "gloss": "Mais/Toutefois"
+          },
+          {
+            "greek": "ἀγαπᾶτε",
+            "gloss": "aimez"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐχθροὺς",
+            "gloss": "ennemis"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀγαθοποιεῖτε",
+            "gloss": "faites_du_bien"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δανίζετε",
+            "gloss": "prêtez"
+          },
+          {
+            "greek": "μηδὲν",
+            "gloss": "rien"
+          },
+          {
+            "greek": "ἀπελπίζοντες·",
+            "gloss": "espérant_en_retour/désespérant",
+            "annotation": {
+              "type": "racine",
+              "title": "Sans attendre en retour",
+              "content": "Le participe ἀπελπίζοντες a reçu plusieurs interprétations : « sans rien espérer » ou « sans attendre de retour ». Dans le contexte du prêt aux ennemis, la seconde exprime bien la gratuité, mais la difficulté textuelle mérite de rester visible.",
+              "related": [
+                "μηδὲν",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔσται",
+            "gloss": "sera"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μισθὸς",
+            "gloss": "salaire/récompense"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "πολύς,",
+            "gloss": "grand/abondant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔσεσθε",
+            "gloss": "vous_serez"
+          },
+          {
+            "greek": "υἱοὶ",
+            "gloss": "fils"
+          },
+          {
+            "greek": "Ὑψίστου,",
+            "gloss": "du_Très-Haut",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du mot *Hypsistos* (le plus haut, verticalité suprême). En brisant le troc psychologique du Monde duel, le Sujet change de filiation : il s'aligne verticalement sur l'Incréé et participe à sa nature paternelle génératrice.",
+              "related": [
+                "υἱοὶ",
+                "ὅτι"
+              ]
+            }
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui"
+          },
+          {
+            "greek": "χρηστός",
+            "gloss": "bon/excellent"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "envers"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀχαρίστους",
+            "gloss": "ingrats/sans_grâce"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πονηρούς.",
+            "gloss": "méchants"
+          }
         ]
       },
       {
@@ -150,19 +488,143 @@
           "darby": "Soyez donc miséricordieux, comme aussi votre Père est miséricordieux."
         },
         "interlinear": [
-          { "greek": "Γίνεσθε", "gloss": "Devenez/Soyez" },
-          { "greek": "οἰκτίρμονες", "gloss": "miséricordieux/compatissants", "analyse": "La racine évoque les entrailles maternelles, le lieu de la gestation. La miséricorde n'est pas un sentiment moralisateur descendant, mais une matrice ontologique qui engendre l'autre à la vie en absorbant sa négativité." },
-          { "greek": "καθὼς", "gloss": "comme" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "πατὴρ", "gloss": "Père" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "οἰκτίρμων", "gloss": "miséricordieux" },
-          { "greek": "ἐστίν.", "gloss": "est" }
+          {
+            "greek": "Γίνεσθε",
+            "gloss": "Devenez/Soyez"
+          },
+          {
+            "greek": "οἰκτίρμονες",
+            "gloss": "miséricordieux/compatissants",
+            "annotation": {
+              "type": "theologie",
+              "title": "Compatissants comme le Père",
+              "content": "Approfondissement spirituel : La racine évoque les entrailles maternelles, le lieu de la gestation. La miséricorde n'est pas un sentiment moralisateur descendant, mais une matrice ontologique qui engendre l'autre à la vie en absorbant sa négativité.",
+              "related": [
+                "Γίνεσθε",
+                "καθὼς"
+              ]
+            }
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "οἰκτίρμων",
+            "gloss": "miséricordieux"
+          },
+          {
+            "greek": "ἐστίν.",
+            "gloss": "est"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 34 - ἀπολάβωσιν : Traduit par 'recevoir la pareille' ou 'recevoir en retour'. L'adjonction du préfixe *apo-* par Luc montre que le pécheur ne fait pas que prendre (*lambano*), il exige la fermeture du circuit fermé (*apo-*). C'est la description clinique de la logique comptable du Monde duel.\n• Verset 35 - ἀπελπίζοντες : Segond traduit 'sans rien espérer'. La structure linguistique avec le préfixe *apo-* (renoncement/coupure) indique un acte volontaire de déconnexion de l'attente. Ce n'est pas un désespoir passif, mais une kénose de l'espérance de gain qui libère l'action de toute visée égotique.\n\nAnalyse spirituelle :\nCe texte constitue le cœur de la subversion évangélique de la conscience humaine. Le Christ y démonte pièce par pièce la logique de la réciprocité, qui est la loi fondamentale de l'Ego et du 'Monde duel'.\n\nAmer ceux qui nous aiment, prêter à ceux qui remboursent, faire du bien à nos alliés : l'être humain croit souvent que cela constitue la vertu. Le Christ balaie cette illusion en déclarant que même les pécheurs opèrent ainsi. Ce troc relationnel n'est qu'un égoïsme élargi, un circuit fermé où l'Ego cherche sa propre sécurité en tendant un miroir. Il n'y a là aucune Grâce (*charis*), aucune percée de l'Incréé.\n\nLa rupture verticale s'opère au verset 35 : 'Aimez vos ennemis'. L'ennemi est précisément celui qui ne renvoie pas l'ascenseur, celui qui rompt le miroir. Aimer l'ennemi et prêter sans attente de retour (*apelpi-zontes*), c'est saborder le circuit horizontal. Le Sujet accepte de jeter son énergie dans le vide apparent. C'est par cette kénose du retour que l'homme s'arrache à la dualité pour s'aligner sur le Très-Haut (*Hypsistos*). On devient 'Fils' non pas en obéissant à un code moral, mais en devenant, comme le Père, une source de pure effusion qui rayonne sans distinction sur les ingrats et les méchants."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 34 - ἀπολάβωσιν : Traduit par 'recevoir la pareille' ou 'recevoir en retour'. L'adjonction du préfixe *apo-* par Luc montre que le pécheur ne fait pas que prendre (*lambano*), il exige la fermeture du circuit fermé (*apo-*). C'est la description clinique de la logique comptable du Monde duel.\n• Verset 35 - ἀπελπίζοντες : Segond traduit 'sans rien espérer'. La structure linguistique avec le préfixe *apo-* (renoncement/coupure) indique un acte volontaire de déconnexion de l'attente. Ce n'est pas un désespoir passif, mais une kénose de l'espérance de gain qui libère l'action de toute visée égotique.\n\nAnalyse spirituelle :\nCe texte constitue le cœur de la subversion évangélique de la conscience humaine. Le Christ y démonte pièce par pièce la logique de la réciprocité, qui est la loi fondamentale de l'Ego et du 'Monde duel'.\n\nAmer ceux qui nous aiment, prêter à ceux qui remboursent, faire du bien à nos alliés : l'être humain croit souvent que cela constitue la vertu. Le Christ balaie cette illusion en déclarant que même les pécheurs opèrent ainsi. Ce troc relationnel n'est qu'un égoïsme élargi, un circuit fermé où l'Ego cherche sa propre sécurité en tendant un miroir. Il n'y a là aucune Grâce (*charis*), aucune percée de l'Incréé.\n\nLa rupture verticale s'opère au verset 35 : 'Aimez vos ennemis'. L'ennemi est précisément celui qui ne renvoie pas l'ascenseur, celui qui rompt le miroir. Aimer l'ennemi et prêter sans attente de retour (*apelpi-zontes*), c'est saborder le circuit horizontal. Le Sujet accepte de jeter son énergie dans le vide apparent. C'est par cette kénose du retour que l'homme s'arrache à la dualité pour s'aligner sur le Très-Haut (*Hypsistos*). On devient 'Fils' non pas en obéissant à un code moral, mais en devenant, comme le Père, une source de pure effusion qui rayonne sans distinction sur les ingrats et les méchants.\n\nComplément de lecture : Jésus part de la réciprocité ordinaire pour ouvrir une ressemblance avec le Très-Haut. Aimer, faire du bien et prêter sans calcul ne cherchent pas à rendre l’autre méritant ; ces actes libèrent le disciple du circuit de la contrepartie et rendent visible la bonté du Père envers les ingrats et les méchants.",
+    "homiletic_axes": [
+      {
+        "title": "Au-delà de la réciprocité",
+        "content": "Jésus montre que l’amour limité à ceux qui nous aiment reste enfermé dans l’échange. Le disciple est appelé à agir sans exiger la pareille.",
+        "keywords": [
+          "ἀγαπᾶτε",
+          "ἀγαπῶντας",
+          "χάρις",
+          "ἐστίν;"
+        ]
+      },
+      {
+        "title": "Aimer, faire du bien et prêter",
+        "content": "Trois verbes rendent l’amour concret. Ils n’ordonnent pas de rester sous une violence, mais refusent que la bonté dépende du mérite de l’autre.",
+        "keywords": [
+          "ἀγαπᾶτε",
+          "ἀγαθοποιεῖτε",
+        "δανίζετε",
+          "ἀπελπίζοντες·"
+        ]
+      },
+      {
+        "title": "Devenir compatissants comme le Père",
+        "content": "Le sommet n’est pas une performance morale isolée : il s’agit de recevoir et refléter la bonté du Très-Haut.",
+        "keywords": [
+          "υἱοὶ",
+          "Ὑψίστου,",
+          "χρηστός",
+          "οἰκτίρμονες"
+        ]
+      },
+      {
+        "title": "La grâce suffit dans la faiblesse",
+        "content": "Paul ne reçoit pas la suppression demandée, mais une parole de présence : la grâce suffit et la puissance s’accomplit dans la faiblesse.",
+        "keywords": [
+          "ἀρκεῖ",
+          "χάρις",
+          "δύναμις",
+          "ἀσθενείᾳ"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche de l’Amour des ennemis : une parole, un geste, une opposition, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : attente d’un retour, deuil, stérilité, dispersion intérieure, indifférence, faiblesse ou désir de porter du fruit."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : aimer sans calcul, compatir, écouter, retenir la parole, servir, franchir une distance ou recevoir la grâce dans une faiblesse."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes souffrantes."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La bonté sans retour et la grâce suffisante",
+        "reference": "Luc 6, 31-36 ; 2 Corinthiens 11, 31 – 12, 9",
+        "content": "L’Évangile libère l’amour du calcul de la réciprocité ; l’Apôtre reçoit une grâce qui ne dépend pas de la disparition de toute faiblesse. Dans les deux lectures, le don de Dieu précède et rend possible une manière nouvelle d’agir.",
+        "connections": []
+      }
+    ]
   },
   "apostle": {
     "reference": "2 Corinthiens 11, 31 - 12, 9",
@@ -175,23 +637,74 @@
           "darby": "Le Dieu et Père du Seigneur Jésus, qui est béni éternellement, sait que je ne mens pas."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πατὴρ", "gloss": "Père" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "κυρίου", "gloss": "Seigneur" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "οἶδεν,", "gloss": "sait" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "ὢν", "gloss": "étant" },
-          { "greek": "εὐλογητὸς", "gloss": "béni" },
-          { "greek": "εἰς", "gloss": "dans/pour" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "αἰῶνας,", "gloss": "siècles/éternité" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "ψεύδομαι.", "gloss": "je_mens" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "οἶδεν,",
+            "gloss": "sait"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ὢν",
+            "gloss": "étant"
+          },
+          {
+            "greek": "εὐλογητὸς",
+            "gloss": "béni"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans/pour"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "αἰῶνας,",
+            "gloss": "siècles/éternité"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ψεύδομαι.",
+            "gloss": "je_mens"
+          }
         ]
       },
       {
@@ -201,19 +714,58 @@
           "darby": "À Damas, l'ethnarque du roi Arétas faisait garder la ville des Damascéniens, voulant me prendre ;"
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "À/dans" },
-          { "greek": "Δαμασκῷ", "gloss": "Damas" },
-          { "greek": "ὁ", "gloss": "l'" },
-          { "greek": "ἐθνάρχης", "gloss": "ethnarque" },
-          { "greek": "Ἁρέτα", "gloss": "d'Arétas" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "βασιλέως", "gloss": "roi" },
-          { "greek": "ἐφρούρει", "gloss": "faisait_garder/assiégeait" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "πόλιν", "gloss": "ville" },
-          { "greek": "Δαμασκηνῶν", "gloss": "des_Damascéniens" },
-          { "greek": "πιάσαι", "gloss": "pour_saisir/arrêter" },
-          { "greek": "με,", "gloss": "moi" }
+          {
+            "greek": "ἐν",
+            "gloss": "À/dans"
+          },
+          {
+            "greek": "Δαμασκῷ",
+            "gloss": "Damas"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἐθνάρχης",
+            "gloss": "ethnarque"
+          },
+          {
+            "greek": "Ἁρέτα",
+            "gloss": "d'Arétas"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλέως",
+            "gloss": "roi"
+          },
+          {
+            "greek": "ἐφρούρει",
+            "gloss": "faisait_garder/assiégeait"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πόλιν",
+            "gloss": "ville"
+          },
+          {
+            "greek": "Δαμασκηνῶν",
+            "gloss": "des_Damascéniens"
+          },
+          {
+            "greek": "πιάσαι",
+            "gloss": "pour_saisir/arrêter"
+          },
+          {
+            "greek": "με,",
+            "gloss": "moi"
+          }
         ]
       },
       {
@@ -223,20 +775,80 @@
           "darby": "et je fus dévalé par une fenêtre, dans une corbeille, le long de la muraille, et j'échappai à ses mains."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "θυρίδος", "gloss": "une_fenêtre" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "σαργάνῃ", "gloss": "une_corbeille" },
-          { "greek": "ἐχαλάσθην", "gloss": "je_fus_descendu/lâché", "analyse": "Du verbe *chalao* (laisser descendre, détendre). C'est exactement le même terme qui décrivait la cinématique du lâcher-prise des filets lors de la pêche miraculeuse (Luc 5). Ici, Paul subit une trajectoire descendante humiliante imposée par l'histoire : pour échapper aux structures de pouvoir du monde, l'Apôtre doit consentir à descendre physiquement et socialement." },
-          { "greek": "διὰ", "gloss": "le_long_de" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "τείχους", "gloss": "muraille" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐξέφυγον", "gloss": "j'échappai", "analyse": "Composé de *ex-* (hors de) et *pheugo* (fuir). Un mouvement d'extraction hors de la zone de capture et d'objectivation du Monde duel." },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "χεῖρας", "gloss": "mains" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "θυρίδος",
+            "gloss": "une_fenêtre"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "σαργάνῃ",
+            "gloss": "une_corbeille"
+          },
+          {
+            "greek": "ἐχαλάσθην",
+            "gloss": "je_fus_descendu/lâché",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Du verbe *chalao* (laisser descendre, détendre). C'est exactement le même terme qui décrivait la cinématique du lâcher-prise des filets lors de la pêche miraculeuse (Luc 5). Ici, Paul subit une trajectoire descendante humiliante imposée par l'histoire : pour échapper aux structures de pouvoir du monde, l'Apôtre doit consentir à descendre physiquement et socialement.",
+              "related": [
+                "σαργάνῃ",
+                "διὰ"
+              ]
+            }
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "le_long_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "τείχους",
+            "gloss": "muraille"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐξέφυγον",
+            "gloss": "j'échappai",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *ex-* (hors de) et *pheugo* (fuir). Un mouvement d'extraction hors de la zone de capture et d'objectivation du Monde duel.",
+              "related": [
+                "καὶ",
+                "τὰς"
+              ]
+            }
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "χεῖρας",
+            "gloss": "mains"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -246,18 +858,63 @@
           "darby": "Il ne m'est pas avantageux de me glorifier, car j'en viendrai à des visions et à des révélations du Seigneur."
         },
         "interlinear": [
-          { "greek": "Καυχᾶσθαι", "gloss": "Se_glorifier" },
-          { "greek": "δεῖ,", "gloss": "il_faut" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "συμφέρον", "gloss": "utile/profitable" },
-          { "greek": "μέν,", "gloss": "certes" },
-          { "greek": "ἐλεύσομαι", "gloss": "je_viendrai" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "εἰς", "gloss": "à/vers" },
-          { "greek": "ὀπτασίας", "gloss": "des_visions" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀποκαλύψεις", "gloss": "révélations", "analyse": "Composé de *apo-* (ôter, séparer) et *kalypto* (couvrir, cacher). La révélation spirituelle n'est pas l'ajout d'un savoir extérieur, c'est le retrait d'un voile. L'Incréé se manifeste quand les projections de l'Ego sont ôtées (*apo-*)." },
-          { "greek": "κυρίου.", "gloss": "du_Seigneur" }
+          {
+            "greek": "Καυχᾶσθαι",
+            "gloss": "Se_glorifier"
+          },
+          {
+            "greek": "δεῖ,",
+            "gloss": "il_faut"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "συμφέρον",
+            "gloss": "utile/profitable"
+          },
+          {
+            "greek": "μέν,",
+            "gloss": "certes"
+          },
+          {
+            "greek": "ἐλεύσομαι",
+            "gloss": "je_viendrai"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à/vers"
+          },
+          {
+            "greek": "ὀπτασίας",
+            "gloss": "des_visions"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποκαλύψεις",
+            "gloss": "révélations",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *apo-* (ôter, séparer) et *kalypto* (couvrir, cacher). La révélation spirituelle n'est pas l'ajout d'un savoir extérieur, c'est le retrait d'un voile. L'Incréé se manifeste quand les projections de l'Ego sont ôtées (*apo-*).",
+              "related": [
+                "καὶ",
+                "κυρίου."
+              ]
+            }
+          },
+          {
+            "greek": "κυρίου.",
+            "gloss": "du_Seigneur"
+          }
         ]
       },
       {
@@ -267,33 +924,123 @@
           "darby": "Je connais un homme en Christ, qui, il y a quatorze ans (si ce fut dans le corps, je ne sais ; si ce fut hors du corps, je ne sais : Dieu le sait), fut ravi jusqu'au troisième ciel."
         },
         "interlinear": [
-          { "greek": "οἶδα", "gloss": "Je_connais" },
-          { "greek": "ἄνθρωπον", "gloss": "un_homme" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "Χριστῷ", "gloss": "Christ" },
-          { "greek": "πρὸ", "gloss": "il_y_a" },
-          { "greek": "ἐτῶν", "gloss": "ans" },
-          { "greek": "δεκατεσσάρων", "gloss": "quatorze" },
-          { "greek": "εἴτε", "gloss": "soit" },
-          { "greek": "ἐν", "gloss": "dans_le" },
-          { "greek": "σώματι", "gloss": "corps" },
-          { "greek": "οὐκ", "gloss": "je_ne...pas" },
-          { "greek": "οἶδα,", "gloss": "sais" },
-          { "greek": "εἴτε", "gloss": "soit" },
-          { "greek": "ἐκτὸς", "gloss": "hors_de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "σώματος", "gloss": "corps" },
-          { "greek": "οὐκ", "gloss": "je_ne...pas" },
-          { "greek": "οἶδα,", "gloss": "sais" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "οἶδεν—", "gloss": "sait" },
-          { "greek": "ἁρπαγέντα", "gloss": "ayant_été_ravi/arraché", "analyse": "Du verbe *harpazo* (arracher avec force, ravir). Indique une dynamique d'élévation verticale irrésistible. Le Sujet ne grimpe pas au Ciel par ses propres efforts intellectuels (volonté de l'Ego), il est ravi, c'est-à-dire arraché à la pesanteur du Monde duel par une traction souveraine de l'Incréé." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "τοιοῦτον", "gloss": "un_tel_homme" },
-          { "greek": "ἕως", "gloss": "jusqu'au" },
-          { "greek": "τρίτου", "gloss": "troisième" },
-          { "greek": "οὐρανοῦ.", "gloss": "ciel" }
+          {
+            "greek": "οἶδα",
+            "gloss": "Je_connais"
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "Χριστῷ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "πρὸ",
+            "gloss": "il_y_a"
+          },
+          {
+            "greek": "ἐτῶν",
+            "gloss": "ans"
+          },
+          {
+            "greek": "δεκατεσσάρων",
+            "gloss": "quatorze"
+          },
+          {
+            "greek": "εἴτε",
+            "gloss": "soit"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans_le"
+          },
+          {
+            "greek": "σώματι",
+            "gloss": "corps"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "je_ne...pas"
+          },
+          {
+            "greek": "οἶδα,",
+            "gloss": "sais"
+          },
+          {
+            "greek": "εἴτε",
+            "gloss": "soit"
+          },
+          {
+            "greek": "ἐκτὸς",
+            "gloss": "hors_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σώματος",
+            "gloss": "corps"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "je_ne...pas"
+          },
+          {
+            "greek": "οἶδα,",
+            "gloss": "sais"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "οἶδεν—",
+            "gloss": "sait"
+          },
+          {
+            "greek": "ἁρπαγέντα",
+            "gloss": "ayant_été_ravi/arraché",
+            "annotation": {
+              "type": "analyse",
+              "title": "Enlevé jusqu’au troisième ciel",
+              "content": "Approfondissement spirituel : Du verbe *harpazo* (arracher avec force, ravir). Indique une dynamique d'élévation verticale irrésistible. Le Sujet ne grimpe pas au Ciel par ses propres efforts intellectuels (volonté de l'Ego), il est ravi, c'est-à-dire arraché à la pesanteur du Monde duel par une traction souveraine de l'Incréé.",
+              "related": [
+                "οἶδεν—",
+                "τὸν"
+              ]
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "τοιοῦτον",
+            "gloss": "un_tel_homme"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'au"
+          },
+          {
+            "greek": "τρίτου",
+            "gloss": "troisième"
+          },
+          {
+            "greek": "οὐρανοῦ.",
+            "gloss": "ciel"
+          }
         ]
       },
       {
@@ -303,23 +1050,74 @@
           "darby": "Et je connais un tel homme (si ce fut dans le corps, si ce fut hors du corps, je ne sais : Dieu le sait),"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "οἶδα", "gloss": "je_sais" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "τοιοῦτον", "gloss": "tel" },
-          { "greek": "ἄνθρωπον—", "gloss": "homme" },
-          { "greek": "εἴτε", "gloss": "soit" },
-          { "greek": "ἐν", "gloss": "dans_le" },
-          { "greek": "σώματι", "gloss": "corps" },
-          { "greek": "εἴτε", "gloss": "soit" },
-          { "greek": "χωρὶς", "gloss": "séparé_de/sans" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "σώματος", "gloss": "corps" },
-          { "greek": "οὐκ", "gloss": "je_ne...pas" },
-          { "greek": "οἶδα,", "gloss": "sais" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "οἶδεν—", "gloss": "sait" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "οἶδα",
+            "gloss": "je_sais"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "τοιοῦτον",
+            "gloss": "tel"
+          },
+          {
+            "greek": "ἄνθρωπον—",
+            "gloss": "homme"
+          },
+          {
+            "greek": "εἴτε",
+            "gloss": "soit"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans_le"
+          },
+          {
+            "greek": "σώματι",
+            "gloss": "corps"
+          },
+          {
+            "greek": "εἴτε",
+            "gloss": "soit"
+          },
+          {
+            "greek": "χωρὶς",
+            "gloss": "séparé_de/sans"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σώματος",
+            "gloss": "corps"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "je_ne...pas"
+          },
+          {
+            "greek": "οἶδα,",
+            "gloss": "sais"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "οἶδεν—",
+            "gloss": "sait"
+          }
         ]
       },
       {
@@ -329,77 +1127,253 @@
           "darby": "qu'il fut ravi dans le paradis, et qu'il entendit des paroles ineffables qu'il n'est pas permis à un homme d'exprimer."
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "ἡρπάγη", "gloss": "il_fut_ravi/arraché" },
-          { "greek": "εἰς", "gloss": "dans/vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "παράδεισον", "gloss": "paradis" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἤκουσεν", "gloss": "il_entendit" },
-          { "greek": "ἄρρητα", "gloss": "d'ineffables/indiciables", "analyse": "Le préfixe privatif *a-* + *hretos* (exprimable/qui peut être dit). L'expérience du Royaume UN échappe totalement au langage fractionné du Monde duel. Dès que l'intellect essaie de l'enfermer dans des concepts humains pour l'objectiver, on trahit la révélation." },
-          { "greek": "ῥήματα,", "gloss": "paroles/mots" },
-          { "greek": "ἃ", "gloss": "lesquels" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἐξὸν", "gloss": "il_est_permis/possible" },
-          { "greek": "ἀνθρώπῳ", "gloss": "à_un_homme" },
-          { "greek": "λαλῆσαι.", "gloss": "de_dire" }
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ἡρπάγη",
+            "gloss": "il_fut_ravi/arraché"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans/vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "παράδεισον",
+            "gloss": "paradis"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἤκουσεν",
+            "gloss": "il_entendit"
+          },
+          {
+            "greek": "ἄρρητα",
+            "gloss": "d'ineffables/indiciables",
+            "annotation": {
+              "type": "traduction",
+              "title": "Des paroles indicibles",
+              "content": "Approfondissement spirituel : Le préfixe privatif *a-* + *hretos* (exprimable/qui peut être dit). L'expérience du Royaume UN échappe totalement au langage fractionné du Monde duel. Dès que l'intellect essaie de l'enfermer dans des concepts humains pour l'objectiver, on trahit la révélation.",
+              "related": [
+                "ἤκουσεν",
+                "ῥήματα,"
+              ]
+            }
+          },
+          {
+            "greek": "ῥήματα,",
+            "gloss": "paroles/mots"
+          },
+          {
+            "greek": "ἃ",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐξὸν",
+            "gloss": "il_est_permis/possible"
+          },
+          {
+            "greek": "ἀνθρώπῳ",
+            "gloss": "à_un_homme"
+          },
+          {
+            "greek": "λαλῆσαι.",
+            "gloss": "de_dire"
+          }
         ]
       },
-{
+      {
         "verse_number": 5,
         "translations": {
           "segond": "Je me glorifierai d'un tel homme, mais de moi-même je ne me glorifierai pas, sinon de mes faiblesses.",
           "darby": "Pour un tel homme je me glorifierai ; mais pour moi-même je ne me glorifierai pas, sinon dans mes infirmités."
         },
         "interlinear": [
-          { "greek": "ὑπὲρ", "gloss": "pour/au_sujet_de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "τοιούτου", "gloss": "tel_homme" },
-          { "greek": "καυχήσομαι,", "gloss": "je_me_glorifierai" },
-          { "greek": "ὑπὲρ", "gloss": "pour/au_sujet_de" },
-          { "greek": "δὲ", "gloss": "mais" },
-          { "greek": "ἐμαυτοῦ", "gloss": "moi-même" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "καυχήσομαι", "gloss": "je_me_glorifierai" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "μὴ", "gloss": "non/sinon" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "ἀσθενείαις.", "gloss": "faiblesses/infirmités", "analyse": "Construit avec le alpha privatif (*a-*) et *sthenos* (la force). L'astheneia n'est pas simplement une maladie physiologique, c'est l'état d'être fondamentalement vidé de sa capacité propre, sans-force. La privation de force de l'Ego devient l'espace creux indispensable pour accueillir l'Incréé. Le vide de soi appelle le plein divin." }
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour/au_sujet_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τοιούτου",
+            "gloss": "tel_homme"
+          },
+          {
+            "greek": "καυχήσομαι,",
+            "gloss": "je_me_glorifierai"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour/au_sujet_de"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἐμαυτοῦ",
+            "gloss": "moi-même"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "καυχήσομαι",
+            "gloss": "je_me_glorifierai"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non/sinon"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀσθενείαις.",
+            "gloss": "faiblesses/infirmités",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Construit avec le alpha privatif (*a-*) et *sthenos* (la force). L'astheneia n'est pas simplement une maladie physiologique, c'est l'état d'être fondamentalement vidé de sa capacité propre, sans-force. La privation de force de l'Ego devient l'espace creux indispensable pour accueillir l'Incréé. Le vide de soi appelle le plein divin.",
+              "related": [
+                "ταῖς"
+              ]
+            }
+          }
         ]
       },
-     {
+      {
         "verse_number": 6,
         "translations": {
           "segond": "",
           "darby": ""
         },
         "interlinear": [
-          { "greek": "ἐὰν", "gloss": "si" },
-          { "greek": "γὰρ", "gloss": "car/en_effet" },
-          { "greek": "θελήσω", "gloss": "je_veux" },
-          { "greek": "καυχήσασθαι,", "gloss": "me_glorifier" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἔσομαι", "gloss": "je_serai" },
-          { "greek": "ἄφρων,", "gloss": "insensé/déraisonnable" },
-          { "greek": "ἀλήθειαν", "gloss": "la_vérité" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἐρῶ·", "gloss": "je_dirai" },
-          { "greek": "φείδομαι", "gloss": "je_m'abstiens" },
-          { "greek": "δέ,", "gloss": "mais" },
-          { "greek": "μή", "gloss": "de_peur_que" },
-          { "greek": "τις", "gloss": "quelqu'un" },
-          { "greek": "εἰς", "gloss": "envers" },
-          { "greek": "ἐμὲ", "gloss": "moi" },
-          { "greek": "λογίσηται", "gloss": "n'estime" },
-          { "greek": "ὑπὲρ", "gloss": "au_delà_de" },
-          { "greek": "ὃ", "gloss": "ce_que" },
-          { "greek": "βλέπει", "gloss": "il_voit" },
-          { "greek": "με", "gloss": "de_moi" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "ἀκούει", "gloss": "il_entend" },
-          { "greek": "ἐξ", "gloss": "de_la_part_de" },
-          { "greek": "ἐμοῦ.", "gloss": "moi" }
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car/en_effet"
+          },
+          {
+            "greek": "θελήσω",
+            "gloss": "je_veux"
+          },
+          {
+            "greek": "καυχήσασθαι,",
+            "gloss": "me_glorifier"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἔσομαι",
+            "gloss": "je_serai"
+          },
+          {
+            "greek": "ἄφρων,",
+            "gloss": "insensé/déraisonnable"
+          },
+          {
+            "greek": "ἀλήθειαν",
+            "gloss": "la_vérité"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐρῶ·",
+            "gloss": "je_dirai"
+          },
+          {
+            "greek": "φείδομαι",
+            "gloss": "je_m'abstiens"
+          },
+          {
+            "greek": "δέ,",
+            "gloss": "mais"
+          },
+          {
+            "greek": "μή",
+            "gloss": "de_peur_que"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "envers"
+          },
+          {
+            "greek": "ἐμὲ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "λογίσηται",
+            "gloss": "n'estime"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "au_delà_de"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "βλέπει",
+            "gloss": "il_voit"
+          },
+          {
+            "greek": "με",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἀκούει",
+            "gloss": "il_entend"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "de_la_part_de"
+          },
+          {
+            "greek": "ἐμοῦ.",
+            "gloss": "moi"
+          }
         ]
       },
       {
@@ -409,28 +1383,103 @@
           "darby": ""
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "τῇ", "gloss": "par_la" },
-          { "greek": "ὑπερβολῇ", "gloss": "surabondance/l'excellence" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἀποκαλύψεων.", "gloss": "révélations" },
-          { "greek": "διὸ", "gloss": "c'est_pourquoi" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne_pas" },
-          { "greek": "ὑπεραίρωμαι,", "gloss": "je_m'élève_trop" },
-          { "greek": "ἐδόθη", "gloss": "il_a_été_donné" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "σκόλοψ", "gloss": "écharde/pieu", "analyse": "Le terme *skolops* désigne à l'origine tout objet pointu, un pal ou une épine acérée. Ce terme brutal, évoquant une douleur aiguë, sert d'ancrage charnel. Il agit comme un contrepoids à l'élévation (la montée) des révélations, ramenant violemment l'apôtre à la matière pour contrer la tentation d'orgueil." },
-          { "greek": "τῇ", "gloss": "dans_la" },
-          { "greek": "σαρκί,", "gloss": "chair" },
-          { "greek": "ἄγγελος", "gloss": "un_ange/messager" },
-          { "greek": "Σατανᾶ,", "gloss": "de_Satan" },
-          { "greek": "ἵνα", "gloss": "afin_qu'" },
-          { "greek": "με", "gloss": "me" },
-          { "greek": "κολαφίζῃ,", "gloss": "il_frappe/soufflette" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne_pas" },
-          { "greek": "ὑπεραίρωμαι.", "gloss": "je_m'élève_trop" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "ὑπερβολῇ",
+            "gloss": "surabondance/l'excellence"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀποκαλύψεων.",
+            "gloss": "révélations"
+          },
+          {
+            "greek": "διὸ",
+            "gloss": "c'est_pourquoi"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "ὑπεραίρωμαι,",
+            "gloss": "je_m'élève_trop"
+          },
+          {
+            "greek": "ἐδόθη",
+            "gloss": "il_a_été_donné"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "σκόλοψ",
+            "gloss": "écharde/pieu",
+            "annotation": {
+              "type": "traduction",
+              "title": "Une écharde dans la chair",
+              "content": "Approfondissement spirituel : Le terme *skolops* désigne à l'origine tout objet pointu, un pal ou une épine acérée. Ce terme brutal, évoquant une douleur aiguë, sert d'ancrage charnel. Il agit comme un contrepoids à l'élévation (la montée) des révélations, ramenant violemment l'apôtre à la matière pour contrer la tentation d'orgueil.",
+              "related": [
+                "μοι",
+                "τῇ"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "dans_la"
+          },
+          {
+            "greek": "σαρκί,",
+            "gloss": "chair"
+          },
+          {
+            "greek": "ἄγγελος",
+            "gloss": "un_ange/messager"
+          },
+          {
+            "greek": "Σατανᾶ,",
+            "gloss": "de_Satan"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_qu'"
+          },
+          {
+            "greek": "με",
+            "gloss": "me"
+          },
+          {
+            "greek": "κολαφίζῃ,",
+            "gloss": "il_frappe/soufflette"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "ὑπεραίρωμαι.",
+            "gloss": "je_m'élève_trop"
+          }
         ]
       },
       {
@@ -440,16 +1489,46 @@
           "darby": ""
         },
         "interlinear": [
-          { "greek": "ὑπὲρ", "gloss": "au_sujet_de" },
-          { "greek": "τούτου", "gloss": "cela" },
-          { "greek": "τρὶς", "gloss": "trois_fois" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κύριον", "gloss": "Seigneur" },
-          { "greek": "παρεκάλεσα", "gloss": "j'ai_supplié" },
-          { "greek": "ἵνα", "gloss": "afin_qu'" },
-          { "greek": "ἀποστῇ", "gloss": "il_s'éloigne" },
-          { "greek": "ἀπ’", "gloss": "de" },
-          { "greek": "ἐμοῦ.", "gloss": "moi" }
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "τούτου",
+            "gloss": "cela"
+          },
+          {
+            "greek": "τρὶς",
+            "gloss": "trois_fois"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριον",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "παρεκάλεσα",
+            "gloss": "j'ai_supplié"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_qu'"
+          },
+          {
+            "greek": "ἀποστῇ",
+            "gloss": "il_s'éloigne"
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "de"
+          },
+          {
+            "greek": "ἐμοῦ.",
+            "gloss": "moi"
+          }
         ]
       },
       {
@@ -459,39 +1538,196 @@
           "darby": ""
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἴρηκέν", "gloss": "il_a_dit" },
-          { "greek": "μοι·", "gloss": "à_moi" },
-          { "greek": "ἀρκεῖ", "gloss": "suffit" },
-          { "greek": "σοι", "gloss": "à_toi" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "χάρις", "gloss": "grâce" },
-          { "greek": "μου·", "gloss": "de_moi" },
-          { "greek": "ἡ", "gloss": "car_la" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "δύναμις", "gloss": "puissance", "analyse": "La *dynamis* est la puissance en acte, la force en mouvement (qui a donné le mot dynamique). Cette force incréée ne vient pas simplement suppléer ou compenser la faiblesse humaine de l'extérieur." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ἀσθενείᾳ", "gloss": "la_faiblesse" },
-          { "greek": "τελεῖται.", "gloss": "s'accomplit/atteint_son_but", "analyse": "Le verbe *teleioō* vient de *telos* (le but, l'accomplissement). La force divine s'accomplit dans le creux de la faiblesse (*astheneia*). La vulnérabilité totale est le seul réceptacle où la force de Dieu trouve son achèvement." },
-          { "greek": "ἥδιστα", "gloss": "Très_volontiers" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "μᾶλλον", "gloss": "plutôt" },
-          { "greek": "καυχήσομαι", "gloss": "je_me_glorifierai" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "ἀσθενείαις", "gloss": "faiblesses" },
-          { "greek": "μου,", "gloss": "de_moi" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἐπισκηνώσῃ", "gloss": "repose/dresse_sa_tente", "analyse": "Composé de *epi* (sur) et *skēnē* (la tente). Littéralement : 'dresser sa tente sur'. Ce verbe renvoie à la Tente de la Rencontre au désert et à l'Incarnation. La faiblesse kénosée de Paul devient le nouveau tabernacle où le Christ vient habiter." },
-          { "greek": "ἐπ’", "gloss": "sur" },
-          { "greek": "ἐμὲ", "gloss": "moi" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "δύναμις", "gloss": "puissance" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "Χριστοῦ.", "gloss": "Christ" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἴρηκέν",
+            "gloss": "il_a_dit"
+          },
+          {
+            "greek": "μοι·",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ἀρκεῖ",
+            "gloss": "suffit"
+          },
+          {
+            "greek": "σοι",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "μου·",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "car_la"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "δύναμις",
+            "gloss": "puissance",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La *dynamis* est la puissance en acte, la force en mouvement (qui a donné le mot dynamique). Cette force incréée ne vient pas simplement suppléer ou compenser la faiblesse humaine de l'extérieur.",
+              "related": [
+                "γὰρ",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἀσθενείᾳ",
+            "gloss": "la_faiblesse"
+          },
+          {
+            "greek": "τελεῖται.",
+            "gloss": "s'accomplit/atteint_son_but",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe *teleioō* vient de *telos* (le but, l'accomplissement). La force divine s'accomplit dans le creux de la faiblesse (*astheneia*). La vulnérabilité totale est le seul réceptacle où la force de Dieu trouve son achèvement.",
+              "related": [
+                "ἀσθενείᾳ",
+                "ἥδιστα"
+              ]
+            }
+          },
+          {
+            "greek": "ἥδιστα",
+            "gloss": "Très_volontiers"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plutôt"
+          },
+          {
+            "greek": "καυχήσομαι",
+            "gloss": "je_me_glorifierai"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀσθενείαις",
+            "gloss": "faiblesses"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἐπισκηνώσῃ",
+            "gloss": "repose/dresse_sa_tente",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Composé de *epi* (sur) et *skēnē* (la tente). Littéralement : 'dresser sa tente sur'. Ce verbe renvoie à la Tente de la Rencontre au désert et à l'Incarnation. La faiblesse kénosée de Paul devient le nouveau tabernacle où le Christ vient habiter.",
+              "related": [
+                "ἵνα",
+                "ἐπ’"
+              ]
+            }
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ἐμὲ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δύναμις",
+            "gloss": "puissance"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "Christ"
+          }
         ]
       }
     ],
-   "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 7 - σκόλοψ τῇ σαρκί (skolops tē sarki) : Traduit par 'une écharde dans la chair' (Segond). Le mot *skolops* désigne à l'origine un pieu aiguisé, un pal, ou une grosse épine pointue. Ce n'est pas une simple petite gêne passagère, c'est une blessure perçante, un ancrage charnel radical et douloureux. Dieu permet ce 'pieu' pour percer la baudruche de l'Ego spirituel, empêchant l'intellect de s'enfler d'orgueil (l'inflation propre au 'Monde duel') après l'expérience indicible du troisième ciel.\n\n• Verset 9 - ἐν ἀσθενείᾳ τελεῖται (en astheneia teleitai) : 'S'accomplit dans la faiblesse'. L'étymologie d'*astheneia* (le *a-* privatif associé à *sthenos*, la force propre ou musculaire) désigne l'absence totale de puissance autonome. Ce n'est pas un défaut moral qu'il faudrait cacher. Dans l'anthropologie philocalique, c'est l'état kénotique par excellence : le moment où l'homme est totalement évidé de sa complaisance mondaine pour devenir un 'creux' parfaitement réceptif à la Grâce.\n\n• Verset 9 - ἵνα ἐπισκηνώσῃ ἐπ' ἐμὲ (hina episkēnōsē ep' eme) : Segond traduit un peu platement par 'afin que la puissance de Christ repose sur moi'. Le verbe *episkēnoō* est d'une richesse liturgique absolue : il vient de *skēnē*, la tente, le tabernacle. C'est la même racine utilisée dans le prologue de Jean ('Le Verbe s'est fait chair et a dressé sa tente parmi nous'). Paul ne dit pas que Dieu le 'soutient' de l'extérieur ; il affirme que sa propre faiblesse devient littéralement le sanctuaire, la tente de la Rencontre où l'Énergie incréée vient établir sa demeure.\n\nAnalyse spirituelle :\n\nCe texte illustre la tension fondamentale entre l'élévation mystique et l'ancrage charnel. Après avoir été ravi au troisième ciel, Paul reçoit une écharde (*skolops*), un rappel brutal à la gravité du Monde duel, pour éviter que son Ego spirituel ne s'enorgueillisse de cette ascension.\n\nLe renversement opéré au verset 9 est absolu. L'homme naturel prie pour que la difficulté s'éloigne (verset 8), cherchant une force qui viendrait réparer sa faiblesse. La réponse divine subvertit cette attente : 'Ma puissance s'accomplit dans la faiblesse'. L'Ego doit accepter d'être vidé de sa propre force (*a-stheneia*) pour que ce vide devienne la matrice de l'Incréé. La vulnérabilité n'est plus un défaut à gommer, elle devient le tabernacle (*episkēnoō*) où la présence divine peut s'installer."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 7 - σκόλοψ τῇ σαρκί (skolops tē sarki) : Traduit par 'une écharde dans la chair' (Segond). Le mot *skolops* désigne à l'origine un pieu aiguisé, un pal, ou une grosse épine pointue. Ce n'est pas une simple petite gêne passagère, c'est une blessure perçante, un ancrage charnel radical et douloureux. Dieu permet ce 'pieu' pour percer la baudruche de l'Ego spirituel, empêchant l'intellect de s'enfler d'orgueil (l'inflation propre au 'Monde duel') après l'expérience indicible du troisième ciel.\n\n• Verset 9 - ἐν ἀσθενείᾳ τελεῖται (en astheneia teleitai) : 'S'accomplit dans la faiblesse'. L'étymologie d'*astheneia* (le *a-* privatif associé à *sthenos*, la force propre ou musculaire) désigne l'absence totale de puissance autonome. Ce n'est pas un défaut moral qu'il faudrait cacher. Dans l'anthropologie philocalique, c'est l'état kénotique par excellence : le moment où l'homme est totalement évidé de sa complaisance mondaine pour devenir un 'creux' parfaitement réceptif à la Grâce.\n\n• Verset 9 - ἵνα ἐπισκηνώσῃ ἐπ' ἐμὲ (hina episkēnōsē ep' eme) : Segond traduit un peu platement par 'afin que la puissance de Christ repose sur moi'. Le verbe *episkēnoō* est d'une richesse liturgique absolue : il vient de *skēnē*, la tente, le tabernacle. C'est la même racine utilisée dans le prologue de Jean ('Le Verbe s'est fait chair et a dressé sa tente parmi nous'). Paul ne dit pas que Dieu le 'soutient' de l'extérieur ; il affirme que sa propre faiblesse devient littéralement le sanctuaire, la tente de la Rencontre où l'Énergie incréée vient établir sa demeure.\n\nAnalyse spirituelle :\n\nCe texte illustre la tension fondamentale entre l'élévation mystique et l'ancrage charnel. Après avoir été ravi au troisième ciel, Paul reçoit une écharde (*skolops*), un rappel brutal à la gravité du Monde duel, pour éviter que son Ego spirituel ne s'enorgueillisse de cette ascension.\n\nLe renversement opéré au verset 9 est absolu. L'homme naturel prie pour que la difficulté s'éloigne (verset 8), cherchant une force qui viendrait réparer sa faiblesse. La réponse divine subvertit cette attente : 'Ma puissance s'accomplit dans la faiblesse'. L'Ego doit accepter d'être vidé de sa propre force (*a-stheneia*) pour que ce vide devienne la matrice de l'Incréé. La vulnérabilité n'est plus un défaut à gommer, elle devient le tabernacle (*episkēnoō*) où la présence divine peut s'installer.\n\nComplément de lecture : l’Apôtre associe une expérience spirituelle très élevée à une faiblesse persistante. Paul ne transforme ni l’extase ni l’écharde en titre de supériorité : la parole décisive est « ma grâce te suffit ». La puissance du Christ ne supprime pas toujours la limite ; elle peut y dresser sa tente.",
+    "homiletic_axes": [],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche de l’Amour des ennemis : une parole, un geste, une opposition, un mot grec ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : attente d’un retour, deuil, stérilité, dispersion intérieure, indifférence, faiblesse ou désir de porter du fruit."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : aimer sans calcul, compatir, écouter, retenir la parole, servir, franchir une distance ou recevoir la grâce dans une faiblesse."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes souffrantes."
+      }
+    ],
+    "liturgical_echoes": []
   }
 }
