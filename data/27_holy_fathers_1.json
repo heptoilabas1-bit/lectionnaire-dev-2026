@@ -1,7 +1,7 @@
 {
   "gospel": {
     "reference": "Jean 17, 1-13",
-    "title": "La Prière Sacerdotale : L'engendrement par la Connaissance et l'Unité trinitaire",
+    "title": "La prière du Christ : connaître, recevoir et demeurer un",
     "interlinear": [
       {
         "verse_number": "17, 1",
@@ -10,31 +10,126 @@
           "darby": "Jésus dit ces choses, et leva ses yeux au ciel et dit : Père, l'heure est venue ; glorifie ton Fils, afin que ton Fils te glorifie,"
         },
         "interlinear": [
-          { "greek": "Ταῦτα", "gloss": "Ces_choses" },
-          { "greek": "ἐλάλησεν", "gloss": "parla" },
-          { "greek": "Ἰησοῦς,", "gloss": "Jésus" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπάρας", "gloss": "ayant_levé", "analyse": "Du verbe *epairō* (soulever, élever). Ce mouvement d'élévation des yeux marque la transition sensorielle vers l'Ascension. Le Christ détache le regard des réalités horizontales du Monde duel pour orienter l'attention profonde vers la Source céleste." },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ὀφθαλμοὺς", "gloss": "yeux" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "οὐρανὸν", "gloss": "ciel" },
-          { "greek": "εἶπεν·", "gloss": "il_dit" },
-          { "greek": "Πάτερ,", "gloss": "Père" },
-          { "greek": "ἐλήλυθεν", "gloss": "est_venue" },
-          { "greek": "ἡ", "gloss": "l'" },
-          { "greek": "ὥρα·", "gloss": "heure" },
-          { "greek": "δόξασόν", "gloss": "glorifie", "analyse": "Du verbe *doxazō*. L'étymologie de *doxa* (la gloire) plonge ses racines dans le radical *dok/dek* (accueillir, recevoir, et par extension eudokia : la soumission libre au dessein du Père). La gloire du Royaume UN n'est pas l'éclat de la puissance extérieure du monde, mais la plénitude de la kénose d'amour où le Fils s'efface totalement pour manifester le Père." },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "υἱόν,", "gloss": "Fils" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "υἱὸς", "gloss": "Fils" },
-          { "greek": "δοξάσῃ", "gloss": "glorifie" },
-          { "greek": "σέ,", "gloss": "toi" }
+          {
+            "greek": "Ταῦτα",
+            "gloss": "Ces_choses"
+          },
+          {
+            "greek": "ἐλάλησεν",
+            "gloss": "parla"
+          },
+          {
+            "greek": "Ἰησοῦς,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπάρας",
+            "gloss": "ayant_levé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Les yeux levés vers le ciel",
+              "content": "Le geste ouvre la prière : Jésus lève les yeux vers le ciel et s’adresse au Père. Il oriente la scène vers la relation filiale au moment où l’heure est venue.",
+              "related": [
+                "ὀφθαλμοὺς",
+                "οὐρανὸν",
+                "Πάτερ"
+              ]
+            }
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὀφθαλμοὺς",
+            "gloss": "yeux"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὐρανὸν",
+            "gloss": "ciel"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "Πάτερ,",
+            "gloss": "Père"
+          },
+          {
+            "greek": "ἐλήλυθεν",
+            "gloss": "est_venue"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὥρα·",
+            "gloss": "heure"
+          },
+          {
+            "greek": "δόξασόν",
+            "gloss": "glorifie",
+            "annotation": {
+              "type": "repetition",
+              "title": "Glorifier — δοξάζω",
+              "content": "Le verbe revient dans l’échange entre le Père et le Fils. Dans cette prière prononcée avant la Passion, la gloire est liée à l’accomplissement de l’œuvre confiée, non à une démonstration extérieure de puissance.",
+              "related": [
+                "δοξάσῃ",
+                "ἐδόξασα",
+                "δόξῃ"
+              ]
+            }
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱόν,",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "δοξάσῃ",
+            "gloss": "glorifie"
+          },
+          {
+            "greek": "σέ,",
+            "gloss": "toi"
+          }
         ]
       },
       {
@@ -44,21 +139,85 @@
           "darby": "selon que tu lui as donné autorité sur toute chair, afin que, pour tout ce que tu lui as donné, il leur donne la vie éternelle."
         },
         "interlinear": [
-          { "greek": "καθὼς", "gloss": "selon_que" },
-          { "greek": "ἔδωκας", "gloss": "tu_as_donné" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ἐξουσίαν", "gloss": "pouvoir/autorité", "analyse": "Étymologiquement formé de *ek* (hors de) et *ousia* (l'essence, la substance). L'*exousia* divine n'est pas une domination juridique sur des objets soumis, mais une liberté d'action souveraine découlant de l'essence même de l'amour, permettant d'arracher la création à la fatalité biologique." },
-          { "greek": "πάσης", "gloss": "de_toute" },
-          { "greek": "σαρκός,", "gloss": "chair" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "πᾶν", "gloss": "tout_ce_que" },
-          { "greek": "ὃ", "gloss": "que" },
-          { "greek": "δέδοκας", "gloss": "tu_as_donné" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "δώσῃ", "gloss": "il_donne" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "ζωὴν", "gloss": "vie" },
-          { "greek": "αἰώνιον.", "gloss": "éternelle" }
+          {
+            "greek": "καθὼς",
+            "gloss": "selon_que",
+            "annotation": {
+              "type": "theologie",
+              "title": "« Comme nous » — καθὼς",
+              "content": "Καθὼς signifie « comme, de même que ». Le Père et le Fils deviennent la référence de l’unité demandée pour les disciples ; la force théologique vient de la relation exprimée dans toute la prière, non d’une étymologie particulière du mot.",
+              "related": [
+                "ἓν",
+                "τήρησον"
+              ]
+            }
+          },
+          {
+            "greek": "ἔδωκας",
+            "gloss": "tu_as_donné"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ἐξουσίαν",
+            "gloss": "pouvoir/autorité",
+            "annotation": {
+              "type": "theologie",
+              "title": "Autorité pour donner la vie",
+              "content": "L’autorité donnée au Fils est immédiatement orientée vers un don : donner la vie éternelle à ceux que le Père lui a confiés. Le texte définit ainsi l’autorité par sa finalité vivifiante.",
+              "related": [
+                "δώσῃ",
+                "ζωὴν",
+                "δέδωκας"
+              ]
+            }
+          },
+          {
+            "greek": "πάσης",
+            "gloss": "de_toute"
+          },
+          {
+            "greek": "σαρκός,",
+            "gloss": "chair"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "πᾶν",
+            "gloss": "tout_ce_que"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "que"
+          },
+          {
+            "greek": "δέδοκας",
+            "gloss": "tu_as_donné"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "δώσῃ",
+            "gloss": "il_donne"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "vie"
+          },
+          {
+            "greek": "αἰώνιον.",
+            "gloss": "éternelle"
+          }
         ]
       },
       {
@@ -68,24 +227,88 @@
           "darby": "Et c'est ici la vie éternelle, qu'ils te connaissent toi, le seul vrai Dieu, et celui que tu as envoyé, Jésus Christ."
         },
         "interlinear": [
-          { "greek": "αὕτη", "gloss": "Celle-ci" },
-          { "greek": "δέ", "gloss": "or" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "αἰώνιος", "gloss": "éternelle" },
-          { "greek": "ζωή,", "gloss": "vie" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "γινώσκωσι", "gloss": "ils_connaissent", "analyse": "Du verbe *ginōskō* (connaître). La racine indo-européenne *gen-* est identique à celle de *gennaō* (engendrer) et *genesis* (la naissance). La connaissance spirituelle n'est pas un savoir intellectuel spéculatif accumulé 'en plein' (Arbre de la Connaissance) ; c'est un acte de co-naissance, un engendrement réciproque où le Sujet humain naît à la vie divine par l'assimilation de l'Incréé." },
-          { "greek": "σὲ", "gloss": "toi" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "μόνον", "gloss": "seul" },
-          { "greek": "ἀληθινὸν", "gloss": "vrai" },
-          { "greek": "θεὸν", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὃν", "gloss": "celui_que" },
-          { "greek": "ἀπέστειλας", "gloss": "tu_as_envoyé" },
-          { "greek": "Ἰησοῦν", "gloss": "Jésus" },
-          { "greek": "Χριστόν.", "gloss": "Christ" }
+          {
+            "greek": "αὕτη",
+            "gloss": "Celle-ci"
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "αἰώνιος",
+            "gloss": "éternelle"
+          },
+          {
+            "greek": "ζωή,",
+            "gloss": "vie"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "γινώσκωσι",
+            "gloss": "ils_connaissent",
+            "annotation": {
+              "type": "theologie",
+              "title": "Connaître — γινώσκωσι",
+              "content": "La vie éternelle est formulée comme connaissance du Père et de Jésus Christ envoyé. Le contexte invite à entendre une connaissance relationnelle et confessante ; cette profondeur ne dépend pas d’une parenté étymologique avec la famille γεν- (« naître »).",
+              "related": [
+                "ζωὴ",
+                "ἀληθινὸν",
+                "ἀπέστειλας"
+              ]
+            }
+          },
+          {
+            "greek": "σὲ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "μόνον",
+            "gloss": "seul"
+          },
+          {
+            "greek": "ἀληθινὸν",
+            "gloss": "vrai"
+          },
+          {
+            "greek": "θεὸν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "celui_que"
+          },
+          {
+            "greek": "ἀπέστειλας",
+            "gloss": "tu_as_envoyé"
+          },
+          {
+            "greek": "Ἰησοῦν",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Χριστόν.",
+            "gloss": "Christ"
+          }
         ]
       },
       {
@@ -95,20 +318,62 @@
           "darby": "Moi, je t'ai glorifié sur la terre, j'ai achevé l'œuvre que tu m'as donnée à faire ;"
         },
         "interlinear": [
-          { "greek": "ἐγώ", "gloss": "Moi" },
-          { "greek": "σε", "gloss": "toi" },
-          { "greek": "ἐδόξασα", "gloss": "j'ai_glorifié" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "γῆς,", "gloss": "terre" },
-          { "greek": "tὸ", "gloss": "l'" },
-          { "greek": "ἔργον", "gloss": "œuvre" },
-          { "greek": "τελειώσας", "gloss": "ayant_achevé/accompli" },
-          { "greek": "ὃ", "gloss": "que" },
-          { "greek": "δέδωκάς", "gloss": "tu_m'as_donné" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ποιήσω·", "gloss": "je_fasse" }
+          {
+            "greek": "ἐγώ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἐδόξασα",
+            "gloss": "j'ai_glorifié"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆς,",
+            "gloss": "terre"
+          },
+          {
+            "greek": "tὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἔργον",
+            "gloss": "œuvre"
+          },
+          {
+            "greek": "τελειώσας",
+            "gloss": "ayant_achevé/accompli"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "que"
+          },
+          {
+            "greek": "δέδωκάς",
+            "gloss": "tu_m'as_donné"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ποιήσω·",
+            "gloss": "je_fasse"
+          }
         ]
       },
       {
@@ -118,25 +383,92 @@
           "darby": "et maintenant, glorifie-moi, toi, Père, auprès de toi-même, de la gloire que j'avais auprès de toi avant que le monde fût."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "δόξασόν", "gloss": "glorifie" },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "σύ,", "gloss": "toi" },
-          { "greek": "Πάτερ,", "gloss": "Père" },
-          { "greek": "παρὰ", "gloss": "auprès_de" },
-          { "greek": "σεαυτῷ", "gloss": "toi-même" },
-          { "greek": "τῇ", "gloss": "de_la" },
-          { "greek": "δόξῃ", "gloss": "gloire" },
-          { "greek": "ᾗ", "gloss": "que" },
-          { "greek": "εἶχον", "gloss": "j'avais" },
-          { "greek": "πρὸ", "gloss": "avant_que" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κόσμον", "gloss": "monde" },
-          { "greek": "εἶναι", "gloss": "fût/existât" },
-          { "greek": "παρὰ", "gloss": "auprès_de" },
-          { "greek": "σοί.", "gloss": "toi" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "δόξασόν",
+            "gloss": "glorifie",
+            "annotation": {
+              "type": "repetition",
+              "title": "Glorifier — δοξάζω",
+              "content": "Le verbe revient dans l’échange entre le Père et le Fils. Dans cette prière prononcée avant la Passion, la gloire est liée à l’accomplissement de l’œuvre confiée, non à une démonstration extérieure de puissance.",
+              "related": [
+                "δοξάσῃ",
+                "ἐδόξασα",
+                "δόξῃ"
+              ]
+            }
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "σύ,",
+            "gloss": "toi"
+          },
+          {
+            "greek": "Πάτερ,",
+            "gloss": "Père"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "σεαυτῷ",
+            "gloss": "toi-même"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "δόξῃ",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "ᾗ",
+            "gloss": "que"
+          },
+          {
+            "greek": "εἶχον",
+            "gloss": "j'avais"
+          },
+          {
+            "greek": "πρὸ",
+            "gloss": "avant_que"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμον",
+            "gloss": "monde"
+          },
+          {
+            "greek": "εἶναι",
+            "gloss": "fût/existât"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "σοί.",
+            "gloss": "toi"
+          }
         ]
       },
       {
@@ -146,29 +478,98 @@
           "darby": "J'ai manifesté ton nom aux hommes que tu m'as donnés du monde ; ils étaient à toi, et tu me les as donnés ; et ils ont gardé tu parole."
         },
         "interlinear": [
-          { "greek": "Ἐφανέρωσά", "gloss": "J'ai_manifesté" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ὄνομα", "gloss": "nom" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "ἀνθρώποις", "gloss": "hommes" },
-          { "greek": "οὓς", "gloss": "que" },
-          { "greek": "ἔδωκάς", "gloss": "tu_m'as_donné" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "ἐκ", "gloss": "hors_du" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "κόσμου.", "gloss": "monde" },
-          { "greek": "σοὶ", "gloss": "à_toi" },
-          { "greek": "ἦσαν", "gloss": "ils_étaient" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐμοὶ", "gloss": "à_moi" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "ἔδωκας,", "gloss": "tu_as_donnés" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "λόγον", "gloss": "parole" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "τετήρηκαν.", "gloss": "ils_ont_gardée" }
+          {
+            "greek": "Ἐφανέρωσά",
+            "gloss": "J'ai_manifesté"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὄνομα",
+            "gloss": "nom"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἀνθρώποις",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "οὓς",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἔδωκάς",
+            "gloss": "tu_m'as_donné"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "hors_du"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμου.",
+            "gloss": "monde"
+          },
+          {
+            "greek": "σοὶ",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ἦσαν",
+            "gloss": "ils_étaient"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἔδωκας,",
+            "gloss": "tu_as_donnés"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "parole"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "τετήρηκαν.",
+            "gloss": "ils_ont_gardée"
+          }
         ]
       },
       {
@@ -178,16 +579,46 @@
           "darby": "Maintenant ils ont connu que toutes les choses que tu m'as données viennent de toi ;"
         },
         "interlinear": [
-          { "greek": "νῦν", "gloss": "Maintenant" },
-          { "greek": "ἔγνωκαν", "gloss": "ils_ont_reconnu/connu" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "πάντα", "gloss": "toutes_choses" },
-          { "greek": "ὅσα", "gloss": "tout_ce_que" },
-          { "greek": "δέδωκάς", "gloss": "tu_m'as_donné" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "παρὰ", "gloss": "auprès_de" },
-          { "greek": "σοῦ", "gloss": "toi" },
-          { "greek": "εἰσιν·", "gloss": "sont" }
+          {
+            "greek": "νῦν",
+            "gloss": "Maintenant"
+          },
+          {
+            "greek": "ἔγνωκαν",
+            "gloss": "ils_ont_reconnu/connu"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "ὅσα",
+            "gloss": "tout_ce_que"
+          },
+          {
+            "greek": "δέδωκάς",
+            "gloss": "tu_m'as_donné"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "σοῦ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "εἰσιν·",
+            "gloss": "sont"
+          }
         ]
       },
       {
@@ -197,30 +628,114 @@
           "darby": "car je leur ai donné les paroles que tu m'as données, et ils les ont reçues ; et ils ont vraiment connu que je suis sorti d'auprès de toi, et ils ont cru que tu m'as envoyé."
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ῥήματα", "gloss": "paroles" },
-          { "greek": "ἃ", "gloss": "que" },
-          { "greek": "ἔδωκάς", "gloss": "tu_as_données" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "δέδωκα", "gloss": "je_leur_ai_donné" },
-          { "greek": "αὐτοῖς,", "gloss": "à_eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὐτοὶ", "gloss": "eux" },
-          { "greek": "ἔλαβον", "gloss": "les_ont_reçues" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔγνωσαν", "gloss": "ils_ont_connu" },
-          { "greek": "ἀληθῶς", "gloss": "vraiment" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "παρὰ", "gloss": "d'auprès_de" },
-          { "greek": "σοῦ", "gloss": "toi" },
-          { "greek": "ἐξῆλθον,", "gloss": "je_suis_sorti" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπίστευσαν", "gloss": "ils_ont_cru" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "σύ", "gloss": "toi" },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "ἀπέστειλας.", "gloss": "tu_as_envoyé" }
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ῥήματα",
+            "gloss": "paroles",
+            "annotation": {
+              "type": "repetition",
+              "title": "Les paroles données et reçues",
+              "content": "Les paroles données par le Père au Fils sont données aux disciples. Leur réception conduit à la connaissance puis à la foi : la révélation est présentée comme un don transmis et accueilli.",
+              "related": [
+                "ἔδωκάς",
+                "δέδωκα",
+                "ἔλαβον",
+                "ἔγνωσαν",
+                "ἐπίστευσαν"
+              ]
+            }
+          },
+          {
+            "greek": "ἃ",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἔδωκάς",
+            "gloss": "tu_as_données"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "δέδωκα",
+            "gloss": "je_leur_ai_donné"
+          },
+          {
+            "greek": "αὐτοῖς,",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἔλαβον",
+            "gloss": "les_ont_reçues"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔγνωσαν",
+            "gloss": "ils_ont_connu"
+          },
+          {
+            "greek": "ἀληθῶς",
+            "gloss": "vraiment"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "d'auprès_de"
+          },
+          {
+            "greek": "σοῦ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἐξῆλθον,",
+            "gloss": "je_suis_sorti"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπίστευσαν",
+            "gloss": "ils_ont_cru"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "σύ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἀπέστειλας.",
+            "gloss": "tu_as_envoyé"
+          }
         ]
       },
       {
@@ -230,23 +745,83 @@
           "darby": "Moi, je prie pour eux ; je ne prie pas pour le monde, mais pour ceux que tu m'as donnés, car ils sont à toi."
         },
         "interlinear": [
-          { "greek": "ἐγὼ", "gloss": "Moi" },
-          { "greek": "περὶ", "gloss": "pour" },
-          { "greek": "αὐτῶν", "gloss": "eux" },
-          { "greek": "ἐρωτῶ·", "gloss": "je_prie" },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "περὶ", "gloss": "pour" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "κόσμου", "gloss": "monde", "analyse": "Le *kosmos* (le Monde duel). Le Christ ne prie pas pour le système clos de l'aliénation et de la division. Il prie pour l'extraction des Sujets hors de cette matrice de mort, afin qu'ils entrent dans la réalité ecclésiale du Royaume UN." },
-          { "greek": "ἐρωτῶ", "gloss": "je_prie" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "περὶ", "gloss": "pour" },
-          { "greek": "ὧν", "gloss": "ceux_que" },
-          { "greek": "δέδωκάς", "gloss": "tu_m'as_donnés" },
-          { "greek": "μοι,", "gloss": "à_moi" },
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "σοί", "gloss": "à_toi" },
-          { "greek": "εἰσιν,", "gloss": "ils_les_sont" }
+          {
+            "greek": "ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἐρωτῶ·",
+            "gloss": "je_prie"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμου",
+            "gloss": "monde",
+            "annotation": {
+              "type": "repetition",
+              "title": "Le monde dans la prière",
+              "content": "Le mot κόσμος revient avec plusieurs fonctions : lieu antérieur de la gloire du Fils, espace d’où les disciples sont tirés et lieu où ils demeurent. Il ne faut donc pas lui imposer partout une seule valeur négative.",
+              "related": [
+                "κόσμον",
+                "κόσμῳ"
+              ]
+            }
+          },
+          {
+            "greek": "ἐρωτῶ",
+            "gloss": "je_prie"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ὧν",
+            "gloss": "ceux_que"
+          },
+          {
+            "greek": "δέδωκάς",
+            "gloss": "tu_m'as_donnés"
+          },
+          {
+            "greek": "μοι,",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "σοί",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "εἰσιν,",
+            "gloss": "ils_les_sont"
+          }
         ]
       },
       {
@@ -256,20 +831,62 @@
           "darby": "et tout ce qui est à moi est à toi, et ce qui est à toi est à moi, et je dont glorifié en eux."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὰ", "gloss": "les_choses" },
-          { "greek": "ἐμὰ", "gloss": "miennes" },
-          { "greek": "πάντα", "gloss": "toutes" },
-          { "greek": "σά", "gloss": "tiennes" },
-          { "greek": "ἐστιν", "gloss": "sont" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὰ", "gloss": "les_choses" },
-          { "greek": "σὰ", "gloss": "tiennes" },
-          { "greek": "ἐμά,", "gloss": "miennes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δεδόξασμαι", "gloss": "je_suis_glorifié" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "αὐτοῖς.", "gloss": "eux" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "ἐμὰ",
+            "gloss": "miennes"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes"
+          },
+          {
+            "greek": "σά",
+            "gloss": "tiennes"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "σὰ",
+            "gloss": "tiennes"
+          },
+          {
+            "greek": "ἐμά,",
+            "gloss": "miennes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δεδόξασμαι",
+            "gloss": "je_suis_glorifié"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "αὐτοῖς.",
+            "gloss": "eux"
+          }
         ]
       },
       {
@@ -279,38 +896,162 @@
           "darby": "Et je ne suis plus dans le monde, et ceux-ci sont dans le monde, et moi, je viens à toi. Père saint, garde-les en ton nom que tu m'as donné, afin qu'ils soient un comme nous."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "οὐκέτι", "gloss": "ne...plus" },
-          { "greek": "εἰμὶ", "gloss": "je_suis" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "κόσμῳ,", "gloss": "monde" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὐτοὶ", "gloss": "eux" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "κόσμῳ", "gloss": "monde" },
-          { "greek": "εἰσίν,", "gloss": "sont" },
-          { "greek": "κἀγὼ", "gloss": "et_moi" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "σὲ", "gloss": "toi" },
-          { "greek": "ἔρχομαι.", "gloss": "je_viens" },
-          { "greek": "Πάτερ", "gloss": "Père" },
-          { "greek": "ἅγιε,", "gloss": "Saint" },
-          { "greek": "τήρησον", "gloss": "garde" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "ὀνόματί", "gloss": "nom" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ᾧ", "gloss": "lequel" },
-          { "greek": "δέδωκάς", "gloss": "tu_m'as_donné" },
-          { "greek": "μοι,", "gloss": "à_moi" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ὦσιν", "gloss": "ils_soient" },
-          { "greek": "ἓν", "gloss": "un" },
-          { "greek": "καθὼς", "gloss": "comme", "analyse": "Le 'Kathōs' trinitaire. Formé de *kata* (selon, descendant) et *ōs* (comme). Ce terme désigne une conformité descendante, un archétype qui descend du Père pour unifier les personnes. Il s'oppose radicalement au *ōs* (ὡς) horizontal du monde, qui impose une uniformité servile et mimétique par la contrainte de la masse. L'unité de l'Église est l'icône de la liberté trinitaire, non l'effacement du Sujet." },
-          { "greek": "ἡμεῖς.", "gloss": "nous" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "οὐκέτι",
+            "gloss": "ne...plus"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμῳ,",
+            "gloss": "monde"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμῳ",
+            "gloss": "monde"
+          },
+          {
+            "greek": "εἰσίν,",
+            "gloss": "sont"
+          },
+          {
+            "greek": "κἀγὼ",
+            "gloss": "et_moi"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "σὲ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἔρχομαι.",
+            "gloss": "je_viens"
+          },
+          {
+            "greek": "Πάτερ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "ἅγιε,",
+            "gloss": "Saint"
+          },
+          {
+            "greek": "τήρησον",
+            "gloss": "garde",
+            "annotation": {
+              "type": "theologie",
+              "title": "« Garde-les en ton nom »",
+              "content": "L’unité des disciples est enchâssée dans une demande adressée au Père : les garder dans son nom. Elle est ainsi reçue comme grâce et fidélité avant d’être une tâche humaine.",
+              "related": [
+                "ὀνόματί",
+                "ἓν",
+                "καθὼς"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὀνόματί",
+            "gloss": "nom"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "δέδωκάς",
+            "gloss": "tu_m'as_donné"
+          },
+          {
+            "greek": "μοι,",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ὦσιν",
+            "gloss": "ils_soient"
+          },
+          {
+            "greek": "ἓν",
+            "gloss": "un",
+            "annotation": {
+              "type": "theologie",
+              "title": "Qu’ils soient un",
+              "content": "Le neutre ἓν exprime l’unité demandée pour les disciples en référence au Père et au Fils. Le texte appelle à la communion sans préciser une uniformité qui abolirait les personnes.",
+              "related": [
+                "τήρησον",
+                "καθὼς"
+              ]
+            }
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "comme",
+            "annotation": {
+              "type": "theologie",
+              "title": "« Comme nous » — καθὼς",
+              "content": "Καθὼς signifie « comme, de même que ». Le Père et le Fils deviennent la référence de l’unité demandée pour les disciples ; la force théologique vient de la relation exprimée dans toute la prière, non d’une étymologie particulière du mot.",
+              "related": [
+                "ἓν",
+                "τήρησον"
+              ]
+            }
+          },
+          {
+            "greek": "ἡμεῖς.",
+            "gloss": "nous"
+          }
         ]
       },
       {
@@ -320,37 +1061,139 @@
           "darby": "Quand j'étais avec eux, je les gardais en ton nom ; j'ai gardé ceux que tu m'as donnés, et aucun d'entre eux n'est perdu, sinon le fils de perdition, afin que l'Écriture fût accomplie."
         },
         "interlinear": [
-          { "greek": "ὅτε", "gloss": "Quand" },
-          { "greek": "ἤμην", "gloss": "j'étais" },
-          { "greek": "μετ’", "gloss": "avec" },
-          { "greek": "αὐτῶν", "gloss": "eux" },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "ἐτήρουν", "gloss": "je_les_gardais" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "ὀνόματί", "gloss": "nom" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ᾧ", "gloss": "lequel" },
-          { "greek": "δέδωκάς", "gloss": "tu_m'as_donné" },
-          { "greek": "μοι,", "gloss": "à_moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐφύλαξα,", "gloss": "j'ai_protégé/veillé_sur" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οὐδεὶς", "gloss": "aucun" },
-          { "greek": "ἐξ", "gloss": "d'" },
-          { "greek": "αὐτῶν", "gloss": "eux" },
-          { "greek": "ἀπώλετο", "gloss": "ne_s'est_perdu" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "μὴ", "gloss": "ce_n'est" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "υἱὸς", "gloss": "fils" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ἀπωλείας,", "gloss": "perdition", "analyse": "Le fils de perdition (*apōleia*, destruction, ruine par dispersion). Judas refuse la kénose trinitaire pour s'accrocher à la logique de la préhension et du pouvoir mondain. En refusant de devenir un Sujet en relation, son être se disperse et s'anéantit dans le Monde duel." },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἡ", "gloss": "l'" },
-          { "greek": "γραφὴ", "gloss": "Écriture" },
-          { "greek": "πληρωθῇ.", "gloss": "soit_accomplie" }
+          {
+            "greek": "ὅτε",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "ἤμην",
+            "gloss": "j'étais"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐτήρουν",
+            "gloss": "je_les_gardais"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὀνόματί",
+            "gloss": "nom"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "δέδωκάς",
+            "gloss": "tu_m'as_donné"
+          },
+          {
+            "greek": "μοι,",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐφύλαξα,",
+            "gloss": "j'ai_protégé/veillé_sur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐδεὶς",
+            "gloss": "aucun"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "d'"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἀπώλετο",
+            "gloss": "ne_s'est_perdu"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ce_n'est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἀπωλείας,",
+            "gloss": "perdition",
+            "annotation": {
+              "type": "traduction",
+              "title": "La perdition — ἀπώλεια",
+              "content": "Le terme désigne la perte, la ruine ou la destruction. L’expression « fils de perdition » marque ici l’exception douloureuse au groupe gardé, en lien avec l’accomplissement de l’Écriture.",
+              "related": [
+                "ἐφυλαξα",
+                "γραφὴ"
+              ]
+            }
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "γραφὴ",
+            "gloss": "Écriture"
+          },
+          {
+            "greek": "πληρωθῇ.",
+            "gloss": "soit_accomplie"
+          }
         ]
       },
       {
@@ -360,34 +1203,206 @@
           "darby": "Et maintenant je viens à toi, et je dis ces choses dans le monde, afin qu'ils aient ma joie accomplie en eux-mêmes."
         },
         "interlinear": [
-          { "greek": "νῦν", "gloss": "Maintenant" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "σὲ", "gloss": "toi" },
-          { "greek": "ἔρχομαι,", "gloss": "je_viens" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ταῦτα", "gloss": "ces_choses" },
-          { "greek": "λαλῶ", "gloss": "je_dis/parle" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "κόσμῳ,", "gloss": "monde" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἔχωσιν", "gloss": "ils_aient" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "χαρὰν", "gloss": "joie" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἐμὴν", "gloss": "mienne" },
-          { "greek": "πεπληρωμένην", "gloss": "accomplie/parfaite/remplie", "analyse": "Le participe parfait *peplērōmenēn* (rendue totalement pleine). Contrairement aux plaisirs de l'Ego qui ne durent qu'un instant et laissent un sentiment de manque permanent, la joie du Christ emplit définitivement le 'creux' de l'homme eucharistique. C'est la plénitude de la Vie reçue de la Source incréée." },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ἑαυτοῖς.", "gloss": "eux-mêmes" }
+          {
+            "greek": "νῦν",
+            "gloss": "Maintenant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "σὲ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἔρχομαι,",
+            "gloss": "je_viens"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "λαλῶ",
+            "gloss": "je_dis/parle"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμῳ,",
+            "gloss": "monde"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἔχωσιν",
+            "gloss": "ils_aient"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χαρὰν",
+            "gloss": "joie",
+            "annotation": {
+              "type": "theologie",
+              "title": "La joie du Christ en eux",
+              "content": "Jésus désire que les disciples aient en eux sa joie accomplie. Cette joie est prononcée au cœur d’une prière de départ et n’efface donc ni la séparation ni l’épreuve.",
+              "related": [
+                "ἐμὴν",
+                "πεπληρωμένην"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐμὴν",
+            "gloss": "mienne"
+          },
+          {
+            "greek": "πεπληρωμένην",
+            "gloss": "accomplie/parfaite/remplie",
+            "annotation": {
+              "type": "traduction",
+              "title": "Une joie rendue pleine",
+              "content": "Le participe parfait de πληρόω signifie « remplie, accomplie ». Jésus parle afin que sa propre joie soit portée à son accomplissement dans les disciples.",
+              "related": [
+                "χαρὰν",
+                "ἔχωσιν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἑαυτοῖς.",
+            "gloss": "eux-mêmes"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 3 - γινώσκωσι : Traduit par 'connaissent'. Le choix moderne affaiblit la portée ontologique de ce terme. En grec, la connaissance est une communion intime, un acte de génération (parenté sémantique avec la racine *gen-*). Connaître le Père n'est pas apprendre une définition sur Lui, c'est être engendré par Lui.\n• Verset 11 - καθὼς : Souvent réduit à une simple comparaison illustrative ('comme'). Lexicalement, le *kathōs* instaure un rapport de dérivation hiérarchique et ontologique : l'unité humaine doit être calquée sur le mode d'existence des Personnes divines, excluant toute fusion forcée ou individualisme aliéné.\n\nAnalyse spirituelle :\nSitué entre l'Ascension et la Pentecôte, le Dimanche des Saints Pères constitue le point de bascule sensoriel et théologique du temps pascal. Après la guérison des sens physiques (le toucher de Thomas, la vue de l'aveugle-né), le Christ fait entrer les disciples dans l'axe de l'ouïe profonde et de la connaissance contemplative.\n\nLa Prière Sacerdotale trace la frontière définitive entre l'Arbre de la Connaissance (le savoir dogmatique 'en plein' du monde qui cherche à rationaliser et posséder Dieu) et l'Arbre de Vie (le Royaume UN). Le Christ définit la vie éternelle non pas comme une doctrine morale, mais comme une relation dynamique : *ginōskō* (v. 3). Connaître le seul vrai Dieu, c'est se vider de ses propres concepts égotiques pour se laisser engendrer par sa Parole.\n\nLe mystère de l'Église s'articule autour du modèle trinitaire : *kathōs* (v. 11). Le Monde duel ne connaît que deux modes de regroupement : l'individualisme féroce ou l'uniformisation étouffante de la foule (*ōs*), où le 'Je' est sacrifié à la masse. Le Christ propose une tout autre architecture : une unité d'amour où chaque personne demeure un Sujet absolument unique et libre, tout en étant ontologiquement unie à ses frères. Préservés de la dispersion du monde (*apōleia*) par la fidélité au Nom divin, les disciples sont appelés à former ce corps théandrique où la joie humaine est enfin rendue parfaite (*peplērōmenēn*) par l'irruption de la vie incréée."
+    "personal_analysis": "Notes sur le texte grec :\n• Jean 17, 3 — γινώσκωσι : « qu’ils connaissent ». Le verbe désigne ici une connaissance qui engage la relation : la vie éternelle est définie par la connaissance du Père et de Jésus Christ qu’il a envoyé. Il n’est pas nécessaire de lui attribuer une parenté étymologique avec la famille γεν- (« naître ») pour entendre cette profondeur.\n• Jean 17, 8 — ἔλαβον, ἔγνωσαν, ἐπίστευσαν : « ils ont reçu, ils ont connu, ils ont cru ». Cette succession décrit l’accueil des paroles données par le Père au Fils puis transmises aux disciples.\n• Jean 17, 11 — καθὼς : « comme, de même que ». Le mot introduit le Père et le Fils comme référence de l’unité demandée pour les disciples. La portée théologique vient de toute la prière, non d’une étymologie supposée du terme.\n• Jean 17, 13 — πεπληρωμένην : « rendue pleine, accomplie ». Le parfait souligne une joie portée à son accomplissement dans les disciples.\n\nAnalyse spirituelle :\nJésus lève les yeux vers le Père à l’heure où il va traverser la Passion. Sa prière ne détourne pas du monde : elle révèle comment les disciples peuvent y demeurer sans être abandonnés à la dispersion.\n\nLa vie éternelle n’est pas d’abord décrite comme une durée sans fin, mais comme une relation : connaître le Père et celui qu’il a envoyé. Cette connaissance s’inscrit dans un mouvement de don et d’accueil. Le Père donne, le Fils transmet ses paroles, les disciples les reçoivent, connaissent et croient.\n\nL’unité demandée — « qu’ils soient un comme nous » — n’est ni uniformité ni réussite produite par le groupe. Elle est confiée au Père : « garde-les en ton nom ». Elle laisse à chacun sa personne tout en l’appelant à une communion qui reçoit sa source de la relation du Père et du Fils.\n\nEnfin, Jésus parle ainsi afin que sa joie soit accomplie en eux. Au seuil de son départ, la prière relie donc connaissance, parole reçue, unité gardée et joie : quatre dons à accueillir plutôt que des performances à fabriquer.",
+    "homiletic_axes": [
+      {
+        "title": "La vie éternelle comme relation",
+        "content": "Jésus ne définit pas ici la vie éternelle par sa seule durée, mais par la connaissance du Père et de celui qu’il a envoyé. L’homélie peut partir de ce déplacement : connaître Dieu engage une relation reçue et vécue.",
+        "keywords": [
+          "ζωὴν",
+          "γινώσκωσι",
+          "ἀπέστειλας"
+        ]
+      },
+      {
+        "title": "Du don à la foi : une parole transmise et reçue",
+        "content": "Les paroles appartiennent au Père, sont données au Fils, puis offertes aux disciples. Ceux-ci les reçoivent, connaissent et croient. La foi apparaît comme l’accueil d’un don qui circule, non comme une possession privée.",
+        "keywords": [
+          "ῥήματα",
+          "ἔλαβον",
+          "ἔγνωσαν",
+          "ἐπίστευσαν"
+        ]
+      },
+      {
+        "title": "« Garde-les » : une unité confiée au Père",
+        "content": "Le Christ ne commande pas simplement aux disciples de produire leur unité : il prie le Père de les garder dans son nom afin qu’ils soient un. Cette unité vient d’une fidélité commune et ne se confond pas avec l’uniformité.",
+        "keywords": [
+          "τήρησον",
+          "ἓν",
+          "καθὼς"
+        ]
+      },
+      {
+        "title": "Une joie accomplie au milieu du monde",
+        "content": "Alors qu’il vient vers le Père et que les disciples demeurent dans le monde, Jésus leur adresse sa prière pour que sa joie soit rendue pleine en eux. La joie chrétienne peut être annoncée comme une présence reçue au cœur de la séparation et de l’épreuve.",
+        "keywords": [
+          "κόσμῳ",
+          "χαρὰν",
+          "πεπληρωμένην"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre entrée : l’heure, la gloire, la vie éternelle, connaître, recevoir la parole, être gardé dans le Nom, être un ou la joie accomplie."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de la prière",
+        "prompt": "Suivez un mouvement possible : du Père au Fils puis aux disciples ; des paroles données à la foi reçue ; ou du départ de Jésus à la demande d’unité et de joie."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez le don que vous voulez annoncer : une relation vivante avec Dieu, une parole à recevoir, une unité gardée par le Père ou une joie qui peut demeurer dans l’épreuve."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une situation concrète : connaître quelqu’un sans le réduire à une idée, recevoir plutôt que maîtriser, traverser une séparation, ou chercher l’unité sans effacer les différences."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre : écouter une parole, confier une relation au Père, protéger la communion, ou laisser la joie du Christ prendre place dans une situation fragile."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Vous pouvez faire revenir un refrain de la prière — « qu’ils te connaissent », « garde-les » ou « qu’ils soient un » — puis conduire l’assemblée vers la joie accomplie."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Entre l’Ascension et la Pentecôte",
+        "reference": "Jean 17, 11.13 ; Actes 1, 9-14 ; Actes 2, 1",
+        "content": "Dans le temps liturgique qui suit l’Ascension, la prière de Jésus éclaire l’attente des disciples : le Christ vient vers le Père, tandis que ceux qui demeurent dans le monde sont confiés à sa garde et appelés à l’unité. L’assemblée persévérante des Actes donne une forme concrète à cette attente avant la Pentecôte.",
+        "connections": [
+          {
+            "label": "Départ et présence",
+            "content": "Le départ visible du Christ n’est pas présenté comme un abandon : Jésus confie les siens au Père et leur communique sa joie."
+          },
+          {
+            "label": "Une attente commune",
+            "content": "La demande « qu’ils soient un » peut être entendue avec les disciples réunis dans la prière, puis « tous ensemble dans un même lieu » à la Pentecôte."
+          }
+        ]
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Actes 20, 16-18 ; 28-36",
-    "title": "Les adieux de Milet : Le pasteur kénotique face aux loups de la division",
+    "title": "Les adieux de Paul : veiller, servir et confier à la grâce",
     "interlinear": [
       {
         "verse_number": "20, 16",
@@ -396,34 +1411,118 @@
           "darby": "Car Paul avait résolu de passer outre Éphèse, pour ne pas s'arrêter en Asie, car il se hâtait pour être à Jérusalem, s'il lui était possible, le jour de la Pentecôte."
         },
         "interlinear": [
-          { "greek": "κεκρίκει", "gloss": "Avait_décidé" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Παῦλος", "gloss": "Paul" },
-          { "greek": "παραπλεῦσαι", "gloss": "de_passer_outre_en_naviguant" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "Ἔφεσον,", "gloss": "Éphèse" },
-          { "greek": "ὅπως", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "γένηται", "gloss": "il_arrive" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "χρονοτριβῆσαι", "gloss": "de_perdre_du_temps" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "τῇ", "gloss": "l'" },
-          { "greek": "Ἀσίᾳ·", "gloss": "Asie" },
-          { "greek": "ἔσπευδεν", "gloss": "il_se_hâtait" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "δυνατὸν", "gloss": "possible" },
-          { "greek": "εἴη", "gloss": "il_était" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "ἡμέραν", "gloss": "jour" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "πεντηκοστῆς", "gloss": "Pentecôte" },
-          { "greek": "γενέσθαι", "gloss": "d'être/arriver" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Ἱεροσόλυμα.", "gloss": "Jérusalem" }
+          {
+            "greek": "κεκρίκει",
+            "gloss": "Avait_décidé"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Παῦλος",
+            "gloss": "Paul"
+          },
+          {
+            "greek": "παραπλεῦσαι",
+            "gloss": "de_passer_outre_en_naviguant"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "Ἔφεσον,",
+            "gloss": "Éphèse"
+          },
+          {
+            "greek": "ὅπως",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "γένηται",
+            "gloss": "il_arrive"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "χρονοτριβῆσαι",
+            "gloss": "de_perdre_du_temps"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "Ἀσίᾳ·",
+            "gloss": "Asie"
+          },
+          {
+            "greek": "ἔσπευδεν",
+            "gloss": "il_se_hâtait"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "δυνατὸν",
+            "gloss": "possible"
+          },
+          {
+            "greek": "εἴη",
+            "gloss": "il_était"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἡμέραν",
+            "gloss": "jour"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πεντηκοστῆς",
+            "gloss": "Pentecôte"
+          },
+          {
+            "greek": "γενέσθαι",
+            "gloss": "d'être/arriver"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἱεροσόλυμα.",
+            "gloss": "Jérusalem"
+          }
         ]
       },
       {
@@ -433,18 +1532,54 @@
           "darby": "Et de Milet il envoya à Éphèse, et fit appeler les anciens de l'assemblée."
         },
         "interlinear": [
-          { "greek": "Ἀπὸ", "gloss": "Depuis" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "Μιλήτου", "gloss": "Milet" },
-          { "greek": "πέμψας", "gloss": "ayant_envoyé" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Ἔφεσον", "gloss": "Éphèse" },
-          { "greek": "μετεκαλέσατο", "gloss": "il_fit_appeler" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "πρεσβυτέρους", "gloss": "anciens/presbytres" },
-          { "greek": "τῆς", "gloss": "de_l'" },
-          { "greek": "ἐκκλησίας.", "gloss": "Église" }
+          {
+            "greek": "Ἀπὸ",
+            "gloss": "Depuis"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "Μιλήτου",
+            "gloss": "Milet"
+          },
+          {
+            "greek": "πέμψας",
+            "gloss": "ayant_envoyé"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἔφεσον",
+            "gloss": "Éphèse"
+          },
+          {
+            "greek": "μετεκαλέσατο",
+            "gloss": "il_fit_appeler"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πρεσβυτέρους",
+            "gloss": "anciens/presbytres"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἐκκλησίας.",
+            "gloss": "Église"
+          }
         ]
       },
       {
@@ -454,31 +1589,106 @@
           "darby": "Et quand ils furent venus vers lui, il leur dit : Vous savez vous-mêmes comment, depuis le premier jour que je suis entré en Asie, je me suis conduit en tout temps envers vous :"
         },
         "interlinear": [
-          { "greek": "ὡς", "gloss": "Quand" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "παρεγένοντο", "gloss": "ils_furent_arrivés" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "εἶπεν", "gloss": "il_dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Ὑμεῖς", "gloss": "Vous" },
-          { "greek": "ἐπίστασθε,", "gloss": "savez" },
-          { "greek": "ἀπὸ", "gloss": "depuis" },
-          { "greek": "πρώτης", "gloss": "le_premier" },
-          { "greek": "ἡμέρας", "gloss": "jour" },
-          { "greek": "ἀφ’", "gloss": "à_partir_de" },
-          { "greek": "ἧς", "gloss": "laquelle" },
-          { "greek": "ἐπέβην", "gloss": "j'ai_mis_le_pied/suis_entré" },
-          { "greek": "εἰς", "gloss": "en" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "Ἀσίαν,", "gloss": "Asie" },
-          { "greek": "πῶς", "gloss": "comment" },
-          { "greek": "μεθ’", "gloss": "avec" },
-          { "greek": "ὑμῶν", "gloss": "vous" },
-          { "greek": "τὸν", "gloss": "tout_le" },
-          { "greek": "πάντα", "gloss": "tout" },
-          { "greek": "χρόνον", "gloss": "temps" },
-          { "greek": "ἐγενόμην,", "gloss": "je_fuis/me_suis_conduit" }
+          {
+            "greek": "ὡς",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "παρεγένοντο",
+            "gloss": "ils_furent_arrivés"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Ὑμεῖς",
+            "gloss": "Vous"
+          },
+          {
+            "greek": "ἐπίστασθε,",
+            "gloss": "savez"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "πρώτης",
+            "gloss": "le_premier"
+          },
+          {
+            "greek": "ἡμέρας",
+            "gloss": "jour"
+          },
+          {
+            "greek": "ἀφ’",
+            "gloss": "à_partir_de"
+          },
+          {
+            "greek": "ἧς",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "ἐπέβην",
+            "gloss": "j'ai_mis_le_pied/suis_entré"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "Ἀσίαν,",
+            "gloss": "Asie"
+          },
+          {
+            "greek": "πῶς",
+            "gloss": "comment"
+          },
+          {
+            "greek": "μεθ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "tout_le"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "χρόνον",
+            "gloss": "temps"
+          },
+          {
+            "greek": "ἐγενόμην,",
+            "gloss": "je_fuis/me_suis_conduit"
+          }
         ]
       },
       {
@@ -488,33 +1698,134 @@
           "darby": "Prenez donc garde à vous-mêmes, et à tout le troupeau au milieu duquel l'Esprit Saint vous a établis surveillants pour paître l'assemblée de Dieu, laquelle il a acquise par le sang de son propre [fils]."
         },
         "interlinear": [
-          { "greek": "προσέχετε", "gloss": "Prenez_garde/Faites_attention" },
-          { "greek": "ἑαυτοῖς", "gloss": "à_vous-mêmes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "παντὶ", "gloss": "à_tout" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "ποιμνίῳ,", "gloss": "troupeau" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ᾧ", "gloss": "lequel" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "πνεῦμα", "gloss": "Esprit" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ἅγιον", "gloss": "Saint" },
-          { "greek": "ἔθετο", "gloss": "a_établis" },
-          { "greek": "ἐπισκόπους,", "gloss": "surveillants/évêques", "analyse": "Formé de *epi* (sur) et *skopeo* (regarder). L'évêque (épiscope) n'est pas un œil panoptique de contrôle cherchant le pouvoir. Il est un veilleur. Son rôle est de maintenir l'Église unie dans le 'Kathōs' trinitaire (comme vu dans l'Évangile), en préservant le troupeau des prédateurs idéologiques." },
-          { "greek": "ποιμαίνειν", "gloss": "pour_paître" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἐκκλησίαν", "gloss": "église" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ,", "gloss": "Dieu" },
-          { "greek": "ἣν", "gloss": "laquelle" },
-          { "greek": "περιεποιήσατο", "gloss": "il_s'est_acquise" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "αἵματος", "gloss": "sang" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "ἰδίου.", "gloss": "sien_propre" }
+          {
+            "greek": "προσέχετε",
+            "gloss": "Prenez_garde/Faites_attention",
+            "annotation": {
+              "type": "theologie",
+              "title": "Prendre garde à soi et au troupeau",
+              "content": "L’ordre place côte à côte l’attention à soi-même et à tout le troupeau. La responsabilité pastorale ne sépare pas vigilance intérieure et soin de la communauté.",
+              "related": [
+                "ἑαυτοῖς",
+                "ποιμνίῳ",
+                "ἐπισκόπους"
+              ]
+            }
+          },
+          {
+            "greek": "ἑαυτοῖς",
+            "gloss": "à_vous-mêmes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παντὶ",
+            "gloss": "à_tout"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ποιμνίῳ,",
+            "gloss": "troupeau"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πνεῦμα",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἅγιον",
+            "gloss": "Saint"
+          },
+          {
+            "greek": "ἔθετο",
+            "gloss": "a_établis"
+          },
+          {
+            "greek": "ἐπισκόπους,",
+            "gloss": "surveillants/évêques",
+            "annotation": {
+              "type": "racine",
+              "title": "Des veilleurs — ἐπισκόπους",
+              "content": "Le mot associe ἐπί (« sur ») et la famille de σκοπέω (« regarder, observer »). Dans la phrase, l’Esprit Saint établit ces responsables pour prendre soin de l’Église ; la veille est ordonnée au service du troupeau.",
+              "related": [
+                "προσέχετε",
+                "ποιμνίῳ",
+                "ποιμαίνειν"
+              ]
+            }
+          },
+          {
+            "greek": "ποιμαίνειν",
+            "gloss": "pour_paître"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἐκκλησίαν",
+            "gloss": "église"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἣν",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "περιεποιήσατο",
+            "gloss": "il_s'est_acquise"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "αἵματος",
+            "gloss": "sang"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἰδίου.",
+            "gloss": "sien_propre"
+          }
         ]
       },
       {
@@ -524,22 +1835,80 @@
           "darby": "Moi je sais qu'après mon départ il entrera parmi vous des loups redoutables qui n'épargneront pas le troupeau ;"
         },
         "interlinear": [
-          { "greek": "ἐγὼ", "gloss": "Moi" },
-          { "greek": "οἶδα", "gloss": "je_sais" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "εἰσελεύσονται", "gloss": "entreront" },
-          { "greek": "μετὰ", "gloss": "après" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "ἄφιξίν", "gloss": "départ" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "λύκοι", "gloss": "loups", "analyse": "Le loup est l'image même du prédateur du Monde duel. Il fragmente le Corps, isole les brebis pour les dévorer. Théologiquement, c'est l'irruption de l'Ego qui détruit la communion pour imposer la peur et la division." },
-          { "greek": "βαρεῖς", "gloss": "lourds/redoutables/cruels" },
-          { "greek": "εἰς", "gloss": "parmi" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "φειδόμενοι", "gloss": "épargnant" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "ποιμνίου·", "gloss": "troupeau" }
+          {
+            "greek": "ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "οἶδα",
+            "gloss": "je_sais"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "εἰσελεύσονται",
+            "gloss": "entreront"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "après"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄφιξίν",
+            "gloss": "départ"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "λύκοι",
+            "gloss": "loups",
+            "annotation": {
+              "type": "analyse",
+              "title": "Les loups au milieu du troupeau",
+              "content": "L’image des loups exprime le danger qui ne ménage pas le troupeau. Paul appelle à la vigilance sans transformer toute différence en menace : le critère donné ensuite est le discours tordu qui attire les disciples à soi.",
+              "related": [
+                "ποιμνίου",
+                "διεστραμμένα",
+                "ἀποσπᾶν"
+              ]
+            }
+          },
+          {
+            "greek": "βαρεῖς",
+            "gloss": "lourds/redoutables/cruels"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "φειδόμενοι",
+            "gloss": "épargnant"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ποιμνίου·",
+            "gloss": "troupeau"
+          }
         ]
       },
       {
@@ -549,20 +1918,81 @@
           "darby": "et qu'il se lèvera d'entre vous-mêmes des hommes qui annonceront des doctrines perverses pour attirer les disciples après eux."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐξ", "gloss": "d'entre" },
-          { "greek": "ὑμῶν", "gloss": "vous" },
-          { "greek": "αὐτῶν", "gloss": "vous-mêmes" },
-          { "greek": "ἀναστήσονται", "gloss": "se_lèveront" },
-          { "greek": "ἄνδρες", "gloss": "des_hommes" },
-          { "greek": "λαλοῦντες", "gloss": "parlant" },
-          { "greek": "διεστραμμένα", "gloss": "des_choses_perverties/tordues", "analyse": "La racine *strepho* signifie 'tordre', 'tourner'. L'hérésie n'est pas qu'une simple erreur intellectuelle, c'est une distorsion de la vérité unifiante pour en faire une arme de division. Les faux prophètes tordent le réel pour attirer les disciples à eux." },
-          { "greek": "τοῦ", "gloss": "pour" },
-          { "greek": "ἀποσπᾶν", "gloss": "entraîner/arracher", "analyse": "Le verbe *apospaō* (arracher, déchirer, attirer à soi). Voici le cœur de l'idéologie mondaine : des faux prophètes ('hommes parlant des choses perverses') qui cherchent à s'approprier les Sujets pour en faire *leurs* disciples. Ils substituent la ressemblance servile (le *Os* du chef de secte) à l'image du Père." },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "μαθητὰς", "gloss": "disciples" },
-          { "greek": "ὀπίσω", "gloss": "après/à_la_suite_de" },
-          { "greek": "αὐτῶν.", "gloss": "eux" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "d'entre"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "vous-mêmes"
+          },
+          {
+            "greek": "ἀναστήσονται",
+            "gloss": "se_lèveront"
+          },
+          {
+            "greek": "ἄνδρες",
+            "gloss": "des_hommes"
+          },
+          {
+            "greek": "λαλοῦντες",
+            "gloss": "parlant"
+          },
+          {
+            "greek": "διεστραμμένα",
+            "gloss": "des_choses_perverties/tordues",
+            "annotation": {
+              "type": "racine",
+              "title": "Des paroles tordues",
+              "content": "Le participe vient de διαστρέφω, « tordre, détourner, déformer ». Il qualifie des propos qui déplacent les disciples de la suite du Christ vers celle de leurs auteurs.",
+              "related": [
+                "λαλοῦντες",
+                "ἀποσπᾶν"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ἀποσπᾶν",
+            "gloss": "entraîner/arracher",
+            "annotation": {
+              "type": "racine",
+              "title": "Attirer en détachant — ἀποσπᾶν",
+              "content": "Le verbe signifie arracher, détacher ou entraîner. Ici, le but des discours déformés est d’attirer les disciples derrière ceux qui parlent : une autorité pastorale se juge aussi à son refus de s’approprier les personnes.",
+              "related": [
+                "μαθητὰς",
+                "ὀπίσω",
+                "αὐτῶν"
+              ]
+            }
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθητὰς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "ὀπίσω",
+            "gloss": "après/à_la_suite_de"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "eux"
+          }
         ]
       },
       {
@@ -572,21 +2002,66 @@
           "darby": "C'est pourquoi veillez, vous souvenant que, durant trois ans, je n'ai cessé nuit et jour d'avertir chacun de vous avec larmes."
         },
         "interlinear": [
-          { "greek": "διὸ", "gloss": "C'est_pourquoi" },
-          { "greek": "γρηγορεῖτε,", "gloss": "veillez" },
-          { "greek": "μνημονεύοντες", "gloss": "vous_souvenant" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "τριετίαν", "gloss": "trois_années" },
-          { "greek": "νύκτα", "gloss": "nuit" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἡμέραν", "gloss": "jour" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἐπαυσάμην", "gloss": "je_n'ai_cessé" },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "δακρύων", "gloss": "larmes" },
-          { "greek": "νουθετῶν", "gloss": "d'avertir/exhorter" },
-          { "greek": "ἕνα", "gloss": "un" },
-          { "greek": "ἕκαστον.", "gloss": "chacun" }
+          {
+            "greek": "διὸ",
+            "gloss": "C'est_pourquoi"
+          },
+          {
+            "greek": "γρηγορεῖτε,",
+            "gloss": "veillez"
+          },
+          {
+            "greek": "μνημονεύοντες",
+            "gloss": "vous_souvenant"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "τριετίαν",
+            "gloss": "trois_années"
+          },
+          {
+            "greek": "νύκτα",
+            "gloss": "nuit"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡμέραν",
+            "gloss": "jour"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐπαυσάμην",
+            "gloss": "je_n'ai_cessé"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "δακρύων",
+            "gloss": "larmes"
+          },
+          {
+            "greek": "νουθετῶν",
+            "gloss": "d'avertir/exhorter"
+          },
+          {
+            "greek": "ἕνα",
+            "gloss": "un"
+          },
+          {
+            "greek": "ἕκαστον.",
+            "gloss": "chacun"
+          }
         ]
       },
       {
@@ -596,30 +2071,113 @@
           "darby": "Et maintenant je vous recommande à Dieu, et à la parole de sa grâce, qui a la puissance d'édifier et de vous donner un héritage avec tous les sanctifiés."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "τὰ", "gloss": "le" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "παρατίθεμαι", "gloss": "je_vous_confie/recommande" },
-          { "greek": "ὑμᾶς,", "gloss": "vous" },
-          { "greek": "τῷ", "gloss": "à" },
-          { "greek": "θεῷ", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τῷ", "gloss": "à_la" },
-          { "greek": "λόγῳ", "gloss": "parole" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "χάριτος", "gloss": "grâce" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "τῷ", "gloss": "à_celui_qui" },
-          { "greek": "δυναμένῳ", "gloss": "pouvant" },
-          { "greek": "οἰκοδομῆσαι", "gloss": "édifier" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δοῦναι", "gloss": "donner" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "κληρονομίαν", "gloss": "héritage" },
-          { "greek": "ἐν", "gloss": "parmi" },
-          { "greek": "τοῖς", "gloss": "les" },
-          { "greek": "ἡγιασμένοις", "gloss": "sanctifiés" },
-          { "greek": "πᾶσιν.", "gloss": "tous" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "le"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "παρατίθεμαι",
+            "gloss": "je_vous_confie/recommande",
+            "annotation": {
+              "type": "theologie",
+              "title": "Confiés à Dieu et à la grâce",
+              "content": "Paul remet les anciens à Dieu et à la parole de sa grâce. Son départ n’aboutit pas à les lier à sa personne, mais à reconnaître celui qui peut les édifier et leur donner l’héritage.",
+              "related": [
+                "θεῷ",
+                "λόγῳ",
+                "χάριτος",
+                "οἰκοδομῆσαι"
+              ]
+            }
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à"
+          },
+          {
+            "greek": "θεῷ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "λόγῳ",
+            "gloss": "parole"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "χάριτος",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_celui_qui"
+          },
+          {
+            "greek": "δυναμένῳ",
+            "gloss": "pouvant"
+          },
+          {
+            "greek": "οἰκοδομῆσαι",
+            "gloss": "édifier"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δοῦναι",
+            "gloss": "donner"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "κληρονομίαν",
+            "gloss": "héritage"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἡγιασμένοις",
+            "gloss": "sanctifiés"
+          },
+          {
+            "greek": "πᾶσιν.",
+            "gloss": "tous"
+          }
         ]
       },
       {
@@ -629,13 +2187,45 @@
           "darby": "Je n'ai convoité ni l'argent, ni l'or, ni le vêtement de personne."
         },
         "interlinear": [
-          { "greek": "ἀργυρίου", "gloss": "Argent" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "χρυσίου", "gloss": "or" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "ἱματισμοῦ", "gloss": "vêtements" },
-          { "greek": "οὐδενὸς", "gloss": "de_personne" },
-          { "greek": "ἐπεθύμησα·", "gloss": "je_n'ai_désiré/convoité", "analyse": "Le verbe *epithumeo* désigne le désir captatif, la convoitise. Paul énumère les objets de la sécurité terrestre (or, argent, vêtements). Le pasteur selon l'Esprit est celui qui a renoncé à 'l'Avoir'. Son rapport à la communauté n'est plus régi par la préhension." }
+          {
+            "greek": "ἀργυρίου",
+            "gloss": "Argent"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "χρυσίου",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἱματισμοῦ",
+            "gloss": "vêtements"
+          },
+          {
+            "greek": "οὐδενὸς",
+            "gloss": "de_personne"
+          },
+          {
+            "greek": "ἐπεθύμησα·",
+            "gloss": "je_n'ai_désiré/convoité",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ne rien convoiter",
+              "content": "Paul cite argent, or et vêtements pour rappeler que son service n’a pas été guidé par la convoitise. Le propos prépare l’exemple du travail de ses mains et du soutien des faibles.",
+              "related": [
+                "ἀργυρίου",
+                "χρυσίου",
+                "ἱματισμοῦ",
+                "χεῖρες"
+              ]
+            }
+          }
         ]
       },
       {
@@ -645,21 +2235,76 @@
           "darby": "Vous savez vous-mêmes que ces mains ont servi à mes besoins et à ceux qui étaient avec moi."
         },
         "interlinear": [
-          { "greek": "αὐτοὶ", "gloss": "Vous-mêmes" },
-          { "greek": "γινώσκετε", "gloss": "savez" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ταῖς", "gloss": "aux" },
-          { "greek": "χρείαις", "gloss": "besoins" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τοῖς", "gloss": "à_ceux_qui" },
-          { "greek": "οὖσι", "gloss": "étaient" },
-          { "greek": "μετ’", "gloss": "avec" },
-          { "greek": "ἐμοῦ", "gloss": "moi" },
-          { "greek": "ὑπηρέτησαν", "gloss": "ont_servi/pourvu" },
-          { "greek": "αἱ", "gloss": "les" },
-          { "greek": "χεῖρες", "gloss": "mains" },
-          { "greek": "αὗται.", "gloss": "ces" }
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "Vous-mêmes"
+          },
+          {
+            "greek": "γινώσκετε",
+            "gloss": "savez"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "χρείαις",
+            "gloss": "besoins"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "à_ceux_qui"
+          },
+          {
+            "greek": "οὖσι",
+            "gloss": "étaient"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ὑπηρέτησαν",
+            "gloss": "ont_servi/pourvu"
+          },
+          {
+            "greek": "αἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "χεῖρες",
+            "gloss": "mains",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ces mains au service des besoins",
+              "content": "Paul désigne ses propres mains comme témoins du travail accompli pour ses besoins et ceux de ses compagnons. Le geste donne un contenu concret à l’autorité de service.",
+              "related": [
+                "χρείαις",
+                "ὑπηρέτησαν",
+                "κοπιῶντας"
+              ]
+            }
+          },
+          {
+            "greek": "αὗται.",
+            "gloss": "ces"
+          }
         ]
       },
       {
@@ -669,32 +2314,120 @@
           "darby": "Je vous ai montré en toutes choses, qu'en travaillant ainsi il faut soutenir les infirmes, et se souvenir des paroles du Seigneur Jésus, qui lui-même a dit : Il est plus heureux de donner que de recevoir."
         },
         "interlinear": [
-          { "greek": "πάντα", "gloss": "Toutes_choses" },
-          { "greek": "ὑπέδειξα", "gloss": "j'ai_montré" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "οὕτως", "gloss": "ainsi" },
-          { "greek": "κοπιῶντας", "gloss": "travaillant/peinant" },
-          { "greek": "δεῖ", "gloss": "il_faut" },
-          { "greek": "ἀντιλαμβάνεσθαι", "gloss": "soutenir" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ἀσθενούντων,", "gloss": "faibles/infirmes" },
-          { "greek": "μνημονεύειν", "gloss": "se_souvenir" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "λόγων", "gloss": "paroles" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "κυρίου", "gloss": "Seigneur" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "αὐτὸς", "gloss": "lui-même" },
-          { "greek": "εἶπεν·", "gloss": "a_dit" },
-          { "greek": "Μακάριόν", "gloss": "Heureux/Bienheureux" },
-          { "greek": "ἐστιν", "gloss": "il_est" },
-          { "greek": "μᾶλλον", "gloss": "plus" },
-          { "greek": "διδόναι", "gloss": "de_donner", "analyse": "L'inversion de la logique mondaine. Le verbe *didōmi* (donner) caractérise l''Être', là où *lambanō* (recevoir/prendre) caractérise l''Avoir'. Le Sujet authentique n'est pas celui qui accumule pour lui-même, mais celui qui s'évide en donnant, à l'image de la kénose trinitaire." },
-          { "greek": "ἢ", "gloss": "que" },
-          { "greek": "λαμβάνειν.", "gloss": "de_recevoir" }
+          {
+            "greek": "πάντα",
+            "gloss": "Toutes_choses"
+          },
+          {
+            "greek": "ὑπέδειξα",
+            "gloss": "j'ai_montré"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "κοπιῶντας",
+            "gloss": "travaillant/peinant"
+          },
+          {
+            "greek": "δεῖ",
+            "gloss": "il_faut"
+          },
+          {
+            "greek": "ἀντιλαμβάνεσθαι",
+            "gloss": "soutenir"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀσθενούντων,",
+            "gloss": "faibles/infirmes"
+          },
+          {
+            "greek": "μνημονεύειν",
+            "gloss": "se_souvenir"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "λόγων",
+            "gloss": "paroles"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "a_dit"
+          },
+          {
+            "greek": "Μακάριόν",
+            "gloss": "Heureux/Bienheureux"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plus"
+          },
+          {
+            "greek": "διδόναι",
+            "gloss": "de_donner",
+            "annotation": {
+              "type": "repetition",
+              "title": "Donner plutôt que recevoir",
+              "content": "Le contraste διδόναι / λαμβάνειν résume la parole du Seigneur rappelée par Paul. Le don est relié ici au travail, au soutien des faibles et à une béatitude, non à un mépris de toute réception.",
+              "related": [
+                "λαμβάνειν",
+                "Μακάριόν",
+                "ἀσθενούντων"
+              ]
+            }
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "que"
+          },
+          {
+            "greek": "λαμβάνειν.",
+            "gloss": "de_recevoir"
+          }
         ]
       },
       {
@@ -704,20 +2437,140 @@
           "darby": "Et quand il eut dit ces choses, s'étant mis à genoux, il pria avec eux tous."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ταῦτα", "gloss": "ces_choses" },
-          { "greek": "εἰπών,", "gloss": "ayant_dites" },
-          { "greek": "θεὶς", "gloss": "ayant_posé/mis" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "γόνατα", "gloss": "genoux", "analyse": "Le signe physique ultime de l'Arbre de Vie (le creux). Alors que les hérétiques (les loups) se tiennent debout, gonflés de leur savoir 'en plein' et cherchant à attirer les regards, l'Apôtre, lui, fléchit les genoux. Il se fait vide devant Dieu pour que la grâce puisse combler l'Église." },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "πᾶσιν", "gloss": "tous" },
-          { "greek": "αὐτοῖς", "gloss": "eux" },
-          { "greek": "προσηύξατο.", "gloss": "il_pria" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "εἰπών,",
+            "gloss": "ayant_dites"
+          },
+          {
+            "greek": "θεὶς",
+            "gloss": "ayant_posé/mis"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "γόνατα",
+            "gloss": "genoux",
+            "annotation": {
+              "type": "analyse",
+              "title": "À genoux dans la prière",
+              "content": "Le discours se termine par un geste commun : Paul pose les genoux et prie avec tous. Après avoir exhorté, averti et confié les anciens à la grâce, il remet concrètement la communauté à Dieu.",
+              "related": [
+                "προσηύξατο",
+                "πᾶσιν"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "πᾶσιν",
+            "gloss": "tous"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "προσηύξατο.",
+            "gloss": "il_pria"
+          }
         ]
       }
     ],
-     "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 28 - ἐπισκόπους (episkopous) : Segond traduit par 'évêques' et Darby par 'surveillants'. Le terme est composé de *epi* (sur) et *skopos* (le regard, la cible). Paul n'institue pas ici des gestionnaires administratifs ou des chefs d'entreprise, mais des 'veilleurs'. Leur autorité n'est pas structurelle mais vigilante : ils sont l'œil spirituel chargé de scruter l'horizon pour protéger la communion du troupeau contre les prédateurs de la dualité.\n\n• Verset 28 - περιεποιήσατο (periepoiēsato) : Traduit par 'il s'est acquise' (Segond). Ce verbe dépasse la simple transaction juridique. Le préfixe *peri* (autour) donne l'idée d'une étreinte, d'une chose qu'on entoure pour la faire totalement sienne. Le Christ n'a pas 'acheté' l'Église de l'extérieur, Il l'a intimement appropriée et intégrée à sa propre corporéité par son propre sang.\n\n• Verset 30 - διεστραμμένα (diestrammena) : Traduit par 'des choses pernicieuses' ou 'perverses'. La racine de ce participe est *diastrepho* (tordre, déformer). L'hérésie n'est pas qu'une simple erreur intellectuelle, c'est une torsion mécanique de la Réalité. Les loups déforment la droiture (*orthos*) de la Parole pour créer un espace courbe, une gravité artificielle destinée à emprisonner les croyants dans l'orbite de leur propre Ego.\n\nAnalyse spirituelle de l'Apôtre (Les adieux de Milet) :\n\nCe discours testamentaire de Paul répond magistralement à la prière du Christ pour l'unité (Jean 17), lue dans l'Évangile. Il met en lumière l'affrontement inévitable entre la communion du 'Royaume UN' et la volonté de préhension du 'Monde duel'.\n\n1. La dialectique de la Foule et du Sujet :\nL'Église, naissante, est un troupeau (la foule). Mais ce n'est pas le collectif indifférencié du monde. Elle est confiée à des 'veilleurs' (épiscopes). Le drame que Paul prophétise est l'irruption de la logique mondaine au cœur même de la communauté : des hommes se lèveront pour 'attirer les disciples après eux' (v. 30). L'hérésie est profondément une maladie de l'Ego : elle remplace le modèle trinitaire du Père (Kathōs) par le mimétisme du gourou humain (Os). Elle objective les croyants pour en faire un cheptel possédé par un individu.\n\n2. Le refus du savoir 'en plein' et de la préhension matérielle :\nContre ces 'loups cruels' qui enseignent des choses tordues (qui saturent l'espace par un savoir frelaté), Paul oppose l'Arbre de Vie, c'est-à-dire la kénose. Il n'a convoité aucun bien matériel, il a travaillé de ses propres mains (v. 34). Il enseigne que le sommet de la vie chrétienne n'est pas la réception passive (l'Avoir du Monde duel), mais le don actif ('Il y a plus de bonheur à donner qu'à recevoir'). Le Sujet spirituel est celui qui, à l'image de Dieu, se vide pour enrichir l'autre.\n\n3. La posture kénotique finale :\nLe texte se clôt sur un geste symbolique extrêmement fort : 'il se mit à genoux' (v. 36). Face à l'angoisse de la division et au vide laissé par son départ imminent, Paul n'institue pas une bureaucratie autoritaire pour cadenasser l'Église. Il fléchit le genou. C'est l'ultime respiration spirituelle : devant la peur du monde, l'Apôtre adopte la posture du creux, la reddition joyeuse, confiant la communauté non pas au savoir des hommes, mais 'à Dieu et à la parole de sa grâce' (v. 32)." 
-   }
+    "personal_analysis": "Notes sur le texte grec :\n• Actes 20, 28 — ἐπισκόπους : « surveillants, veilleurs ». Le terme associe l’idée de regarder sur ou veiller sur. Paul demande d’abord aux responsables de prêter attention à eux-mêmes et à tout le troupeau.\n• Actes 20, 28 — περιεποιήσατο : « il s’est acquis ». Le verbe souligne que l’Église appartient à Dieu et rappelle le prix de cette appartenance : le sang de son propre Fils.\n• Actes 20, 30 — διεστραμμένα : « des choses tordues, déformées ». Le danger ne vient pas seulement de l’extérieur ; certains chercheront à détourner les disciples pour les entraîner à leur suite.\n• Actes 20, 35 — διδόναι / λαμβάνειν : « donner / recevoir ». La parole attribuée à Jésus résume le service dont Paul a lui-même donné l’exemple par son travail et son attention aux faibles.\n\nAnalyse spirituelle :\nLe discours de Milet donne une forme pastorale à la prière de Jean 17 pour l’unité. La communion n’est pas entretenue par le contrôle, mais par une vigilance qui commence par soi-même, s’étend à tout le troupeau et reconnaît l’action première de l’Esprit Saint.\n\nPaul ne cache ni les loups qui viendront, ni les paroles déformées qui pourront surgir au sein même de la communauté. Pourtant sa réponse n’est pas la peur : il rappelle une vigilance patiente, exercée nuit et jour, avec des larmes. La vérité à garder ne se sépare pas du soin concret des personnes.\n\nAu moment de partir, Paul confie les anciens non à sa propre influence, mais à Dieu et à la parole de sa grâce, capable d’édifier. Son travail de ses mains, son soutien aux faibles et la béatitude du don montrent une autorité qui sert sans s’approprier.\n\nLe passage s’achève à genoux dans la prière. Après les avertissements et les recommandations, ce geste remet la communauté à Dieu : veiller, servir, donner et finalement confier.",
+    "homiletic_axes": [
+      {
+        "title": "Une vigilance qui commence par soi-même",
+        "content": "Paul dit : « Prenez garde à vous-mêmes et à tout le troupeau ». Le ministère de veille ne commence donc pas par la surveillance des autres, mais par une attention intérieure inséparable du soin de la communauté.",
+        "keywords": [
+          "προσέχετε",
+          "ποιμνίῳ,",
+          "ἐπισκόπους,"
+        ]
+      },
+      {
+        "title": "Protéger sans s’approprier le troupeau",
+        "content": "L’Église appartient à Dieu, tandis que les loups et les discours tordus cherchent à attirer les disciples à leur suite. Le pasteur protège la liberté de ceux qui lui sont confiés au lieu d’en faire ses propres disciples.",
+        "keywords": [
+          "περιεποιήσατο",
+          "λύκοι",
+          "διεστραμμένα",
+          "ἀποσπᾶν"
+        ]
+      },
+      {
+        "title": "Confier à Dieu et à la parole de sa grâce",
+        "content": "Au moment de son départ, Paul ne prétend pas retenir la communauté par sa présence. Il la remet à Dieu et à sa parole de grâce, capable d’édifier et de donner l’héritage.",
+        "keywords": [
+          "παρατίθεμαι",
+          "χάριτος",
+          "οἰκοδομῆσαι"
+        ]
+      },
+      {
+        "title": "Des mains qui travaillent aux genoux qui prient",
+        "content": "Paul rappelle le travail de ses mains, le soutien des faibles et la joie de donner, puis il s’agenouille avec tous. Le service pastoral unit effort concret, générosité et abandon dans la prière.",
+        "keywords": [
+          "χεῖρες",
+          "διδόναι",
+          "γόνατα",
+          "προσηύξατο."
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre entrée : veiller, le troupeau, les loups, la parole de grâce, les larmes, les mains, donner ou la prière à genoux."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des adieux",
+        "prompt": "Suivez un parcours : de l’attention à soi au soin du troupeau ; de l’avertissement à la confiance en la grâce ; ou du travail des mains à la prière commune."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce qui libère dans le texte : l’Esprit confie une responsabilité, la grâce peut édifier, le service n’a pas besoin de posséder, et le don est source de joie."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Fragilité humaine rejointe",
+        "prompt": "Nommez sobrement une difficulté actuelle : exercer une autorité, discerner une parole déformée, prendre soin sans contrôler, soutenir les faibles ou accepter de transmettre puis de partir."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse concrète : commencer par veiller sur soi, protéger la communion, servir de ses mains, donner sans calcul ou confier une personne à Dieu dans la prière."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Faites entendre le ton d’adieu de Paul sans dramatiser. Vous pouvez conclure par le contraste entre ses mains qui ont travaillé et ses genoux qui se plient avec tous."
+      }
+    ]
+  }
 }
