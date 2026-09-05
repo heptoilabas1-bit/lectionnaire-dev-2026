@@ -1,7 +1,7 @@
 {
   "gospel": {
     "reference": "Matthieu 8, 5-13",
-    "title": "La Foi du Centurion : Alignement sur l'Axe de l'Ex-ousia et Effondrement de la Distance",
+    "title": "Une parole sous autorité : la foi du centurion et l’ouverture du Royaume",
     "interlinear": [
       {
         "verse_number": 5,
@@ -10,16 +10,75 @@
           "darby": "Et quand il fut entré dans Capernaum, un centurion vint à lui, le priant"
         },
         "interlinear": [
-          { "greek": "Εἰσελθόντι", "gloss": "Étant_entré", "analyse": "Composé du préfixe *eis-* (mouvement de pénétration vers l'intérieur) et du verbe *erchomai* (aller/venir). Le Christ franchit la limite pour pénétrer dans l'espace humain de Capernaum. C'est le mouvement initial de la Grâce qui s'introduit dans le champ du Monde duel." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτῷ", "gloss": "lui/il" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "Καφαρναοὺμ", "gloss": "Capernaum" },
-          { "greek": "προσῆλθεν", "gloss": "approcha/vint_vers", "analyse": "Composé de *pros-* (direction vers, mouvement d'approche intime) et *erchomai* (venir). Le centurion ne reste pas sur sa position défensive ou identitaire de païen/occupant. Il initie une rupture de sa trajectoire horizontale pour s'orienter directement tout contre (*pros-*) l'Axe vertical." },
-          { "greek": "αὐτῷ", "gloss": "de_lui" },
-          { "greek": "ἑκατόνταρχος", "gloss": "un_centurion" },
-          { "greek": "παρακαλῶν", "gloss": "l'implorant/le_priant", "analyse": "Composé de *para-* (à côté de) et *kaleo* (appeler). Littéralement : 'appeler à ses côtés'. Ce n'est pas une sommation hiérarchique militaire, mais un appel de détresse horizontal qui cherche la mitoyenneté et la communion avec la Source." },
-          { "greek": "αὐτὸν", "gloss": "lui" }
+          {
+            "greek": "Εἰσελθόντι",
+            "gloss": "Étant_entré",
+            "annotation": {
+              "type": "racine",
+              "title": "Entrer — εἰσέρχομαι",
+              "content": "Le participe associe εἰς, vers l’intérieur, et ἔρχομαι, venir. Au sens narratif, Jésus entre à Capharnaüm. Piste spirituelle issue du cours : ce premier mouvement peut être médité comme l’initiative de la grâce qui franchit une limite et rejoint l’espace humain.",
+              "related": [
+                "εἰς",
+                "Καφαρναοὺμ",
+                "προσῆλθεν"
+              ]
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui/il"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Καφαρναοὺμ",
+            "gloss": "Capernaum"
+          },
+          {
+            "greek": "προσῆλθεν",
+            "gloss": "approcha/vint_vers",
+            "annotation": {
+              "type": "racine",
+              "title": "Il s’approcha",
+              "content": "Le composé de πρός et ἔρχομαι exprime un mouvement vers Jésus. Le centurion franchit concrètement une distance pour porter la souffrance de son serviteur devant le Seigneur.",
+              "related": [
+                "παρακαλῶν",
+                "Κύριε,"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἑκατόνταρχος",
+            "gloss": "un_centurion"
+          },
+          {
+            "greek": "παρακαλῶν",
+            "gloss": "l'implorant/le_priant",
+            "annotation": {
+              "type": "traduction",
+              "title": "Implorant, adressant un appel",
+              "content": "Παρακαλέω peut signifier appeler auprès de soi, exhorter, encourager ou supplier. Ici, le participe décrit la demande insistante du centurion en faveur de son serviteur.",
+              "related": [
+                "προσῆλθεν",
+                "παῖς",
+                "βασανιζόμενος."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -29,19 +88,87 @@
           "darby": "et disant : Seigneur, mon serviteur est couché à la maison, paralytique, terriblement tourmenté."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Κύριε,", "gloss": "Seigneur", "analyse": "L'usage du vocatif *Kyrie* par un officier romain marque l'immédiate abdication de son autorité politique et mondaine. Il reconnaît instantanément la Souveraineté ontologique absolue de l'Incréé, opérant une métanoïa linguistique radicale." },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "παῖς", "gloss": "serviteur/enfant" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "βέβληται", "gloss": "est_couché/jeté", "analyse": "Du verbe *ballo* (jeter). Au passif, il exprime une kénose forcée ou un effondrement. Le serviteur est jeté au sol, privé de mouvement horizontal. C'est la description clinique de l'Ego paralysé, immobilisé dans ses propres impasses énergétiques." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "οἰκίᾳ", "gloss": "maison" },
-          { "greek": "παραλυτικός,", "gloss": "paralytique" },
-          { "greek": "δεινῶς", "gloss": "terriblement" },
-          { "greek": "βασανιζόμενος.", "gloss": "tourmenté" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur",
+            "annotation": {
+              "type": "theologie",
+              "title": "« Seigneur »",
+              "content": "Le vocatif Κύριε reconnaît l’autorité de Jésus. Piste spirituelle issue du cours : dans la bouche d’un officier romain, cette adresse peut être entendue comme un déplacement décisif de son propre pouvoir vers la souveraineté du Christ.",
+              "related": [
+                "ἑκατόνταρχος",
+                "ἐξουσίαν,",
+                "πίστιν"
+              ]
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παῖς",
+            "gloss": "serviteur/enfant",
+            "annotation": {
+              "type": "traduction",
+              "title": "Serviteur, jeune homme ou enfant — παῖς",
+              "content": "Παῖς possède un champ plus large que δοῦλος : enfant, jeune homme ou serviteur. Dans ce contexte, « serviteur » convient, mais le mot accompagne la sollicitude personnelle du centurion.",
+              "related": [
+                "μου",
+                "παραλυτικός,"
+              ]
+            }
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "βέβληται",
+            "gloss": "est_couché/jeté",
+            "annotation": {
+              "type": "traduction",
+              "title": "Il est couché, jeté",
+              "content": "Le parfait passif de βάλλω décrit le serviteur cloué au lit par la paralysie. Piste spirituelle issue du cours : cette immobilité rend visible une existence privée de mouvement, que la parole guérissante remettra debout sans réduire le malade à une image de l’ego.",
+              "related": [
+                "παραλυτικός,",
+                "βασανιζόμενος.",
+                "ἰάθη"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἰκίᾳ",
+            "gloss": "maison"
+          },
+          {
+            "greek": "παραλυτικός,",
+            "gloss": "paralytique"
+          },
+          {
+            "greek": "δεινῶς",
+            "gloss": "terriblement"
+          },
+          {
+            "greek": "βασανιζόμενος.",
+            "gloss": "tourmenté"
+          }
         ]
       },
       {
@@ -51,13 +178,52 @@
           "darby": "Et Jésus lui dit : J'y irai, et je le guérirai."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Ἐγὼ", "gloss": "Moi" },
-          { "greek": "ἐλθὼν", "gloss": "venant", "analyse": "Le Christ propose un déplacement spatial horizontal ('Moi, venant...'). Il s'apprête à traverser la distance géographique pour rejoindre le malade. C'est la kénose de la Grâce qui accepte de se mouvoir selon les modalités du temps et de l'espace pour restaurer l'être." },
-          { "greek": "θεραπεύσω", "gloss": "je_guérirai" },
-          { "greek": "αὐτόν.", "gloss": "lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "venant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le Christ se propose de venir",
+              "content": "Le participe de ἔρχομαι annonce le déplacement de Jésus vers la maison. Piste spirituelle issue du cours : la grâce consent à rejoindre l’être humain dans les conditions concrètes du temps, de l’espace et de la souffrance.",
+              "related": [
+                "θεραπεύσω",
+                "εἰσέλθῃς·"
+              ]
+            }
+          },
+          {
+            "greek": "θεραπεύσω",
+            "gloss": "je_guérirai",
+            "annotation": {
+              "type": "theologie",
+              "title": "« Je viendrai et je le guérirai »",
+              "content": "Jésus répond à l’intercession par la disponibilité et la promesse de guérir. Θεραπεύω peut signifier servir, soigner ou guérir ; ici le futur annonce la restauration du serviteur.",
+              "related": [
+                "ἐλθὼν",
+                "αὐτόν."
+              ]
+            }
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -67,30 +233,151 @@
           "darby": "Et le centurion répondant, dit : Seigneur, je ne suis pas digne que tu entres sous mon toit ; mais dis seulement une parole, et mon serviteur sera guéri."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀποκριθεὶς", "gloss": "ayant_répondu" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "ἑκατόνταρχος", "gloss": "centurion" },
-          { "greek": "ἔφη·", "gloss": "dit" },
-          { "greek": "Κύριε,", "gloss": "Seigneur" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "εἰμὶ", "gloss": "je_suis" },
-          { "greek": "ἱκανὸς", "gloss": "digne/suffisant", "analyse": "Du mot *hikanos* (suffisant, qui a la capacité de). Le centurion déclare : 'Je ne suis pas suffisant'. C'est le sabordage volontaire de l'autosuffisance égotique. Cet homme puissant admet son incomplétude ontologique totale face à la plénitude de l'Incréé." },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "ὑπὸ", "gloss": "sous", "analyse": "Le préfixe/préposition *hypo* marque une topographie d'abaissement. Se placer *sous* le toit, c'est reconnaître une hiérarchie spatiale et spirituelle. Le centurion refuse de faire descendre le Christ sous ses limites matérielles ordinaires." },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "στέγην", "gloss": "toit" },
-          { "greek": "εἰσέλθῃς·", "gloss": "tu_entres" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "μόνον", "gloss": "seulement" },
-          { "greek": "εἰπὲ", "gloss": "dis" },
-          { "greek": "λόγῳ,", "gloss": "par_parole", "analyse": "Le centurion s'arrache à la nécessité du contact physique horizontal. Il comprend que l'Énergie divine n'a pas besoin de voyager dans l'espace : le *Logos* agit instantanément de manière verticale, traversant instantanément les densités de la matière sans déplacement de coordonnées." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰαθήσεται", "gloss": "sera_guéri" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "παῖς", "gloss": "serviteur" },
-          { "greek": "μου.", "gloss": "de_moi" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "ayant_répondu"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἑκατόνταρχος",
+            "gloss": "centurion"
+          },
+          {
+            "greek": "ἔφη·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur",
+            "annotation": {
+              "type": "theologie",
+              "title": "« Seigneur »",
+              "content": "Le vocatif Κύριε reconnaît l’autorité de Jésus. Piste spirituelle issue du cours : dans la bouche d’un officier romain, cette adresse peut être entendue comme un déplacement décisif de son propre pouvoir vers la souveraineté du Christ.",
+              "related": [
+                "ἑκατόνταρχος",
+                "ἐξουσίαν,",
+                "πίστιν"
+              ]
+            }
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ἱκανὸς",
+            "gloss": "digne/suffisant",
+            "annotation": {
+              "type": "traduction",
+              "title": "Digne, capable, suffisant",
+              "content": "Ἱκανός peut signifier suffisant, capable, considérable ou digne selon le contexte. Le centurion reconnaît humblement qu’il ne peut réclamer la venue de Jésus sous son toit.",
+              "related": [
+                "οὐκ",
+                "στέγην",
+                "εἰσέλθῃς·"
+              ]
+            }
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "sous",
+            "annotation": {
+              "type": "repetition",
+              "title": "Sous autorité",
+              "content": "Ὑπό revient pour dire que le centurion est sous autorité et qu’il a des soldats sous lui. Il comprend le commandement depuis une place où autorité reçue et autorité exercée sont liées.",
+              "related": [
+                "ἐξουσίαν,",
+                "ὑπ’",
+                "στρατιώτας,"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "στέγην",
+            "gloss": "toit"
+          },
+          {
+            "greek": "εἰσέλθῃς·",
+            "gloss": "tu_entres"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "μόνον",
+            "gloss": "seulement"
+          },
+          {
+            "greek": "εἰπὲ",
+            "gloss": "dis"
+          },
+          {
+            "greek": "λόγῳ,",
+            "gloss": "par_parole",
+            "annotation": {
+              "type": "theologie",
+              "title": "Dis seulement par une parole",
+              "content": "Le centurion fait confiance à la parole de Jésus sans exiger sa présence physique dans la maison. Le datif λόγῳ indique ici le moyen par lequel la guérison est demandée.",
+              "related": [
+                "μόνον",
+                "εἰπὲ",
+                "ἰαθήσεται"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰαθήσεται",
+            "gloss": "sera_guéri"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παῖς",
+            "gloss": "serviteur",
+            "annotation": {
+              "type": "traduction",
+              "title": "Serviteur, jeune homme ou enfant — παῖς",
+              "content": "Παῖς possède un champ plus large que δοῦλος : enfant, jeune homme ou serviteur. Dans ce contexte, « serviteur » convient, mais le mot accompagne la sollicitude personnelle du centurion.",
+              "related": [
+                "μου",
+                "παραλυτικός,"
+              ]
+            }
+          },
+          {
+            "greek": "μου.",
+            "gloss": "de_moi"
+          }
         ]
       },
       {
@@ -100,65 +387,255 @@
           "darby": "car moi aussi je suis un homme placé sous autorité, ayant sous moi des soldats ; et je dis à l'un : Va, et il va ; et à un autre : Viens, et il vient ; et à mon esclave : Fais cela, et il le fait."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "ἄνθρωπος", "gloss": "un_homme" },
-          { "greek": "εἰμι", "gloss": "je_suis" },
-          { "greek": "ὑπὸ", "gloss": "sous" },
-          { "greek": "ἐξουσίαν,", "gloss": "autorité", "analyse": "Mot capital : *ex-ousia*. Composé de *ek/ex-* (hors de, en provenance de) et *ousia* (l'essence, l'être substantiel). L'autorité véritable n'est pas un pouvoir coercitif horizontal ou psychologique ; c'est un flux qui jaillit *hors de l'essence* même de l'Incréé. Le centurion, habitué à la hiérarchie militaire, a saisi intuitivement cette mécanique métaphysique : parce que Jésus est unifié à l'Essence, son Verbe porte l'immédiate effectuation de ce qu'il énonce." },
-          { "greek": "ἔχων", "gloss": "ayant" },
-          { "greek": "ὑπ’", "gloss": "sous" },
-          { "greek": "ἐμαυτὸν", "gloss": "moi-même" },
-          { "greek": "στρατιώτας,", "gloss": "des_soldats" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λέγω", "gloss": "je_dis" },
-          { "greek": "τούτῳ·", "gloss": "à_celui-ci" },
-          { "greek": "Πορεύθητι,", "gloss": "Va" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πορεύεται,", "gloss": "il_va" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἄλλῳ·", "gloss": "à_un_autre" },
-          { "greek": "Ἔρχου,", "gloss": "Viens" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔρχεται,", "gloss": "il_vient" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "δούλῳ", "gloss": "esclave/serviteur" },
-          { "greek": "μου·", "gloss": "de_moi" },
-          { "greek": "Ποίησον", "gloss": "Fais" },
-          { "greek": "τοῦτο,", "gloss": "ceci" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ποιεῖ.", "gloss": "il_fait" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἄνθρωπος",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "εἰμι",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "sous",
+            "annotation": {
+              "type": "repetition",
+              "title": "Sous autorité",
+              "content": "Ὑπό revient pour dire que le centurion est sous autorité et qu’il a des soldats sous lui. Il comprend le commandement depuis une place où autorité reçue et autorité exercée sont liées.",
+              "related": [
+                "ἐξουσίαν,",
+                "ὑπ’",
+                "στρατιώτας,"
+              ]
+            }
+          },
+          {
+            "greek": "ἐξουσίαν,",
+            "gloss": "autorité",
+            "annotation": {
+              "type": "racine",
+              "title": "Autorité — ἐξουσία",
+              "content": "Ἐξουσία désigne autorité, pouvoir ou droit d’agir. Le contexte en montre la réalité relationnelle ; le découpage populaire ἐξ + οὐσία, « hors de l’essence », ne constitue pas une étymologie fiable.",
+              "related": [
+                "ὑπὸ",
+                "λέγω",
+                "ποιεῖ."
+              ]
+            }
+          },
+          {
+            "greek": "ἔχων",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "ὑπ’",
+            "gloss": "sous"
+          },
+          {
+            "greek": "ἐμαυτὸν",
+            "gloss": "moi-même"
+          },
+          {
+            "greek": "στρατιώτας,",
+            "gloss": "des_soldats"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "τούτῳ·",
+            "gloss": "à_celui-ci"
+          },
+          {
+            "greek": "Πορεύθητι,",
+            "gloss": "Va"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πορεύεται,",
+            "gloss": "il_va"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἄλλῳ·",
+            "gloss": "à_un_autre"
+          },
+          {
+            "greek": "Ἔρχου,",
+            "gloss": "Viens"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔρχεται,",
+            "gloss": "il_vient"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "δούλῳ",
+            "gloss": "esclave/serviteur"
+          },
+          {
+            "greek": "μου·",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "Ποίησον",
+            "gloss": "Fais"
+          },
+          {
+            "greek": "τοῦτο,",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ποιεῖ.",
+            "gloss": "il_fait"
+          }
         ]
       },
-   {
+      {
         "verse_number": 10,
         "translations": {
           "segond": "Après l'avoir entendu, Jésus fut dans l'étonnement, et il dit à ceux qui le suivaient : Je vous le dis en vérité, même en Israël je n'ai pas trouvé une aussi grande foi.",
           "darby": "Et Jésus, l'ayant entendu, s'étonna, et dit à ceux qui le suivaient : En vérité, je vous dis, je n'ai pas trouvé une si grande foi, pas même en Israël."
         },
         "interlinear": [
-          { "greek": "ἀκούσας", "gloss": "Ayant_entendu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ἐθαύμασεν", "gloss": "s'étonna/admira" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "τοῖς", "gloss": "à_ceux" },
-          { "greek": "ἀκολουθοῦσιν·", "gloss": "suivant" },
-          { "greek": "Ἀμὴν", "gloss": "Amen/En_vérité" },
-          { "greek": "λέγω", "gloss": "je_dis" },
-          { "greek": "ὑμῖν,", "gloss": "à_vous" },
-          { "greek": "παρ’", "gloss": "chez" },
-          { "greek": "οὐδενὶ", "gloss": "personne" },
-          { "greek": "τοσαύτην", "gloss": "une_si_grande" },
-          { "greek": "πίστιν", "gloss": "foi", "analyse": "La *pistis* (foi, confiance, adhésion). Le Christ ne loue pas une croyance intellectuelle ou un dogme religieux, mais l'alignement topographique fulgurant de cet homme. Le centurion a compris la mécanique de l'Incréé : il s'en remet à l'Axe sans exiger de preuves horizontales (le déplacement physique de Jésus)." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "l'" },
-          { "greek": "Ἰσραὴλ", "gloss": "Israël" },
-          { "greek": "εὗρον.", "gloss": "je_trouvai" }
+          {
+            "greek": "ἀκούσας",
+            "gloss": "Ayant_entendu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐθαύμασεν",
+            "gloss": "s'étonna/admira",
+            "annotation": {
+              "type": "analyse",
+              "title": "Jésus s’émerveille",
+              "content": "Le récit place l’émerveillement du côté de Jésus devant la confiance du centurion. Ce retournement invite ceux qui le suivent à reconnaître une foi inattendue.",
+              "related": [
+                "ἀκούσας",
+                "πίστιν",
+                "εὗρον."
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "à_ceux"
+          },
+          {
+            "greek": "ἀκολουθοῦσιν·",
+            "gloss": "suivant"
+          },
+          {
+            "greek": "Ἀμὴν",
+            "gloss": "Amen/En_vérité"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "παρ’",
+            "gloss": "chez"
+          },
+          {
+            "greek": "οὐδενὶ",
+            "gloss": "personne"
+          },
+          {
+            "greek": "τοσαύτην",
+            "gloss": "une_si_grande"
+          },
+          {
+            "greek": "πίστιν",
+            "gloss": "foi",
+            "annotation": {
+              "type": "theologie",
+              "title": "Une telle foi",
+              "content": "Πίστις signifie foi, confiance ou fidélité. Jésus loue ici la confiance qui s’en remet à sa parole sans réclamer de signe ou de présence visible.",
+              "related": [
+                "λόγῳ,",
+                "ἐπίστευσας",
+                "ἐθαύμασεν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "Ἰσραὴλ",
+            "gloss": "Israël"
+          },
+          {
+            "greek": "εὗρον.",
+            "gloss": "je_trouvai"
+          }
         ]
       },
       {
@@ -168,29 +645,119 @@
           "darby": "Or je vous dis que plusieurs viendront de l'orient et de l'occident, et s'assiègeront à table avec Abraham et Isaac et Jacob, dans le royaume des cieux ;"
         },
         "interlinear": [
-          { "greek": "λέγω", "gloss": "Je_dis" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "πολλοὶ", "gloss": "beaucoup" },
-          { "greek": "ἀπὸ", "gloss": "depuis/de" },
-          { "greek": "ἀνατολῶν", "gloss": "les_levants/l'orient", "analyse": "Du préfixe *ana-* (vers le haut) et *tello* (se lever, accomplir). Ce n'est pas qu'un point cardinal géographique. C'est le lieu d'où jaillit la Lumière. L'Orient représente l'ascension (*ana-*) hors des ténèbres du Monde duel." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δυσμῶν", "gloss": "les_couchants/l'occident" },
-          { "greek": "ἥξουσιν", "gloss": "viendront" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀνακλιθήσονται", "gloss": "seront_allongés_à_table", "analyse": "Composé de *ana-* (en haut, en arrière) et *klino* (incliner, s'appuyer). S'incliner à la table du banquet céleste, c'est s'en remettre totalement, s'appuyer (*klino*) dans un mouvement ascendant (*ana-*) sur la Grâce, abandonnant l'agitation stérile de la chair." },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "Ἀβραὰμ", "gloss": "Abraham" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰσαὰκ", "gloss": "Isaac" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰακὼβ", "gloss": "Jacob" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "βασιλείᾳ", "gloss": "royaume" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "οὐρανῶν·", "gloss": "cieux" }
+          {
+            "greek": "λέγω",
+            "gloss": "Je_dis"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "πολλοὶ",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis/de"
+          },
+          {
+            "greek": "ἀνατολῶν",
+            "gloss": "les_levants/l'orient",
+            "annotation": {
+              "type": "racine",
+              "title": "Depuis les régions du levant",
+              "content": "Ἀνατολή désigne le lever, spécialement celui du soleil, puis l’Orient. Piste spirituelle issue du cours : le mouvement du soleil qui se lève peut accompagner la symbolique orthodoxe de l’Orient et de la lumière, tandis que le pluriel signifie ici concrètement les régions orientales.",
+              "related": [
+                "δυσμῶν",
+                "ἥξουσιν",
+                "πολλοὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δυσμῶν",
+            "gloss": "les_couchants/l'occident"
+          },
+          {
+            "greek": "ἥξουσιν",
+            "gloss": "viendront"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀνακλιθήσονται",
+            "gloss": "seront_allongés_à_table",
+            "annotation": {
+              "type": "racine",
+              "title": "Prendre place au banquet",
+              "content": "Ἀνακλίνω signifie s’allonger, s’incliner en arrière ou prendre place à table. Le préfixe ἀνά participe au mouvement, mais la portée spirituelle vient de l’image du banquet avec les patriarches.",
+              "related": [
+                "Ἀβραὰμ",
+                "Ἰσαὰκ",
+                "Ἰακὼβ",
+                "βασιλείᾳ"
+              ]
+            }
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "Ἀβραὰμ",
+            "gloss": "Abraham"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰσαὰκ",
+            "gloss": "Isaac"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰακὼβ",
+            "gloss": "Jacob"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλείᾳ",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "οὐρανῶν·",
+            "gloss": "cieux"
+          }
         ]
       },
       {
@@ -200,26 +767,116 @@
           "darby": "mais les fils du royaume seront jetés dans les ténèbres de dehors : là seront les pleurs et les grincements de dents."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "υἱοὶ", "gloss": "fils" },
-          { "greek": "τῆς", "gloss": "du" },
-          { "greek": "βασιλείας", "gloss": "royaume" },
-          { "greek": "ἐκβληθήσονται", "gloss": "seront_jetés_dehors", "analyse": "Composé de *ek-* (hors de) et *ballo* (jeter). L'Ego religieux croit posséder le Royaume par droit d'héritage (filiation horizontale). Mais par son refus de l'ouverture et de la kénose, il s'exclut lui-même de l'Incréé. Il est violemment rejeté (*ek-ballo*) hors du Centre." },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸ", "gloss": "les" },
-          { "greek": "σκότος", "gloss": "ténèbres" },
-          { "greek": "τὸ", "gloss": "les" },
-          { "greek": "ἐξώτερον·", "gloss": "extérieures", "analyse": "Du préfixe *ex-* (dehors). L'exotérisme absolu. C'est le drame du Monde duel : la fragmentation périphérique. Loin de l'Axe central, l'Ego se disloque dans l'extériorité totale, le lieu de la séparation." },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "ἔσται", "gloss": "sera" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κλαυθμὸς", "gloss": "pleur" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "βρυγμὸς", "gloss": "grincement" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ὀδόντων.", "gloss": "dents", "analyse": "Les dents servent à mordre et consommer la matière. Le grincement de dents est le paroxysme de la frustration égotique : l'Ego veut dévorer pour exister, mais dans l'extériorité absolue (*exoteron*), il n'y a plus rien à consommer. Il grince à vide." }
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "υἱοὶ",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "βασιλείας",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "ἐκβληθήσονται",
+            "gloss": "seront_jetés_dehors",
+            "annotation": {
+              "type": "racine",
+              "title": "Jetés dehors",
+              "content": "Le passif de ἐκβάλλω associe ἐκ, hors de, et βάλλω, jeter. L’avertissement renverse la sécurité d’une appartenance présumée ; il ne transforme pas l’ouverture aux nations en condamnation ethnique d’Israël.",
+              "related": [
+                "υἱοὶ",
+                "βασιλείας",
+                "ἐξώτερον·"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "les"
+          },
+          {
+            "greek": "σκότος",
+            "gloss": "ténèbres"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐξώτερον·",
+            "gloss": "extérieures",
+            "annotation": {
+              "type": "racine",
+              "title": "Les ténèbres les plus extérieures",
+              "content": "Le comparatif ἐξώτερος signifie plus extérieur ou situé au-dehors. Piste spirituelle issue du cours : cette extériorité peut figurer la dispersion loin du centre et de la communion ; le texte conserve toutefois la gravité concrète d’une exclusion du banquet.",
+              "related": [
+                "ἐκβληθήσονται",
+                "σκότος",
+                "κλαυθμὸς"
+              ]
+            }
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "ἔσται",
+            "gloss": "sera"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κλαυθμὸς",
+            "gloss": "pleur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βρυγμὸς",
+            "gloss": "grincement"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ὀδόντων.",
+            "gloss": "dents",
+            "annotation": {
+              "type": "analyse",
+              "title": "Pleurs et grincement de dents",
+              "content": "La formule exprime la détresse de ceux qui se découvrent hors du banquet. Piste spirituelle issue du cours : le grincement peut évoquer la frustration d’un désir incapable de recevoir la communion, sans construire une doctrine à partir de la fonction matérielle des dents.",
+              "related": [
+                "κλαυθμὸς",
+                "βρυγμὸς",
+                "ἐξώτερον·"
+              ]
+            }
+          }
         ]
       },
       {
@@ -229,33 +886,222 @@
           "darby": "Et Jésus dit au centurion : Va, et qu'il te soit fait comme tu as cru. Et son serviteur fut guéri en cette heure-là."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "ἑκατοντάρχῃ·", "gloss": "centurion" },
-          { "greek": "Ὕπαγε,", "gloss": "Va/Retire-toi", "analyse": "Composé de *hypo-* (sous/en retrait) et *ago* (conduire). Jésus n'ordonne pas un simple départ physique, il demande un effacement. Le Sujet est invité à se retirer doucement pour laisser la place à l'action pure de l'Incréé." },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "ἐπίστευσας", "gloss": "tu_as_cru/adhéré" },
-          { "greek": "γενηθήτω", "gloss": "qu'il_soit_généré/fait", "analyse": "Le verbe de la Genèse (*ginomai*). L'alignement non-duel du centurion ne déclenche pas une simple réparation médicale, mais un acte pur de Création. L'Énergie divine actualise instantanément le réel selon la structure d'accueil du Sujet." },
-          { "greek": "σοι.", "gloss": "pour_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰάθη", "gloss": "fut_guéri" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "παῖς", "gloss": "serviteur" },
-          { "greek": "ἐν", "gloss": "à" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "ὥρᾳ", "gloss": "heure" },
-          { "greek": "ἐκείνῃ.", "gloss": "cette...-là" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "ἑκατοντάρχῃ·",
+            "gloss": "centurion"
+          },
+          {
+            "greek": "Ὕπαγε,",
+            "gloss": "Va/Retire-toi",
+            "annotation": {
+              "type": "traduction",
+              "title": "Va — ὕπαγε",
+              "content": "L’impératif ὕπαγε signifie « va, pars ». Piste spirituelle issue du cours : le verbe peut accompagner un effacement confiant du centurion, qui repart en laissant agir la parole du Christ ; le contexte ne demande pas d’en tirer une étymologie mystique de ὑπό.",
+              "related": [
+                "ἐπίστευσας",
+                "γενηθήτω"
+              ]
+            }
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἐπίστευσας",
+            "gloss": "tu_as_cru/adhéré"
+          },
+          {
+            "greek": "γενηθήτω",
+            "gloss": "qu'il_soit_généré/fait",
+            "annotation": {
+              "type": "traduction",
+              "title": "Qu’il t’advienne",
+              "content": "L’impératif de γίνομαι signifie « qu’il advienne, que cela se produise ». Jésus répond à la confiance du centurion ; le verset ne fournit pas une formule générale permettant de provoquer tout résultat par la foi.",
+              "related": [
+                "ἐπίστευσας",
+                "ἰάθη",
+                "ὥρᾳ"
+              ]
+            }
+          },
+          {
+            "greek": "σοι.",
+            "gloss": "pour_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰάθη",
+            "gloss": "fut_guéri"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παῖς",
+            "gloss": "serviteur",
+            "annotation": {
+              "type": "traduction",
+              "title": "Serviteur, jeune homme ou enfant — παῖς",
+              "content": "Παῖς possède un champ plus large que δοῦλος : enfant, jeune homme ou serviteur. Dans ce contexte, « serviteur » convient, mais le mot accompagne la sollicitude personnelle du centurion.",
+              "related": [
+                "μου",
+                "παραλυτικός,"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "à"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὥρᾳ",
+            "gloss": "heure"
+          },
+          {
+            "greek": "ἐκείνῃ.",
+            "gloss": "cette...-là"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 9 - ἐξουσίαν : Segond et Darby traduisent par 'autorité'. Cela aplatit le concept en le réduisant à une hiérarchie administrative du Monde duel. Le grec *ex-ousia* est métaphysique : c'est ce qui émane (*ek*) de l'essence (*ousia*). La véritable autorité n'est pas un pouvoir imposé de l'extérieur, mais un débordement ontologique de l'Incréé.\n• Verset 12 - ἐξώτερον : L'expression 'ténèbres du dehors' occulte la radicalité spatiale du mot. L'*exoteron*, c'est l'extériorité la plus extrême. L'Ego, ayant refusé le rassemblement intérieur de l'Esprit, subit une force centrifuge qui le disperse aux confins du vide.\n\nAnalyse spirituelle :\nCette péricope illustre de manière éblouissante la différence entre la 'religion' (horizontale et tribale) et la 'foi' (verticale et ontologique).\n\nLes 'fils du royaume' (v. 12) sont ceux qui s'appuient sur leur identité mondaine, leur descendance et leurs mérites extérieurs. Ils sont figés dans des structures du Monde duel. C'est pourquoi, croyant être au centre, ils sont finalement rejetés à la périphérie absolue (*ek-ballo* vers l'*exoteron*), condamnés à la frustration stérile de la chair (le grincement de dents).\n\nLe centurion, lui, est un païen, un étranger exclu des privilèges religieux. Pourtant, il opère la kénose parfaite. Il reconnaît son indignité (*hikanos*) et la nécessité de rester en retrait (*hypo*). Surtout, en tant que militaire, il a compris le secret de l'alignement vibratoire : l'*ex-ousia*. Il comprend que Jésus n'a pas besoin de se déplacer géographiquement dans le Monde duel (l'horizontalité) pour agir. Le Verbe du Christ est uni à l'Essence, il traverse donc le temps et l'espace instantanément. L'effondrement de la fierté de l'Ego chez le centurion permet l'effondrement de la distance spatiale pour son serviteur. La Foi (*pistis*) n'est plus une croyance, c'est l'art d'aligner le Sujet sur l'Axe vertical pour laisser le *Fiat* divin (*genetheto*) féconder le monde."
+    "personal_analysis": "Notes sur le texte grec :\n• Matthieu 8, 6 — παῖς : le mot peut désigner un enfant, un jeune homme ou un serviteur. Le contexte du centurion conduit habituellement à traduire « serviteur », mais le terme laisse entendre la proximité avec laquelle l’officier présente celui qui souffre.\n• Matthieu 8, 8 — οὐκ εἰμὶ ἱκανός : « je ne suis pas digne, capable, suffisant ». L’humilité du centurion n’est pas une négation maladive de sa valeur : elle reconnaît l’écart entre son autorité et celle qu’il discerne en Jésus.\n• Matthieu 8, 8 — μόνον εἰπὲ λόγῳ : « dis seulement par une parole ». Le datif λόγῳ peut exprimer le moyen. Le centurion ne réclame ni déplacement ni signe visible ; il fait confiance à l’efficacité de la parole de Jésus.\n• Matthieu 8, 9 — ἐξουσία : « autorité, pouvoir, droit ». Il est séduisant de découper le mot en ἐξ + οὐσία et d’y lire « ce qui émane de l’essence », mais cette explication n’est pas une étymologie sûre. Le contexte explique l’autorité par une chaîne de commandement où l’on est à la fois sous autorité et responsable d’autres personnes.\n• Matthieu 8, 11 — ἀνακλιθήσονται : « ils s’allongeront ou prendront place à table ». Le verbe renvoie à la posture du banquet antique. Le préfixe ἀνά participe au mouvement de s’étendre ou s’installer en arrière ; le sens spirituel vient surtout de l’image du banquet avec Abraham, Isaac et Jacob.\n• Matthieu 8, 12 — οἱ υἱοὶ τῆς βασιλείας : « les fils du Royaume ». L’avertissement vise la présomption d’un droit automatique au Royaume. Il ne justifie ni le mépris du peuple juif ni une théologie simpliste de substitution.\n\nAnalyse spirituelle :\nPiste spirituelle transmise par le cours : la péricope peut être lue comme le passage d’une autorité seulement horizontale à un axe vertical reçu du Christ. Le centurion accepte de ne pas maîtriser l’action de Jésus : sa parole n’est pas enfermée par la distance géographique. Les mouvements grecs d’entrée, d’approche, de position « sous », de venue au banquet et de sortie vers le dehors peuvent alors nourrir une méditation sur l’orientation intérieure. Cette lecture symbolique ne remplace pas le sens grammatical des préfixes ; elle en déploie une cohérence homilétique.\n\nLe centurion vient à Jésus non pour lui-même, mais pour son serviteur paralysé et terriblement tourmenté. Son pouvoir social ne le rend pas indifférent à la souffrance de celui qui dépend de lui. Sa première parole, « Seigneur », devient une intercession : il place devant le Christ une vie qu’il ne peut restaurer par son propre commandement.\n\nJésus répond par la disponibilité : « Moi, venant, je le guérirai. » Le centurion demande alors davantage et moins à la fois : moins de signe visible, davantage de confiance dans la parole seule. Son « je ne suis pas digne » ne ferme pas sa maison à la grâce ; il confesse que la présence et la puissance du Christ ne sont pas soumises aux limites de sa propre autorité.\n\nLa comparaison militaire mérite d’être entendue avec précision. Le centurion ne dit pas seulement qu’il commande : il est lui-même ὑπὸ ἐξουσίαν, sous autorité. Il comprend une parole efficace à partir d’un ordre reçu et transmis. Jésus s’émerveille non devant la violence d’un système, mais devant la confiance avec laquelle cet homme reconnaît en sa parole une autorité capable de guérir.\n\nLa venue de beaucoup depuis l’Orient et l’Occident ouvre le banquet du Royaume au-delà des frontières attendues. La foi du centurion étranger met en crise toute assurance fondée sur la seule appartenance. Mais l’image conserve Abraham, Isaac et Jacob au centre du banquet : l’ouverture aux nations n’efface pas l’histoire d’Israël.\n\nLa dernière parole, « comme tu as cru, qu’il t’advienne », ne signifie pas que toute guérison dépendrait de la quantité de foi du malade ou de ses proches. Dans ce récit précis, Jésus accueille la confiance du centurion et le serviteur est guéri à cette heure même. La foi apparaît comme remise confiante à la parole, non comme technique permettant de produire un miracle.",
+    "homiletic_axes": [
+      {
+        "title": "Porter devant le Christ la souffrance d’un autre",
+        "content": "Le centurion utilise sa parole et sa position pour intercéder en faveur de son serviteur. L’autorité humaine trouve ici une forme juste dans l’attention à celui qui souffre.",
+        "keywords": [
+          "παῖς",
+          "παραλυτικός,",
+          "βασανιζόμενος.",
+          "θεραπεύσω"
+        ]
+      },
+      {
+        "title": "« Dis seulement par une parole »",
+        "content": "Le centurion ne réclame ni déplacement ni preuve supplémentaire. Il reconnaît dans la parole de Jésus une autorité qui ne dépend pas de la proximité géographique.",
+        "keywords": [
+          "μόνον",
+          "εἰπὲ",
+          "λόγῳ,",
+          "ἰαθήσεται"
+        ]
+      },
+      {
+        "title": "Sous autorité et responsable d’autrui",
+        "content": "Le centurion comprend le commandement parce qu’il est lui-même placé sous autorité. Son expérience devient une analogie, limitée mais féconde, pour confesser l’efficacité de la parole du Christ.",
+        "keywords": [
+          "ὑπὸ",
+          "ἐξουσίαν,",
+          "Πορεύθητι,",
+          "Ἔρχου,",
+          "Ποίησον"
+        ]
+      },
+      {
+        "title": "Une foi venue d’ailleurs ouvre le banquet",
+        "content": "Jésus s’émerveille de la foi d’un étranger et annonce la venue d’une multitude. Le Royaume ne se possède pas par statut ; il se reçoit dans la foi, avec Abraham, Isaac et Jacob.",
+        "keywords": [
+          "ἐθαύμασεν",
+          "πίστιν",
+          "πολλοὶ",
+          "ἀνατολῶν",
+          "δυσμῶν",
+          "ἀνακλιθήσονται"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre entrée : intercéder, se reconnaître limité, dire seulement une parole, être sous autorité, obéir, s’émerveiller de la foi, venir au banquet ou recevoir la guérison."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l’Évangile",
+        "prompt": "Suivez une progression : de la souffrance du serviteur à l’intercession ; de la proposition de Jésus à la confiance dans sa parole ; ou de la foi d’un étranger à l’ouverture du banquet."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez le don central : Jésus accueille l’intercession, sa parole franchit la distance, il s’émerveille de la foi rencontrée hors des frontières attendues et ouvre le Royaume à une multitude."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une situation : impuissance devant la souffrance d’un proche, responsabilité exercée avec compassion, difficulté à demander, besoin de signes, sentiment d’indignité ou appartenance religieuse devenue assurance."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre : nommer quelqu’un dans la prière, transformer une autorité en service, faire confiance à une parole du Christ, accueillir la foi inattendue d’un autre ou renoncer à un privilège présumé."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Ne faites pas de la foi une technique garantissant la guérison. Faites entendre l’intercession, l’étonnement de Jésus et l’ouverture du banquet, sans opposer les nations à Israël."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De l’autorité reçue au service qui porte du fruit",
+        "reference": "Matthieu 8, 5-13 ; Romains 6, 18-23",
+        "content": "Le centurion se sait sous autorité tout en commandant ; Paul emploie l’image de l’esclavage pour demander à qui nos membres sont présentés. Les deux lectures interrogent moins la possession du pouvoir que l’appartenance qui oriente la parole, le corps et leurs fruits.",
+        "connections": [
+          {
+            "label": "Parole et obéissance",
+            "content": "Le centurion connaît une parole reçue et exécutée ; Paul appelle à présenter maintenant ses membres à la justice."
+          },
+          {
+            "label": "Autorité et service",
+            "content": "L’autorité du centurion devient intercession pour un serviteur ; le service de Dieu porte pour fruit la sanctification et la vie."
+          },
+          {
+            "label": "Au-delà du mérite",
+            "content": "Le centurion ne revendique pas un droit ; Paul oppose le salaire du péché au don gratuit de Dieu en Jésus-Christ."
+          }
+        ]
+      }
+    ]
   },
- "apostle": {
+  "apostle": {
     "reference": "Romains 6, 18-23",
-    "title": "L'Affranchissement Ontologique : De l'Anomie à l'Alignement sur l'Incréé",
+    "title": "Libérés pour servir : du fruit de la honte au don de la vie",
     "interlinear": [
       {
         "verse_number": 18,
@@ -264,14 +1110,78 @@
           "darby": "Or, ayant été affranchis du péché, vous avez été asservis à la justice."
         },
         "interlinear": [
-          { "greek": "ἐλευθερωθέντες", "gloss": "ayant_été_affranchis", "analyse": "Du verbe *eleutheroo*. L'affranchissement ici n'est pas une simple amnistie légale, mais une libération ontologique : le Sujet est arraché aux conditionnements du Monde duel et à la boucle répétitive de l'Ego (*hamartia*, le fait de manquer continuellement la cible)." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἀπὸ", "gloss": "de", "analyse": "Le préfixe/préposition *apo-* (mouvement d'éloignement, séparation, arrachement). La Grâce opère une coupure radicale : elle sépare l'être de la matrice mortifère dans laquelle il était englué." },
-          { "greek": "τῆς", "gloss": "le" },
-          { "greek": "ἁμαρτίας", "gloss": "péché" },
-          { "greek": "ἐδουλώθητε", "gloss": "vous_avez_été_asservis", "analyse": "Du verbe *douloo* (asservir). Paradoxe fulgurant de Paul : la véritable liberté spirituelle n'est pas une autonomie absolue (qui est l'illusion suprême de l'Ego). Devenir 'esclave' de l'Incréé, c'est s'aligner volontairement sur l'Axe vertical, acceptant une dépendance vitale et vivifiante à la Source." },
-          { "greek": "τῇ", "gloss": "à_la" },
-          { "greek": "δικαιοσύνῃ.", "gloss": "justice", "analyse": "La *dikaiosyne* (justice/justification). Ce n'est pas la justice morale ou juridique des hommes. C'est la 'justesse' d'alignement. C'est l'état du Sujet qui est parfaitement rectifié et ajusté à la fréquence de l'Énergie divine." }
+          {
+            "greek": "ἐλευθερωθέντες",
+            "gloss": "ayant_été_affranchis",
+            "annotation": {
+              "type": "theologie",
+              "title": "Ayant été libérés",
+              "content": "Le participe passif de ἐλευθερόω présente la libération du péché comme une action reçue. Cette liberté reçoit aussitôt une direction : le service de la justice puis de Dieu.",
+              "related": [
+                "ἀπὸ",
+                "ἁμαρτίας",
+                "ἐδουλώθητε"
+              ]
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de",
+            "annotation": {
+              "type": "racine",
+              "title": "Libérés du péché — ἀπό",
+              "content": "La préposition ἀπό marque l’éloignement ou la séparation : « libérés du péché ». Elle revient au verset 22 et ouvre chaque fois vers une appartenance nouvelle, non vers une autonomie sans relation.",
+              "related": [
+                "ἐλευθερωθέντες",
+                "ἁμαρτίας",
+                "δουλωθέντες"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἁμαρτίας",
+            "gloss": "péché"
+          },
+          {
+            "greek": "ἐδουλώθητε",
+            "gloss": "vous_avez_été_asservis",
+            "annotation": {
+              "type": "theologie",
+              "title": "Mis au service de la justice",
+              "content": "Le passif de δουλόω construit le paradoxe de Paul : libérés du péché, ils ont été asservis à la justice. Paul précise qu’il emploie une manière humaine de parler ; l’image ne légitime pas l’esclavage historique.",
+              "related": [
+                "ἐλευθερωθέντες",
+                "δικαιοσύνῃ.",
+                "ἀνθρώπινον"
+              ]
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "δικαιοσύνῃ.",
+            "gloss": "justice",
+            "annotation": {
+              "type": "theologie",
+              "title": "Au service de la justice",
+              "content": "Δικαιοσύνη désigne la justice ou la rectitude selon Dieu. Piste spirituelle issue du cours : elle peut être méditée comme une juste orientation de toute la personne, un axe retrouvé, sans exclure la portée morale et relationnelle du terme.",
+              "related": [
+                "ἐδουλώθητε",
+                "παραστήσατε",
+                "ἁγιασμόν."
+              ]
+            }
+          }
         ]
       },
       {
@@ -281,40 +1191,190 @@
           "darby": "Je parle à la façon des hommes, à cause de l'infirmité de votre chair. Car, comme vous avez livré vos membres comme esclaves à l'impureté et à l'iniquité pour l'iniquité, ainsi livrez maintenant vos membres comme esclaves à la justice pour la sainteté."
         },
         "interlinear": [
-          { "greek": "ἀνθρώπινον", "gloss": "humain/à_la_manière_des_hommes" },
-          { "greek": "λέγω", "gloss": "je_dis" },
-          { "greek": "διὰ", "gloss": "à_cause_de" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἀσθένειαν", "gloss": "faiblesse/infirmité", "analyse": "Composé du préfixe privatif *a-* et de *sthenos* (force). La chair (*sarx*) n'est pas diabolique en soi, elle est par nature dépourvue de la force divine (*a-stheneia*). Elle est le domaine de l'Ego qui s'épuise dans la friction horizontale." },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "σαρκὸς", "gloss": "chair" },
-          { "greek": "ὑμῶν·", "gloss": "de_vous" },
-          { "greek": "ὥσπερ", "gloss": "comme/de_même_que" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "παρεστήσατε", "gloss": "vous_avez_livré/présenté", "analyse": "Composé de *para-* (à côté de, auprès) et *histemi* (se tenir debout, placer). L'Ego s'était positionné 'tout contre' les pulsions du Monde duel pour s'y soumettre. Paul exige une transmutation de cette force d'adhésion : il faut réorienter ce *para-istemi* vers la divinité." },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "μέλη", "gloss": "membres" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "δοῦλα", "gloss": "esclaves" },
-          { "greek": "τῇ", "gloss": "à_l'" },
-          { "greek": "ἀκαθαρσίᾳ", "gloss": "impureté" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τῇ", "gloss": "à_l'" },
-          { "greek": "ἀνομίᾳ", "gloss": "iniquité", "analyse": "Formé du préfixe privatif *a-* et *nomos* (loi). L'anomie n'est pas une simple infraction légale. C'est l'absence de structuration intérieure. L'Ego coupé de l'Incréé dégénère en un chaos informel et une pure fragmentation (*eis ten anomian*)." },
-          { "greek": "εἰς", "gloss": "vers/pour" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἀνομίαν,", "gloss": "iniquité" },
-          { "greek": "οὕτως", "gloss": "ainsi" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "παραστήσατε", "gloss": "livrez/présentez" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "μέλη", "gloss": "membres" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "δοῦλα", "gloss": "esclaves" },
-          { "greek": "τῇ", "gloss": "à_la" },
-          { "greek": "δικαιοσύνῃ", "gloss": "justice" },
-          { "greek": "εἰς", "gloss": "vers/pour" },
-          { "greek": "ἁγιασμόν.", "gloss": "sainteté/sanctification", "analyse": "Du mot *hagios* (saint, séparé, tout autre). La sainteté n'est pas un perfectionnisme moral. C'est une séparation ontologique : le Sujet se déconnecte des réseaux mortifères du monde pour être entièrement consacré à la vitalité de la Présence." }
+          {
+            "greek": "ἀνθρώπινον",
+            "gloss": "humain/à_la_manière_des_hommes",
+            "annotation": {
+              "type": "analyse",
+              "title": "« Je parle à la manière humaine »",
+              "content": "Paul signale lui-même la limite de son langage. Cette précaution est essentielle pour entendre la métaphore de l’esclavage comme image d’appartenance sans sacraliser une institution oppressive.",
+              "related": [
+                "λέγω",
+                "ἀσθένειαν",
+                "σαρκὸς"
+              ]
+            }
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀσθένειαν",
+            "gloss": "faiblesse/infirmité",
+            "annotation": {
+              "type": "racine",
+              "title": "La faiblesse de la chair",
+              "content": "Ἀσθένεια associe le privatif ἀ- à la famille de σθένος, force : faiblesse ou incapacité. Paul explique ainsi son recours à une comparaison humaine ; il ne dit pas que la chair créée serait mauvaise par nature.",
+              "related": [
+                "σαρκὸς",
+                "ἀνθρώπινον"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "σαρκὸς",
+            "gloss": "chair"
+          },
+          {
+            "greek": "ὑμῶν·",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "ὥσπερ",
+            "gloss": "comme/de_même_que"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "παρεστήσατε",
+            "gloss": "vous_avez_livré/présenté",
+            "annotation": {
+              "type": "repetition",
+              "title": "Vous avez présenté — présentez maintenant",
+              "content": "Le verbe παρίστημι revient sous deux formes. Les membres autrefois mis à disposition de l’impureté sont maintenant présentés à la justice : la conversion engage concrètement le corps et les actes.",
+              "related": [
+                "παραστήσατε",
+                "μέλη",
+                "νῦν"
+              ]
+            }
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μέλη",
+            "gloss": "membres"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "δοῦλα",
+            "gloss": "esclaves"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_l'"
+          },
+          {
+            "greek": "ἀκαθαρσίᾳ",
+            "gloss": "impureté"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_l'"
+          },
+          {
+            "greek": "ἀνομίᾳ",
+            "gloss": "iniquité",
+            "annotation": {
+              "type": "racine",
+              "title": "Iniquité, absence de loi",
+              "content": "Ἀνομία est formé du privatif ἀ- et de νόμος, loi. Le mot désigne l’iniquité ou la transgression ; la répétition « de l’iniquité vers l’iniquité » montre une dynamique qui s’approfondit.",
+              "related": [
+                "ἀνομίαν,",
+                "ἀκαθαρσίᾳ"
+              ]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/pour"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἀνομίαν,",
+            "gloss": "iniquité"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "παραστήσατε",
+            "gloss": "livrez/présentez"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μέλη",
+            "gloss": "membres"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "δοῦλα",
+            "gloss": "esclaves"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "δικαιοσύνῃ",
+            "gloss": "justice"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/pour"
+          },
+          {
+            "greek": "ἁγιασμόν.",
+            "gloss": "sainteté/sanctification",
+            "annotation": {
+              "type": "theologie",
+              "title": "Vers la sanctification",
+              "content": "Ἁγιασμός désigne sanctification ou consécration. Au verset 19, il est la direction du service de la justice ; au verset 22, il en devient le fruit.",
+              "related": [
+                "δικαιοσύνῃ",
+                "ἁγιασμόν,",
+                "καρπὸν"
+              ]
+            }
+          }
         ]
       },
       {
@@ -324,39 +1384,162 @@
           "darby": "Car, lorsque vous étiez esclaves du péché, vous étiez libres à l'égard de la justice."
         },
         "interlinear": [
-          { "greek": "ὅτε", "gloss": "lorsque" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "δοῦλοι", "gloss": "esclaves" },
-          { "greek": "ἦτε", "gloss": "vous_étiez" },
-          { "greek": "τῆς", "gloss": "du" },
-          { "greek": "ἁμαρτίας,", "gloss": "péché" },
-          { "greek": "ἐλεύθεροι", "gloss": "libres", "analyse": "Le sarcasme spirituel de Paul : dans le Monde duel, l'Ego se croit libre parce qu'il n'a pas à rendre de compte à l'Axe vertical. Mais cette liberté à l'égard de la 'justesse' (*dikaiosyne*) est en réalité le masque de l'esclavage absolu au néant." },
-          { "greek": "ἦτε", "gloss": "vous_étiez" },
-          { "greek": "τῇ", "gloss": "à_l'égard_de_la" },
-          { "greek": "δικαιοσύνῃ.", "gloss": "justice" }
+          {
+            "greek": "ὅτε",
+            "gloss": "lorsque"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "δοῦλοι",
+            "gloss": "esclaves"
+          },
+          {
+            "greek": "ἦτε",
+            "gloss": "vous_étiez"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "ἁμαρτίας,",
+            "gloss": "péché"
+          },
+          {
+            "greek": "ἐλεύθεροι",
+            "gloss": "libres",
+            "annotation": {
+              "type": "analyse",
+              "title": "Une liberté qui se révèle stérile",
+              "content": "Paul use d’ironie : esclaves du péché, ils étaient « libres à l’égard de la justice ». Piste spirituelle issue du cours : l’autonomie revendiquée peut masquer une autre servitude ; la liberté se discerne au fruit qu’elle produit.",
+              "related": [
+                "δοῦλοι",
+                "ἁμαρτίας,",
+                "δικαιοσύνῃ.",
+                "καρπὸν"
+              ]
+            }
+          },
+          {
+            "greek": "ἦτε",
+            "gloss": "vous_étiez"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_l'égard_de_la"
+          },
+          {
+            "greek": "δικαιοσύνῃ.",
+            "gloss": "justice",
+            "annotation": {
+              "type": "theologie",
+              "title": "Au service de la justice",
+              "content": "Δικαιοσύνη désigne la justice ou la rectitude selon Dieu. Piste spirituelle issue du cours : elle peut être méditée comme une juste orientation de toute la personne, un axe retrouvé, sans exclure la portée morale et relationnelle du terme.",
+              "related": [
+                "ἐδουλώθητε",
+                "παραστήσατε",
+                "ἁγιασμόν."
+              ]
+            }
+          }
         ]
       },
-  {
+      {
         "verse_number": 21,
         "translations": {
           "segond": "Quels fruits portiez-vous alors ? Des fruits dont vous rougissez aujourd'hui. Car la fin de ces choses, c'est la mort.",
           "darby": "Quel fruit donc aviez-vous alors des choses dont vous avez honte maintenant ? car la fin de ces choses est la mort."
         },
         "interlinear": [
-          { "greek": "τίνα", "gloss": "Quel" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "καρπὸν", "gloss": "fruit" },
-          { "greek": "εἴχετε", "gloss": "aviez-vous" },
-          { "greek": "τότε", "gloss": "alors" },
-          { "greek": "ἐφ’", "gloss": "sur/pour" },
-          { "greek": "οἷς", "gloss": "lesquelles" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "ἐπαισχύνεσθε;", "gloss": "vous_avez_honte", "analyse": "Composé de *epi-* (sur) et *aischyne* (honte, confusion). C'est le regard que le Sujet éveillé pose *sur* les œuvres de son ancien Ego. La honte ici n'est pas une culpabilité moralisatrice, c'est le constat lucide de la stérilité absolue d'une vie vécue dans la séparation." },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τέλος", "gloss": "fin/accomplissement", "analyse": "Le *telos* (le but ultime, l'achèvement d'une trajectoire). La mécanique du Monde duel, basée sur la rétention et l'avidité, ne possède qu'une seule issue logique et entropique : l'épuisement total de l'énergie." },
-          { "greek": "ἐκείνων", "gloss": "de_ces_choses" },
-          { "greek": "θάνατος.", "gloss": "mort" }
+          {
+            "greek": "τίνα",
+            "gloss": "Quel"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "καρπὸν",
+            "gloss": "fruit",
+            "annotation": {
+              "type": "repetition",
+              "title": "Quel fruit ?",
+              "content": "Καρπός revient dans la question sur l’ancienne conduite puis dans l’affirmation du fruit présent. Paul invite à discerner un service par ce qu’il fait mûrir et par son terme.",
+              "related": [
+                "ἁγιασμόν,",
+                "τέλος",
+                "θάνατος."
+              ]
+            }
+          },
+          {
+            "greek": "εἴχετε",
+            "gloss": "aviez-vous"
+          },
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "ἐφ’",
+            "gloss": "sur/pour"
+          },
+          {
+            "greek": "οἷς",
+            "gloss": "lesquelles"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "ἐπαισχύνεσθε;",
+            "gloss": "vous_avez_honte",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ce dont vous avez maintenant honte",
+              "content": "La honte porte ici un regard rétrospectif sur des actes devenus stériles. Le « maintenant » du passage empêche qu’elle enferme la personne dans son passé : une libération et un fruit nouveaux sont annoncés.",
+              "related": [
+                "νῦν",
+                "καρπὸν",
+                "τέλος"
+              ]
+            }
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τέλος",
+            "gloss": "fin/accomplissement",
+            "annotation": {
+              "type": "repetition",
+              "title": "Deux termes opposés",
+              "content": "Τέλος signifie fin, terme, résultat ou accomplissement. Le terme de l’ancienne conduite est la mort ; celui du fruit de sanctification est la vie éternelle.",
+              "related": [
+                "θάνατος.",
+                "ζωὴν",
+                "αἰώνιον."
+              ]
+            }
+          },
+          {
+            "greek": "ἐκείνων",
+            "gloss": "de_ces_choses"
+          },
+          {
+            "greek": "θάνατος.",
+            "gloss": "mort"
+          }
         ]
       },
       {
@@ -366,27 +1549,140 @@
           "darby": "Mais maintenant, ayant été affranchis du péché et asservis à Dieu, vous avez votre fruit dans la sainteté et pour fin la vie éternelle."
         },
         "interlinear": [
-          { "greek": "νυνὶ", "gloss": "Maintenant" },
-          { "greek": "δέ,", "gloss": "or/mais" },
-          { "greek": "ἐλευθερωθέντες", "gloss": "ayant_été_affranchis" },
-          { "greek": "ἀπὸ", "gloss": "de", "analyse": "Nouvelle occurrence de *apo-* (séparation). La métanoïa exige cette coupure spatiale et vibratoire d'avec les anciens schémas d'identification." },
-          { "greek": "τῆς", "gloss": "le" },
-          { "greek": "ἁμαρτίας", "gloss": "péché" },
-          { "greek": "δουλωθέντες", "gloss": "ayant_été_asservis" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "θεῷ,", "gloss": "Dieu" },
-          { "greek": "ἔχετε", "gloss": "vous_avez" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "καρπὸν", "gloss": "fruit" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "εἰς", "gloss": "pour/vers" },
-          { "greek": "ἁγιασμόν,", "gloss": "sainteté" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τέλος", "gloss": "fin/but" },
-          { "greek": "ζωὴν", "gloss": "vie" },
-          { "greek": "αἰώνιον.", "gloss": "éternelle", "analyse": "La *zoe aionios* (la vie de l'Éon, la vie appartenant à l'Incréé). Il ne s'agit pas d'un allongement chronologique infini du temps horizontal, mais d'un saut qualitatif dans l'Éternel Présent, libre de toute dégénérescence." }
+          {
+            "greek": "νυνὶ",
+            "gloss": "Maintenant"
+          },
+          {
+            "greek": "δέ,",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἐλευθερωθέντες",
+            "gloss": "ayant_été_affranchis",
+            "annotation": {
+              "type": "theologie",
+              "title": "Ayant été libérés",
+              "content": "Le participe passif de ἐλευθερόω présente la libération du péché comme une action reçue. Cette liberté reçoit aussitôt une direction : le service de la justice puis de Dieu.",
+              "related": [
+                "ἀπὸ",
+                "ἁμαρτίας",
+                "ἐδουλώθητε"
+              ]
+            }
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de",
+            "annotation": {
+              "type": "racine",
+              "title": "Libérés du péché — ἀπό",
+              "content": "La préposition ἀπό marque l’éloignement ou la séparation : « libérés du péché ». Elle revient au verset 22 et ouvre chaque fois vers une appartenance nouvelle, non vers une autonomie sans relation.",
+              "related": [
+                "ἐλευθερωθέντες",
+                "ἁμαρτίας",
+                "δουλωθέντες"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἁμαρτίας",
+            "gloss": "péché"
+          },
+          {
+            "greek": "δουλωθέντες",
+            "gloss": "ayant_été_asservis"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "θεῷ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἔχετε",
+            "gloss": "vous_avez"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "καρπὸν",
+            "gloss": "fruit",
+            "annotation": {
+              "type": "repetition",
+              "title": "Quel fruit ?",
+              "content": "Καρπός revient dans la question sur l’ancienne conduite puis dans l’affirmation du fruit présent. Paul invite à discerner un service par ce qu’il fait mûrir et par son terme.",
+              "related": [
+                "ἁγιασμόν,",
+                "τέλος",
+                "θάνατος."
+              ]
+            }
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour/vers"
+          },
+          {
+            "greek": "ἁγιασμόν,",
+            "gloss": "sainteté"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τέλος",
+            "gloss": "fin/but",
+            "annotation": {
+              "type": "repetition",
+              "title": "Deux termes opposés",
+              "content": "Τέλος signifie fin, terme, résultat ou accomplissement. Le terme de l’ancienne conduite est la mort ; celui du fruit de sanctification est la vie éternelle.",
+              "related": [
+                "θάνατος.",
+                "ζωὴν",
+                "αἰώνιον."
+              ]
+            }
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "vie"
+          },
+          {
+            "greek": "αἰώνιον.",
+            "gloss": "éternelle",
+            "annotation": {
+              "type": "theologie",
+              "title": "La vie éternelle",
+              "content": "Αἰώνιος qualifie ce qui appartient à l’âge à venir ou demeure éternellement. Piste spirituelle issue du cours : la vie éternelle ne se réduit pas à une durée indéfinie ; elle est une qualité de communion à Dieu, déjà reçue en Christ et promise dans son accomplissement.",
+              "related": [
+                "ζωὴν",
+                "τέλος",
+                "Χριστῷ"
+              ]
+            }
+          }
         ]
       },
       {
@@ -396,28 +1692,200 @@
           "darby": "Car les gages du péché, c'est la mort ; mais le don de grâce de Dieu, c'est la vie éternelle dans le Christ Jésus, notre Seigneur."
         },
         "interlinear": [
-          { "greek": "τὰ", "gloss": "Les" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ὀψώνια", "gloss": "salaires/rations_militaires", "analyse": "Du mot *opsonia* (la solde versée à un mercenaire). Ce terme dévoile la logique implacable du Monde duel : il est purement transactionnel. L'Ego 'travaille' pour lui-même et reçoit le salaire proportionnel à son enfermement : l'entropie et la mort (*thanatos*)." },
-          { "greek": "τῆς", "gloss": "du" },
-          { "greek": "ἁμαρτίας", "gloss": "péché" },
-          { "greek": "θάνατος,", "gloss": "mort" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "χάρισμα", "gloss": "don_de_grâce", "analyse": "Le *charisma*. En opposition absolue au 'salaire' transactionnel de l'Ego, l'Incréé ne paie pas : Il donne par pure effusion. On ne 'gagne' pas la vie spirituelle, on l'accueille par le lâcher-prise de la kénose." },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "ζωὴ", "gloss": "vie" },
-          { "greek": "αἰώνιος", "gloss": "éternelle" },
-          { "greek": "ἐν", "gloss": "dans", "analyse": "Le préfixe *en-* (à l'intérieur de). La Grâce ne nous est pas donnée comme un objet extérieur que l'on pourrait posséder. Elle se déploie à l'intérieur même de l'Axe Christique. Le Sujet ne trouve la Vie qu'en s'incorporant *dans* cet Axe." },
-          { "greek": "Χριστῷ", "gloss": "Christ" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "κυρίῳ", "gloss": "Seigneur" },
-          { "greek": "ἡμῶν.", "gloss": "de_nous" }
+          {
+            "greek": "τὰ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὀψώνια",
+            "gloss": "salaires/rations_militaires",
+            "annotation": {
+              "type": "traduction",
+              "title": "La solde du péché",
+              "content": "Ὀψώνια désigne des provisions, une ration ou la solde d’un soldat. L’image convient au vocabulaire du service : le péché verse comme salaire la mort.",
+              "related": [
+                "ἁμαρτίας",
+                "θάνατος,"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "ἁμαρτίας",
+            "gloss": "péché"
+          },
+          {
+            "greek": "θάνατος,",
+            "gloss": "mort"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "χάρισμα",
+            "gloss": "don_de_grâce",
+            "annotation": {
+              "type": "racine",
+              "title": "Le don de grâce",
+              "content": "Χάρισμα appartient à la famille de χάρις, grâce. Contrairement à la solde gagnée, la vie éternelle est le don gratuit de Dieu ; Paul oppose deux logiques qui ne sont pas symétriques.",
+              "related": [
+                "θεοῦ",
+                "ζωὴ",
+                "αἰώνιος"
+              ]
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ζωὴ",
+            "gloss": "vie"
+          },
+          {
+            "greek": "αἰώνιος",
+            "gloss": "éternelle"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans",
+            "annotation": {
+              "type": "theologie",
+              "title": "La vie en Jésus-Christ",
+              "content": "La préposition ἐν situe le don : la vie éternelle est en Jésus-Christ notre Seigneur. Elle n’est ni une possession autonome ni un salaire détaché de la relation au Christ.",
+              "related": [
+                "Χριστῷ",
+                "Ἰησοῦ",
+                "κυρίῳ"
+              ]
+            }
+          },
+          {
+            "greek": "Χριστῷ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἡμῶν.",
+            "gloss": "de_nous"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 19 - ἀνομίᾳ : Souvent traduit par 'iniquité' (Segond, Darby), ce qui confère au texte une coloration purement morale ou juridique. Mais la structure *a-nomos* (sans loi) désigne littéralement l'anomie, c'est-à-dire l'absence de structuration ou de principe d'unité. Être esclave de l'anomie, c'est se laisser disloquer par les forces chaotiques du Monde duel.\n• Verset 23 - ὀψώνια / χάρισμα : Segond utilise 'salaire' et 'don gratuit'. L'opposition grecque est vertigineuse et quasi ironique chez Paul : l'*opsonia* désigne la solde du mercenaire, tandis que le *charisma* est le jaillissement gratuit (*charis*) de la faveur divine. Les traducteurs rendent bien l'idée, mais la charge étymologique montre à quel point Paul méprise la logique comptable du péché.\n\nAnalyse spirituelle :\nCette conclusion du chapitre 6 des Romains est un traité de métaphysique fulgurant sur le passage de la transaction à la Grâce.\n\nL'Ego, par définition, cherche l'autonomie absolue (être sa propre loi, se libérer de la Justice). Mais Paul démontre, par une ironie spirituelle mordante au verset 20, que cette prétendue 'liberté' n'est qu'un asservissement à l'anomie (la désintégration de l'être). Dans le Monde duel, l'individu est toujours l'esclave de ses propres pulsions de survie, d'apparence ou d'appropriation (*sarx*, la chair). Le point culminant de cette dynamique horizontale est économique : l'Ego est un mercenaire qui s'épuise pour toucher son salaire (*opsonia*). Et puisque tout système fermé est condamné à l'entropie, la paie finale est logiquement la mort.\n\nLe basculement ontologique s'opère par l'affranchissement (*apo-*). Le Sujet consent à mourir à cette logique du 'donnant-donnant'. Il accepte de devenir 'esclave' de Dieu, c'est-à-dire de s'aligner sur l'Axe vertical (*dikaiosyne*, la justesse de positionnement). Dans ce Royaume UN, le concept même de salaire disparaît. Le Divin ne récompense pas des mérites, Il s'écoule par pur *Charisma*. Ce don n'est pas extérieur, il exige que le Sujet demeure *en* Christ, devenant le canal transparent de la Vie éternelle."
+    "personal_analysis": "Notes sur le texte grec :\n• Romains 6, 18 — ἐλευθερωθέντες / ἐδουλώθητε : « ayant été libérés / vous avez été asservis ». Les deux passifs construisent un paradoxe : la libération du péché conduit au service de la justice. Paul précise au verset suivant qu’il parle « à la manière humaine » à cause de la faiblesse de la chair ; l’image ne légitime pas l’institution historique de l’esclavage.\n• Romains 6, 19 — παρεστήσατε / παραστήσατε : « vous avez présenté / présentez maintenant ». La répétition du même verbe montre une réorientation des membres et des actes. Le préfixe παρά appartient au composé ; le sens contextuel est mettre à disposition ou présenter au service.\n• Romains 6, 19 — ἀνομία : « absence de loi, transgression, iniquité ». La formation ἀ- privatif + νόμος est transparente, mais Paul parle d’une conduite contraire à la loi de Dieu, non d’une théorie ontologique du chaos.\n• Romains 6, 19 et 22 — ἁγιασμός : « sanctification, consécration ». Le mot désigne le processus ou l’état d’être consacré à Dieu. Il ne se réduit ni au perfectionnisme moral ni à une séparation d’avec toute réalité du monde.\n• Romains 6, 23 — ὀψώνια / χάρισμα : « solde, salaire / don de grâce ». Ὀψώνια peut désigner la ration ou la solde du soldat ; χάρισμα, formé sur χάρις, désigne un don gracieux. Paul oppose ce que le péché verse comme solde — la mort — à ce que Dieu donne gratuitement — la vie éternelle.\n\nAnalyse spirituelle :\nPiste spirituelle transmise par le cours : Paul fait passer de la transaction à la grâce, d’une autonomie qui se révèle asservissement à une appartenance vivifiante. Le mouvement ἀπό peut être médité comme séparation d’avec les anciens conditionnements ; la présentation des membres comme réorientation de toute la personne ; le contraste entre ὀψώνια et χάρισμα comme renversement de la logique comptable. Le vocabulaire d’axe, d’alignement et d’intériorité demeure ici une lecture spirituelle, non une traduction littérale des racines.\n\nPaul décrit la liberté non comme une absence totale d’appartenance, mais comme un changement de service. Sa métaphore est volontairement rude et il en reconnaît la limite. Être libéré du péché ne signifie pas devenir un individu sans relation ni direction : les facultés corporelles et les actes, autrefois mis à disposition de l’impureté, sont maintenant présentés à la justice.\n\nLe mouvement de ἀπό est ici réel et précis : libérés du péché. Mais cette séparation reçoit immédiatement une orientation positive : servir la justice, puis Dieu. La liberté chrétienne n’est donc ni arrachement perpétuel ni autonomie absolue ; elle devient disponibilité à une relation qui porte un fruit nouveau.\n\nPaul invite ensuite à juger les appartenances par leur fruit et leur terme. Ce dont les croyants ont maintenant honte portait vers la mort. Libérés du péché et devenus serviteurs de Dieu, ils ont leur fruit pour la sanctification et leur terme dans la vie éternelle. La honte ne doit pas enfermer dans l’identité passée : le « maintenant » du texte ouvre une situation nouvelle.\n\nLa dernière opposition résume tout le passage. Le péché verse une solde ; Dieu donne un χάρισμα. La mort apparaît comme le salaire d’une puissance servie, tandis que la vie éternelle demeure un don qui ne peut être exigé comme rémunération. Ce don n’est pas abstrait : il est « en Jésus-Christ notre Seigneur ».\n\nL’Apôtre éclaire ainsi l’Évangile du centurion. L’officier connaît la force d’une parole dans une relation d’autorité, mais il ne réclame aucun mérite devant Jésus. Paul conduit pareillement de la logique du salaire à celle du don : la parole du Seigneur guérit et la vie en Christ est reçue.",
+    "homiletic_axes": [
+      {
+        "title": "Libérés du péché, mis au service de la justice",
+        "content": "Les passifs soulignent une transformation reçue. Paul emploie une image humaine et limitée pour montrer qu’une liberté véritable possède une orientation et porte dans les actes.",
+        "keywords": [
+          "ἐλευθερωθέντες",
+          "ἀπὸ",
+          "ἁμαρτίας",
+          "ἐδουλώθητε",
+          "δικαιοσύνῃ."
+        ]
+      },
+      {
+        "title": "Présenter maintenant ses membres",
+        "content": "Le même verbe relie l’ancien et le nouveau service. Le corps n’est pas méprisé : ses membres deviennent le lieu concret où change l’appartenance.",
+        "keywords": [
+          "παρεστήσατε",
+          "μέλη",
+          "νῦν",
+          "παραστήσατε",
+          "δικαιοσύνῃ"
+        ]
+      },
+      {
+        "title": "Reconnaître un arbre à son fruit et à son terme",
+        "content": "Paul demande quel fruit produisait l’ancienne conduite, puis nomme le fruit présent : la sanctification. Les deux chemins reçoivent leur terme, mort ou vie éternelle.",
+        "keywords": [
+          "καρπὸν",
+          "τέλος",
+          "θάνατος.",
+          "ἁγιασμόν,",
+          "ζωὴν",
+          "αἰώνιον."
+        ]
+      },
+      {
+        "title": "Le salaire du péché et le don de Dieu",
+        "content": "La conclusion oppose deux logiques asymétriques : le péché verse sa solde, mais Dieu ne paie pas un mérite ; il donne la vie éternelle en Jésus-Christ.",
+        "keywords": [
+          "ὀψώνια",
+          "θάνατος,",
+          "χάρισμα",
+          "ζωὴ",
+          "Χριστῷ"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez votre fil : libération, appartenance, membres présentés, maintenant, fruit, sanctification, terme, salaire, don gratuit ou vie en Christ."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement de l’Apôtre",
+        "prompt": "Suivez une progression : du péché à la justice ; de l’ancienne présentation des membres à leur orientation nouvelle ; du fruit de la honte au fruit de sanctification ; ou du salaire au don."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Annoncez le don central : Dieu libère du péché, ouvre un service fécond et donne gratuitement la vie éternelle en Jésus-Christ."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une situation : liberté confondue avec l’absence de liens, habitude qui asservit, corps mis au service d’un désir destructeur, honte du passé, impression de devoir mériter Dieu ou besoin d’un fruit nouveau."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Proposez un passage concret : identifier ce que l’on sert, présenter à Dieu une faculté ou un acte, accueillir le « maintenant » sans rester enfermé dans la honte, choisir un fruit de justice ou recevoir la vie comme don."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Expliquez la limite de la métaphore de l’esclavage. Faites entendre les répétitions, puis opposez clairement ce qui est gagné comme salaire à ce qui est reçu gratuitement en Christ."
+      }
+    ],
+    "liturgical_echoes": []
   }
 }
