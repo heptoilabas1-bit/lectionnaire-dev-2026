@@ -47,6 +47,10 @@ document.addEventListener('DOMContentLoaded', () => {
         '316_after_pentecost_16': 'La parabole des talents (16e de Matthieu)',
         '317_after_pentecost_17': 'La Cananéenne (17e de Matthieu)',
 
+        // --- Dimanches autour de l’Exaltation de la Sainte-Croix ---
+        '96_cross_before': 'Dimanche avant l’Exaltation de la Sainte-Croix',
+        '97_cross_after': 'Dimanche après l’Exaltation de la Sainte-Croix',
+
         // --- Cycle de Luc (Automne - Octoèque suite) ---
         '318_after_pentecost_18': 'La Pêche miraculeuse (1er de Luc)',
         '319_after_pentecost_19': 'L\'Amour des ennemis (2e de Luc)',
