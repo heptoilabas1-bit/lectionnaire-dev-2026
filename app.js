@@ -284,7 +284,9 @@ document.addEventListener('DOMContentLoaded', () => {
         ].filter(Boolean);
 
         return {
-            title: liturgicalList[currentSundayKey] || 'Homélie',
+            title: liturgicalList[currentSundayKey]
+                || currentCalendarEntry?.official_title
+                || 'Homélie',
             reference: references.join(' · '),
             homily_template: buildUnifiedHomilyTemplate(data)
         };
@@ -788,9 +790,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 option.value = sunday.date;
                 const sourceTitle = sunday.official_title || sunday.doxologia_title;
                 const relatedTitle = sunday.key
-                    ? liturgicalList[sunday.key]
+                    ? liturgicalList[sunday.key] || sourceTitle
                     : sourceTitle || liturgicalList[sunday.related_key];
-                const sourceTitleSuffix = sunday.key && sourceTitle
+                const sourceTitleSuffix = sunday.key && sourceTitle && liturgicalList[sunday.key]
                     ? ` (${sourceTitle})`
                     : '';
                 option.textContent = `${dateFormatter.format(date)} — ${relatedTitle}${sourceTitleSuffix}`;
@@ -821,7 +823,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 const checks = (calendar.cross_checks || [])
                     .map(source => `<a href="${source.url}" target="_blank" rel="noopener noreferrer">${source.name}</a>`)
                     .join(' et ');
-                calendarStatus.innerHTML = `Calendrier ${calendar.year} : <a href="${calendar.source.url}" target="_blank" rel="noopener noreferrer">source officielle ${calendar.source.name}</a>${checks ? `, contrôlée avec ${checks}` : ''}.`;
+                const officialSource = calendar.source.url
+                    ? `<a href="${calendar.source.url}" target="_blank" rel="noopener noreferrer">source officielle ${calendar.source.name}</a>`
+                    : `source officielle ${calendar.source.name}`;
+                calendarStatus.innerHTML = `Calendrier ${calendar.year} : ${officialSource}${checks ? `, contrôlé avec ${checks}` : ''}.`;
             }
             const today = new Date();
             if (today.getFullYear() === calendar.year) {
