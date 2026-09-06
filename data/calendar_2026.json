@@ -1,8 +1,8 @@
 {
   "year": 2026,
   "source": {
-    "name": "Patriarhie roumaine",
-    "url": "https://calendar.patriarhia.ro/"
+    "name": "Métropole Orthodoxe Roumaine d’Europe Occidentale et Méridionale — Doyenné de France",
+    "url": "https://www.mitropolia.eu/fr/site/155/"
   },
   "cross_checks": [
     {
@@ -17,250 +17,791 @@
   "sundays": [
     {
       "date": "2026-01-04",
-      "key": "93_theophany_before"
+      "key": "93_theophany_before",
+      "official_title": "30e dimanche après la Pentecôte. Dimanche avant la Théophanie.",
+      "readings": {
+        "apostle": {
+          "reference": "2 Timothée 4, 5-8",
+          "key": "93_theophany_before"
+        },
+        "gospel": {
+          "reference": "Marc 1, 1-8",
+          "key": "93_theophany_before"
+        }
+      }
     },
     {
       "date": "2026-01-11",
-      "key": "94_theophany_after"
+      "key": "94_theophany_after",
+      "official_title": "Dimanche après la Théophanie. 31e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "Éphésiens 4, 7-13",
+          "key": "94_theophany_after"
+        },
+        "gospel": {
+          "reference": "Matthieu 4, 12-17",
+          "key": "94_theophany_after"
+        }
+      }
     },
     {
       "date": "2026-01-18",
-      "key": null,
-      "related_key": "328_after_pentecost_28",
-      "official_title": "29e dimanche après la Pentecôte — guérison des dix lépreux",
+      "key": "98_calendar_2026_01_18",
+      "official_title": "32e dimanche après la Pentecôte.",
       "readings": {
-        "gospel": {
-          "reference": "Luc 17, 12-19",
-          "key": "328_after_pentecost_28"
-        },
         "apostle": {
           "reference": "Colossiens 1, 12-18",
-          "key": null
+          "key": "98_calendar_2026_01_18"
+        },
+        "gospel": {
+          "reference": "Luc 17, 12-19",
+          "key": "98_calendar_2026_01_18"
         }
       },
-      "note": "L’Évangile correspond à la fiche « Les Dix Lépreux ». Pour cette date, le calendrier officiel indique Colossiens 1, 12-18, tandis que la fiche actuelle contient Colossiens 3, 4-11."
+      "note": "Fiche réunifiée selon le calendrier liturgique officiel : Colossiens 1, 12-18 et Luc 17, 12-19."
     },
     {
       "date": "2026-01-25",
-      "key": "332_after_pentecost_32"
+      "key": "332_after_pentecost_32",
+      "official_title": "33e dimanche après la Pentecôte. Dimanche de Zachée",
+      "readings": {
+        "apostle": {
+          "reference": "1 Timothée 4, 9-15",
+          "key": "332_after_pentecost_32"
+        },
+        "gospel": {
+          "reference": "Luc 19, 1-10",
+          "key": "332_after_pentecost_32"
+        }
+      }
     },
     {
       "date": "2026-02-01",
-      "key": "00_publican_pharisee"
+      "key": "00_publican_pharisee",
+      "official_title": "Dimanche du Pharisien et du Publicain (début du Triode).",
+      "readings": {
+        "apostle": {
+          "reference": "2 Timothée 3, 10-15",
+          "key": "00_publican_pharisee"
+        },
+        "gospel": {
+          "reference": "Luc 18, 10-14",
+          "key": "00_publican_pharisee"
+        }
+      }
     },
     {
       "date": "2026-02-08",
-      "key": "01_prodigal_son"
+      "key": "01_prodigal_son",
+      "official_title": "Dimanche du Fils Prodigue.",
+      "readings": {
+        "apostle": {
+          "reference": "1 Corinthiens 6, 12-20",
+          "key": "01_prodigal_son"
+        },
+        "gospel": {
+          "reference": "Luc 15, 11-32",
+          "key": "01_prodigal_son"
+        }
+      }
     },
     {
       "date": "2026-02-15",
-      "key": "02_meatfare"
+      "key": "02_meatfare",
+      "official_title": "Dimanche du Jugement dernier (du Carnaval ou du dernier jour de viande).",
+      "readings": {
+        "apostle": {
+          "reference": "1 Corinthiens 8, 8 - 9, 2",
+          "key": "02_meatfare"
+        },
+        "gospel": {
+          "reference": "Matthieu 25, 31-46",
+          "key": "02_meatfare"
+        }
+      }
     },
     {
       "date": "2026-02-22",
-      "key": "03_cheese_fare"
+      "key": "03_cheese_fare",
+      "official_title": "Dimanche de l’Expulsion d’Adam — dimanche du Pardon",
+      "readings": {
+        "apostle": {
+          "reference": "Romains 13, 11 - 14, 4",
+          "key": "03_cheese_fare"
+        },
+        "gospel": {
+          "reference": "Matthieu 6, 14-21",
+          "key": "03_cheese_fare"
+        }
+      }
     },
     {
       "date": "2026-03-01",
-      "key": "10_great_lent_1"
+      "key": "10_great_lent_1",
+      "official_title": "1er dimanche de Carême. Dimanche du Triomphe de l’Orthodoxie.",
+      "readings": {
+        "apostle": {
+          "reference": "Hébreux 11, 24-26 ; 32 - 12, 2",
+          "key": "10_great_lent_1"
+        },
+        "gospel": {
+          "reference": "Jean 1, 43-51",
+          "key": "10_great_lent_1"
+        }
+      }
     },
     {
       "date": "2026-03-08",
-      "key": "11_great_lent_2"
+      "key": "11_great_lent_2",
+      "official_title": "2e dimanche de Carême de saint Grégoire Palamas.",
+      "readings": {
+        "apostle": {
+          "reference": "Hébreux 1, 10 - 2, 3",
+          "key": "11_great_lent_2"
+        },
+        "gospel": {
+          "reference": "Marc 2, 1-12",
+          "key": "11_great_lent_2"
+        }
+      }
     },
     {
       "date": "2026-03-15",
-      "key": "12_great_lent_3"
+      "key": "12_great_lent_3",
+      "official_title": "3e dimanche de Carême — Vénération de la Sainte Croix.",
+      "readings": {
+        "apostle": {
+          "reference": "Hébreux 4, 14 - 5, 6",
+          "key": "12_great_lent_3"
+        },
+        "gospel": {
+          "reference": "Marc 8, 34 - 9, 1",
+          "key": "12_great_lent_3"
+        }
+      }
     },
     {
       "date": "2026-03-22",
-      "key": "13_great_lent_4"
+      "key": "13_great_lent_4",
+      "official_title": "4e dimanche de Carême dit « de saint Jean Climaque ».",
+      "readings": {
+        "apostle": {
+          "reference": "Hébreux 6, 13-20",
+          "key": "13_great_lent_4"
+        },
+        "gospel": {
+          "reference": "Marc 9, 17-31",
+          "key": "13_great_lent_4"
+        }
+      }
     },
     {
       "date": "2026-03-29",
-      "key": "14_great_lent_5"
+      "key": "14_great_lent_5",
+      "official_title": "5e dimanche de Carême de sainte Marie l’Egyptienne.",
+      "readings": {
+        "apostle": {
+          "reference": "Hébreux 9, 11-14",
+          "key": "14_great_lent_5"
+        },
+        "gospel": {
+          "reference": "Marc 10, 32-45",
+          "key": "14_great_lent_5"
+        }
+      }
     },
     {
       "date": "2026-04-05",
-      "key": "15_palm_sunday"
+      "key": "15_palm_sunday",
+      "official_title": "Dimanche des Rameaux.",
+      "readings": {
+        "apostle": {
+          "reference": "Philippiens 4, 4-9",
+          "key": "15_palm_sunday"
+        },
+        "gospel": {
+          "reference": "Jean 12, 1-18",
+          "key": "15_palm_sunday"
+        }
+      }
     },
     {
       "date": "2026-04-12",
-      "key": "21_pascha"
+      "key": "21_pascha",
+      "official_title": "Pâques. Résurrection du Christ.",
+      "readings": {
+        "apostle": {
+          "reference": "Actes 1, 1-8",
+          "key": "21_pascha"
+        },
+        "gospel": {
+          "reference": "Jean 1, 1-17",
+          "key": "21_pascha"
+        }
+      }
     },
     {
       "date": "2026-04-19",
-      "key": "22_thomas_sunday"
+      "key": "22_thomas_sunday",
+      "official_title": "2e dimanche après Pâques. Dimanche de Thomas.",
+      "readings": {
+        "apostle": {
+          "reference": "Actes 5, 12-20",
+          "key": "22_thomas_sunday"
+        },
+        "gospel": {
+          "reference": "Jean 20, 19-31",
+          "key": "22_thomas_sunday"
+        }
+      }
     },
     {
       "date": "2026-04-26",
-      "key": "23_myrrhbearers"
+      "key": "23_myrrhbearers",
+      "official_title": "3e dimanche après Pâques — dimanche des Myrrhophores et du juste Joseph",
+      "readings": {
+        "apostle": {
+          "reference": "Actes 6, 1-7",
+          "key": "23_myrrhbearers"
+        },
+        "gospel": {
+          "reference": "Marc 15, 43 - 16, 8",
+          "key": "23_myrrhbearers"
+        }
+      }
     },
     {
       "date": "2026-05-03",
-      "key": "24_paralytic"
+      "key": "24_paralytic",
+      "official_title": "4e dimanche après Pâques. Dimanche du Paralytique.",
+      "readings": {
+        "apostle": {
+          "reference": "Actes 9, 32-42",
+          "key": "24_paralytic"
+        },
+        "gospel": {
+          "reference": "Jean 5, 1-15",
+          "key": "24_paralytic"
+        }
+      }
     },
     {
       "date": "2026-05-10",
-      "key": "25_samaritan"
+      "key": "25_samaritan",
+      "official_title": "5e dimanche après Pâques. Dimanche de la Samaritaine.",
+      "readings": {
+        "apostle": {
+          "reference": "Actes 11, 19-26 ; 29-30",
+          "key": "25_samaritan"
+        },
+        "gospel": {
+          "reference": "Jean 4, 5-42",
+          "key": "25_samaritan"
+        }
+      }
     },
     {
       "date": "2026-05-17",
-      "key": "26_blind_man"
+      "key": "26_blind_man",
+      "official_title": "6e dimanche après Pâques. Dimanche de l’Aveugle-né.",
+      "readings": {
+        "apostle": {
+          "reference": "Actes 16, 16-34",
+          "key": "26_blind_man"
+        },
+        "gospel": {
+          "reference": "Jean 9, 1-38",
+          "key": "26_blind_man"
+        }
+      }
     },
     {
       "date": "2026-05-24",
-      "key": "27_holy_fathers_1"
+      "key": "27_holy_fathers_1",
+      "official_title": "7e dimanche après Pâques — dimanche des saints Pères du Premier Concile œcuménique",
+      "readings": {
+        "apostle": {
+          "reference": "Actes 20, 16-18 ; 28-36",
+          "key": "27_holy_fathers_1"
+        },
+        "gospel": {
+          "reference": "Jean 17, 1-13",
+          "key": "27_holy_fathers_1"
+        }
+      }
     },
     {
       "date": "2026-05-31",
-      "key": "28_pentecost"
+      "key": "28_pentecost",
+      "official_title": "Pentecôte. Fête de la Très Sainte Trinité.",
+      "readings": {
+        "apostle": {
+          "reference": "Actes 2, 1-11",
+          "key": "28_pentecost"
+        },
+        "gospel": {
+          "reference": "Jean 7, 37-52 ; 8, 12",
+          "key": "28_pentecost"
+        }
+      }
     },
     {
       "date": "2026-06-07",
-      "key": "29_all_saints"
+      "key": "29_all_saints",
+      "official_title": "1er dimanche après la Pentecôte. Fête de tous les saints.",
+      "readings": {
+        "apostle": {
+          "reference": "Hébreux 11, 33 - 12, 2",
+          "key": "29_all_saints"
+        },
+        "gospel": {
+          "reference": "Matthieu 10, 32-33 ; 37-38 ; 19, 27-30",
+          "key": "29_all_saints"
+        }
+      }
     },
     {
       "date": "2026-06-14",
-      "key": "302_after_pentecost_2"
+      "key": "302_after_pentecost_2",
+      "official_title": "2e dimanche après la Pentecôte. Fête de tous les saints de Roumanie.",
+      "readings": {
+        "apostle": {
+          "reference": "Romains 2, 10-16",
+          "key": "302_after_pentecost_2"
+        },
+        "gospel": {
+          "reference": "Matthieu 4, 18-23",
+          "key": "302_after_pentecost_2"
+        }
+      }
     },
     {
       "date": "2026-06-21",
-      "key": "303_after_pentecost_3"
+      "key": "303_after_pentecost_3",
+      "official_title": "3e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "Romains 5, 1-10",
+          "key": "303_after_pentecost_3"
+        },
+        "gospel": {
+          "reference": "Matthieu 6, 22-33",
+          "key": "303_after_pentecost_3"
+        }
+      }
     },
     {
       "date": "2026-06-28",
-      "key": "304_after_pentecost_4"
+      "key": "304_after_pentecost_4",
+      "official_title": "4e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "Romains 6, 18-23",
+          "key": "304_after_pentecost_4"
+        },
+        "gospel": {
+          "reference": "Matthieu 8, 5-13",
+          "key": "304_after_pentecost_4"
+        }
+      }
     },
     {
       "date": "2026-07-05",
-      "key": "305_after_pentecost_5"
+      "key": "305_after_pentecost_5",
+      "official_title": "5e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "Romains 10, 1-10",
+          "key": "305_after_pentecost_5"
+        },
+        "gospel": {
+          "reference": "Matthieu 8, 28 - 9, 1",
+          "key": "305_after_pentecost_5"
+        }
+      }
     },
     {
       "date": "2026-07-12",
-      "key": "306_after_pentecost_6"
+      "key": "306_after_pentecost_6",
+      "official_title": "6e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "Romains 12, 6-14",
+          "key": "306_after_pentecost_6"
+        },
+        "gospel": {
+          "reference": "Matthieu 9, 1-8",
+          "key": "306_after_pentecost_6"
+        }
+      }
     },
     {
       "date": "2026-07-19",
-      "key": "307_after_pentecost_7"
+      "key": "307_after_pentecost_7",
+      "official_title": "7e dimanche après la Pentecôte — dimanche des Pères des six premiers Conciles œcuméniques",
+      "readings": {
+        "apostle": {
+          "reference": "Romains 15, 1-7",
+          "key": "307_after_pentecost_7"
+        },
+        "gospel": {
+          "reference": "Matthieu 9, 27-35",
+          "key": "307_after_pentecost_7"
+        }
+      },
+      "note": "Lectures propres des Pères, indiquées séparément par le calendrier officiel : Tite 3, 8-15 et Jean 17, 1-13."
     },
     {
       "date": "2026-07-26",
-      "key": "308_after_pentecost_8"
+      "key": "308_after_pentecost_8",
+      "official_title": "8e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "1 Corinthiens 1, 10-18",
+          "key": "308_after_pentecost_8"
+        },
+        "gospel": {
+          "reference": "Matthieu 14, 14-22",
+          "key": "308_after_pentecost_8"
+        }
+      }
     },
     {
       "date": "2026-08-02",
-      "key": "309_after_pentecost_9"
+      "key": "309_after_pentecost_9",
+      "official_title": "9e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "1 Corinthiens 3, 9-17",
+          "key": "309_after_pentecost_9"
+        },
+        "gospel": {
+          "reference": "Matthieu 14, 22-34",
+          "key": "309_after_pentecost_9"
+        }
+      }
     },
     {
       "date": "2026-08-09",
-      "key": "310_after_pentecost_10"
+      "key": "310_after_pentecost_10",
+      "official_title": "10e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "1 Corinthiens 4, 9-16",
+          "key": "310_after_pentecost_10"
+        },
+        "gospel": {
+          "reference": "Matthieu 17, 14-23",
+          "key": "310_after_pentecost_10"
+        }
+      }
     },
     {
       "date": "2026-08-16",
-      "key": "311_after_pentecost_11"
+      "key": "311_after_pentecost_11",
+      "official_title": "11e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "1 Corinthiens 9, 2-12",
+          "key": "311_after_pentecost_11"
+        },
+        "gospel": {
+          "reference": "Matthieu 18, 23-35",
+          "key": "311_after_pentecost_11"
+        }
+      }
     },
     {
       "date": "2026-08-23",
-      "key": "312_after_pentecost_12"
+      "key": "312_after_pentecost_12",
+      "official_title": "12e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "1 Corinthiens 15, 1-11",
+          "key": "312_after_pentecost_12"
+        },
+        "gospel": {
+          "reference": "Matthieu 19, 16-26",
+          "key": "312_after_pentecost_12"
+        }
+      }
     },
     {
       "date": "2026-08-30",
-      "key": "313_after_pentecost_13"
+      "key": "313_after_pentecost_13",
+      "official_title": "13e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "1 Corinthiens 16, 13-24",
+          "key": "313_after_pentecost_13"
+        },
+        "gospel": {
+          "reference": "Matthieu 21, 33-44",
+          "key": "313_after_pentecost_13"
+        }
+      },
+      "note": "Le PDF français imprime « 1 Corinthiens 14, 13-24 » ; l’usage liturgique roumain 2026 et la péricope reçue donnent 1 Corinthiens 16, 13-24."
     },
     {
       "date": "2026-09-06",
-      "key": "314_after_pentecost_14"
+      "key": "314_after_pentecost_14",
+      "official_title": "14e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "2 Corinthiens 1, 21 - 2, 4",
+          "key": "314_after_pentecost_14"
+        },
+        "gospel": {
+          "reference": "Matthieu 22, 1-14",
+          "key": "314_after_pentecost_14"
+        }
+      }
     },
     {
       "date": "2026-09-13",
       "key": "96_cross_before",
       "doxologia_title": "Dimanche avant l’Exaltation de la Sainte-Croix",
       "readings": {
-        "gospel": {
-          "reference": "Jean 3, 13-17",
-          "key": "96_cross_before"
-        },
         "apostle": {
           "reference": "Galates 6, 11-18",
           "key": "96_cross_before"
+        },
+        "gospel": {
+          "reference": "Jean 3, 13-17",
+          "key": "96_cross_before"
         }
       },
-      "note": "Lectures propres au dimanche avant l’Exaltation de la Sainte-Croix."
+      "note": "Lectures propres au dimanche avant l’Exaltation de la Sainte-Croix.",
+      "official_title": "15e dimanche après la Pentecôte. Dimanche avant la Croix."
     },
     {
       "date": "2026-09-20",
       "key": "97_cross_after",
       "doxologia_title": "Dimanche après l’Exaltation de la Sainte-Croix",
       "readings": {
-        "gospel": {
-          "reference": "Marc 8, 34 - 9, 1",
-          "key": "97_cross_after"
-        },
         "apostle": {
           "reference": "Galates 2, 16-20",
           "key": "97_cross_after"
+        },
+        "gospel": {
+          "reference": "Marc 8, 34 - 9, 1",
+          "key": "97_cross_after"
         }
       },
-      "note": "Lectures propres au dimanche après l’Exaltation de la Sainte-Croix."
+      "note": "Lectures propres au dimanche après l’Exaltation de la Sainte-Croix.",
+      "official_title": "16e dimanche après la Pentecôte. Dimanche après la Croix."
     },
     {
       "date": "2026-09-27",
-      "key": "318_after_pentecost_18"
+      "key": "318_after_pentecost_18",
+      "official_title": "17e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "2 Corinthiens 9, 6-11",
+          "key": "318_after_pentecost_18"
+        },
+        "gospel": {
+          "reference": "Luc 5, 1-11",
+          "key": "318_after_pentecost_18"
+        }
+      }
     },
     {
       "date": "2026-10-04",
-      "key": "319_after_pentecost_19"
+      "key": "319_after_pentecost_19",
+      "official_title": "18e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "2 Corinthiens 11, 31 - 12, 9",
+          "key": "319_after_pentecost_19"
+        },
+        "gospel": {
+          "reference": "Luc 6, 31-36",
+          "key": "319_after_pentecost_19"
+        }
+      }
     },
     {
       "date": "2026-10-11",
-      "key": "321_after_pentecost_21",
-      "official_title": "21e dimanche après la Pentecôte — dimanche des Pères du VIIe Concile œcuménique",
-      "note": "L’Évangile correspond à la fiche « Le Semeur ». Le calendrier officiel indique Galates 2, 16-20 pour le dimanche et Tite 3, 8-15 pour les saints Pères ; cette seconde épître est celle qui figure actuellement dans la fiche."
+      "key": "98_calendar_2026_10_11",
+      "official_title": "19e dimanche après la Pentecôte — dimanche des Pères du VIIe Concile œcuménique",
+      "note": "La fiche principale suit les lectures dominicales : Galates 2, 16-20 et Luc 8, 5-15. Lectures propres des Pères, indiquées séparément par le calendrier officiel : Tite 3, 8-15 et Jean 17, 1-13.",
+      "readings": {
+        "apostle": {
+          "reference": "Galates 2, 16-20",
+          "key": "98_calendar_2026_10_11"
+        },
+        "gospel": {
+          "reference": "Luc 8, 5-15",
+          "key": "98_calendar_2026_10_11"
+        }
+      }
     },
     {
       "date": "2026-10-18",
-      "key": "320_after_pentecost_20"
+      "key": "320_after_pentecost_20",
+      "official_title": "20e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "Galates 1, 11-19",
+          "key": "320_after_pentecost_20"
+        },
+        "gospel": {
+          "reference": "Luc 7, 11-16",
+          "key": "320_after_pentecost_20"
+        }
+      }
     },
     {
       "date": "2026-10-25",
-      "key": "323_after_pentecost_23"
+      "key": "323_after_pentecost_23",
+      "official_title": "21e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "Éphésiens 2, 4-10",
+          "key": "323_after_pentecost_23"
+        },
+        "gospel": {
+          "reference": "Luc 8, 26-39",
+          "key": "323_after_pentecost_23"
+        }
+      }
     },
     {
       "date": "2026-11-01",
-      "key": "322_after_pentecost_22"
+      "key": "322_after_pentecost_22",
+      "official_title": "22e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "Galates 6, 11-18",
+          "key": "322_after_pentecost_22"
+        },
+        "gospel": {
+          "reference": "Luc 16, 19-31",
+          "key": "322_after_pentecost_22"
+        }
+      }
     },
     {
       "date": "2026-11-08",
-      "key": "324_after_pentecost_24"
+      "key": "324_after_pentecost_24",
+      "official_title": "23e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "Éphésiens 2, 14-22",
+          "key": "324_after_pentecost_24"
+        },
+        "gospel": {
+          "reference": "Luc 8, 41-56",
+          "key": "324_after_pentecost_24"
+        }
+      }
     },
     {
       "date": "2026-11-15",
-      "key": "325_after_pentecost_25"
+      "key": "325_after_pentecost_25",
+      "official_title": "24e dimanche après la Pentecôte. 1er dimanche de l’Avent.",
+      "readings": {
+        "apostle": {
+          "reference": "Éphésiens 4, 1-7",
+          "key": "325_after_pentecost_25"
+        },
+        "gospel": {
+          "reference": "Luc 10, 25-37",
+          "key": "325_after_pentecost_25"
+        }
+      }
     },
     {
       "date": "2026-11-22",
-      "key": "326_after_pentecost_26"
+      "key": "326_after_pentecost_26",
+      "official_title": "25e dimanche après la Pentecôte. 2e dimanche de l’Avent.",
+      "readings": {
+        "apostle": {
+          "reference": "Éphésiens 5, 8-19",
+          "key": "326_after_pentecost_26"
+        },
+        "gospel": {
+          "reference": "Luc 12, 16-21",
+          "key": "326_after_pentecost_26"
+        }
+      }
     },
     {
       "date": "2026-11-29",
-      "key": "330_after_pentecost_30"
+      "key": "330_after_pentecost_30",
+      "official_title": "26e dimanche après la Pentecôte. 3e dimanche de l’Avent.",
+      "readings": {
+        "apostle": {
+          "reference": "Colossiens 3, 12-16",
+          "key": "330_after_pentecost_30"
+        },
+        "gospel": {
+          "reference": "Luc 18, 18-27",
+          "key": "330_after_pentecost_30"
+        }
+      }
     },
     {
       "date": "2026-12-06",
-      "key": "327_after_pentecost_27"
+      "key": "327_after_pentecost_27",
+      "official_title": "27e dimanche après la Pentecôte. 4e dimanche de l'Avent.",
+      "readings": {
+        "apostle": {
+          "reference": "Éphésiens 6, 10-17",
+          "key": "327_after_pentecost_27"
+        },
+        "gospel": {
+          "reference": "Luc 13, 10-17",
+          "key": "327_after_pentecost_27"
+        }
+      }
     },
     {
       "date": "2026-12-13",
-      "key": "90_advent_2"
+      "key": "90_advent_2",
+      "official_title": "28e dimanche après la Pentecôte — dimanche des Ancêtres — 5e dimanche de l’Avent",
+      "readings": {
+        "apostle": {
+          "reference": "Colossiens 3, 4-11",
+          "key": "90_advent_2"
+        },
+        "gospel": {
+          "reference": "Luc 14, 16-24",
+          "key": "90_advent_2"
+        }
+      }
     },
     {
       "date": "2026-12-20",
-      "key": "91_advent_1"
+      "key": "91_advent_1",
+      "official_title": "29e dimanche après la Pentecôte — dimanche des Pères ou de la Généalogie — 6e dimanche de l’Avent",
+      "readings": {
+        "apostle": {
+          "reference": "Hébreux 11, 9-10 ; 32-40",
+          "key": "91_advent_1"
+        },
+        "gospel": {
+          "reference": "Matthieu 1, 1-25",
+          "key": "91_advent_1"
+        }
+      }
     },
     {
       "date": "2026-12-27",
-      "key": "92_nativity_after"
+      "key": "92_nativity_after",
+      "official_title": "30e dimanche après la Pentecôte — dimanche après la Nativité",
+      "readings": {
+        "apostle": {
+          "reference": "Galates 1, 11-19",
+          "key": "92_nativity_after"
+        },
+        "gospel": {
+          "reference": "Matthieu 2, 13-23",
+          "key": "92_nativity_after"
+        }
+      }
     }
   ]
 }
