@@ -1,6 +1,6 @@
 {
   "gospel": {
-    "reference": "Matthieu 21, 33-42",
+    "reference": "Matthieu 21, 33-44",
     "title": "Les Vignerons Homicides : Le Rejet du Fils et la Pierre d'Angle",
     "interlinear": [
       {
@@ -886,6 +886,160 @@
           {
             "greek": "ἡμῶν;",
             "gloss": "de_nous"
+          }
+        ]
+      },
+      {
+        "verse_number": 43,
+        "translations": {
+          "segond": "C’est pourquoi, je vous le dis, le royaume de Dieu vous sera enlevé, et sera donné à une nation qui en rendra les fruits.",
+          "darby": "C’est pourquoi je vous dis que le royaume de Dieu vous sera ôté, et sera donné à une nation qui en rapportera les fruits."
+        },
+        "interlinear": [
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἀρθήσεται",
+            "gloss": "sera_enlevé"
+          },
+          {
+            "greek": "ἀφ᾽",
+            "gloss": "de"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλεία",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δοθήσεται",
+            "gloss": "sera_donné"
+          },
+          {
+            "greek": "ἔθνει",
+            "gloss": "à_une_nation"
+          },
+          {
+            "greek": "ποιοῦντι",
+            "gloss": "produisant"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρποὺς",
+            "gloss": "fruits"
+          },
+          {
+            "greek": "αὐτῆς.",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 44,
+        "translations": {
+          "segond": "Celui qui tombera sur cette pierre s’y brisera, et celui sur qui elle tombera sera écrasé.",
+          "darby": "Et celui qui tombera sur cette pierre sera brisé ; mais celui sur qui elle tombera, elle le broiera."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "πεσὼν",
+            "gloss": "étant_tombé"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "λίθον",
+            "gloss": "pierre"
+          },
+          {
+            "greek": "τοῦτον",
+            "gloss": "celle-ci"
+          },
+          {
+            "greek": "συνθλασθήσεται·",
+            "gloss": "sera_brisé"
+          },
+          {
+            "greek": "ἐφ᾽",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "qui"
+          },
+          {
+            "greek": "δ᾽",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "le_cas_échéant"
+          },
+          {
+            "greek": "πέσῃ",
+            "gloss": "elle_tombe"
+          },
+          {
+            "greek": "λικμήσει",
+            "gloss": "elle_broiera"
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
           }
         ]
       }
