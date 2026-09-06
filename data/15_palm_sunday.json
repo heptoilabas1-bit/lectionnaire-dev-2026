@@ -1,6 +1,6 @@
 {
   "gospel": {
-    "reference": "Jean 12, 1-18 (Partie 1/2)",
+    "reference": "Jean 12, 1-18",
     "title": "L'Onction à Béthanie : Gratuité du Sujet et calcul de l'Ego",
     "interlinear": [
       {
@@ -10,25 +10,82 @@
           "darby": "Jésus donc, six jours avant la Pâque, vint à Béthanie où était Lazare le mort, que Jésus avait ressuscité d'entre les morts."
         },
         "interlinear": [
-          { "greek": "Ὁ", "gloss": "Le" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "πρὸ", "gloss": "avant" },
-          { "greek": "ἓξ", "gloss": "six" },
-          { "greek": "ἡμερῶν", "gloss": "jours" },
-          { "greek": "τοῦ", "gloss": "de_la" },
-          { "greek": "πάσχα", "gloss": "Pâque" },
-          { "greek": "ἦλθεν", "gloss": "vint" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Βηθανίαν,", "gloss": "Béthanie" },
-          { "greek": "ὅπου", "gloss": "où" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "Λάζαρος,", "gloss": "Lazare" },
-          { "greek": "ὃν", "gloss": "lequel" },
-          { "greek": "ἤγειρεν", "gloss": "avait_ressuscité" },
-          { "greek": "ἐκ", "gloss": "d'entre" },
-          { "greek": "νεκρῶν", "gloss": "les_morts" },
-          { "greek": "Ἰησοῦς.", "gloss": "Jésus" }
+          {
+            "greek": "Ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "πρὸ",
+            "gloss": "avant"
+          },
+          {
+            "greek": "ἓξ",
+            "gloss": "six"
+          },
+          {
+            "greek": "ἡμερῶν",
+            "gloss": "jours"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πάσχα",
+            "gloss": "Pâque"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "vint"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Βηθανίαν,",
+            "gloss": "Béthanie"
+          },
+          {
+            "greek": "ὅπου",
+            "gloss": "où"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "Λάζαρος,",
+            "gloss": "Lazare"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "ἤγειρεν",
+            "gloss": "avait_ressuscité"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "d'entre"
+          },
+          {
+            "greek": "νεκρῶν",
+            "gloss": "les_morts"
+          },
+          {
+            "greek": "Ἰησοῦς.",
+            "gloss": "Jésus"
+          }
         ]
       },
       {
@@ -38,25 +95,82 @@
           "darby": "On lui fit donc là un souper, et Marthe servait ; et Lazare était un de ceux qui étaient à table avec lui."
         },
         "interlinear": [
-          { "greek": "ἐποίησαν", "gloss": "Ils_firent" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "δεῖπνον", "gloss": "un_souper" },
-          { "greek": "ἐκεῖ,", "gloss": "là" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "Μάρθα", "gloss": "Marthe" },
-          { "greek": "διηκόνει,", "gloss": "servait" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Λάζαρος", "gloss": "Lazare" },
-          { "greek": "εἷς", "gloss": "un" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῶν", "gloss": "ceux" },
-          { "greek": "ἀνακειμένων", "gloss": "étant_à_table" },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "αὐτῷ.", "gloss": "lui" }
+          {
+            "greek": "ἐποίησαν",
+            "gloss": "Ils_firent"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "δεῖπνον",
+            "gloss": "un_souper"
+          },
+          {
+            "greek": "ἐκεῖ,",
+            "gloss": "là"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "Μάρθα",
+            "gloss": "Marthe"
+          },
+          {
+            "greek": "διηκόνει,",
+            "gloss": "servait"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Λάζαρος",
+            "gloss": "Lazare"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἀνακειμένων",
+            "gloss": "étant_à_table"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῷ.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -66,37 +180,131 @@
           "darby": "Marie donc, ayant pris une livre de parfum de nard pur de grand prix, oignit les pieds de Jésus et lui essuya les pieds avec ses cheveux ; et la maison fut remplie de l'odeur du parfum."
         },
         "interlinear": [
-          { "greek": "ἡ", "gloss": "La" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "Μαριὰμ", "gloss": "Marie" },
-          { "greek": "λαβοῦσα", "gloss": "ayant_pris" },
-          { "greek": "λίτραν", "gloss": "une_livre" },
-          { "greek": "μύρου", "gloss": "de_parfum" },
-          { "greek": "νάρδου", "gloss": "de_nard" },
-          { "greek": "πιστικῆς", "gloss": "pur/authentique", "analyse": "Le mot 'pistikos' renvoie à ce qui est authentique, digne de confiance. L'acte de Marie échappe totalement à l'utilitarisme du Monde duel. Elle ne cherche pas à être utile ou à faire une œuvre morale : elle pose un acte de pure gratuité, le seul langage que connaît le Royaume UN." },
-          { "greek": "πολυτίμου", "gloss": "de_grand_prix" },
-          { "greek": "ἤλειψεν", "gloss": "oignit" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "πόδας", "gloss": "pieds" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐξέμαξεν", "gloss": "essuya" },
-          { "greek": "ταῖς", "gloss": "avec_les" },
-          { "greek": "θριξὶν", "gloss": "cheveux" },
-          { "greek": "αὐτῆς", "gloss": "d'elle" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "πόδας", "gloss": "pieds" },
-          { "greek": "αὐτοῦ·", "gloss": "de_lui" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "οἰκία", "gloss": "maison" },
-          { "greek": "ἐπληρώθη", "gloss": "fut_remplie" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "l'" },
-          { "greek": "ὀσμῆς", "gloss": "odeur" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "μύρου.", "gloss": "parfum" }
+          {
+            "greek": "ἡ",
+            "gloss": "La"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "Μαριὰμ",
+            "gloss": "Marie"
+          },
+          {
+            "greek": "λαβοῦσα",
+            "gloss": "ayant_pris"
+          },
+          {
+            "greek": "λίτραν",
+            "gloss": "une_livre"
+          },
+          {
+            "greek": "μύρου",
+            "gloss": "de_parfum"
+          },
+          {
+            "greek": "νάρδου",
+            "gloss": "de_nard"
+          },
+          {
+            "greek": "πιστικῆς",
+            "gloss": "pur/authentique",
+            "analyse": "Le mot 'pistikos' renvoie à ce qui est authentique, digne de confiance. L'acte de Marie échappe totalement à l'utilitarisme du Monde duel. Elle ne cherche pas à être utile ou à faire une œuvre morale : elle pose un acte de pure gratuité, le seul langage que connaît le Royaume UN."
+          },
+          {
+            "greek": "πολυτίμου",
+            "gloss": "de_grand_prix"
+          },
+          {
+            "greek": "ἤλειψεν",
+            "gloss": "oignit"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πόδας",
+            "gloss": "pieds"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐξέμαξεν",
+            "gloss": "essuya"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "avec_les"
+          },
+          {
+            "greek": "θριξὶν",
+            "gloss": "cheveux"
+          },
+          {
+            "greek": "αὐτῆς",
+            "gloss": "d'elle"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πόδας",
+            "gloss": "pieds"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "οἰκία",
+            "gloss": "maison"
+          },
+          {
+            "greek": "ἐπληρώθη",
+            "gloss": "fut_remplie"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὀσμῆς",
+            "gloss": "odeur"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "μύρου.",
+            "gloss": "parfum"
+          }
         ]
       },
       {
@@ -106,20 +314,62 @@
           "darby": "L'un de ses disciples donc, Judas Iscariote, fils de Simon, qui allait le livrer, dit :"
         },
         "interlinear": [
-          { "greek": "Λέγει", "gloss": "Dit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Ἰούδας", "gloss": "Judas" },
-          { "greek": "ὁ", "gloss": "l'" },
-          { "greek": "Ἰσκαριώτης", "gloss": "Iscariot" },
-          { "greek": "εἷς", "gloss": "un" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "μαθητῶν", "gloss": "disciples" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "μέλλων", "gloss": "devant" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "παραδιδόναι·", "gloss": "livrer" }
+          {
+            "greek": "Λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἰούδας",
+            "gloss": "Judas"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "Ἰσκαριώτης",
+            "gloss": "Iscariot"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθητῶν",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "μέλλων",
+            "gloss": "devant"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "παραδιδόναι·",
+            "gloss": "livrer"
+          }
         ]
       },
       {
@@ -129,18 +379,55 @@
           "darby": "Pourquoi ce parfum n'a-t-il pas été vendu trois cents deniers, et donné aux pauvres ?"
         },
         "interlinear": [
-          { "greek": "Διὰ", "gloss": "Pour" },
-          { "greek": "τί", "gloss": "quoi" },
-          { "greek": "τοῦτο", "gloss": "ce" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "μύρον", "gloss": "parfum" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἐπράθη", "gloss": "a_été_vendu" },
-          { "greek": "τριακοσίων", "gloss": "trois_cents" },
-          { "greek": "δηναρίων", "gloss": "deniers", "analyse": "L'intrusion de l'Ego calculateur par excellence. Judas évalue l'amour au tarif du marché (300 deniers). Le Monde duel est incapable de comprendre la kénose de Marie : tout y est ramené au chiffre, à la rentabilité et à l'usage moralisateur." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐδόθη", "gloss": "donné" },
-          { "greek": "πτωχοῖς;", "gloss": "aux_pauvres" }
+          {
+            "greek": "Διὰ",
+            "gloss": "Pour"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quoi"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "ce"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μύρον",
+            "gloss": "parfum"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐπράθη",
+            "gloss": "a_été_vendu"
+          },
+          {
+            "greek": "τριακοσίων",
+            "gloss": "trois_cents"
+          },
+          {
+            "greek": "δηναρίων",
+            "gloss": "deniers",
+            "analyse": "L'intrusion de l'Ego calculateur par excellence. Judas évalue l'amour au tarif du marché (300 deniers). Le Monde duel est incapable de comprendre la kénose de Marie : tout y est ramené au chiffre, à la rentabilité et à l'usage moralisateur."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐδόθη",
+            "gloss": "donné"
+          },
+          {
+            "greek": "πτωχοῖς;",
+            "gloss": "aux_pauvres"
+          }
         ]
       },
       {
@@ -150,27 +437,91 @@
           "darby": "Or il dit cela, non qu'il se souciât des pauvres, mais parce qu'il était voleur, et qu'il avait la bourse et portait ce qu'on y mettait."
         },
         "interlinear": [
-          { "greek": "εἶπεν", "gloss": "il_dit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τοῦτο", "gloss": "cela" },
-          { "greek": "οὐχ", "gloss": "non" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "περὶ", "gloss": "pour" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "πτωχῶν", "gloss": "pauvres" },
-          { "greek": "ἔμελεν", "gloss": "il_se_souciait" },
-          { "greek": "αὐτῷ,", "gloss": "de_lui" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "ὅτι", "gloss": "parce_qu'" },
-          { "greek": "κλέπτης", "gloss": "voleur", "analyse": "Le 'pauvre' n'est ici qu'un concept idéologique, un masque dont se pare l'Ego pour se justifier et objectiver l'autre. Sous couvert de morale, c'est la pulsion de vol, de préhension et de possession (tenir la bourse) qui s'exprime. L'idéologie mondaine cache toujours une volonté de domination." },
-          { "greek": "ἦν", "gloss": "il_était" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "γλωσσόκομον", "gloss": "coffret/bourse" },
-          { "greek": "ἔχων", "gloss": "ayant" },
-          { "greek": "τὰ", "gloss": "les_choses" },
-          { "greek": "βαλλόμενα", "gloss": "étant_mises" },
-          { "greek": "ἐβάσταζεν.", "gloss": "il_portait/dérobait" }
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "οὐχ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "πτωχῶν",
+            "gloss": "pauvres"
+          },
+          {
+            "greek": "ἔμελεν",
+            "gloss": "il_se_souciait"
+          },
+          {
+            "greek": "αὐτῷ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_qu'"
+          },
+          {
+            "greek": "κλέπτης",
+            "gloss": "voleur",
+            "analyse": "Le 'pauvre' n'est ici qu'un concept idéologique, un masque dont se pare l'Ego pour se justifier et objectiver l'autre. Sous couvert de morale, c'est la pulsion de vol, de préhension et de possession (tenir la bourse) qui s'exprime. L'idéologie mondaine cache toujours une volonté de domination."
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "il_était"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "γλωσσόκομον",
+            "gloss": "coffret/bourse"
+          },
+          {
+            "greek": "ἔχων",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "βαλλόμενα",
+            "gloss": "étant_mises"
+          },
+          {
+            "greek": "ἐβάσταζεν.",
+            "gloss": "il_portait/dérobait"
+          }
         ]
       },
       {
@@ -180,21 +531,66 @@
           "darby": "Jésus donc dit : Laisse-la ; elle l'a gardé pour le jour de ma sépulture."
         },
         "interlinear": [
-          { "greek": "εἶπεν", "gloss": "Dit" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-          { "greek": "Ἄφες", "gloss": "Laisse" },
-          { "greek": "αὐτήν,", "gloss": "la" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "ἡμέραν", "gloss": "jour" },
-          { "greek": "τοῦ", "gloss": "de_la" },
-          { "greek": "ἐνταφιασμοῦ", "gloss": "sépulture" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "τηρήσῃ", "gloss": "elle_le_garde" },
-          { "greek": "αὐτό·", "gloss": "le" }
+          {
+            "greek": "εἶπεν",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Ἄφες",
+            "gloss": "Laisse"
+          },
+          {
+            "greek": "αὐτήν,",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἡμέραν",
+            "gloss": "jour"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἐνταφιασμοῦ",
+            "gloss": "sépulture"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τηρήσῃ",
+            "gloss": "elle_le_garde"
+          },
+          {
+            "greek": "αὐτό·",
+            "gloss": "le"
+          }
         ]
       },
       {
@@ -204,44 +600,354 @@
           "darby": "Car les pauvres, vous les avez toujours avec vous ; mais moi, vous ne m'avez pas toujours."
         },
         "interlinear": [
-          { "greek": "τοὺς", "gloss": "Les" },
-          { "greek": "πτωχοὺς", "gloss": "pauvres" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "πάντοτε", "gloss": "toujours" },
-          { "greek": "ἔχετε", "gloss": "vous_avez" },
-          { "greek": "μεθ’", "gloss": "avec" },
-          { "greek": "ἑαυτῶν,", "gloss": "vous-mêmes" },
-          { "greek": "ἐμὲ", "gloss": "moi" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "πάντοτε", "gloss": "toujours" },
-          { "greek": "ἔχετε.", "gloss": "vous_avez" }
-         ]
+          {
+            "greek": "τοὺς",
+            "gloss": "Les"
+          },
+          {
+            "greek": "πτωχοὺς",
+            "gloss": "pauvres"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "πάντοτε",
+            "gloss": "toujours"
+          },
+          {
+            "greek": "ἔχετε",
+            "gloss": "vous_avez"
+          },
+          {
+            "greek": "μεθ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ἑαυτῶν,",
+            "gloss": "vous-mêmes"
+          },
+          {
+            "greek": "ἐμὲ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "πάντοτε",
+            "gloss": "toujours"
+          },
+          {
+            "greek": "ἔχετε.",
+            "gloss": "vous_avez"
+          }
+        ]
       },
       {
-    "verse_number": 12,
+        "verse_number": 9,
+        "translations": {
+          "segond": "Une grande multitude de Juifs apprirent que Jésus était à Béthanie ; et ils y vinrent, non pas seulement à cause de lui, mais aussi pour voir Lazare, qu’il avait ressuscité des morts.",
+          "darby": "Une grande foule d’entre les Juifs sut donc qu’il était là, et ils vinrent, non seulement à cause de Jésus, mais aussi pour voir Lazare qu’il avait ressuscité d’entre les morts."
+        },
+        "interlinear": [
+          {
+            "greek": "Ἔγνω",
+            "gloss": "apprit"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄχλος",
+            "gloss": "foule"
+          },
+          {
+            "greek": "πολὺς",
+            "gloss": "nombreuse"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "d’entre"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "Ἰουδαίων",
+            "gloss": "Juifs"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "ἐστιν,",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἦλθον",
+            "gloss": "ils_vinrent"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦν",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "μόνον,",
+            "gloss": "seulement"
+          },
+          {
+            "greek": "ἀλλ᾽",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_de"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Λάζαρον",
+            "gloss": "Lazare"
+          },
+          {
+            "greek": "ἴδωσιν",
+            "gloss": "voir"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἤγειρεν",
+            "gloss": "il_avait_ressuscité"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "d’entre"
+          },
+          {
+            "greek": "νεκρῶν.",
+            "gloss": "les_morts"
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "Les principaux sacrificateurs délibérèrent de faire mourir aussi Lazare,",
+          "darby": "Mais les principaux sacrificateurs tinrent conseil, afin de faire mourir aussi Lazare ;"
+        },
+        "interlinear": [
+          {
+            "greek": "ἐβουλεύσαντο",
+            "gloss": "ils_délibérèrent"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀρχιερεῖς",
+            "gloss": "grands_prêtres"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Λάζαρον",
+            "gloss": "Lazare"
+          },
+          {
+            "greek": "ἀποκτείνωσιν,",
+            "gloss": "ils_fassent_mourir"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "parce que beaucoup de Juifs se retiraient d’eux à cause de lui, et croyaient en Jésus.",
+          "darby": "car, à cause de lui, plusieurs des Juifs s’en allaient et croyaient en Jésus."
+        },
+        "interlinear": [
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "πολλοὶ",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "δι᾽",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὑπῆγον",
+            "gloss": "s’en_allaient"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "Ἰουδαίων",
+            "gloss": "Juifs"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπίστευον",
+            "gloss": "ils_croyaient"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦν.",
+            "gloss": "Jésus"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
         "translations": {
           "segond": "Le lendemain, une foule nombreuse de gens venus à la fête ayant entendu dire que Jésus se rendait à Jérusalem,",
           "darby": "Le lendemain, une grande foule qui était venue à la fête, entendant que Jésus venait à Jérusalem,"
         },
         "interlinear": [
-          { "greek": "Τῇ", "gloss": "Le" },
-          { "greek": "ἐπαύριον", "gloss": "lendemain" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "ὄχλος", "gloss": "foule" },
-          { "greek": "πολὺς", "gloss": "nombreuse/grande" },
-          { "greek": "ὁ", "gloss": "qui" },
-          { "greek": "ἐλθὼν", "gloss": "était_venue" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἑορτήν,", "gloss": "fête" },
-          { "greek": "ἀκούσαντες", "gloss": "ayant_entendu" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ἔρχεται", "gloss": "vient" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Ἱεροσόλυμα,", "gloss": "Jérusalem" }
+          {
+            "greek": "Τῇ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "ἐπαύριον",
+            "gloss": "lendemain"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄχλος",
+            "gloss": "foule"
+          },
+          {
+            "greek": "πολὺς",
+            "gloss": "nombreuse/grande"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "était_venue"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἑορτήν,",
+            "gloss": "fête"
+          },
+          {
+            "greek": "ἀκούσαντες",
+            "gloss": "ayant_entendu"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἔρχεται",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἱεροσόλυμα,",
+            "gloss": "Jérusalem"
+          }
         ]
       },
       {
@@ -251,30 +957,103 @@
           "darby": "prirent des branches de palmiers, et sortirent au-devant de lui, et criaient : Hosanna ! Béni soit celui qui vient au nom du Seigneur, le roi d'Israël !"
         },
         "interlinear": [
-          { "greek": "ἔλαβον", "gloss": "prirent" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "βαΐα", "gloss": "branches" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "φοινίκων", "gloss": "palmiers" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐξῆλθον", "gloss": "sortirent" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "ὑπάντησιν", "gloss": "la_rencontre" },
-          { "greek": "αὐτῷ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐκραύγαζον·", "gloss": "criaient" },
-          { "greek": "Ὡσαννά·", "gloss": "Hosanna" },
-          { "greek": "Εὐλογημένος", "gloss": "Béni" },
-          { "greek": "ὁ", "gloss": "celui_qui" },
-          { "greek": "ἐρχόμενος", "gloss": "vient" },
-          { "greek": "ἐν", "gloss": "au" },
-          { "greek": "ὀνόματι", "gloss": "nom" },
-          { "greek": "κυρίου,", "gloss": "du_Seigneur" },
-          { "greek": "καὶ", "gloss": "et/même" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "βασιλεὺς", "gloss": "roi", "analyse": "Le 'Roi' acclamé par la foule est une projection. Dans le Monde duel, la masse attend un monarque politique, un libérateur terrestre pour écraser les Romains (le pouvoir). Ils objectivent Jésus. Le drame des Rameaux, c'est le malentendu absolu entre un Messie qui vient mourir à l'Ego, et une foule qui veut la victoire de son Ego national." },
-          { "greek": "τοῦ", "gloss": "d'Israël" },
-          { "greek": "Ἰσραήλ.", "gloss": "Israël" }
+          {
+            "greek": "ἔλαβον",
+            "gloss": "prirent"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "βαΐα",
+            "gloss": "branches"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "φοινίκων",
+            "gloss": "palmiers"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐξῆλθον",
+            "gloss": "sortirent"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "ὑπάντησιν",
+            "gloss": "la_rencontre"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐκραύγαζον·",
+            "gloss": "criaient"
+          },
+          {
+            "greek": "Ὡσαννά·",
+            "gloss": "Hosanna"
+          },
+          {
+            "greek": "Εὐλογημένος",
+            "gloss": "Béni"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "ἐρχόμενος",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "au"
+          },
+          {
+            "greek": "ὀνόματι",
+            "gloss": "nom"
+          },
+          {
+            "greek": "κυρίου,",
+            "gloss": "du_Seigneur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et/même"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλεὺς",
+            "gloss": "roi",
+            "analyse": "Le 'Roi' acclamé par la foule est une projection. Dans le Monde duel, la masse attend un monarque politique, un libérateur terrestre pour écraser les Romains (le pouvoir). Ils objectivent Jésus. Le drame des Rameaux, c'est le malentendu absolu entre un Messie qui vient mourir à l'Ego, et une foule qui veut la victoire de son Ego national."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "d'Israël"
+          },
+          {
+            "greek": "Ἰσραήλ.",
+            "gloss": "Israël"
+          }
         ]
       },
       {
@@ -284,17 +1063,51 @@
           "darby": "Or Jésus, ayant trouvé un ânon, s'assit dessus, selon qu'il est écrit :"
         },
         "interlinear": [
-          { "greek": "εὑρὼν", "gloss": "Ayant_trouvé" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ὀνάριον", "gloss": "un_petit_âne", "analyse": "Face à la projection de puissance de la foule, Jésus pose un acte prophétique de kénose. Il refuse le cheval de guerre (symbole de la préhension et de la violence). Monter un petit âne, c'est désamorcer physiquement l'idéologie du pouvoir. C'est entrer à Jérusalem non comme un conquérant du Monde duel, mais comme le Prince du Royaume UN, dans une nudité absolue." },
-          { "greek": "ἐκάθισεν", "gloss": "s'assit" },
-          { "greek": "ἐπ’", "gloss": "sur" },
-          { "greek": "αὐτό,", "gloss": "lui" },
-          { "greek": "καθώς", "gloss": "comme" },
-          { "greek": "ἐστιν", "gloss": "il_est" },
-          { "greek": "γεγραμμένον·", "gloss": "écrit" }
+          {
+            "greek": "εὑρὼν",
+            "gloss": "Ayant_trouvé"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ὀνάριον",
+            "gloss": "un_petit_âne",
+            "analyse": "Face à la projection de puissance de la foule, Jésus pose un acte prophétique de kénose. Il refuse le cheval de guerre (symbole de la préhension et de la violence). Monter un petit âne, c'est désamorcer physiquement l'idéologie du pouvoir. C'est entrer à Jérusalem non comme un conquérant du Monde duel, mais comme le Prince du Royaume UN, dans une nudité absolue."
+          },
+          {
+            "greek": "ἐκάθισεν",
+            "gloss": "s'assit"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "αὐτό,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καθώς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "γεγραμμένον·",
+            "gloss": "écrit"
+          }
         ]
       },
       {
@@ -304,19 +1117,58 @@
           "darby": "Ne crains point, fille de Sion ; voici, ton roi vient, assis sur le poulain d'une ânesse."
         },
         "interlinear": [
-          { "greek": "Μὴ", "gloss": "Ne...pas" },
-          { "greek": "φοβοῦ,", "gloss": "crains" },
-          { "greek": "θυγάτηρ", "gloss": "fille" },
-          { "greek": "Σιών·", "gloss": "de_Sion" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "βασιλεύς", "gloss": "roi" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἔρχεται,", "gloss": "vient" },
-          { "greek": "καθήμενος", "gloss": "assis" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "πῶλον", "gloss": "un_petit/poulain" },
-          { "greek": "ὄνου.", "gloss": "d'ânesse" }
+          {
+            "greek": "Μὴ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "φοβοῦ,",
+            "gloss": "crains"
+          },
+          {
+            "greek": "θυγάτηρ",
+            "gloss": "fille"
+          },
+          {
+            "greek": "Σιών·",
+            "gloss": "de_Sion"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλεύς",
+            "gloss": "roi"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἔρχεται,",
+            "gloss": "vient"
+          },
+          {
+            "greek": "καθήμενος",
+            "gloss": "assis"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "πῶλον",
+            "gloss": "un_petit/poulain"
+          },
+          {
+            "greek": "ὄνου.",
+            "gloss": "d'ânesse"
+          }
         ]
       },
       {
@@ -326,30 +1178,102 @@
           "darby": "Or ses disciples ne comprirent pas ces choses d'abord ; mais quand Jésus fut glorifié, alors ils se souvinrent que ces choses étaient écrites de lui, et qu'ils lui avaient fait ces choses."
         },
         "interlinear": [
-          { "greek": "Ταῦτα", "gloss": "Ces_choses" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔγνωσαν", "gloss": "comprirent" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "τὸ", "gloss": "le/au" },
-          { "greek": "πρῶτον,", "gloss": "premier/début" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "ὅτε", "gloss": "quand" },
-          { "greek": "ἐδοξάσθη", "gloss": "fut_glorifié" },
-          { "greek": "Ἰησοῦς,", "gloss": "Jésus" },
-          { "greek": "τότε", "gloss": "alors" },
-          { "greek": "ἐμνήσθησαν", "gloss": "ils_se_souvinrent" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ταῦτα", "gloss": "ces_choses" },
-          { "greek": "ἦν", "gloss": "étaient" },
-          { "greek": "ἐπ’", "gloss": "sur" },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "γεγραμμένα", "gloss": "écrites" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ταῦτα", "gloss": "ces_choses" },
-          { "greek": "ἐποίησαν", "gloss": "ils_avaient_faites" },
-          { "greek": "αὐτῷ.", "gloss": "à_lui" }
+          {
+            "greek": "Ταῦτα",
+            "gloss": "Ces_choses"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔγνωσαν",
+            "gloss": "comprirent"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le/au"
+          },
+          {
+            "greek": "πρῶτον,",
+            "gloss": "premier/début"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ὅτε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "ἐδοξάσθη",
+            "gloss": "fut_glorifié"
+          },
+          {
+            "greek": "Ἰησοῦς,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "ἐμνήσθησαν",
+            "gloss": "ils_se_souvinrent"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "étaient"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "γεγραμμένα",
+            "gloss": "écrites"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "ἐποίησαν",
+            "gloss": "ils_avaient_faites"
+          },
+          {
+            "greek": "αὐτῷ.",
+            "gloss": "à_lui"
+          }
         ]
       },
       {
@@ -359,26 +1283,86 @@
           "darby": "La foule donc qui était avec lui rendait témoignage qu'il avait appelé Lazare hors du sépulcre et l'avait ressuscité d'entre les morts."
         },
         "interlinear": [
-          { "greek": "Ἐμαρτύρει", "gloss": "Rendait_témoignage" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "ὄχλος", "gloss": "foule" },
-          { "greek": "ὁ", "gloss": "qui" },
-          { "greek": "ὢν", "gloss": "était" },
-          { "greek": "μετ’", "gloss": "avec" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "ὅτε", "gloss": "quand" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Λάζαρον", "gloss": "Lazare" },
-          { "greek": "ἐφώνησεν", "gloss": "il_appela" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "μνημείου", "gloss": "tombeau/sépulcre" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἤγειρεν", "gloss": "le_ressuscita" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἐκ", "gloss": "d'entre" },
-          { "greek": "νεκρῶν.", "gloss": "les_morts" }
+          {
+            "greek": "Ἐμαρτύρει",
+            "gloss": "Rendait_témoignage"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄχλος",
+            "gloss": "foule"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ὢν",
+            "gloss": "était"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὅτε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Λάζαρον",
+            "gloss": "Lazare"
+          },
+          {
+            "greek": "ἐφώνησεν",
+            "gloss": "il_appela"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "μνημείου",
+            "gloss": "tombeau/sépulcre"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἤγειρεν",
+            "gloss": "le_ressuscita"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "d'entre"
+          },
+          {
+            "greek": "νεκρῶν.",
+            "gloss": "les_morts"
+          }
         ]
       },
       {
@@ -388,26 +1372,68 @@
           "darby": "C'est pourquoi aussi la foule alla au-devant de lui, parce qu'ils avaient ouï dire qu'il avait fait ce miracle."
         },
         "interlinear": [
-          { "greek": "διὰ", "gloss": "C'est_pourquoi" },
-          { "greek": "τοῦτο", "gloss": "cela" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὑπήντησεν", "gloss": "vint_à_la_rencontre" },
-          { "greek": "αὐτῷ", "gloss": "de_lui" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "ὄχλος,", "gloss": "foule" },
-          { "greek": "ὅτι", "gloss": "parce_qu'" },
-          { "greek": "ἤκουσαν", "gloss": "ils_avaient_entendu" },
-          { "greek": "τοῦτο", "gloss": "ce" },
-          { "greek": "αὐτὸν", "gloss": "qu'il_avait" },
-          { "greek": "πεποιηκέναι", "gloss": "fait" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "σημεῖον.", "gloss": "signe/miracle" }
+          {
+            "greek": "διὰ",
+            "gloss": "C'est_pourquoi"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑπήντησεν",
+            "gloss": "vint_à_la_rencontre"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄχλος,",
+            "gloss": "foule"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_qu'"
+          },
+          {
+            "greek": "ἤκουσαν",
+            "gloss": "ils_avaient_entendu"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "ce"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "qu'il_avait"
+          },
+          {
+            "greek": "πεποιηκέναι",
+            "gloss": "fait"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σημεῖον.",
+            "gloss": "signe/miracle"
+          }
         ]
       }
     ],
     "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 3 - πιστικῆς : Les traducteurs hésitent entre 'pur', 'authentique' ou 'fidèle'. Le mot vient de la même racine que 'la foi' (pistis). Ce parfum est l'incarnation liquide de la foi pure, non frelatée par les logiques du monde.\n• Verset 13 - ἐκραύγαζον : 'Ils criaient'. Le verbe (kraugazo) désigne un cri rauque, instinctif, presque animal de la foule.\n\nAnalyse spirituelle (Globale) :\nLe récit des Rameaux rassemble toutes les tensions entre le 'Monde duel' et le 'Royaume UN' juste avant la Passion. D'un côté, nous avons Marie de Béthanie. Elle pose un acte prophétique et de totale gratuité : briser un parfum hors de prix. Ce geste est un scandale pour Judas et pour la rationalité humaine. Judas calcule, marchande, évalue l'amour au tarif du monde (300 deniers). Il masque son Ego prédateur sous une idéologie morale ('pour les pauvres').\n\nDe l'autre côté, l'entrée à Jérusalem révèle la cécité collective. La foule acclame un 'Roi' selon ses propres projections. Elle veut un chef militaire, une figure de pouvoir capable d'écraser les Romains. Jésus répond à cette hystérie politique par un acte de kénose absolue : il refuse le cheval de guerre et avance sur un ânon. Il n'entre pas pour régner sur l'illusion d'un royaume terrestre, mais pour briser de l'intérieur le règne de la mort et de l'Ego. En s'approchant de la Croix, le Christ, pur Sujet d'amour, s'apprête à faire exploser la matrice entière du Monde duel."
-   },
- "apostle": {
+  },
+  "apostle": {
     "reference": "Philippiens 4, 4-9",
     "title": "La Joie spirituelle et la Paix qui surpasse toute intelligence",
     "interlinear": [
@@ -418,13 +1444,35 @@
           "darby": "Réjouissez-vous toujours dans le Seigneur ; encore une fois, je vous le dirai : réjouissez-vous."
         },
         "interlinear": [
-          { "greek": "Χαίρετε", "gloss": "Réjouissez-vous" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "κυρίῳ", "gloss": "le_Seigneur" },
-          { "greek": "πάντοτε·", "gloss": "toujours", "analyse": "Cette joie (chara) n'est pas l'allégresse mondaine dépendante des circonstances. Dans le Monde duel, l'Ego est joyeux quand il gagne et triste quand il perd. La joie 'dans le Seigneur' est un état ontologique constant : c'est la stabilité du Sujet qui a ancré son existence au-delà des fluctuations du temps." },
-          { "greek": "πάλιν", "gloss": "de_nouveau/encore" },
-          { "greek": "ἐρῶ,", "gloss": "je_dirai" },
-          { "greek": "χαίρετε.", "gloss": "réjouissez-vous" }
+          {
+            "greek": "Χαίρετε",
+            "gloss": "Réjouissez-vous"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "le_Seigneur"
+          },
+          {
+            "greek": "πάντοτε·",
+            "gloss": "toujours",
+            "analyse": "Cette joie (chara) n'est pas l'allégresse mondaine dépendante des circonstances. Dans le Monde duel, l'Ego est joyeux quand il gagne et triste quand il perd. La joie 'dans le Seigneur' est un état ontologique constant : c'est la stabilité du Sujet qui a ancré son existence au-delà des fluctuations du temps."
+          },
+          {
+            "greek": "πάλιν",
+            "gloss": "de_nouveau/encore"
+          },
+          {
+            "greek": "ἐρῶ,",
+            "gloss": "je_dirai"
+          },
+          {
+            "greek": "χαίρετε.",
+            "gloss": "réjouissez-vous"
+          }
         ]
       },
       {
@@ -434,15 +1482,43 @@
           "darby": "Que votre douceur soit connue de tous les hommes ; le Seigneur est proche ;"
         },
         "interlinear": [
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "ἐπιεικὲς", "gloss": "douceur/équité", "analyse": "Le terme epieikes (douceur, magnanimité) s'oppose à la raideur de la loi (akribeia). C'est la capacité à ne pas s'arc-bouter sur son bon droit. Face à la violence du Monde duel qui calcule et réclame son dû, le chrétien oppose une souplesse qui désarme l'Ego." },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "γνωσθήτω", "gloss": "qu'elle_soit_connue" },
-          { "greek": "πᾶσιν", "gloss": "de_tous" },
-          { "greek": "ἀνθρώποις.", "gloss": "les_hommes" },
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "κύριος", "gloss": "Seigneur" },
-          { "greek": "ἐγγύς.", "gloss": "est_proche" }
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐπιεικὲς",
+            "gloss": "douceur/équité",
+            "analyse": "Le terme epieikes (douceur, magnanimité) s'oppose à la raideur de la loi (akribeia). C'est la capacité à ne pas s'arc-bouter sur son bon droit. Face à la violence du Monde duel qui calcule et réclame son dû, le chrétien oppose une souplesse qui désarme l'Ego."
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "γνωσθήτω",
+            "gloss": "qu'elle_soit_connue"
+          },
+          {
+            "greek": "πᾶσιν",
+            "gloss": "de_tous"
+          },
+          {
+            "greek": "ἀνθρώποις.",
+            "gloss": "les_hommes"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἐγγύς.",
+            "gloss": "est_proche"
+          }
         ]
       },
       {
@@ -452,25 +1528,83 @@
           "darby": "ne vous inquiétez de rien, mais, en toutes choses, exposez vos requêtes à Dieu par des prières et des supplications avec des actions de grâces ;"
         },
         "interlinear": [
-          { "greek": "μηδὲν", "gloss": "De_rien" },
-          { "greek": "μεριμνᾶτε,", "gloss": "ne_vous_inquiétez", "analyse": "La 'mérimna' (inquiétude, souci) est la maladie par excellence de l'Ego. Séparé de Dieu, l'homme du Monde duel doit tout anticiper, tout contrôler, ce qui génère une angoisse perpétuelle. Ne s'inquiéter de rien, c'est l'acte de foi absolu du Sujet qui se sait porté par le Royaume." },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "παντὶ", "gloss": "tout" },
-          { "greek": "τῇ", "gloss": "par_la" },
-          { "greek": "προσευχῇ", "gloss": "prière" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "δεήσει", "gloss": "supplication" },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "εὐχαριστίας", "gloss": "action_de_grâce/eucharistie" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "αἰτήματα", "gloss": "demandes/requêtes" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "γνωριζέσθω", "gloss": "qu'elles_soient_faites_connaître" },
-          { "greek": "πρὸς", "gloss": "auprès_de" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεόν.", "gloss": "Dieu" }
+          {
+            "greek": "μηδὲν",
+            "gloss": "De_rien"
+          },
+          {
+            "greek": "μεριμνᾶτε,",
+            "gloss": "ne_vous_inquiétez",
+            "analyse": "La 'mérimna' (inquiétude, souci) est la maladie par excellence de l'Ego. Séparé de Dieu, l'homme du Monde duel doit tout anticiper, tout contrôler, ce qui génère une angoisse perpétuelle. Ne s'inquiéter de rien, c'est l'acte de foi absolu du Sujet qui se sait porté par le Royaume."
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "παντὶ",
+            "gloss": "tout"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "προσευχῇ",
+            "gloss": "prière"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δεήσει",
+            "gloss": "supplication"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "εὐχαριστίας",
+            "gloss": "action_de_grâce/eucharistie"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "αἰτήματα",
+            "gloss": "demandes/requêtes"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "γνωριζέσθω",
+            "gloss": "qu'elles_soient_faites_connaître"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεόν.",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -480,26 +1614,87 @@
           "darby": "et la paix de Dieu, laquelle surpasse toute intelligence, gardera vos cœurs et vos pensées dans le Christ Jésus."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "εἰρήνη", "gloss": "paix" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "ἡ", "gloss": "celle_qui" },
-          { "greek": "ὑπερέχουσα", "gloss": "surpassant" },
-          { "greek": "πάντα", "gloss": "toute" },
-          { "greek": "νοῦν", "gloss": "intelligence/esprit", "analyse": "Le nous (l'intelligence spirituelle, l'œil du cœur). La paix de Dieu n'est pas une déduction logique. Elle 'surpasse' le système fermé de la raison humaine. Elle intervient quand l'Ego cesse de calculer et qu'il s'en remet totalement à la grâce incréée." },
-          { "greek": "φρουρήσει", "gloss": "gardera/protégera" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "καρδίας", "gloss": "cœurs" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "νοήματα", "gloss": "pensées" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "Χριστῷ", "gloss": "Christ" },
-          { "greek": "Ἰησοῦ.", "gloss": "Jésus" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "εἰρήνη",
+            "gloss": "paix"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "celle_qui"
+          },
+          {
+            "greek": "ὑπερέχουσα",
+            "gloss": "surpassant"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toute"
+          },
+          {
+            "greek": "νοῦν",
+            "gloss": "intelligence/esprit",
+            "analyse": "Le nous (l'intelligence spirituelle, l'œil du cœur). La paix de Dieu n'est pas une déduction logique. Elle 'surpasse' le système fermé de la raison humaine. Elle intervient quand l'Ego cesse de calculer et qu'il s'en remet totalement à la grâce incréée."
+          },
+          {
+            "greek": "φρουρήσει",
+            "gloss": "gardera/protégera"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρδίας",
+            "gloss": "cœurs"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "νοήματα",
+            "gloss": "pensées"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "Χριστῷ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦ.",
+            "gloss": "Jésus"
+          }
         ]
       },
       {
@@ -509,31 +1704,106 @@
           "darby": "Au reste, frères, toutes les choses qui sont vraies, toutes les choses qui sont vénérables, toutes les choses qui sont justes, toutes les choses qui sont pures, toutes les choses qui sont aimables, toutes les choses qui sont de bonne renommée,-s'il y a quelque vertu et quelque louange,-que ces choses occupent vos pensées :"
         },
         "interlinear": [
-          { "greek": "Τὸ", "gloss": "Au" },
-          { "greek": "λοιπόν,", "gloss": "reste" },
-          { "greek": "ἀδελφοί,", "gloss": "frères" },
-          { "greek": "ὅσα", "gloss": "tout_ce_qui" },
-          { "greek": "ἐστὶν", "gloss": "est" },
-          { "greek": "ἀληθῆ,", "gloss": "vrai" },
-          { "greek": "ὅσα", "gloss": "tout_ce_qui" },
-          { "greek": "σεμνά,", "gloss": "honorable/vénérable" },
-          { "greek": "ὅσα", "gloss": "tout_ce_qui" },
-          { "greek": "δίκαια,", "gloss": "juste" },
-          { "greek": "ὅσα", "gloss": "tout_ce_qui" },
-          { "greek": "ἁγνά,", "gloss": "pur" },
-          { "greek": "ὅσα", "gloss": "tout_ce_qui" },
-          { "greek": "προσφιλῆ,", "gloss": "aimable" },
-          { "greek": "ὅσα", "gloss": "tout_ce_qui" },
-          { "greek": "εὔφημα,", "gloss": "de_bonne_réputation" },
-          { "greek": "εἴ", "gloss": "si" },
-          { "greek": "τις", "gloss": "quelque" },
-          { "greek": "ἀρετὴ", "gloss": "vertu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἴ", "gloss": "si" },
-          { "greek": "τις", "gloss": "quelque" },
-          { "greek": "ἔπαινος,", "gloss": "louange" },
-          { "greek": "ταῦτα", "gloss": "ces_choses" },
-          { "greek": "λογίζεσθε·", "gloss": "méditez/pensez_à" }
+          {
+            "greek": "Τὸ",
+            "gloss": "Au"
+          },
+          {
+            "greek": "λοιπόν,",
+            "gloss": "reste"
+          },
+          {
+            "greek": "ἀδελφοί,",
+            "gloss": "frères"
+          },
+          {
+            "greek": "ὅσα",
+            "gloss": "tout_ce_qui"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἀληθῆ,",
+            "gloss": "vrai"
+          },
+          {
+            "greek": "ὅσα",
+            "gloss": "tout_ce_qui"
+          },
+          {
+            "greek": "σεμνά,",
+            "gloss": "honorable/vénérable"
+          },
+          {
+            "greek": "ὅσα",
+            "gloss": "tout_ce_qui"
+          },
+          {
+            "greek": "δίκαια,",
+            "gloss": "juste"
+          },
+          {
+            "greek": "ὅσα",
+            "gloss": "tout_ce_qui"
+          },
+          {
+            "greek": "ἁγνά,",
+            "gloss": "pur"
+          },
+          {
+            "greek": "ὅσα",
+            "gloss": "tout_ce_qui"
+          },
+          {
+            "greek": "προσφιλῆ,",
+            "gloss": "aimable"
+          },
+          {
+            "greek": "ὅσα",
+            "gloss": "tout_ce_qui"
+          },
+          {
+            "greek": "εὔφημα,",
+            "gloss": "de_bonne_réputation"
+          },
+          {
+            "greek": "εἴ",
+            "gloss": "si"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelque"
+          },
+          {
+            "greek": "ἀρετὴ",
+            "gloss": "vertu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἴ",
+            "gloss": "si"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelque"
+          },
+          {
+            "greek": "ἔπαινος,",
+            "gloss": "louange"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "λογίζεσθε·",
+            "gloss": "méditez/pensez_à"
+          }
         ]
       },
       {
@@ -543,30 +1813,93 @@
           "darby": "ce que vous avez et appris, et reçu, et entendu, et vu en moi, -faites ces choses, et le Dieu de paix sera avec vous."
         },
         "interlinear": [
-          { "greek": "ἃ", "gloss": "ce_que" },
-          { "greek": "καὶ", "gloss": "aussi/et" },
-          { "greek": "ἐμάθετε", "gloss": "vous_avez_appris" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "παρελάβετε", "gloss": "avez_reçu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἠκούσατε", "gloss": "avez_entendu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἴδετε", "gloss": "avez_vu" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ἐμοί,", "gloss": "moi" },
-          { "greek": "ταῦτα", "gloss": "ces_choses" },
-          { "greek": "πράσσετε·", "gloss": "pratiquez" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "εἰρήνης", "gloss": "paix" },
-          { "greek": "ἔσται", "gloss": "sera" },
-          { "greek": "μεθ’", "gloss": "avec" },
-          { "greek": "ὑμῶν.", "gloss": "vous" }
+          {
+            "greek": "ἃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi/et"
+          },
+          {
+            "greek": "ἐμάθετε",
+            "gloss": "vous_avez_appris"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παρελάβετε",
+            "gloss": "avez_reçu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἠκούσατε",
+            "gloss": "avez_entendu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἴδετε",
+            "gloss": "avez_vu"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἐμοί,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "πράσσετε·",
+            "gloss": "pratiquez"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "εἰρήνης",
+            "gloss": "paix"
+          },
+          {
+            "greek": "ἔσται",
+            "gloss": "sera"
+          },
+          {
+            "greek": "μεθ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ὑμῶν.",
+            "gloss": "vous"
+          }
         ]
       }
     ],
     "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 5 - ἐπιεικὲς : Souvent réduit à 'douceur', ce terme juridique grec désigne l'équité, le fait de renoncer à la lettre stricte de la loi par magnanimité. C'est l'inverse de la rigidité idéologique.\n• Verset 6 - μεριμνᾶτε : 'S'inquiéter'. La racine implique d'être divisé (merizô), écartelé mentalement. L'inquiétude est le signe d'un esprit morcelé.\n\nAnalyse spirituelle :\nAlors que Jésus s'apprête à entrer dans la tourmente de la Passion, où l'agitation, la trahison et la violence du Monde duel atteindront leur paroxysme, l'Église fait entendre ce texte sur la Paix. Il ne s'agit pas d'un optimisme psychologique ('Ne vous inquiétez pas, tout va bien se passer'). L'Apôtre décrit ici l'état ontologique du Sujet qui est passé dans le Royaume UN.\n\nL'homme naturel vit dans l'anxiété (la mérimna) car son Ego doit constamment calculer pour assurer sa survie et sa réputation. Paul nous invite à abandonner cette charge. Se réjouir 'dans le Seigneur', présenter ses requêtes dans 'l'action de grâce' (eucharistia), c'est renoncer à l'illusion du contrôle. C'est accepter de se désarmer. Dès lors, une paix d'une autre nature, une paix incréée qui fait exploser les cadres de l'intelligence humaine, vient garder le cœur. Le Christ sur son ânon (Évangile) et le chrétien pacifié (Épître) témoignent d'une seule et même victoire : celle de l'Amour qui désamorce la matrice du pouvoir et de la peur."
   }
-  }
+}
