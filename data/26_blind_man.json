@@ -1,6 +1,6 @@
 {
   "gospel": {
-    "reference": "Jean 9, 1-41",
+    "reference": "Jean 9, 1-38",
     "title": "L'Aveugle-né : La crise mimétique et la création du Sujet",
     "interlinear": [
       {
@@ -3004,269 +3004,6 @@
             "gloss": "lui"
           }
         ]
-      },
-      {
-        "verse_number": 39,
-        "translations": {
-          "segond": "Puis Jésus dit : Je suis venu pour un jugement dans ce monde, afin que ceux qui ne voient point voient, et que ceux qui voient deviennent aveugles.",
-          "darby": "Et Jésus dit : Je suis venu, moi, dans ce monde pour un jugement, afin que ceux qui ne voient pas voient, et que ceux qui voient deviennent aveugles."
-        },
-        "interlinear": [
-          {
-            "greek": "καὶ",
-            "gloss": "Et"
-          },
-          {
-            "greek": "εἶπεν",
-            "gloss": "dit"
-          },
-          {
-            "greek": "ὁ",
-            "gloss": "le"
-          },
-          {
-            "greek": "Ἰησοῦς·",
-            "gloss": "Jésus"
-          },
-          {
-            "greek": "Εἰς",
-            "gloss": "Pour"
-          },
-          {
-            "greek": "κρίμα",
-            "gloss": "jugement"
-          },
-          {
-            "greek": "ἐγὼ",
-            "gloss": "moi"
-          },
-          {
-            "greek": "εἰς",
-            "gloss": "dans"
-          },
-          {
-            "greek": "τὸν",
-            "gloss": "le"
-          },
-          {
-            "greek": "κόσμον",
-            "gloss": "monde"
-          },
-          {
-            "greek": "τοῦτον",
-            "gloss": "ceci"
-          },
-          {
-            "greek": "ἦλθον,",
-            "gloss": "je_suis_venu"
-          },
-          {
-            "greek": "ἵνα",
-            "gloss": "afin_que"
-          },
-          {
-            "greek": "οἱ",
-            "gloss": "ceux_qui"
-          },
-          {
-            "greek": "μὴ",
-            "gloss": "ne...pas"
-          },
-          {
-            "greek": "βλέποντες",
-            "gloss": "voyant"
-          },
-          {
-            "greek": "βλέπωσιν",
-            "gloss": "voient"
-          },
-          {
-            "greek": "καὶ",
-            "gloss": "et"
-          },
-          {
-            "greek": "οἱ",
-            "gloss": "ceux_qui"
-          },
-          {
-            "greek": "βλέποντες",
-            "gloss": "voyant"
-          },
-          {
-            "greek": "τυφλοὶ",
-            "gloss": "aveugles"
-          },
-          {
-            "greek": "γένωνται.",
-            "gloss": "deviennent"
-          }
-        ]
-      },
-      {
-        "verse_number": 40,
-        "translations": {
-          "segond": "Quelques pharisiens qui étaient avec lui entendirent ces paroles, et ils lui dirent : Nous aussi, sommes-nous aveugles ?",
-          "darby": "Quelques-uns des pharisiens qui étaient avec lui entendirent ces choses, et ils lui dirent : Sommes-nous aveugles, nous aussi ?"
-        },
-        "interlinear": [
-          {
-            "greek": "ἤκουσαν",
-            "gloss": "Entendirent"
-          },
-          {
-            "greek": "ἐκ",
-            "gloss": "de"
-          },
-          {
-            "greek": "τῶν",
-            "gloss": "les"
-          },
-          {
-            "greek": "Φαρισαίων",
-            "gloss": "Pharisiens"
-          },
-          {
-            "greek": "ταῦτα",
-            "gloss": "ces_choses"
-          },
-          {
-            "greek": "οἱ",
-            "gloss": "ceux_qui"
-          },
-          {
-            "greek": "ὄντες",
-            "gloss": "étaient"
-          },
-          {
-            "greek": "μετ’",
-            "gloss": "avec"
-          },
-          {
-            "greek": "αὐτοῦ,",
-            "gloss": "lui"
-          },
-          {
-            "greek": "καὶ",
-            "gloss": "et"
-          },
-          {
-            "greek": "εἶπαν",
-            "gloss": "dirent"
-          },
-          {
-            "greek": "αὐτῷ·",
-            "gloss": "à_lui"
-          },
-          {
-            "greek": "Μὴ",
-            "gloss": "Est-ce_que"
-          },
-          {
-            "greek": "καὶ",
-            "gloss": "aussi"
-          },
-          {
-            "greek": "ἡμεῖς",
-            "gloss": "nous"
-          },
-          {
-            "greek": "τυφλοί",
-            "gloss": "aveugles"
-          },
-          {
-            "greek": "ἐσμεν;",
-            "gloss": "sommes"
-          }
-        ]
-      },
-      {
-        "verse_number": 41,
-        "translations": {
-          "segond": "Jésus leur répondit : Si vous étiez aveugles, vous n'auriez pas de péché. Mais maintenant vous dites : Nous voyons. C'est pour cela que votre péché subsiste.",
-          "darby": "Jésus leur dit : Si vous étiez aveugles, vous n'auriez pas de péché ; mais maintenant vous dites : Nous voyons ; votre péché demeure donc."
-        },
-        "interlinear": [
-          {
-            "greek": "εἶπεν",
-            "gloss": "Dit"
-          },
-          {
-            "greek": "αὐτοῖς",
-            "gloss": "à_eux"
-          },
-          {
-            "greek": "ὁ",
-            "gloss": "le"
-          },
-          {
-            "greek": "Ἰησοῦς·",
-            "gloss": "Jésus"
-          },
-          {
-            "greek": "Εἰ",
-            "gloss": "Si"
-          },
-          {
-            "greek": "τυφλοὶ",
-            "gloss": "aveugles"
-          },
-          {
-            "greek": "ἦτε,",
-            "gloss": "vous_étiez"
-          },
-          {
-            "greek": "οὐκ",
-            "gloss": "ne...pas"
-          },
-          {
-            "greek": "ἂν",
-            "gloss": "(conditionnel)"
-          },
-          {
-            "greek": "εἴχετε",
-            "gloss": "vous_auriez"
-          },
-          {
-            "greek": "ἁμαρτίαν·",
-            "gloss": "de_péché"
-          },
-          {
-            "greek": "νῦν",
-            "gloss": "maintenant"
-          },
-          {
-            "greek": "δὲ",
-            "gloss": "or"
-          },
-          {
-            "greek": "λέγετε",
-            "gloss": "vous_dites"
-          },
-          {
-            "greek": "ὅτι",
-            "gloss": "que"
-          },
-          {
-            "greek": "Βλέπομεν·",
-            "gloss": "Nous_voyons"
-          },
-          {
-            "greek": "ἡ",
-            "gloss": "votre"
-          },
-          {
-            "greek": "ἁμαρτία",
-            "gloss": "péché"
-          },
-          {
-            "greek": "ὑμῶν",
-            "gloss": "de_vous"
-          },
-          {
-            "greek": "μένει.",
-            "gloss": "demeure"
-          }
-        ]
       }
     ],
     "homiletic_axes": [
@@ -3370,9 +3107,17 @@
         "reference": "Pâques — Thomas — Myrrhophores — Samaritaine — Aveugle-né",
         "content": "Le Ressuscité ne délivre pas l’homme de son corps : il guérit et transfigure sa manière de sentir. Le parfum porté au tombeau, le toucher proposé à Thomas, la soif de la Samaritaine et la vue donnée à l’Aveugle-né conduisent de la recherche sensible à la rencontre, puis de la rencontre au témoignage.",
         "connections": []
+      },
+      {
+        "title": "Prolongement immédiat : le jugement sur la vision",
+        "reference": "Jean 9, 39-41",
+        "content": "La lecture liturgique s’achève avec la confession et la prosternation de l’homme au verset 38. Les trois versets suivants explicitent le retournement spirituel entre ceux qui reconnaissent leur cécité et ceux qui affirment voir.",
+        "connections": []
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἐπέχρισεν τὸν πηλόν : Segond et Darby traduisent par 'oignit de boue' ou 'appliqua la boue'. Le verbe grec est *epichrio* (oindre / frictionner dessus), qui partage la même racine vibratoire que *Christos* (l'Oint). Ce geste de pétrir la boue (*pelos*) avec la salive divine renvoie directement au récit de la Genèse (la création d'Adam à partir du limon de la terre). Le Christ n'utilise pas un remède empirique, Il accomplit un acte de récréation ontologique. Il 'christifie' la matière aveugle pour lui donner la capacité de percevoir l'Incréé.\n\n• Verset 7 - τοῦ Σιλωάμ, ὃ ἑρμηνεύεται Ἀπεσταλμένος : 'Siloé, ce qui signifie Envoyé'. L'Évangéliste insiste lourdement sur la traduction grecque *Apestalmenos*. La piscine de Siloé n'est pas un simple repère géographique ou rituel, c'est une typologie du Christ Lui-même, l'Envoyé du Père. Se laver à Siloé, c'est s'immerger dans la Kénose de l'Envoyé pour être purifié des grilles de lecture déformantes du Monde duel.\n\n• Verset 38 - καὶ προσεκύνησεν αὐτῷ : Traduit par 'il se prosterna devant lui' (Darby) ou 'il l'adora' (Segond). Le terme exact est *proskyneo*. Ce n'est pas une simple révérence sociale ou une politesse orientale envers un prophète respecté. C'est le geste liturgique de l'adoration absolue. C'est le point de bascule métaphysique où l'aveugle-né reconnaît l'identité divine du Fils de Dieu et s'incline devant l'Unique Réalité.\n\nAnalyse spirituelle globale (Les 3 parties) :\n\nLe récit de l'aveugle-né est la démonstration magistrale de la rupture entre le 'Monde duel' et le 'Royaume UN'. Le drame se joue sur le terrain de la vision : comment voir la vérité ?\n\n1. L'illusion du 'Savoir en plein' (Pharisiens) : Le 'Monde duel' ne supporte pas le miracle car il ne supporte pas l'Incréé. Les Pharisiens s'enferment dans leur 'Oidamen' (nous savons). Ce savoir est une forteresse : ils classifient, ils jugent, ils rejettent ('pécheur', 'chassé'). Leur aveuglement est irréversible précisément parce qu'ils affirment 'Nous voyons'. Ils ont saturé leur esprit de dogmes, il n'y a plus de place pour le 'creux' de la Foi.\n\n2. La naissance du Sujet (Aveugle-né) : À l'opposé, l'aveugle-né passe par une kénose sensorielle et intellectuelle. Il commence par ne rien savoir, puis il devient le Sujet de sa propre expérience. Il n'est plus l'objet-mendiant qu'on questionne, mais celui qui remet en question les Pharisiens par la puissance de son témoignage : 'Une chose je sais : j'étais aveugle, maintenant je vois'. Il n'a plus besoin des définitions de la foule, il a rencontré le Fils de Dieu.\n\n3. Le jugement (Krima) : Le Christ opère une inversion des valeurs. Ceux qui se croyaient 'en plein' (voyants) sont révélés comme étant 'en creux' (aveugles par orgueil). Celui qui se reconnaissait 'en creux' (aveugle) devient 'en plein' par la Lumière incréée. La guérison n'est que le signe de cette transfiguration. En adorant le Christ (v. 38), l'aveugle quitte définitivement la caverne mimétique pour entrer dans la communion du Père. L'arbre de vie, la Croix, a fait son œuvre : le Sujet est debout, il n'est plus l'esclave du regard des autres, il voit désormais avec les yeux du cœur."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἐπέχρισεν τὸν πηλόν : Segond et Darby traduisent par 'oignit de boue' ou 'appliqua la boue'. Le verbe grec est *epichrio* (oindre / frictionner dessus), qui partage la même racine vibratoire que *Christos* (l'Oint). Ce geste de pétrir la boue (*pelos*) avec la salive divine renvoie directement au récit de la Genèse (la création d'Adam à partir du limon de la terre). Le Christ n'utilise pas un remède empirique, Il accomplit un acte de récréation ontologique. Il 'christifie' la matière aveugle pour lui donner la capacité de percevoir l'Incréé.\n\n• Verset 7 - τοῦ Σιλωάμ, ὃ ἑρμηνεύεται Ἀπεσταλμένος : 'Siloé, ce qui signifie Envoyé'. L'Évangéliste insiste lourdement sur la traduction grecque *Apestalmenos*. La piscine de Siloé n'est pas un simple repère géographique ou rituel, c'est une typologie du Christ Lui-même, l'Envoyé du Père. Se laver à Siloé, c'est s'immerger dans la Kénose de l'Envoyé pour être purifié des grilles de lecture déformantes du Monde duel.\n\n• Verset 38 - καὶ προσεκύνησεν αὐτῷ : Traduit par 'il se prosterna devant lui' (Darby) ou 'il l'adora' (Segond). Le terme exact est *proskyneo*. Ce n'est pas une simple révérence sociale ou une politesse orientale envers un prophète respecté. C'est le geste liturgique de l'adoration absolue. C'est le point de bascule métaphysique où l'aveugle-né reconnaît l'identité divine du Fils de Dieu et s'incline devant l'Unique Réalité.\n\nAnalyse spirituelle globale (Les 3 parties) :\n\nLe récit de l'aveugle-né est la démonstration magistrale de la rupture entre le 'Monde duel' et le 'Royaume UN'. Le drame se joue sur le terrain de la vision : comment voir la vérité ?\n\n1. L'illusion du 'Savoir en plein' (Pharisiens) : Le 'Monde duel' ne supporte pas le miracle car il ne supporte pas l'Incréé. Les Pharisiens s'enferment dans leur 'Oidamen' (nous savons). Ce savoir est une forteresse : ils classifient, ils jugent, ils rejettent ('pécheur', 'chassé'). Leur aveuglement est irréversible précisément parce qu'ils affirment 'Nous voyons'. Ils ont saturé leur esprit de dogmes, il n'y a plus de place pour le 'creux' de la Foi.\n\n2. La naissance du Sujet (Aveugle-né) : À l'opposé, l'aveugle-né passe par une kénose sensorielle et intellectuelle. Il commence par ne rien savoir, puis il devient le Sujet de sa propre expérience. Il n'est plus l'objet-mendiant qu'on questionne, mais celui qui remet en question les Pharisiens par la puissance de son témoignage : 'Une chose je sais : j'étais aveugle, maintenant je vois'. Il n'a plus besoin des définitions de la foule, il a rencontré le Fils de Dieu.\n\n3. Le jugement (Krima), dans la suite immédiate du récit (Jean 9, 39-41) : Le Christ opère une inversion des valeurs. Ceux qui se croyaient 'en plein' (voyants) sont révélés comme étant 'en creux' (aveugles par orgueil). Celui qui se reconnaissait 'en creux' (aveugle) devient 'en plein' par la Lumière incréée. La guérison n'est que le signe de cette transfiguration. En adorant le Christ (v. 38), l'aveugle quitte définitivement la caverne mimétique pour entrer dans la communion du Père. L'arbre de vie, la Croix, a fait son œuvre : le Sujet est debout, il n'est plus l'esclave du regard des autres, il voit désormais avec les yeux du cœur.",
+    "greek_only": "",
+    "french_only": ""
   },
   "apostle": {
     "reference": "Actes 16, 16-34",
