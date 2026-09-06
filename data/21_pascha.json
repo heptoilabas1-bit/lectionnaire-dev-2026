@@ -1,6 +1,6 @@
 {
   "gospel": {
-    "reference": "Jean 1, 1-5 ; 14",
+    "reference": "Jean 1, 1-17",
     "title": "Le Prologue : L'irruption de la Lumière incréée",
     "interlinear": [
       {
@@ -10,23 +10,83 @@
           "darby": "Au commencement était la Parole ; et la Parole était auprès de Dieu ; et la Parole était Dieu."
         },
         "interlinear": [
-          { "greek": "Ἐν", "gloss": "Au" },
-          { "greek": "ἀρχῇ", "gloss": "commencement" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λόγος,", "gloss": "Verbe/Parole", "analyse": "Le Logos n'est pas une simple parole, un discours ou un concept intellectuel. C'est le principe d'unité et de communion absolue, l'Énergie divine qui structure le 'Royaume UN'. Le Logos est pure relation : il est ce par quoi le Sujet divin se communique totalement sans jamais se diviser." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λόγος", "gloss": "Verbe" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "πρὸς", "gloss": "vers/auprès_de" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεόν,", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λόγος.", "gloss": "Verbe" }
+          {
+            "greek": "Ἐν",
+            "gloss": "Au"
+          },
+          {
+            "greek": "ἀρχῇ",
+            "gloss": "commencement"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λόγος,",
+            "gloss": "Verbe/Parole",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le Logos n'est pas une simple parole, un discours ou un concept intellectuel. C'est le principe d'unité et de communion absolue, l'Énergie divine qui structure le 'Royaume UN'. Le Logos est pure relation : il est ce par quoi le Sujet divin se communique totalement sans jamais se diviser.",
+              "related": [
+                "ὁ",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λόγος",
+            "gloss": "Verbe"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers/auprès_de"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεόν,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λόγος.",
+            "gloss": "Verbe"
+          }
         ]
       },
       {
@@ -36,13 +96,34 @@
           "darby": "Elle était au commencement auprès de Dieu."
         },
         "interlinear": [
-          { "greek": "οὗτος", "gloss": "Celui-ci" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "ἐν", "gloss": "au" },
-          { "greek": "ἀρχῇ", "gloss": "commencement" },
-          { "greek": "πρὸς", "gloss": "auprès_de" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεόν.", "gloss": "Dieu" }
+          {
+            "greek": "οὗτος",
+            "gloss": "Celui-ci"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "au"
+          },
+          {
+            "greek": "ἀρχῇ",
+            "gloss": "commencement"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεόν.",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -52,18 +133,54 @@
           "darby": "Toutes choses furent faites par elle, et sans elle pas une seule chose ne fut faite de ce qui a été fait."
         },
         "interlinear": [
-          { "greek": "πάντα", "gloss": "Toutes_choses" },
-          { "greek": "δι’", "gloss": "par" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "ἐγένετο,", "gloss": "furent_faites" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "χωρὶς", "gloss": "sans" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "ἐγένετο", "gloss": "fut_fait" },
-          { "greek": "οὐδὲ", "gloss": "pas_même" },
-          { "greek": "ἓν", "gloss": "un_seul" },
-          { "greek": "ὃ", "gloss": "qui" },
-          { "greek": "γέγονεν.", "gloss": "a_été_fait" }
+          {
+            "greek": "πάντα",
+            "gloss": "Toutes_choses"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐγένετο,",
+            "gloss": "furent_faites"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "χωρὶς",
+            "gloss": "sans"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "fut_fait"
+          },
+          {
+            "greek": "οὐδὲ",
+            "gloss": "pas_même"
+          },
+          {
+            "greek": "ἓν",
+            "gloss": "un_seul"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "γέγονεν.",
+            "gloss": "a_été_fait"
+          }
         ]
       },
       {
@@ -73,18 +190,54 @@
           "darby": "En elle était la vie, et la vie était la lumière des hommes."
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "En" },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "ζωὴ", "gloss": "la_vie" },
-          { "greek": "ἦν,", "gloss": "était" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "ζωὴ", "gloss": "vie" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "φῶς", "gloss": "lumière" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἀνθρώπων·", "gloss": "hommes" }
+          {
+            "greek": "ἐν",
+            "gloss": "En"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ζωὴ",
+            "gloss": "la_vie"
+          },
+          {
+            "greek": "ἦν,",
+            "gloss": "était"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ζωὴ",
+            "gloss": "vie"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "φῶς",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀνθρώπων·",
+            "gloss": "hommes"
+          }
         ]
       },
       {
@@ -94,36 +247,116 @@
           "darby": "Et la lumière luit dans les ténèbres ; et les ténèbres ne l'ont pas comprise."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "φῶς", "gloss": "lumière" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "les" },
-          { "greek": "σκοτίᾳ", "gloss": "ténèbres" },
-          { "greek": "φαίνει,", "gloss": "luit/brille" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἡ", "gloss": "les" },
-          { "greek": "σκοτία", "gloss": "ténèbres", "analyse": "La 'skotia' (ténèbre) n'est pas qu'une absence physique de lumière. C'est l'état d'isolement de l'Ego, replié sur lui-même, enfermé dans l'illusion de sa propre autonomie. Le 'Monde duel' est par nature ténébreux car il coupe l'homme de la relation et de la clarté incréée." },
-          { "greek": "αὐτὸ", "gloss": "la" },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "κατέλαβεν.", "gloss": "ont_saisie/comprise", "analyse": "Katalambano signifie 'saisir, maîtriser, étouffer'. Le drame du Monde duel est qu'il veut tout posséder (préhension). Or, la Lumière incréée échappe à toute objectivation. L'Ego humain ne peut pas 'saisir' la résurrection par la pensée ou la force ; il ne peut que s'y abandonner." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "φῶς",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "les"
+          },
+          {
+            "greek": "σκοτίᾳ",
+            "gloss": "ténèbres"
+          },
+          {
+            "greek": "φαίνει,",
+            "gloss": "luit/brille"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "les"
+          },
+          {
+            "greek": "σκοτία",
+            "gloss": "ténèbres",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : La 'skotia' (ténèbre) n'est pas qu'une absence physique de lumière. C'est l'état d'isolement de l'Ego, replié sur lui-même, enfermé dans l'illusion de sa propre autonomie. Le 'Monde duel' est par nature ténébreux car il coupe l'homme de la relation et de la clarté incréée.",
+              "related": [
+                "ἡ",
+                "αὐτὸ"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "κατέλαβεν.",
+            "gloss": "ont_saisie/comprise",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Katalambano signifie 'saisir, maîtriser, étouffer'. Le drame du Monde duel est qu'il veut tout posséder (préhension). Or, la Lumière incréée échappe à toute objectivation. L'Ego humain ne peut pas 'saisir' la résurrection par la pensée ou la force ; il ne peut que s'y abandonner.",
+              "related": [
+                "οὐ"
+              ]
+            }
+          }
         ]
       },
       {
-"verse_number": 6,
+        "verse_number": 6,
         "translations": {
           "segond": "Il y eut un homme envoyé de Dieu : son nom était Jean.",
           "darby": "Il y eut un homme envoyé de Dieu ; son nom était Jean."
         },
         "interlinear": [
-          { "greek": "Ἐγένετο", "gloss": "Il_y_eut/Parut" },
-          { "greek": "ἄνθρωπος,", "gloss": "un_homme" },
-          { "greek": "ἀπεσταλμένος", "gloss": "ayant_été_envoyé" },
-          { "greek": "παρὰ", "gloss": "de_la_part_de" },
-          { "greek": "θεοῦ,", "gloss": "Dieu" },
-          { "greek": "ὄνομα", "gloss": "nom" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "Ἰωάννης·", "gloss": "Jean" }
+          {
+            "greek": "Ἐγένετο",
+            "gloss": "Il_y_eut/Parut"
+          },
+          {
+            "greek": "ἄνθρωπος,",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "ἀπεσταλμένος",
+            "gloss": "ayant_été_envoyé"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "de_la_part_de"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ὄνομα",
+            "gloss": "nom"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἰωάννης·",
+            "gloss": "Jean"
+          }
         ]
       },
       {
@@ -133,20 +366,62 @@
           "darby": "Celui-ci vint pour rendre témoignage, pour rendre témoignage à la lumière, afin que tous crussent par lui."
         },
         "interlinear": [
-          { "greek": "οὗτος", "gloss": "Celui-ci" },
-          { "greek": "ἦλθεν", "gloss": "vint" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "μαρτυρίαν,", "gloss": "témoignage" },
-          { "greek": "ἵνα", "gloss": "afin_de" },
-          { "greek": "μαρτυρήσῃ", "gloss": "rendre_témoignage" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "φωτός,", "gloss": "lumière" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "πάντες", "gloss": "tous" },
-          { "greek": "πιστεύσωσιν", "gloss": "croient" },
-          { "greek": "δι’", "gloss": "par" },
-          { "greek": "αὐτοῦ.", "gloss": "lui" }
+          {
+            "greek": "οὗτος",
+            "gloss": "Celui-ci"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "vint"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "μαρτυρίαν,",
+            "gloss": "témoignage"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_de"
+          },
+          {
+            "greek": "μαρτυρήσῃ",
+            "gloss": "rendre_témoignage"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "φωτός,",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "πιστεύσωσιν",
+            "gloss": "croient"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -156,17 +431,50 @@
           "darby": "Il n'était pas la lumière, mais pour rendre témoignage à la lumière."
         },
         "interlinear": [
-          { "greek": "οὐκ", "gloss": "Ne...pas" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "ἐκεῖνος", "gloss": "celui-là" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "φῶς,", "gloss": "lumière" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "ἵνα", "gloss": "afin_de" },
-          { "greek": "μαρτυρήσῃ", "gloss": "rendre_témoignage" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "φωτός.", "gloss": "lumière" }
+          {
+            "greek": "οὐκ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ἐκεῖνος",
+            "gloss": "celui-là"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "φῶς,",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_de"
+          },
+          {
+            "greek": "μαρτυρήσῃ",
+            "gloss": "rendre_témoignage"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "φωτός.",
+            "gloss": "lumière"
+          }
         ]
       },
       {
@@ -176,19 +484,58 @@
           "darby": "La vraie lumière était celle, qui, venant dans le monde, éclaire tout homme."
         },
         "interlinear": [
-          { "greek": "Ἦν", "gloss": "Était" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "φῶς", "gloss": "lumière" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "ἀληθινόν,", "gloss": "véritable" },
-          { "greek": "ὃ", "gloss": "qui" },
-          { "greek": "φωτίζει", "gloss": "éclaire" },
-          { "greek": "πάντα", "gloss": "tout" },
-          { "greek": "ἄνθρωπον,", "gloss": "homme" },
-          { "greek": "ἐρχόμενον", "gloss": "venant" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κόσμον.", "gloss": "monde" }
+          {
+            "greek": "Ἦν",
+            "gloss": "Était"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "φῶς",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀληθινόν,",
+            "gloss": "véritable"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "φωτίζει",
+            "gloss": "éclaire"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ἄνθρωπον,",
+            "gloss": "homme"
+          },
+          {
+            "greek": "ἐρχόμενον",
+            "gloss": "venant"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμον.",
+            "gloss": "monde"
+          }
         ]
       },
       {
@@ -198,22 +545,79 @@
           "darby": "Il était dans le monde, et le monde a été fait par lui, et le monde ne l'a pas connu."
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "Dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "κόσμῳ", "gloss": "monde", "analyse": "Le 'kosmos' (le monde) désigne ici le Monde duel. Il a été créé par le Verbe, mais en s'enfermant dans l'illusion de sa propre autonomie, il est devenu une matrice d'aliénation. L'Ego collectif, aveuglé par sa volonté de puissance, est incapable de 'connaître' (au sens de la communion intime) la Présence incréée qui le traverse pourtant." },
-          { "greek": "ἦν,", "gloss": "il_était" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κόσμος", "gloss": "monde" },
-          { "greek": "δι’", "gloss": "par" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "ἐγένετο,", "gloss": "fut_fait" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κόσμος", "gloss": "monde" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔγνω.", "gloss": "a_connu" }
+          {
+            "greek": "ἐν",
+            "gloss": "Dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμῳ",
+            "gloss": "monde",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le 'kosmos' (le monde) désigne ici le Monde duel. Il a été créé par le Verbe, mais en s'enfermant dans l'illusion de sa propre autonomie, il est devenu une matrice d'aliénation. L'Ego collectif, aveuglé par sa volonté de puissance, est incapable de 'connaître' (au sens de la communion intime) la Présence incréée qui le traverse pourtant.",
+              "related": [
+                "τῷ",
+                "ἦν,"
+              ]
+            }
+          },
+          {
+            "greek": "ἦν,",
+            "gloss": "il_était"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμος",
+            "gloss": "monde"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐγένετο,",
+            "gloss": "fut_fait"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμος",
+            "gloss": "monde"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔγνω.",
+            "gloss": "a_connu"
+          }
         ]
       },
       {
@@ -223,16 +627,46 @@
           "darby": "Il vint chez soi ; et les siens ne l'ont pas reçu."
         },
         "interlinear": [
-          { "greek": "εἰς", "gloss": "Chez" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ἴδια", "gloss": "siens/propres" },
-          { "greek": "ἦλθεν,", "gloss": "il_vint" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ἴδιοι", "gloss": "siens" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "παρέλαβον.", "gloss": "reçurent/accueillirent" }
+          {
+            "greek": "εἰς",
+            "gloss": "Chez"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἴδια",
+            "gloss": "siens/propres"
+          },
+          {
+            "greek": "ἦλθεν,",
+            "gloss": "il_vint"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἴδιοι",
+            "gloss": "siens"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "παρέλαβον.",
+            "gloss": "reçurent/accueillirent"
+          }
         ]
       },
       {
@@ -242,22 +676,79 @@
           "darby": "Mais à tous ceux qui l'ont reçu, il leur a donné le droit d'être enfants de Dieu, savoir à ceux qui croient en son nom ;"
         },
         "interlinear": [
-          { "greek": "ὅσοι", "gloss": "Tous_ceux_qui" },
-          { "greek": "δὲ", "gloss": "mais" },
-          { "greek": "ἔλαβον", "gloss": "reçurent" },
-          { "greek": "αὐτόν,", "gloss": "lui" },
-          { "greek": "ἔδωκεν", "gloss": "il_a_donné" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "ἐξουσίαν", "gloss": "le_pouvoir/le_droit", "analyse": "Cette exousia (droit/pouvoir) n'est pas une domination juridique. C'est la restauration de la liberté originelle. Par la foi (l'ancrage dans l'Incréé), l'homme retrouve sa capacité à agir non plus en tant qu'objet soumis au Monde duel, mais en tant que véritable Sujet, enfant libre du Royaume UN." },
-          { "greek": "τέκνα", "gloss": "enfants" },
-          { "greek": "θεοῦ", "gloss": "de_Dieu" },
-          { "greek": "γενέσθαι,", "gloss": "de_devenir" },
-          { "greek": "τοῖς", "gloss": "à_ceux" },
-          { "greek": "πιστεύουσιν", "gloss": "croyant" },
-          { "greek": "εἰς", "gloss": "en" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ὄνομα", "gloss": "nom" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" }
+          {
+            "greek": "ὅσοι",
+            "gloss": "Tous_ceux_qui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἔλαβον",
+            "gloss": "reçurent"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "il_a_donné"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ἐξουσίαν",
+            "gloss": "le_pouvoir/le_droit",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Cette exousia (droit/pouvoir) n'est pas une domination juridique. C'est la restauration de la liberté originelle. Par la foi (l'ancrage dans l'Incréé), l'homme retrouve sa capacité à agir non plus en tant qu'objet soumis au Monde duel, mais en tant que véritable Sujet, enfant libre du Royaume UN.",
+              "related": [
+                "αὐτοῖς",
+                "τέκνα"
+              ]
+            }
+          },
+          {
+            "greek": "τέκνα",
+            "gloss": "enfants"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "γενέσθαι,",
+            "gloss": "de_devenir"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "à_ceux"
+          },
+          {
+            "greek": "πιστεύουσιν",
+            "gloss": "croyant"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὄνομα",
+            "gloss": "nom"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -267,22 +758,79 @@
           "darby": "lesquels sont nés, non pas de sang, ni de la volonté de la chair, ni de la volonté de l'homme, mais de Dieu."
         },
         "interlinear": [
-          { "greek": "οἳ", "gloss": "Lesquels" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἐξ", "gloss": "de" },
-          { "greek": "αἱμάτων", "gloss": "sang" },
-          { "greek": "οὐδὲ", "gloss": "ni" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "θελήματος", "gloss": "la_volonté", "analyse": "Le texte dénonce les trois piliers du Monde duel : la filiation biologique ('le sang'), la pulsion de survie ('la volonté de la chair') et le pouvoir intellectuel/social ('la volonté de l'homme'). Naître 'de Dieu' exige de mourir à ces identifications égotiques pour naître d'en haut." },
-          { "greek": "σαρκὸς", "gloss": "de_la_chair" },
-          { "greek": "οὐδὲ", "gloss": "ni" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "θελήματος", "gloss": "la_volonté" },
-          { "greek": "ἀνδρὸς", "gloss": "d'homme" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "ἐγεννήθησαν.", "gloss": "ont_été_engendrés/sont_nés" }
+          {
+            "greek": "οἳ",
+            "gloss": "Lesquels"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "de"
+          },
+          {
+            "greek": "αἱμάτων",
+            "gloss": "sang"
+          },
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θελήματος",
+            "gloss": "la_volonté",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le texte dénonce les trois piliers du Monde duel : la filiation biologique ('le sang'), la pulsion de survie ('la volonté de la chair') et le pouvoir intellectuel/social ('la volonté de l'homme'). Naître 'de Dieu' exige de mourir à ces identifications égotiques pour naître d'en haut.",
+              "related": [
+                "ἐκ",
+                "σαρκὸς"
+              ]
+            }
+          },
+          {
+            "greek": "σαρκὸς",
+            "gloss": "de_la_chair"
+          },
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θελήματος",
+            "gloss": "la_volonté"
+          },
+          {
+            "greek": "ἀνδρὸς",
+            "gloss": "d'homme"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐγεννήθησαν.",
+            "gloss": "ont_été_engendrés/sont_nés"
+          }
         ]
       },
       {
@@ -292,29 +840,107 @@
           "darby": "Et la Parole devint chair, et habita au milieu de nous (et nous vîmes sa gloire, une gloire comme d'un fils unique de la part du Père) pleine de grâce et de vérité ;"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λόγος", "gloss": "Verbe" },
-          { "greek": "σὰρξ", "gloss": "chair" },
-          { "greek": "ἐγένετο", "gloss": "devint" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐσκήνωσεν", "gloss": "dressa_sa_tente/habita", "analyse": "Le verbe skenoô renvoie à la Tente de la Rencontre. La matière biologique humaine (la chair, qui est par nature mortelle et vouée à la séparation) devient le tabernacle transparent de l'Énergie divine. La frontière entre le créé et l'Incréé est définitivement abolie." },
-          { "greek": "ἐν", "gloss": "parmi" },
-          { "greek": "ἡμῖν,", "gloss": "nous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐθεασάμεθα", "gloss": "nous_avons_contemplé" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "δόξαν", "gloss": "gloire" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "δόξαν", "gloss": "gloire" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "μονογενοῦς", "gloss": "du_fils_unique" },
-          { "greek": "παρὰ", "gloss": "auprès_du" },
-          { "greek": "πατρός,", "gloss": "Père" },
-          { "greek": "πλήρης", "gloss": "plein" },
-          { "greek": "χάριτος", "gloss": "de_grâce" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀληθείας.", "gloss": "de_vérité" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λόγος",
+            "gloss": "Verbe"
+          },
+          {
+            "greek": "σὰρξ",
+            "gloss": "chair"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "devint"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐσκήνωσεν",
+            "gloss": "dressa_sa_tente/habita",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le verbe skenoô renvoie à la Tente de la Rencontre. La matière biologique humaine (la chair, qui est par nature mortelle et vouée à la séparation) devient le tabernacle transparent de l'Énergie divine. La frontière entre le créé et l'Incréé est définitivement abolie.",
+              "related": [
+                "καὶ",
+                "ἐν"
+              ]
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ἡμῖν,",
+            "gloss": "nous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐθεασάμεθα",
+            "gloss": "nous_avons_contemplé"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "δόξαν",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "δόξαν",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "μονογενοῦς",
+            "gloss": "du_fils_unique"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_du"
+          },
+          {
+            "greek": "πατρός,",
+            "gloss": "Père"
+          },
+          {
+            "greek": "πλήρης",
+            "gloss": "plein"
+          },
+          {
+            "greek": "χάριτος",
+            "gloss": "de_grâce"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀληθείας.",
+            "gloss": "de_vérité"
+          }
         ]
       },
       {
@@ -324,28 +950,94 @@
           "darby": "Jean rend témoignage de lui, et a crié, disant : C'était celui-ci dont je disais : Celui qui vient après moi a pris place avant moi ; car il était avant moi."
         },
         "interlinear": [
-          { "greek": "Ἰωάννης", "gloss": "Jean" },
-          { "greek": "μαρτυρεῖ", "gloss": "rend_témoignage" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "κέκραγεν", "gloss": "s'est_écrié" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Οὗτος", "gloss": "Celui-ci" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "ὃν", "gloss": "celui_que" },
-          { "greek": "εἶπον·", "gloss": "j'ai_dit" },
-          { "greek": "Ὁ", "gloss": "Celui_qui" },
-          { "greek": "ὀπίσω", "gloss": "après" },
-          { "greek": "μου", "gloss": "moi" },
-          { "greek": "ἐρχόμενος", "gloss": "venant" },
-          { "greek": "ἔμπροσθέν", "gloss": "devant" },
-          { "greek": "μου", "gloss": "moi" },
-          { "greek": "γέγονεν,", "gloss": "est_passé" },
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "πρῶτός", "gloss": "premier/avant" },
-          { "greek": "μου", "gloss": "moi" },
-          { "greek": "ἦν.", "gloss": "il_était" }
+          {
+            "greek": "Ἰωάννης",
+            "gloss": "Jean"
+          },
+          {
+            "greek": "μαρτυρεῖ",
+            "gloss": "rend_témoignage"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κέκραγεν",
+            "gloss": "s'est_écrié"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Οὗτος",
+            "gloss": "Celui-ci"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "celui_que"
+          },
+          {
+            "greek": "εἶπον·",
+            "gloss": "j'ai_dit"
+          },
+          {
+            "greek": "Ὁ",
+            "gloss": "Celui_qui"
+          },
+          {
+            "greek": "ὀπίσω",
+            "gloss": "après"
+          },
+          {
+            "greek": "μου",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐρχόμενος",
+            "gloss": "venant"
+          },
+          {
+            "greek": "ἔμπροσθέν",
+            "gloss": "devant"
+          },
+          {
+            "greek": "μου",
+            "gloss": "moi"
+          },
+          {
+            "greek": "γέγονεν,",
+            "gloss": "est_passé"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "πρῶτός",
+            "gloss": "premier/avant"
+          },
+          {
+            "greek": "μου",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἦν.",
+            "gloss": "il_était"
+          }
         ]
       },
       {
@@ -355,18 +1047,54 @@
           "darby": "Car, de sa plénitude, nous tous nous avons reçu, et grâce sur grâce."
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "Car" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "πληρώματος", "gloss": "plénitude" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἡμεῖς", "gloss": "nous" },
-          { "greek": "πάντες", "gloss": "tous" },
-          { "greek": "ἐλάβομεν,", "gloss": "avons_reçu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "χάριν", "gloss": "grâce" },
-          { "greek": "ἀντὶ", "gloss": "sur/pour" },
-          { "greek": "χάριτος·", "gloss": "grâce" }
+          {
+            "greek": "ὅτι",
+            "gloss": "Car"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πληρώματος",
+            "gloss": "plénitude"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "ἐλάβομεν,",
+            "gloss": "avons_reçu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "χάριν",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "ἀντὶ",
+            "gloss": "sur/pour"
+          },
+          {
+            "greek": "χάριτος·",
+            "gloss": "grâce"
+          }
         ]
       },
       {
@@ -376,27 +1104,89 @@
           "darby": "Car la loi a été donnée par Moïse ; la grâce et la vérité vinrent par Jésus Christ."
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "νόμος", "gloss": "loi" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "Μωϋσέως", "gloss": "Moïse" },
-          { "greek": "ἐδόθη,", "gloss": "fut_donnée" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "χάρις", "gloss": "grâce", "analyse": "L'opposition théologique centrale : la Loi (nomos) structure et maintient l'ordre dans le Monde duel par un système de peur, de mérite et de comptabilité. La Grâce (charis) est l'économie du Royaume UN : elle est gratuite, sans cause et sans mérite. C'est l'Énergie divine qui se donne." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "ἀλήθεια", "gloss": "vérité" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "Χριστοῦ", "gloss": "Christ" },
-          { "greek": "ἐγένετο.", "gloss": "vinrent/furent" }
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "νόμος",
+            "gloss": "loi"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "Μωϋσέως",
+            "gloss": "Moïse"
+          },
+          {
+            "greek": "ἐδόθη,",
+            "gloss": "fut_donnée"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'opposition théologique centrale : la Loi (nomos) structure et maintient l'ordre dans le Monde duel par un système de peur, de mérite et de comptabilité. La Grâce (charis) est l'économie du Royaume UN : elle est gratuite, sans cause et sans mérite. C'est l'Énergie divine qui se donne.",
+              "related": [
+                "ἡ",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀλήθεια",
+            "gloss": "vérité"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ἐγένετο.",
+            "gloss": "vinrent/furent"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 1 - πρὸς τὸν θεόν : Rendu par 'avec' ou 'auprès de'. La préposition 'pros' implique un mouvement dynamique, une orientation vers. Le Verbe n'est pas statique à côté de Dieu, il est élan ininterrompu d'amour vers l'Autre.\n• Verset 5 - κατέλαβεν : Segond traduit par 'reçue', Darby par 'comprise'. Littéralement, c'est 'mettre la main sur' ou 'écraser'. Les ténèbres ont essayé d'étouffer la lumière (la crucifixion), mais elles n'ont pas pu l'enfermer (la résurrection).\n• Verset 13 - ἐξ αἱμάτων / θελήματος σαρκὸς : Ce verset est capital, il liste toutes les forces de détermination mondaine (l'hérédité, la biologie, la volonté propre) que le nouveau 'Sujet' doit transcender.\n\nAnalyse spirituelle globale du Prologue :\nLa nuit de Pâques est l'effondrement final de l'illusion. Le 'Monde duel' s'appuie sur la loi de la mort : tout ce qui est créé (la chair, la matière) finit par se disloquer, et l'Ego, terrorisé par cette finitude, passe son temps à chercher du pouvoir pour s'en protéger, instaurant la Loi morale et la domination.\nLa Croix semblait être la victoire absolue de cette mort : le système mondain et religieux s'était coalisé pour détruire le Christ, l'enfermant dans le tombeau (les ténèbres). Mais l'Évangile de Jean ne lit pas Pâques comme un miracle local, il nous ramène au 'Principe' (l'Arché). Le tombeau ne contenait pas un simple cadavre humain, il contenait le Logos incarné.\nLa Résurrection n'est pas un phénomène de réanimation ; c'est l'Énergie incréée qui fait exploser de l'intérieur la prison de la mort. La Ténèbre (l'isolement, le péché, la fermeture de l'Ego) ne peut pas 'saisir' ni étouffer cette Lumière. Désormais, la 'chair' humaine est divinisée. En passant de la Loi à la Grâce, Pâques annonce la naissance des Sujets libres : la mort n'est plus un mur biologique, elle est devenue la porte ouverte de l'éternité."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 1 - πρὸς τὸν θεόν : Rendu par 'avec' ou 'auprès de'. La préposition 'pros' implique un mouvement dynamique, une orientation vers. Le Verbe n'est pas statique à côté de Dieu, il est élan ininterrompu d'amour vers l'Autre.\n• Verset 5 - κατέλαβεν : Segond traduit par 'reçue', Darby par 'comprise'. Littéralement, c'est 'mettre la main sur' ou 'écraser'. Les ténèbres ont essayé d'étouffer la lumière (la crucifixion), mais elles n'ont pas pu l'enfermer (la résurrection).\n• Verset 13 - ἐξ αἱμάτων / θελήματος σαρκὸς : Ce verset est capital, il liste toutes les forces de détermination mondaine (l'hérédité, la biologie, la volonté propre) que le nouveau 'Sujet' doit transcender.\n\nAnalyse spirituelle globale du Prologue :\nLa nuit de Pâques est l'effondrement final de l'illusion. Le 'Monde duel' s'appuie sur la loi de la mort : tout ce qui est créé (la chair, la matière) finit par se disloquer, et l'Ego, terrorisé par cette finitude, passe son temps à chercher du pouvoir pour s'en protéger, instaurant la Loi morale et la domination.\nLa Croix semblait être la victoire absolue de cette mort : le système mondain et religieux s'était coalisé pour détruire le Christ, l'enfermant dans le tombeau (les ténèbres). Mais l'Évangile de Jean ne lit pas Pâques comme un miracle local, il nous ramène au 'Principe' (l'Arché). Le tombeau ne contenait pas un simple cadavre humain, il contenait le Logos incarné.\nLa Résurrection n'est pas un phénomène de réanimation ; c'est l'Énergie incréée qui fait exploser de l'intérieur la prison de la mort. La Ténèbre (l'isolement, le péché, la fermeture de l'Ego) ne peut pas 'saisir' ni étouffer cette Lumière. Désormais, la 'chair' humaine est divinisée. En passant de la Loi à la Grâce, Pâques annonce la naissance des Sujets libres : la mort n'est plus un mur biologique, elle est devenue la porte ouverte de l'éternité.",
+    "liturgical_echoes": [
+      {
+        "title": "Pédagogie pascale des sens",
+        "reference": "Pâques — Thomas — Myrrhophores — Samaritaine — Aveugle-né",
+        "content": "Le Ressuscité ne délivre pas l’homme de son corps : il guérit et transfigure sa manière de sentir. Le parfum porté au tombeau, le toucher proposé à Thomas, la soif de la Samaritaine et la vue donnée à l’Aveugle-né conduisent de la recherche sensible à la rencontre, puis de la rencontre au témoignage.",
+        "connections": []
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Actes 1, 1-8",
     "title": "L'attente kénotique et la promesse de l'Esprit",
     "interlinear": [
@@ -407,23 +1197,74 @@
           "darby": "J'ai composé le premier traité, ô Théophile, sur toutes les choses que Jésus commença de faire et d'enseigner,"
         },
         "interlinear": [
-          { "greek": "Τὸν", "gloss": "Le" },
-          { "greek": "μὲν", "gloss": "certes" },
-          { "greek": "πρῶτον", "gloss": "premier" },
-          { "greek": "λόγον", "gloss": "livre/récit" },
-          { "greek": "ἐποιησάμην", "gloss": "j'ai_fait" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "πάντων,", "gloss": "tout" },
-          { "greek": "ὦ", "gloss": "ô" },
-          { "greek": "Θεόφιλε,", "gloss": "Théophile" },
-          { "greek": "ὧν", "gloss": "ce_que" },
-          { "greek": "ἤρξατο", "gloss": "commença" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ποιεῖν", "gloss": "à_faire" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "διδάσκειν,", "gloss": "enseigner" }
+          {
+            "greek": "Τὸν",
+            "gloss": "Le"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "certes"
+          },
+          {
+            "greek": "πρῶτον",
+            "gloss": "premier"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "livre/récit"
+          },
+          {
+            "greek": "ἐποιησάμην",
+            "gloss": "j'ai_fait"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "πάντων,",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ὦ",
+            "gloss": "ô"
+          },
+          {
+            "greek": "Θεόφιλε,",
+            "gloss": "Théophile"
+          },
+          {
+            "greek": "ὧν",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "ἤρξατο",
+            "gloss": "commença"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ποιεῖν",
+            "gloss": "à_faire"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διδάσκειν,",
+            "gloss": "enseigner"
+          }
         ]
       },
       {
@@ -433,18 +1274,54 @@
           "darby": "jusqu'au jour où il fut élevé au ciel, après avoir donné par l'Esprit Saint des ordres aux apôtres qu'il avait choisis ;"
         },
         "interlinear": [
-          { "greek": "ἄχρι", "gloss": "jusqu'au" },
-          { "greek": "ἧς", "gloss": "lequel" },
-          { "greek": "ἡμέρας", "gloss": "jour" },
-          { "greek": "ἐντειλάμενος", "gloss": "ayant_donné_des_ordres" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "ἀποστόλοις", "gloss": "apôtres" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "πνεύματος", "gloss": "l'Esprit" },
-          { "greek": "ἁγίου", "gloss": "Saint" },
-          { "greek": "οὓς", "gloss": "qu'" },
-          { "greek": "ἐξελέξατο", "gloss": "il_avait_choisis" },
-          { "greek": "ἀνελήμφθη·", "gloss": "il_fut_enlevé" }
+          {
+            "greek": "ἄχρι",
+            "gloss": "jusqu'au"
+          },
+          {
+            "greek": "ἧς",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "ἡμέρας",
+            "gloss": "jour"
+          },
+          {
+            "greek": "ἐντειλάμενος",
+            "gloss": "ayant_donné_des_ordres"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἀποστόλοις",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "l'Esprit"
+          },
+          {
+            "greek": "ἁγίου",
+            "gloss": "Saint"
+          },
+          {
+            "greek": "οὓς",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ἐξελέξατο",
+            "gloss": "il_avait_choisis"
+          },
+          {
+            "greek": "ἀνελήμφθη·",
+            "gloss": "il_fut_enlevé"
+          }
         ]
       },
       {
@@ -454,31 +1331,106 @@
           "darby": "à qui aussi, après avoir souffert, il se présenta lui-même vivant, avec plusieurs preuves assurées, étant vu par eux durant quarante jours, et parlant des choses qui regardent le royaume de Dieu."
         },
         "interlinear": [
-          { "greek": "οἷς", "gloss": "À_qui" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "παρέστησεν", "gloss": "il_présenta" },
-          { "greek": "ἑαυτὸν", "gloss": "lui-même" },
-          { "greek": "ζῶντα", "gloss": "vivant" },
-          { "greek": "μετὰ", "gloss": "après" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "παθεῖν", "gloss": "souffrir" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἐν", "gloss": "avec" },
-          { "greek": "πολλοῖς", "gloss": "plusieurs" },
-          { "greek": "τεκμηρίοις,", "gloss": "preuves" },
-          { "greek": "δι’", "gloss": "pendant" },
-          { "greek": "ἡμερῶν", "gloss": "jours" },
-          { "greek": "τεσσεράκοντα", "gloss": "quarante" },
-          { "greek": "ὀπτανόμενος", "gloss": "apparaissant" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λέγων", "gloss": "parlant" },
-          { "greek": "τὰ", "gloss": "des_choses" },
-          { "greek": "περὶ", "gloss": "concernant" },
-          { "greek": "τῆς", "gloss": "le" },
-          { "greek": "βασιλείας", "gloss": "Royaume" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ·", "gloss": "Dieu" }
+          {
+            "greek": "οἷς",
+            "gloss": "À_qui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "παρέστησεν",
+            "gloss": "il_présenta"
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "ζῶντα",
+            "gloss": "vivant"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "après"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παθεῖν",
+            "gloss": "souffrir"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "πολλοῖς",
+            "gloss": "plusieurs"
+          },
+          {
+            "greek": "τεκμηρίοις,",
+            "gloss": "preuves"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "pendant"
+          },
+          {
+            "greek": "ἡμερῶν",
+            "gloss": "jours"
+          },
+          {
+            "greek": "τεσσεράκοντα",
+            "gloss": "quarante"
+          },
+          {
+            "greek": "ὀπτανόμενος",
+            "gloss": "apparaissant"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγων",
+            "gloss": "parlant"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "des_choses"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "concernant"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλείας",
+            "gloss": "Royaume"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ·",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -488,23 +1440,83 @@
           "darby": "Et étant assemblé avec eux, il leur commanda de ne pas partir de Jérusalem, mais d'attendre la promesse du Père, laquelle, dit-il, vous avez ouïe de moi :"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "συναλιζόμενος", "gloss": "étant_assemblé/mangeant_avec" },
-          { "greek": "παρήγγειλεν", "gloss": "il_ordonna" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "Ἱεροσολύμων", "gloss": "Jérusalem" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "χωρίζεσθαι,", "gloss": "s'éloigner" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "περιμένειν", "gloss": "d'attendre", "analyse": "L'attente ordonnée par le Christ n'est pas passive. Elle correspond à une 'espérance kénotique', une tension vers l'accomplissement. L'homme doit d'abord se vider (kénose) et faire silence pour laisser l'espace au don de Dieu. Le temps pascal est cette respiration spirituelle." },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἐπαγγελίαν", "gloss": "promesse" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "πατρὸς", "gloss": "Père" },
-          { "greek": "ἣν", "gloss": "laquelle" },
-          { "greek": "ἠκούσατέ", "gloss": "vous_avez_entendue" },
-          { "greek": "μου·", "gloss": "de_moi" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "συναλιζόμενος",
+            "gloss": "étant_assemblé/mangeant_avec"
+          },
+          {
+            "greek": "παρήγγειλεν",
+            "gloss": "il_ordonna"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἱεροσολύμων",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "χωρίζεσθαι,",
+            "gloss": "s'éloigner"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "περιμένειν",
+            "gloss": "d'attendre",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : L'attente ordonnée par le Christ n'est pas passive. Elle correspond à une 'espérance kénotique', une tension vers l'accomplissement. L'homme doit d'abord se vider (kénose) et faire silence pour laisser l'espace au don de Dieu. Le temps pascal est cette respiration spirituelle.",
+              "related": [
+                "ἀλλὰ",
+                "τὴν"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐπαγγελίαν",
+            "gloss": "promesse"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "πατρὸς",
+            "gloss": "Père"
+          },
+          {
+            "greek": "ἣν",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "ἠκούσατέ",
+            "gloss": "vous_avez_entendue"
+          },
+          {
+            "greek": "μου·",
+            "gloss": "de_moi"
+          }
         ]
       },
       {
@@ -514,22 +1526,70 @@
           "darby": "car Jean a bien baptisé d'eau ; mais vous, vous serez baptisés de l'Esprit Saint, dans peu de jours."
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "Ἰωάννης", "gloss": "Jean" },
-          { "greek": "μὲν", "gloss": "certes" },
-          { "greek": "ἐβάπτισεν", "gloss": "baptisa" },
-          { "greek": "ὕδατι,", "gloss": "d'eau" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐν", "gloss": "dans/de" },
-          { "greek": "πνεύματι", "gloss": "l'Esprit" },
-          { "greek": "βαπτισθήσεσθε", "gloss": "vous_serez_baptisés" },
-          { "greek": "ἁγίῳ", "gloss": "Saint" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "μετὰ", "gloss": "après" },
-          { "greek": "πολλὰς", "gloss": "beaucoup" },
-          { "greek": "ταύτας", "gloss": "ces" },
-          { "greek": "ἡμέρας.", "gloss": "jours" }
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "Ἰωάννης",
+            "gloss": "Jean"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "certes"
+          },
+          {
+            "greek": "ἐβάπτισεν",
+            "gloss": "baptisa"
+          },
+          {
+            "greek": "ὕδατι,",
+            "gloss": "d'eau"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/de"
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "l'Esprit"
+          },
+          {
+            "greek": "βαπτισθήσεσθε",
+            "gloss": "vous_serez_baptisés"
+          },
+          {
+            "greek": "ἁγίῳ",
+            "gloss": "Saint"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "après"
+          },
+          {
+            "greek": "πολλὰς",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "ταύτας",
+            "gloss": "ces"
+          },
+          {
+            "greek": "ἡμέρας.",
+            "gloss": "jours"
+          }
         ]
       },
       {
@@ -539,24 +1599,87 @@
           "darby": "Eux donc, étant assemblés, l'interrogèrent, disant : Seigneur, est-ce en ce temps-ci que tu rétablis le royaume pour Israël ?"
         },
         "interlinear": [
-          { "greek": "Οἱ", "gloss": "Ceux/Les" },
-          { "greek": "μὲν", "gloss": "donc" },
-          { "greek": "οὖν", "gloss": "or" },
-          { "greek": "συνελθόντες", "gloss": "étant_réunis" },
-          { "greek": "ἠρώτων", "gloss": "interrogeaient" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "λέγοντες·", "gloss": "disant" },
-          { "greek": "Κύριε,", "gloss": "Seigneur" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "χρόνῳ", "gloss": "temps" },
-          { "greek": "τούτῳ", "gloss": "ceci" },
-          { "greek": "ἀποκαθιστάνεις", "gloss": "tu_rétablis", "analyse": "Cette question montre que les apôtres sont encore enfermés dans la logique du Monde duel. Ils désirent une victoire politique et temporelle, une restauration d'Israël. Ils sont toujours dans l'illusion de la pensée calculante (dialogismoi) tournée vers le narcissisme d'un triomphe terrestre." },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "βασιλείαν", "gloss": "royaume" },
-          { "greek": "τῷ", "gloss": "pour" },
-          { "greek": "Ἰσραήλ;", "gloss": "Israël" }
+          {
+            "greek": "Οἱ",
+            "gloss": "Ceux/Les"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "or"
+          },
+          {
+            "greek": "συνελθόντες",
+            "gloss": "étant_réunis"
+          },
+          {
+            "greek": "ἠρώτων",
+            "gloss": "interrogeaient"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "χρόνῳ",
+            "gloss": "temps"
+          },
+          {
+            "greek": "τούτῳ",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ἀποκαθιστάνεις",
+            "gloss": "tu_rétablis",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Cette question montre que les apôtres sont encore enfermés dans la logique du Monde duel. Ils désirent une victoire politique et temporelle, une restauration d'Israël. Ils sont toujours dans l'illusion de la pensée calculante (dialogismoi) tournée vers le narcissisme d'un triomphe terrestre.",
+              "related": [
+                "τούτῳ",
+                "τὴν"
+              ]
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλείαν",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "Ἰσραήλ;",
+            "gloss": "Israël"
+          }
         ]
       },
       {
@@ -566,25 +1689,82 @@
           "darby": "Mais il leur dit : Ce n'est pas à vous de connaître les temps ou les saisons que le Père a réservés à sa propre autorité ;"
         },
         "interlinear": [
-          { "greek": "εἶπεν", "gloss": "Il_dit" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "πρὸς", "gloss": "à" },
-          { "greek": "αὐτούς·", "gloss": "eux" },
-          { "greek": "Οὐχ", "gloss": "Non" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "ἐστιν", "gloss": "il_est" },
-          { "greek": "γνῶναι", "gloss": "de_connaître" },
-          { "greek": "χρόνους", "gloss": "les_temps" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "καιροὺς", "gloss": "les_saisons/moments" },
-          { "greek": "οὓς", "gloss": "que" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "πατὴρ", "gloss": "Père" },
-          { "greek": "ἔθετο", "gloss": "a_placés" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "sa" },
-          { "greek": "ἰδίᾳ", "gloss": "propre" },
-          { "greek": "ἐξουσίᾳ·", "gloss": "autorité" }
+          {
+            "greek": "εἶπεν",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "à"
+          },
+          {
+            "greek": "αὐτούς·",
+            "gloss": "eux"
+          },
+          {
+            "greek": "Οὐχ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "γνῶναι",
+            "gloss": "de_connaître"
+          },
+          {
+            "greek": "χρόνους",
+            "gloss": "les_temps"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "καιροὺς",
+            "gloss": "les_saisons/moments"
+          },
+          {
+            "greek": "οὓς",
+            "gloss": "que"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "ἔθετο",
+            "gloss": "a_placés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "sa"
+          },
+          {
+            "greek": "ἰδίᾳ",
+            "gloss": "propre"
+          },
+          {
+            "greek": "ἐξουσίᾳ·",
+            "gloss": "autorité"
+          }
         ]
       },
       {
@@ -594,36 +1774,126 @@
           "darby": "mais vous recevrez de la puissance, le Saint Esprit venant sur vous ; et vous serez mes témoins à Jérusalem, et dans toute la Judée et la Samarie, et jusqu'au bout de la terre."
         },
         "interlinear": [
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "λήμψεσθε", "gloss": "vous_recevrez" },
-          { "greek": "δύναμιν", "gloss": "puissance" },
-          { "greek": "ἐπελθόντος", "gloss": "survenant" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "ἁγίου", "gloss": "Saint" },
-          { "greek": "πνεύματος", "gloss": "Esprit" },
-          { "greek": "ἐφ’", "gloss": "sur" },
-          { "greek": "ὑμᾶς,", "gloss": "vous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔσεσθέ", "gloss": "vous_serez" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "μάρτυρες", "gloss": "témoins", "analyse": "Le témoignage (martyria) est la finalité du croyant. En devenant un 'Je' unique, le Sujet témoigne de son amour pour l'autre. C'est en s'excluant du Monde duel (pour appartenir au Royaume UN) qu'il se retrouve véritablement uni à tous dans l'Église." },
-          { "greek": "ἔν", "gloss": "dans" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "Ἰερουσαλὴμ", "gloss": "Jérusalem" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πάσῃ", "gloss": "toute" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "Ἰουδαίᾳ", "gloss": "Judée" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Σαμαρείᾳ", "gloss": "Samarie" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "ἐσχάτου", "gloss": "l'extrémité" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "γῆς.", "gloss": "terre" }
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "λήμψεσθε",
+            "gloss": "vous_recevrez"
+          },
+          {
+            "greek": "δύναμιν",
+            "gloss": "puissance"
+          },
+          {
+            "greek": "ἐπελθόντος",
+            "gloss": "survenant"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "ἁγίου",
+            "gloss": "Saint"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "ἐφ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔσεσθέ",
+            "gloss": "vous_serez"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "μάρτυρες",
+            "gloss": "témoins",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le témoignage (martyria) est la finalité du croyant. En devenant un 'Je' unique, le Sujet témoigne de son amour pour l'autre. C'est en s'excluant du Monde duel (pour appartenir au Royaume UN) qu'il se retrouve véritablement uni à tous dans l'Église.",
+              "related": [
+                "μου",
+                "ἔν"
+              ]
+            }
+          },
+          {
+            "greek": "ἔν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰερουσαλὴμ",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάσῃ",
+            "gloss": "toute"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "Ἰουδαίᾳ",
+            "gloss": "Judée"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Σαμαρείᾳ",
+            "gloss": "Samarie"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "ἐσχάτου",
+            "gloss": "l'extrémité"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "γῆς.",
+            "gloss": "terre"
+          }
         ]
       }
     ],
     "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 4 - συναλιζόμενος : Signifie littéralement 'manger du sel avec' (partager le repas), traduisant une profonde communion. Le Royaume n'est pas un concept éthéré, il s'enracine dans la chair de la Synaxe eucharistique.\n• Verset 6 - ἀποκαθιστάνεις : Le terme est lourd de sens politique ('restaurer'). C'est l'espoir déçu des zélotes et de la foule des Rameaux, espérance charnelle que les disciples peinent encore à abandonner.\n\nAnalyse spirituelle :\nCette lecture ouvre le temps pascal, une période qui correspond spirituellement à la naissance du corps de l'Église, le corps théandrique du Christ. Le grand mouvement théophorique s'amorce : les apôtres vont porter Dieu pour le faire advenir dans le monde. Cependant, avant cet aboutissement, ils doivent traverser l'étape de l''espérance kénotique'.\n\nMalgré la Résurrection, l'Ego des apôtres résiste encore. Ils interrogent Jésus avec la pensée calculante ('dialogismoi') propre au Monde duel : 'Est-ce en ce temps que tu rétabliras Israël ?' Ils veulent encore une gloire horizontale, spatiale et mesurable. Le Christ déjoue brutalement cette préhension : le temps appartient au Père. Leur mission n'est pas de dominer le temps ni de restaurer une nation, mais de recevoir la 'Puissance' verticale de l'Esprit. Seule cette kénose totale, cet abaissement où l'homme se vide de ses agendas politiques, permet au Saint-Esprit de transformer une collection d'individus apeurés en un seul Corps de 'Sujets' uniques, unis pour être les témoins vivants de la Lumière incréée jusqu'aux extrémités de la terre."
   }
-  }
+}
