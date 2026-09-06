@@ -10,14 +10,41 @@
           "darby": "Livre de la généalogie de Jésus Christ, fils de David, fils d'Abraham :"
         },
         "interlinear": [
-          { "greek": "Βίβλος", "gloss": "Livre", "analyse": "Le *Biblos*. Matthieu ouvre le Nouveau Testament par le même mot qui structure la Création et l'Alliance. L'histoire du Monde duel va être refermée et réécrite." },
-          { "greek": "γενέσεως", "gloss": "de_la_genèse/généalogie", "analyse": "Le mot vertigineux : *Genesis* (origine/commencement). Ce n'est pas seulement une 'liste d'ancêtres', c'est la Nouvelle Genèse. L'Incréé vient réinitialiser la Création corrompue au point zéro de la Non-Dualité." },
-          { "greek": "Ἰησοῦ", "gloss": "de_Jésus" },
-          { "greek": "Χριστοῦ", "gloss": "Christ" },
-          { "greek": "υἱοῦ", "gloss": "fils" },
-          { "greek": "Δαυὶδ", "gloss": "de_David" },
-          { "greek": "υἱοῦ", "gloss": "fils" },
-          { "greek": "Ἀβραάμ.", "gloss": "d'Abraham", "analyse": "Les deux ancrages géométriques de la promesse : Abraham (la foi/l'arrachement à la matrice chaldéenne) et David (la royauté/l'axe de souveraineté)." }
+          {
+            "greek": "Βίβλος",
+            "gloss": "Livre",
+            "analyse": "Le Biblos. Matthieu ouvre le Nouveau Testament par le même mot qui structure la Création et l'Alliance. L'histoire du Monde duel va être refermée et réécrite."
+          },
+          {
+            "greek": "γενέσεως",
+            "gloss": "de_la_genèse/généalogie",
+            "analyse": "Le mot vertigineux : Genesis (origine/commencement). Ce n'est pas seulement une 'liste d'ancêtres', c'est la Nouvelle Genèse. L'Incréé vient réinitialiser la Création corrompue au point zéro de la Non-Dualité."
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "de_Jésus"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "υἱοῦ",
+            "gloss": "fils"
+          },
+          {
+            "greek": "Δαυὶδ",
+            "gloss": "de_David"
+          },
+          {
+            "greek": "υἱοῦ",
+            "gloss": "fils"
+          },
+          {
+            "greek": "Ἀβραάμ.",
+            "gloss": "d'Abraham",
+            "analyse": "Les deux ancrages géométriques de la promesse : Abraham (la foi/l'arrachement à la matrice chaldéenne) et David (la royauté/l'axe de souveraineté)."
+          }
         ]
       },
       {
@@ -27,24 +54,79 @@
           "darby": "Abraham engendra Isaac ; et Isaac engendra Jacob ; et Jacob engendra Juda et ses frères ;"
         },
         "interlinear": [
-          { "greek": "Ἀβραὰμ", "gloss": "Abraham" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra/généra", "analyse": "Le verbe *gennao* (qui va marteler tout le texte). C'est la mécanique de reproduction de la dualité dans le temps chronologique (*Chronos*). L'Ego biologique transmet l'entropie et la survie à la génération suivante. Le Christ vient s'insérer dans cette roue karmique pour la briser de l'intérieur." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰσαάκ,", "gloss": "Isaac" },
-          { "greek": "Ἰσαὰκ", "gloss": "Isaac" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰακώβ,", "gloss": "Jacob" },
-          { "greek": "Ἰακὼβ", "gloss": "Jacob" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰούδαν", "gloss": "Juda" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ἀδελφοὺς", "gloss": "frères" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" }
+          {
+            "greek": "Ἀβραὰμ",
+            "gloss": "Abraham"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra/généra",
+            "analyse": "Le verbe gennao (qui va marteler tout le texte). C'est la mécanique de reproduction de la dualité dans le temps chronologique (Chronos). L'Ego biologique transmet l'entropie et la survie à la génération suivante. Le Christ vient s'insérer dans cette roue karmique pour la briser de l'intérieur."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰσαάκ,",
+            "gloss": "Isaac"
+          },
+          {
+            "greek": "Ἰσαὰκ",
+            "gloss": "Isaac"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰακώβ,",
+            "gloss": "Jacob"
+          },
+          {
+            "greek": "Ἰακὼβ",
+            "gloss": "Jacob"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰούδαν",
+            "gloss": "Juda"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀδελφοὺς",
+            "gloss": "frères"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -54,27 +136,91 @@
           "darby": "et Juda engendra Pharès et Zara, de Thamar ; et Pharès engendra Esrom ; et Esrom engendra Aram ;"
         },
         "interlinear": [
-          { "greek": "Ἰούδας", "gloss": "Juda" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Φαρὲς", "gloss": "Pharès" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ζαρὰ", "gloss": "Zara" },
-          { "greek": "ἐκ", "gloss": "de/à_partir_de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "Θαμάρ,", "gloss": "Thamar", "analyse": "Première anomalie matricielle. L'antiquité patriarcale ne cite pas les femmes dans les généalogies. Matthieu insère Thamar, la belle-fille qui a dû se déguiser en prostituée pour forcer Juda à accomplir son devoir (Genèse 38). L'Incréé utilise les brèches, les scandales et les ruses de l'humain pour tisser le fil de l'Incarnation. La Grâce n'est pas une pureté morale clinique." },
-          { "greek": "Φαρὲς", "gloss": "Pharès" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἑσρώμ,", "gloss": "Esrom" },
-          { "greek": "Ἑσρὼμ", "gloss": "Esrom" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἀράμ,", "gloss": "Aram" }
+          {
+            "greek": "Ἰούδας",
+            "gloss": "Juda"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Φαρὲς",
+            "gloss": "Pharès"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ζαρὰ",
+            "gloss": "Zara"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de/à_partir_de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "Θαμάρ,",
+            "gloss": "Thamar",
+            "analyse": "Première anomalie matricielle. L'antiquité patriarcale ne cite pas les femmes dans les généalogies. Matthieu insère Thamar, la belle-fille qui a dû se déguiser en prostituée pour forcer Juda à accomplir son devoir (Genèse 38). L'Incréé utilise les brèches, les scandales et les ruses de l'humain pour tisser le fil de l'Incarnation. La Grâce n'est pas une pureté morale clinique."
+          },
+          {
+            "greek": "Φαρὲς",
+            "gloss": "Pharès"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἑσρώμ,",
+            "gloss": "Esrom"
+          },
+          {
+            "greek": "Ἑσρὼμ",
+            "gloss": "Esrom"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἀράμ,",
+            "gloss": "Aram"
+          }
         ]
       },
       {
@@ -84,21 +230,66 @@
           "darby": "et Aram engendra Aminadab ; et Aminadab engendra Naasson ; et Naasson engendra Salmon ;"
         },
         "interlinear": [
-          { "greek": "Ἀρὰμ", "gloss": "Aram" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἀμιναδάβ,", "gloss": "Aminadab" },
-          { "greek": "Ἀμιναδὰβ", "gloss": "Aminadab" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ναασσών,", "gloss": "Naasson" },
-          { "greek": "Ναασσὼν", "gloss": "Naasson" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Σαλμών,", "gloss": "Salmon" }
+          {
+            "greek": "Ἀρὰμ",
+            "gloss": "Aram"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἀμιναδάβ,",
+            "gloss": "Aminadab"
+          },
+          {
+            "greek": "Ἀμιναδὰβ",
+            "gloss": "Aminadab"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ναασσών,",
+            "gloss": "Naasson"
+          },
+          {
+            "greek": "Ναασσὼν",
+            "gloss": "Naasson"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Σαλμών,",
+            "gloss": "Salmon"
+          }
         ]
       },
       {
@@ -108,27 +299,92 @@
           "darby": "et Salmon engendra Booz, de Rahab ; et Booz engendra Obed, de Ruth ; et Obed engendra Isaï ;"
         },
         "interlinear": [
-          { "greek": "Σαλμὼν", "gloss": "Salmon" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Βοὲζ", "gloss": "Booz" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "Ῥαχάβ,", "gloss": "Rahab", "analyse": "Deuxième anomalie. Rahab la Cananéenne, la prostituée de Jéricho. La matrice d'Israël s'hybride avec la périphérie absolue (le paganisme et l'impureté sociale). L'ADN du Christ assume structurellement les exclus du Monde duel." },
-          { "greek": "Βοὲζ", "gloss": "Booz" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰωβὴδ", "gloss": "Obed" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "Ῥούθ,", "gloss": "Ruth", "analyse": "Troisième anomalie. Ruth la Moabite. La Loi mosaïque (Deutéronome 23:3) interdisait formellement l'intégration d'un Moabite dans l'assemblée de l'Éternel. L'Axe vertical pulvérise la loi d'exclusion horizontale." },
-          { "greek": "Ἰωβὴδ", "gloss": "Obed" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰεσσαί,", "gloss": "Isaï" }
+          {
+            "greek": "Σαλμὼν",
+            "gloss": "Salmon"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Βοὲζ",
+            "gloss": "Booz"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "Ῥαχάβ,",
+            "gloss": "Rahab",
+            "analyse": "Deuxième anomalie. Rahab la Cananéenne, la prostituée de Jéricho. La matrice d'Israël s'hybride avec la périphérie absolue (le paganisme et l'impureté sociale). L'ADN du Christ assume structurellement les exclus du Monde duel."
+          },
+          {
+            "greek": "Βοὲζ",
+            "gloss": "Booz"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰωβὴδ",
+            "gloss": "Obed"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "Ῥούθ,",
+            "gloss": "Ruth",
+            "analyse": "Troisième anomalie. Ruth la Moabite. La Loi mosaïque (Deutéronome 23:3) interdisait formellement l'intégration d'un Moabite dans l'assemblée de l'Éternel. L'Axe vertical pulvérise la loi d'exclusion horizontale."
+          },
+          {
+            "greek": "Ἰωβὴδ",
+            "gloss": "Obed"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰεσσαί,",
+            "gloss": "Isaï"
+          }
         ]
       },
       {
@@ -138,22 +394,72 @@
           "darby": "et Isaï engendra David le roi ; et David engendra Salomon, de celle qui avait été femme d'Urie ;"
         },
         "interlinear": [
-          { "greek": "Ἰεσσαὶ", "gloss": "Isaï" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Δαυὶδ", "gloss": "David" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "βασιλέα.", "gloss": "roi", "analyse": "L'apogée du premier cycle (14 générations). David représente le sommet de la souveraineté temporelle, le Roi géométrique autour duquel s'organise l'identité d'Israël." },
-          { "greek": "Δαυὶδ", "gloss": "David" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Σολομῶνα", "gloss": "Salomon" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "celle/la_femme" },
-          { "greek": "τοῦ", "gloss": "de_l'" },
-          { "greek": "Οὐρίου,", "gloss": "Urie", "analyse": "Quatrième anomalie, la plus vertigineuse. Matthieu refuse même de nommer Bethsabée ; il l'appelle 'celle d'Urie'. Le texte souligne l'horreur fondatrice (l'adultère royal et le meurtre commandité). La lignée royale du Messie passe par la pire défaillance de l'Ego de David. L'Incréé prend en charge le karma le plus lourd de l'humanité pour l'intégrer et le transmuter." }
+          {
+            "greek": "Ἰεσσαὶ",
+            "gloss": "Isaï"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Δαυὶδ",
+            "gloss": "David"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλέα.",
+            "gloss": "roi",
+            "analyse": "L'apogée du premier cycle (14 générations). David représente le sommet de la souveraineté temporelle, le Roi géométrique autour duquel s'organise l'identité d'Israël."
+          },
+          {
+            "greek": "Δαυὶδ",
+            "gloss": "David"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Σολομῶνα",
+            "gloss": "Salomon"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "celle/la_femme"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "Οὐρίου,",
+            "gloss": "Urie",
+            "analyse": "Quatrième anomalie, la plus vertigineuse. Matthieu refuse même de nommer Bethsabée ; il l'appelle 'celle d'Urie'. Le texte souligne l'horreur fondatrice (l'adultère royal et le meurtre commandité). La lignée royale du Messie passe par la pire défaillance de l'Ego de David. L'Incréé prend en charge le karma le plus lourd de l'humanité pour l'intégrer et le transmuter."
+          }
         ]
       },
       {
@@ -163,21 +469,66 @@
           "darby": "et Salomon engendra Roboam ; et Roboam engendra Abia ; et Abia engendra Asa ;"
         },
         "interlinear": [
-          { "greek": "Σολομὼν", "gloss": "Salomon" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ῥοβοάμ,", "gloss": "Roboam" },
-          { "greek": "Ῥοβοὰμ", "gloss": "Roboam" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἀβιά,", "gloss": "Abia" },
-          { "greek": "Ἀβιὰ", "gloss": "Abia" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἀσά,", "gloss": "Asa" }
+          {
+            "greek": "Σολομὼν",
+            "gloss": "Salomon"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ῥοβοάμ,",
+            "gloss": "Roboam"
+          },
+          {
+            "greek": "Ῥοβοὰμ",
+            "gloss": "Roboam"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἀβιά,",
+            "gloss": "Abia"
+          },
+          {
+            "greek": "Ἀβιὰ",
+            "gloss": "Abia"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἀσά,",
+            "gloss": "Asa"
+          }
         ]
       },
       {
@@ -187,21 +538,67 @@
           "darby": "et Asa engendra Josaphat ; et Josaphat engendra Joram ; et Joram engendra Ozias ;"
         },
         "interlinear": [
-          { "greek": "Ἀσὰφ", "gloss": "Asaph/Asa" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰωσαφάτ,", "gloss": "Josaphat" },
-          { "greek": "Ἰωσαφὰτ", "gloss": "Josaphat" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰωράμ,", "gloss": "Joram" },
-          { "greek": "Ἰωρὰμ", "gloss": "Joram" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ὀζίαν,", "gloss": "Ozias", "analyse": "Dans la temporalité de ce cycle (la royauté), Matthieu omet volontairement trois rois (Achazia, Joas, Amatsia) pour maintenir l'architecture mathématique de 14 générations. La généalogie n'est pas un acte d'état civil clinique, c'est une structure métaphysique géométrique." }
+          {
+            "greek": "Ἀσὰφ",
+            "gloss": "Asaph/Asa"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰωσαφάτ,",
+            "gloss": "Josaphat"
+          },
+          {
+            "greek": "Ἰωσαφὰτ",
+            "gloss": "Josaphat"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰωράμ,",
+            "gloss": "Joram"
+          },
+          {
+            "greek": "Ἰωρὰμ",
+            "gloss": "Joram"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ὀζίαν,",
+            "gloss": "Ozias",
+            "analyse": "Dans la temporalité de ce cycle (la royauté), Matthieu omet volontairement trois rois (Achazia, Joas, Amatsia) pour maintenir l'architecture mathématique de 14 générations. La généalogie n'est pas un acte d'état civil clinique, c'est une structure métaphysique géométrique."
+          }
         ]
       },
       {
@@ -211,21 +608,66 @@
           "darby": "et Ozias engendra Jotham ; et Jotham engendra Achaz ; et Achaz engendra Ézéchias ;"
         },
         "interlinear": [
-          { "greek": "Ὀζίας", "gloss": "Ozias" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰωαθάμ,", "gloss": "Jotham" },
-          { "greek": "Ἰωαθὰμ", "gloss": "Jotham" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἀχάζ,", "gloss": "Achaz" },
-          { "greek": "Ἀχὰζ", "gloss": "Achaz" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἑζεκίαν,", "gloss": "Ezéchias" }
+          {
+            "greek": "Ὀζίας",
+            "gloss": "Ozias"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰωαθάμ,",
+            "gloss": "Jotham"
+          },
+          {
+            "greek": "Ἰωαθὰμ",
+            "gloss": "Jotham"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἀχάζ,",
+            "gloss": "Achaz"
+          },
+          {
+            "greek": "Ἀχὰζ",
+            "gloss": "Achaz"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἑζεκίαν,",
+            "gloss": "Ezéchias"
+          }
         ]
       },
       {
@@ -235,21 +677,66 @@
           "darby": "et Ézéchias engendra Manassé ; et Manassé engendra Amon ; et Amon engendra Josias ;"
         },
         "interlinear": [
-          { "greek": "Ἑζεκίας", "gloss": "Ezéchias" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Μανασσῆ,", "gloss": "Manassé" },
-          { "greek": "Μανασσῆς", "gloss": "Manassé" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἀμώς,", "gloss": "Amos/Amon" },
-          { "greek": "Ἀμὼς", "gloss": "Amos/Amon" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰωσίαν,", "gloss": "Josias" }
+          {
+            "greek": "Ἑζεκίας",
+            "gloss": "Ezéchias"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Μανασσῆ,",
+            "gloss": "Manassé"
+          },
+          {
+            "greek": "Μανασσῆς",
+            "gloss": "Manassé"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἀμώς,",
+            "gloss": "Amos/Amon"
+          },
+          {
+            "greek": "Ἀμὼς",
+            "gloss": "Amos/Amon"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰωσίαν,",
+            "gloss": "Josias"
+          }
         ]
       },
       {
@@ -259,42 +746,126 @@
           "darby": "et Josias engendra Jéchonias et ses frères, au temps de la déportation à Babylone."
         },
         "interlinear": [
-          { "greek": "Ἰωσίας", "gloss": "Josias" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰεχονίαν", "gloss": "Jéchonias" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ἀδελφοὺς", "gloss": "frères" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἐπὶ", "gloss": "lors_de/sur" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "μετοικεσίας", "gloss": "déportation/transmigration", "analyse": "Le mot *met-oikesia*. Composé de *meta* (changement) et *oikos* (maison/habitat). L'arrachement violent hors du Foyer. C'est l'exil absolu de l'âme loin du Centre." },
-          { "greek": "Βαβυλῶνος.", "gloss": "de_Babylone", "analyse": "Le point de rupture cosmique, la fin du deuxième cycle. Babylone (Babel, la porte de l'Ego, la confusion) est la Matrice de l'horizontalité pure, l'endroit où le Sujet est réduit en esclavage par le système de la dualité. La royauté physique de David y est écrasée." }
+          {
+            "greek": "Ἰωσίας",
+            "gloss": "Josias"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰεχονίαν",
+            "gloss": "Jéchonias"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀδελφοὺς",
+            "gloss": "frères"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "lors_de/sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "μετοικεσίας",
+            "gloss": "déportation/transmigration",
+            "analyse": "Le mot met-oikesia. Composé de meta (changement) et oikos (maison/habitat). L'arrachement violent hors du Foyer. C'est l'exil absolu de l'âme loin du Centre."
+          },
+          {
+            "greek": "Βαβυλῶνος.",
+            "gloss": "de_Babylone",
+            "analyse": "Le point de rupture cosmique, la fin du deuxième cycle. Babylone (Babel, la porte de l'Ego, la confusion) est la Matrice de l'horizontalité pure, l'endroit où le Sujet est réduit en esclavage par le système de la dualité. La royauté physique de David y est écrasée."
+          }
         ]
       },
-   {
+      {
         "verse_number": 12,
         "translations": {
           "segond": "Après la déportation à Babylone, Jéchonias engendra Salathiel ; Salathiel engendra Zorobabel ;",
           "darby": "Et après la déportation à Babylone, Jéchonias engendra Salathiel ; et Salathiel engendra Zorobabel ;"
         },
         "interlinear": [
-          { "greek": "Μετὰ", "gloss": "Après" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "μετοικεσίαν", "gloss": "déportation/exil", "analyse": "Le troisième cycle commence dans l'obscurité de l'exil. La royauté physique n'existe plus. La transmission karmique se fait désormais dans les marges de l'Empire (la Matrice totale)." },
-          { "greek": "Βαβυλῶνος", "gloss": "de_Babylone" },
-          { "greek": "Ἰεχονίας", "gloss": "Jéchonias" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Σαλαθιήλ,", "gloss": "Salathiel" },
-          { "greek": "Σαλαθιὴλ", "gloss": "Salathiel" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ζοροβάβελ,", "gloss": "Zorobabel" }
+          {
+            "greek": "Μετὰ",
+            "gloss": "Après"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "μετοικεσίαν",
+            "gloss": "déportation/exil",
+            "analyse": "Le troisième cycle commence dans l'obscurité de l'exil. La royauté physique n'existe plus. La transmission karmique se fait désormais dans les marges de l'Empire (la Matrice totale)."
+          },
+          {
+            "greek": "Βαβυλῶνος",
+            "gloss": "de_Babylone"
+          },
+          {
+            "greek": "Ἰεχονίας",
+            "gloss": "Jéchonias"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Σαλαθιήλ,",
+            "gloss": "Salathiel"
+          },
+          {
+            "greek": "Σαλαθιὴλ",
+            "gloss": "Salathiel"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ζοροβάβελ,",
+            "gloss": "Zorobabel"
+          }
         ]
       },
       {
@@ -304,21 +875,66 @@
           "darby": "et Zorobabel engendra Abiud ; et Abiud engendra Éliakim ; et Éliakim engendra Azor ;"
         },
         "interlinear": [
-          { "greek": "Ζοροβάβελ", "gloss": "Zorobabel" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἀβιούδ,", "gloss": "Abiud" },
-          { "greek": "Ἀβιοὺδ", "gloss": "Abiud" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἐλιακίμ,", "gloss": "Eliakim" },
-          { "greek": "Ἐλιακὶμ", "gloss": "Eliakim" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἀζώρ,", "gloss": "Azor" }
+          {
+            "greek": "Ζοροβάβελ",
+            "gloss": "Zorobabel"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἀβιούδ,",
+            "gloss": "Abiud"
+          },
+          {
+            "greek": "Ἀβιοὺδ",
+            "gloss": "Abiud"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἐλιακίμ,",
+            "gloss": "Eliakim"
+          },
+          {
+            "greek": "Ἐλιακὶμ",
+            "gloss": "Eliakim"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἀζώρ,",
+            "gloss": "Azor"
+          }
         ]
       },
       {
@@ -328,21 +944,66 @@
           "darby": "et Azor engendra Sadoc ; et Sadoc engendra Achim ; et Achim engendra Éliud ;"
         },
         "interlinear": [
-          { "greek": "Ἀζὼρ", "gloss": "Azor" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Σαδώκ,", "gloss": "Sadoc" },
-          { "greek": "Σαδὼκ", "gloss": "Sadoc" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἀχείμ,", "gloss": "Achim" },
-          { "greek": "Ἀχεὶμ", "gloss": "Achim" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἐλιούδ,", "gloss": "Eliud" }
+          {
+            "greek": "Ἀζὼρ",
+            "gloss": "Azor"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Σαδώκ,",
+            "gloss": "Sadoc"
+          },
+          {
+            "greek": "Σαδὼκ",
+            "gloss": "Sadoc"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἀχείμ,",
+            "gloss": "Achim"
+          },
+          {
+            "greek": "Ἀχεὶμ",
+            "gloss": "Achim"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἐλιούδ,",
+            "gloss": "Eliud"
+          }
         ]
       },
       {
@@ -352,21 +1013,66 @@
           "darby": "et Éliud engendra Éléazar ; et Éléazar engendra Matthan ; et Matthan engendra Jacob ;"
         },
         "interlinear": [
-          { "greek": "Ἐλιοὺδ", "gloss": "Eliud" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἐλεάζαρ,", "gloss": "Eléazar" },
-          { "greek": "Ἐλεάζαρ", "gloss": "Eléazar" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ματθάν,", "gloss": "Matthan" },
-          { "greek": "Ματθὰν", "gloss": "Matthan" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰακώβ,", "gloss": "Jacob" }
+          {
+            "greek": "Ἐλιοὺδ",
+            "gloss": "Eliud"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἐλεάζαρ,",
+            "gloss": "Eléazar"
+          },
+          {
+            "greek": "Ἐλεάζαρ",
+            "gloss": "Eléazar"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ματθάν,",
+            "gloss": "Matthan"
+          },
+          {
+            "greek": "Ματθὰν",
+            "gloss": "Matthan"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰακώβ,",
+            "gloss": "Jacob"
+          }
         ]
       },
       {
@@ -376,21 +1082,69 @@
           "darby": "et Jacob engendra Joseph, le mari de Marie, de laquelle est né Jésus, qui est appelé Christ."
         },
         "interlinear": [
-          { "greek": "Ἰακὼβ", "gloss": "Jacob" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγέννησεν", "gloss": "engendra" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἄνδρα", "gloss": "mari/homme", "analyse": "Le grain de sable qui fait dérailler la machine. La mécanique répétitive des versets précédents s'attendait à : 'Joseph engendra Jésus'. Mais Joseph n'est défini que comme 'le mari de Marie'." },
-          { "greek": "Μαρίας,", "gloss": "de_Marie" },
-          { "greek": "ἐξ", "gloss": "hors_de/de" },
-          { "greek": "ἧς", "gloss": "laquelle", "analyse": "La préposition spatiale *ek* (hors de) au féminin. Le fil actif de la reproduction masculine (symbole de la force égotique et horizontale du Monde duel) est définitivement court-circuité." },
-          { "greek": "ἐγεννήθη", "gloss": "fut_engendré", "analyse": "Le verbe *gennao* bascule de la voix active à la voix passive (*egennethe*). La Singularité absolue. L'Incarnation n'est pas le produit de la chaîne humaine, elle est une irruption verticale que la Vierge subit et accueille (*kénose*). C'est la fin du karma." },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λεγόμενος", "gloss": "étant_appelé" },
-          { "greek": "Χριστός.", "gloss": "Christ" }
+          {
+            "greek": "Ἰακὼβ",
+            "gloss": "Jacob"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγέννησεν",
+            "gloss": "engendra"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰωσὴφ",
+            "gloss": "Joseph"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄνδρα",
+            "gloss": "mari/homme",
+            "analyse": "Le grain de sable qui fait dérailler la machine. La mécanique répétitive des versets précédents s'attendait à : 'Joseph engendra Jésus'. Mais Joseph n'est défini que comme 'le mari de Marie'."
+          },
+          {
+            "greek": "Μαρίας,",
+            "gloss": "de_Marie"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "hors_de/de"
+          },
+          {
+            "greek": "ἧς",
+            "gloss": "laquelle",
+            "analyse": "La préposition spatiale ek (hors de) au féminin. Le fil actif de la reproduction masculine (symbole de la force égotique et horizontale du Monde duel) est définitivement court-circuité."
+          },
+          {
+            "greek": "ἐγεννήθη",
+            "gloss": "fut_engendré",
+            "analyse": "Le verbe gennao bascule de la voix active à la voix passive (egennethe). La Singularité absolue. L'Incarnation n'est pas le produit de la chaîne humaine, elle est une irruption verticale que la Vierge subit et accueille (kénose). C'est la fin du karma."
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λεγόμενος",
+            "gloss": "étant_appelé"
+          },
+          {
+            "greek": "Χριστός.",
+            "gloss": "Christ"
+          }
         ]
       },
       {
@@ -400,70 +1154,242 @@
           "darby": "Toutes les générations, depuis Abraham jusqu'à David, sont donc quatorze générations ; et depuis David jusqu'à la déportation à Babylone, quatorze générations ; et depuis la déportation à Babylone jusqu'au Christ, quatorze générations."
         },
         "interlinear": [
-          { "greek": "Πᾶσαι", "gloss": "Toutes" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "αἱ", "gloss": "les" },
-          { "greek": "γενεαὶ", "gloss": "générations" },
-          { "greek": "ἀπὸ", "gloss": "depuis" },
-          { "greek": "Ἀβραὰμ", "gloss": "Abraham" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "Δαυὶδ", "gloss": "David" },
-          { "greek": "γενεαὶ", "gloss": "générations" },
-          { "greek": "δεκατέσσαρες,", "gloss": "quatorze", "analyse": "L'architecture sacrée du Temps. Le nombre 14 est la valeur numérique du nom de David (D-V-D : 4+6+4). Ce premier cycle est la structuration de l'Axe de souveraineté." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀπὸ", "gloss": "depuis" },
-          { "greek": "Δαυὶδ", "gloss": "David" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "μετοικεσίας", "gloss": "déportation" },
-          { "greek": "Βαβυλῶνος", "gloss": "de_Babylone" },
-          { "greek": "γενεαὶ", "gloss": "générations" },
-          { "greek": "δεκατέσσαρες,", "gloss": "quatorze", "analyse": "Le deuxième cycle est celui de la corruption de cet Axe et de la chute métaphysique totale du Sujet sous l'emprise de l'entropie babylonienne." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀπὸ", "gloss": "depuis" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "μετοικεσίας", "gloss": "déportation" },
-          { "greek": "Βαβυλῶνος", "gloss": "de_Babylone" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "Χριστοῦ", "gloss": "Christ" },
-          { "greek": "γενεαὶ", "gloss": "générations" },
-          { "greek": "δεκατέσσαρες.", "gloss": "quatorze", "analyse": "Le troisième cycle (3 x 14). Le Trois exprime la totalité divine, le *Pleroma* (la plénitude des temps). Le temps (*Chronos*) n'est pas un chaos absurde de naissances et de morts successives ; c'est un incubateur géométrique parfaitement calibré pour l'irruption finale du Non-Duel (le Christ)." }
+          {
+            "greek": "Πᾶσαι",
+            "gloss": "Toutes"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "αἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "γενεαὶ",
+            "gloss": "générations"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "Ἀβραὰμ",
+            "gloss": "Abraham"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "Δαυὶδ",
+            "gloss": "David"
+          },
+          {
+            "greek": "γενεαὶ",
+            "gloss": "générations"
+          },
+          {
+            "greek": "δεκατέσσαρες,",
+            "gloss": "quatorze",
+            "analyse": "L'architecture sacrée du Temps. Le nombre 14 est la valeur numérique du nom de David (D-V-D : 4+6+4). Ce premier cycle est la structuration de l'Axe de souveraineté."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "Δαυὶδ",
+            "gloss": "David"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "μετοικεσίας",
+            "gloss": "déportation"
+          },
+          {
+            "greek": "Βαβυλῶνος",
+            "gloss": "de_Babylone"
+          },
+          {
+            "greek": "γενεαὶ",
+            "gloss": "générations"
+          },
+          {
+            "greek": "δεκατέσσαρες,",
+            "gloss": "quatorze",
+            "analyse": "Le deuxième cycle est celui de la corruption de cet Axe et de la chute métaphysique totale du Sujet sous l'emprise de l'entropie babylonienne."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "μετοικεσίας",
+            "gloss": "déportation"
+          },
+          {
+            "greek": "Βαβυλῶνος",
+            "gloss": "de_Babylone"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "γενεαὶ",
+            "gloss": "générations"
+          },
+          {
+            "greek": "δεκατέσσαρες.",
+            "gloss": "quatorze",
+            "analyse": "Le troisième cycle (3 x 14). Le Trois exprime la totalité divine, le Pleroma (la plénitude des temps). Le temps (Chronos) n'est pas un chaos absurde de naissances et de morts successives ; c'est un incubateur géométrique parfaitement calibré pour l'irruption finale du Non-Duel (le Christ)."
+          }
         ]
       },
-     {
+      {
         "verse_number": 18,
         "translations": {
           "segond": "Voici de quelle manière arriva la naissance de Jésus-Christ. Marie, sa mère, ayant été fiancée à Joseph, se trouva enceinte, par la vertu du Saint-Esprit, avant qu'ils eussent habité ensemble.",
           "darby": "Or la naissance de Jésus Christ arriva ainsi : Son père et sa mère, Marie, ayant été fiancée à Joseph, avant qu'ils fussent convenus, elle se trouva enceinte par l'Esprit Saint."
         },
         "interlinear": [
-          { "greek": "Τοῦ", "gloss": "De_le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "Χριστοῦ", "gloss": "Christ" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "γένεσις", "gloss": "genèse/naissance" },
-          { "greek": "οὕτως", "gloss": "ainsi" },
-          { "greek": "ἦν.", "gloss": "fut" },
-          { "greek": "μνηστευθείσης", "gloss": "ayant_été_fiancée", "analyse": "Le contrat social, la préparation d'une union horizontale." },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "μητρὸς", "gloss": "mère" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "Μαρίας", "gloss": "Marie" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "Ἰωσήφ,", "gloss": "Joseph" },
-          { "greek": "πρὶν", "gloss": "avant" },
-          { "greek": "ἢ", "gloss": "que" },
-          { "greek": "συνελθεῖν", "gloss": "de_se_rassembler/convenir", "analyse": "Le verbe *syn-erchomai* (venir ensemble). L'union physique des corps dans la Matrice. La conception a lieu en l'absence absolue de ce mécanisme duel de fusion biologique." },
-          { "greek": "αὐτοὺς", "gloss": "ils/eux" },
-          { "greek": "εὑρέθη", "gloss": "fut_trouvée" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "γαστρὶ", "gloss": "le_ventre/matrice" },
-          { "greek": "ἔχουσα", "gloss": "ayant" },
-          { "greek": "ἐκ", "gloss": "hors_de/à_partir_de", "analyse": "L'origine ontologique. La préposition *ek* ne désigne pas le canal, mais la Source." },
-          { "greek": "πνεύματος", "gloss": "Souffle/Esprit", "analyse": "Le *Pneuma*. Le principe créateur Incréé remplace la semence mortelle et entropique de l'homme." },
-          { "greek": "ἁγίου.", "gloss": "Saint/Séparé" }
+          {
+            "greek": "Τοῦ",
+            "gloss": "De_le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γένεσις",
+            "gloss": "genèse/naissance"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "ἦν.",
+            "gloss": "fut"
+          },
+          {
+            "greek": "μνηστευθείσης",
+            "gloss": "ayant_été_fiancée",
+            "analyse": "Le contrat social, la préparation d'une union horizontale."
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "μητρὸς",
+            "gloss": "mère"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Μαρίας",
+            "gloss": "Marie"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "Ἰωσήφ,",
+            "gloss": "Joseph"
+          },
+          {
+            "greek": "πρὶν",
+            "gloss": "avant"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "que"
+          },
+          {
+            "greek": "συνελθεῖν",
+            "gloss": "de_se_rassembler/convenir",
+            "analyse": "Le verbe syn-erchomai (venir ensemble). L'union physique des corps dans la Matrice. La conception a lieu en l'absence absolue de ce mécanisme duel de fusion biologique."
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "ils/eux"
+          },
+          {
+            "greek": "εὑρέθη",
+            "gloss": "fut_trouvée"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "γαστρὶ",
+            "gloss": "le_ventre/matrice"
+          },
+          {
+            "greek": "ἔχουσα",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "hors_de/à_partir_de",
+            "analyse": "L'origine ontologique. La préposition ek ne désigne pas le canal, mais la Source."
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "Souffle/Esprit",
+            "analyse": "Le Pneuma. Le principe créateur Incréé remplace la semence mortelle et entropique de l'homme."
+          },
+          {
+            "greek": "ἁγίου.",
+            "gloss": "Saint/Séparé"
+          }
         ]
       },
       {
@@ -473,22 +1399,73 @@
           "darby": "Et Joseph, son mari, étant juste et ne voulant pas faire d'elle un exemple public, se proposa de la répudier secrètement."
         },
         "interlinear": [
-          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "ἀνὴρ", "gloss": "mari/homme" },
-          { "greek": "αὐτῆς,", "gloss": "d'elle" },
-          { "greek": "δίκαιος", "gloss": "juste", "analyse": "Le *dikaios*. L'Ego dans sa perfection morale et horizontale. Joseph est un homme intègre selon la Loi (la Matrice), mais cette justice légale est incapable de comprendre le miracle de la Non-Dualité. L'Ego 'juste' bloque l'Incréé tout autant que l'Ego 'pécheur'." },
-          { "greek": "ὢν", "gloss": "étant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "θέλων", "gloss": "voulant" },
-          { "greek": "αὐτὴν", "gloss": "elle" },
-          { "greek": "δειγματίσαι,", "gloss": "donner_en_spectacle/exposer", "analyse": "Le refus de la friction sociale. Joseph veut éviter le scandale (la lapidation de Marie selon la Loi)." },
-          { "greek": "ἐβουλήθη", "gloss": "se_proposa/décida" },
-          { "greek": "λάθρᾳ", "gloss": "secrètement/en_cachette" },
-          { "greek": "ἀπολῦσαι", "gloss": "délier/répudier", "analyse": "Le verbe *apo-lyo*. La solution ultime de l'Ego face à l'incompréhensible : la séparation, le découpage, le divorce. Face à la Grâce qui le dépasse, le mental veut 'délier' la connexion." },
-          { "greek": "αὐτήν.", "gloss": "elle" }
+          {
+            "greek": "Ἰωσὴφ",
+            "gloss": "Joseph"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀνὴρ",
+            "gloss": "mari/homme"
+          },
+          {
+            "greek": "αὐτῆς,",
+            "gloss": "d'elle"
+          },
+          {
+            "greek": "δίκαιος",
+            "gloss": "juste",
+            "analyse": "Le dikaios. L'Ego dans sa perfection morale et horizontale. Joseph est un homme intègre selon la Loi (la Matrice), mais cette justice légale est incapable de comprendre le miracle de la Non-Dualité. L'Ego 'juste' bloque l'Incréé tout autant que l'Ego 'pécheur'."
+          },
+          {
+            "greek": "ὢν",
+            "gloss": "étant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "θέλων",
+            "gloss": "voulant"
+          },
+          {
+            "greek": "αὐτὴν",
+            "gloss": "elle"
+          },
+          {
+            "greek": "δειγματίσαι,",
+            "gloss": "donner_en_spectacle/exposer",
+            "analyse": "Le refus de la friction sociale. Joseph veut éviter le scandale (la lapidation de Marie selon la Loi)."
+          },
+          {
+            "greek": "ἐβουλήθη",
+            "gloss": "se_proposa/décida"
+          },
+          {
+            "greek": "λάθρᾳ",
+            "gloss": "secrètement/en_cachette"
+          },
+          {
+            "greek": "ἀπολῦσαι",
+            "gloss": "délier/répudier",
+            "analyse": "Le verbe apo-lyo. La solution ultime de l'Ego face à l'incompréhensible : la séparation, le découpage, le divorce. Face à la Grâce qui le dépasse, le mental veut 'délier' la connexion."
+          },
+          {
+            "greek": "αὐτήν.",
+            "gloss": "elle"
+          }
         ]
       },
       {
@@ -498,37 +1475,133 @@
           "darby": "Mais comme il y pensait, voici, un ange du Seigneur lui apparut en songe, disant : Joseph, fils de David, ne crains pas de prendre auprès de toi Marie ta femme, car ce qui a été conçu en elle est de l'Esprit Saint ;"
         },
         "interlinear": [
-          { "greek": "Ταῦτα", "gloss": "Ces_choses" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἐνθυμηθέντος", "gloss": "ayant_réfléchi/pensé", "analyse": "Le verbe *enthymeomai*. Le bouillonnement intérieur de l'intellect qui tourne en boucle pour trouver une issue horizontale." },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "ἄγγελος", "gloss": "un_ange/messager" },
-          { "greek": "κυρίου", "gloss": "du_Seigneur" },
-          { "greek": "κατ’", "gloss": "selon/en" },
-          { "greek": "ὄναρ", "gloss": "songe", "analyse": "L'état de sommeil profond (*onar*). L'Incréé attend que l'intellect rationnel de Joseph s'éteigne (le sommeil) pour contourner les défenses de son Ego et implanter la Vérité pure." },
-          { "greek": "ἐφάνη", "gloss": "apparut/se_manifesta" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
-          { "greek": "υἱὸς", "gloss": "fils" },
-          { "greek": "Δαυίδ,", "gloss": "de_David", "analyse": "L'Axe est confirmé. Joseph doit assumer son rôle de maillon terrestre, non pour transmettre son ADN, mais pour transmettre la fréquence du Trône davidique." },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "φοβηθῇς", "gloss": "crains" },
-          { "greek": "παραλαβεῖν", "gloss": "de_prendre_auprès_de_toi" },
-          { "greek": "Μαρίαν", "gloss": "Marie" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "γυναῖκά", "gloss": "femme" },
-          { "greek": "σου,", "gloss": "de_toi" },
-          { "greek": "τὸ", "gloss": "ce_qui" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἐν", "gloss": "en/dans" },
-          { "greek": "αὐτῇ", "gloss": "elle" },
-          { "greek": "γεννηθὲν", "gloss": "ayant_été_engendré" },
-          { "greek": "ἐκ", "gloss": "à_partir_de" },
-          { "greek": "πνεύματός", "gloss": "Souffle" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ἁγίου·", "gloss": "Saint" }
+          {
+            "greek": "Ταῦτα",
+            "gloss": "Ces_choses"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐνθυμηθέντος",
+            "gloss": "ayant_réfléchi/pensé",
+            "analyse": "Le verbe enthymeomai. Le bouillonnement intérieur de l'intellect qui tourne en boucle pour trouver une issue horizontale."
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ἄγγελος",
+            "gloss": "un_ange/messager"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "du_Seigneur"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "selon/en"
+          },
+          {
+            "greek": "ὄναρ",
+            "gloss": "songe",
+            "analyse": "L'état de sommeil profond (onar). L'Incréé attend que l'intellect rationnel de Joseph s'éteigne (le sommeil) pour contourner les défenses de son Ego et implanter la Vérité pure."
+          },
+          {
+            "greek": "ἐφάνη",
+            "gloss": "apparut/se_manifesta"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἰωσὴφ",
+            "gloss": "Joseph"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "Δαυίδ,",
+            "gloss": "de_David",
+            "analyse": "L'Axe est confirmé. Joseph doit assumer son rôle de maillon terrestre, non pour transmettre son ADN, mais pour transmettre la fréquence du Trône davidique."
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "φοβηθῇς",
+            "gloss": "crains"
+          },
+          {
+            "greek": "παραλαβεῖν",
+            "gloss": "de_prendre_auprès_de_toi"
+          },
+          {
+            "greek": "Μαρίαν",
+            "gloss": "Marie"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυναῖκά",
+            "gloss": "femme"
+          },
+          {
+            "greek": "σου,",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "ce_qui"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/dans"
+          },
+          {
+            "greek": "αὐτῇ",
+            "gloss": "elle"
+          },
+          {
+            "greek": "γεννηθὲν",
+            "gloss": "ayant_été_engendré"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "à_partir_de"
+          },
+          {
+            "greek": "πνεύματός",
+            "gloss": "Souffle"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἁγίου·",
+            "gloss": "Saint"
+          }
         ]
       },
       {
@@ -538,25 +1611,85 @@
           "darby": "et elle enfantera un fils, et tu appelleras son nom Jésus, car c'est lui qui sauvera son peuple de leurs péchés."
         },
         "interlinear": [
-          { "greek": "τέξεται", "gloss": "Elle_enfantera/produira" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "υἱόν,", "gloss": "un_fils" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "καλέσεις", "gloss": "tu_appelleras" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ὄνομα", "gloss": "nom/fréquence" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "Ἰησοῦν·", "gloss": "Jésus", "analyse": "La version grecque de l'hébreu *Yeshoua* (YHWH sauve/délivre). Le nom contient le programme vibratoire absolu." },
-          { "greek": "αὐτὸς", "gloss": "lui-même" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "σώσει", "gloss": "sauvera/rendra_entier", "analyse": "Le verbe *sozo*. Le Christ ne vient pas annuler une condamnation juridique abstraite, Il vient guérir et réunifier ce qui est fragmenté." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "λαὸν", "gloss": "peuple" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἀπὸ", "gloss": "loin_de/hors_de" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ἁμαρτιῶν", "gloss": "péchés/cibles_ratées", "analyse": "L'*hamartia*. Il libère l'humanité de son désalignement ontologique (la cible ratée)." },
-          { "greek": "αὐτῶν.", "gloss": "d'eux" }
+          {
+            "greek": "τέξεται",
+            "gloss": "Elle_enfantera/produira"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "υἱόν,",
+            "gloss": "un_fils"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "καλέσεις",
+            "gloss": "tu_appelleras"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὄνομα",
+            "gloss": "nom/fréquence"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ἰησοῦν·",
+            "gloss": "Jésus",
+            "analyse": "La version grecque de l'hébreu Yeshoua (YHWH sauve/délivre). Le nom contient le programme vibratoire absolu."
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "σώσει",
+            "gloss": "sauvera/rendra_entier",
+            "analyse": "Le verbe sozo. Le Christ ne vient pas annuler une condamnation juridique abstraite, Il vient guérir et réunifier ce qui est fragmenté."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "λαὸν",
+            "gloss": "peuple"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "loin_de/hors_de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁμαρτιῶν",
+            "gloss": "péchés/cibles_ratées",
+            "analyse": "L'hamartia. Il libère l'humanité de son désalignement ontologique (la cible ratée)."
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "d'eux"
+          }
         ]
       },
       {
@@ -566,20 +1699,63 @@
           "darby": "Or tout cela arriva afin que fût accompli ce que le Seigneur a dit par le prophète, disant :"
         },
         "interlinear": [
-          { "greek": "Τοῦτο", "gloss": "Ceci" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὅλον", "gloss": "tout_entier/holistique" },
-          { "greek": "γέγονεν", "gloss": "est_devenu/arrivé" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "πληρωθῇ", "gloss": "soit_rempli/accompli", "analyse": "Le verbe *pleroo* (lié au *Pleroma*). Ce n'est pas la réalisation mécanique d'une prédiction, c'est la saturation totale de la coupe du temps. L'espace vide laissé par les prophètes est enfin rempli par la Présence." },
-          { "greek": "τὸ", "gloss": "ce_qui" },
-          { "greek": "ῥηθὲν", "gloss": "ayant_été_dit" },
-          { "greek": "ὑπὸ", "gloss": "par" },
-          { "greek": "κυρίου", "gloss": "le_Seigneur" },
-          { "greek": "διὰ", "gloss": "à_travers" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "προφήτου", "gloss": "prophète" },
-          { "greek": "λέγοντος·", "gloss": "disant" }
+          {
+            "greek": "Τοῦτο",
+            "gloss": "Ceci"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὅλον",
+            "gloss": "tout_entier/holistique"
+          },
+          {
+            "greek": "γέγονεν",
+            "gloss": "est_devenu/arrivé"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "πληρωθῇ",
+            "gloss": "soit_rempli/accompli",
+            "analyse": "Le verbe pleroo (lié au Pleroma). Ce n'est pas la réalisation mécanique d'une prédiction, c'est la saturation totale de la coupe du temps. L'espace vide laissé par les prophètes est enfin rempli par la Présence."
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "ce_qui"
+          },
+          {
+            "greek": "ῥηθὲν",
+            "gloss": "ayant_été_dit"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "le_Seigneur"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "προφήτου",
+            "gloss": "prophète"
+          },
+          {
+            "greek": "λέγοντος·",
+            "gloss": "disant"
+          }
         ]
       },
       {
@@ -589,28 +1765,96 @@
           "darby": "Voici, la vierge sera enceinte et enfantera un fils, et on appellera son nom Emmanuel, ce qui, traduit, est : Dieu avec nous."
         },
         "interlinear": [
-          { "greek": "Ἰδοὺ", "gloss": "Voici" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "παρθένος", "gloss": "vierge", "analyse": "La *parthenos*. Métaphysiquement, la virginité n'est pas qu'un état physiologique ; c'est le Sujet totalement vidé de l'Ego (*Kénose*), qui n'est imprégné par aucune illusion horizontale et qui offre un espace pur pour accueillir l'Incréé." },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "γαστρὶ", "gloss": "ventre" },
-          { "greek": "ἕξει", "gloss": "aura" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τέξεται", "gloss": "enfantera" },
-          { "greek": "υἱόν,", "gloss": "un_fils" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "καλέσουσιν", "gloss": "ils_appelleront" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ὄνομα", "gloss": "nom" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "Ἐμμανουήλ,", "gloss": "Emmanuel" },
-          { "greek": "ὅ", "gloss": "ce_qui" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "μεθερμηνευόμενον·", "gloss": "étant_traduit" },
-          { "greek": "Μεθ’", "gloss": "Avec", "analyse": "La préposition de la fusion non-duelle (*meta*). L'Incréé ne reste pas au-dessus ou à l'extérieur de la création." },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεός.", "gloss": "Dieu" }
+          {
+            "greek": "Ἰδοὺ",
+            "gloss": "Voici"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "παρθένος",
+            "gloss": "vierge",
+            "analyse": "La parthenos. Métaphysiquement, la virginité n'est pas qu'un état physiologique ; c'est le Sujet totalement vidé de l'Ego (Kénose), qui n'est imprégné par aucune illusion horizontale et qui offre un espace pur pour accueillir l'Incréé."
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "γαστρὶ",
+            "gloss": "ventre"
+          },
+          {
+            "greek": "ἕξει",
+            "gloss": "aura"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τέξεται",
+            "gloss": "enfantera"
+          },
+          {
+            "greek": "υἱόν,",
+            "gloss": "un_fils"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "καλέσουσιν",
+            "gloss": "ils_appelleront"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὄνομα",
+            "gloss": "nom"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ἐμμανουήλ,",
+            "gloss": "Emmanuel"
+          },
+          {
+            "greek": "ὅ",
+            "gloss": "ce_qui"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "μεθερμηνευόμενον·",
+            "gloss": "étant_traduit"
+          },
+          {
+            "greek": "Μεθ’",
+            "gloss": "Avec",
+            "analyse": "La préposition de la fusion non-duelle (meta). L'Incréé ne reste pas au-dessus ou à l'extérieur de la création."
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεός.",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -620,25 +1864,83 @@
           "darby": "Et Joseph, s'étant réveillé de son sommeil, fit comme l'ange du Seigneur lui avait ordonné, et prit sa femme auprès de lui ;"
         },
         "interlinear": [
-          { "greek": "ἐγερθεὶς", "gloss": "S'étant_réveillé/S'étant_levé", "analyse": "Le verbe *egeiro*, utilisé pour la résurrection. Joseph est littéralement 'ressuscité' de son aveuglement rationnel. Son Ego a capitulé." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "ὕπνου", "gloss": "sommeil" },
-          { "greek": "ἐποίησεν", "gloss": "fit" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "προσέταξεν", "gloss": "avait_ordonné" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "ἄγγελος", "gloss": "ange" },
-          { "greek": "κυρίου", "gloss": "du_Seigneur" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "παρέλαβεν", "gloss": "prit_auprès_de_lui" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "γυναῖκα", "gloss": "femme" },
-          { "greek": "αὐτοῦ·", "gloss": "de_lui" }
+          {
+            "greek": "ἐγερθεὶς",
+            "gloss": "S'étant_réveillé/S'étant_levé",
+            "analyse": "Le verbe egeiro, utilisé pour la résurrection. Joseph est littéralement 'ressuscité' de son aveuglement rationnel. Son Ego a capitulé."
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰωσὴφ",
+            "gloss": "Joseph"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὕπνου",
+            "gloss": "sommeil"
+          },
+          {
+            "greek": "ἐποίησεν",
+            "gloss": "fit"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "προσέταξεν",
+            "gloss": "avait_ordonné"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄγγελος",
+            "gloss": "ange"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "du_Seigneur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παρέλαβεν",
+            "gloss": "prit_auprès_de_lui"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "γυναῖκα",
+            "gloss": "femme"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -648,27 +1950,164 @@
           "darby": "et il ne la connut point jusqu'à ce qu'elle eût enfanté son fils premier-né ; et il appela son nom Jésus."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἐγίνωσκεν", "gloss": "connaissait", "analyse": "L'imparfait du verbe *ginosko* (connaître). Dans l'hébreu biblique, la connaissance est l'acte sexuel (l'union charnelle). La pureté absolue du canal est préservée : la Matrice horizontale n'a pas interféré avec l'Incarnation verticale." },
-          { "greek": "αὐτὴν", "gloss": "elle" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "οὗ", "gloss": "ce_que" },
-          { "greek": "ἔτεκεν", "gloss": "elle_ait_enfanté" },
-          { "greek": "υἱόν·", "gloss": "un_fils" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐκάλεσεν", "gloss": "il_appela" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ὄνομα", "gloss": "nom" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "Ἰησοῦν.", "gloss": "Jésus" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐγίνωσκεν",
+            "gloss": "connaissait",
+            "analyse": "L'imparfait du verbe ginosko (connaître). Dans l'hébreu biblique, la connaissance est l'acte sexuel (l'union charnelle). La pureté absolue du canal est préservée : la Matrice horizontale n'a pas interféré avec l'Incarnation verticale."
+          },
+          {
+            "greek": "αὐτὴν",
+            "gloss": "elle"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "οὗ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "ἔτεκεν",
+            "gloss": "elle_ait_enfanté"
+          },
+          {
+            "greek": "υἱόν·",
+            "gloss": "un_fils"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐκάλεσεν",
+            "gloss": "il_appela"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὄνομα",
+            "gloss": "nom"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ἰησοῦν.",
+            "gloss": "Jésus"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 19 - δίκαιος ὢν : Traduit par 'homme de bien' (Segond) ou 'étant juste' (Darby). Cette notion de 'justice' dans la culture biblique est strictement légale (conformité à la Torah). Les traducteurs en font parfois une vertu purement morale. Or, l'ironie métaphysique du texte est là : c'est précisément parce qu'il est 'juste' (formaté par les lois horizontales du Monde duel) que Joseph décide de rejeter secrètement la Grâce. La Loi et la Grâce sont ici en friction totale.\n• Verset 21 - σώσει [...] ἀπὸ τῶν ἁμαρτιῶν : 'sauvera de leurs péchés'. Comme toujours, la traduction juridique de l'*hamartia* ('péché') masque le diagnostic grec originel ('la cible ratée', le désalignement). Jésus ne vient pas amnistier des délits, Il vient *sozo* (rendre entier/guérir) un peuple qui est brisé par la perte de son Centre.\n\nAnalyse spirituelle globale de la Généalogie (Matthieu 1) :\nLe premier chapitre de Matthieu est l'une des architectures littéraires et métaphysiques les plus sophistiquées du Nouveau Testament. Il se divise en deux temps foudroyants : le lourd karma de la Matrice (v.1-17), suivi de la Singularité Incréée (v.18-25).\n\nDans la première partie (v.1-17), Matthieu retrace la longue chaîne de l'entropie humaine. Le verbe *gennao* (engendra) frappe 39 fois comme un métronome implacable. C'est la survie de l'Ego à travers les âges, transmettant sa chute de père en fils. Et pourtant, l'Incréé assume cette lignée viciée : la généalogie du Christ intègre l'inceste (Thamar), la prostitution (Rahab), l'impureté païenne (Ruth) et le meurtre doublé d'adultère (David avec la femme d'Urie). Le message est clair : la Grâce ne s'incarne pas dans un laboratoire stérilisé et moralement parfait, elle descend au cœur de l'abîme humain (*Kénose*) pour en transmuter la boue.\n\nLe miracle géométrique est révélé au verset 17. Ce chaos apparent d'adultères, de guerres et d'exils est en réalité structuré (les 3 cycles de 14). Le temps temporel (*Chronos*) est mis au pas ; il s'épuise mathématiquement jusqu'à créer les conditions du *Pleroma* (la plénitude).\n\nLa deuxième partie (v.18-25) brise soudainement la mécanique de reproduction. L'Incarnation n'est pas le produit du cycle ; elle est l'irruption de la Verticalité (*Pneuma/Saint-Esprit*) dans l'Horizontalité. Pour ce faire, il faut un vaisseau vide de tout Ego : la Vierge (*Parthenos*).\n\nFace à cet événement non-duel, le mental humain (représenté par Joseph) panique. Son intellect rationnel et 'juste' cherche à s'échapper en répudiant la Grâce. Il faudra l'évanouissement de cet Ego dans le sommeil pour que la fréquence divine (*l'ange*) l'informe de la réalité : l'Enfant n'est pas de l'homme, il est l'Incréé fait chair. En s'éveillant, Joseph s'aligne, accepte le mystère, et nomme le salut. Le cycle infernal du temps est vaincu ; le *Yeshoua* (Salut) introduit définitivement *Emmanuel* (la Non-Dualité absolue : Dieu avec nous)."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 19 - δίκαιος ὢν : Traduit par 'homme de bien' (Segond) ou 'étant juste' (Darby). Cette notion de 'justice' dans la culture biblique est strictement légale (conformité à la Torah). Les traducteurs en font parfois une vertu purement morale. Or, l'ironie métaphysique du texte est là : c'est précisément parce qu'il est 'juste' (formaté par les lois horizontales du Monde duel) que Joseph décide de rejeter secrètement la Grâce. La Loi et la Grâce sont ici en friction totale.\n• Verset 21 - σώσει [...] ἀπὸ τῶν ἁμαρτιῶν : 'sauvera de leurs péchés'. Comme toujours, la traduction juridique de l'hamartia ('péché') masque le diagnostic grec originel ('la cible ratée', le désalignement). Jésus ne vient pas amnistier des délits, Il vient sozo (rendre entier/guérir) un peuple qui est brisé par la perte de son Centre.\n\nAnalyse spirituelle globale de la Généalogie (Matthieu 1) :\nLe premier chapitre de Matthieu est l'une des architectures littéraires et métaphysiques les plus sophistiquées du Nouveau Testament. Il se divise en deux temps foudroyants : le lourd karma de la Matrice (v.1-17), suivi de la Singularité Incréée (v.18-25).\n\nDans la première partie (v.1-17), Matthieu retrace la longue chaîne de l'entropie humaine. Le verbe gennao (engendra) frappe 39 fois comme un métronome implacable. C'est la survie de l'Ego à travers les âges, transmettant sa chute de père en fils. Et pourtant, l'Incréé assume cette lignée viciée : la généalogie du Christ intègre l'inceste (Thamar), la prostitution (Rahab), l'impureté païenne (Ruth) et le meurtre doublé d'adultère (David avec la femme d'Urie). Le message est clair : la Grâce ne s'incarne pas dans un laboratoire stérilisé et moralement parfait, elle descend au cœur de l'abîme humain (Kénose) pour en transmuter la boue.\n\nLe miracle géométrique est révélé au verset 17. Ce chaos apparent d'adultères, de guerres et d'exils est en réalité structuré (les 3 cycles de 14). Le temps temporel (Chronos) est mis au pas ; il s'épuise mathématiquement jusqu'à créer les conditions du Pleroma (la plénitude).\n\nLa deuxième partie (v.18-25) brise soudainement la mécanique de reproduction. L'Incarnation n'est pas le produit du cycle ; elle est l'irruption de la Verticalité (Pneuma/Saint-Esprit) dans l'Horizontalité. Pour ce faire, il faut un vaisseau vide de tout Ego : la Vierge (Parthenos).\n\nFace à cet événement non-duel, le mental humain (représenté par Joseph) panique. Son intellect rationnel et 'juste' cherche à s'échapper en répudiant la Grâce. Il faudra l'évanouissement de cet Ego dans le sommeil pour que la fréquence divine (l'ange) l'informe de la réalité : l'Enfant n'est pas de l'homme, il est l'Incréé fait chair. En s'éveillant, Joseph s'aligne, accepte le mystère, et nomme le salut. Le cycle infernal du temps est vaincu ; le Yeshoua (Salut) introduit définitivement Emmanuel (la Non-Dualité absolue : Dieu avec nous).",
+    "homiletic_axes": [
+      {
+        "title": "Des tentes à la cité fondée par Dieu",
+        "content": "Abraham séjourne sous des tentes parce qu’il attend la cité aux solides fondations. La généalogie montre que cette attente traverse les générations et trouve dans l’Incarnation son accomplissement, non une installation humaine définitive.",
+        "keywords": [
+          "παροικέω — séjourner en étranger",
+          "σκηνή — tente",
+          "θεμέλιος — fondation",
+          "ἐκδέχομαι — attendre avec tension"
+        ]
+      },
+      {
+        "title": "Une histoire qui ne s’accomplit pas sans nous",
+        "content": "Hébreux 11, 40 affirme que les témoins anciens ne parviennent pas sans nous à l’accomplissement. Matthieu donne des noms à cette communion : la généalogie n’est pas une liste morte, mais l’histoire d’un peuple rassemblé dans le Christ.",
+        "keywords": [
+          "χωρὶς ἡμῶν — sans nous",
+          "τελειωθῶσιν — parvenir à l’accomplissement",
+          "ἐκκλησία — assemblée"
+        ]
+      },
+      {
+        "title": "La foi dans la victoire comme dans l’épreuve",
+        "content": "Certains témoins ferment la gueule des lions ; d’autres connaissent l’errance, les chaînes et la mort. La foi n’est pas une garantie de réussite temporelle : elle demeure orientation vers Dieu au milieu de destins très différents.",
+        "keywords": [
+          "πίστις — foi",
+          "δύναμις — puissance reçue",
+          "πλανάομαι — errer"
+        ]
+      },
+      {
+        "title": "Emmanuel, accomplissement de l’attente",
+        "content": "Les Pères ont porté une promesse encore inachevée. En Jésus, « Dieu avec nous », l’attente devient présence : l’Ancienne et la Nouvelle Alliance se rejoignent dans l’unique histoire du salut.",
+        "keywords": [
+          "Ἐμμανουήλ — Dieu avec nous",
+          "ἐπαγγελία — promesse",
+          "τέλος — accomplissement"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot, mouvement ou contraste relie les deux lectures du dimanche des Pères ou de la Généalogie ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Que disent précisément l’Évangile et l’Apôtre ? Relevez leur progression, leurs répétitions et leurs oppositions."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu accomplit ou révèle lorsque ces deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle expérience concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "À quelle conversion, espérance ou action concrète l’assemblée est-elle appelée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La nuée qui donne un visage à la généalogie",
+        "reference": "Hébreux 12, 1 — prolongement immédiat de la péricope",
+        "content": "Le verset suivant parle de la « nuée de témoins » qui nous entoure. Il ne fait pas partie de l’Apôtre proclamé selon le calendrier officiel 2026, mais il offre une clef homilétique : les noms de Matthieu deviennent une présence ecclésiale qui accompagne notre course.",
+        "connections": [
+          {
+            "label": "Matthieu 1",
+            "content": "La généalogie nomme les témoins et inscrit l’Incarnation dans leur attente."
+          },
+          {
+            "label": "Hébreux 11, 40",
+            "content": "Leur accomplissement est solidaire du nôtre : ils ne sont pas rendus parfaits sans nous."
+          }
+        ]
+      }
+    ]
   },
-     "apostle": {
-    "reference": "Hébreux 11, 9-10 ; 17-23 ; 32-40",
+  "apostle": {
+    "reference": "Hébreux 11, 9-10 ; 32-40",
     "title": "La Pistis des Ancêtres : Nomadisme Métaphysique et Désintégration de la Matrice",
     "interlinear": [
       {
@@ -678,27 +2117,93 @@
           "darby": "Par la foi, il séjourna dans la terre de la promesse comme dans une terre étrangère, habitant dressé sous des tentes avec Isaac et Jacob, les cohéritiers de la même promesse ;"
         },
         "interlinear": [
-          { "greek": "Πίστει", "gloss": "Par_la_foi", "analyse": "La *Pistis*. Ce n'est pas l'adhésion intellectuelle à un dogme. C'est l'abandon vibratoire, l'alignement pur du Sujet sur l'Axe vertical, indépendamment des preuves matérielles de l'horizontalité." },
-          { "greek": "παρῴκησεν", "gloss": "il_séjourna", "analyse": "Le verbe *paroikeo* (habiter à côté, être résident temporaire). L'attitude métaphysique par excellence : le Sujet éveillé traverse la Matrice (le Monde duel) sans jamais s'y identifier ou s'y ancrer." },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "γῆν", "gloss": "la_terre" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ἐπαγγελίας", "gloss": "promesse" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "ἀλλοτρίαν,", "gloss": "étrangère" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "σκηναῖς", "gloss": "des_tentes", "analyse": "La *Skene* (la tente). Le refus absolu de l'architecture égotique. Construire en dur, c'est s'illusionner sur la permanence de l'entropie. La tente est la structure fluide de celui qui est toujours prêt au mouvement dicté par le Souffle (*Pneuma*)." },
-          { "greek": "κατοικήσας", "gloss": "ayant_habité" },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "Ἰσαὰκ", "gloss": "Isaac" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰακὼβ", "gloss": "Jacob" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "συγκληρονόμων", "gloss": "cohéritiers" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ἐπαγγελίας", "gloss": "promesse" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "αὐτῆς·", "gloss": "même" }
+          {
+            "greek": "Πίστει",
+            "gloss": "Par_la_foi",
+            "analyse": "La Pistis. Ce n'est pas l'adhésion intellectuelle à un dogme. C'est l'abandon vibratoire, l'alignement pur du Sujet sur l'Axe vertical, indépendamment des preuves matérielles de l'horizontalité."
+          },
+          {
+            "greek": "παρῴκησεν",
+            "gloss": "il_séjourna",
+            "analyse": "Le verbe paroikeo (habiter à côté, être résident temporaire). L'attitude métaphysique par excellence : le Sujet éveillé traverse la Matrice (le Monde duel) sans jamais s'y identifier ou s'y ancrer."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "γῆν",
+            "gloss": "la_terre"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἐπαγγελίας",
+            "gloss": "promesse"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἀλλοτρίαν,",
+            "gloss": "étrangère"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "σκηναῖς",
+            "gloss": "des_tentes",
+            "analyse": "La Skene (la tente). Le refus absolu de l'architecture égotique. Construire en dur, c'est s'illusionner sur la permanence de l'entropie. La tente est la structure fluide de celui qui est toujours prêt au mouvement dicté par le Souffle (Pneuma)."
+          },
+          {
+            "greek": "κατοικήσας",
+            "gloss": "ayant_habité"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "Ἰσαὰκ",
+            "gloss": "Isaac"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰακὼβ",
+            "gloss": "Jacob"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "συγκληρονόμων",
+            "gloss": "cohéritiers"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἐπαγγελίας",
+            "gloss": "promesse"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "αὐτῆς·",
+            "gloss": "même"
+          }
         ]
       },
       {
@@ -708,184 +2213,62 @@
           "darby": "car il attendait la cité qui a les fondements, de laquelle Dieu est l'architecte et le créateur."
         },
         "interlinear": [
-          { "greek": "ἐξεδέχετο", "gloss": "il_attendait", "analyse": "L'attente active, la tension géométrique vers le Centre." },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "θεμελίους", "gloss": "fondations", "analyse": "Le paradoxe spatial : Abraham vit dans une tente fragile (horizontalement) parce qu'il est ancré sur la seule Fondation inébranlable (verticalement). Les fondations de l'Incréé ne sont pas spatiales, elles sont ontologiques." },
-          { "greek": "ἔχουσαν", "gloss": "ayant" },
-          { "greek": "πόλιν,", "gloss": "cité/ville" },
-          { "greek": "ἧς", "gloss": "dont" },
-          { "greek": "τεχνίτης", "gloss": "l'artisan/l'architecte", "analyse": "Le *Technites*. Celui qui conçoit le plan vibratoire." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δημιουργὸς", "gloss": "le_démiurge/constructeur", "analyse": "Le *Demiourgos* (celui qui travaille pour le peuple, qui assemble). L'Incréé est l'unique force de cohésion. Toute autre construction (comme Babel) n'est qu'illusion d'Egos qui s'effondrera sous sa propre entropie." },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεός.", "gloss": "Dieu" }
-        ]
-      },
-      {
-        "verse_number": 17,
-        "translations": {
-          "segond": "C'est par la foi qu'Abraham offrit Isaac, lorsqu'il fut mis à l'épreuve, et qu'il offrit son fils unique, lui qui avait reçu les promesses,",
-          "darby": "Par la foi, Abraham, étant éprouvé, a offert Isaac ; et celui qui avait reçu les promesses offrait son fils unique,"
-        },
-        "interlinear": [
-          { "greek": "Πίστει", "gloss": "Par_la_foi" },
-          { "greek": "προσενήνοχεν", "gloss": "a_offert/a_porté_vers", "analyse": "Le verbe *pros-phero*. Le mouvement centrifuge de l'Ego qui rend à la Source ce qu'il croyait posséder." },
-          { "greek": "Ἀβραὰμ", "gloss": "Abraham" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰσαὰκ", "gloss": "Isaac" },
-          { "greek": "πειραζόμενος,", "gloss": "étant_mis_à_l'épreuve", "analyse": "Le *peirasmos*. Ce n'est pas un test sadique d'un Dieu moralisateur. C'est la mise sous pression vibratoire du Sujet pour vérifier s'il est capable de lâcher son dernier attachement terrestre." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "μονογενῆ", "gloss": "l'unique_engendré", "analyse": "Le *monogenes*. Isaac est l'axe unique de la transmission. En demandant Isaac, l'Incréé demande à Abraham de pulvériser son propre avenir biologique et religieux dans la Matrice." },
-          { "greek": "προσέφερεν,", "gloss": "il_offrait" },
-          { "greek": "ὁ", "gloss": "celui_qui" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "ἐπαγγελίας", "gloss": "promesses" },
-          { "greek": "ἀναδεξάμενος,", "gloss": "ayant_accueilli/reçu", "analyse": "Le comble de la kénose : l'Ego religieux s'attache à la 'promesse' de Dieu plus qu'à Dieu Lui-même. Abraham détruit l'idole spirituelle qu'était devenue sa propre lignée." }
-        ]
-      },
-      {
-        "verse_number": 18,
-        "translations": {
-          "segond": "et à qui il avait été dit : En Isaac sera nommée pour toi une postérité.",
-          "darby": "à l'égard duquel il avait été dit : En Isaac te sera appelée une semence ;"
-        },
-        "interlinear": [
-          { "greek": "πρὸς", "gloss": "à" },
-          { "greek": "ὃν", "gloss": "qui" },
-          { "greek": "ἐλαλήθη", "gloss": "il_fut_dit" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ἐν", "gloss": "En/Dans" },
-          { "greek": "Ἰσαὰκ", "gloss": "Isaac" },
-          { "greek": "κληθήσεταί", "gloss": "sera_appelée" },
-          { "greek": "σοι", "gloss": "à_toi" },
-          { "greek": "σπέρμα,", "gloss": "semence/descendance", "analyse": "La contradiction matricielle absolue. La fréquence logique (le *Logos* temporel) disait que le salut passerait par la survie d'Isaac. Abraham court-circuite cette logique par la *Pistis* : l'Incréé est au-dessus de Sa propre matrice causale." }
-        ]
-      },
-      {
-        "verse_number": 19,
-        "translations": {
-          "segond": "Il pensait que Dieu est puissant, même pour ressusciter les morts ; aussi le recouvra-t-il par une sorte de résurrection.",
-          "darby": "ayant estimé que Dieu pouvait le ressusciter même d'entre les morts, d'où aussi, en figure, il le recouvra."
-        },
-        "interlinear": [
-          { "greek": "λογισάμενος", "gloss": "Ayant_compté/raisonné", "analyse": "Le verbe *logizomai*. Le 'calcul' d'Abraham n'est pas mathématique, il est métaphysique. Il a résolu l'équation de l'entropie." },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "καὶ", "gloss": "même" },
-          { "greek": "ἐκ", "gloss": "hors_de/d'entre" },
-          { "greek": "νεκρῶν", "gloss": "les_morts" },
-          { "greek": "ἐγείρειν", "gloss": "éveiller/ressusciter", "analyse": "Le verbe *egeiro*. La verticalisation absolue. Là où l'entropie maximale (la mort) fait chuter le corps, la Puissance Incréée le redresse." },
-          { "greek": "δυνατὸς", "gloss": "puissant/capable", "analyse": "La *Dynamis*. La seule véritable Énergie de l'univers, qui n'est pas soumise à la loi de dégradation de la matière." },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεός,", "gloss": "Dieu" },
-          { "greek": "ὅθεν", "gloss": "d'où" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "παραβολῇ", "gloss": "parabole/figure", "analyse": "La *Parabole*. L'événement du sacrifice d'Isaac n'est pas qu'un fait historique isolé, c'est le 'fractal' prophétique, l'esquisse vibratoire de la grande Kénose du Père offrant le Fils (le Christ)." },
-          { "greek": "ἐκομίσατο.", "gloss": "il_recouvra/récupéra" }
-        ]
-      },
-      {
-        "verse_number": 20,
-        "translations": {
-          "segond": "C'est par la foi qu'Isaac bénit Jacob et Esaü, en vue des choses à venir.",
-          "darby": "Par la foi, Isaac bénit Jacob et Ésaü, à l'égard des choses à venir."
-        },
-        "interlinear": [
-          { "greek": "Πίστει", "gloss": "Par_la_foi" },
-          { "greek": "καὶ", "gloss": "aussi/même" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "μελλόντων", "gloss": "choses_à_venir", "analyse": "Le participe *mellon* (ce qui est sur le point d'arriver). L'Axe vertical transcende la flèche du temps. L'éveillé ne subit pas le futur comme une fatalité entropique, il le structure vibratoirement par anticipation." },
-          { "greek": "εὐλόγησεν", "gloss": "bénit", "analyse": "Le verbe *eu-logeo* (prononcer le bon Logos/la bonne parole). Ce n'est pas un simple souhait de réussite matérielle. C'est la transmission active de la fréquence spirituelle d'une génération à l'autre." },
-          { "greek": "Ἰσαὰκ", "gloss": "Isaac" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἰακὼβ", "gloss": "Jacob" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "Ἠσαῦ.", "gloss": "Esaü" }
-        ]
-      },
-      {
-        "verse_number": 21,
-        "translations": {
-          "segond": "C'est par la foi que Jacob mourant bénit chacun des fils de Joseph, et qu'il adora, appuyé sur l'extrémité de son bâton.",
-          "darby": "Par la foi, Jacob mourant bénit chacun des fils de Joseph, et adora, appuyé sur le bout de son bâton."
-        },
-        "interlinear": [
-          { "greek": "Πίστει", "gloss": "Par_la_foi" },
-          { "greek": "Ἰακὼβ", "gloss": "Jacob" },
-          { "greek": "ἀποθνῄσκων", "gloss": "mourant", "analyse": "Le point de dégradation physique ultime. La chair retourne au néant, mais le Sujet spirituel atteint, à cet instant précis, sa lucidité maximale." },
-          { "greek": "ἕκαστον", "gloss": "chacun" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "υἱῶν", "gloss": "fils" },
-          { "greek": "Ἰωσὴφ", "gloss": "de_Joseph" },
-          { "greek": "εὐλόγησεν,", "gloss": "bénit" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "προσεκύνησεν", "gloss": "il_adora/se_prosterna", "analyse": "Le verbe *pros-kyneo* (se courber vers). L'Ego se rétracte pour laisser la place totale à l'Incréé. L'adoration n'est pas une soumission d'esclave, c'est l'alignement géométrique avec le Centre." },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ἄκρον", "gloss": "l'extrémité/le_sommet" },
-          { "greek": "τῆς", "gloss": "du" },
-          { "greek": "ῥάβδου", "gloss": "bâton", "analyse": "Le mot *rhabdos*. Le bâton de berger n'est pas qu'une béquille gériatrique ; c'est le symbole physique de la Verticalité, l'Axe terrestre sur lequel Jacob s'appuie pour maintenir sa connexion alors que son corps s'effondre." },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
-        ]
-      },
-      {
-        "verse_number": 22,
-        "translations": {
-          "segond": "C'est par la foi que Joseph mourant fit mention de la sortie des fils d'Israël, et qu'il donna des ordres au sujet de ses os.",
-          "darby": "Par la foi, Joseph tirant à sa fin fit mention de la sortie des fils d'Israël, et donna des ordres touchant ses os."
-        },
-        "interlinear": [
-          { "greek": "Πίστει", "gloss": "Par_la_foi" },
-          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
-          { "greek": "τελευτῶν", "gloss": "arrivant_à_sa_fin/mourant", "analyse": "Le verbe *teleutao* (lié au *Telos*, le but/l'achèvement). La mort n'est pas une extinction, c'est l'accomplissement du cycle duel." },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "ἐξόδου", "gloss": "sortie/exode", "analyse": "Le mot magistral *Exodos* (le chemin hors de). L'Égypte représente l'apogée de la Matrice matérielle. Joseph en est le vice-roi, mais son Sujet spirituel refuse de s'y identifier. Il annonce la rupture topographique." },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "υἱῶν", "gloss": "fils" },
-          { "greek": "Ἰσραὴλ", "gloss": "d'Israël" },
-          { "greek": "ἐμνημόνευσεν,", "gloss": "fit_mention" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ὀστέων", "gloss": "os", "analyse": "Les *ostea*. La charpente, la structure incorruptible de l'être. Joseph ordonne que sa fréquence fondamentale ne soit pas enterrée définitivement dans l'illusion égyptienne, mais ramenée dans la Terre de la Promesse." },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἐνετείλατο.", "gloss": "donna_des_ordres" }
-        ]
-      },
-      {
-        "verse_number": 23,
-        "translations": {
-          "segond": "C'est par la foi que Moïse, à sa naissance, fut caché pendant trois mois par ses parents, parce qu'ils virent que l'enfant était beau, et qu'ils ne craignirent pas l'ordre du roi.",
-          "darby": "Par la foi, Moïse, étant né, fut caché trois mois par ses parents, parce qu'ils virent que l'enfant était beau ; et ils ne craignirent pas l'ordonnance du roi."
-        },
-        "interlinear": [
-          { "greek": "Πίστει", "gloss": "Par_la_foi" },
-          { "greek": "Μωϋσῆς", "gloss": "Moïse" },
-          { "greek": "γεννηθεὶς", "gloss": "ayant_été_engendré/né" },
-          { "greek": "ἐκρύβη", "gloss": "fut_caché" },
-          { "greek": "τρίμηνον", "gloss": "trois_mois" },
-          { "greek": "ὑπὸ", "gloss": "par" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "πατέρων", "gloss": "parents/pères" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "διότι", "gloss": "parce_que" },
-          { "greek": "εἶδον", "gloss": "ils_virent", "analyse": "La vision spirituelle (*eidon*). Les parents de Moïse ne voient pas avec les yeux de la chair. Ils perçoivent l'étincelle métaphysique." },
-          { "greek": "ἀστεῖον", "gloss": "beau/propre_à_la_cité_céleste", "analyse": "Le mot *asteios* (dérivé de *Asty*, la ville). Souvent traduit par 'beau', ce terme indique métaphysiquement que l'enfant n'est pas formaté par la nature entropique : il porte en lui la géométrie parfaite de la Cité d'en-haut." },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "παιδίον,", "gloss": "petit_enfant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οὐκ", "gloss": "non/ne_pas" },
-          { "greek": "ἐφοβήθησαν", "gloss": "ils_craignirent", "analyse": "Le refus du *Phobos* (la peur). L'Ego est programmé pour survivre en obéissant à la peur. L'Éveil désactive cette peur : le Sujet n'est plus soumis au chantage de la Matrice." },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "διάταγμα", "gloss": "édit/décret", "analyse": "La loi horizontale. L'Empire (le Pharaon) édicte des règles de mort. La foi est l'acte de désobéissance civile ultime aux lois de l'illusion." },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "βασιλέως.", "gloss": "roi" }
+          {
+            "greek": "ἐξεδέχετο",
+            "gloss": "il_attendait",
+            "analyse": "Le verbe ἐκδέχομαι associe l’accueil (δέχομαι) à une attente orientée. Abraham ne patiente pas passivement : il demeure tendu vers la cité dont Dieu est l’architecte."
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "θεμελίους",
+            "gloss": "fondations",
+            "analyse": "Le paradoxe spatial : Abraham vit dans une tente fragile (horizontalement) parce qu'il est ancré sur la seule Fondation inébranlable (verticalement). Les fondations de l'Incréé ne sont pas spatiales, elles sont ontologiques."
+          },
+          {
+            "greek": "ἔχουσαν",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "πόλιν,",
+            "gloss": "cité/ville"
+          },
+          {
+            "greek": "ἧς",
+            "gloss": "dont"
+          },
+          {
+            "greek": "τεχνίτης",
+            "gloss": "l'artisan/l'architecte",
+            "analyse": "Le Technites. Celui qui conçoit le plan vibratoire."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δημιουργὸς",
+            "gloss": "le_démiurge/constructeur",
+            "analyse": "Le Demiourgos (celui qui travaille pour le peuple, qui assemble). L'Incréé est l'unique force de cohésion. Toute autre construction (comme Babel) n'est qu'illusion d'Egos qui s'effondrera sous sa propre entropie."
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεός.",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -895,28 +2278,95 @@
           "darby": "Et que dirai-je de plus ? Car le temps me manquera si je discours de Gédéon, de Barak, de Samson, de Jephthé, de David, et de Samuel, et des prophètes,"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "τί", "gloss": "que" },
-          { "greek": "ἔτι", "gloss": "encore" },
-          { "greek": "λέγω;", "gloss": "dirai-je" },
-          { "greek": "ἐπιλείψει", "gloss": "manquera/fera_défaut" },
-          { "greek": "με", "gloss": "à_moi" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "διηγούμενον", "gloss": "racontant" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "χρόνος", "gloss": "temps", "analyse": "Le *Chronos* (le temps linéaire). L'auteur confesse l'incapacité de la flèche du temps à contenir la totalité des manifestations de l'Incréé. Le *Chronos* est structurellement trop court pour exprimer l'Éternité." },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "Γεδεών,", "gloss": "Gédéon" },
-          { "greek": "Βαράκ,", "gloss": "Barak" },
-          { "greek": "Σαμψών,", "gloss": "Samson" },
-          { "greek": "Ἰεφθάε,", "gloss": "Jephthé" },
-          { "greek": "Δαυίδ", "gloss": "David" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Σαμουὴλ", "gloss": "Samuel" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "προφητῶν,", "gloss": "prophètes" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τί",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "encore"
+          },
+          {
+            "greek": "λέγω;",
+            "gloss": "dirai-je"
+          },
+          {
+            "greek": "ἐπιλείψει",
+            "gloss": "manquera/fera_défaut"
+          },
+          {
+            "greek": "με",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "διηγούμενον",
+            "gloss": "racontant"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "χρόνος",
+            "gloss": "temps",
+            "analyse": "Le Chronos (le temps linéaire). L'auteur confesse l'incapacité de la flèche du temps à contenir la totalité des manifestations de l'Incréé. Le Chronos est structurellement trop court pour exprimer l'Éternité."
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "Γεδεών,",
+            "gloss": "Gédéon"
+          },
+          {
+            "greek": "Βαράκ,",
+            "gloss": "Barak"
+          },
+          {
+            "greek": "Σαμψών,",
+            "gloss": "Samson"
+          },
+          {
+            "greek": "Ἰεφθάε,",
+            "gloss": "Jephthé"
+          },
+          {
+            "greek": "Δαυίδ",
+            "gloss": "David"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Σαμουὴλ",
+            "gloss": "Samuel"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "προφητῶν,",
+            "gloss": "prophètes"
+          }
         ]
       },
       {
@@ -926,18 +2376,57 @@
           "darby": "qui, par la foi, soumirent des royaumes, accomplirent la justice, obtinrent les choses promises, fermèrent la gueule des lions,"
         },
         "interlinear": [
-          { "greek": "οἳ", "gloss": "lesquels" },
-          { "greek": "διὰ", "gloss": "à_travers/par" },
-          { "greek": "πίστεως", "gloss": "la_foi", "analyse": "La *Pistis* revient comme le moteur de toute action. Ce n'est pas une croyance passive, c'est une arme de destruction massive contre les illusions de la Matrice." },
-          { "greek": "κατηγωνίσαντο", "gloss": "vainquirent/soumirent_par_la_lutte" },
-          { "greek": "βασιλείας,", "gloss": "des_royaumes", "analyse": "Les royaumes horizontaux de l'Ego collectif." },
-          { "greek": "εἰργάσαντο", "gloss": "opérèrent/travaillèrent" },
-          { "greek": "δικαιοσύνην,", "gloss": "la_justice" },
-          { "greek": "ἐπέτυχον", "gloss": "atteignirent/obtinrent" },
-          { "greek": "ἐπαγγελιῶν,", "gloss": "des_promesses" },
-          { "greek": "ἔφραξαν", "gloss": "bouchèrent/fermèrent" },
-          { "greek": "στόματα", "gloss": "des_gueules/bouches" },
-          { "greek": "λεόντων,", "gloss": "de_lions", "analyse": "Le lion représente la force entropique dévorante, la cruauté aveugle du Monde duel. La *Pistis* annule la capacité de la Matrice à broyer le Sujet." }
+          {
+            "greek": "οἳ",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers/par"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "la_foi",
+            "analyse": "La Pistis revient comme le moteur de toute action. Ce n'est pas une croyance passive, c'est une arme de destruction massive contre les illusions de la Matrice."
+          },
+          {
+            "greek": "κατηγωνίσαντο",
+            "gloss": "vainquirent/soumirent_par_la_lutte"
+          },
+          {
+            "greek": "βασιλείας,",
+            "gloss": "des_royaumes",
+            "analyse": "Les royaumes horizontaux de l'Ego collectif."
+          },
+          {
+            "greek": "εἰργάσαντο",
+            "gloss": "opérèrent/travaillèrent"
+          },
+          {
+            "greek": "δικαιοσύνην,",
+            "gloss": "la_justice"
+          },
+          {
+            "greek": "ἐπέτυχον",
+            "gloss": "atteignirent/obtinrent"
+          },
+          {
+            "greek": "ἐπαγγελιῶν,",
+            "gloss": "des_promesses"
+          },
+          {
+            "greek": "ἔφραξαν",
+            "gloss": "bouchèrent/fermèrent"
+          },
+          {
+            "greek": "στόματα",
+            "gloss": "des_gueules/bouches"
+          },
+          {
+            "greek": "λεόντων,",
+            "gloss": "de_lions",
+            "analyse": "Le lion représente la force entropique dévorante, la cruauté aveugle du Monde duel. La Pistis annule la capacité de la Matrice à broyer le Sujet."
+          }
         ]
       },
       {
@@ -947,22 +2436,72 @@
           "darby": "éteignirent la force du feu, échappèrent au tranchant de l'épée, de faibles qu'ils étaient furent rendus vigoureux, devinrent forts dans la bataille, firent plier les camps des étrangers."
         },
         "interlinear": [
-          { "greek": "ἔσβεσαν", "gloss": "éteignirent" },
-          { "greek": "δύναμιν", "gloss": "la_puissance/force" },
-          { "greek": "πυρός,", "gloss": "du_feu" },
-          { "greek": "ἔφυγον", "gloss": "fuirent/échappèrent" },
-          { "greek": "στόματα", "gloss": "aux_bouches/tranchants" },
-          { "greek": "μαχαίρης,", "gloss": "de_l'épée" },
-          { "greek": "ἐδυναμώθησαν", "gloss": "furent_rendus_puissants", "analyse": "Le verbe *dynamoo*. L'Énergie (*dynamis*) divine s'infuse directement dans la faiblesse humaine. L'Ego s'effondre pour laisser l'Incréé opérer." },
-          { "greek": "ἀπὸ", "gloss": "à_partir_de" },
-          { "greek": "ἀσθενείας,", "gloss": "la_faiblesse", "analyse": "L'*astheneia* (l'absence de force propre). C'est la Kénose. On ne reçoit la *Dynamis* que lorsqu'on a atteint la faiblesse absolue de son propre Ego." },
-          { "greek": "ἐγενήθησαν", "gloss": "devinrent" },
-          { "greek": "ἰσχυροὶ", "gloss": "forts" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "πολέμῳ,", "gloss": "la_guerre" },
-          { "greek": "παρεμβολὰς", "gloss": "des_camps/armées" },
-          { "greek": "ἔκλιναν", "gloss": "firent_plier/basculer" },
-          { "greek": "ἀλλοτρίων·", "gloss": "d'étrangers" }
+          {
+            "greek": "ἔσβεσαν",
+            "gloss": "éteignirent"
+          },
+          {
+            "greek": "δύναμιν",
+            "gloss": "la_puissance/force"
+          },
+          {
+            "greek": "πυρός,",
+            "gloss": "du_feu"
+          },
+          {
+            "greek": "ἔφυγον",
+            "gloss": "fuirent/échappèrent"
+          },
+          {
+            "greek": "στόματα",
+            "gloss": "aux_bouches/tranchants"
+          },
+          {
+            "greek": "μαχαίρης,",
+            "gloss": "de_l'épée"
+          },
+          {
+            "greek": "ἐδυναμώθησαν",
+            "gloss": "furent_rendus_puissants",
+            "analyse": "Le verbe dynamoo. L'Énergie (dynamis) divine s'infuse directement dans la faiblesse humaine. L'Ego s'effondre pour laisser l'Incréé opérer."
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "à_partir_de"
+          },
+          {
+            "greek": "ἀσθενείας,",
+            "gloss": "la_faiblesse",
+            "analyse": "L'astheneia (l'absence de force propre). C'est la Kénose. On ne reçoit la Dynamis que lorsqu'on a atteint la faiblesse absolue de son propre Ego."
+          },
+          {
+            "greek": "ἐγενήθησαν",
+            "gloss": "devinrent"
+          },
+          {
+            "greek": "ἰσχυροὶ",
+            "gloss": "forts"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πολέμῳ,",
+            "gloss": "la_guerre"
+          },
+          {
+            "greek": "παρεμβολὰς",
+            "gloss": "des_camps/armées"
+          },
+          {
+            "greek": "ἔκλιναν",
+            "gloss": "firent_plier/basculer"
+          },
+          {
+            "greek": "ἀλλοτρίων·",
+            "gloss": "d'étrangers"
+          }
         ]
       },
       {
@@ -972,24 +2511,81 @@
           "darby": "Des femmes ont recouvré leurs morts par la résurrection ; et d'autres ont été torturés, n'acceptant pas la délivrance, afin d'obtenir une meilleure résurrection ;"
         },
         "interlinear": [
-          { "greek": "ἔλαβον", "gloss": "Reçurent" },
-          { "greek": "γυναῖκες", "gloss": "des_femmes" },
-          { "greek": "ἐξ", "gloss": "hors_de" },
-          { "greek": "ἀναστάσεως", "gloss": "résurrection", "analyse": "L'*anastasis* (l'action de se relever). L'inversion totale de la chute entropique." },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "νεκροὺς", "gloss": "morts" },
-          { "greek": "αὐτῶν·", "gloss": "d'elles" },
-          { "greek": "ἄλλοι", "gloss": "d'autres" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐτυμπανίσθησαν", "gloss": "furent_torturés/battus_à_mort", "analyse": "Le basculement terrifiant du texte. Jusqu'ici, la foi produisait des miracles visibles et temporels. Soudain, l'auteur montre l'autre face de la foi : la capacité à supporter la destruction totale du corps sans renier l'Axe." },
-          { "greek": "οὐ", "gloss": "n' (pas)" },
-          { "greek": "προσδεξάμενοι", "gloss": "ayant_accepté" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἀπολύτρωσιν,", "gloss": "délivrance/rachat" },
-          { "greek": "ἵνα", "gloss": "afin_de" },
-          { "greek": "κρείττονος", "gloss": "d'une_meilleure" },
-          { "greek": "ἀναστάσεως", "gloss": "résurrection" },
-          { "greek": "τύχωσιν·", "gloss": "qu'ils_obtiennent", "analyse": "Ils refusent une délivrance purement temporelle pour conserver la connexion avec la Source éternelle." }
+          {
+            "greek": "ἔλαβον",
+            "gloss": "Reçurent"
+          },
+          {
+            "greek": "γυναῖκες",
+            "gloss": "des_femmes"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "hors_de"
+          },
+          {
+            "greek": "ἀναστάσεως",
+            "gloss": "résurrection",
+            "analyse": "L'anastasis (l'action de se relever). L'inversion totale de la chute entropique."
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "νεκροὺς",
+            "gloss": "morts"
+          },
+          {
+            "greek": "αὐτῶν·",
+            "gloss": "d'elles"
+          },
+          {
+            "greek": "ἄλλοι",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐτυμπανίσθησαν",
+            "gloss": "furent_torturés/battus_à_mort",
+            "analyse": "Le basculement terrifiant du texte. Jusqu'ici, la foi produisait des miracles visibles et temporels. Soudain, l'auteur montre l'autre face de la foi : la capacité à supporter la destruction totale du corps sans renier l'Axe."
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "n' (pas)"
+          },
+          {
+            "greek": "προσδεξάμενοι",
+            "gloss": "ayant_accepté"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀπολύτρωσιν,",
+            "gloss": "délivrance/rachat"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_de"
+          },
+          {
+            "greek": "κρείττονος",
+            "gloss": "d'une_meilleure"
+          },
+          {
+            "greek": "ἀναστάσεως",
+            "gloss": "résurrection"
+          },
+          {
+            "greek": "τύχωσιν·",
+            "gloss": "qu'ils_obtiennent",
+            "analyse": "Ils refusent une délivrance purement temporelle pour conserver la connexion avec la Source éternelle."
+          }
         ]
       },
       {
@@ -999,18 +2595,55 @@
           "darby": "et d'autres ont passé par l'épreuve des moqueries et des fouets, et même aussi des liens et de la prison :"
         },
         "interlinear": [
-          { "greek": "ἕτεροι", "gloss": "d'autres" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐμπαιγμῶν", "gloss": "de_moqueries" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μαστίγων", "gloss": "de_fouets" },
-          { "greek": "πεῖραν", "gloss": "l'épreuve/l'expérience" },
-          { "greek": "ἔλαβον,", "gloss": "reçurent/firent" },
-          { "greek": "ἔτι", "gloss": "encore/même" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "δεσμῶν", "gloss": "de_liens/chaînes", "analyse": "La violence coercitive du Monde duel, qui tente toujours d'enfermer le Sujet libre dans une geôle matérielle." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "φυλακῆς·", "gloss": "de_prison" }
+          {
+            "greek": "ἕτεροι",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐμπαιγμῶν",
+            "gloss": "de_moqueries"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μαστίγων",
+            "gloss": "de_fouets"
+          },
+          {
+            "greek": "πεῖραν",
+            "gloss": "l'épreuve/l'expérience"
+          },
+          {
+            "greek": "ἔλαβον,",
+            "gloss": "reçurent/firent"
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "encore/même"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "δεσμῶν",
+            "gloss": "de_liens/chaînes",
+            "analyse": "La violence coercitive du Monde duel, qui tente toujours d'enfermer le Sujet libre dans une geôle matérielle."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φυλακῆς·",
+            "gloss": "de_prison"
+          }
         ]
       },
       {
@@ -1020,22 +2653,72 @@
           "darby": "ils ont été lapidés, sciés, tentés ; ils ont été mis à mort par le tranchant de l'épée ; ils ont erré çà et là, vêtus de peaux de brebis, de peaux de chèvres, dans le besoin, affligés, tourmentés"
         },
         "interlinear": [
-          { "greek": "ἐλιθάσθησαν,", "gloss": "ils_furent_lapidés" },
-          { "greek": "ἐπρίσθησαν,", "gloss": "ils_furent_sciés", "analyse": "La dislocation littérale de l'anatomie. L'Empire (la Matrice) tente de détruire géométriquement ce qu'il ne peut pas posséder spirituellement." },
-          { "greek": "ἐπειράσθησαν,", "gloss": "ils_furent_tentés/éprouvés" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "φόνῳ", "gloss": "le_meurtre" },
-          { "greek": "μαχαίρης", "gloss": "de_l'épée" },
-          { "greek": "ἀπέθανον,", "gloss": "ils_moururent" },
-          { "greek": "περιῆλθον", "gloss": "ils_allèrent_autour/errèrent", "analyse": "Le nomadisme total. Exclus du système économique et social, le Sujet n'a plus de point de fixation terrestre." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "μηλωταῖς,", "gloss": "des_peaux_de_brebis" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "αἰγείοις", "gloss": "de_chèvres" },
-          { "greek": "δέρμασιν,", "gloss": "des_peaux" },
-          { "greek": "ὑστερούμενοι,", "gloss": "étant_dans_le_besoin/dénués" },
-          { "greek": "θλιβόμενοι,", "gloss": "pressés/affligés" },
-          { "greek": "κακουχούμενοι,", "gloss": "maltraités/tourmentés" }
+          {
+            "greek": "ἐλιθάσθησαν,",
+            "gloss": "ils_furent_lapidés"
+          },
+          {
+            "greek": "ἐπρίσθησαν,",
+            "gloss": "ils_furent_sciés",
+            "analyse": "La dislocation littérale de l'anatomie. L'Empire (la Matrice) tente de détruire géométriquement ce qu'il ne peut pas posséder spirituellement."
+          },
+          {
+            "greek": "ἐπειράσθησαν,",
+            "gloss": "ils_furent_tentés/éprouvés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "φόνῳ",
+            "gloss": "le_meurtre"
+          },
+          {
+            "greek": "μαχαίρης",
+            "gloss": "de_l'épée"
+          },
+          {
+            "greek": "ἀπέθανον,",
+            "gloss": "ils_moururent"
+          },
+          {
+            "greek": "περιῆλθον",
+            "gloss": "ils_allèrent_autour/errèrent",
+            "analyse": "Le nomadisme total. Exclus du système économique et social, le Sujet n'a plus de point de fixation terrestre."
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "μηλωταῖς,",
+            "gloss": "des_peaux_de_brebis"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "αἰγείοις",
+            "gloss": "de_chèvres"
+          },
+          {
+            "greek": "δέρμασιν,",
+            "gloss": "des_peaux"
+          },
+          {
+            "greek": "ὑστερούμενοι,",
+            "gloss": "étant_dans_le_besoin/dénués"
+          },
+          {
+            "greek": "θλιβόμενοι,",
+            "gloss": "pressés/affligés"
+          },
+          {
+            "greek": "κακουχούμενοι,",
+            "gloss": "maltraités/tourmentés"
+          }
         ]
       },
       {
@@ -1045,24 +2728,81 @@
           "darby": "(desquels le monde n'était pas digne), errants dans les déserts et les montagnes, et les cavernes et les trous de la terre."
         },
         "interlinear": [
-          { "greek": "ὧν", "gloss": "desquels", "analyse": "Une incise cosmique vertigineuse qui foudroie la lecture morale." },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "ἄξιος", "gloss": "digne/de_poids_équivalent", "analyse": "L'adjectif *axios* dérive d'un terme de pesée (la balance). Ce n'est pas 'le monde ne méritait pas ces gens si gentils'. Cela signifie : le *Kosmos* entier, avec toute sa matière, mis sur une balance, ne pèse rien face à la densité ontologique d'un seul de ces Éveillés." },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κόσμος·", "gloss": "monde", "analyse": "Le système fermé, la Matrice des illusions." },
-          { "greek": "ἐπὶ", "gloss": "sur/dans" },
-          { "greek": "ἐρημίαις", "gloss": "les_déserts" },
-          { "greek": "πλανώμενοι", "gloss": "errants" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὄρεσιν", "gloss": "les_montagnes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "σπηλαίοις", "gloss": "les_cavernes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "ὀπαῖς", "gloss": "trous/antres" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "γῆς.", "gloss": "terre" }
+          {
+            "greek": "ὧν",
+            "gloss": "desquels",
+            "analyse": "Une incise cosmique vertigineuse qui foudroie la lecture morale."
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ἄξιος",
+            "gloss": "digne/de_poids_équivalent",
+            "analyse": "L'adjectif axios dérive d'un terme de pesée (la balance). Ce n'est pas 'le monde ne méritait pas ces gens si gentils'. Cela signifie : le Kosmos entier, avec toute sa matière, mis sur une balance, ne pèse rien face à la densité ontologique d'un seul de ces Éveillés."
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμος·",
+            "gloss": "monde",
+            "analyse": "Le système fermé, la Matrice des illusions."
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur/dans"
+          },
+          {
+            "greek": "ἐρημίαις",
+            "gloss": "les_déserts"
+          },
+          {
+            "greek": "πλανώμενοι",
+            "gloss": "errants"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὄρεσιν",
+            "gloss": "les_montagnes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σπηλαίοις",
+            "gloss": "les_cavernes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὀπαῖς",
+            "gloss": "trous/antres"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "γῆς.",
+            "gloss": "terre"
+          }
         ]
       },
       {
@@ -1072,17 +2812,51 @@
           "darby": "Et tous ceux-ci, ayant reçu témoignage par la foi, n'ont pas reçu la chose promise,"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "οὗτοι", "gloss": "ceux-ci" },
-          { "greek": "πάντες", "gloss": "tous" },
-          { "greek": "μαρτυρηθέντες", "gloss": "ayant_reçu_témoignage" },
-          { "greek": "διὰ", "gloss": "à_travers/par" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "πίστεως", "gloss": "foi" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἐκομίσαντο", "gloss": "obtinrent/reçurent" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἐπαγγελίαν,", "gloss": "promesse", "analyse": "Le grand choc temporel. Après avoir traversé le temps, sacrifié leur Ego et leur corps matériel, ils meurent sans 'recevoir' le Christ incarné. Leur vie semble, chronologiquement, inachevée." }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "οὗτοι",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "μαρτυρηθέντες",
+            "gloss": "ayant_reçu_témoignage"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers/par"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐκομίσαντο",
+            "gloss": "obtinrent/reçurent"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐπαγγελίαν,",
+            "gloss": "promesse",
+            "analyse": "Le grand choc temporel. Après avoir traversé le temps, sacrifié leur Ego et leur corps matériel, ils meurent sans 'recevoir' le Christ incarné. Leur vie semble, chronologiquement, inachevée."
+          }
         ]
       },
       {
@@ -1092,21 +2866,161 @@
           "darby": "Dieu ayant eu en vue quelque chose de meilleur pour nous, afin qu'ils ne parvinssent pas à la perfection sans nous."
         },
         "interlinear": [
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "κρεῖττόν", "gloss": "de_meilleur" },
-          { "greek": "τι", "gloss": "quelque_chose" },
-          { "greek": "προβλεψαμένου,", "gloss": "ayant_prévu/pourvu" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "χωρὶς", "gloss": "séparément_de/sans", "analyse": "La préposition de séparation (*choris*). L'affirmation métaphysique suprême de la Non-Dualité. Le temps chronologique a séparé les patriarches des chrétiens d'aujourd'hui, mais vibratoirement, cette séparation n'existe pas." },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "τελειωθῶσιν.", "gloss": "ils_parvinssent_à_la_perfection/achèvement", "analyse": "Le verbe magistral : *teleioo* (amener au *Telos*, achever, rendre parfait). Le Corps spirituel du Christ (*Ekklesia*) transcende le temps. Les Ancêtres ne peuvent pas être 'achevés' sans nous, pas plus que nous ne pouvons l'être sans eux. L'Éveil est l'intégration totale et simultanée de toutes les fractions de lumière éparpillées dans l'espace-temps." }
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "κρεῖττόν",
+            "gloss": "de_meilleur"
+          },
+          {
+            "greek": "τι",
+            "gloss": "quelque_chose"
+          },
+          {
+            "greek": "προβλεψαμένου,",
+            "gloss": "ayant_prévu/pourvu"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "χωρὶς",
+            "gloss": "séparément_de/sans",
+            "analyse": "La préposition de séparation (choris). L'affirmation métaphysique suprême de la Non-Dualité. Le temps chronologique a séparé les patriarches des chrétiens d'aujourd'hui, mais vibratoirement, cette séparation n'existe pas."
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "τελειωθῶσιν.",
+            "gloss": "ils_parvinssent_à_la_perfection/achèvement",
+            "analyse": "Le verbe magistral : teleioo (amener au Telos, achever, rendre parfait). Le Corps spirituel du Christ (Ekklesia) transcende le temps. Les Ancêtres ne peuvent pas être 'achevés' sans nous, pas plus que nous ne pouvons l'être sans eux. L'Éveil est l'intégration totale et simultanée de toutes les fractions de lumière éparpillées dans l'espace-temps."
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 38 - ὧν οὐκ ἦν ἄξιος ὁ κόσμος : Traduit par 'dont le monde n'était pas digne' (Segond/Darby). L'adjectif *axios* vient de la racine *ago* (peser, équilibrer la balance). La morale chrétienne en a fait un constat de pureté : 'le monde était trop mauvais pour eux'. Topographiquement, c'est une équation de densité : le *Kosmos* (le monde duel horizontal, avec toute sa matière) ne 'fait pas le poids', il n'a pas la masse ontologique nécessaire pour équilibrer la fréquence vibratoire colossale de ces Éveillés qui errent pourtant comme des clochards dans les déserts.\n• Verset 40 - τελειωθῶσιν : 'parvinssent à la perfection'. Ce n'est pas une perfection morale, c'est la *Teleiosis* grecque : l'aboutissement, la fermeture du cercle, la complétion. L'Organisme cosmique est enfin assemblé.\n\nAnalyse spirituelle de l'ensemble (Hébreux 11) :\nCe grand chapitre est le monument absolu à la *Pistis* (la Foi). Mais l'auteur démolit immédiatement l'idée d'une 'foi-croyance' (une opinion intellectuelle). La *Pistis* est une technologie de connexion à l'Incréé, un alignement géométrique qui pulvérise l'illusion de la Matrice.\n\nAu début du texte, les Patriarches (Abraham, Isaac, Jacob) utilisent la *Pistis* pour se désancrer de l'horizontalité. Ils vivent sous des tentes (v.9) pour exprimer un nomadisme métaphysique : ils refusent de bâtir leur Être sur l'entropie du monde, car ils savent que seul le Centre divin (*Demiourgos*) offre une vraie fondation. La Kénose est poussée à son paroxysme avec le sacrifice d'Isaac (v.17) : l'Ego religieux d'Abraham doit mourir à sa propre descendance, abandonnant la logique matricielle, conscient que la Puissance (*Dynamis*) de Dieu peut ressusciter les morts.\n\nDans la deuxième partie, la *Pistis* devient l'arme qui brise l'emprise des empires (l'Égypte, les lions, le feu). Moïse et Joseph savent que l'édit du Pharaon et la mort biologique ne sont que des illusions temporelles (v.20-23). \n\nMais le choc majeur advient au verset 35 : le martyrologe. La foi n'est pas une garantie de succès temporel ou de protection physique. L'auteur nous plonge dans la violence insoutenable du Monde duel qui tente par tous les moyens d'exorciser la Présence en sciant, lapidant et écrasant les Éveillés. Mais ceux-ci refusent la compromission (v.35), devenant de pures singularités de Lumière si denses que la Matrice entière ne 'pèse plus rien' face à eux (v.38).\n\nL'apothéose métaphysique clôt l'exposé (v.39-40) : tous ces géants sont morts sans avoir 'reçu' chronologiquement le Christ incarné. Pourquoi ? L'auteur livre ici le grand secret de la Non-Dualité et de l'illusion du temps (*Chronos*). Si Dieu a retardé l'horloge, c'est parce que l'Axe spirituel ne connaît pas la séparation temporelle (*choris*). Abraham, Moïse, les martyrs et 'nous' formons un seul et unique Organisme. Le *Telos* (l'Achèvement/la Perfection) ne peut se réaliser que lorsque la totalité des éveillés est assemblée en-dehors du temps."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 38 - ὧν οὐκ ἦν ἄξιος ὁ κόσμος : « dont le monde n’était pas digne ». L’expression inverse les critères habituels de valeur : ceux que le monde rejette sont précisément ceux dont il n’est pas digne.\n• Verset 40 - τελειωθῶσιν : le verbe désigne l’achèvement ou l’accomplissement. La perfection évoquée n’est pas une réussite solitaire : les témoins de la foi ne parviennent pas sans nous à l’accomplissement voulu par Dieu.\n\nAnalyse spirituelle :\nLes versets 9-10 présentent Abraham habitant sous des tentes tout en attendant la cité dont Dieu est l’architecte. La foi maintient ensemble le provisoire et la promesse : elle refuse de confondre les installations du monde avec la demeure définitive.\n\nLes versets 32-38 déploient ensuite la diversité des témoins. Certains connaissent des délivrances visibles ; d’autres traversent le dénuement, la persécution et la mort. Le texte interdit donc d’identifier la foi à une garantie de réussite temporelle.\n\nEnfin, les versets 39-40 rassemblent ces histoires dans une solidarité qui traverse le temps. Tous ont reçu un bon témoignage par la foi, mais Dieu a prévu que l’accomplissement ne se fasse pas « sans nous ». Les Pères et les fidèles d’aujourd’hui ne forment pas deux histoires séparées : ils appartiennent à l’unique peuple conduit vers son achèvement dans le Christ.",
+    "greek_only": "",
+    "french_only": "",
+    "liturgical_echoes": [
+      {
+        "title": "Patriarches évoqués dans le contexte élargi",
+        "reference": "Hébreux 11, 17-23",
+        "content": "Ces versets, présents dans une version antérieure de la fiche mais absents du découpage officiel de 2026, évoquent le sacrifice d’Isaac, Isaac, Jacob, Joseph et les parents de Moïse. Ils restent un prolongement utile pour comprendre la nuée des témoins, sans être confondus avec l’Apôtre proclamé.",
+        "connections": []
+      },
+      {
+        "title": "La nuée qui donne un visage à la généalogie",
+        "reference": "Hébreux 12, 1 — prolongement immédiat de la péricope",
+        "content": "Le verset suivant parle de la « nuée de témoins » qui nous entoure. Il ne fait pas partie de l’Apôtre proclamé selon le calendrier officiel 2026, mais il offre une clef homilétique : les noms de Matthieu deviennent une présence ecclésiale qui accompagne notre course.",
+        "connections": [
+          {
+            "label": "Matthieu 1",
+            "content": "La généalogie nomme les témoins et inscrit l’Incarnation dans leur attente."
+          },
+          {
+            "label": "Hébreux 11, 40",
+            "content": "Leur accomplissement est solidaire du nôtre : ils ne sont pas rendus parfaits sans nous."
+          }
+        ]
+      }
+    ],
+    "homiletic_axes": [
+      {
+        "title": "Des tentes à la cité fondée par Dieu",
+        "content": "Abraham séjourne sous des tentes parce qu’il attend la cité aux solides fondations. La généalogie montre que cette attente traverse les générations et trouve dans l’Incarnation son accomplissement, non une installation humaine définitive.",
+        "keywords": [
+          "παροικέω — séjourner en étranger",
+          "σκηνή — tente",
+          "θεμέλιος — fondation",
+          "ἐκδέχομαι — attendre avec tension"
+        ]
+      },
+      {
+        "title": "Une histoire qui ne s’accomplit pas sans nous",
+        "content": "Hébreux 11, 40 affirme que les témoins anciens ne parviennent pas sans nous à l’accomplissement. Matthieu donne des noms à cette communion : la généalogie n’est pas une liste morte, mais l’histoire d’un peuple rassemblé dans le Christ.",
+        "keywords": [
+          "χωρὶς ἡμῶν — sans nous",
+          "τελειωθῶσιν — parvenir à l’accomplissement",
+          "ἐκκλησία — assemblée"
+        ]
+      },
+      {
+        "title": "La foi dans la victoire comme dans l’épreuve",
+        "content": "Certains témoins ferment la gueule des lions ; d’autres connaissent l’errance, les chaînes et la mort. La foi n’est pas une garantie de réussite temporelle : elle demeure orientation vers Dieu au milieu de destins très différents.",
+        "keywords": [
+          "πίστις — foi",
+          "δύναμις — puissance reçue",
+          "πλανάομαι — errer"
+        ]
+      },
+      {
+        "title": "Emmanuel, accomplissement de l’attente",
+        "content": "Les Pères ont porté une promesse encore inachevée. En Jésus, « Dieu avec nous », l’attente devient présence : l’Ancienne et la Nouvelle Alliance se rejoignent dans l’unique histoire du salut.",
+        "keywords": [
+          "Ἐμμανουήλ — Dieu avec nous",
+          "ἐπαγγελία — promesse",
+          "τέλος — accomplissement"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot, mouvement ou contraste relie les deux lectures du dimanche des Pères ou de la Généalogie ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Que disent précisément l’Évangile et l’Apôtre ? Relevez leur progression, leurs répétitions et leurs oppositions."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu accomplit ou révèle lorsque ces deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle expérience concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "À quelle conversion, espérance ou action concrète l’assemblée est-elle appelée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   }
 }
