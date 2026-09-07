@@ -4,430 +4,1458 @@
     "title": "La Vénération de la Croix : Suivre le Christ",
     "interlinear": [
       {
-      "verse_number": 34,
-    "translations": {
-      "segond": "Puis, ayant appelé la foule avec ses disciples, il leur dit : Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge de sa croix, et qu'il me suive.",
-      "darby": "Et ayant appelé la foule avec ses disciples, il leur dit : Quiconque veut venir après moi, qu'il se renonce soi-même, et qu'il prenne sa croix, et me suive."
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "προσκαλεσάμενος", "gloss": "ayant_appelé_à_soi" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "ὄχλον", "gloss": "foute" },
-      { "greek": "σὺν", "gloss": "avec" },
-      { "greek": "τοῖς", "gloss": "les" },
-      { "greek": "μαθηταῖς", "gloss": "disciples" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "εἶπεν", "gloss": "il_dit" },
-      { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-      { "greek": "Εἴ", "gloss": "Si" },
-      { "greek": "τις", "gloss": "quelqu'un" },
-      { "greek": "θέλει", "gloss": "veut" },
-      { "greek": "ὀπίσω", "gloss": "derrière" },
-      { "greek": "μου", "gloss": "moi" },
-      { "greek": "ἐλθεῖν,", "gloss": "venir" },
-      { "greek": "ἀπαρνησάσθω", "gloss": "qu'il_renonce", "analyse": "Du verbe *aparneomai* (se renier complètement).ce n'est pas une mortification psychologique morbide, mais le refus radical du faux 'moi', de l'Ego fabriqué par le Monde duel (les masques, les rôles, les mécanismes de défense). Renoncer à ce moi illusoire est la condition *sine qua non* pour faire de la place au véritable 'Sujet'." },
-      { "greek": "ἑαυτὸν", "gloss": "à_lui-même" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀράτω", "gloss": "qu'il_charge/prenne" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "σταυρὸν", "gloss": "croix", "analyse": "La *croix* (stauros). Elle n'est pas une punition divine. Elle est le point d'intersection où l'horizontalité de notre histoire blessée est assumée et crucifiée par la verticalité divine. Porter sa croix, c'est cesser de fuir le réel et accepter que notre ego y soit brisé pour que jaillisse la vie eucharistique." },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀκολουθείτω", "gloss": "qu'il_suive" },
-      { "greek": "μοι.", "gloss": "moi" }
+        "verse_number": 34,
+        "translations": {
+          "segond": "Puis, ayant appelé la foule avec ses disciples, il leur dit : Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge de sa croix, et qu'il me suive.",
+          "darby": "Et ayant appelé la foule avec ses disciples, il leur dit : Quiconque veut venir après moi, qu'il se renonce soi-même, et qu'il prenne sa croix, et me suive."
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "προσκαλεσάμενος",
+            "gloss": "ayant_appelé_à_soi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄχλον",
+            "gloss": "foute"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταῖς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Εἴ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "θέλει",
+            "gloss": "veut"
+          },
+          {
+            "greek": "ὀπίσω",
+            "gloss": "derrière"
+          },
+          {
+            "greek": "μου",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐλθεῖν,",
+            "gloss": "venir"
+          },
+          {
+            "greek": "ἀπαρνησάσθω",
+            "gloss": "qu'il_renonce",
+            "analyse": "Du verbe *aparneomai* (se renier complètement).ce n'est pas une mortification psychologique morbide, mais le refus radical du faux 'moi', de l'Ego fabriqué par le Monde duel (les masques, les rôles, les mécanismes de défense). Renoncer à ce moi illusoire est la condition *sine qua non* pour faire de la place au véritable 'Sujet'."
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "à_lui-même"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀράτω",
+            "gloss": "qu'il_charge/prenne"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "σταυρὸν",
+            "gloss": "croix",
+            "analyse": "La *croix* (stauros). Elle n'est pas une punition divine. Elle est le point d'intersection où l'horizontalité de notre histoire blessée est assumée et crucifiée par la verticalité divine. Porter sa croix, c'est cesser de fuir le réel et accepter que notre ego y soit brisé pour que jaillisse la vie eucharistique."
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀκολουθείτω",
+            "gloss": "qu'il_suive"
+          },
+          {
+            "greek": "μοι.",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 35,
+        "translations": {
+          "segond": "Car celui qui voudra sauver sa vie la perdra, mais celui qui perdra sa vie à cause de moi et de la bonne nouvelle la sauvera.",
+          "darby": "Car quiconque voudra sauver sa vie la perdra ; et quiconque perdra sa vie à cause de moi et de l'évangile la sauvera."
+        },
+        "interlinear": [
+          {
+            "greek": "ὃς",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "θέλῃ",
+            "gloss": "veut"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ψυχὴν",
+            "gloss": "âme/vie",
+            "analyse": "Le mot *psychē* désigne ici la vie psychologique, le moi individualisé qui cherche à se préserver, à posséder et à contrôler. Vouloir 'sauver' cette vie-là, c'est s'enfermer dans l'enfer du Monde duel. La 'perdre', c'est accepter la kénose de ce moi superficiel pour découvrir la véritable Vie incréée."
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "σῶσαι,",
+            "gloss": "sauver"
+          },
+          {
+            "greek": "ἀπολέσει",
+            "gloss": "perdra"
+          },
+          {
+            "greek": "αὐτήν·",
+            "gloss": "elle"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "δ’",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "quiconque"
+          },
+          {
+            "greek": "ἀπολέσει",
+            "gloss": "perdra"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ψυχὴν",
+            "gloss": "vie/âme"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἕνεκεν",
+            "gloss": "à_cause"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "εὐαγγελίου,",
+            "gloss": "bonne_nouvelle/évangile"
+          },
+          {
+            "greek": "σώσει",
+            "gloss": "sauvera"
+          },
+          {
+            "greek": "αὐτήν.",
+            "gloss": "elle"
+          }
+        ]
+      },
+      {
+        "verse_number": 36,
+        "translations": {
+          "segond": "Et que sert-il à un homme de gagner le monde entier, s'il perd son âme ?",
+          "darby": "Car que profitera-t-il à un homme s'il gagne le monde entier, et qu'il fasse la perte de son âme ?"
+        },
+        "interlinear": [
+          {
+            "greek": "τί",
+            "gloss": "quoi"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὠφελεῖ",
+            "gloss": "sert/profite"
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "κερδῆσαι",
+            "gloss": "gagner"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμον",
+            "gloss": "monde",
+            "analyse": "Gagner le *kosmon* (le monde) est la tentation ultime du Monde duel : accumuler des objets, des territoires matériels ou des validations extérieures pour masquer le vide intérieur. C'est l'aliénation absolue où le sujet s'effondre en devenant esclave des objets qu'il possède."
+          },
+          {
+            "greek": "ὅλον",
+            "gloss": "entier"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ζημιωθῆναι",
+            "gloss": "perdre/faire_la_perte"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ψυχὴν",
+            "gloss": "âme/vie"
+          },
+          {
+            "greek": "αὐτοῦ;",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 37,
+        "translations": {
+          "segond": "Que donnerait un homme en échange de son âme ?",
+          "darby": "ou que donnera un homme en échange de son âme ?"
+        },
+        "interlinear": [
+          {
+            "greek": "τί",
+            "gloss": "que"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "δοῖ",
+            "gloss": "donnerait"
+          },
+          {
+            "greek": "ἄνθρωπος",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "ἀντάλλαγμα",
+            "gloss": "en_échange",
+            "analyse": "Le mot *antallagma* désigne un prix de rachat, une monnaie d'échange. Le sujet humain (l'âme faite à l'image de Dieu) a une valeur absolue et infinie ; rien dans le monde des objets du Monde duel ne peut l'équilibrer. Essayer de troquer son être contre de l'avoir est l'erreur ontologique majeure."
+          },
+          {
+            "greek": "τῆς ψυχῆς",
+            "gloss": "de_l'_âme"
+          },
+          {
+            "greek": "αὐτοῦ;",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 38,
+        "translations": {
+          "segond": "Car quiconque aura honte de moi et de mes paroles parmi cette génération adultère et pécheresse, le Fils de l'homme aura aussi honte de lui, quand il viendra dans la gloire de son Père, avec les saints anges.",
+          "darby": "Car quiconque aura eu honte de moi et de mes paroles parmi cette génération adultère et pécheresse, le fils de l'homme aura aussi honte de lui, quand il viendra dans la gloire de son Père, avec les saints anges."
+        },
+        "interlinear": [
+          {
+            "greek": "ὃς",
+            "gloss": "quiconque"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "ἐπαισχυνθῇ",
+            "gloss": "aura_honte"
+          },
+          {
+            "greek": "με",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐmoὺς",
+            "gloss": "miens"
+          },
+          {
+            "greek": "λόγους",
+            "gloss": "mots/paroles"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γενεᾷ",
+            "gloss": "génération"
+          },
+          {
+            "greek": "ταύτῃ",
+            "gloss": "celle-ci"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "μοιχανίδι",
+            "gloss": "adultère",
+            "analyse": "Le mot *moichalis* (adultère) désigne prophétiquement la rupture d'alliance. l'attitude psychologique par excellence du Monde duel, c'est se détourner de l'Époux unique (le Sujet divin) pour s'accoupler à des idoles frelatées (les objets, les idéologies, le statut social). Avoir honte du Christ, c'est préférer le masque rassurant de la matrice sociétale à la nudité du vrai sujet."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἁμαρτωλῷ,",
+            "gloss": "pécheresse"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "homme"
+          },
+          {
+            "greek": "ἐπαισχυνθήσεται",
+            "gloss": "aura_honte_de"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὅταν",
+            "gloss": "quand"
+          },
+          {
+            "greek": "ἔλθῃ",
+            "gloss": "il_viendra"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δόξῃ",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "πατρὸς",
+            "gloss": "père"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀγγέλων",
+            "gloss": "anges"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁγίων.",
+            "gloss": "saints"
+          }
+        ]
+      },
+      {
+        "verse_number": "9, 1",
+        "translations": {
+          "segond": "Il leur dit encore : Je vous le dis en vérité, quelques-uns de ceux qui sont ici ne mourront point, qu'ils n'aient vu le royaume de Dieu venir avec puissance.",
+          "darby": "Et il leur dit : En vérité, je vous dis : Il y en a quelques-uns de ceux qui sont ici présents, qui ne goûteront point de la mort jusqu'à ce qu'ils aient vu le royaume de Dieu venu avec puissance."
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἔλεγεν",
+            "gloss": "il_disait"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Ἀμὴν",
+            "gloss": "En_vérité"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὅti",
+            "gloss": "que"
+          },
+          {
+            "greek": "εἰσίν",
+            "gloss": "il_y_en_a"
+          },
+          {
+            "greek": "τινες",
+            "gloss": "quelques-uns"
+          },
+          {
+            "greek": "ὧδε",
+            "gloss": "ici"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "de_ceux"
+          },
+          {
+            "greek": "ἑστηκότων",
+            "gloss": "étant_présents/debout"
+          },
+          {
+            "greek": "οἵtiνες",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "pas"
+          },
+          {
+            "greek": "γεύσωνται",
+            "gloss": "goûteront"
+          },
+          {
+            "greek": "θανάτου",
+            "gloss": "de_mort"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "ἴδωσιν",
+            "gloss": "ils_aient_vu"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "βασιλείαν",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐληλυθυῖαν",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec/dans"
+          },
+          {
+            "greek": "δυνάμει.",
+            "gloss": "puissance",
+            "analyse": "L'expression *en dynamei* (avec puissance) désigne l'irruption des Énergies divines incréées dans l'épaisseur du temps linéaire. Le Royaume n'est pas une projection morale post-mortem ; c'est l'expérience vécue de la Transfiguration. Être debout (*hestēkotōn*), c'est être déjà éveillé à cette Présence qui rend la mort physique totalement inopérante."
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 34 - ἀπαρνησάσθω ἑαυτὸν : Traduit par 'renonce à lui-même'. Le préfixe *ap-* renforce l'action : il s'agit d'un désaveu total, d'une rupture définitive avec l'ancienne identité égocentrée. Ce n'est pas une simple privation morale, mais une kénose d'identité.\n• Verset 35 - ψυχὴν : Segond et Darby traduisent indifféremment par 'vie' au verset 35 et 'âme' aux versets 36-37. Ce glissement sémantique occulte le fait que c'est le même principe structurel (la *psyché*) qui est visé : le moi psychologique transitoire doit mourir pour laisser place au Sujet spirituel éternel.\n• Verset 1 (chapitre 9) - ἐληλυθυῖαν ἐν δυνάμει : Littéralement 'étant venu en puissance'. Le participe parfait indique une réalité déjà advenue et dont les effets se prolongent, ce que la formule de Segond ('venir avec puissance') tend à lisser au futur.\n\nAnalyse spirituelle :\nLe Dimanche de la Vénération de la Sainte Croix constitue l'axe et le pivot du Grand Carême. la Croix n'est pas l'exaltation doloriste de la souffrance, mais l'instrument géométrique de la subversion du 'Monde duel'. L'axe horizontal représente la trajectoire de l'humanité déchue : la circularité des conflits, la logique de survie, la peur du manque, l'esclavage de l'avoir et l'accumulation des objets mondains (*kosmon*).\n\nL'irruption du Christ plante au cœur de cette horizontalité un axe vertical absolu : le 'Royaume UN'. Porter sa croix, c'est accepter que notre Ego horizontal soit transpercé et cloué, afin de briser le mécanisme réflexe de conservation de soi ('sauver sa psyché'). C'est consentir à la kénose pour naître comme un véritable 'Sujet dans le Christ'. Le reniement de soi exigé n'est rien d'autre que la chute du masque théâtral pour faire face à Dieu 'sans ruse'. En embrassant la Croix au milieu du Carême, le chrétien refuse de se laisser objectiver par la 'génération adultère' et s'ancre dans l'Énergie incréée (*dynamis*) qui transforme la mort en Pâques et fait de l'existence présente le tabernacle du Ciel ouvert.",
+    "homiletic_axes": [
+      {
+        "title": "Suivre le Christ en recevant sa Croix",
+        "content": "Se renier et prendre sa croix ne signifie pas mépriser la personne, mais cesser de faire du moi la mesure de toute chose. Le disciple reçoit sa vie du Christ en la lui confiant.",
+        "keywords": [
+          "ἀπαρνέομαι — se renier",
+          "ἀκολουθέω — suivre",
+          "σταυρός — croix"
+        ]
+      },
+      {
+        "title": "Perdre pour sauver",
+        "content": "L’Évangile place en tension perdre et sauver la vie. Hébreux montre le Christ traversant les cieux tout en compatissant à nos faiblesses : la Croix unit l’abaissement solidaire et l’accès au Père.",
+        "keywords": [
+          "ψυχή — vie/âme",
+          "σῴζω — sauver",
+          "συμπαθέω — compatir"
+        ]
+      },
+      {
+        "title": "S’approcher avec assurance du trône de la grâce",
+        "content": "Le renoncement chrétien n’est pas une performance solitaire. Parce que Jésus est le grand prêtre éprouvé sans péché, nous pouvons nous approcher avec assurance pour recevoir miséricorde, grâce et secours au moment opportun.",
+        "keywords": [
+          "παρρησία — assurance",
+          "ἔλεος — miséricorde",
+          "εὔκαιρος — opportun"
+        ]
+      },
+      {
+        "title": "La Croix, centre et passage",
+        "content": "Placée au milieu du Carême, la Croix soutient le chemin vers Pâques comme l’arbre de vie au milieu de l’Éden. Elle ne clôt pas le mouvement : elle fait passer de la conservation de soi à la communion et à la Résurrection.",
+        "keywords": [
+          "ξύλον ζωῆς — arbre de vie",
+          "μέσον — milieu",
+          "ἀνάστασις — résurrection"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la Croix portée au trône de la grâce",
+        "reference": "Marc 8, 34 - 9, 1 ; Hébreux 4, 14 - 5, 6",
+        "content": "Le Christ appelle à le suivre sur le chemin de la Croix ; l’Apôtre révèle qu’il l’a parcouru comme grand prêtre compatissant et qu’il ouvre désormais l’accès confiant à la grâce.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Vénération de la Sainte Croix » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
   },
-  {
-    "verse_number": 35,
-    "translations": {
-      "segond": "Car celui qui voudra sauver sa vie la perdra, mais celui qui perdra sa vie à cause de moi et de la bonne nouvelle la sauvera.",
-      "darby": "Car quiconque voudra sauver sa vie la perdra ; et quiconque perdra sa vie à cause de moi et de l'évangile la sauvera."
-    },
-    "interlinear": [
-      { "greek": "ὃς", "gloss": "celui_qui" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ἐὰν", "gloss": "si" },
-      { "greek": "θέλῃ", "gloss": "veut" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "ψυχὴν", "gloss": "âme/vie", "analyse": "Le mot *psychē* désigne ici la vie psychologique, le moi individualisé qui cherche à se préserver, à posséder et à contrôler. Vouloir 'sauver' cette vie-là, c'est s'enfermer dans l'enfer du Monde duel. La 'perdre', c'est accepter la kénose de ce moi superficiel pour découvrir la véritable Vie incréée." },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "σῶσαι,", "gloss": "sauver" },
-      { "greek": "ἀπολέσει", "gloss": "perdra" },
-      { "greek": "αὐτήν·", "gloss": "elle" },
-      { "greek": "ὃς", "gloss": "celui_qui" },
-      { "greek": "δ’", "gloss": "or/mais" },
-      { "greek": "ἂν", "gloss": "quiconque" },
-      { "greek": "ἀπολέσει", "gloss": "perdra" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "ψυχὴν", "gloss": "vie/âme" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "ἕνεκεν", "gloss": "à_cause" },
-      { "greek": "ἐμοῦ", "gloss": "de_moi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τοῦ", "gloss": "de_la" },
-      { "greek": "εὐαγγελίου,", "gloss": "bonne_nouvelle/évangile" },
-      { "greek": "σώσει", "gloss": "sauvera" },
-      { "greek": "αὐτήν.", "gloss": "elle" }
-    ]
-  },
-  {
-    "verse_number": 36,
-    "translations": {
-      "segond": "Et que sert-il à un homme de gagner le monde entier, s'il perd son âme ?",
-      "darby": "Car que profitera-t-il à un homme s'il gagne le monde entier, et qu'il fasse la perte de son âme ?"
-    },
-    "interlinear": [
-      { "greek": "τί", "gloss": "quoi" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ὠφελεῖ", "gloss": "sert/profite" },
-      { "greek": "ἄνθρωπον", "gloss": "un_homme" },
-      { "greek": "κερδῆσαι", "gloss": "gagner" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "κόσμον", "gloss": "monde", "analyse": "Gagner le *kosmon* (le monde) est la tentation ultime du Monde duel : accumuler des objets, des territoires matériels ou des validations extérieures pour masquer le vide intérieur. C'est l'aliénation absolue où le sujet s'effondre en devenant esclave des objets qu'il possède." },
-      { "greek": "ὅλον", "gloss": "entier" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ζημιωθῆναι", "gloss": "perdre/faire_la_perte" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "ψυχὴν", "gloss": "âme/vie" },
-      { "greek": "αὐτοῦ;", "gloss": "de_lui" }
-    ]
-  },
-  {
-    "verse_number": 37,
-    "translations": {
-      "segond": "Que donnerait un homme en échange de son âme ?",
-      "darby": "ou que donnera un homme en échange de son âme ?"
-    },
-    "interlinear": [
-      { "greek": "τί", "gloss": "que" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "δοῖ", "gloss": "donnerait" },
-      { "greek": "ἄνθρωπος", "gloss": "un_homme" },
-      { "greek": "ἀντάλλαγμα", "gloss": "en_échange", "analyse": "Le mot *antallagma* désigne un prix de rachat, une monnaie d'échange. Le sujet humain (l'âme faite à l'image de Dieu) a une valeur absolue et infinie ; rien dans le monde des objets du Monde duel ne peut l'équilibrer. Essayer de troquer son être contre de l'avoir est l'erreur ontologique majeure." },
-      { "greek": "τῆς ψυχῆς", "gloss": "de_l'_âme" },
-      { "greek": "αὐτοῦ;", "gloss": "de_lui" } 
- ]
-  },
-  {
-  "verse_number": 38,
-    "translations": {
-      "segond": "Car quiconque aura honte de moi et de mes paroles parmi cette génération adultère et pécheresse, le Fils de l'homme aura aussi honte de lui, quand il viendra dans la gloire de son Père, avec les saints anges.",
-      "darby": "Car quiconque aura eu honte de moi et de mes paroles parmi cette génération adultère et pécheresse, le fils de l'homme aura aussi honte de lui, quand il viendra dans la gloire de son Père, avec les saints anges."
-    },
-    "interlinear": [
-      { "greek": "ὃς", "gloss": "quiconque" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ἐὰν", "gloss": "si" },
-      { "greek": "ἐπαισχυνθῇ", "gloss": "aura_honte" },
-      { "greek": "με", "gloss": "de_moi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ἐmoὺς", "gloss": "miens" },
-      { "greek": "λόγους", "gloss": "mots/paroles" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "γενεᾷ", "gloss": "génération" },
-      { "greek": "ταύτῃ", "gloss": "celle-ci" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "μοιχανίδι", "gloss": "adultère", "analyse": "Le mot *moichalis* (adultère) désigne prophétiquement la rupture d'alliance. l'attitude psychologique par excellence du Monde duel, c'est se détourner de l'Époux unique (le Sujet divin) pour s'accoupler à des idoles frelatées (les objets, les idéologies, le statut social). Avoir honte du Christ, c'est préférer le masque rassurant de la matrice sociétale à la nudité du vrai sujet." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἁμαρτωλῷ,", "gloss": "pécheresse" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "τοῦ", "gloss": "de_l'" },
-      { "greek": "ἀνθρώπου", "gloss": "homme" },
-      { "greek": "ἐπαισχυνθήσεται", "gloss": "aura_honte_de" },
-      { "greek": "αὐτόν,", "gloss": "lui" },
-      { "greek": "ὅταν", "gloss": "quand" },
-      { "greek": "ἔλθῃ", "gloss": "il_viendra" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "δόξῃ", "gloss": "gloire" },
-      { "greek": "τοῦ", "gloss": "de_le" },
-      { "greek": "πατρὸς", "gloss": "père" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "μετὰ", "gloss": "avec" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "ἀγγέλων", "gloss": "anges" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "ἁγίων.", "gloss": "saints" }
-    ]
-  },
-  {
-    "verse_number": "9, 1",
-    "translations": {
-      "segond": "Il leur dit encore : Je vous le dis en vérité, quelques-uns de ceux qui sont ici ne mourront point, qu'ils n'aient vu le royaume de Dieu venir avec puissance.",
-      "darby": "Et il leur dit : En vérité, je vous dis : Il y en a quelques-uns de ceux qui sont ici présents, qui ne goûteront point de la mort jusqu'à ce qu'ils aient vu le royaume de Dieu venu avec puissance."
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "ἔλεγεν", "gloss": "il_disait" },
-      { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-      { "greek": "Ἀμὴν", "gloss": "En_vérité" },
-      { "greek": "λέγω", "gloss": "je_dis" },
-      { "greek": "ὑμῖν", "gloss": "à_vous" },
-      { "greek": "ὅti", "gloss": "que" },
-      { "greek": "εἰσίν", "gloss": "il_y_en_a" },
-      { "greek": "τινες", "gloss": "quelques-uns" },
-      { "greek": "ὧδε", "gloss": "ici" },
-      { "greek": "τῶν", "gloss": "de_ceux" },
-      { "greek": "ἑστηκότων", "gloss": "étant_présents/debout" },
-      { "greek": "οἵtiνες", "gloss": "lesquels" },
-      { "greek": "οὐ", "gloss": "non" },
-      { "greek": "μὴ", "gloss": "pas" },
-      { "greek": "γεύσωνται", "gloss": "goûteront" },
-      { "greek": "θανάτου", "gloss": "de_mort" },
-      { "greek": "ἕως", "gloss": "jusqu'à" },
-      { "greek": "ἂν", "gloss": "ce_que" },
-      { "greek": "ἴδωσιν", "gloss": "ils_aient_vu" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "βασιλείαν", "gloss": "royaume" },
-      { "greek": "τοῦ", "gloss": "de_le" },
-      { "greek": "θεοῦ", "gloss": "Dieu" },
-      { "greek": "ἐληλυθυῖαν", "gloss": "étant_venu" },
-      { "greek": "ἐν", "gloss": "avec/dans" },
-      { "greek": "δυνάμει.", "gloss": "puissance", "analyse": "L'expression *en dynamei* (avec puissance) désigne l'irruption des Énergies divines incréées dans l'épaisseur du temps linéaire. Le Royaume n'est pas une projection morale post-mortem ; c'est l'expérience vécue de la Transfiguration. Être debout (*hestēkotōn*), c'est être déjà éveillé à cette Présence qui rend la mort physique totalement inopérante." }
-    ]
-  }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 34 - ἀπαρνησάσθω ἑαυτὸν : Traduit par 'renonce à lui-même'. Le préfixe *ap-* renforce l'action : il s'agit d'un désaveu total, d'une rupture définitive avec l'ancienne identité égocentrée. Ce n'est pas une simple privation morale, mais une kénose d'identité.\n• Verset 35 - ψυχὴν : Segond et Darby traduisent indifféremment par 'vie' au verset 35 et 'âme' aux versets 36-37. Ce glissement sémantique occulte le fait que c'est le même principe structurel (la *psyché*) qui est visé : le moi psychologique transitoire doit mourir pour laisser place au Sujet spirituel éternel.\n• Verset 1 (chapitre 9) - ἐληλυθυῖαν ἐν δυνάμει : Littéralement 'étant venu en puissance'. Le participe parfait indique une réalité déjà advenue et dont les effets se prolongent, ce que la formule de Segond ('venir avec puissance') tend à lisser au futur.\n\nAnalyse spirituelle :\nLe Dimanche de la Vénération de la Sainte Croix constitue l'axe et le pivot du Grand Carême. la Croix n'est pas l'exaltation doloriste de la souffrance, mais l'instrument géométrique de la subversion du 'Monde duel'. L'axe horizontal représente la trajectoire de l'humanité déchue : la circularité des conflits, la logique de survie, la peur du manque, l'esclavage de l'avoir et l'accumulation des objets mondains (*kosmon*).\n\nL'irruption du Christ plante au cœur de cette horizontalité un axe vertical absolu : le 'Royaume UN'. Porter sa croix, c'est accepter que notre Ego horizontal soit transpercé et cloué, afin de briser le mécanisme réflexe de conservation de soi ('sauver sa psyché'). C'est consentir à la kénose pour naître comme un véritable 'Sujet dans le Christ'. Le reniement de soi exigé n'est rien d'autre que la chute du masque théâtral pour faire face à Dieu 'sans ruse'. En embrassant la Croix au milieu du Carême, le chrétien refuse de se laisser objectiver par la 'génération adultère' et s'ancre dans l'Énergie incréée (*dynamis*) qui transforme la mort en Pâques et fait de l'existence présente le tabernacle du Ciel ouvert."  
-  },
- "apostle":{
+  "apostle": {
     "reference": "Hébreux 4, 14 - 5, 6",
     "title": "Le Grand Prêtre de l'Ordre de Melchisédek",
     "interlinear": [
-  {
- "verse_number": "4, 14",
-    "translations": {
-      "segond": "Ainsi, puisque nous avons un grand souverain sacrificateur qui a traversé les cieux, Jésus, le Fils de Dieu, demeurons fermes dans la foi que nous professons.",
-      "darby": "Ayant donc un grand souverain sacrificateur qui a traversé les cieux, Jésus, le Fils de Dieu, tenons ferme notre confession."
-    },
-    "interlinear": [
-      { "greek": "Ἔχοντες", "gloss": "Ayant" },
-      { "greek": "οὖν", "gloss": "donc" },
-      { "greek": "ἀρχιερέα", "gloss": "grand_prêtre" },
-      { "greek": "μέγαν", "gloss": "grand" },
-      { "greek": "διεληλυθότα", "gloss": "ayant_traversé", "analyse": "Le verbe *dierchomai* au parfait indique une traversée accomplie dont les effets demeurent. Le Christ a percé la clôture du 'Monde duel'. Il n'est pas un gourou terrestre, Il est Celui qui a fait irruption depuis le 'Royaume UN' pour relier définitivement le créé à l'Incréé." },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "οὐρανούς,", "gloss": "cieux" },
-      { "greek": "Ἰησοῦν", "gloss": "Jésus" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "υἱὸν", "gloss": "fils" },
-      { "greek": "τοῦ", "gloss": "de_le" },
-      { "greek": "θεοῦ,", "gloss": "Dieu" },
-      { "greek": "κρατῶμεν", "gloss": "tenons_ferme" },
-      { "greek": "τῆς", "gloss": "de_la" },
-      { "greek": "ὁμολογίας.", "gloss": "confession/profession" }
-    ]
-  },
-  {
-  "verse_number": "4, 15",
-    "translations": {
-      "segond": "Car nous n'avons pas un souverain sacrificateur qui ne puisse compatir à nos faiblesses; au contraire, il a été tenté comme nous en toutes choses, sans commettre de péché.",
-      "darby": "Car nous n'avons pas un souverain sacrificateur qui ne puisse sympathiser à nos infirmités, mais nous en avons un qui a été tenté en toutes choses comme nous, à part le péché."
-    },
-    "interlinear": [
-      { "greek": "οὐ", "gloss": "non" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ἔχομεν", "gloss": "nous_avons" },
-      { "greek": "ἀρχιερέα", "gloss": "grand_prêtre" },
-      { "greek": "μὴ", "gloss": "ne...pas" },
-      { "greek": "δυνάμενον", "gloss": "pouvant" },
-      { "greek": "συμπαθῆσαι", "gloss": "compatir/sympathiser", "analyse": "De *sun* (avec) et *pathos* (souffrance, épreuve). Dans la logique du Monde duel, le chef surplombe et écrase ses sujets. Dans le Royaume, le Souverain Prêtre descend et 'souffre avec'. C'est le mystère de la Croix : l'Énergie divine assume notre chair et notre angoisse de l'intérieur pour les guérir." },
-      { "greek": "ταῖς", "gloss": "aux" },
-      { "greek": "ἀσθενείαις", "gloss": "faiblesses/infirmités" },
-      { "greek": "ἡμῶν,", "gloss": "de_nous" },
-      { "greek": "πεπειρασμένον", "gloss": "ayant_été_tenté" },
-      { "greek": "δὲ", "gloss": "mais" },
-      { "greek": "κατὰ", "gloss": "selon" },
-      { "greek": "πάντα", "gloss": "toutes_choses" },
-      { "greek": "καθ’", "gloss": "selon" },
-      { "greek": "ὁμοιότητα", "gloss": "la_ressemblance" },
-      { "greek": "χωρὶς", "gloss": "sans" },
-      { "greek": "ἁμαρτίας.", "gloss": "péché" }
-    ]
-  },
-  {
-    "verse_number": "4, 16",
-    "translations": {
-      "segond": "Approchons-nous donc avec assurance du trône de la grâce, afin d'obtenir miséricorde et de trouver grâce, pour être secourus dans nos besoins.",
-      "darby": "Approchons-nous donc avec confiance du trône de la grâce, afin que nous recevions miséricorde et que nous trouvions grâce pour avoir du secours au moment opportun."
-    },
-    "interlinear": [
-      { "greek": "προσερχώμεθα", "gloss": "Approchons-nous" },
-      { "greek": "οὖν", "gloss": "donc" },
-      { "greek": "μετὰ", "gloss": "avec" },
-      { "greek": "παρρησίας", "gloss": "assurance/franchise", "analyse": "Le mot *parrhésia* désigne le droit de tout dire, la liberté de parole absolue du citoyen libre. Face à Dieu, ce n'est pas de l'arrogance, mais la fin du 'dolos' (la ruse, le masque dont on parlait au Dimanche de l'Orthodoxie). C'est la posture du 'Sujet' restauré, qui n'a plus peur et s'avance à visage découvert." },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "θρόνῳ", "gloss": "trône" },
-      { "greek": "τῆς", "gloss": "de_la" },
-      { "greek": "χάριτος,", "gloss": "grâce" },
-      { "greek": "ἵνα", "gloss": "afin_que" },
-      { "greek": "λάβωμεν", "gloss": "nous_recevions" },
-      { "greek": "ἔλεος", "gloss": "miséricorde" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "χάριν", "gloss": "grâce" },
-      { "greek": "εὕρωμεν", "gloss": "nous_trouvions" },
-      { "greek": "εἰς", "gloss": "pour" },
-      { "greek": "εὔκαιρον", "gloss": "opportune/en_temps_utile" },
-      { "greek": "βοήθειαν.", "gloss": "aide/secours" }
-       ]
-  },
- {
-    "verse_number": "5, 1",
-    "translations": {
-      "segond": "En effet, tout souverain sacrificateur pris du milieu des hommes est établi pour les hommes dans le service de Dieu, afin de présenter des offrandes et des sacrifices pour les péchés.",
-      "darby": "Car tout souverain sacrificateur pris d'entre les hommes, est établi pour les hommes dans les choses qui concernent Dieu, afin qu'il offre et des dons et des sacrifices pour les péchés;"
-    },
-    "interlinear": [
-      { "greek": "Πᾶς", "gloss": "Tout" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ἀρχιερεὺς", "gloss": "grand_prêtre" },
-      { "greek": "ἐξ", "gloss": "parmi" },
-      { "greek": "ἀνθρώπων", "gloss": "les_hommes" },
-      { "greek": "λαμβανόμενος", "gloss": "étant_pris" },
-      { "greek": "ὑπὲρ", "gloss": "pour" },
-      { "greek": "ἀνθρώπων", "gloss": "les_hommes" },
-      { "greek": "καθίσταται", "gloss": "est_établi" },
-      { "greek": "τὰ", "gloss": "les_choses" },
-      { "greek": "πρὸς", "gloss": "envers" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "θεόν,", "gloss": "Dieu" },
-      { "greek": "ἵνα", "gloss": "afin_qu'" },
-      { "greek": "προσφέρῃ", "gloss": "il_offre" },
-      { "greek": "δῶρά", "gloss": "des_dons" },
-      { "greek": "τε", "gloss": "et" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "θυσίας", "gloss": "des_sacrifices" },
-      { "greek": "ὑπὲρ", "gloss": "pour" },
-      { "greek": "ἁμαρτιῶν,", "gloss": "les_péchés" }
-    ]
-  },
-  {
-    "verse_number": "5, 2",
-    "translations": {
-      "segond": "Il peut être indulgent pour les ignorants et les égarés, puisqu'il est lui-même enveloppé de faiblesse.",
-      "darby": "étant capable de sympathiser avec les ignorants et les égarés, puisqu'il est lui-même aussi enveloppé d'infirmité;"
-    },
-    "interlinear": [
-      { "greek": "μετριοπαθεῖν", "gloss": "être_indulgent/modérer_ses_passions", "analyse": "Souvent traduit par 'être indulgent' ou 'sympathiser', ce verbe (*metriopathein*) signifie littéralement 'mesurer/modérer ses passions'. le vrai prêtre ne réagit pas face aux pécheurs depuis un Ego blessé, moralisateur ou juge (réactions typiques du Monde duel). Il accueille leur fragilité avec constance, instaurant une véritable relation de Sujet à Sujet, libre des violences émotionnelles." },
-      { "greek": "δυνάμενος", "gloss": "étant_capable" },
-      { "greek": "τοῖς", "gloss": "aux" },
-      { "greek": "ἀγνοοῦσιν", "gloss": "ignorants" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πλανωμένοις,", "gloss": "égarés" },
-      { "greek": "ἐπεὶ", "gloss": "puisque" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "αὐτὸς", "gloss": "lui-même" },
-      { "greek": "περίκειται", "gloss": "est_enveloppé", "analyse": "Le verbe implique de porter un vêtement lourd tout autour de soi. Celui qui guide les autres ne se place pas dans une supériorité artificielle (un masque). Il assume pleinement son incarnation et son infirmité. Reconnaître cette faiblesse commune est la condition sine qua non pour sortir de l'illusion de supériorité du Monde duel." },
-      { "greek": "ἀσθένειαν,", "gloss": "de_faiblesse" }
-    ]
-  },
-  {
-    "verse_number": "5, 3",
-    "translations": {
-      "segond": "Et c'est à cause de cette faiblesse qu'il doit offrir des sacrifices pour les péchés, pour lui-même aussi bien que pour le peuple.",
-      "darby": "et à cause d'elle, il doit, comme pour le peuple, ainsi aussi pour lui-même, offrir pour les péchés."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "δι’", "gloss": "à_cause_de" },
-      { "greek": "αὐτὴν", "gloss": "elle" },
-      { "greek": "ὀφείλει,", "gloss": "il_doit" },
-      { "greek": "καθὼς", "gloss": "comme" },
-      { "greek": "περὶ", "gloss": "pour" },
-      { "greek": "τοῦ", "gloss": "le" },
-      { "greek": "λαοῦ,", "gloss": "peuple" },
-      { "greek": "οὕτως", "gloss": "ainsi" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "περὶ", "gloss": "pour" },
-      { "greek": "ἑαυτοῦ", "gloss": "lui-même" },
-      { "greek": "προσφέρειν", "gloss": "offrir" },
-      { "greek": "περὶ", "gloss": "au_sujet_de" },
-      { "greek": "ἁμαρτιῶν.", "gloss": "péchés" }
-    ]
-  },
-  {
-    "verse_number": "5, 4",
-    "translations": {
-      "segond": "Nul ne s'attribue cette dignité, s'il n'est appelé de Dieu, comme le fut Aaron.",
-      "darby": "Et nul ne s'arroge cet honneur ; mais seulement s'il est appelé de Dieu, ainsi que le fut aussi Aaron."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "οὐχ", "gloss": "non" },
-      { "greek": "ἑαυτῷ", "gloss": "à_lui-même" },
-      { "greek": "τις", "gloss": "quelqu'un" },
-      { "greek": "λαμβάνει", "gloss": "prend", "analyse": "Le Monde duel fonctionne sur le principe de la préhension : on s'empare des titres, de l'honneur (*timé*) et du pouvoir pour exister et s'objectiver aux yeux des autres. Ici, l'Apôtre renverse cette logique. La véritable autorité spirituelle ne se 'prend' jamais : elle échappe à l'Ego. C'est la différence radicale entre le prédateur mondain et le Sujet authentique." },
-      { "greek": "τὴν", "gloss": "l'" },
-      { "greek": "τιμήν,", "gloss": "honneur/dignité" },
-      { "greek": "ἀλλὰ", "gloss": "mais" },
-      { "greek": "καλούμενος", "gloss": "étant_appelé" },
-      { "greek": "ὑπὸ", "gloss": "par" },
-      { "greek": "τοῦ", "gloss": "le" },
-      { "greek": "θεοῦ,", "gloss": "Dieu" },
-      { "greek": "καθώσπερ", "gloss": "comme_justement" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "Ἀαρών.", "gloss": "Aaron" }
-    ]
-  },
-  {
-    "verse_number": "5, 5",
-    "translations": {
-      "segond": "Et Christ ne s'est pas non plus attribué la gloire de devenir souverain sacrificateur, mais il la tient de celui qui lui a dit : Tu es mon Fils, Je t'ai engendré aujourd'hui !",
-      "darby": "Ainsi le Christ aussi ne s'est pas glorifié lui-même pour être fait souverain sacrificateur, mais celui-là l'a glorifié qui lui a dit : 'Tu es mon Fils ; moi je t'ai engendré aujourd'hui'."
-    },
-    "interlinear": [
-      { "greek": "Οὕτως", "gloss": "Ainsi" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Χριστὸς", "gloss": "Christ" },
-      { "greek": "οὐχ", "gloss": "non" },
-      { "greek": "ἑαυτὸν", "gloss": "lui-même" },
-      { "greek": "ἐδόξασεν", "gloss": "glorifia", "analyse": "Même le Christ incarné n'a pas cherché à s'auto-justifier ni à s'auto-glorifier. L'identité du Fils n'est pas une possession refermée sur elle-même. Son 'Je' est une pure transparence, une relation absolue avec le Père. C'est la signature même du Royaume UN : la Gloire ne s'arrache pas, elle se reçoit perpétuellement de l'Autre en se donnant à Lui." },
-      { "greek": "γενηθῆναι", "gloss": "pour_devenir" },
-      { "greek": "ἀρχιερέα,", "gloss": "grand_prêtre" },
-      { "greek": "ἀλλ’", "gloss": "mais" },
-      { "greek": "ὁ", "gloss": "celui" },
-      { "greek": "λαλήσας", "gloss": "ayant_parlé" },
-      { "greek": "πρὸς", "gloss": "à" },
-      { "greek": "αὐτόν·", "gloss": "lui" },
-      { "greek": "Υἱός", "gloss": "Fils" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "εἶ", "gloss": "tu_es" },
-      { "greek": "σύ,", "gloss": "toi" },
-      { "greek": "ἐγὼ", "gloss": "moi" },
-      { "greek": "σήμερον", "gloss": "aujourd'hui" },
-      { "greek": "γεγέννηκά", "gloss": "j'ai_engendré" },
-      { "greek": "σε·", "gloss": "toi" }
-    ]
-  },
-  {
-    "verse_number": "5, 6",
-    "translations": {
-      "segond": "Comme il dit encore ailleurs : Tu es sacrificateur pour toujours, Selon l'ordre de Melchisédek.",
-      "darby": "Comme il dit aussi dans un autre lieu : 'Tu es sacrificateur pour l'éternité, selon l'ordre de Melchisédec'."
-    },
-    "interlinear": [
-      { "greek": "καθὼς", "gloss": "Comme" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "ἑτέρῳ", "gloss": "un_autre" },
-      { "greek": "λέγει·", "gloss": "il_dit" },
-      { "greek": "Σὺ", "gloss": "Toi" },
-      { "greek": "ἱερεὺς", "gloss": "prêtre" },
-      { "greek": "εἰς", "gloss": "pour" },
-      { "greek": "τὸν", "gloss": "l'" },
-      { "greek": "αἰῶνα", "gloss": "éternité" },
-      { "greek": "κατὰ", "gloss": "selon" },
-      { "greek": "τὴν", "gloss": "l'" },
-      { "greek": "τάξιν", "gloss": "ordre" },
-      { "greek": "Μελχισέδεκ.", "gloss": "Melchisédek" }
+      {
+        "verse_number": "4, 14",
+        "translations": {
+          "segond": "Ainsi, puisque nous avons un grand souverain sacrificateur qui a traversé les cieux, Jésus, le Fils de Dieu, demeurons fermes dans la foi que nous professons.",
+          "darby": "Ayant donc un grand souverain sacrificateur qui a traversé les cieux, Jésus, le Fils de Dieu, tenons ferme notre confession."
+        },
+        "interlinear": [
+          {
+            "greek": "Ἔχοντες",
+            "gloss": "Ayant"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἀρχιερέα",
+            "gloss": "grand_prêtre"
+          },
+          {
+            "greek": "μέγαν",
+            "gloss": "grand"
+          },
+          {
+            "greek": "διεληλυθότα",
+            "gloss": "ayant_traversé",
+            "analyse": "Le verbe *dierchomai* au parfait indique une traversée accomplie dont les effets demeurent. Le Christ a percé la clôture du 'Monde duel'. Il n'est pas un gourou terrestre, Il est Celui qui a fait irruption depuis le 'Royaume UN' pour relier définitivement le créé à l'Incréé."
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "οὐρανούς,",
+            "gloss": "cieux"
+          },
+          {
+            "greek": "Ἰησοῦν",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸν",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "κρατῶμεν",
+            "gloss": "tenons_ferme"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ὁμολογίας.",
+            "gloss": "confession/profession"
+          }
+        ]
+      },
+      {
+        "verse_number": "4, 15",
+        "translations": {
+          "segond": "Car nous n'avons pas un souverain sacrificateur qui ne puisse compatir à nos faiblesses; au contraire, il a été tenté comme nous en toutes choses, sans commettre de péché.",
+          "darby": "Car nous n'avons pas un souverain sacrificateur qui ne puisse sympathiser à nos infirmités, mais nous en avons un qui a été tenté en toutes choses comme nous, à part le péché."
+        },
+        "interlinear": [
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἔχομεν",
+            "gloss": "nous_avons"
+          },
+          {
+            "greek": "ἀρχιερέα",
+            "gloss": "grand_prêtre"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "δυνάμενον",
+            "gloss": "pouvant"
+          },
+          {
+            "greek": "συμπαθῆσαι",
+            "gloss": "compatir/sympathiser",
+            "analyse": "De *sun* (avec) et *pathos* (souffrance, épreuve). Dans la logique du Monde duel, le chef surplombe et écrase ses sujets. Dans le Royaume, le Souverain Prêtre descend et 'souffre avec'. C'est le mystère de la Croix : l'Énergie divine assume notre chair et notre angoisse de l'intérieur pour les guérir."
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἀσθενείαις",
+            "gloss": "faiblesses/infirmités"
+          },
+          {
+            "greek": "ἡμῶν,",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "πεπειρασμένον",
+            "gloss": "ayant_été_tenté"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "καθ’",
+            "gloss": "selon"
+          },
+          {
+            "greek": "ὁμοιότητα",
+            "gloss": "la_ressemblance"
+          },
+          {
+            "greek": "χωρὶς",
+            "gloss": "sans"
+          },
+          {
+            "greek": "ἁμαρτίας.",
+            "gloss": "péché"
+          }
+        ]
+      },
+      {
+        "verse_number": "4, 16",
+        "translations": {
+          "segond": "Approchons-nous donc avec assurance du trône de la grâce, afin d'obtenir miséricorde et de trouver grâce, pour être secourus dans nos besoins.",
+          "darby": "Approchons-nous donc avec confiance du trône de la grâce, afin que nous recevions miséricorde et que nous trouvions grâce pour avoir du secours au moment opportun."
+        },
+        "interlinear": [
+          {
+            "greek": "προσερχώμεθα",
+            "gloss": "Approchons-nous"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "παρρησίας",
+            "gloss": "assurance/franchise",
+            "analyse": "Le mot *parrhésia* désigne le droit de tout dire, la liberté de parole absolue du citoyen libre. Face à Dieu, ce n'est pas de l'arrogance, mais la fin du 'dolos' (la ruse, le masque dont on parlait au Dimanche de l'Orthodoxie). C'est la posture du 'Sujet' restauré, qui n'a plus peur et s'avance à visage découvert."
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "θρόνῳ",
+            "gloss": "trône"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "χάριτος,",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "λάβωμεν",
+            "gloss": "nous_recevions"
+          },
+          {
+            "greek": "ἔλεος",
+            "gloss": "miséricorde"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "χάριν",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "εὕρωμεν",
+            "gloss": "nous_trouvions"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "εὔκαιρον",
+            "gloss": "opportune/en_temps_utile"
+          },
+          {
+            "greek": "βοήθειαν.",
+            "gloss": "aide/secours"
+          }
+        ]
+      },
+      {
+        "verse_number": "5, 1",
+        "translations": {
+          "segond": "En effet, tout souverain sacrificateur pris du milieu des hommes est établi pour les hommes dans le service de Dieu, afin de présenter des offrandes et des sacrifices pour les péchés.",
+          "darby": "Car tout souverain sacrificateur pris d'entre les hommes, est établi pour les hommes dans les choses qui concernent Dieu, afin qu'il offre et des dons et des sacrifices pour les péchés;"
+        },
+        "interlinear": [
+          {
+            "greek": "Πᾶς",
+            "gloss": "Tout"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἀρχιερεὺς",
+            "gloss": "grand_prêtre"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ἀνθρώπων",
+            "gloss": "les_hommes"
+          },
+          {
+            "greek": "λαμβανόμενος",
+            "gloss": "étant_pris"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ἀνθρώπων",
+            "gloss": "les_hommes"
+          },
+          {
+            "greek": "καθίσταται",
+            "gloss": "est_établi"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "envers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεόν,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_qu'"
+          },
+          {
+            "greek": "προσφέρῃ",
+            "gloss": "il_offre"
+          },
+          {
+            "greek": "δῶρά",
+            "gloss": "des_dons"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "θυσίας",
+            "gloss": "des_sacrifices"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ἁμαρτιῶν,",
+            "gloss": "les_péchés"
+          }
+        ]
+      },
+      {
+        "verse_number": "5, 2",
+        "translations": {
+          "segond": "Il peut être indulgent pour les ignorants et les égarés, puisqu'il est lui-même enveloppé de faiblesse.",
+          "darby": "étant capable de sympathiser avec les ignorants et les égarés, puisqu'il est lui-même aussi enveloppé d'infirmité;"
+        },
+        "interlinear": [
+          {
+            "greek": "μετριοπαθεῖν",
+            "gloss": "être_indulgent/modérer_ses_passions",
+            "analyse": "Souvent traduit par 'être indulgent' ou 'sympathiser', ce verbe (*metriopathein*) signifie littéralement 'mesurer/modérer ses passions'. le vrai prêtre ne réagit pas face aux pécheurs depuis un Ego blessé, moralisateur ou juge (réactions typiques du Monde duel). Il accueille leur fragilité avec constance, instaurant une véritable relation de Sujet à Sujet, libre des violences émotionnelles."
+          },
+          {
+            "greek": "δυνάμενος",
+            "gloss": "étant_capable"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἀγνοοῦσιν",
+            "gloss": "ignorants"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πλανωμένοις,",
+            "gloss": "égarés"
+          },
+          {
+            "greek": "ἐπεὶ",
+            "gloss": "puisque"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "περίκειται",
+            "gloss": "est_enveloppé",
+            "analyse": "Le verbe implique de porter un vêtement lourd tout autour de soi. Celui qui guide les autres ne se place pas dans une supériorité artificielle (un masque). Il assume pleinement son incarnation et son infirmité. Reconnaître cette faiblesse commune est la condition sine qua non pour sortir de l'illusion de supériorité du Monde duel."
+          },
+          {
+            "greek": "ἀσθένειαν,",
+            "gloss": "de_faiblesse"
+          }
+        ]
+      },
+      {
+        "verse_number": "5, 3",
+        "translations": {
+          "segond": "Et c'est à cause de cette faiblesse qu'il doit offrir des sacrifices pour les péchés, pour lui-même aussi bien que pour le peuple.",
+          "darby": "et à cause d'elle, il doit, comme pour le peuple, ainsi aussi pour lui-même, offrir pour les péchés."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "αὐτὴν",
+            "gloss": "elle"
+          },
+          {
+            "greek": "ὀφείλει,",
+            "gloss": "il_doit"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λαοῦ,",
+            "gloss": "peuple"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ἑαυτοῦ",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "προσφέρειν",
+            "gloss": "offrir"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "ἁμαρτιῶν.",
+            "gloss": "péchés"
+          }
+        ]
+      },
+      {
+        "verse_number": "5, 4",
+        "translations": {
+          "segond": "Nul ne s'attribue cette dignité, s'il n'est appelé de Dieu, comme le fut Aaron.",
+          "darby": "Et nul ne s'arroge cet honneur ; mais seulement s'il est appelé de Dieu, ainsi que le fut aussi Aaron."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "οὐχ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἑαυτῷ",
+            "gloss": "à_lui-même"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "λαμβάνει",
+            "gloss": "prend",
+            "analyse": "Le Monde duel fonctionne sur le principe de la préhension : on s'empare des titres, de l'honneur (*timé*) et du pouvoir pour exister et s'objectiver aux yeux des autres. Ici, l'Apôtre renverse cette logique. La véritable autorité spirituelle ne se 'prend' jamais : elle échappe à l'Ego. C'est la différence radicale entre le prédateur mondain et le Sujet authentique."
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "τιμήν,",
+            "gloss": "honneur/dignité"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "καλούμενος",
+            "gloss": "étant_appelé"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καθώσπερ",
+            "gloss": "comme_justement"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "Ἀαρών.",
+            "gloss": "Aaron"
+          }
+        ]
+      },
+      {
+        "verse_number": "5, 5",
+        "translations": {
+          "segond": "Et Christ ne s'est pas non plus attribué la gloire de devenir souverain sacrificateur, mais il la tient de celui qui lui a dit : Tu es mon Fils, Je t'ai engendré aujourd'hui !",
+          "darby": "Ainsi le Christ aussi ne s'est pas glorifié lui-même pour être fait souverain sacrificateur, mais celui-là l'a glorifié qui lui a dit : 'Tu es mon Fils ; moi je t'ai engendré aujourd'hui'."
+        },
+        "interlinear": [
+          {
+            "greek": "Οὕτως",
+            "gloss": "Ainsi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "οὐχ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "ἐδόξασεν",
+            "gloss": "glorifia",
+            "analyse": "Même le Christ incarné n'a pas cherché à s'auto-justifier ni à s'auto-glorifier. L'identité du Fils n'est pas une possession refermée sur elle-même. Son 'Je' est une pure transparence, une relation absolue avec le Père. C'est la signature même du Royaume UN : la Gloire ne s'arrache pas, elle se reçoit perpétuellement de l'Autre en se donnant à Lui."
+          },
+          {
+            "greek": "γενηθῆναι",
+            "gloss": "pour_devenir"
+          },
+          {
+            "greek": "ἀρχιερέα,",
+            "gloss": "grand_prêtre"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "λαλήσας",
+            "gloss": "ayant_parlé"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "à"
+          },
+          {
+            "greek": "αὐτόν·",
+            "gloss": "lui"
+          },
+          {
+            "greek": "Υἱός",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "εἶ",
+            "gloss": "tu_es"
+          },
+          {
+            "greek": "σύ,",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "σήμερον",
+            "gloss": "aujourd'hui"
+          },
+          {
+            "greek": "γεγέννηκά",
+            "gloss": "j'ai_engendré"
+          },
+          {
+            "greek": "σε·",
+            "gloss": "toi"
+          }
+        ]
+      },
+      {
+        "verse_number": "5, 6",
+        "translations": {
+          "segond": "Comme il dit encore ailleurs : Tu es sacrificateur pour toujours, Selon l'ordre de Melchisédek.",
+          "darby": "Comme il dit aussi dans un autre lieu : 'Tu es sacrificateur pour l'éternité, selon l'ordre de Melchisédec'."
+        },
+        "interlinear": [
+          {
+            "greek": "καθὼς",
+            "gloss": "Comme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἑτέρῳ",
+            "gloss": "un_autre"
+          },
+          {
+            "greek": "λέγει·",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "Σὺ",
+            "gloss": "Toi"
+          },
+          {
+            "greek": "ἱερεὺς",
+            "gloss": "prêtre"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "αἰῶνα",
+            "gloss": "éternité"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "τάξιν",
+            "gloss": "ordre"
+          },
+          {
+            "greek": "Μελχισέδεκ.",
+            "gloss": "Melchisédek"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 2 - μετριοπαθεῖν : Rendu par 'indulgent' (Segond) ou 'sympathiser' (Darby). Ces termes ont aujourd'hui une coloration très sentimentale. Le grec désigne plutôt une posture ascétique : la capacité de rester mesuré dans ses propres passions intérieures pour pouvoir supporter l'égarement de l'autre, sans que l'Ego n'entre en réaction.\n• Verset 4 - ἑαυτῷ τις λαμβάνει : 'S'attribue' occulte la brutalité physique du verbe lambano (prendre, s'emparer). L'Apôtre oppose l'acte de prendre (la violence de la volonté propre) à l'acte d'être appelé (kaloumenos), qui relève de l'écoute obéissante.\n• Verset 5 - ἐδόξασεν : La traduction par 's'attribuer la gloire' efface le verbe central du christianisme (doxa/doxazein). Le Christ ne s'est pas 'glorifié' lui-même. La doxa n'est pas une réputation humaine, c'est l'Énergie divine incréée.\n\nAnalyse spirituelle :\nEn ce troisième dimanche du Carême, l'Église place la Croix au milieu du temple. Ce texte de l'Épître aux Hébreux nous révèle la nature profonde du mystère de la Croix. Elle n'est pas un règlement de compte juridique, ni un dolorisme. Elle est l'acte sacerdotal par excellence. \n\nDans le 'Monde duel', la religion est souvent perçue comme un moyen de se séparer des autres, de se croire pur et de juger les ignorants. Le véritable sacerdoce est l'exact inverse : il s'agit de se savoir 'enveloppé d'infirmité', de refuser de 'prendre' des honneurs pour soi-même, et de se tenir devant Dieu au nom de tous. C'est ce que fait le Christ. Sur la Croix, Il ne s'arroge rien, Il livre totalement Son Ego humain pour que le Sujet divin resplendisse en transparence. L'Ordre de Melchisédek (mystérieux roi de paix sans généalogie) est la métaphore parfaite du Royaume UN : un état d'être où le pouvoir ne s'arrache plus à l'autre par la force, mais où l'on devient roi et prêtre par la filiation ('Tu es mon Fils, je t'ai engendré aujourd'hui'). La vénération de la Croix est une invitation à entrer, nous aussi, dans cette structure sacrificielle : accepter notre faiblesse pour devenir des Sujets capables d'amour véritable.",
+    "homiletic_axes": [
+      {
+        "title": "Suivre le Christ en recevant sa Croix",
+        "content": "Se renier et prendre sa croix ne signifie pas mépriser la personne, mais cesser de faire du moi la mesure de toute chose. Le disciple reçoit sa vie du Christ en la lui confiant.",
+        "keywords": [
+          "ἀπαρνέομαι — se renier",
+          "ἀκολουθέω — suivre",
+          "σταυρός — croix"
+        ]
+      },
+      {
+        "title": "Perdre pour sauver",
+        "content": "L’Évangile place en tension perdre et sauver la vie. Hébreux montre le Christ traversant les cieux tout en compatissant à nos faiblesses : la Croix unit l’abaissement solidaire et l’accès au Père.",
+        "keywords": [
+          "ψυχή — vie/âme",
+          "σῴζω — sauver",
+          "συμπαθέω — compatir"
+        ]
+      },
+      {
+        "title": "S’approcher avec assurance du trône de la grâce",
+        "content": "Le renoncement chrétien n’est pas une performance solitaire. Parce que Jésus est le grand prêtre éprouvé sans péché, nous pouvons nous approcher avec assurance pour recevoir miséricorde, grâce et secours au moment opportun.",
+        "keywords": [
+          "παρρησία — assurance",
+          "ἔλεος — miséricorde",
+          "εὔκαιρος — opportun"
+        ]
+      },
+      {
+        "title": "La Croix, centre et passage",
+        "content": "Placée au milieu du Carême, la Croix soutient le chemin vers Pâques comme l’arbre de vie au milieu de l’Éden. Elle ne clôt pas le mouvement : elle fait passer de la conservation de soi à la communion et à la Résurrection.",
+        "keywords": [
+          "ξύλον ζωῆς — arbre de vie",
+          "μέσον — milieu",
+          "ἀνάστασις — résurrection"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la Croix portée au trône de la grâce",
+        "reference": "Marc 8, 34 - 9, 1 ; Hébreux 4, 14 - 5, 6",
+        "content": "Le Christ appelle à le suivre sur le chemin de la Croix ; l’Apôtre révèle qu’il l’a parcouru comme grand prêtre compatissant et qu’il ouvre désormais l’accès confiant à la grâce.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Vénération de la Sainte Croix » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 2 - μετριοπαθεῖν : Rendu par 'indulgent' (Segond) ou 'sympathiser' (Darby). Ces termes ont aujourd'hui une coloration très sentimentale. Le grec désigne plutôt une posture ascétique : la capacité de rester mesuré dans ses propres passions intérieures pour pouvoir supporter l'égarement de l'autre, sans que l'Ego n'entre en réaction.\n• Verset 4 - ἑαυτῷ τις λαμβάνει : 'S'attribue' occulte la brutalité physique du verbe lambano (prendre, s'emparer). L'Apôtre oppose l'acte de prendre (la violence de la volonté propre) à l'acte d'être appelé (kaloumenos), qui relève de l'écoute obéissante.\n• Verset 5 - ἐδόξασεν : La traduction par 's'attribuer la gloire' efface le verbe central du christianisme (doxa/doxazein). Le Christ ne s'est pas 'glorifié' lui-même. La doxa n'est pas une réputation humaine, c'est l'Énergie divine incréée.\n\nAnalyse spirituelle :\nEn ce troisième dimanche du Carême, l'Église place la Croix au milieu du temple. Ce texte de l'Épître aux Hébreux nous révèle la nature profonde du mystère de la Croix. Elle n'est pas un règlement de compte juridique, ni un dolorisme. Elle est l'acte sacerdotal par excellence. \n\nDans le 'Monde duel', la religion est souvent perçue comme un moyen de se séparer des autres, de se croire pur et de juger les ignorants. Le véritable sacerdoce est l'exact inverse : il s'agit de se savoir 'enveloppé d'infirmité', de refuser de 'prendre' des honneurs pour soi-même, et de se tenir devant Dieu au nom de tous. C'est ce que fait le Christ. Sur la Croix, Il ne s'arroge rien, Il livre totalement Son Ego humain pour que le Sujet divin resplendisse en transparence. L'Ordre de Melchisédek (mystérieux roi de paix sans généalogie) est la métaphore parfaite du Royaume UN : un état d'être où le pouvoir ne s'arrache plus à l'autre par la force, mais où l'on devient roi et prêtre par la filiation ('Tu es mon Fils, je t'ai engendré aujourd'hui'). La vénération de la Croix est une invitation à entrer, nous aussi, dans cette structure sacrificielle : accepter notre faiblesse pour devenir des Sujets capables d'amour véritable." 
-}    
 }
