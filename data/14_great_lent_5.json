@@ -10,38 +10,135 @@
           "darby": "Or ils étaient en chemin, montant à Jérusalem, et Jésus allait devant eux ; et ils étaient stupéfaits, et le suivaient avec crainte. Et prenant encore les douze à lui, il se mit à leur dire les choses qui devaient lui arriver :"
         },
         "interlinear": [
-          { "greek": "Ἦσαν", "gloss": "Ils_étaient" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐν", "gloss": "sur" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "ὁδῷ", "gloss": "chemin" },
-          { "greek": "ἀναβαίνοντες", "gloss": "montant" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "Ἱεροσόλυμα,", "gloss": "Jérusalem" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "προάγων", "gloss": "allant_devant" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς,", "gloss": "Jésus" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐθαμβοῦντο,", "gloss": "ils_étaient_stupéfaits", "analyse": "L'étonnement et la peur des disciples (ethambounto / ephobounto) face à la montée vers Jérusalem ne sont pas de simples émotions. C'est l'Ego qui pressent instinctivement sa propre fin. La perspective de la Croix terrifie le Monde duel car elle annonce l'effondrement de toutes ses stratégies de survie et de pouvoir." },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἀκολουθοῦντες", "gloss": "qui_suivaient" },
-          { "greek": "ἐφοβοῦντο.", "gloss": "étaient_effrayés" },
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "παραλαβὼν", "gloss": "ayant_pris_avec_lui" },
-          { "greek": "πάλιν", "gloss": "de_nouveau" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "δώδεκα", "gloss": "douze" },
-          { "greek": "ἤρξατο", "gloss": "il_commença" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "λέγειν", "gloss": "à_dire" },
-          { "greek": "τὰ", "gloss": "les_choses" },
-          { "greek": "μέλλοντα", "gloss": "devant" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "συμβαίνειν,", "gloss": "arriver" }
+          {
+            "greek": "Ἦσαν",
+            "gloss": "Ils_étaient"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὁδῷ",
+            "gloss": "chemin"
+          },
+          {
+            "greek": "ἀναβαίνοντες",
+            "gloss": "montant"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "Ἱεροσόλυμα,",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "προάγων",
+            "gloss": "allant_devant"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐθαμβοῦντο,",
+            "gloss": "ils_étaient_stupéfaits",
+            "analyse": "L'étonnement et la peur des disciples (ethambounto / ephobounto) face à la montée vers Jérusalem ne sont pas de simples émotions. C'est l'Ego qui pressent instinctivement sa propre fin. La perspective de la Croix terrifie le Monde duel car elle annonce l'effondrement de toutes ses stratégies de survie et de pouvoir."
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀκολουθοῦντες",
+            "gloss": "qui_suivaient"
+          },
+          {
+            "greek": "ἐφοβοῦντο.",
+            "gloss": "étaient_effrayés"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "παραλαβὼν",
+            "gloss": "ayant_pris_avec_lui"
+          },
+          {
+            "greek": "πάλιν",
+            "gloss": "de_nouveau"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δώδεκα",
+            "gloss": "douze"
+          },
+          {
+            "greek": "ἤρξατο",
+            "gloss": "il_commença"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "λέγειν",
+            "gloss": "à_dire"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_choses"
+          },
+          {
+            "greek": "μέλλοντα",
+            "gloss": "devant"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "συμβαίνειν,",
+            "gloss": "arriver"
+          }
         ]
       },
       {
@@ -51,31 +148,106 @@
           "darby": "Voici, nous montons à Jérusalem, et le fils de l'homme sera livré aux principaux sacrificateurs et aux scribes ; et ils le condamneront à mort, et le livreront aux nations ;"
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ἰδοὺ", "gloss": "Voici" },
-          { "greek": "ἀναβαίνομεν", "gloss": "nous_montons" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "Ἱεροσόλυμα,", "gloss": "Jérusalem" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "υἱὸς", "gloss": "fils" },
-          { "greek": "τοῦ", "gloss": "de_l'" },
-          { "greek": "ἀνθρώπου", "gloss": "homme" },
-          { "greek": "παραδοθήσεται", "gloss": "sera_livré" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "ἀρχιερεῦσιν", "gloss": "grands_prêtres" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "γραμματεῦσιν,", "gloss": "scribes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "κατακρινοῦσιν", "gloss": "ils_condamneront" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "θανάτῳ", "gloss": "à_mort" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "παραδώσουσιν", "gloss": "ils_livreront" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "ἔθνεσιν,", "gloss": "nations/païens" }
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Ἰδοὺ",
+            "gloss": "Voici"
+          },
+          {
+            "greek": "ἀναβαίνομεν",
+            "gloss": "nous_montons"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "Ἱεροσόλυμα,",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "homme"
+          },
+          {
+            "greek": "παραδοθήσεται",
+            "gloss": "sera_livré"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἀρχιερεῦσιν",
+            "gloss": "grands_prêtres"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "γραμματεῦσιν,",
+            "gloss": "scribes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κατακρινοῦσιν",
+            "gloss": "ils_condamneront"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "θανάτῳ",
+            "gloss": "à_mort"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παραδώσουσιν",
+            "gloss": "ils_livreront"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἔθνεσιν,",
+            "gloss": "nations/païens"
+          }
         ]
       },
       {
@@ -85,22 +257,70 @@
           "darby": "et ils se moqueront de lui, et le fouetteront, et cracheront contre lui, et le feront mourir ; et, le troisième jour, il ressuscitera."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐμπαίξουσιν", "gloss": "ils_se_moqueront" },
-          { "greek": "αὐτῷ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐμπτύσουσιν", "gloss": "ils_cracheront" },
-          { "greek": "αὐτῷ", "gloss": "sur_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μαστιγώσουσιν", "gloss": "ils_fouetteront" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀποκτενοῦσιν,", "gloss": "ils_tueront" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μετὰ", "gloss": "après" },
-          { "greek": "τρεῖς", "gloss": "trois" },
-          { "greek": "ἡμέρας", "gloss": "jours" },
-          { "greek": "ἀναστήσεται.", "gloss": "il_ressuscitera" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐμπαίξουσιν",
+            "gloss": "ils_se_moqueront"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐμπτύσουσιν",
+            "gloss": "ils_cracheront"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "sur_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μαστιγώσουσιν",
+            "gloss": "ils_fouetteront"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποκτενοῦσιν,",
+            "gloss": "ils_tueront"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "après"
+          },
+          {
+            "greek": "τρεῖς",
+            "gloss": "trois"
+          },
+          {
+            "greek": "ἡμέρας",
+            "gloss": "jours"
+          },
+          {
+            "greek": "ἀναστήσεται.",
+            "gloss": "il_ressuscitera"
+          }
         ]
       },
       {
@@ -110,26 +330,87 @@
           "darby": "Et Jacques et Jean, les fils de Zébédée, viennent à lui, disant : Maître, nous voudrions que, quoi que ce soit que nous te demandions, tu le fasses pour nous."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "προσπορεύονται", "gloss": "s'approchent" },
-          { "greek": "αὐτῷ", "gloss": "de_lui" },
-          { "greek": "Ἰάκωβος", "gloss": "Jacques" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰωάννης", "gloss": "Jean" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "υἱοὶ", "gloss": "fils" },
-          { "greek": "Ζεβεδαίου", "gloss": "de_Zébédée" },
-          { "greek": "λέγοντες", "gloss": "disant" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Διδάσκαλε,", "gloss": "Maître" },
-          { "greek": "θέλομεν", "gloss": "nous_voulons", "analyse": "Le 'nous voulons' (thelomen) des fils de Zébédée est le mouvement classique de la préhension égotique. Ils cherchent à capter la toute-puissance divine pour servir leurs propres ambitions terrestres, instrumentalisant Dieu pour consolider leur position dans le Monde duel." },
-          { "greek": "ἵνα", "gloss": "que" },
-          { "greek": "ὃ", "gloss": "ce_que" },
-          { "greek": "ἐὰν", "gloss": "si" },
-          { "greek": "αἰτήσωμέν", "gloss": "nous_demandions" },
-          { "greek": "σε", "gloss": "à_toi" },
-          { "greek": "ποιήσῃς", "gloss": "tu_fasses" },
-          { "greek": "ἡμῖν.", "gloss": "pour_nous" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "προσπορεύονται",
+            "gloss": "s'approchent"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ἰάκωβος",
+            "gloss": "Jacques"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰωάννης",
+            "gloss": "Jean"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "υἱοὶ",
+            "gloss": "fils"
+          },
+          {
+            "greek": "Ζεβεδαίου",
+            "gloss": "de_Zébédée"
+          },
+          {
+            "greek": "λέγοντες",
+            "gloss": "disant"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Διδάσκαλε,",
+            "gloss": "Maître"
+          },
+          {
+            "greek": "θέλομεν",
+            "gloss": "nous_voulons",
+            "analyse": "Le 'nous voulons' (thelomen) des fils de Zébédée est le mouvement classique de la préhension égotique. Ils cherchent à capter la toute-puissance divine pour servir leurs propres ambitions terrestres, instrumentalisant Dieu pour consolider leur position dans le Monde duel."
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "que"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "αἰτήσωμέν",
+            "gloss": "nous_demandions"
+          },
+          {
+            "greek": "σε",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ποιήσῃς",
+            "gloss": "tu_fasses"
+          },
+          {
+            "greek": "ἡμῖν.",
+            "gloss": "pour_nous"
+          }
         ]
       },
       {
@@ -139,15 +420,42 @@
           "darby": "Et il leur dit : Que voulez-vous que je fasse pour vous ?"
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Τί", "gloss": "Que" },
-          { "greek": "θέλετέ", "gloss": "voulez-vous" },
-          { "greek": "με", "gloss": "que_je" },
-          { "greek": "ποιήσω", "gloss": "fasse" },
-          { "greek": "ὑμῖν;", "gloss": "pour_vous" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "Que"
+          },
+          {
+            "greek": "θέλετέ",
+            "gloss": "voulez-vous"
+          },
+          {
+            "greek": "με",
+            "gloss": "que_je"
+          },
+          {
+            "greek": "ποιήσω",
+            "gloss": "fasse"
+          },
+          {
+            "greek": "ὑμῖν;",
+            "gloss": "pour_vous"
+          }
         ]
       },
       {
@@ -157,26 +465,86 @@
           "darby": "Et ils lui dirent : Accorde-nous de nous asseoir, l'un à ta droite et l'un à ta gauche, dans ta gloire."
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Les" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπαν", "gloss": "dirent" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Δὸς", "gloss": "Donne" },
-          { "greek": "ἡμῖν", "gloss": "à_nous" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "εἷς", "gloss": "un" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἐκ", "gloss": "à" },
-          { "greek": "δεξιῶν", "gloss": "droite" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἷς", "gloss": "un" },
-          { "greek": "ἐξ", "gloss": "à" },
-          { "greek": "ἀριστερῶν", "gloss": "gauche" },
-          { "greek": "καθίσωμεν", "gloss": "nous_nous_asseyions" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "δόξῃ", "gloss": "gloire" },
-          { "greek": "σου.", "gloss": "de_toi" }
+          {
+            "greek": "οἱ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπαν",
+            "gloss": "dirent"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Δὸς",
+            "gloss": "Donne"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "à_nous"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "à"
+          },
+          {
+            "greek": "δεξιῶν",
+            "gloss": "droite"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "à"
+          },
+          {
+            "greek": "ἀριστερῶν",
+            "gloss": "gauche"
+          },
+          {
+            "greek": "καθίσωμεν",
+            "gloss": "nous_nous_asseyions"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δόξῃ",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "σου.",
+            "gloss": "de_toi"
+          }
         ]
       },
       {
@@ -186,29 +554,98 @@
           "darby": "Et Jésus leur dit : Vous ne savez ce que vous demandez. Pouvez-vous boire la coupe que je bois, ou être baptisés du baptême dont je serai baptisé ?"
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Οὐκ", "gloss": "Ne...pas" },
-          { "greek": "οἴδατε", "gloss": "vous_savez" },
-          { "greek": "τί", "gloss": "ce_que" },
-          { "greek": "αἰτεῖσθε.", "gloss": "vous_demandez" },
-          { "greek": "δύνασθε", "gloss": "pouvez-vous" },
-          { "greek": "πιεῖν", "gloss": "boire" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "ποτήριον", "gloss": "coupe" },
-          { "greek": "ὃ", "gloss": "que" },
-          { "greek": "ἐγὼ", "gloss": "je" },
-          { "greek": "πίνω,", "gloss": "bois" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "βάπτισμα", "gloss": "baptême" },
-          { "greek": "ὃ", "gloss": "dont" },
-          { "greek": "ἐγὼ", "gloss": "je" },
-          { "greek": "βαπτίζομαι", "gloss": "suis_baptisé" },
-          { "greek": "βαπτισθῆναι;", "gloss": "être_baptisés" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Οὐκ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "οἴδατε",
+            "gloss": "vous_savez"
+          },
+          {
+            "greek": "τί",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "αἰτεῖσθε.",
+            "gloss": "vous_demandez"
+          },
+          {
+            "greek": "δύνασθε",
+            "gloss": "pouvez-vous"
+          },
+          {
+            "greek": "πιεῖν",
+            "gloss": "boire"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ποτήριον",
+            "gloss": "coupe"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "je"
+          },
+          {
+            "greek": "πίνω,",
+            "gloss": "bois"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βάπτισμα",
+            "gloss": "baptême"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "dont"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "je"
+          },
+          {
+            "greek": "βαπτίζομαι",
+            "gloss": "suis_baptisé"
+          },
+          {
+            "greek": "βαπτισθῆναι;",
+            "gloss": "être_baptisés"
+          }
         ]
       },
       {
@@ -218,29 +655,98 @@
           "darby": "Et ils lui dirent : Nous le pouvons. Et Jésus leur dit : Vous boirez bien la coupe que je bois, et vous serez baptisés du baptême dont je serai baptisé ;"
         },
         "interlinear": [
-          { "greek": "οἱ", "gloss": "Les" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπαν", "gloss": "dirent" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Δυνάμεθα.", "gloss": "Nous_pouvons" },
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Τὸ", "gloss": "La" },
-          { "greek": "ποτήριον", "gloss": "coupe" },
-          { "greek": "ὃ", "gloss": "que" },
-          { "greek": "ἐγὼ", "gloss": "je" },
-          { "greek": "πίνω", "gloss": "bois" },
-          { "greek": "πίεσθε", "gloss": "vous_boirez" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "βάπτισμα", "gloss": "baptême" },
-          { "greek": "ὃ", "gloss": "dont" },
-          { "greek": "ἐγὼ", "gloss": "je" },
-          { "greek": "βαπτίζομαι", "gloss": "suis_baptisé" },
-          { "greek": "βαπτισθήσεσθε·", "gloss": "vous_serez_baptisés" }
+          {
+            "greek": "οἱ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπαν",
+            "gloss": "dirent"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Δυνάμεθα.",
+            "gloss": "Nous_pouvons"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Τὸ",
+            "gloss": "La"
+          },
+          {
+            "greek": "ποτήριον",
+            "gloss": "coupe"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "je"
+          },
+          {
+            "greek": "πίνω",
+            "gloss": "bois"
+          },
+          {
+            "greek": "πίεσθε",
+            "gloss": "vous_boirez"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βάπτισμα",
+            "gloss": "baptême"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "dont"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "je"
+          },
+          {
+            "greek": "βαπτίζομαι",
+            "gloss": "suis_baptisé"
+          },
+          {
+            "greek": "βαπτισθήσεσθε·",
+            "gloss": "vous_serez_baptisés"
+          }
         ]
       },
       {
@@ -250,22 +756,70 @@
           "darby": "mais de s'asseoir à ma droite ou à ma gauche, n'est pas à moi pour le donner, sinon à ceux pour qui cela est préparé."
         },
         "interlinear": [
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "καθίσαι", "gloss": "s'asseoir" },
-          { "greek": "ἐκ", "gloss": "à" },
-          { "greek": "δεξιῶν", "gloss": "droite" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "ἢ", "gloss": "ou" },
-          { "greek": "ἐξ", "gloss": "à" },
-          { "greek": "εὐωνύμων", "gloss": "gauche" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἔστιν", "gloss": "est" },
-          { "greek": "ἐμὸν", "gloss": "à_moi" },
-          { "greek": "δοῦναι,", "gloss": "de_donner" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "οἷς", "gloss": "à_ceux_pour_qui" },
-          { "greek": "ἡτοίμασται.", "gloss": "cela_a_été_préparé" }
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καθίσαι",
+            "gloss": "s'asseoir"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "à"
+          },
+          {
+            "greek": "δεξιῶν",
+            "gloss": "droite"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "à"
+          },
+          {
+            "greek": "εὐωνύμων",
+            "gloss": "gauche"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἐμὸν",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "δοῦναι,",
+            "gloss": "de_donner"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οἷς",
+            "gloss": "à_ceux_pour_qui"
+          },
+          {
+            "greek": "ἡτοίμασται.",
+            "gloss": "cela_a_été_préparé"
+          }
         ]
       },
       {
@@ -275,16 +829,47 @@
           "darby": "Et les dix, ayant entendu cela, se mirent à s'indigner contre Jacques et Jean."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἀκούσαντες", "gloss": "ayant_entendu" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "δέκα", "gloss": "dix" },
-          { "greek": "ἤρξαντο", "gloss": "commencèrent" },
-          { "greek": "ἀγανακτεῖν", "gloss": "à_s'indigner", "analyse": "L'indignation des dix autres n'est pas une saine justice, mais de la rivalité mimétique. Dans le Monde duel, si quelqu'un cherche à prendre la place dominante, l'Ego des autres se sent immédiatement menacé et réagit par le conflit." },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "Ἰακώβου", "gloss": "Jacques" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰωάννου.", "gloss": "Jean" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀκούσαντες",
+            "gloss": "ayant_entendu"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δέκα",
+            "gloss": "dix"
+          },
+          {
+            "greek": "ἤρξαντο",
+            "gloss": "commencèrent"
+          },
+          {
+            "greek": "ἀγανακτεῖν",
+            "gloss": "à_s'indigner",
+            "analyse": "L'indignation des dix autres n'est pas une saine justice, mais de la rivalité mimétique. Dans le Monde duel, si quelqu'un cherche à prendre la place dominante, l'Ego des autres se sent immédiatement menacé et réagit par le conflit."
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "Ἰακώβου",
+            "gloss": "Jacques"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰωάννου.",
+            "gloss": "Jean"
+          }
         ]
       },
       {
@@ -294,28 +879,95 @@
           "darby": "Mais Jésus, les ayant appelés auprès de lui, leur dit : Vous savez que ceux qui sont reconnus pour gouverner les nations, dominent sur elles, et que les grands d'entre eux usent d'autorité sur elles;"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "προσκαλεσάμενος", "gloss": "ayant_appelé_à_lui" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Οἴδατε", "gloss": "Vous_savez" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "δοκοῦντες", "gloss": "paraissant" },
-          { "greek": "ἄρχειν", "gloss": "gouverner" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ἐθνῶν", "gloss": "nations" },
-          { "greek": "κατακυριεύουσιν", "gloss": "dominent/tyrannisent", "analyse": "Le verbe *katakurieuo* signifie dominer de haut en bas, assujettir. C'est la structure fondamentale de la société humaine aliénée : le pouvoir y est toujours un rapport de force où l'autre est objectivé, réduit à un moyen ou un inférieur. C'est l'essence même de l'Enfer relationnel." },
-          { "greek": "αὐτῶν", "gloss": "d'elles" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μεγάλοι", "gloss": "grands" },
-          { "greek": "αὐτῶν", "gloss": "d'elles" },
-          { "greek": "κατεξουσιάζουσιν", "gloss": "exercent_l'autorité_sur" },
-          { "greek": "αὐτῶν.", "gloss": "elles" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "προσκαλεσάμενος",
+            "gloss": "ayant_appelé_à_lui"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Οἴδατε",
+            "gloss": "Vous_savez"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "δοκοῦντες",
+            "gloss": "paraissant"
+          },
+          {
+            "greek": "ἄρχειν",
+            "gloss": "gouverner"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐθνῶν",
+            "gloss": "nations"
+          },
+          {
+            "greek": "κατακυριεύουσιν",
+            "gloss": "dominent/tyrannisent",
+            "analyse": "Le verbe *katakurieuo* signifie dominer de haut en bas, assujettir. C'est la structure fondamentale de la société humaine aliénée : le pouvoir y est toujours un rapport de force où l'autre est objectivé, réduit à un moyen ou un inférieur. C'est l'essence même de l'Enfer relationnel."
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'elles"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μεγάλοι",
+            "gloss": "grands"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'elles"
+          },
+          {
+            "greek": "κατεξουσιάζουσιν",
+            "gloss": "exercent_l'autorité_sur"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "elles"
+          }
         ]
       },
       {
@@ -325,23 +977,74 @@
           "darby": "mais il n'en est pas ainsi parmi vous ; mais quiconque voudra devenir grand parmi vous, sera votre serviteur,"
         },
         "interlinear": [
-          { "greek": "οὐχ", "gloss": "Non" },
-          { "greek": "οὕτως", "gloss": "ainsi" },
-          { "greek": "δέ", "gloss": "or/mais" },
-          { "greek": "ἐστιν", "gloss": "il_est" },
-          { "greek": "ἐν", "gloss": "parmi" },
-          { "greek": "ὑμῖν·", "gloss": "vous" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "ὃς", "gloss": "celui" },
-          { "greek": "ἂν", "gloss": "qui" },
-          { "greek": "θέλῃ", "gloss": "voudra" },
-          { "greek": "μέγας", "gloss": "grand" },
-          { "greek": "γενέσθαι", "gloss": "devenir" },
-          { "greek": "ἐν", "gloss": "parmi" },
-          { "greek": "ὑμῖν,", "gloss": "vous" },
-          { "greek": "ἔσται", "gloss": "sera" },
-          { "greek": "ὑμῶν", "gloss": "de_vous" },
-          { "greek": "διάκονος,", "gloss": "serviteur" }
+          {
+            "greek": "οὐχ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ὑμῖν·",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "qui"
+          },
+          {
+            "greek": "θέλῃ",
+            "gloss": "voudra"
+          },
+          {
+            "greek": "μέγας",
+            "gloss": "grand"
+          },
+          {
+            "greek": "γενέσθαι",
+            "gloss": "devenir"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἔσται",
+            "gloss": "sera"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "διάκονος,",
+            "gloss": "serviteur"
+          }
         ]
       },
       {
@@ -351,17 +1054,50 @@
           "darby": "et quiconque d'entre vous voudra être le premier, sera l'esclave de tous."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὃς", "gloss": "celui" },
-          { "greek": "ἂν", "gloss": "qui" },
-          { "greek": "θέλῃ", "gloss": "voudra" },
-          { "greek": "ἐν", "gloss": "parmi" },
-          { "greek": "ὑμῖν", "gloss": "vous" },
-          { "greek": "εἶναι", "gloss": "être" },
-          { "greek": "πρῶτος,", "gloss": "premier" },
-          { "greek": "ἔσται", "gloss": "sera" },
-          { "greek": "πάντων", "gloss": "de_tous" },
-          { "greek": "δοῦλος·", "gloss": "esclave" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "qui"
+          },
+          {
+            "greek": "θέλῃ",
+            "gloss": "voudra"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "εἶναι",
+            "gloss": "être"
+          },
+          {
+            "greek": "πρῶτος,",
+            "gloss": "premier"
+          },
+          {
+            "greek": "ἔσται",
+            "gloss": "sera"
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "de_tous"
+          },
+          {
+            "greek": "δοῦλος·",
+            "gloss": "esclave"
+          }
         ]
       },
       {
@@ -371,31 +1107,188 @@
           "darby": "Car aussi le fils de l'homme n'est pas venu pour être servi, mais pour servir et pour donner sa vie en rançon pour plusieurs."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Car" },
-          { "greek": "γὰρ", "gloss": "aussi" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "υἱὸς", "gloss": "fils" },
-          { "greek": "τοῦ", "gloss": "de_l'" },
-          { "greek": "ἀνθρώπου", "gloss": "homme" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἦλθεν", "gloss": "est_venu" },
-          { "greek": "διακονηθῆναι", "gloss": "pour_être_servi" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "διακονῆσαι", "gloss": "pour_servir" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δοῦναι", "gloss": "donner" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ψυχὴν", "gloss": "vie/âme" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "λύτρον", "gloss": "en_rançon", "analyse": "Le lutron (prix de rachat) n'est pas une transaction commerciale avec un Dieu en colère. C'est le prix de notre libération des chaînes de l'Ego. En offrant sa propre vie (kénose totale), le Christ fait exploser le système de prédation du monde duel de l'intérieur, instaurant l'espace d'une communion gratuite : le Royaume UN." },
-          { "greek": "ἀντὶ", "gloss": "pour" },
-          { "greek": "πολλῶν.", "gloss": "beaucoup" }
+          {
+            "greek": "καὶ",
+            "gloss": "Car"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "homme"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "est_venu"
+          },
+          {
+            "greek": "διακονηθῆναι",
+            "gloss": "pour_être_servi"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "διακονῆσαι",
+            "gloss": "pour_servir"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δοῦναι",
+            "gloss": "donner"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ψυχὴν",
+            "gloss": "vie/âme"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "λύτρον",
+            "gloss": "en_rançon",
+            "analyse": "Le lutron (prix de rachat) n'est pas une transaction commerciale avec un Dieu en colère. C'est le prix de notre libération des chaînes de l'Ego. En offrant sa propre vie (kénose totale), le Christ fait exploser le système de prédation du monde duel de l'intérieur, instaurant l'espace d'une communion gratuite : le Royaume UN."
+          },
+          {
+            "greek": "ἀντὶ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "πολλῶν.",
+            "gloss": "beaucoup"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 32 - ἐθαμβοῦντο : Traduit par 'troublés' ou 'stupéfaits'. Le verbe grec indique une stupeur proche de la terreur panique. Il ne s'agit pas d'une simple incompréhension intellectuelle, mais d'un saisissement devant la disproportion absolue entre l'Ego qui se protège et le Christ qui marche volontairement à la mort.\n• Verset 42 - κατακυριεύουσιν : Le mot grec insiste lourdement sur la verticalité écrasante du pouvoir mondain ('être seigneurs par-dessus').\n\nAnalyse spirituelle :\nCe passage est le diagnostic le plus fulgurant du Christ sur la maladie humaine. La montée vers Jérusalem révèle le gouffre qui sépare le 'Monde duel' (dans lequel pataugent encore les apôtres) du 'Royaume UN'. \n\nLes disciples entendent parler de la mort et de la résurrection, mais leur logiciel interne traduit cela en termes de pouvoir : ils demandent des places, des honneurs, ils veulent siéger à droite et à gauche. Ils conçoivent la spiritualité comme une entreprise de domination spirituelle. C'est le fonctionnement classique de l'Ego : objectiver l'autre pour s'élever soi-même. Jésus déconstruit cette illusion avec une radicalité absolue. Le pouvoir terrestre est une oppression tyrannique. Dans la réalité du Royaume, la gloire est la kénose : le service, le fait de se faire le plus petit, de descendre au lieu de monter. L'Incarnation n'est pas venue instaurer une nouvelle hiérarchie mondaine, elle est venue libérer l'homme de sa folie de possession pour en faire un Sujet capable de se donner librement."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 32 - ἐθαμβοῦντο : Traduit par 'troublés' ou 'stupéfaits'. Le verbe grec indique une stupeur proche de la terreur panique. Il ne s'agit pas d'une simple incompréhension intellectuelle, mais d'un saisissement devant la disproportion absolue entre l'Ego qui se protège et le Christ qui marche volontairement à la mort.\n• Verset 42 - κατακυριεύουσιν : Le mot grec insiste lourdement sur la verticalité écrasante du pouvoir mondain ('être seigneurs par-dessus').\n\nAnalyse spirituelle :\nCe passage est le diagnostic le plus fulgurant du Christ sur la maladie humaine. La montée vers Jérusalem révèle le gouffre qui sépare le 'Monde duel' (dans lequel pataugent encore les apôtres) du 'Royaume UN'. \n\nLes disciples entendent parler de la mort et de la résurrection, mais leur logiciel interne traduit cela en termes de pouvoir : ils demandent des places, des honneurs, ils veulent siéger à droite et à gauche. Ils conçoivent la spiritualité comme une entreprise de domination spirituelle. C'est le fonctionnement classique de l'Ego : objectiver l'autre pour s'élever soi-même. Jésus déconstruit cette illusion avec une radicalité absolue. Le pouvoir terrestre est une oppression tyrannique. Dans la réalité du Royaume, la gloire est la kénose : le service, le fait de se faire le plus petit, de descendre au lieu de monter. L'Incarnation n'est pas venue instaurer une nouvelle hiérarchie mondaine, elle est venue libérer l'homme de sa folie de possession pour en faire un Sujet capable de se donner librement.",
+    "homiletic_axes": [
+      {
+        "title": "Monter avec le Christ vers Jérusalem",
+        "content": "Jésus marche en avant vers sa Passion et instruit les Douze. La montée n’est pas recherche de prestige : elle conduit au don de soi, à la mort et à la Résurrection.",
+        "keywords": [
+          "ἀναβαίνω — monter",
+          "παραδίδωμι — livrer",
+          "ἀνίστημι — ressusciter"
+        ]
+      },
+      {
+        "title": "Boire la coupe et recevoir le baptême du Christ",
+        "content": "Jacques et Jean désirent les premières places ; Jésus leur parle de sa coupe et de son baptême. Le chemin de la gloire passe par la communion libre à son abaissement et à son amour.",
+        "keywords": [
+          "ποτήριον — coupe",
+          "βάπτισμα — baptême",
+          "δόξα — gloire"
+        ]
+      },
+      {
+        "title": "Le grand prêtre entre avec son propre sang",
+        "content": "Hébreux montre le Christ traversant le sanctuaire non avec le sang d’animaux, mais avec son propre sang. Le service annoncé dans l’Évangile est accompli par celui qui donne sa vie en rançon pour la multitude.",
+        "keywords": [
+          "ἀρχιερεύς — grand prêtre",
+          "αἷμα — sang",
+          "λύτρον — rançon"
+        ]
+      },
+      {
+        "title": "De la domination au service",
+        "content": "Le Christ oppose le pouvoir qui domine à la grandeur de celui qui sert. Sainte Marie l’Égyptienne manifeste cette conversion du désir : une vie autrefois centrée sur elle-même devient offrande, ascèse et disponibilité à Dieu.",
+        "keywords": [
+          "κατακυριεύω — dominer",
+          "διάκονος — serviteur",
+          "δοῦλος — esclave"
+        ]
+      },
+      {
+        "title": "Revêtir le Christ : lecture propre de la sainte",
+        "content": "Galates 3,23-29, lecture propre transmise dans le document fourni, ne remplace pas Hébreux 9. Elle éclaire toutefois la transformation baptismale : être fils par la foi, revêtir le Christ et devenir un en lui.",
+        "keywords": [
+          "ἐνδύω — revêtir",
+          "υἱὸς Θεοῦ — fils de Dieu",
+          "εἷς ἐν Χριστῷ — un dans le Christ"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Le Fils sert et entre une fois pour toutes",
+        "reference": "Marc 10, 32-45 ; Hébreux 9, 11-14",
+        "content": "Jésus annonce le don de sa vie et renverse la logique du pouvoir ; Hébreux révèle l’efficacité de cette offrande sacerdotale qui purifie la conscience pour servir le Dieu vivant.",
+        "connections": []
+      },
+      {
+        "title": "Lecture propre de sainte Marie l’Égyptienne",
+        "reference": "Galates 3, 23-29",
+        "content": "Cette lecture complémentaire associe la mémoire de la sainte au baptême, au revêtement du Christ, à la filiation et à l’unité en lui. Elle est signalée comme lecture propre, sans modifier le couple dominical.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Sainte Marie l’Égyptienne » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Hébreux 9, 11-14",
     "title": "Le passage du sanctuaire créé au Royaume Incréé",
     "interlinear": [
@@ -406,27 +1299,91 @@
           "darby": "Mais Christ étant venu, souverain sacrificateur des biens à venir, par le tabernacle plus grand et plus parfait, qui n'est pas fait de main, c'est-à-dire qui n'est pas de cette création,"
         },
         "interlinear": [
-          { "greek": "Χριστὸς", "gloss": "Christ" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "παραγενόμενος", "gloss": "étant_venu" },
-          { "greek": "ἀρχιερεὺς", "gloss": "grand_prêtre" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "μελλόντων", "gloss": "à_venir" },
-          { "greek": "ἀγαθῶν", "gloss": "biens" },
-          { "greek": "διὰ", "gloss": "par/à_travers" },
-          { "greek": "τῆς", "gloss": "le" },
-          { "greek": "μείζονος", "gloss": "plus_grand" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τελειοτέρας", "gloss": "plus_parfait" },
-          { "greek": "σκηνῆς", "gloss": "tabernacle/tente" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "χειροποιήτου,", "gloss": "fait_de_main_d'homme" },
-          { "greek": "τοῦτ’", "gloss": "ceci" },
-          { "greek": "ἔστιν", "gloss": "est" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "ταύτης", "gloss": "de_cette" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "κτίσεως,", "gloss": "création", "analyse": "Le texte pose une distinction radicale entre 'cette création' (le Monde duel, fait par les hommes, avec ses rituels, ses limites physiques et mentales) et le tabernacle 'non fait de main d'homme' (la dimension incréée, le Royaume UN). Le Christ ne vient pas réformer le système mondain, Il vient ouvrir l'accès à une autre dimension ontologique." }
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "παραγενόμενος",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "ἀρχιερεὺς",
+            "gloss": "grand_prêtre"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "μελλόντων",
+            "gloss": "à_venir"
+          },
+          {
+            "greek": "ἀγαθῶν",
+            "gloss": "biens"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par/à_travers"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "le"
+          },
+          {
+            "greek": "μείζονος",
+            "gloss": "plus_grand"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τελειοτέρας",
+            "gloss": "plus_parfait"
+          },
+          {
+            "greek": "σκηνῆς",
+            "gloss": "tabernacle/tente"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "χειροποιήτου,",
+            "gloss": "fait_de_main_d'homme"
+          },
+          {
+            "greek": "τοῦτ’",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ταύτης",
+            "gloss": "de_cette"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "κτίσεως,",
+            "gloss": "création",
+            "analyse": "Le texte pose une distinction radicale entre 'cette création' (le Monde duel, fait par les hommes, avec ses rituels, ses limites physiques et mentales) et le tabernacle 'non fait de main d'homme' (la dimension incréée, le Royaume UN). Le Christ ne vient pas réformer le système mondain, Il vient ouvrir l'accès à une autre dimension ontologique."
+          }
         ]
       },
       {
@@ -436,25 +1393,83 @@
           "darby": "et non avec le sang de boucs et de veaux, mais avec son propre sang, est entré une fois pour toutes dans les lieux saints, ayant obtenu une rédemption éternelle."
         },
         "interlinear": [
-          { "greek": "οὐδὲ", "gloss": "ni/non_plus" },
-          { "greek": "δι’", "gloss": "par" },
-          { "greek": "αἵματος", "gloss": "le_sang" },
-          { "greek": "τράγων", "gloss": "de_boucs" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μόσχων", "gloss": "de_veaux" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "ἰδίου", "gloss": "propre" },
-          { "greek": "αἵματος", "gloss": "sang" },
-          { "greek": "εἰσῆλθεν", "gloss": "est_entré" },
-          { "greek": "ἐφάπαξ", "gloss": "une_fois_pour_toutes", "analyse": "L'*ephapax* désigne un acte irréversible. Dans le rituel juif (Monde duel), le grand prêtre devait refaire les sacrifices chaque année parce que le sang animal ne transforme pas l'être. Le sang du Christ (son humanité offerte) perce la frontière une fois pour toutes. Il accomplit l'union définitive du Divin et de l'humain." },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ἅγια,", "gloss": "lieux_saints" },
-          { "greek": "αἰωνίαν", "gloss": "une...éternelle" },
-          { "greek": "λύτρωσιν", "gloss": "rédemption" },
-          { "greek": "εὑράμενος.", "gloss": "ayant_obtenue" }
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni/non_plus"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par"
+          },
+          {
+            "greek": "αἵματος",
+            "gloss": "le_sang"
+          },
+          {
+            "greek": "τράγων",
+            "gloss": "de_boucs"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μόσχων",
+            "gloss": "de_veaux"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἰδίου",
+            "gloss": "propre"
+          },
+          {
+            "greek": "αἵματος",
+            "gloss": "sang"
+          },
+          {
+            "greek": "εἰσῆλθεν",
+            "gloss": "est_entré"
+          },
+          {
+            "greek": "ἐφάπαξ",
+            "gloss": "une_fois_pour_toutes",
+            "analyse": "L'*ephapax* désigne un acte irréversible. Dans le rituel juif (Monde duel), le grand prêtre devait refaire les sacrifices chaque année parce que le sang animal ne transforme pas l'être. Le sang du Christ (son humanité offerte) perce la frontière une fois pour toutes. Il accomplit l'union définitive du Divin et de l'humain."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἅγια,",
+            "gloss": "lieux_saints"
+          },
+          {
+            "greek": "αἰωνίαν",
+            "gloss": "une...éternelle"
+          },
+          {
+            "greek": "λύτρωσιν",
+            "gloss": "rédemption"
+          },
+          {
+            "greek": "εὑράμενος.",
+            "gloss": "ayant_obtenue"
+          }
         ]
       },
       {
@@ -464,25 +1479,82 @@
           "darby": "Car si le sang de boucs et de taureaux, et la cendre d'une génisse avec laquelle on fait aspersion sur ceux qui sont souillés, sanctifie pour la pureté de la chair,"
         },
         "interlinear": [
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "αἷμα", "gloss": "sang" },
-          { "greek": "τράγων", "gloss": "de_boucs" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ταύρων", "gloss": "de_taureaux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "σποδὸς", "gloss": "la_cendre" },
-          { "greek": "δαμάλεως", "gloss": "d'une_génisse" },
-          { "greek": "ῥαντίζουσα", "gloss": "aspergeant" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "κεκοινωμένους", "gloss": "souillés" },
-          { "greek": "ἁγιάζει", "gloss": "sanctifie" },
-          { "greek": "πρὸς", "gloss": "pour" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "σαρκὸς", "gloss": "chair" },
-          { "greek": "καθαρότητα,", "gloss": "pureté" }
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "αἷμα",
+            "gloss": "sang"
+          },
+          {
+            "greek": "τράγων",
+            "gloss": "de_boucs"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ταύρων",
+            "gloss": "de_taureaux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σποδὸς",
+            "gloss": "la_cendre"
+          },
+          {
+            "greek": "δαμάλεως",
+            "gloss": "d'une_génisse"
+          },
+          {
+            "greek": "ῥαντίζουσα",
+            "gloss": "aspergeant"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "κεκοινωμένους",
+            "gloss": "souillés"
+          },
+          {
+            "greek": "ἁγιάζει",
+            "gloss": "sanctifie"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "σαρκὸς",
+            "gloss": "chair"
+          },
+          {
+            "greek": "καθαρότητα,",
+            "gloss": "pureté"
+          }
         ]
       },
       {
@@ -492,36 +1564,217 @@
           "darby": "combien plus le sang du Christ, qui, par l'Esprit éternel, s'est offert lui-même sans tache à Dieu, purifiera-t-il votre conscience des œuvres mortes, pour que vous serviez le Dieu vivant !"
         },
         "interlinear": [
-          { "greek": "πόσῳ", "gloss": "combien" },
-          { "greek": "μᾶλλον", "gloss": "plus" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "αἷμα", "gloss": "sang" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "Χριστοῦ,", "gloss": "Christ" },
-          { "greek": "ὃς", "gloss": "qui" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "πνεύματος", "gloss": "un_esprit" },
-          { "greek": "αἰωνίου", "gloss": "éternel" },
-          { "greek": "ἑαυτὸν", "gloss": "lui-même" },
-          { "greek": "προσήνεγκεν", "gloss": "a_offert" },
-          { "greek": "ἄμωμον", "gloss": "sans_tache" },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "θεῷ,", "gloss": "Dieu" },
-          { "greek": "καθαριεῖ", "gloss": "purifiera" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "συνείδησιν", "gloss": "conscience" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "νεκρῶν", "gloss": "mortes" },
-          { "greek": "ἔργων", "gloss": "œuvres", "analyse": "Les 'œuvres mortes' ne sont pas seulement les 'péchés' au sens moral. Ce sont toutes les gesticulations de l'Ego, même religieuses, faites depuis l'isolement du Monde duel pour s'auto-justifier et briller devant les hommes. Elles sont mortes car elles ne sont pas branchées sur la Source incréée." },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "τὸ", "gloss": "le_fait_de" },
-          { "greek": "λατρεύειν", "gloss": "servir/rendre_un_culte" },
-          { "greek": "θεῷ", "gloss": "à_Dieu" },
-          { "greek": "ζῶντι.", "gloss": "vivant" }
+          {
+            "greek": "πόσῳ",
+            "gloss": "combien"
+          },
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plus"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "αἷμα",
+            "gloss": "sang"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Χριστοῦ,",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "un_esprit"
+          },
+          {
+            "greek": "αἰωνίου",
+            "gloss": "éternel"
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "προσήνεγκεν",
+            "gloss": "a_offert"
+          },
+          {
+            "greek": "ἄμωμον",
+            "gloss": "sans_tache"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "θεῷ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καθαριεῖ",
+            "gloss": "purifiera"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "συνείδησιν",
+            "gloss": "conscience"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "νεκρῶν",
+            "gloss": "mortes"
+          },
+          {
+            "greek": "ἔργων",
+            "gloss": "œuvres",
+            "analyse": "Les 'œuvres mortes' ne sont pas seulement les 'péchés' au sens moral. Ce sont toutes les gesticulations de l'Ego, même religieuses, faites depuis l'isolement du Monde duel pour s'auto-justifier et briller devant les hommes. Elles sont mortes car elles ne sont pas branchées sur la Source incréée."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le_fait_de"
+          },
+          {
+            "greek": "λατρεύειν",
+            "gloss": "servir/rendre_un_culte"
+          },
+          {
+            "greek": "θεῷ",
+            "gloss": "à_Dieu"
+          },
+          {
+            "greek": "ζῶντι.",
+            "gloss": "vivant"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 11 - τῆς κτίσεως : Le terme *ktisis* désigne la création, la nature physique. En précisant 'non de cette création', l'auteur de l'Épître signale qu'on passe sur un autre plan vibratoire, purement ontologique.\n• Verset 14 - λατρεύειν : Traduit par 'servir', ce mot (latreia) désigne très spécifiquement le culte, l'adoration sacerdotale. On ne devient pas le serviteur d'un maître mondain, on devient le liturgiste du Dieu vivant.\n\nAnalyse spirituelle :\nCet extrait clôt magistralement la réflexion du 5ème dimanche. Après avoir entendu Jésus dans l'Évangile nous avertir que la religion du 'Monde duel' n'est que tyrannie et domination (où l'Ego instrumentalise même Dieu pour obtenir les premières places), l'Épître aux Hébreux nous emmène dans le véritable Temple.\nLe culte de l'Ancienne Alliance ne purifiait que 'la chair' par des aspersions extérieures. Il laissait l'Ego intact et le cœur silencieux. Le sacrifice du Christ (la kénose absolue) agit à un tout autre niveau : il pénètre la 'conscience' (suneidesis), l'intériorité profonde de l'homme. Le sang du Christ vient nous nettoyer des 'œuvres mortes', c'est-à-dire de la nécessité morbide de devoir exister par nous-mêmes, par nos succès mondains, notre intelligence ou même nos mérites moraux. Libéré de ce besoin de se construire un masque, l'homme peut enfin se tenir comme un vrai Sujet dans le 'Royaume UN', et célébrer la liturgie du Dieu vivant."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 11 - τῆς κτίσεως : Le terme *ktisis* désigne la création, la nature physique. En précisant 'non de cette création', l'auteur de l'Épître signale qu'on passe sur un autre plan vibratoire, purement ontologique.\n• Verset 14 - λατρεύειν : Traduit par 'servir', ce mot (latreia) désigne très spécifiquement le culte, l'adoration sacerdotale. On ne devient pas le serviteur d'un maître mondain, on devient le liturgiste du Dieu vivant.\n\nAnalyse spirituelle :\nCet extrait clôt magistralement la réflexion du 5ème dimanche. Après avoir entendu Jésus dans l'Évangile nous avertir que la religion du 'Monde duel' n'est que tyrannie et domination (où l'Ego instrumentalise même Dieu pour obtenir les premières places), l'Épître aux Hébreux nous emmène dans le véritable Temple.\nLe culte de l'Ancienne Alliance ne purifiait que 'la chair' par des aspersions extérieures. Il laissait l'Ego intact et le cœur silencieux. Le sacrifice du Christ (la kénose absolue) agit à un tout autre niveau : il pénètre la 'conscience' (suneidesis), l'intériorité profonde de l'homme. Le sang du Christ vient nous nettoyer des 'œuvres mortes', c'est-à-dire de la nécessité morbide de devoir exister par nous-mêmes, par nos succès mondains, notre intelligence ou même nos mérites moraux. Libéré de ce besoin de se construire un masque, l'homme peut enfin se tenir comme un vrai Sujet dans le 'Royaume UN', et célébrer la liturgie du Dieu vivant.",
+    "homiletic_axes": [
+      {
+        "title": "Monter avec le Christ vers Jérusalem",
+        "content": "Jésus marche en avant vers sa Passion et instruit les Douze. La montée n’est pas recherche de prestige : elle conduit au don de soi, à la mort et à la Résurrection.",
+        "keywords": [
+          "ἀναβαίνω — monter",
+          "παραδίδωμι — livrer",
+          "ἀνίστημι — ressusciter"
+        ]
+      },
+      {
+        "title": "Boire la coupe et recevoir le baptême du Christ",
+        "content": "Jacques et Jean désirent les premières places ; Jésus leur parle de sa coupe et de son baptême. Le chemin de la gloire passe par la communion libre à son abaissement et à son amour.",
+        "keywords": [
+          "ποτήριον — coupe",
+          "βάπτισμα — baptême",
+          "δόξα — gloire"
+        ]
+      },
+      {
+        "title": "Le grand prêtre entre avec son propre sang",
+        "content": "Hébreux montre le Christ traversant le sanctuaire non avec le sang d’animaux, mais avec son propre sang. Le service annoncé dans l’Évangile est accompli par celui qui donne sa vie en rançon pour la multitude.",
+        "keywords": [
+          "ἀρχιερεύς — grand prêtre",
+          "αἷμα — sang",
+          "λύτρον — rançon"
+        ]
+      },
+      {
+        "title": "De la domination au service",
+        "content": "Le Christ oppose le pouvoir qui domine à la grandeur de celui qui sert. Sainte Marie l’Égyptienne manifeste cette conversion du désir : une vie autrefois centrée sur elle-même devient offrande, ascèse et disponibilité à Dieu.",
+        "keywords": [
+          "κατακυριεύω — dominer",
+          "διάκονος — serviteur",
+          "δοῦλος — esclave"
+        ]
+      },
+      {
+        "title": "Revêtir le Christ : lecture propre de la sainte",
+        "content": "Galates 3,23-29, lecture propre transmise dans le document fourni, ne remplace pas Hébreux 9. Elle éclaire toutefois la transformation baptismale : être fils par la foi, revêtir le Christ et devenir un en lui.",
+        "keywords": [
+          "ἐνδύω — revêtir",
+          "υἱὸς Θεοῦ — fils de Dieu",
+          "εἷς ἐν Χριστῷ — un dans le Christ"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Le Fils sert et entre une fois pour toutes",
+        "reference": "Marc 10, 32-45 ; Hébreux 9, 11-14",
+        "content": "Jésus annonce le don de sa vie et renverse la logique du pouvoir ; Hébreux révèle l’efficacité de cette offrande sacerdotale qui purifie la conscience pour servir le Dieu vivant.",
+        "connections": []
+      },
+      {
+        "title": "Lecture propre de sainte Marie l’Égyptienne",
+        "reference": "Galates 3, 23-29",
+        "content": "Cette lecture complémentaire associe la mémoire de la sainte au baptême, au revêtement du Christ, à la filiation et à l’unité en lui. Elle est signalée comme lecture propre, sans modifier le couple dominical.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Sainte Marie l’Égyptienne » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   }
 }
