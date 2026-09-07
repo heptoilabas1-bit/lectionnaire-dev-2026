@@ -1,864 +1,2762 @@
 {
   "title": "Dimanche du Fils Prodigue",
   "subtitle": "Le retour à la maison du Père",
- 
   "gospel": {
     "reference": "Luc 15, 11-32",
     "title": "La Parabole du Père Miséricordieux (Le Fils Prodigue)",
     "interlinear": [
-  {
-    "verse_number": 11,
-    "translations": {
-      "segond": "Il dit encore : Un homme avait deux fils.",
-      "darby": "Et il dit : Un certain homme avait deux fils."
-    },
-    "interlinear": [
-      { "greek": "Εἶπεν", "gloss": "Il_dit" },
-      { "greek": "δέ·", "gloss": "or/encore" },
-      { "greek": "Ἄνθρωπός", "gloss": "Homme" },
-      { "greek": "τις", "gloss": "un_certain" },
-      { "greek": "εἶχεν", "gloss": "avait" },
-      { "greek": "δύο", "gloss": "deux" },
-      { "greek": "υἱούς.", "gloss": "fils" }
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Il dit encore : Un homme avait deux fils.",
+          "darby": "Et il dit : Un certain homme avait deux fils."
+        },
+        "interlinear": [
+          {
+            "greek": "Εἶπεν",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "δέ·",
+            "gloss": "or/encore"
+          },
+          {
+            "greek": "Ἄνθρωπός",
+            "gloss": "Homme"
+          },
+          {
+            "greek": "τις",
+            "gloss": "un_certain"
+          },
+          {
+            "greek": "εἶχεν",
+            "gloss": "avait"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "υἱούς.",
+            "gloss": "fils"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "Le plus jeune dit à son père : Mon père, donne-moi la part de bien qui doit me revenir. Et le père leur partagea son bien.",
+          "darby": "Et le plus jeune d'entre eux dit au père : Père, donne-moi la part du bien qui m'échoit. Et il leur partagea son avoir."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "νεώτερος",
+            "gloss": "plus_jeune"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "πατρί·",
+            "gloss": "père"
+          },
+          {
+            "greek": "Πάτερ,",
+            "gloss": "Père"
+          },
+          {
+            "greek": "δός",
+            "gloss": "donne"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐπιβάλλον",
+            "gloss": "revenant"
+          },
+          {
+            "greek": "μέρος",
+            "gloss": "part"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "οὐσίας.",
+            "gloss": "substance/bien",
+            "analyse": "Le mot grec est *ousia* (l'essence, la substance, l'être). Le fils ne demande pas seulement de l'argent temporel, il exige d'accaparer pour lui-même la substance vitale qui vient de Dieu. C'est l'image même de la chute originelle : vouloir les dons de Dieu sans la communion avec Dieu."
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le/il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais/or"
+          },
+          {
+            "greek": "διεῖλεν",
+            "gloss": "partagea"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "βίον.",
+            "gloss": "vie/moyens_d'existence"
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "translations": {
+          "segond": "Peu de jours après, le plus jeune fils, ayant tout ramassé, partit pour un pays éloigné, où il dissipa son bien en vivant dans la débauche.",
+          "darby": "Et peu de jours après, le plus jeune fils, ayant tout amassé, s'en alla dans un pays éloigné, et là il dissipa son bien en vivant dans la débauche."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "après"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "πολλὰς",
+            "gloss": "nombreux"
+          },
+          {
+            "greek": "ἡμέρας",
+            "gloss": "jours"
+          },
+          {
+            "greek": "συναγαγὼν",
+            "gloss": "ayant_rassemblé"
+          },
+          {
+            "greek": "ἅπαντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "νεώτερος",
+            "gloss": "plus_jeune"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "ἀπεδήμησεν",
+            "gloss": "partit_en_voyage"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "χώραν",
+            "gloss": "pays"
+          },
+          {
+            "greek": "μακράν,",
+            "gloss": "lointain",
+            "analyse": "Le *pays lointain* n'est pas une destination géographique, mais un état spirituel. Les Pères de l'Église (comme Saint Augustin ou Saint Jean Chrysostome) expliquent que ce pays est l'oubli de Dieu. Plus l'âme s'éloigne de son Créateur, plus elle entre dans cette région de dissemblance et de vide."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "διεσκόρπισεν",
+            "gloss": "il_dissipa/éparpilla"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "οὐσίαν",
+            "gloss": "substance"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ζῶν",
+            "gloss": "vivant"
+          },
+          {
+            "greek": "ἀσώτως.",
+            "gloss": "sans_salut/dans_la_débauche",
+            "analyse": "Le mot *asotos* est souvent traduit par \"débauche\", mais il est composé du \"a-\" privatif et de la racine de \"sozo\" (sauver). Il signifie littéralement vivre \"sans salut\" ou \"d'une manière qui ne peut être sauvée\". Le péché fragmente et dissipe l'être."
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Lorsqu'il eut tout dépensé, une grande famine survint dans ce pays, et il commença à se trouver dans le besoin.",
+          "darby": "Et quand il eut tout dépensé, une grande famine survint dans ce pays-là, et il commença d'être dans le besoin."
+        },
+        "interlinear": [
+          {
+            "greek": "δαπανήσαντος",
+            "gloss": "ayant_dépensé"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "survint"
+          },
+          {
+            "greek": "λιμὸς",
+            "gloss": "famine"
+          },
+          {
+            "greek": "ἰσχυρὰ",
+            "gloss": "forte"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χώραν",
+            "gloss": "pays"
+          },
+          {
+            "greek": "ἐκείνην,",
+            "gloss": "celui-là"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἤρξατο",
+            "gloss": "commença"
+          },
+          {
+            "greek": "ὑστερεῖσθαι.",
+            "gloss": "manquer/être_dans_le_besoin"
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "translations": {
+          "segond": "Il alla se mettre au service d'un des habitants du pays, qui l'envoya dans ses champs garder les pourceaux.",
+          "darby": "Et il s'en alla et se joignit à l'un des citoyens de ce pays-là ; et il l'envoya dans ses champs, pour paître des pourceaux."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πορευθεὶς",
+            "gloss": "étant_allé"
+          },
+          {
+            "greek": "ἐκολλήθη",
+            "gloss": "il_se_colla/s'attacha",
+            "analyse": "Le verbe *kollao* (qui a donné le mot colle en français) est très fort. Dans l'Ancien Testament, il est utilisé pour décrire l'union de l'homme à sa femme ou à Dieu. Ici, le drame est total : le fils, créé pour s'unir à Dieu, \"se colle\" à un citoyen du pays de l'exil, se liant au monde déchu."
+          },
+          {
+            "greek": "ἑνὶ",
+            "gloss": "à_un"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "πολιτῶν",
+            "gloss": "citoyens"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "χώρας",
+            "gloss": "pays"
+          },
+          {
+            "greek": "ἐκείνης,",
+            "gloss": "celui-là"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔπεμψεν",
+            "gloss": "il_envoya"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀγροὺς",
+            "gloss": "champs"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "βόσκειν",
+            "gloss": "paître"
+          },
+          {
+            "greek": "χοίρους·",
+            "gloss": "pourceaux/cochons"
+          }
+        ]
+      },
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "Il aurait bien voulu se rassasier des carouges que mangeaient les pourceaux, mais personne ne lui en donnait.",
+          "darby": "et il désirait de remplir son ventre des gousses que les pourceaux mangeaient ; et personne ne lui donnait rien."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπεθύμει",
+            "gloss": "il_désirait"
+          },
+          {
+            "greek": "γεμίσαι",
+            "gloss": "remplir"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κοιλίαν",
+            "gloss": "ventre/sein"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "à_partir_de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "κερατίων",
+            "gloss": "carouges/gousses"
+          },
+          {
+            "greek": "ὧν",
+            "gloss": "lesquelles"
+          },
+          {
+            "greek": "ἤσθιον",
+            "gloss": "mangeaient"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "χοῖροι,",
+            "gloss": "pourceaux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐδεῖς",
+            "gloss": "personne"
+          },
+          {
+            "greek": "ἐδίδου",
+            "gloss": "ne_donnait"
+          },
+          {
+            "greek": "αὐτῷ.",
+            "gloss": "à_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "translations": {
+          "segond": "Étant rentré en lui-même, il dit : Combien de mercenaires chez mon père ont du pain en abondance, et moi, ici, je meurs de faim !",
+          "darby": "Et étant rentré en lui-même, il dit : Combien de mercenaires de mon père ont du pain en abondance, et moi je peris ici par la faim !"
+        },
+        "interlinear": [
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "soi-même"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "étant_venu",
+            "analyse": "Du verbe *erchomai* (venir). L'expression \"étant venu à soi-même\" marque le point de bascule de la conversion. L'éloignement de Dieu est une aliénation spirituelle, une sortie de soi. Le retour commence par une descente profonde dans son propre cœur, là où réside l'image divine obscurcie mais indestructible."
+          },
+          {
+            "greek": "ἔφη·",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "Πόσοι",
+            "gloss": "Combien"
+          },
+          {
+            "greek": "μίσθιοι",
+            "gloss": "mercenaires/journaliers"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "πατρός",
+            "gloss": "père"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "περισσεύουσιν",
+            "gloss": "ont_en_abondance"
+          },
+          {
+            "greek": "ἄρτων,",
+            "gloss": "de_pains"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "λιμῷ",
+            "gloss": "par_faim"
+          },
+          {
+            "greek": "ὧδε",
+            "gloss": "ici"
+          },
+          {
+            "greek": "ἀπόλλυμαι·",
+            "gloss": "je_péris"
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "translations": {
+          "segond": "Je me lèverai, j'irai vers mon père, et je lui dirai : Mon père, j'ai péché contre le ciel et contre toi,",
+          "darby": "Je me lèverai et j'irai vers mon père, et je lui dirai : Père, j'ai péché contre le ciel et devant toi ;"
+        },
+        "interlinear": [
+          {
+            "greek": "ἀναστὰς",
+            "gloss": "M'étant_levé",
+            "analyse": "Du verbe *anistemi*, qui est le terme exact utilisé pour parler de la Résurrection (*Anastasis*). Se lever de la fange du péché n'est pas un simple redressement moral autonome, c'est un passage de la mort à la vie, une préfiguration de la résurrection de l'âme avec le Christ."
+          },
+          {
+            "greek": "πορεύσομαι",
+            "gloss": "j'irai"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατέρα",
+            "gloss": "père"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐρῶ",
+            "gloss": "je_dirai"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Πάτερ,",
+            "gloss": "Père"
+          },
+          {
+            "greek": "ἥμαρτον",
+            "gloss": "j'ai_péché",
+            "analyse": "Du verbe *hamartano*, qui signifie littéralement \"manquer la cible\". Le péché n'est pas défini ici comme une simple infraction juridique à un code pénal divin, mais comme une tragique erreur d'orientation, un échec relationnel qui brise la communion d'amour."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans/contre"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὐρανὸν",
+            "gloss": "ciel"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐνώπιόν",
+            "gloss": "devant"
+          },
+          {
+            "greek": "σου,",
+            "gloss": "toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 19,
+        "translations": {
+          "segond": "je ne suis plus digne d'être appelé ton fils ; traite-moi comme l'un de tes mercenaires.",
+          "darby": "je ne suis plus digne d'être appelé ton fils ; traite-moi comme l'un de tes mercenaires."
+        },
+        "interlinear": [
+          {
+            "greek": "οὐκέτι",
+            "gloss": "plus"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ἄξιος",
+            "gloss": "digne"
+          },
+          {
+            "greek": "κληθῆναι",
+            "gloss": "d'être_appelé"
+          },
+          {
+            "greek": "υἱός",
+            "gloss": "fils"
+          },
+          {
+            "greek": "σου·",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ποίησόν",
+            "gloss": "fais/traite"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἕνα",
+            "gloss": "un"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "μισθίων",
+            "gloss": "mercenaires"
+          },
+          {
+            "greek": "σου.",
+            "gloss": "de_toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 20,
+        "translations": {
+          "segond": "Et il se leva, et alla vers son père. Comme il était encore loin, son père le vit et fut ému de compassion, il courut se jeter à son cou, et le baisa.",
+          "darby": "Et il se leva et alla vers son père. Et comme il était encore loin, son père le vit, et fut ému de compassion, et courut, et se jeta à son cou, et le couvrit de baisers."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀναστὰς",
+            "gloss": "s'étant_levé"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "il_vint"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατέρα",
+            "gloss": "père"
+          },
+          {
+            "greek": "ἑαυτοῦ.",
+            "gloss": "de_lui-même"
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "Encore"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "μακράν",
+            "gloss": "loin"
+          },
+          {
+            "greek": "ἀπέχοντος",
+            "gloss": "étant_éloigné"
+          },
+          {
+            "greek": "εἶδεν",
+            "gloss": "vit"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "père"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐσπλαγχνίσθη",
+            "gloss": "fut_ému_de_compassion",
+            "analyse": "Du verbe *splagchnizomai*, dérivé de *splagchna* (les entrailles). C'est un amour viscéral, viscéralement lié aux entrailles maternelles. Dieu n'attend pas de conditions juridiques ou juridictionnelles, Son amour est un bouleversement matriciel qui devance la confession formelle du pécheur."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δραμὼν",
+            "gloss": "ayant_couru"
+          },
+          {
+            "greek": "ἐπέπεσεν",
+            "gloss": "il_se_jeta"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "τράχηλον",
+            "gloss": "cou"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κατεφίλησεν",
+            "gloss": "le_couvrit_de_baisers",
+            "analyse": "Le verbe *kataphileo* est l'intensif de *phileo* (embrasser). Ce n'est pas un baiser protocolaire ou distant, mais une effusion de tendresse répétée qui scelle immédiatement la réconciliation et restaure la dignité du fils avant même qu'il n'ait pu achever son discours de repentance."
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 21,
+        "translations": {
+          "segond": "Le fils lui dit : Mon père, j'ai péché contre le ciel et contre toi, je ne suis plus digne d'être appelé ton fils.",
+          "darby": "Et le fils lui dit : Père, j'ai péché contre le ciel et devant toi ; je ne suis plus digne d'être appelé ton fils."
+        },
+        "interlinear": [
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Πάτερ,",
+            "gloss": "Père"
+          },
+          {
+            "greek": "ἥμαρτον",
+            "gloss": "j'ai_péché"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans/contre"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὐρανὸν",
+            "gloss": "ciel"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐνώπιόν",
+            "gloss": "devant"
+          },
+          {
+            "greek": "σου,",
+            "gloss": "toi"
+          },
+          {
+            "greek": "οὐκέτι",
+            "gloss": "plus"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ἄξιος",
+            "gloss": "digne"
+          },
+          {
+            "greek": "κληθῆναι",
+            "gloss": "d'être_appelé"
+          },
+          {
+            "greek": "υἱός",
+            "gloss": "fils"
+          },
+          {
+            "greek": "σου.",
+            "gloss": "de_toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 22,
+        "translations": {
+          "segond": "Mais le père dit à ses serviteurs : Apportez vite la plus belle robe, et l'en revêtez ; mettez-lui un anneau au doigt, et des souliers aux pieds.",
+          "darby": "Mais le père dit à ses esclaves : Apportez dehors la plus belle robe, et revêtez-l'en, et mettez un anneau à sa main et des sandales à ses pieds ;"
+        },
+        "interlinear": [
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "père"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δούλους",
+            "gloss": "serviteurs/esclaves"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ταχὺ",
+            "gloss": "Vite"
+          },
+          {
+            "greek": "ἐξενέγκατε",
+            "gloss": "apportez_dehors"
+          },
+          {
+            "greek": "στολὴν",
+            "gloss": "robe"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πρώτην",
+            "gloss": "première",
+            "analyse": "Le grec dit *tēn prōtēn* (la première). Les Pères y voient la 'robe de gloire' dont Adam était revêtu avant la chute. C'est la robe du baptême, la restauration de la nature humaine dans sa splendeur originelle. Le Père ne donne pas un vêtement de rechange, il rend l'état d'avant le péché."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐνδύσατε",
+            "gloss": "revêtez"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δότε",
+            "gloss": "donnez"
+          },
+          {
+            "greek": "δακτύλιον",
+            "gloss": "anneau"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans/à"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χεῖρα",
+            "gloss": "main"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὑποδήματα",
+            "gloss": "souliers/sandales"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans/à"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πόδας,",
+            "gloss": "pieds"
+          }
+        ]
+      },
+      {
+        "verse_number": 23,
+        "translations": {
+          "segond": "Amenez le veau gras, et tuez-le. Mangeons et réjouissons-nous ;",
+          "darby": "et amenez le veau gras et tuez-le ; et mangeons et faisons bonne chère ;"
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φέρετε",
+            "gloss": "apportez"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "μόσχον",
+            "gloss": "veau"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "σιτευτόν,",
+            "gloss": "engraissé",
+            "analyse": "Le *veau gras* est une image eucharistique majeure. Pour Saint Jean Chrysostome, c'est le Christ Lui-même qui se donne en nourriture pour célébrer le retour de l'homme à la Vie. La joie du Père ne s'exprime pas par des mots, mais par un repas sacrificiel et communautaire."
+          },
+          {
+            "greek": "θύσατε,",
+            "gloss": "tuez/sacrifiez"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φαγόντες",
+            "gloss": "ayant_mangé"
+          },
+          {
+            "greek": "εὐφρανθῶμεν,",
+            "gloss": "réjouissons-nous"
+          }
+        ]
+      },
+      {
+        "verse_number": 24,
+        "translations": {
+          "segond": "car mon fils que voici était mort, et il est revenu à la vie ; il était perdu, et il est retrouvé. Et ils commencèrent à se réjouir.",
+          "darby": "car mon fils que voici était mort, et il est revenu à la vie ; il était perdu, et il est retrouvé. Et ils commencèrent à faire bonne chère."
+        },
+        "interlinear": [
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "οὗτος",
+            "gloss": "ce"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱός",
+            "gloss": "fils"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "νεκρὸς",
+            "gloss": "mort"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀνέζησεν,",
+            "gloss": "est_revenu_à_la_vie",
+            "analyse": "Le mot *anezēsen* signifie une co-résurrection. L'état de péché n'est pas une simple erreur, c'est une mort spirituelle (nécrose de l'âme). Le retour au Père est une véritable résurrection, un passage ontologique de l'ombre à la lumière."
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ἀπολωλὼς",
+            "gloss": "perdu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εὑρέθη.",
+            "gloss": "fut_retrouvé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἤρξαντο",
+            "gloss": "ils_commencèrent"
+          },
+          {
+            "greek": "εὐφραίνεσθαι.",
+            "gloss": "à_se_réjouir"
+          }
+        ]
+      },
+      {
+        "verse_number": 25,
+        "translations": {
+          "segond": "Or, le fils aîné était dans les champs. Lorsqu'il revint et approcha de la maison, il entendit la musique et les danses.",
+          "darby": "Or son fils aîné était aux champs ; et comme il revenait et approchait de la maison, il entendit une symphonie et des danses."
+        },
+        "interlinear": [
+          {
+            "greek": "Ἦν",
+            "gloss": "Était"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πρεσβύτερος",
+            "gloss": "plus_âgé/aîné"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἀγρῷ·",
+            "gloss": "champs"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἐρχόμενος",
+            "gloss": "venant"
+          },
+          {
+            "greek": "ἤγγισεν",
+            "gloss": "il_approcha"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "οἰκίᾳ,",
+            "gloss": "maison"
+          },
+          {
+            "greek": "ἤκουσεν",
+            "gloss": "il_entendit"
+          },
+          {
+            "greek": "συμφωνίας",
+            "gloss": "musique/symphonie"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "χορῶν·",
+            "gloss": "choeurs/danses"
+          }
+        ]
+      },
+      {
+        "verse_number": 26,
+        "translations": {
+          "segond": "Il appela un des serviteurs, et lui demanda ce que c'était.",
+          "darby": "Et ayant appelé à lui l'un des serviteurs, il s'enquit ce que pourraient être ces choses."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προσκαλεσάμενος",
+            "gloss": "ayant_appelé"
+          },
+          {
+            "greek": "ἕνα",
+            "gloss": "un"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "παίδων",
+            "gloss": "serviteurs"
+          },
+          {
+            "greek": "ἐπυνθάνετο",
+            "gloss": "il_demandait"
+          },
+          {
+            "greek": "τί",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "εἴη",
+            "gloss": "pourraient_être"
+          },
+          {
+            "greek": "ταῦτα.",
+            "gloss": "ces_choses"
+          }
+        ]
+      },
+      {
+        "verse_number": 27,
+        "translations": {
+          "segond": "Ce serviteur lui dit : Ton frère est de retour, et, parce qu'il l'a recouvré en bonne santé, ton père a tué le veau gras.",
+          "darby": "Et il lui dit : Ton frère est arrivé, et ton père a tué le veau gras, parce qu'il l'a recouvré en bonne santé."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "le/il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ὅτι",
+            "gloss": "Que"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀδελφός",
+            "gloss": "frère"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἥκει,",
+            "gloss": "est_arrivé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔθυσεν",
+            "gloss": "a_sacrifié"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατήρ",
+            "gloss": "père"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "μόσχον",
+            "gloss": "veau"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "σιτευτόν,",
+            "gloss": "engraissé"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "ὑγιαίνοντα",
+            "gloss": "en_bonne_santé"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἀπέλαβεν.",
+            "gloss": "il_a_recouvré"
+          }
+        ]
+      },
+      {
+        "verse_number": 28,
+        "translations": {
+          "segond": "Il se mit en colère, et ne voulut pas entrer. Son père sortit, et le pria d'entrer.",
+          "darby": "Et il se mit en colère et ne voulait pas entrer. Son père donc sortit et le pria."
+        },
+        "interlinear": [
+          {
+            "greek": "ὠργίσθη",
+            "gloss": "Il_se_mit_en_colère",
+            "analyse": "La colère de l'aîné révèle le danger de la piété légaliste. Il se voit comme un 'bon serviteur' mais il n'a jamais compris qu'il était un 'fils aimé'. Il vit la présence du père comme une contrainte (un esclavage) et ne peut donc pas partager la joie du Père."
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "ἤθελεν",
+            "gloss": "voulait"
+          },
+          {
+            "greek": "εἰσελθεῖν.",
+            "gloss": "entrer"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "père"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐξελθὼν",
+            "gloss": "étant_sorti"
+          },
+          {
+            "greek": "παρεκάλει",
+            "gloss": "pria/exhortait"
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 29,
+        "translations": {
+          "segond": "Mais il répondit à son père : Voici, il y a tant d'années que je te sers, sans avoir jamais transgressé tes ordres, et jamais tu ne m'as donné un chevreau pour que je me réjouisse avec mes amis.",
+          "darby": "Mais lui, répondant, dit à son père : Voici tant d'années que je te sers, et jamais je n'ai transgressé ton commandement ; et tu ne m'as jamais donné un chevreau pour faire bonne chère avec mes amis."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "répondant"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "πατρὶ",
+            "gloss": "père"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ἰδοὺ",
+            "gloss": "Voici"
+          },
+          {
+            "greek": "τοσαῦτα",
+            "gloss": "tant"
+          },
+          {
+            "greek": "ἔτη",
+            "gloss": "d'années"
+          },
+          {
+            "greek": "δουλεύω",
+            "gloss": "je_sers",
+            "analyse": "Le verbe grec *douleuo* signifie littéralement 'servir comme un esclave' ou 'être asservi'. L'aîné révèle ici sa tragédie intime : bien qu'il n'ait jamais quitté la maison, il a toujours vécu sa relation avec son père non pas comme un fils libre, mais comme un esclave soumis à une loi, attendant un salaire en échange de sa bonne conduite."
+          },
+          {
+            "greek": "σοι,",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐδέποτε",
+            "gloss": "jamais"
+          },
+          {
+            "greek": "ἐντολήν",
+            "gloss": "commandement"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "παρῆλθον,",
+            "gloss": "je_n'ai_transgressé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "οὐδέποτε",
+            "gloss": "jamais"
+          },
+          {
+            "greek": "ἔδωκας",
+            "gloss": "tu_as_donné"
+          },
+          {
+            "greek": "ἔριφον,",
+            "gloss": "chevreau"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "φίλων",
+            "gloss": "amis"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "εὐφρανθῶ·",
+            "gloss": "je_me_réjouisse"
+          }
+        ]
+      },
+      {
+        "verse_number": 30,
+        "translations": {
+          "segond": "Et quand ton fils est arrivé, celui qui a mangé ton bien avec des prostituées, c'est pour lui que tu as tué le veau gras !",
+          "darby": "mais quand ton fils que voici, qui a mangé ton avoir avec des prostituées, est venu, tu as tué pour lui le veau gras."
+        },
+        "interlinear": [
+          {
+            "greek": "ὅτε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱός",
+            "gloss": "fils"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "οὗτος",
+            "gloss": "celui-ci",
+            "analyse": "L'aîné refuse délibérément de dire 'mon frère'. En disant avec mépris 'ce fils à toi', il renie sa propre fraternité. Ce vocabulaire de séparation démontre que l'aîné est, spirituellement, tout aussi 'perdu' que le plus jeune."
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "καταφαγών",
+            "gloss": "ayant_dévoré"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "βίον",
+            "gloss": "bien/substance"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "πορνῶν",
+            "gloss": "prostituées"
+          },
+          {
+            "greek": "ἦλθεν,",
+            "gloss": "est_venu"
+          },
+          {
+            "greek": "ἔθυσας",
+            "gloss": "tu_as_sacrifié"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "pour_lui"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "μόσχον",
+            "gloss": "veau"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "σιτευτόν.",
+            "gloss": "engraissé"
+          }
+        ]
+      },
+      {
+        "verse_number": 31,
+        "translations": {
+          "segond": "Mon enfant, lui dit le père, tu es toujours avec moi, et tout ce que je possède est à toi ;",
+          "darby": "Et il lui dit : Mon enfant, tu es toujours avec moi, et tout ce qui est à moi est à toi."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "le/il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Τέκνον,",
+            "gloss": "Enfant/Petit"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "πάντοτε",
+            "gloss": "toujours"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "εἶ,",
+            "gloss": "tu_es"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐμὰ",
+            "gloss": "miens"
+          },
+          {
+            "greek": "σά",
+            "gloss": "tiens"
+          },
+          {
+            "greek": "ἐστιν·",
+            "gloss": "sont"
+          }
+        ]
+      },
+      {
+        "verse_number": 32,
+        "translations": {
+          "segond": "mais il fallait bien se réjouir et s'égayer, parce que ton frère que voici était mort et qu'il est revenu à la vie, parce qu'il était perdu et qu'il est retrouvé.",
+          "darby": "Mais il fallait faire bonne chère et se réjouir, car ton frère que voici était mort, et il est revenu à la vie ; et il était perdu, et il est retrouvé."
+        },
+        "interlinear": [
+          {
+            "greek": "εὐφρανθῆναι",
+            "gloss": "Se_réjouir"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "χαρῆναι",
+            "gloss": "s'égayer/être_joyeux"
+          },
+          {
+            "greek": "ἔδει,",
+            "gloss": "il_fallait"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀδελφός",
+            "gloss": "frère"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "οὗτος",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "νεκρὸς",
+            "gloss": "mort"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔζησεν,",
+            "gloss": "revécut"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπολωλὼς",
+            "gloss": "perdu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εὑρέθη.",
+            "gloss": "fut_retrouvé"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 12 - τῆς : L'article génitif précédant 'substance' (τῆς οὐσίας) est contracté en 'de la' ou possessif par les traducteurs.\n• Verset 22 - Ταχὺ : L'adverbe 'Vite' est placé au début de l'ordre impératif en grec pour souligner l'empressement du Père, souvent lissé en milieu de phrase en français.\n• Verset 22 - τὴν πρώτην : Littéralement 'la première'. Darby et Segond utilisent 'la plus belle', interprétant la 'priorité' comme une 'qualité supérieure', alors que le grec suggère la robe originelle (celle d'avant la chute).\n• Verset 23 - τὸν μόσχον τὸν σιτετυόν : Le redoublement de l'article en grec ('le veau, celui qui est engraissé') marque une insistance forte sur l'unicité de ce veau, que les traducteurs simplifient en 'le veau gras'.\n• Verset 31 - Τέκνον : Terme de tendresse ('mon petit', 'mon enfant') utilisé par le Père pour apaiser l'aîné, là où ce dernier ne voyait que des rapports de force serviles.\n\nAnalyse spirituelle :\nCette parabole est l'icône de la Philanthropie divine. Elle nous montre que le péché n'est pas une faute juridique, mais une 'aliénation' (le départ dans le pays lointain). La conversion (*metanoia*) commence par le 'retour en soi-même', la découverte que notre véritable identité n'est pas dans nos pourceaux mais dans la maison du Père.\n\nLa réaction du Père est bouleversante : il ne demande aucune explication, il court, il embrasse. Il restaure la dignité baptismale (la robe et l'anneau) et invite au repas eucharistique (le veau gras). Le drame final se déplace sur le fils aîné : il représente le danger de la 'bonne conscience' religieuse qui, à force d'obéir par devoir, oublie l'amour. L'Évangile nous laisse sur un suspens : l'aîné entrera-t-il finalement dans la joie ? C'est la question que le Triode pose à chaque fidèle.",
+    "homiletic_axes": [
+      {
+        "title": "Quitter la dispersion et rentrer en soi-même",
+        "content": "Le fils se disperse dans un pays lointain puis « rentre en lui-même ». Ce retour intérieur n’est pas un enfermement : il rouvre le dialogue avec le père et met l’homme en mouvement vers la communion.",
+        "keywords": [
+          "διασκορπίζω — disperser",
+          "εἰς ἑαυτὸν ἐλθών — rentré en lui-même",
+          "ἀναστὰς — s’étant levé"
+        ]
+      },
+      {
+        "title": "La montée vers le Père commence par un relèvement",
+        "content": "Le résumé S2 décrit le Fils prodigue comme une élévation verticale vers le Père. Dans le texte, cette élévation passe paradoxalement par l’aveu de la chute, puis par l’acte de se lever et de retourner.",
+        "keywords": [
+          "ἀνίστημι — se lever",
+          "πορεύομαι — aller",
+          "πατήρ — père"
+        ]
+      },
+      {
+        "title": "Le corps n’est pas une possession isolée",
+        "content": "Le fils traite d’abord son héritage et sa propre vie comme des biens autonomes. Paul rappelle que le corps appartient au Seigneur, qu’il est membre du Christ et temple de l’Esprit : la conversion rétablit une appartenance vivante.",
+        "keywords": [
+          "σῶμα — corps",
+          "μέλος Χριστοῦ — membre du Christ",
+          "ναὸς τοῦ Πνεύματος — temple de l’Esprit"
+        ]
+      },
+      {
+        "title": "Achetés à grand prix, reçus comme fils",
+        "content": "Le père ne réduit pas le revenant au statut de mercenaire : robe, anneau et festin restaurent publiquement la filiation. L’Apôtre rappelle que nous avons été achetés à grand prix ; cette grâce reçue invite à glorifier Dieu dans le corps.",
+        "keywords": [
+          "υἱός — fils",
+          "στολή — robe",
+          "τιμή — prix/honneur"
+        ]
+      },
+      {
+        "title": "Entrer dans la joie sans exclure le frère",
+        "content": "Le retour du cadet ne clôt pas la parabole : le père sort aussi vers l’aîné. La communion restaurée avec Dieu appelle une communion fraternelle qui refuse de transformer l’obéissance ou la fidélité en droit d’exclure.",
+        "keywords": [
+          "εὐφραίνω — se réjouir",
+          "ἀδελφός — frère",
+          "κοινωνία — communion"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Revenir au Père avec toute son existence",
+        "reference": "Luc 15, 11-32 ; 1 Corinthiens 6, 12-20",
+        "content": "Le retour du fils n’est pas seulement moral ou intérieur : le père restaure sa place, son corps et la communion du repas. Paul révèle cette profondeur corporelle de la filiation : appartenir au Christ et devenir temple de l’Esprit.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le Fils prodigue » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez comment éloignement, retour, corps, filiation et communion relient la parabole à l’enseignement de Paul."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
-  },
-  {
-    "verse_number": 12,
-    "translations": {
-      "segond": "Le plus jeune dit à son père : Mon père, donne-moi la part de bien qui doit me revenir. Et le père leur partagea son bien.",
-      "darby": "Et le plus jeune d'entre eux dit au père : Père, donne-moi la part du bien qui m'échoit. Et il leur partagea son avoir."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "νεώτερος", "gloss": "plus_jeune" },
-      { "greek": "αὐτῶν", "gloss": "d'eux" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "πατρί·", "gloss": "père" },
-      { "greek": "Πάτερ,", "gloss": "Père" },
-      { "greek": "δός", "gloss": "donne" },
-      { "greek": "μοι", "gloss": "à_moi" },
-      { "greek": "τὸ", "gloss": "la" },
-      { "greek": "ἐπιβάλλον", "gloss": "revenant" },
-      { "greek": "μέρος", "gloss": "part" },
-      { "greek": "τῆς", "gloss": "de_la" },
-      { "greek": "οὐσίας.", "gloss": "substance/bien", "analyse": "Le mot grec est *ousia* (l'essence, la substance, l'être). Le fils ne demande pas seulement de l'argent temporel, il exige d'accaparer pour lui-même la substance vitale qui vient de Dieu. C'est l'image même de la chute originelle : vouloir les dons de Dieu sans la communion avec Dieu." },
-      { "greek": "ὁ", "gloss": "le/il" },
-      { "greek": "δὲ", "gloss": "mais/or" },
-      { "greek": "διεῖλεν", "gloss": "partagea" },
-      { "greek": "αὐτοῖς", "gloss": "à_eux" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "βίον.", "gloss": "vie/moyens_d'existence" }
-    ]
-  },
-  {
-    "verse_number": 13,
-    "translations": {
-      "segond": "Peu de jours après, le plus jeune fils, ayant tout ramassé, partit pour un pays éloigné, où il dissipa son bien en vivant dans la débauche.",
-      "darby": "Et peu de jours après, le plus jeune fils, ayant tout amassé, s'en alla dans un pays éloigné, et là il dissipa son bien en vivant dans la débauche."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "μετ’", "gloss": "après" },
-      { "greek": "οὐ", "gloss": "non" },
-      { "greek": "πολλὰς", "gloss": "nombreux" },
-      { "greek": "ἡμέρας", "gloss": "jours" },
-      { "greek": "συναγαγὼν", "gloss": "ayant_rassemblé" },
-      { "greek": "ἅπαντα", "gloss": "tout" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "νεώτερος", "gloss": "plus_jeune" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "ἀπεδήμησεν", "gloss": "partit_en_voyage" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "χώραν", "gloss": "pays" },
-      { "greek": "μακράν,", "gloss": "lointain", "analyse": "Le *pays lointain* n'est pas une destination géographique, mais un état spirituel. Les Pères de l'Église (comme Saint Augustin ou Saint Jean Chrysostome) expliquent que ce pays est l'oubli de Dieu. Plus l'âme s'éloigne de son Créateur, plus elle entre dans cette région de dissemblance et de vide." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐκεῖ", "gloss": "là" },
-      { "greek": "διεσκόρπισεν", "gloss": "il_dissipa/éparpilla" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "οὐσίαν", "gloss": "substance" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "ζῶν", "gloss": "vivant" },
-      { "greek": "ἀσώτως.", "gloss": "sans_salut/dans_la_débauche", "analyse": "Le mot *asotos* est souvent traduit par \"débauche\", mais il est composé du \"a-\" privatif et de la racine de \"sozo\" (sauver). Il signifie littéralement vivre \"sans salut\" ou \"d'une manière qui ne peut être sauvée\". Le péché fragmente et dissipe l'être." }
-    ]
-  },
-  {
-    "verse_number": 14,
-    "translations": {
-      "segond": "Lorsqu'il eut tout dépensé, une grande famine survint dans ce pays, et il commença à se trouver dans le besoin.",
-      "darby": "Et quand il eut tout dépensé, une grande famine survint dans ce pays-là, et il commença d'être dans le besoin."
-    },
-    "interlinear": [
-      { "greek": "δαπανήσαντος", "gloss": "ayant_dépensé" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "πάντα", "gloss": "tout" },
-      { "greek": "ἐγένετο", "gloss": "survint" },
-      { "greek": "λιμὸς", "gloss": "famine" },
-      { "greek": "ἰσχυρὰ", "gloss": "forte" },
-      { "greek": "κατὰ", "gloss": "dans" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "χώραν", "gloss": "pays" },
-      { "greek": "ἐκείνην,", "gloss": "celui-là" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "αὐτὸς", "gloss": "lui" },
-      { "greek": "ἤρξατο", "gloss": "commença" },
-      { "greek": "ὑστερεῖσθαι.", "gloss": "manquer/être_dans_le_besoin" }
-    ]
-  },
-  {
-    "verse_number": 15,
-    "translations": {
-      "segond": "Il alla se mettre au service d'un des habitants du pays, qui l'envoya dans ses champs garder les pourceaux.",
-      "darby": "Et il s'en alla et se joignit à l'un des citoyens de ce pays-là ; et il l'envoya dans ses champs, pour paître des pourceaux."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πορευθεὶς", "gloss": "étant_allé" },
-      { "greek": "ἐκολλήθη", "gloss": "il_se_colla/s'attacha", "analyse": "Le verbe *kollao* (qui a donné le mot colle en français) est très fort. Dans l'Ancien Testament, il est utilisé pour décrire l'union de l'homme à sa femme ou à Dieu. Ici, le drame est total : le fils, créé pour s'unir à Dieu, \"se colle\" à un citoyen du pays de l'exil, se liant au monde déchu." },
-      { "greek": "ἑνὶ", "gloss": "à_un" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "πολιτῶν", "gloss": "citoyens" },
-      { "greek": "τῆς", "gloss": "de_le" },
-      { "greek": "χώρας", "gloss": "pays" },
-      { "greek": "ἐκείνης,", "gloss": "celui-là" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἔπεμψεν", "gloss": "il_envoya" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ἀγροὺς", "gloss": "champs" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "βόσκειν", "gloss": "paître" },
-      { "greek": "χοίρους·", "gloss": "pourceaux/cochons" }
-   ]
- },
- {
-    "verse_number": 16,
-    "translations": {
-      "segond": "Il aurait bien voulu se rassasier des carouges que mangeaient les pourceaux, mais personne ne lui en donnait.",
-      "darby": "et il désirait de remplir son ventre des gousses que les pourceaux mangeaient ; et personne ne lui donnait rien."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐπεθύμει", "gloss": "il_désirait" },
-      { "greek": "γεμίσαι", "gloss": "remplir" },
-      { "greek": "τὴν", "gloss": "le" },
-      { "greek": "κοιλίαν", "gloss": "ventre/sein" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "ἀπὸ", "gloss": "à_partir_de" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "κερατίων", "gloss": "carouges/gousses" },
-      { "greek": "ὧν", "gloss": "lesquelles" },
-      { "greek": "ἤσθιον", "gloss": "mangeaient" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "χοῖροι,", "gloss": "pourceaux" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐδεῖς", "gloss": "personne" },
-      { "greek": "ἐδίδου", "gloss": "ne_donnait" },
-      { "greek": "αὐτῷ.", "gloss": "à_lui" }
-    ]
-  },
-  {
-    "verse_number": 17,
-    "translations": {
-      "segond": "Étant rentré en lui-même, il dit : Combien de mercenaires chez mon père ont du pain en abondance, et moi, ici, je meurs de faim !",
-      "darby": "Et étant rentré en lui-même, il dit : Combien de mercenaires de mon père ont du pain en abondance, et moi je peris ici par la faim !"
-    },
-    "interlinear": [
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "ἑαυτὸν", "gloss": "soi-même" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "ἐλθὼν", "gloss": "étant_venu", "analyse": "Du verbe *erchomai* (venir). L'expression \"étant venu à soi-même\" marque le point de bascule de la conversion. L'éloignement de Dieu est une aliénation spirituelle, une sortie de soi. Le retour commence par une descente profonde dans son propre cœur, là où réside l'image divine obscurcie mais indestructible." },
-      { "greek": "ἔφη·", "gloss": "il_dit" },
-      { "greek": "Πόσοι", "gloss": "Combien" },
-      { "greek": "μίσθιοι", "gloss": "mercenaires/journaliers" },
-      { "greek": "τοῦ", "gloss": "de_le" },
-      { "greek": "πατρός", "gloss": "père" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "περισσεύουσιν", "gloss": "ont_en_abondance" },
-      { "greek": "ἄρτων,", "gloss": "de_pains" },
-      { "greek": "ἐγὼ", "gloss": "moi" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "λιμῷ", "gloss": "par_faim" },
-      { "greek": "ὧδε", "gloss": "ici" },
-      { "greek": "ἀπόλλυμαι·", "gloss": "je_péris" }
-    ]
-  },
-  {
-    "verse_number": 18,
-    "translations": {
-      "segond": "Je me lèverai, j'irai vers mon père, et je lui dirai : Mon père, j'ai péché contre le ciel et contre toi,",
-      "darby": "Je me lèverai et j'irai vers mon père, et je lui dirai : Père, j'ai péché contre le ciel et devant toi ;"
-    },
-    "interlinear": [
-      { "greek": "ἀναστὰς", "gloss": "M'étant_levé", "analyse": "Du verbe *anistemi*, qui est le terme exact utilisé pour parler de la Résurrection (*Anastasis*). Se lever de la fange du péché n'est pas un simple redressement moral autonome, c'est un passage de la mort à la vie, une préfiguration de la résurrection de l'âme avec le Christ." },
-      { "greek": "πορεύσομαι", "gloss": "j'irai" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "πατέρα", "gloss": "père" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐρῶ", "gloss": "je_dirai" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Πάτερ,", "gloss": "Père" },
-      { "greek": "ἥμαρτον", "gloss": "j'ai_péché", "analyse": "Du verbe *hamartano*, qui signifie littéralement \"manquer la cible\". Le péché n'est pas défini ici comme une simple infraction juridique à un code pénal divin, mais comme une tragique erreur d'orientation, un échec relationnel qui brise la communion d'amour." },
-      { "greek": "εἰς", "gloss": "dans/contre" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "οὐρανὸν", "gloss": "ciel" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐνώπιόν", "gloss": "devant" },
-      { "greek": "σου,", "gloss": "toi" }
-    ]
-  },
-  {
-    "verse_number": 19,
-    "translations": {
-      "segond": "je ne suis plus digne d'être appelé ton fils ; traite-moi comme l'un de tes mercenaires.",
-      "darby": "je ne suis plus digne d'être appelé ton fils ; traite-moi comme l'un de tes mercenaires."
-    },
-    "interlinear": [
-      { "greek": "οὐκέτι", "gloss": "plus" },
-      { "greek": "εἰμὶ", "gloss": "je_suis" },
-      { "greek": "ἄξιος", "gloss": "digne" },
-      { "greek": "κληθῆναι", "gloss": "d'être_appelé" },
-      { "greek": "υἱός", "gloss": "fils" },
-      { "greek": "σου·", "gloss": "de_toi" },
-      { "greek": "ποίησόν", "gloss": "fais/traite" },
-      { "greek": "με", "gloss": "moi" },
-      { "greek": "ὡς", "gloss": "comme" },
-      { "greek": "ἕνα", "gloss": "un" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "μισθίων", "gloss": "mercenaires" },
-      { "greek": "σου.", "gloss": "de_toi" }
-    ]
-  },
-  {
-    "verse_number": 20,
-    "translations": {
-      "segond": "Et il se leva, et alla vers son père. Comme il était encore loin, son père le vit et fut ému de compassion, il courut se jeter à son cou, et le baisa.",
-      "darby": "Et il se leva et alla vers son père. Et comme il était encore loin, son père le vit, et fut ému de compassion, et courut, et se jeta à son cou, et le couvrit de baisers."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἀναστὰς", "gloss": "s'étant_levé" },
-      { "greek": "ἦλθεν", "gloss": "il_vint" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "πατέρα", "gloss": "père" },
-      { "greek": "ἑαυτοῦ.", "gloss": "de_lui-même" },
-      { "greek": "ἔτι", "gloss": "Encore" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "μακράν", "gloss": "loin" },
-      { "greek": "ἀπέχοντος", "gloss": "étant_éloigné" },
-      { "greek": "εἶδεν", "gloss": "vit" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "πατὴρ", "gloss": "père" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐσπλαγχνίσθη", "gloss": "fut_ému_de_compassion", "analyse": "Du verbe *splagchnizomai*, dérivé de *splagchna* (les entrailles). C'est un amour viscéral, viscéralement lié aux entrailles maternelles. Dieu n'attend pas de conditions juridiques ou juridictionnelles, Son amour est un bouleversement matriciel qui devance la confession formelle du pécheur." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "δραμὼν", "gloss": "ayant_couru" },
-      { "greek": "ἐπέπεσεν", "gloss": "il_se_jeta" },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "τράχηλον", "gloss": "cou" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "κατεφίλησεν", "gloss": "le_couvrit_de_baisers", "analyse": "Le verbe *kataphileo* est l'intensif de *phileo* (embrasser). Ce n'est pas un baiser protocolaire ou distant, mais une effusion de tendresse répétée qui scelle immédiatement la réconciliation et restaure la dignité du fils avant même qu'il n'ait pu achever son discours de repentance." },
-      { "greek": "αὐτόν.", "gloss": "lui" } 
- ]
-  },
-  {
-"verse_number": 21,
-    "translations": {
-      "segond": "Le fils lui dit : Mon père, j'ai péché contre le ciel et contre toi, je ne suis plus digne d'être appelé ton fils.",
-      "darby": "Et le fils lui dit : Père, j'ai péché contre le ciel et devant toi ; je ne suis plus digne d'être appelé ton fils."
-    },
-    "interlinear": [
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Πάτερ,", "gloss": "Père" },
-      { "greek": "ἥμαρτον", "gloss": "j'ai_péché" },
-      { "greek": "εἰς", "gloss": "dans/contre" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "οὐρανὸν", "gloss": "ciel" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐνώπιόν", "gloss": "devant" },
-      { "greek": "σου,", "gloss": "toi" },
-      { "greek": "οὐκέτι", "gloss": "plus" },
-      { "greek": "εἰμὶ", "gloss": "je_suis" },
-      { "greek": "ἄξιος", "gloss": "digne" },
-      { "greek": "κληθῆναι", "gloss": "d'être_appelé" },
-      { "greek": "υἱός", "gloss": "fils" },
-      { "greek": "σου.", "gloss": "de_toi" }
-    ]
-  },
-  {
-    "verse_number": 22,
-    "translations": {
-      "segond": "Mais le père dit à ses serviteurs : Apportez vite la plus belle robe, et l'en revêtez ; mettez-lui un anneau au doigt, et des souliers aux pieds.",
-      "darby": "Mais le père dit à ses esclaves : Apportez dehors la plus belle robe, et revêtez-l'en, et mettez un anneau à sa main et des sandales à ses pieds ;"
-    },
-    "interlinear": [
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "πατὴρ", "gloss": "père" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "δούλους", "gloss": "serviteurs/esclaves" },
-      { "greek": "αὐτοῦ·", "gloss": "de_lui" },
-      { "greek": "Ταχὺ", "gloss": "Vite" },
-      { "greek": "ἐξενέγκατε", "gloss": "apportez_dehors" },
-      { "greek": "στολὴν", "gloss": "robe" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "πρώτην", "gloss": "première", "analyse": "Le grec dit *tēn prōtēn* (la première). Les Pères y voient la 'robe de gloire' dont Adam était revêtu avant la chute. C'est la robe du baptême, la restauration de la nature humaine dans sa splendeur originelle. Le Père ne donne pas un vêtement de rechange, il rend l'état d'avant le péché." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐνδύσατε", "gloss": "revêtez" },
-      { "greek": "αὐτόν,", "gloss": "lui" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "δότε", "gloss": "donnez" },
-      { "greek": "δακτύλιον", "gloss": "anneau" },
-      { "greek": "εἰς", "gloss": "dans/à" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "χεῖρα", "gloss": "main" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ὑποδήματα", "gloss": "souliers/sandales" },
-      { "greek": "εἰς", "gloss": "dans/à" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "πόδας,", "gloss": "pieds" }
-    ]
-  },
-  {
-    "verse_number": 23,
-    "translations": {
-      "segond": "Amenez le veau gras, et tuez-le. Mangeons et réjouissons-nous ;",
-      "darby": "et amenez le veau gras et tuez-le ; et mangeons et faisons bonne chère ;"
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "φέρετε", "gloss": "apportez" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "μόσχον", "gloss": "veau" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "σιτευτόν,", "gloss": "engraissé", "analyse": "Le *veau gras* est une image eucharistique majeure. Pour Saint Jean Chrysostome, c'est le Christ Lui-même qui se donne en nourriture pour célébrer le retour de l'homme à la Vie. La joie du Père ne s'exprime pas par des mots, mais par un repas sacrificiel et communautaire." },
-      { "greek": "θύσατε,", "gloss": "tuez/sacrifiez" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "φαγόντες", "gloss": "ayant_mangé" },
-      { "greek": "εὐφρανθῶμεν,", "gloss": "réjouissons-nous" }
-    ]
-  },
-  {
-    "verse_number": 24,
-    "translations": {
-      "segond": "car mon fils que voici était mort, et il est revenu à la vie ; il était perdu, et il est retrouvé. Et ils commencèrent à se réjouir.",
-      "darby": "car mon fils que voici était mort, et il est revenu à la vie ; il était perdu, et il est retrouvé. Et ils commencèrent à faire bonne chère."
-    },
-    "interlinear": [
-      { "greek": "ὅτι", "gloss": "car" },
-      { "greek": "οὗτος", "gloss": "ce" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "υἱός", "gloss": "fils" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "νεκρὸς", "gloss": "mort" },
-      { "greek": "ἦν", "gloss": "était" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀνέζησεν,", "gloss": "est_revenu_à_la_vie", "analyse": "Le mot *anezēsen* signifie une co-résurrection. L'état de péché n'est pas une simple erreur, c'est une mort spirituelle (nécrose de l'âme). Le retour au Père est une véritable résurrection, un passage ontologique de l'ombre à la lumière." },
-      { "greek": "ἦν", "gloss": "était" },
-      { "greek": "ἀπολωλὼς", "gloss": "perdu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "εὑρέθη.", "gloss": "fut_retrouvé" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἤρξαντο", "gloss": "ils_commencèrent" },
-      { "greek": "εὐφραίνεσθαι.", "gloss": "à_se_réjouir" }
-    ]
-  },
-  {
-    "verse_number": 25,
-    "translations": {
-      "segond": "Or, le fils aîné était dans les champs. Lorsqu'il revint et approcha de la maison, il entendit la musique et les danses.",
-      "darby": "Or son fils aîné était aux champs ; et comme il revenait et approchait de la maison, il entendit une symphonie et des danses."
-    },
-    "interlinear": [
-      { "greek": "Ἦν", "gloss": "Était" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "πρεσβύτερος", "gloss": "plus_âgé/aîné" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "ἀγρῷ·", "gloss": "champs" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ὡς", "gloss": "comme" },
-      { "greek": "ἐρχόμενος", "gloss": "venant" },
-      { "greek": "ἤγγισεν", "gloss": "il_approcha" },
-      { "greek": "τῇ", "gloss": "de_la" },
-      { "greek": "οἰκίᾳ,", "gloss": "maison" },
-      { "greek": "ἤκουσεν", "gloss": "il_entendit" },
-      { "greek": "συμφωνίας", "gloss": "musique/symphonie" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "χορῶν·", "gloss": "choeurs/danses" }
-    ]
-  },
-  {
-   "verse_number": 26,
-    "translations": {
-      "segond": "Il appela un des serviteurs, et lui demanda ce que c'était.",
-      "darby": "Et ayant appelé à lui l'un des serviteurs, il s'enquit ce que pourraient être ces choses."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "προσκαλεσάμενος", "gloss": "ayant_appelé" },
-      { "greek": "ἕνα", "gloss": "un" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "παίδων", "gloss": "serviteurs" },
-      { "greek": "ἐπυνθάνετο", "gloss": "il_demandait" },
-      { "greek": "τί", "gloss": "ce_que" },
-      { "greek": "εἴη", "gloss": "pourraient_être" },
-      { "greek": "ταῦτα.", "gloss": "ces_choses" }
-    ]
-  },
-  {
-    "verse_number": 27,
-    "translations": {
-      "segond": "Ce serviteur lui dit : Ton frère est de retour, et, parce qu'il l'a recouvré en bonne santé, ton père a tué le veau gras.",
-      "darby": "Et il lui dit : Ton frère est arrivé, et ton père a tué le veau gras, parce qu'il l'a recouvré en bonne santé."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "le/il" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Ὅτι", "gloss": "Que" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "ἀδελφός", "gloss": "frère" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "ἥκει,", "gloss": "est_arrivé" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἔθυσεν", "gloss": "a_sacrifié" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "πατήρ", "gloss": "père" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "μόσχον", "gloss": "veau" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "σιτευτόν,", "gloss": "engraissé" },
-      { "greek": "ὅτι", "gloss": "parce_que" },
-      { "greek": "ὑγιαίνοντα", "gloss": "en_bonne_santé" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "ἀπέλαβεν.", "gloss": "il_a_recouvré" }
-    ]
-  },
-  {
-      "verse_number": 28,
-    "translations": {
-      "segond": "Il se mit en colère, et ne voulut pas entrer. Son père sortit, et le pria d'entrer.",
-      "darby": "Et il se mit en colère et ne voulait pas entrer. Son père donc sortit et le pria."
-    },
-    "interlinear": [
-      { "greek": "ὠργίσθη", "gloss": "Il_se_mit_en_colère", "analyse": "La colère de l'aîné révèle le danger de la piété légaliste. Il se voit comme un 'bon serviteur' mais il n'a jamais compris qu'il était un 'fils aimé'. Il vit la présence du père comme une contrainte (un esclavage) et ne peut donc pas partager la joie du Père." },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐκ", "gloss": "ne_pas" },
-      { "greek": "ἤθελεν", "gloss": "voulait" },
-      { "greek": "εἰσελθεῖν.", "gloss": "entrer" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "πατὴρ", "gloss": "père" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "ἐξελθὼν", "gloss": "étant_sorti" },
-      { "greek": "παρεκάλει", "gloss": "pria/exhortait" },
-      { "greek": "αὐτόν.", "gloss": "lui" }
-    ]
-  },
-  {
-   "verse_number": 29,
-    "translations": {
-      "segond": "Mais il répondit à son père : Voici, il y a tant d'années que je te sers, sans avoir jamais transgressé tes ordres, et jamais tu ne m'as donné un chevreau pour que je me réjouisse avec mes amis.",
-      "darby": "Mais lui, répondant, dit à son père : Voici tant d'années que je te sers, et jamais je n'ai transgressé ton commandement ; et tu ne m'as jamais donné un chevreau pour faire bonne chère avec mes amis."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "Il" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "ἀποκριθεὶς", "gloss": "répondant" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "πατρὶ", "gloss": "père" },
-      { "greek": "αὐτοῦ·", "gloss": "de_lui" },
-      { "greek": "Ἰδοὺ", "gloss": "Voici" },
-      { "greek": "τοσαῦτα", "gloss": "tant" },
-      { "greek": "ἔτη", "gloss": "d'années" },
-      { "greek": "δουλεύω", "gloss": "je_sers", "analyse": "Le verbe grec *douleuo* signifie littéralement 'servir comme un esclave' ou 'être asservi'. L'aîné révèle ici sa tragédie intime : bien qu'il n'ait jamais quitté la maison, il a toujours vécu sa relation avec son père non pas comme un fils libre, mais comme un esclave soumis à une loi, attendant un salaire en échange de sa bonne conduite." },
-      { "greek": "σοι,", "gloss": "à_toi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐδέποτε", "gloss": "jamais" },
-      { "greek": "ἐντολήν", "gloss": "commandement" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "παρῆλθον,", "gloss": "je_n'ai_transgressé" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐμοὶ", "gloss": "à_moi" },
-      { "greek": "οὐδέποτε", "gloss": "jamais" },
-      { "greek": "ἔδωκας", "gloss": "tu_as_donné" },
-      { "greek": "ἔριφον,", "gloss": "chevreau" },
-      { "greek": "ἵνα", "gloss": "afin_que" },
-      { "greek": "μετὰ", "gloss": "avec" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "φίλων", "gloss": "amis" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "εὐφρανθῶ·", "gloss": "je_me_réjouisse" }
-    ]
-  },
-  {
-    "verse_number": 30,
-    "translations": {
-      "segond": "Et quand ton fils est arrivé, celui qui a mangé ton bien avec des prostituées, c'est pour lui que tu as tué le veau gras !",
-      "darby": "mais quand ton fils que voici, qui a mangé ton avoir avec des prostituées, est venu, tu as tué pour lui le veau gras."
-    },
-    "interlinear": [
-      { "greek": "ὅτε", "gloss": "quand" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "υἱός", "gloss": "fils" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "οὗτος", "gloss": "celui-ci", "analyse": "L'aîné refuse délibérément de dire 'mon frère'. En disant avec mépris 'ce fils à toi', il renie sa propre fraternité. Ce vocabulaire de séparation démontre que l'aîné est, spirituellement, tout aussi 'perdu' que le plus jeune." },
-      { "greek": "ὁ", "gloss": "qui" },
-      { "greek": "καταφαγών", "gloss": "ayant_dévoré" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "βίον", "gloss": "bien/substance" },
-      { "greek": "μετὰ", "gloss": "avec" },
-      { "greek": "πορνῶν", "gloss": "prostituées" },
-      { "greek": "ἦλθεν,", "gloss": "est_venu" },
-      { "greek": "ἔθυσας", "gloss": "tu_as_sacrifié" },
-      { "greek": "αὐτῷ", "gloss": "pour_lui" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "μόσχον", "gloss": "veau" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "σιτευτόν.", "gloss": "engraissé" }
-    ]
-  },
-  {
-    "verse_number": 31,
-    "translations": {
-      "segond": "Mon enfant, lui dit le père, tu es toujours avec moi, et tout ce que je possède est à toi ;",
-      "darby": "Et il lui dit : Mon enfant, tu es toujours avec moi, et tout ce qui est à moi est à toi."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "le/il" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Τέκνον,", "gloss": "Enfant/Petit" },
-      { "greek": "σὺ", "gloss": "toi" },
-      { "greek": "πάντοτε", "gloss": "toujours" },
-      { "greek": "μετ’", "gloss": "avec" },
-      { "greek": "ἐμοῦ", "gloss": "moi" },
-      { "greek": "εἶ,", "gloss": "tu_es" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πάντα", "gloss": "tout" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "ἐμὰ", "gloss": "miens" },
-      { "greek": "σά", "gloss": "tiens" },
-      { "greek": "ἐστιν·", "gloss": "sont" }
-    ]
-  },
-  {
-    "verse_number": 32,
-    "translations": {
-      "segond": "mais il fallait bien se réjouir et s'égayer, parce que ton frère que voici était mort et qu'il est revenu à la vie, parce qu'il était perdu et qu'il est retrouvé.",
-      "darby": "Mais il fallait faire bonne chère et se réjouir, car ton frère que voici était mort, et il est revenu à la vie ; et il était perdu, et il est retrouvé."
-    },
-    "interlinear": [
-      { "greek": "εὐφρανθῆναι", "gloss": "Se_réjouir" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "χαρῆναι", "gloss": "s'égayer/être_joyeux" },
-      { "greek": "ἔδει,", "gloss": "il_fallait" },
-      { "greek": "ὅτι", "gloss": "car" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "ἀδελφός", "gloss": "frère" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "οὗτος", "gloss": "ceci" },
-      { "greek": "νεκρὸς", "gloss": "mort" },
-      { "greek": "ἦν", "gloss": "était" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἔζησεν,", "gloss": "revécut" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀπολωλὼς", "gloss": "perdu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "εὑρέθη.", "gloss": "fut_retrouvé" }
-    ]
-  }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 12 - τῆς : L'article génitif précédant 'substance' (τῆς οὐσίας) est contracté en 'de la' ou possessif par les traducteurs.\n• Verset 22 - Ταχὺ : L'adverbe 'Vite' est placé au début de l'ordre impératif en grec pour souligner l'empressement du Père, souvent lissé en milieu de phrase en français.\n• Verset 22 - τὴν πρώτην : Littéralement 'la première'. Darby et Segond utilisent 'la plus belle', interprétant la 'priorité' comme une 'qualité supérieure', alors que le grec suggère la robe originelle (celle d'avant la chute).\n• Verset 23 - τὸν μόσχον τὸν σιτετυόν : Le redoublement de l'article en grec ('le veau, celui qui est engraissé') marque une insistance forte sur l'unicité de ce veau, que les traducteurs simplifient en 'le veau gras'.\n• Verset 31 - Τέκνον : Terme de tendresse ('mon petit', 'mon enfant') utilisé par le Père pour apaiser l'aîné, là où ce dernier ne voyait que des rapports de force serviles.\n\nAnalyse spirituelle :\nCette parabole est l'icône de la Philanthropie divine. Elle nous montre que le péché n'est pas une faute juridique, mais une 'aliénation' (le départ dans le pays lointain). La conversion (*metanoia*) commence par le 'retour en soi-même', la découverte que notre véritable identité n'est pas dans nos pourceaux mais dans la maison du Père.\n\nLa réaction du Père est bouleversante : il ne demande aucune explication, il court, il embrasse. Il restaure la dignité baptismale (la robe et l'anneau) et invite au repas eucharistique (le veau gras). Le drame final se déplace sur le fils aîné : il représente le danger de la 'bonne conscience' religieuse qui, à force d'obéir par devoir, oublie l'amour. L'Évangile nous laisse sur un suspens : l'aîné entrera-t-il finalement dans la joie ? C'est la question que le Triode pose à chaque fidèle."
-
   },
   "apostle": {
-  "reference": "1 Corinthiens 6, 12-20",
-  "title": "Le Corps est le Temple du Saint-Esprit",
-  "interlinear": [
-  {
-   "verse_number": 12,
-    "translations": {
-      "segond": "Tout m'est permis, mais tout n'est pas utile ; tout m'est permis, mais je ne me laisserai asservir par quoi que ce soit.",
-      "darby": "Toutes choses me sont permises, mais toutes choses ne sont pas avantageuses ; toutes choses me sont permises, mais je ne me laisserai asservir par aucune."
-    },
+    "reference": "1 Corinthiens 6, 12-20",
+    "title": "Le Corps est le Temple du Saint-Esprit",
     "interlinear": [
-      { "greek": "Πάντα", "gloss": "Toutes_choses" },
-      { "greek": "μοι", "gloss": "à_moi" },
-      { "greek": "ἔξεστιν,", "gloss": "sont_permises" },
-      { "greek": "ἀλλ’", "gloss": "mais" },
-      { "greek": "οὐ", "gloss": "non" },
-      { "greek": "πάντα", "gloss": "toutes_choses" },
-      { "greek": "συμφέρει.", "gloss": "sont_utiles" },
-      { "greek": "πάντα", "gloss": "Toutes_choses" },
-      { "greek": "μοι", "gloss": "à_moi" },
-      { "greek": "ἔξεστιν,", "gloss": "sont_permises" },
-      { "greek": "ἀλλ’", "gloss": "mais" },
-      { "greek": "οὐκ", "gloss": "non" },
-      { "greek": "ἐγὼ", "gloss": "moi" },
-      { "greek": "ἐξουσιασθήσομαι", "gloss": "serai_asservi", "analyse": "Du verbe *exousiazo* (exercer l'autorité). Saint Paul pose le fondement de l'ascèse orthodoxe : la vraie liberté n'est pas de faire tout ce qu'on veut (ce qui conduit à la tyrannie des passions), mais de ne se laisser dominer par rien. L'ascèse nous libère de l'esclavage du monde." },
-      { "greek": "ὑπό", "gloss": "par" },
-      { "greek": "τινος.", "gloss": "quelque_chose" }
-    ]
-  },
-  {
-    "verse_number": 13,
-    "translations": {
-      "segond": "Les aliments sont pour le ventre, et le ventre pour les aliments ; et Dieu détruira l'un comme les autres. Mais le corps n'est pas pour l'impudicité. Il est pour le Seigneur, et le Seigneur pour le corps.",
-      "darby": "Les viandes sont pour le ventre, et le ventre pour les viandes ; mais Dieu anéantira et l'un et les autres. Or le corps n'est pas pour la fornication, mais pour le Seigneur, et le Seigneur pour le corps."
-    },
-    "interlinear": [
-      { "greek": "τὰ", "gloss": "Les" },
-      { "greek": "βρώματα", "gloss": "aliments" },
-      { "greek": "τῇ", "gloss": "pour_le" },
-      { "greek": "κοιλίᾳ,", "gloss": "ventre" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἡ", "gloss": "le" },
-      { "greek": "κοιλία", "gloss": "ventre" },
-      { "greek": "τοῖς", "gloss": "pour_les" },
-      { "greek": "βρώμασιν·", "gloss": "aliments" },
-      { "greek": "ὁ", "gloss": "—" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "θεὸς", "gloss": "Dieu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ταύτην", "gloss": "celui-ci" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ταῦτα", "gloss": "ceux-ci" },
-      { "greek": "καταργήσει.", "gloss": "détruira" },
-      { "greek": "τὸ", "gloss": "Le" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "σῶμα", "gloss": "corps" },
-      { "greek": "οὐ", "gloss": "non" },
-      { "greek": "τῇ", "gloss": "pour_la" },
-      { "greek": "πορνείᾳ", "gloss": "fornication/impudicité" },
-      { "greek": "ἀλλὰ", "gloss": "mais" },
-      { "greek": "τῷ", "gloss": "pour_le" },
-      { "greek": "κυρίῳ,", "gloss": "Seigneur" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "κύριος", "gloss": "Seigneur" },
-      { "greek": "τῷ", "gloss": "pour_le" },
-      { "greek": "σώματι·", "gloss": "corps" }
-    ]
-  },
-  {
-    "verse_number": 14,
-    "translations": {
-      "segond": "Et Dieu, qui a ressuscité le Seigneur, nous ressuscitera aussi par sa puissance.",
-      "darby": "Et Dieu a ressuscité le Seigneur, et il nous ressuscitera par sa puissance."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "—" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "θεὸς", "gloss": "Dieu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "κύριον", "gloss": "Seigneur" },
-      { "greek": "ἤγειρεν", "gloss": "a_ressuscité" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἡμᾶς", "gloss": "nous" },
-      { "greek": "ἐξεγερεῖ", "gloss": "ressuscitera" },
-      { "greek": "διὰ", "gloss": "par" },
-      { "greek": "τῆς", "gloss": "la" },
-      { "greek": "δυνάμεως", "gloss": "puissance" },
-      { "greek": "αὐτοῦ.", "gloss": "de_lui" }
-    ]
-  },
-  {
-    "verse_number": 15,
-    "translations": {
-      "segond": "Ne savez-vous pas que vos corps sont des membres de Christ ? Prendrai-je donc les membres de Christ, pour en faire les membres d'une prostituée ? Loin de là !",
-      "darby": "Ne savez-vous pas que vos corps sont des membres de Christ ? Prendrai-je donc les membres de Christ pour en faire les membres d'une prostituée ? Qu'ainsi n'advienne !"
-    },
-    "interlinear": [
-      { "greek": "οὐκ", "gloss": "Ne...pas" },
-      { "greek": "οἴδατε", "gloss": "savez-vous" },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "σώματα", "gloss": "corps" },
-      { "greek": "ὑμῶν", "gloss": "de_vous" },
-      { "greek": "μέλη", "gloss": "membres", "analyse": "Saint Paul affirme ici que notre union au Christ n'est pas seulement intellectuelle ou morale, elle est organique et corporelle. Par le baptême et l'eucharistie, notre chair devient littéralement une extension du Corps glorifié du Christ." },
-      { "greek": "Χριστοῦ", "gloss": "de_Christ" },
-      { "greek": "ἐστιν;", "gloss": "sont" },
-      { "greek": "ἄρας", "gloss": "Ayant_pris" },
-      { "greek": "οὖν", "gloss": "donc" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "μέλη", "gloss": "membres" },
-      { "greek": "τοῦ", "gloss": "du" },
-      { "greek": "Χριστοῦ", "gloss": "Christ" },
-      { "greek": "ποιήσω", "gloss": "ferai-je" },
-      { "greek": "πόρνης", "gloss": "d'une_prostituée" },
-      { "greek": "μέλη;", "gloss": "membres" },
-      { "greek": "μὴ", "gloss": "Ne" },
-      { "greek": "γένοιτο.", "gloss": "puisse_arriver/loin_de_là" }
-    ]
-  },
-  {
-    "verse_number": 16,
-    "translations": {
-      "segond": "Ne savez-vous pas que celui qui s'attache à la prostituée est un seul corps avec elle ? Car, est-il dit, les deux deviendront une seule chair.",
-      "darby": "Ne savez-vous pas que celui qui est uni à une prostituée est un seul corps avec elle ? Car les deux, est-il dit, seront une seule chair."
-    },
-    "interlinear": [
-      { "greek": "ἢ", "gloss": "Ou" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "οἴδατε", "gloss": "savez-vous" },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "ὁ", "gloss": "celui" },
-      { "greek": "κολλώμενος", "gloss": "s'attachant", "analyse": "Le verbe *kollao* (se coller, s'unir). C'est le même verbe utilisé dans l'Évangile quand le Fils Prodigue \"s'attache\" à un citoyen du pays lointain (Luc 15,15), et dans la Genèse pour le mariage. Le péché charnel n'est pas qu'un acte physique, c'est une fusion ontologique qui désacralise l'être." },
-      { "greek": "τῇ", "gloss": "à_la" },
-      { "greek": "πόρνῃ", "gloss": "prostituée" },
-      { "greek": "ἓν", "gloss": "un_seul" },
-      { "greek": "σῶμά", "gloss": "corps" },
-      { "greek": "ἐστιν;", "gloss": "est" },
-      { "greek": "Ἔσονται", "gloss": "Ils_seront" },
-      { "greek": "γάρ,", "gloss": "car" },
-      { "greek": "φησίν,", "gloss": "dit-il" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "δύο", "gloss": "deux" },
-      { "greek": "εἰς", "gloss": "en" },
-      { "greek": "σάρκα", "gloss": "chair" },
-      { "greek": "μίαν.", "gloss": "une_seule" }
-    ]
-  },
-  {
-    "verse_number": 17,
-    "translations": {
-      "segond": "Mais celui qui s'attache au Seigneur est avec lui un seul esprit.",
-      "darby": "Mais celui qui est uni au Seigneur est un seul esprit avec lui."
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "Celui" },
-      { "greek": "δὲ", "gloss": "mais" },
-      { "greek": "κολλώμενος", "gloss": "s'attachant" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "κυρίῳ", "gloss": "Seigneur" },
-      { "greek": "ἓν", "gloss": "un_seul" },
-      { "greek": "πνεῦμά", "gloss": "esprit" },
-      { "greek": "ἐστιν.", "gloss": "est" }
-    ]
-  },
-  {
-    "verse_number": 18,
-    "translations": {
-      "segond": "Fuyez l'impudicité. Quelque autre péché qu'un homme commette, ce péché est hors du corps ; mais celui qui se livre à l'impudicité pèche contre son propre corps.",
-      "darby": "Fuyez la fornication : quelque péché que l'homme commette, il est hors du corps, mais le fornicateur pèche contre son propre corps."
-    },
-    "interlinear": [
-      { "greek": "Φεύγετε", "gloss": "Fuyez" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "πορνείαν.", "gloss": "fornication" },
-      { "greek": "πᾶν", "gloss": "Tout" },
-      { "greek": "ἁμάρτημα", "gloss": "péché" },
-      { "greek": "ὃ", "gloss": "que" },
-      { "greek": "ἐὰν", "gloss": "si/lequel" },
-      { "greek": "ποιήσῃ", "gloss": "commet" },
-      { "greek": "ἄνθρωπος", "gloss": "homme" },
-      { "greek": "ἐκτὸς", "gloss": "hors" },
-      { "greek": "τοῦ", "gloss": "du" },
-      { "greek": "σώματός", "gloss": "corps" },
-      { "greek": "ἐστιν,", "gloss": "est" },
-      { "greek": "ὁ", "gloss": "celui" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "πορνεύων", "gloss": "forniquant" },
-      { "greek": "εἰς", "gloss": "contre" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "ἴδιον", "gloss": "propre" },
-      { "greek": "σῶμα", "gloss": "corps" },
-      { "greek": "ἁμαρτάνει.", "gloss": "pèche" }
-    ]
-  },
-  {
-    "verse_number": 19,
-    "translations": {
-      "segond": "Ne savez-vous pas que votre corps est le temple du Saint Esprit qui est en vous, que vous avez reçu de Dieu, et que vous ne vous appartenez point à vous-mêmes ?",
-      "darby": "Ne savez-vous pas que votre corps est le temple du Saint Esprit qui est en vous, et que vous avez de Dieu ? Et vous n'êtes pas à vous-mêmes ;"
-    },
-    "interlinear": [
-      { "greek": "ἢ", "gloss": "Ou" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "οἴδατε", "gloss": "savez-vous" },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "σῶμα", "gloss": "corps" },
-      { "greek": "ὑμῶν", "gloss": "de_vous" },
-      { "greek": "ναὸς", "gloss": "temple/sanctuaire", "analyse": "Le mot *naos* désigne spécifiquement le Saint des Saints (le lieu intime de la présence divine), par opposition à *hieron* (le complexe du temple en général). L'Orthodoxie ne voit pas le corps comme une prison pour l'âme (hérésie platonicienne), mais comme un tabernacle sacré appelé à la glorification." },
-      { "greek": "τοῦ", "gloss": "du" },
-      { "greek": "ἐν", "gloss": "en" },
-      { "greek": "ὑμῖν", "gloss": "vous" },
-      { "greek": "ἁγίου", "gloss": "Saint" },
-      { "greek": "πνεύματός", "gloss": "Esprit" },
-      { "greek": "ἐστιν,", "gloss": "est" },
-      { "greek": "οὗ", "gloss": "que" },
-      { "greek": "ἔχετε", "gloss": "vous_avez" },
-      { "greek": "ἀπὸ", "gloss": "de_la_part_de" },
-      { "greek": "θεοῦ,", "gloss": "Dieu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἐστὲ", "gloss": "vous_êtes" },
-      { "greek": "ἑαυτῶν;", "gloss": "de_vous-mêmes" }
-    ]
-  },
-  {
-    "verse_number": 20,
-    "translations": {
-      "segond": "Car vous avez été rachetés à un grand prix. Glorifiez donc Dieu dans votre corps et dans votre esprit, qui appartiennent à Dieu.",
-      "darby": "car vous avez été achetés à prix. Glorifiez donc Dieu dans votre corps."
-    },
-    "interlinear": [
-      { "greek": "ἠγοράσθητε", "gloss": "Vous_avez_été_achetés" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "τιμῆς·", "gloss": "à_un_prix" },
-      { "greek": "δοξάσατε", "gloss": "glorifiez" },
-      { "greek": "δὴ", "gloss": "donc" },
-      { "greek": "τὸν", "gloss": "—" },
-      { "greek": "θεὸν", "gloss": "Dieu" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῷ", "gloss": "le" },
-      { "greek": "σώματι", "gloss": "corps" },
-      { "greek": "ὑμῶν", "gloss": "de_vous" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῷ", "gloss": "le" },
-      { "greek": "πνεύματι", "gloss": "esprit" },
-      { "greek": "ὑμῶν,", "gloss": "de_vous" },
-      { "greek": "ἅτινά", "gloss": "lesquels" },
-      { "greek": "ἐστιν", "gloss": "sont" },
-      { "greek": "τοῦ", "gloss": "de" },
-      { "greek": "θεοῦ.", "gloss": "Dieu" }
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "Tout m'est permis, mais tout n'est pas utile ; tout m'est permis, mais je ne me laisserai asservir par quoi que ce soit.",
+          "darby": "Toutes choses me sont permises, mais toutes choses ne sont pas avantageuses ; toutes choses me sont permises, mais je ne me laisserai asservir par aucune."
+        },
+        "interlinear": [
+          {
+            "greek": "Πάντα",
+            "gloss": "Toutes_choses"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ἔξεστιν,",
+            "gloss": "sont_permises"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "συμφέρει.",
+            "gloss": "sont_utiles"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "Toutes_choses"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ἔξεστιν,",
+            "gloss": "sont_permises"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐξουσιασθήσομαι",
+            "gloss": "serai_asservi",
+            "analyse": "Du verbe *exousiazo* (exercer l'autorité). Saint Paul pose le fondement de l'ascèse orthodoxe : la vraie liberté n'est pas de faire tout ce qu'on veut (ce qui conduit à la tyrannie des passions), mais de ne se laisser dominer par rien. L'ascèse nous libère de l'esclavage du monde."
+          },
+          {
+            "greek": "ὑπό",
+            "gloss": "par"
+          },
+          {
+            "greek": "τινος.",
+            "gloss": "quelque_chose"
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "translations": {
+          "segond": "Les aliments sont pour le ventre, et le ventre pour les aliments ; et Dieu détruira l'un comme les autres. Mais le corps n'est pas pour l'impudicité. Il est pour le Seigneur, et le Seigneur pour le corps.",
+          "darby": "Les viandes sont pour le ventre, et le ventre pour les viandes ; mais Dieu anéantira et l'un et les autres. Or le corps n'est pas pour la fornication, mais pour le Seigneur, et le Seigneur pour le corps."
+        },
+        "interlinear": [
+          {
+            "greek": "τὰ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "βρώματα",
+            "gloss": "aliments"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "pour_le"
+          },
+          {
+            "greek": "κοιλίᾳ,",
+            "gloss": "ventre"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κοιλία",
+            "gloss": "ventre"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "pour_les"
+          },
+          {
+            "greek": "βρώμασιν·",
+            "gloss": "aliments"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ταύτην",
+            "gloss": "celui-ci"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "καταργήσει.",
+            "gloss": "détruira"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "σῶμα",
+            "gloss": "corps"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "pour_la"
+          },
+          {
+            "greek": "πορνείᾳ",
+            "gloss": "fornication/impudicité"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "pour_le"
+          },
+          {
+            "greek": "κυρίῳ,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "pour_le"
+          },
+          {
+            "greek": "σώματι·",
+            "gloss": "corps"
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Et Dieu, qui a ressuscité le Seigneur, nous ressuscitera aussi par sa puissance.",
+          "darby": "Et Dieu a ressuscité le Seigneur, et il nous ressuscitera par sa puissance."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριον",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἤγειρεν",
+            "gloss": "a_ressuscité"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἐξεγερεῖ",
+            "gloss": "ressuscitera"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "δυνάμεως",
+            "gloss": "puissance"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "translations": {
+          "segond": "Ne savez-vous pas que vos corps sont des membres de Christ ? Prendrai-je donc les membres de Christ, pour en faire les membres d'une prostituée ? Loin de là !",
+          "darby": "Ne savez-vous pas que vos corps sont des membres de Christ ? Prendrai-je donc les membres de Christ pour en faire les membres d'une prostituée ? Qu'ainsi n'advienne !"
+        },
+        "interlinear": [
+          {
+            "greek": "οὐκ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "οἴδατε",
+            "gloss": "savez-vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "σώματα",
+            "gloss": "corps"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "μέλη",
+            "gloss": "membres",
+            "analyse": "Saint Paul affirme ici que notre union au Christ n'est pas seulement intellectuelle ou morale, elle est organique et corporelle. Par le baptême et l'eucharistie, notre chair devient littéralement une extension du Corps glorifié du Christ."
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "de_Christ"
+          },
+          {
+            "greek": "ἐστιν;",
+            "gloss": "sont"
+          },
+          {
+            "greek": "ἄρας",
+            "gloss": "Ayant_pris"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μέλη",
+            "gloss": "membres"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ποιήσω",
+            "gloss": "ferai-je"
+          },
+          {
+            "greek": "πόρνης",
+            "gloss": "d'une_prostituée"
+          },
+          {
+            "greek": "μέλη;",
+            "gloss": "membres"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "Ne"
+          },
+          {
+            "greek": "γένοιτο.",
+            "gloss": "puisse_arriver/loin_de_là"
+          }
+        ]
+      },
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "Ne savez-vous pas que celui qui s'attache à la prostituée est un seul corps avec elle ? Car, est-il dit, les deux deviendront une seule chair.",
+          "darby": "Ne savez-vous pas que celui qui est uni à une prostituée est un seul corps avec elle ? Car les deux, est-il dit, seront une seule chair."
+        },
+        "interlinear": [
+          {
+            "greek": "ἢ",
+            "gloss": "Ou"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "οἴδατε",
+            "gloss": "savez-vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "κολλώμενος",
+            "gloss": "s'attachant",
+            "analyse": "Le verbe *kollao* (se coller, s'unir). C'est le même verbe utilisé dans l'Évangile quand le Fils Prodigue \"s'attache\" à un citoyen du pays lointain (Luc 15,15), et dans la Genèse pour le mariage. Le péché charnel n'est pas qu'un acte physique, c'est une fusion ontologique qui désacralise l'être."
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_la"
+          },
+          {
+            "greek": "πόρνῃ",
+            "gloss": "prostituée"
+          },
+          {
+            "greek": "ἓν",
+            "gloss": "un_seul"
+          },
+          {
+            "greek": "σῶμά",
+            "gloss": "corps"
+          },
+          {
+            "greek": "ἐστιν;",
+            "gloss": "est"
+          },
+          {
+            "greek": "Ἔσονται",
+            "gloss": "Ils_seront"
+          },
+          {
+            "greek": "γάρ,",
+            "gloss": "car"
+          },
+          {
+            "greek": "φησίν,",
+            "gloss": "dit-il"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en"
+          },
+          {
+            "greek": "σάρκα",
+            "gloss": "chair"
+          },
+          {
+            "greek": "μίαν.",
+            "gloss": "une_seule"
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "translations": {
+          "segond": "Mais celui qui s'attache au Seigneur est avec lui un seul esprit.",
+          "darby": "Mais celui qui est uni au Seigneur est un seul esprit avec lui."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Celui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "κολλώμενος",
+            "gloss": "s'attachant"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἓν",
+            "gloss": "un_seul"
+          },
+          {
+            "greek": "πνεῦμά",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "ἐστιν.",
+            "gloss": "est"
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "translations": {
+          "segond": "Fuyez l'impudicité. Quelque autre péché qu'un homme commette, ce péché est hors du corps ; mais celui qui se livre à l'impudicité pèche contre son propre corps.",
+          "darby": "Fuyez la fornication : quelque péché que l'homme commette, il est hors du corps, mais le fornicateur pèche contre son propre corps."
+        },
+        "interlinear": [
+          {
+            "greek": "Φεύγετε",
+            "gloss": "Fuyez"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πορνείαν.",
+            "gloss": "fornication"
+          },
+          {
+            "greek": "πᾶν",
+            "gloss": "Tout"
+          },
+          {
+            "greek": "ἁμάρτημα",
+            "gloss": "péché"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si/lequel"
+          },
+          {
+            "greek": "ποιήσῃ",
+            "gloss": "commet"
+          },
+          {
+            "greek": "ἄνθρωπος",
+            "gloss": "homme"
+          },
+          {
+            "greek": "ἐκτὸς",
+            "gloss": "hors"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "σώματός",
+            "gloss": "corps"
+          },
+          {
+            "greek": "ἐστιν,",
+            "gloss": "est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "πορνεύων",
+            "gloss": "forniquant"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "contre"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἴδιον",
+            "gloss": "propre"
+          },
+          {
+            "greek": "σῶμα",
+            "gloss": "corps"
+          },
+          {
+            "greek": "ἁμαρτάνει.",
+            "gloss": "pèche"
+          }
+        ]
+      },
+      {
+        "verse_number": 19,
+        "translations": {
+          "segond": "Ne savez-vous pas que votre corps est le temple du Saint Esprit qui est en vous, que vous avez reçu de Dieu, et que vous ne vous appartenez point à vous-mêmes ?",
+          "darby": "Ne savez-vous pas que votre corps est le temple du Saint Esprit qui est en vous, et que vous avez de Dieu ? Et vous n'êtes pas à vous-mêmes ;"
+        },
+        "interlinear": [
+          {
+            "greek": "ἢ",
+            "gloss": "Ou"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "οἴδατε",
+            "gloss": "savez-vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σῶμα",
+            "gloss": "corps"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "ναὸς",
+            "gloss": "temple/sanctuaire",
+            "analyse": "Le mot *naos* désigne spécifiquement le Saint des Saints (le lieu intime de la présence divine), par opposition à *hieron* (le complexe du temple en général). L'Orthodoxie ne voit pas le corps comme une prison pour l'âme (hérésie platonicienne), mais comme un tabernacle sacré appelé à la glorification."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἁγίου",
+            "gloss": "Saint"
+          },
+          {
+            "greek": "πνεύματός",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "ἐστιν,",
+            "gloss": "est"
+          },
+          {
+            "greek": "οὗ",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἔχετε",
+            "gloss": "vous_avez"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de_la_part_de"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐστὲ",
+            "gloss": "vous_êtes"
+          },
+          {
+            "greek": "ἑαυτῶν;",
+            "gloss": "de_vous-mêmes"
+          }
+        ]
+      },
+      {
+        "verse_number": 20,
+        "translations": {
+          "segond": "Car vous avez été rachetés à un grand prix. Glorifiez donc Dieu dans votre corps et dans votre esprit, qui appartiennent à Dieu.",
+          "darby": "car vous avez été achetés à prix. Glorifiez donc Dieu dans votre corps."
+        },
+        "interlinear": [
+          {
+            "greek": "ἠγοράσθητε",
+            "gloss": "Vous_avez_été_achetés"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τιμῆς·",
+            "gloss": "à_un_prix"
+          },
+          {
+            "greek": "δοξάσατε",
+            "gloss": "glorifiez"
+          },
+          {
+            "greek": "δὴ",
+            "gloss": "donc"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "—"
+          },
+          {
+            "greek": "θεὸν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σώματι",
+            "gloss": "corps"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "ὑμῶν,",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "ἅτινά",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ.",
+            "gloss": "Dieu"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 13 - πορνείᾳ : Traduit par 'impudicité' (Segond) et 'fornication' (Darby). Le terme grec englobe toute relation sexuelle en dehors de la bénédiction divine, marquant une rupture d'alliance.\n• Verset 15 - μὴ γένοιτο : Littéralement 'Que cela ne puisse arriver'. Formule d'exécration juive classique que Segond traduit par 'Loin de là !' et Darby par le solennel 'Qu'ainsi n'advienne !'.\n• Verset 20 - Fin de verset : Le texte critique byzantin (suivi par la liturgie orthodoxe et Segond) ajoute 'et dans votre esprit, qui appartiennent à Dieu'. Darby s'appuie sur d'autres manuscrits et arrête sa traduction au mot 'corps'.\n\nAnalyse spirituelle :\nCette épître éclaire magistralement l'Évangile du Fils Prodigue. La débauche du jeune fils dans le pays lointain n'est pas qu'une banqueroute financière, c'est une profanation du 'Naos' (le Saint des Saints corporel). \n\nL'apôtre Paul combat ici un dualisme mortifère : non, le corps n'est pas un simple vêtement jetable de l'âme avec lequel on pourrait tout faire ('tout m'est permis'). Nos corps sont les 'membres du Christ'. Le péché charnel arrache littéralement un membre du Christ pour le 'coller' (κολλώμενος) au monde déchu. Inversement, la véritable liberté du chrétien réside dans la sanctification de son être tout entier, corps et âme, acheté au 'grand prix' du sang versé, pour devenir la demeure irradiante de l'Esprit Saint.",
+    "homiletic_axes": [
+      {
+        "title": "Quitter la dispersion et rentrer en soi-même",
+        "content": "Le fils se disperse dans un pays lointain puis « rentre en lui-même ». Ce retour intérieur n’est pas un enfermement : il rouvre le dialogue avec le père et met l’homme en mouvement vers la communion.",
+        "keywords": [
+          "διασκορπίζω — disperser",
+          "εἰς ἑαυτὸν ἐλθών — rentré en lui-même",
+          "ἀναστὰς — s’étant levé"
+        ]
+      },
+      {
+        "title": "La montée vers le Père commence par un relèvement",
+        "content": "Le résumé S2 décrit le Fils prodigue comme une élévation verticale vers le Père. Dans le texte, cette élévation passe paradoxalement par l’aveu de la chute, puis par l’acte de se lever et de retourner.",
+        "keywords": [
+          "ἀνίστημι — se lever",
+          "πορεύομαι — aller",
+          "πατήρ — père"
+        ]
+      },
+      {
+        "title": "Le corps n’est pas une possession isolée",
+        "content": "Le fils traite d’abord son héritage et sa propre vie comme des biens autonomes. Paul rappelle que le corps appartient au Seigneur, qu’il est membre du Christ et temple de l’Esprit : la conversion rétablit une appartenance vivante.",
+        "keywords": [
+          "σῶμα — corps",
+          "μέλος Χριστοῦ — membre du Christ",
+          "ναὸς τοῦ Πνεύματος — temple de l’Esprit"
+        ]
+      },
+      {
+        "title": "Achetés à grand prix, reçus comme fils",
+        "content": "Le père ne réduit pas le revenant au statut de mercenaire : robe, anneau et festin restaurent publiquement la filiation. L’Apôtre rappelle que nous avons été achetés à grand prix ; cette grâce reçue invite à glorifier Dieu dans le corps.",
+        "keywords": [
+          "υἱός — fils",
+          "στολή — robe",
+          "τιμή — prix/honneur"
+        ]
+      },
+      {
+        "title": "Entrer dans la joie sans exclure le frère",
+        "content": "Le retour du cadet ne clôt pas la parabole : le père sort aussi vers l’aîné. La communion restaurée avec Dieu appelle une communion fraternelle qui refuse de transformer l’obéissance ou la fidélité en droit d’exclure.",
+        "keywords": [
+          "εὐφραίνω — se réjouir",
+          "ἀδελφός — frère",
+          "κοινωνία — communion"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Revenir au Père avec toute son existence",
+        "reference": "Luc 15, 11-32 ; 1 Corinthiens 6, 12-20",
+        "content": "Le retour du fils n’est pas seulement moral ou intérieur : le père restaure sa place, son corps et la communion du repas. Paul révèle cette profondeur corporelle de la filiation : appartenir au Christ et devenir temple de l’Esprit.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le Fils prodigue » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez comment éloignement, retour, corps, filiation et communion relient la parabole à l’enseignement de Paul."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 13 - πορνείᾳ : Traduit par 'impudicité' (Segond) et 'fornication' (Darby). Le terme grec englobe toute relation sexuelle en dehors de la bénédiction divine, marquant une rupture d'alliance.\n• Verset 15 - μὴ γένοιτο : Littéralement 'Que cela ne puisse arriver'. Formule d'exécration juive classique que Segond traduit par 'Loin de là !' et Darby par le solennel 'Qu'ainsi n'advienne !'.\n• Verset 20 - Fin de verset : Le texte critique byzantin (suivi par la liturgie orthodoxe et Segond) ajoute 'et dans votre esprit, qui appartiennent à Dieu'. Darby s'appuie sur d'autres manuscrits et arrête sa traduction au mot 'corps'.\n\nAnalyse spirituelle :\nCette épître éclaire magistralement l'Évangile du Fils Prodigue. La débauche du jeune fils dans le pays lointain n'est pas qu'une banqueroute financière, c'est une profanation du 'Naos' (le Saint des Saints corporel). \n\nL'apôtre Paul combat ici un dualisme mortifère : non, le corps n'est pas un simple vêtement jetable de l'âme avec lequel on pourrait tout faire ('tout m'est permis'). Nos corps sont les 'membres du Christ'. Le péché charnel arrache littéralement un membre du Christ pour le 'coller' (κολλώμενος) au monde déchu. Inversement, la véritable liberté du chrétien réside dans la sanctification de son être tout entier, corps et âme, acheté au 'grand prix' du sang versé, pour devenir la demeure irradiante de l'Esprit Saint." 
 }
-}  
