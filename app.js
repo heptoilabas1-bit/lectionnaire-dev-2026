@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '92_nativity_after': 'La Fuite en Égypte (Dimanche après la Nativité)',
         '93_theophany_before': 'Commencement de l’Évangile (Dimanche avant la Théophanie)',
         '94_theophany_after': 'Le début de la Prédication (Dimanche après la Théophanie)',
-        '95_canaanite': 'La Cananéenne (Dimanche tampon de janvier)'
+        // La Cananéenne possède une fiche canonique unique : 317_after_pentecost_17.
     };
 
     // --- SÉCURITÉ : CHOIX PAR DÉFAUT ---
