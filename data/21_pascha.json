@@ -1179,10 +1179,95 @@
     "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 1 - πρὸς τὸν θεόν : Rendu par 'avec' ou 'auprès de'. La préposition 'pros' implique un mouvement dynamique, une orientation vers. Le Verbe n'est pas statique à côté de Dieu, il est élan ininterrompu d'amour vers l'Autre.\n• Verset 5 - κατέλαβεν : Segond traduit par 'reçue', Darby par 'comprise'. Littéralement, c'est 'mettre la main sur' ou 'écraser'. Les ténèbres ont essayé d'étouffer la lumière (la crucifixion), mais elles n'ont pas pu l'enfermer (la résurrection).\n• Verset 13 - ἐξ αἱμάτων / θελήματος σαρκὸς : Ce verset est capital, il liste toutes les forces de détermination mondaine (l'hérédité, la biologie, la volonté propre) que le nouveau 'Sujet' doit transcender.\n\nAnalyse spirituelle globale du Prologue :\nLa nuit de Pâques est l'effondrement final de l'illusion. Le 'Monde duel' s'appuie sur la loi de la mort : tout ce qui est créé (la chair, la matière) finit par se disloquer, et l'Ego, terrorisé par cette finitude, passe son temps à chercher du pouvoir pour s'en protéger, instaurant la Loi morale et la domination.\nLa Croix semblait être la victoire absolue de cette mort : le système mondain et religieux s'était coalisé pour détruire le Christ, l'enfermant dans le tombeau (les ténèbres). Mais l'Évangile de Jean ne lit pas Pâques comme un miracle local, il nous ramène au 'Principe' (l'Arché). Le tombeau ne contenait pas un simple cadavre humain, il contenait le Logos incarné.\nLa Résurrection n'est pas un phénomène de réanimation ; c'est l'Énergie incréée qui fait exploser de l'intérieur la prison de la mort. La Ténèbre (l'isolement, le péché, la fermeture de l'Ego) ne peut pas 'saisir' ni étouffer cette Lumière. Désormais, la 'chair' humaine est divinisée. En passant de la Loi à la Grâce, Pâques annonce la naissance des Sujets libres : la mort n'est plus un mur biologique, elle est devenue la porte ouverte de l'éternité.",
     "liturgical_echoes": [
       {
-        "title": "Pédagogie pascale des sens",
-        "reference": "Pâques — Thomas — Myrrhophores — Samaritaine — Aveugle-né",
-        "content": "Le Ressuscité ne délivre pas l’homme de son corps : il guérit et transfigure sa manière de sentir. Le parfum porté au tombeau, le toucher proposé à Thomas, la soif de la Samaritaine et la vue donnée à l’Aveugle-né conduisent de la recherche sensible à la rencontre, puis de la rencontre au témoignage.",
+        "title": "La Vie manifestée devient témoignage",
+        "reference": "Jean 1, 1-17 ; Actes 1, 1-8",
+        "content": "Le Verbe, Vie et lumière, s’est fait chair et a habité parmi nous. Ressuscité, il se montre vivant, promet l’Esprit et transforme ses disciples en témoins.",
         "connections": []
+      }
+    ],
+    "homiletic_axes": [
+      {
+        "title": "Au commencement, le Verbe vivant",
+        "content": "Le Prologue ne commence pas au tombeau mais au principe : le Verbe est auprès de Dieu et il est Dieu. Pâques manifeste dans l’histoire la victoire de la Vie qui était dès le commencement.",
+        "keywords": [
+          "ἀρχή — commencement",
+          "Λόγος — Verbe",
+          "ζωή — vie"
+        ]
+      },
+      {
+        "title": "La lumière brille dans les ténèbres",
+        "content": "La lumière n’est pas absorbée par les ténèbres. La Résurrection révèle que la mort ne peut saisir la Vie du Verbe et ouvre à tout homme la lumière véritable.",
+        "keywords": [
+          "φῶς — lumière",
+          "σκοτία — ténèbres",
+          "καταλαμβάνω — saisir"
+        ]
+      },
+      {
+        "title": "Le Verbe s’est fait chair",
+        "content": "La joie pascale repose sur l’Incarnation réelle : celui qui était auprès du Père a habité parmi nous. Sa chair crucifiée et ressuscitée devient le lieu où la gloire et la grâce sont contemplées.",
+        "keywords": [
+          "σάρξ — chair",
+          "σκηνόω — dresser sa tente/habiter",
+          "δόξα — gloire"
+        ]
+      },
+      {
+        "title": "De la Résurrection à la promesse de l’Esprit",
+        "content": "Actes reprend le premier récit et conduit des apparitions du Ressuscité à la promesse de l’Esprit. Les disciples doivent recevoir une puissance avant de devenir témoins jusqu’aux extrémités de la terre.",
+        "keywords": [
+          "Πνεῦμα Ἅγιον — Esprit Saint",
+          "δύναμις — puissance",
+          "μάρτυς — témoin"
+        ]
+      },
+      {
+        "title": "Recevoir pour témoigner",
+        "content": "Les disciples ne fabriquent ni le Royaume ni leur mission. Ils attendent le don du Père, puis sont envoyés. Le mouvement pascal va de la réception de la grâce à son incarnation dans le témoignage ecclésial.",
+        "keywords": [
+          "ἐπαγγελία — promesse",
+          "λαμβάνω — recevoir",
+          "ἔσχατον τῆς γῆς — extrémité de la terre"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Pâques » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
       }
     ]
   },
@@ -1894,6 +1979,99 @@
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 4 - συναλιζόμενος : Signifie littéralement 'manger du sel avec' (partager le repas), traduisant une profonde communion. Le Royaume n'est pas un concept éthéré, il s'enracine dans la chair de la Synaxe eucharistique.\n• Verset 6 - ἀποκαθιστάνεις : Le terme est lourd de sens politique ('restaurer'). C'est l'espoir déçu des zélotes et de la foule des Rameaux, espérance charnelle que les disciples peinent encore à abandonner.\n\nAnalyse spirituelle :\nCette lecture ouvre le temps pascal, une période qui correspond spirituellement à la naissance du corps de l'Église, le corps théandrique du Christ. Le grand mouvement théophorique s'amorce : les apôtres vont porter Dieu pour le faire advenir dans le monde. Cependant, avant cet aboutissement, ils doivent traverser l'étape de l''espérance kénotique'.\n\nMalgré la Résurrection, l'Ego des apôtres résiste encore. Ils interrogent Jésus avec la pensée calculante ('dialogismoi') propre au Monde duel : 'Est-ce en ce temps que tu rétabliras Israël ?' Ils veulent encore une gloire horizontale, spatiale et mesurable. Le Christ déjoue brutalement cette préhension : le temps appartient au Père. Leur mission n'est pas de dominer le temps ni de restaurer une nation, mais de recevoir la 'Puissance' verticale de l'Esprit. Seule cette kénose totale, cet abaissement où l'homme se vide de ses agendas politiques, permet au Saint-Esprit de transformer une collection d'individus apeurés en un seul Corps de 'Sujets' uniques, unis pour être les témoins vivants de la Lumière incréée jusqu'aux extrémités de la terre."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 4 - συναλιζόμενος : Signifie littéralement 'manger du sel avec' (partager le repas), traduisant une profonde communion. Le Royaume n'est pas un concept éthéré, il s'enracine dans la chair de la Synaxe eucharistique.\n• Verset 6 - ἀποκαθιστάνεις : Le terme est lourd de sens politique ('restaurer'). C'est l'espoir déçu des zélotes et de la foule des Rameaux, espérance charnelle que les disciples peinent encore à abandonner.\n\nAnalyse spirituelle :\nCette lecture ouvre le temps pascal, une période qui correspond spirituellement à la naissance du corps de l'Église, le corps théandrique du Christ. Le grand mouvement théophorique s'amorce : les apôtres vont porter Dieu pour le faire advenir dans le monde. Cependant, avant cet aboutissement, ils doivent traverser l'étape de l''espérance kénotique'.\n\nMalgré la Résurrection, l'Ego des apôtres résiste encore. Ils interrogent Jésus avec la pensée calculante ('dialogismoi') propre au Monde duel : 'Est-ce en ce temps que tu rétabliras Israël ?' Ils veulent encore une gloire horizontale, spatiale et mesurable. Le Christ déjoue brutalement cette préhension : le temps appartient au Père. Leur mission n'est pas de dominer le temps ni de restaurer une nation, mais de recevoir la 'Puissance' verticale de l'Esprit. Seule cette kénose totale, cet abaissement où l'homme se vide de ses agendas politiques, permet au Saint-Esprit de transformer une collection d'individus apeurés en un seul Corps de 'Sujets' uniques, unis pour être les témoins vivants de la Lumière incréée jusqu'aux extrémités de la terre.",
+    "homiletic_axes": [
+      {
+        "title": "Au commencement, le Verbe vivant",
+        "content": "Le Prologue ne commence pas au tombeau mais au principe : le Verbe est auprès de Dieu et il est Dieu. Pâques manifeste dans l’histoire la victoire de la Vie qui était dès le commencement.",
+        "keywords": [
+          "ἀρχή — commencement",
+          "Λόγος — Verbe",
+          "ζωή — vie"
+        ]
+      },
+      {
+        "title": "La lumière brille dans les ténèbres",
+        "content": "La lumière n’est pas absorbée par les ténèbres. La Résurrection révèle que la mort ne peut saisir la Vie du Verbe et ouvre à tout homme la lumière véritable.",
+        "keywords": [
+          "φῶς — lumière",
+          "σκοτία — ténèbres",
+          "καταλαμβάνω — saisir"
+        ]
+      },
+      {
+        "title": "Le Verbe s’est fait chair",
+        "content": "La joie pascale repose sur l’Incarnation réelle : celui qui était auprès du Père a habité parmi nous. Sa chair crucifiée et ressuscitée devient le lieu où la gloire et la grâce sont contemplées.",
+        "keywords": [
+          "σάρξ — chair",
+          "σκηνόω — dresser sa tente/habiter",
+          "δόξα — gloire"
+        ]
+      },
+      {
+        "title": "De la Résurrection à la promesse de l’Esprit",
+        "content": "Actes reprend le premier récit et conduit des apparitions du Ressuscité à la promesse de l’Esprit. Les disciples doivent recevoir une puissance avant de devenir témoins jusqu’aux extrémités de la terre.",
+        "keywords": [
+          "Πνεῦμα Ἅγιον — Esprit Saint",
+          "δύναμις — puissance",
+          "μάρτυς — témoin"
+        ]
+      },
+      {
+        "title": "Recevoir pour témoigner",
+        "content": "Les disciples ne fabriquent ni le Royaume ni leur mission. Ils attendent le don du Père, puis sont envoyés. Le mouvement pascal va de la réception de la grâce à son incarnation dans le témoignage ecclésial.",
+        "keywords": [
+          "ἐπαγγελία — promesse",
+          "λαμβάνω — recevoir",
+          "ἔσχατον τῆς γῆς — extrémité de la terre"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La Vie manifestée devient témoignage",
+        "reference": "Jean 1, 1-17 ; Actes 1, 1-8",
+        "content": "Le Verbe, Vie et lumière, s’est fait chair et a habité parmi nous. Ressuscité, il se montre vivant, promet l’Esprit et transforme ses disciples en témoins.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Pâques » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   }
 }
