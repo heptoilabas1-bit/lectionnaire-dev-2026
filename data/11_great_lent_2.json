@@ -3,503 +3,1615 @@
     "reference": "Marc 2, 1-12",
     "title": "Guérison du paralytique à Capernaüm",
     "interlinear": [
-     {
-    "verse_number": 1,
-    "translations": {
-      "segond": "Quelques jours après, il entra de nouveau à Capernaüm. On apprit qu'il était à la maison,",
-      "darby": "Et quelques jours après, il entra de nouveau à Capernaüm ; et on ouït dire qu'il était à la maison."
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "εἰσελθὼν", "gloss": "étant_entré" },
-      { "greek": "πάλιν", "gloss": "de_nouveau" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "Καφαρναοὺμ", "gloss": "Capernaüm" },
-      { "greek": "δι’", "gloss": "après" },
-      { "greek": "ἡμερῶν,", "gloss": "des_jours" },
-      { "greek": "ἠκούσθη", "gloss": "on_entendit" },
-      { "greek": "ὅτι", "gloss": "qu'" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "οἴκῳ", "gloss": "maison" },
-      { "greek": "ἐστίν.", "gloss": "il_est" }
+      {
+        "verse_number": 1,
+        "translations": {
+          "segond": "Quelques jours après, il entra de nouveau à Capernaüm. On apprit qu'il était à la maison,",
+          "darby": "Et quelques jours après, il entra de nouveau à Capernaüm ; et on ouït dire qu'il était à la maison."
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἰσελθὼν",
+            "gloss": "étant_entré"
+          },
+          {
+            "greek": "πάλιν",
+            "gloss": "de_nouveau"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Καφαρναοὺμ",
+            "gloss": "Capernaüm"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "après"
+          },
+          {
+            "greek": "ἡμερῶν,",
+            "gloss": "des_jours"
+          },
+          {
+            "greek": "ἠκούσθη",
+            "gloss": "on_entendit"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "οἴκῳ",
+            "gloss": "maison"
+          },
+          {
+            "greek": "ἐστίν.",
+            "gloss": "il_est"
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "translations": {
+          "segond": "et il s'assembla un si grand nombre de personnes que l'espace devant la porte ne pouvait plus les contenir. Il leur annonçait la parole.",
+          "darby": "Et aussitôt beaucoup de personnes s'assemblèrent, de sorte qu'il n'y avait plus de place, pas même auprès de la porte ; et il leur annonçait la parole."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συνήχθησαν",
+            "gloss": "furent_rassemblés"
+          },
+          {
+            "greek": "πολλοὶ",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "ὥστε",
+            "gloss": "de_sorte_que"
+          },
+          {
+            "greek": "μηκέτι",
+            "gloss": "ne_plus"
+          },
+          {
+            "greek": "χωρεῖν",
+            "gloss": "avoir_de_place"
+          },
+          {
+            "greek": "μηδὲ",
+            "gloss": "ni_même"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les_espaces"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "θύραν,",
+            "gloss": "porte"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐλάλει",
+            "gloss": "il_parlait"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "λόγον.",
+            "gloss": "mot/parole"
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "translations": {
+          "segond": "Des gens vinrent lui amener un paralytique porté par quatre hommes.",
+          "darby": "Et ils viennent à lui, amenant un paralytique porté par quatre hommes."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔρχονται",
+            "gloss": "ils_viennent"
+          },
+          {
+            "greek": "φέροντες",
+            "gloss": "apportant"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "παραλυτικὸν",
+            "gloss": "un_paralytique",
+            "analyse": "Le *paralytique* est l'icône de l'âme plongée dans le Monde duel. Privé de la synergie avec les énergies divines incréées (Palamas), l'homme subit une nécrose spirituelle : il est fragmenté, immobile, incapable de faire un pas par lui-même vers le Christ parce que ses énergies vitales sont bloquées par l'ego."
+          },
+          {
+            "greek": "αἰρόμενον",
+            "gloss": "porté"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τεσσάρων.",
+            "gloss": "quatre"
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "translations": {
+          "segond": "Comme ils ne pouvaient l'approcher de lui, à cause de la foule, ils découvrirent le toit de la maison où il était, et, l'ayant rompu, ils descendirent le lit où le paralytique était couché.",
+          "darby": "Et ne pouvant s'approcher de lui, à cause de la foule, ils découvrirent le toit là où il était ; et l'ayant percé, ils descendent le petit lit sur lequel le paralytique était couché."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "δυνάμενοι",
+            "gloss": "pouvant"
+          },
+          {
+            "greek": "προσενέγκαι",
+            "gloss": "approcher"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄχλον",
+            "gloss": "foule"
+          },
+          {
+            "greek": "ἀπεστέγασαν",
+            "gloss": "ils_découvrirent/enlevèrent_le_toit",
+            "analyse": "Du verbe *apostegazo* (enlever le toit, décapsuler). Pour le Père Pascal, c'est l'acte de kénose intellectuelle absolue. Le 'toit', c'est le plafond de verre de nos conditionnements psychologiques, le système clos de la logique du Monde duel. Briser le toit, c'est creuser une ouverture verticale pour exposer directement l'âme à la Lumière incréée."
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "στέγην",
+            "gloss": "toit"
+          },
+          {
+            "greek": "ὅπου",
+            "gloss": "où"
+          },
+          {
+            "greek": "ἦν,",
+            "gloss": "il_était"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐξορύξαντες",
+            "gloss": "ayant_creusé_une_ouverture"
+          },
+          {
+            "greek": "χαλῶσι",
+            "gloss": "ils_abaissent"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κράβαττον",
+            "gloss": "lit/couchette"
+          },
+          {
+            "greek": "ὅπου",
+            "gloss": "où"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παραλυτικὸς",
+            "gloss": "paralytique"
+          },
+          {
+            "greek": "κατέκειτο.",
+            "gloss": "était_couché"
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "translations": {
+          "segond": "Jésus, voyant leur foi, dit au paralytique : Mon enfant, tes péchés te sont pardonnés.",
+          "darby": "Et Jésus, voyant leur foi, dit au paralytique : Mon enfant, tes péchés sont pardonnés."
+        },
+        "interlinear": [
+          {
+            "greek": "ἰδὼν",
+            "gloss": "Voyant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστιν",
+            "gloss": "foi"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux",
+            "analyse": "Le Christ ne voit pas la foi du paralytique, mais celle des porteurs (*autōn* : d'eux, au pluriel). C'est le mystère de la Synaxe (l'Assemblée). L'homme individualisé et brisé est incapable d'une foi pure ; c'est la communauté ecclésiale qui le porte, le soutient et l'offre à Dieu pour qu'il redevienne un 'sujet' vivant."
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "παραλυτικῷ·",
+            "gloss": "paralytique"
+          },
+          {
+            "greek": "Τέκνον,",
+            "gloss": "Enfant/Mon_petit"
+          },
+          {
+            "greek": "ἀφίενταί",
+            "gloss": "sont_remis/pardonnés",
+            "analyse": "Le verbe *aphiemi* (lâcher prise, délier). La paralysie physique n'est que la somatisation d'un nœud ontologique interne : le péché comme séparation. En prononçant le pardon, le Christ dénoue les liens de l'objectivation pour restaurer le lien de filiation ('Mon enfant')."
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "αἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁμαρτίαι.",
+            "gloss": "péchés"
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "translations": {
+          "segond": "Il y avait là quelques scribes, qui étaient assis, et qui raisonnaient dans leurs cœurs :",
+          "darby": "Or quelques-uns des scribes étaient assis là, et raisonnaient dans leurs coeurs :"
+        },
+        "interlinear": [
+          {
+            "greek": "Ἦσαν",
+            "gloss": "Étaient"
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or/cependant"
+          },
+          {
+            "greek": "τινες",
+            "gloss": "quelques-uns"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "γραμματέων",
+            "gloss": "scribes"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "καθήμενοι",
+            "gloss": "assis"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διαλογιζόμενοι",
+            "gloss": "raisonnant/discutant",
+            "analyse": "Du verbe *dialogizomai* (discuter de manière dialectique). Les scribes sont pris dans la circularité mentale du Monde duel. Ils ne voient pas le Christ comme un 'Sujet' divin, mais comme un objet d'analyse légale. Leur cœur, au lieu d'être un espace de communion, devient un tribunal conceptuel."
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρδίαις",
+            "gloss": "cœurs"
+          },
+          {
+            "greek": "αὐτῶν·",
+            "gloss": "d'eux"
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "translations": {
+          "segond": "Pourquoi cet homme parle-t-il ainsi ? Il blasphème. Qui peut pardonner les péchés, si ce n'est Dieu seul ?",
+          "darby": "Pourquoi celui-ci parle-t-il ainsi ? Il blasphème. Qui peut pardonner les péchés, sinon un seul, Dieu ?"
+        },
+        "interlinear": [
+          {
+            "greek": "Τί",
+            "gloss": "Pourquoi"
+          },
+          {
+            "greek": "οὗτος",
+            "gloss": "celui-ci"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "λαλεῖ;",
+            "gloss": "parle-t-il"
+          },
+          {
+            "greek": "βλασφημεῖ·",
+            "gloss": "il_blasphème"
+          },
+          {
+            "greek": "τίς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "δύναται",
+            "gloss": "peut"
+          },
+          {
+            "greek": "ἀφιέναι",
+            "gloss": "remettre/pardonner"
+          },
+          {
+            "greek": "ἁμαρτίας",
+            "gloss": "péchés"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un_seul"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεός;",
+            "gloss": "Dieu"
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "translations": {
+          "segond": "Jésus, ayant aussitôt connu par son esprit ce qu'ils raisonnaient en eux-mêmes, leur dit : Pourquoi avez-vous de tels raisonnements dans vos cœurs ?",
+          "darby": "Et Jésus, ayant aussitôt connu par son esprit qu'ils raisonnaient ainsi en eux-mêmes, leur dit : Pourquoi raisonnez-vous de ces choses dans vos coeurs ?"
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εὐθὺς",
+            "gloss": "aussitôt"
+          },
+          {
+            "greek": "ἐπιγνοὺς",
+            "gloss": "ayant_connu/pénétré",
+            "analyse": "Le verbe *epiginosko* indique une connaissance profonde, une perception directe. Le Christ n'attend pas qu'ils parlent. Par Son Esprit divin, Il lit directement dans leur intériorité. Il manifeste ainsi l'omniscience divine, brisant le mur extérieur par lequel les scribes pensaient se cacher."
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "par_le"
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "διαλογίζονται",
+            "gloss": "ils_raisonnent"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἑαυτοῖς",
+            "gloss": "eux-mêmes"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "Pourquoi"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "διαλογίζεσθε",
+            "gloss": "raisonnez-vous"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρδίαις",
+            "gloss": "cœurs"
+          },
+          {
+            "greek": "ὑμῶν;",
+            "gloss": "de_vous"
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "translations": {
+          "segond": "Qu'est-ce qui est le plus facile, de dire au paralytique : Tes péchés te sont pardonnés, ou de dire : Lève-toi, prends ton lit, et marche ?",
+          "darby": "Qu'est-ce qui est le plus facile, de dire au paralytique : Tes péchés sont pardonnés, ou de dire : Lève-toi, et prends ton petit lit, et marche ?"
+        },
+        "interlinear": [
+          {
+            "greek": "τί",
+            "gloss": "Qu'est-ce_qui"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "εὐκοπώτερον,",
+            "gloss": "plus_facile"
+          },
+          {
+            "greek": "εἰπεῖν",
+            "gloss": "de_dire"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "παραλυτικῷ·",
+            "gloss": "paralytique"
+          },
+          {
+            "greek": "Ἀφίενταί",
+            "gloss": "Sont_remis"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "αἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁμαρτίαι,",
+            "gloss": "péchés"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "εἰπεῖν·",
+            "gloss": "de_dire"
+          },
+          {
+            "greek": "Ἔγειρε",
+            "gloss": "Lève-toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἆρον",
+            "gloss": "prends"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κράβαττόν",
+            "gloss": "lit"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "περιπάτει;",
+            "gloss": "marche"
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "Or, afin que vous sachiez que le Fils de l'homme a sur la terre le pouvoir de pardonner les péchés :",
+          "darby": "Or, afin que vous sachiez que le fils de l'homme a le pouvoir sur la terre de pardonner les péchés"
+        },
+        "interlinear": [
+          {
+            "greek": "ἵνα",
+            "gloss": "Afin_que"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "εἰδῆτε",
+            "gloss": "vous_sachiez"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἐξουσίαν",
+            "gloss": "pouvoir/autorité",
+            "analyse": "Le mot *exousia* désigne une autorité légitime qui découle de l'essence même de l'être. Le Christ ne reçoit pas un pouvoir extérieur délégué ; en tant que Dieu incarné, Son Énergie incréée agit directement sur la terre pour recréer l'homme de l'intérieur."
+          },
+          {
+            "greek": "ἔχει",
+            "gloss": "a"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "homme"
+          },
+          {
+            "greek": "ἀφιέναι",
+            "gloss": "de_pardonner"
+          },
+          {
+            "greek": "ἁμαρτίας",
+            "gloss": "les_péchés"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆς·",
+            "gloss": "terre"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "παραλυτικῷ·",
+            "gloss": "paralytique"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Je te le dis, lève-toi, prends ton lit, et va dans ta maison.",
+          "darby": "(il dit au paralytique) : Je te dis, lève-toi, prends ton petit lit, et va dans ta maison."
+        },
+        "interlinear": [
+          {
+            "greek": "Σοὶ",
+            "gloss": "À_toi"
+          },
+          {
+            "greek": "λέγω,",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ἔγειρε",
+            "gloss": "lève-toi",
+            "analyse": "L'impératif *egeire* est le mot même de la résurrection. La guérison opérée par l'Énergie divine redresse l'homme. Le paralytique cesse d'être un objet inerte porté par les autres, il retrouve sa stature verticale de 'sujet' vivant."
+          },
+          {
+            "greek": "ἆρον",
+            "gloss": "prends"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κράβαττόν",
+            "gloss": "lit"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὕπαγε",
+            "gloss": "va/retire-toi"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἶκόν",
+            "gloss": "maison",
+            "analyse": "Le Christ ne lui dit pas de s'exhiber ou de faire de la théologie avec les scribes. Il le renvoie à sa maison (*oikos*), symbole de l'intériorité stable, de la cellule spirituelle. Guéri, le sujet doit maintenant préserver cette unité retrouvée dans la crypte de son cœur, loin des bruits du Monde duel."
+          },
+          {
+            "greek": "σου.",
+            "gloss": "de_toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "Et, à l'instant, il se leva, prit son lit, et sortit en présence de tout le monde, de sorte qu'ils étaient tous dans l'étonnement et glorifiaient Dieu, disant : Nous n'avons jamais rien vu de pareil.",
+          "darby": "Et il se leva aussitôt, et ayant pris son petit lit, il sortit devant tous, de sorte qu'ils en étaient tous hors d'eux-mêmes et glorifiaient Dieu, disant : Nous ne vîmes jamais rien de pareil."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἠγέρθη",
+            "gloss": "il_se_leva"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εὐθὺς",
+            "gloss": "aussitôt"
+          },
+          {
+            "greek": "ἄρας",
+            "gloss": "ayant_pris"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κράβαττον",
+            "gloss": "lit"
+          },
+          {
+            "greek": "ἐξῆλθεν",
+            "gloss": "il_sortit"
+          },
+          {
+            "greek": "ἔμπροσθεν",
+            "gloss": "devant"
+          },
+          {
+            "greek": "πάντων,",
+            "gloss": "tous"
+          },
+          {
+            "greek": "ὥστε",
+            "gloss": "de_sorte_que"
+          },
+          {
+            "greek": "ἐξίστασθαι",
+            "gloss": "être_hors_de_soi/extase",
+            "analyse": "Du verbe *existemi* (qui a donné extase). La foule est arrachée à ses repères rationnels ordinaires. Face à l'irruption de la Lumière divine qui transfigure le corps et l'âme de cet homme, les témoins basculent dans l'étonnement sacré, au-delà de la dualité logique."
+          },
+          {
+            "greek": "πάντας",
+            "gloss": "tous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δοξάζειν",
+            "gloss": "glorifier"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "—"
+          },
+          {
+            "greek": "θεὸν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "λέγοντας",
+            "gloss": "disant"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "—"
+          },
+          {
+            "greek": "Οὐδέποτε",
+            "gloss": "Jamais"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "εἴδομεν.",
+            "gloss": "nous_n'avons_vu"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 6 - διαλογιζόμενοι : Segond et Darby traduisent par 'raisonnaient'. Le terme grec montre un processus dialectique, un va-et-vient mental typique de la pensée dualiste qui pèse, calcule et finit par enfermer la réalité vivante dans des boîtes conceptuelles.\n• Verset 11 - κράβαττον : Traduit par 'lit' ou 'petit lit'. Ce meuble rudimentaire symbolise l'instrument de la dépendance du paralytique. En lui ordonnant de le porter, le Christ inverse le rapport de force : ce qui matérialisait son objectivation et son impuissance devient le trophée de sa liberté retrouvée.\n• Verset 12 - ἐξίστασθαι : Les traducteurs peinent à rendre la force de ce verbe ('être dans l'étonnement' ou 'être hors d'eux-mêmes'). La racine évoque l'extase, le fait de sortir de sa position habituelle. C'est l'effondrement des structures du Monde duel devant la manifestation des Énergies divines.\n\nAnalyse spirituelle :\nLe deuxième dimanche du Grand Carême, dédié à Saint Grégoire Palamas, est intimement lié à la guérison du paralytique. La paralysie n'est pas comprise ici comme un simple accident biologique, mais comme l'état spirituel de l'humanité déchue, incapable de se mouvoir vers Dieu par ses propres forces, clouée au sol par le poids de l'Ego.\n\nLa guérison s'opère par une kénose communautaire (les quatre porteurs qui brisent le 'toit' des certitudes mentales) et par l'action directe de l'Énergie incréée du Christ. Face à l'irruption de cette grâce, les scribes réagissent depuis la fermeture de leur système logique et juridique ('Il blasphème !'). Ils refusent la rencontre de Sujet à Sujet. Le Christ pulvérise ce légalisme mortifère en unifiant instantanément le paralytique, lui rendant sa stature verticale de résurrection (*egeire*) et le renvoyant à sa maison (*oikos*), lieu du combat spirituel intérieur. C'est le triomphe de la théologie palamite : Dieu ne nous sauve pas de loin par des décrets administratifs, Il nous pénètre et nous transfigure par Ses Énergies, nous arrachant à la fragmentation pour faire de notre être tout entier le réceptacle de Sa Lumière Thaborique.",
+    "homiletic_axes": [
+      {
+        "title": "Le Fils demeure quand la création change",
+        "content": "Hébreux proclame le Seigneur créateur dont les années ne finiront pas. Dans l’Évangile, ce même Fils exerce sur terre l’autorité de remettre les péchés et de relever l’homme : la guérison révèle son identité divine.",
+        "keywords": [
+          "Κύριος — Seigneur",
+          "ἀφίημι — remettre",
+          "ἐξουσία — autorité"
+        ]
+      },
+      {
+        "title": "Porter ensemble celui qui ne peut avancer",
+        "content": "Quatre hommes portent le paralytique, découvrent le toit et le déposent devant Jésus. Leur foi devient concrète et communautaire : elle ouvre un passage quand l’homme immobilisé ne peut atteindre seul le Christ.",
+        "keywords": [
+          "παραλυτικός — paralytique",
+          "βαστάζω — porter",
+          "πίστις — foi"
+        ]
+      },
+      {
+        "title": "Ne pas négliger un si grand salut",
+        "content": "L’Apôtre avertit : il faut s’attacher à la parole entendue afin de ne pas dériver. Les scribes restent immobiles dans leurs raisonnements tandis que le paralytique reçoit la parole du Christ, se lève et emporte son grabat.",
+        "keywords": [
+          "προσέχω — prêter attention",
+          "παραρρέω — dériver",
+          "ἐγείρω — relever"
+        ]
+      },
+      {
+        "title": "Guérir la racine et rendre le mouvement",
+        "content": "Jésus commence par le pardon avant de rendre la mobilité corporelle. Sans opposer âme et corps, le récit montre une guérison intégrale : la grâce atteint la rupture intérieure et rend l’homme capable de reprendre sa route.",
+        "keywords": [
+          "τέκνον — enfant",
+          "ἁμαρτία — péché",
+          "περιπατέω — marcher"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Le Fils créateur relève et sauve",
+        "reference": "Marc 2, 1-12 ; Hébreux 1, 10 - 2, 3",
+        "content": "Hébreux révèle la permanence et la souveraineté du Fils ; Marc montre cette autorité à l’œuvre dans le pardon et le relèvement du paralytique porté par la foi de plusieurs.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Saint Grégoire Palamas et le paralytique de Capharnaüm » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
   },
-  {
-    "verse_number": 2,
-    "translations": {
-      "segond": "et il s'assembla un si grand nombre de personnes que l'espace devant la porte ne pouvait plus les contenir. Il leur annonçait la parole.",
-      "darby": "Et aussitôt beaucoup de personnes s'assemblèrent, de sorte qu'il n'y avait plus de place, pas même auprès de la porte ; et il leur annonçait la parole."
-    },
+  "apostle": {
+    "reference": "Hébreux 1, 10 - 2, 3",
+    "title": "La Divinité du Fils et la Vigilance du Salut",
     "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "συνήχθησαν", "gloss": "furent_rassemblés" },
-      { "greek": "πολλοὶ", "gloss": "beaucoup" },
-      { "greek": "ὥστε", "gloss": "de_sorte_que" },
-      { "greek": "μηκέτι", "gloss": "ne_plus" },
-      { "greek": "χωρεῖν", "gloss": "avoir_de_place" },
-      { "greek": "μηδὲ", "gloss": "ni_même" },
-      { "greek": "τὰ", "gloss": "les_espaces" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "θύραν,", "gloss": "porte" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐλάλει", "gloss": "il_parlait" },
-      { "greek": "αὐτοῖς", "gloss": "à_eux" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "λόγον.", "gloss": "mot/parole" }
+      {
+        "verse_number": "1, 10",
+        "translations": {
+          "segond": "Et encore : Toi, Seigneur, tu as au commencement fondé la terre, et les cieux sont l'ouvrage de tes mains ;",
+          "darby": "Et : Toi, dans les commencements, Seigneur, tu as fondé la terre, et les cieux sont les oeuvres de tes mains :"
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ·",
+            "gloss": "Et"
+          },
+          {
+            "greek": "Σὺ",
+            "gloss": "Toi"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "au"
+          },
+          {
+            "greek": "ἀρχάς,",
+            "gloss": "commencement/principes",
+            "analyse": "La racine *arché* indique à la fois le commencement temporel et le principe ontologique. Le Christ n'est pas un organisateur du monde au sein du temps ; Il est le Principe incréé (l'Énergie créatrice) qui fonde et maintient toute l'existence au-dessus du néant."
+          },
+          {
+            "greek": "κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆν",
+            "gloss": "terre"
+          },
+          {
+            "greek": "ἐθεμελίωσας,",
+            "gloss": "tu_as_fondé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔργα",
+            "gloss": "œuvres"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "χειρῶν",
+            "gloss": "mains"
+          },
+          {
+            "greek": "σού",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "εἰσιν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "οὐρανοί·",
+            "gloss": "cieux"
+          }
+        ]
+      },
+      {
+        "verse_number": "1, 11",
+        "translations": {
+          "segond": "Ils périront, mais tu subsistes ; ils vieilliront tous comme un vêtement,",
+          "darby": "eux, ils périront, mais toi, tu subsistes ; et ils vieilliront tous comme un vêtement,"
+        },
+        "interlinear": [
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "Eux"
+          },
+          {
+            "greek": "ἀπολοῦνται,",
+            "gloss": "périront"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "διαμένεις·",
+            "gloss": "tu_subsistes/demeures",
+            "analyse": "Le verbe *diameno* indique la permanence absolue à travers le temps. Le Monde duel est structurellement marqué par l'impermanence, la corruption et la mort. Le drame de l'homme déchu est de chercher sa sécurité dans ce qui périt, alors que sa vocation de sujet est de s'ancrer dans Celui qui traverse tout sans changer."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἱμάτιον",
+            "gloss": "vêtement"
+          },
+          {
+            "greek": "παλαιωθήσονται,",
+            "gloss": "ils_vieilliront"
+          }
+        ]
+      },
+      {
+        "verse_number": "1, 12",
+        "translations": {
+          "segond": "tu les rouleras comme un manteau et ils seront changés ; mais toi, tu es le même, et tes années ne finiront point.",
+          "darby": "et tu les rouleras comme un manteau, et ils seront changés ; mais toi, tu es le même, et tes années ne failliront pas."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὡσεὶ",
+            "gloss": "comme"
+          },
+          {
+            "greek": "περιβόλαιον",
+            "gloss": "manteau/couverture"
+          },
+          {
+            "greek": "ἑλίξεις",
+            "gloss": "tu_enrouleras"
+          },
+          {
+            "greek": "αὐτούς,",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἱμάτιον",
+            "gloss": "vêtement"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀλλαγήσονται·",
+            "gloss": "ils_seront_changés"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "même",
+            "analyse": "L'expression *Su de ho autos* (Mais toi, tu es le Même) est le cœur de l'anthropologie palamite. Face à la dispersion instable du monde créé, le Christ est l'Identique, la Source unifiée. Devenir un 'sujet dans le Christ', c'est précisément être arraché aux fluctuations chaotiques de l'ego pour être stabilisé et unifié dans ce 'Même' divin."
+          },
+          {
+            "greek": "εἶ,",
+            "gloss": "tu_es"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἔτη",
+            "gloss": "années"
+          },
+          {
+            "greek": "σchoiceου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐκλείψουσιν.",
+            "gloss": "manqueront/finiront"
+          }
+        ]
+      },
+      {
+        "verse_number": "1, 13",
+        "translations": {
+          "segond": "Et auquel des anges a-t-il jamais dit : Assieds-toi à ma droite, jusqu'à ce que je fasse de tes ennemis ton marchepied ?",
+          "darby": "Et auquel des anges a-t-il jamais dit : Assieds-toi à ma droite, jusqu'à ce que j'aie mis tes ennemis pour marchepied de tes pieds ?"
+        },
+        "interlinear": [
+          {
+            "greek": "πρὸς",
+            "gloss": "Vers"
+          },
+          {
+            "greek": "τίνα",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀγγέλων",
+            "gloss": "anges"
+          },
+          {
+            "greek": "εἴρηκέν",
+            "gloss": "a-t-il_dit"
+          },
+          {
+            "greek": "ποτε·",
+            "gloss": "jamais"
+          },
+          {
+            "greek": "Κάθου",
+            "gloss": "Assieds-toi"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "à"
+          },
+          {
+            "greek": "δεξιῶν",
+            "gloss": "la_droite"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "θῶ",
+            "gloss": "je_place"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐχθρούς",
+            "gloss": "ennemis"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ὑποπόδιον",
+            "gloss": "marchepied"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ποδῶν",
+            "gloss": "pieds"
+          },
+          {
+            "greek": "σου;",
+            "gloss": "de_toi"
+          }
+        ]
+      },
+      {
+        "verse_number": "1, 14",
+        "translations": {
+          "segond": "Ne sont-ils pas tous des esprits au service de Dieu, envoyés pour exercer un ministère en faveur de ceux qui doivent hériter du salut ?",
+          "darby": "Ne sont-ils pas tous des esprits administrateurs, envoyés pour servir en faveur de ceux qui vont hériter du salut ?"
+        },
+        "interlinear": [
+          {
+            "greek": "οὐχὶ",
+            "gloss": "Est-ce_que_non"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "εἰσὶν",
+            "gloss": "sont"
+          },
+          {
+            "greek": "λειτουργικὰ",
+            "gloss": "liturgiques/serviteurs"
+          },
+          {
+            "greek": "πνεύματα",
+            "gloss": "esprits"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "διακονίαν",
+            "gloss": "ministère/service"
+          },
+          {
+            "greek": "ἀποστελλόμενα",
+            "gloss": "étant_envoyés"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "μέλλοντας",
+            "gloss": "devant"
+          },
+          {
+            "greek": "κληρονομεῖν",
+            "gloss": "hériter",
+            "analyse": "Le but de toute la création invisible (les anges) est d'escorter l'homme vers sa deification. L'homme n'est pas un objet perdu dans le cosmos : il est l'héritier du Salut. Saint Grégoire Palamas insistera sur le fait que l'homme, par son corps et son esprit unifiés, a vocation à s'élever plus haut que les anges en participant directement à l'Énergie divine."
+          },
+          {
+            "greek": "σωτηρίαν;",
+            "gloss": "salut"
+          }
+        ]
+      },
+      {
+        "verse_number": "2, 1",
+        "translations": {
+          "segond": "C'est pourquoi nous devons d'autant plus être attentifs à ce que nous avons entendu, de peur que nous ne soyons emportés loin d'elle.",
+          "darby": "C'est pourquoi nous devons porter une plus grande attention aux choses que nous avons entendues, de peur que nous ne nous couliions loin d'elles."
+        },
+        "interlinear": [
+          {
+            "greek": "Διὰ",
+            "gloss": "À_cause_de"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "δεῖ",
+            "gloss": "il_faut"
+          },
+          {
+            "greek": "περισσοτέρως",
+            "gloss": "plus_abondamment"
+          },
+          {
+            "greek": "προσέχειν",
+            "gloss": "être_attentifs"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux_choses"
+          },
+          {
+            "greek": "ἀκουσθεῖσιν,",
+            "gloss": "ayant_été_tendues"
+          },
+          {
+            "greek": "μήποτε",
+            "gloss": "de_peur_que_jamais"
+          },
+          {
+            "greek": "παραρυῶμεν.",
+            "gloss": "nous_ne_dérivions",
+            "analyse": "Du verbe *pararruo* (s'écouler à côté, dériver, glisser). C'est l'image d'un navire dont l'ancre a lâché et qui dérive sans bruit.  le grand danger spirituel, c'est l'assoupissement psychologique qui nous fait quitter l'axe du Présent et du Royaume UN pour nous laisser emporter par le flux chaotique du Monde duel."
+          }
+        ]
+      },
+      {
+        "verse_number": "2, 2",
+        "translations": {
+          "segond": "Car, si la parole annoncée par des anges a eu son effet, et si toute transgression et toute désobéissance a reçu une juste rétribution,",
+          "darby": "Car si la parole dictée par les anges a été ferme, et si toute transgression et désobéissance a reçu une juste rétribution,"
+        },
+        "interlinear": [
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἀγγέλων",
+            "gloss": "anges"
+          },
+          {
+            "greek": "λαληθεὶς",
+            "gloss": "ayant_été_dite"
+          },
+          {
+            "greek": "λόγος",
+            "gloss": "parole"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "devint"
+          },
+          {
+            "greek": "βέβαιος,",
+            "gloss": "ferme/certaine"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πᾶσα",
+            "gloss": "toute"
+          },
+          {
+            "greek": "παράβασις",
+            "gloss": "transgression"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παρακοὴ",
+            "gloss": "désobéissance/mauvaise_écoute",
+            "analyse": "Le mot *parakoē* signifie littéralement 'entendre à côté'. Ce n'est pas une révolte ouverte, c'est une écoute distraite, parasitée par les bruits du monde. L'homme n'entend plus la vibration de la Parole divine ; il n'est plus en synergie avec l'Énergie incréée et se referme sur son propre ego."
+          },
+          {
+            "greek": "ἔλαβεν",
+            "gloss": "reçut"
+          },
+          {
+            "greek": "ἔνδικον",
+            "gloss": "juste"
+          },
+          {
+            "greek": "μισθαποδοσίαν,",
+            "gloss": "rétribution/salaire"
+          }
+        ]
+      },
+      {
+        "verse_number": "2, 3",
+        "translations": {
+          "segond": "comment échapperons-nous en négligeant un si grand salut, qui, annoncé d'abord par le Seigneur, nous a été confirmé par ceux qui l'ont entendu,",
+          "darby": "comment échapperons-nous, si nous négligeons un si grand salut, qui, ayant commencé par être annoncé par le Seigneur, nous a été confirmé par ceux qui l'avaient entendu,"
+        },
+        "interlinear": [
+          {
+            "greek": "πῶς",
+            "gloss": "comment"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἐκφευξόμεθα",
+            "gloss": "échapperons-nous"
+          },
+          {
+            "greek": "τηλικαύτης",
+            "gloss": "un_si_grand"
+          },
+          {
+            "greek": "ἀμελήσαντες",
+            "gloss": "ayant_négligé",
+            "analyse": "Du verbe *ameleo* (ne pas se soucier de, laisser de côté). La négligence est le symptôme de la paralysie spirituelle. C'est refuser de faire l'effort de la métanoïa, préférant rester un objet passif plutôt que de devenir un sujet éveillé et debout dans le Christ."
+          },
+          {
+            "greek": "σωτηρίας;",
+            "gloss": "salut"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Chapitre 2, Verset 1 - παραρυῶμεν : Segond traduit de manière abstraite par 'être emportés loin d'elle'. Darby capte magnifiquement la métaphore fluide du grec en traduisant 'de peur que nous ne nous couliions loin d'elles', évoquant le glissement imperceptible de l'eau.\n• Chapitre 2, Verset 2 - παρακοὴ : Traduit uniformément par 'désobéissance'. La racine acoustique grecque (*akouo* / entendre, précédée de *para* / à côté) est gommée, alors qu'elle montre que la chute commence par une déviation de l'attention intérieure.\n• Chapitre 2, Verset 3 - ἀμελήσαντες : Traduit par 'en négligeant'. Le participe indique une condition préalable : 'si nous négligeons'. C'est le manque de vigilance (*nepsis*) qui ferme la porte à l'action de la grâce.\n\nAnalyse spirituelle :\nCette épître s'emboîte de manière lumineuse avec la mémoire de Saint Grégoire Palamas et l'Évangile du paralytique. Le chapitre 1 posait le contraste absolu entre le monde créé, par nature changeant, instable, s'usant comme un vêtement (le Monde duel), et le Christ qui est 'le Même' (l'Immutabilité incréée). \n\nAu chapitre 2, l'Apôtre en tire la conséquence ascétique immédiate : puisque le monde matériel est un fleuve en constant écoulement, le risque majeur pour le chrétien est de 'dériver' (*pararyomen*), de se laisser emporter par le courant de la dispersion psychologique. La paralysie spirituelle, c'est précisément ce glissement passif où l'homme cesse d'être un 'sujet' éveillé pour redevenir un objet balloté par les vagues des passions. Négliger le salut, ce n'est pas nécessairement commettre de grands crimes, c'est simplement 'entendre à côté' (*parakoe*), laisser l'œil du cœur (*nous*) s'asphyxier dans les détails du monde. Saint Grégoire Palamas nous rappelle que le Salut est une participation réelle et exigeante aux Énergies divines. Ce texte nous appelle à jeter l'ancre de notre attention dans l'Immuable, pour être redressés et stabilisés dans le Royaume UN.",
+    "homiletic_axes": [
+      {
+        "title": "Le Fils demeure quand la création change",
+        "content": "Hébreux proclame le Seigneur créateur dont les années ne finiront pas. Dans l’Évangile, ce même Fils exerce sur terre l’autorité de remettre les péchés et de relever l’homme : la guérison révèle son identité divine.",
+        "keywords": [
+          "Κύριος — Seigneur",
+          "ἀφίημι — remettre",
+          "ἐξουσία — autorité"
+        ]
+      },
+      {
+        "title": "Porter ensemble celui qui ne peut avancer",
+        "content": "Quatre hommes portent le paralytique, découvrent le toit et le déposent devant Jésus. Leur foi devient concrète et communautaire : elle ouvre un passage quand l’homme immobilisé ne peut atteindre seul le Christ.",
+        "keywords": [
+          "παραλυτικός — paralytique",
+          "βαστάζω — porter",
+          "πίστις — foi"
+        ]
+      },
+      {
+        "title": "Ne pas négliger un si grand salut",
+        "content": "L’Apôtre avertit : il faut s’attacher à la parole entendue afin de ne pas dériver. Les scribes restent immobiles dans leurs raisonnements tandis que le paralytique reçoit la parole du Christ, se lève et emporte son grabat.",
+        "keywords": [
+          "προσέχω — prêter attention",
+          "παραρρέω — dériver",
+          "ἐγείρω — relever"
+        ]
+      },
+      {
+        "title": "Guérir la racine et rendre le mouvement",
+        "content": "Jésus commence par le pardon avant de rendre la mobilité corporelle. Sans opposer âme et corps, le récit montre une guérison intégrale : la grâce atteint la rupture intérieure et rend l’homme capable de reprendre sa route.",
+        "keywords": [
+          "τέκνον — enfant",
+          "ἁμαρτία — péché",
+          "περιπατέω — marcher"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Le Fils créateur relève et sauve",
+        "reference": "Marc 2, 1-12 ; Hébreux 1, 10 - 2, 3",
+        "content": "Hébreux révèle la permanence et la souveraineté du Fils ; Marc montre cette autorité à l’œuvre dans le pardon et le relèvement du paralytique porté par la foi de plusieurs.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Saint Grégoire Palamas et le paralytique de Capharnaüm » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
-  },
-  {
-    "verse_number": 3,
-    "translations": {
-      "segond": "Des gens vinrent lui amener un paralytique porté par quatre hommes.",
-      "darby": "Et ils viennent à lui, amenant un paralytique porté par quatre hommes."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἔρχονται", "gloss": "ils_viennent" },
-      { "greek": "φέροντες", "gloss": "apportant" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "παραλυτικὸν", "gloss": "un_paralytique", "analyse": "Le *paralytique* est l'icône de l'âme plongée dans le Monde duel. Privé de la synergie avec les énergies divines incréées (Palamas), l'homme subit une nécrose spirituelle : il est fragmenté, immobile, incapable de faire un pas par lui-même vers le Christ parce que ses énergies vitales sont bloquées par l'ego." },
-      { "greek": "αἰρόμενον", "gloss": "porté" },
-      { "greek": "ὑπὸ", "gloss": "par" },
-      { "greek": "τεσσάρων.", "gloss": "quatre" }
-    ]
-  },
-  {
-    "verse_number": 4,
-    "translations": {
-      "segond": "Comme ils ne pouvaient l'approcher de lui, à cause de la foule, ils découvrirent le toit de la maison où il était, et, l'ayant rompu, ils descendirent le lit où le paralytique était couché.",
-      "darby": "Et ne pouvant s'approcher de lui, à cause de la foule, ils découvrirent le toit là où il était ; et l'ayant percé, ils descendent le petit lit sur lequel le paralytique était couché."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "μὴ", "gloss": "ne...pas" },
-      { "greek": "δυνάμενοι", "gloss": "pouvant" },
-      { "greek": "προσενέγκαι", "gloss": "approcher" },
-      { "greek": "αὐτῷ", "gloss": "de_lui" },
-      { "greek": "διὰ", "gloss": "à_cause_de" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "ὄχλον", "gloss": "foule" },
-      { "greek": "ἀπεστέγασαν", "gloss": "ils_découvrirent/enlevèrent_le_toit", "analyse": "Du verbe *apostegazo* (enlever le toit, décapsuler). Pour le Père Pascal, c'est l'acte de kénose intellectuelle absolue. Le 'toit', c'est le plafond de verre de nos conditionnements psychologiques, le système clos de la logique du Monde duel. Briser le toit, c'est creuser une ouverture verticale pour exposer directement l'âme à la Lumière incréée." },
-      { "greek": "τὴν", "gloss": "le" },
-      { "greek": "στέγην", "gloss": "toit" },
-      { "greek": "ὅπου", "gloss": "où" },
-      { "greek": "ἦν,", "gloss": "il_était" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐξορύξαντες", "gloss": "ayant_creusé_une_ouverture" },
-      { "greek": "χαλῶσι", "gloss": "ils_abaissent" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "κράβαττον", "gloss": "lit/couchette" },
-      { "greek": "ὅπου", "gloss": "où" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "παραλυτικὸς", "gloss": "paralytique" },
-      { "greek": "κατέκειτο.", "gloss": "était_couché" }
-    ]
-  },
-  {
-    "verse_number": 5,
-    "translations": {
-      "segond": "Jésus, voyant leur foi, dit au paralytique : Mon enfant, tes péchés te sont pardonnés.",
-      "darby": "Et Jésus, voyant leur foi, dit au paralytique : Mon enfant, tes péchés sont pardonnés."
-    },
-    "interlinear": [
-      { "greek": "ἰδὼν", "gloss": "Voyant" },
-      { "greek": "δὲ", "gloss": "or/et" },
-      { "greek": "ὁ", "gloss": "—" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "πίστιν", "gloss": "foi" },
-      { "greek": "αὐτῶν", "gloss": "d'eux", "analyse": "Le Christ ne voit pas la foi du paralytique, mais celle des porteurs (*autōn* : d'eux, au pluriel). C'est le mystère de la Synaxe (l'Assemblée). L'homme individualisé et brisé est incapable d'une foi pure ; c'est la communauté ecclésiale qui le porte, le soutient et l'offre à Dieu pour qu'il redevienne un 'sujet' vivant." },
-      { "greek": "λέγει", "gloss": "dit" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "παραλυτικῷ·", "gloss": "paralytique" },
-      { "greek": "Τέκνον,", "gloss": "Enfant/Mon_petit" },
-      { "greek": "ἀφίενταί", "gloss": "sont_remis/pardonnés", "analyse": "Le verbe *aphiemi* (lâcher prise, délier). La paralysie physique n'est que la somatisation d'un nœud ontologique interne : le péché comme séparation. En prononçant le pardon, le Christ dénoue les liens de l'objectivation pour restaurer le lien de filiation ('Mon enfant')." },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "αἱ", "gloss": "les" },
-      { "greek": "ἁμαρτίαι.", "gloss": "péchés" }
- ]
-  },
-  {
-    "verse_number": 6,
-    "translations": {
-      "segond": "Il y avait là quelques scribes, qui étaient assis, et qui raisonnaient dans leurs cœurs :",
-      "darby": "Or quelques-uns des scribes étaient assis là, et raisonnaient dans leurs coeurs :"
-    },
-    "interlinear": [
-      { "greek": "Ἦσαν", "gloss": "Étaient" },
-      { "greek": "δέ", "gloss": "or/cependant" },
-      { "greek": "τινες", "gloss": "quelques-uns" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "γραμματέων", "gloss": "scribes" },
-      { "greek": "ἐκεῖ", "gloss": "là" },
-      { "greek": "καθήμενοι", "gloss": "assis" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "διαλογιζόμενοι", "gloss": "raisonnant/discutant", "analyse": "Du verbe *dialogizomai* (discuter de manière dialectique). Les scribes sont pris dans la circularité mentale du Monde duel. Ils ne voient pas le Christ comme un 'Sujet' divin, mais comme un objet d'analyse légale. Leur cœur, au lieu d'être un espace de communion, devient un tribunal conceptuel." },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "ταῖς", "gloss": "les" },
-      { "greek": "καρδίαις", "gloss": "cœurs" },
-      { "greek": "αὐτῶν·", "gloss": "d'eux" }
-    ]
-  },
-  {
-    "verse_number": 7,
-    "translations": {
-      "segond": "Pourquoi cet homme parle-t-il ainsi ? Il blasphème. Qui peut pardonner les péchés, si ce n'est Dieu seul ?",
-      "darby": "Pourquoi celui-ci parle-t-il ainsi ? Il blasphème. Qui peut pardonner les péchés, sinon un seul, Dieu ?"
-    },
-    "interlinear": [
-      { "greek": "Τί", "gloss": "Pourquoi" },
-      { "greek": "οὗτος", "gloss": "celui-ci" },
-      { "greek": "οὕτως", "gloss": "ainsi" },
-      { "greek": "λαλεῖ;", "gloss": "parle-t-il" },
-      { "greek": "βλασφημεῖ·", "gloss": "il_blasphème" },
-      { "greek": "τίς", "gloss": "qui" },
-      { "greek": "δύναται", "gloss": "peut" },
-      { "greek": "ἀφιέναι", "gloss": "remettre/pardonner" },
-      { "greek": "ἁμαρτίας", "gloss": "péchés" },
-      { "greek": "εἰ", "gloss": "si" },
-      { "greek": "μὴ", "gloss": "ne...pas" },
-      { "greek": "εἷς", "gloss": "un_seul" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "θεός;", "gloss": "Dieu" }
-    ]
-  },
-  {
-    "verse_number": 8,
-    "translations": {
-      "segond": "Jésus, ayant aussitôt connu par son esprit ce qu'ils raisonnaient en eux-mêmes, leur dit : Pourquoi avez-vous de tels raisonnements dans vos cœurs ?",
-      "darby": "Et Jésus, ayant aussitôt connu par son esprit qu'ils raisonnaient ainsi en eux-mêmes, leur dit : Pourquoi raisonnez-vous de ces choses dans vos coeurs ?"
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "εὐθὺς", "gloss": "aussitôt" },
-      { "greek": "ἐπιγνοὺς", "gloss": "ayant_connu/pénétré", "analyse": "Le verbe *epiginosko* indique une connaissance profonde, une perception directe. Le Christ n'attend pas qu'ils parlent. Par Son Esprit divin, Il lit directement dans leur intériorité. Il manifeste ainsi l'omniscience divine, brisant le mur extérieur par lequel les scribes pensaient se cacher." },
-      { "greek": "ὁ", "gloss": "—" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "τῷ", "gloss": "par_le" },
-      { "greek": "πνεύματι", "gloss": "esprit" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "οὕτως", "gloss": "ainsi" },
-      { "greek": "διαλογίζονται", "gloss": "ils_raisonnent" },
-      { "greek": "ἐν", "gloss": "en" },
-      { "greek": "ἑαυτοῖς", "gloss": "eux-mêmes" },
-      { "greek": "εἶπεν", "gloss": "il_dit" },
-      { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-      { "greek": "Τί", "gloss": "Pourquoi" },
-      { "greek": "ταῦτα", "gloss": "ces_choses" },
-      { "greek": "διαλογίζεσθε", "gloss": "raisonnez-vous" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "ταῖς", "gloss": "les" },
-      { "greek": "καρδίαις", "gloss": "cœurs" },
-      { "greek": "ὑμῶν;", "gloss": "de_vous" }
-    ]
-  },
-  {
-    "verse_number": 9,
-    "translations": {
-      "segond": "Qu'est-ce qui est le plus facile, de dire au paralytique : Tes péchés te sont pardonnés, ou de dire : Lève-toi, prends ton lit, et marche ?",
-      "darby": "Qu'est-ce qui est le plus facile, de dire au paralytique : Tes péchés sont pardonnés, ou de dire : Lève-toi, et prends ton petit lit, et marche ?"
-    },
-    "interlinear": [
-      { "greek": "τί", "gloss": "Qu'est-ce_qui" },
-      { "greek": "ἐστιν", "gloss": "est" },
-      { "greek": "εὐκοπώτερον,", "gloss": "plus_facile" },
-      { "greek": "εἰπεῖν", "gloss": "de_dire" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "παραλυτικῷ·", "gloss": "paralytique" },
-      { "greek": "Ἀφίενταί", "gloss": "Sont_remis" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "αἱ", "gloss": "les" },
-      { "greek": "ἁμαρτίαι,", "gloss": "péchés" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "εἰπεῖν·", "gloss": "de_dire" },
-      { "greek": "Ἔγειρε", "gloss": "Lève-toi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἆρον", "gloss": "prends" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "κράβαττόν", "gloss": "lit" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "περιπάτει;", "gloss": "marche" }
-    ]
-  },
-  {
-    "verse_number": 10,
-    "translations": {
-      "segond": "Or, afin que vous sachiez que le Fils de l'homme a sur la terre le pouvoir de pardonner les péchés :",
-      "darby": "Or, afin que vous sachiez que le fils de l'homme a le pouvoir sur la terre de pardonner les péchés"
-    },
-    "interlinear": [
-      { "greek": "ἵνα", "gloss": "Afin_que" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "εἰδῆτε", "gloss": "vous_sachiez" },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "ἐξουσίαν", "gloss": "pouvoir/autorité", "analyse": "Le mot *exousia* désigne une autorité légitime qui découle de l'essence même de l'être. Le Christ ne reçoit pas un pouvoir extérieur délégué ; en tant que Dieu incarné, Son Énergie incréée agit directement sur la terre pour recréer l'homme de l'intérieur." },
-      { "greek": "ἔχει", "gloss": "a" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "τοῦ", "gloss": "de_l'" },
-      { "greek": "ἀνθρώπου", "gloss": "homme" },
-      { "greek": "ἀφιέναι", "gloss": "de_pardonner" },
-      { "greek": "ἁμαρτίας", "gloss": "les_péchés" },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "τῆς", "gloss": "la" },
-      { "greek": "γῆς·", "gloss": "terre" },
-      { "greek": "λέγει", "gloss": "il_dit" },
-      { "greek": "τῷ", "gloss": "au" },
-      { "greek": "παραλυτικῷ·", "gloss": "paralytique" }
-    ]
-  },
-  {
-    "verse_number": 11,
-    "translations": {
-      "segond": "Je te le dis, lève-toi, prends ton lit, et va dans ta maison.",
-      "darby": "(il dit au paralytique) : Je te dis, lève-toi, prends ton petit lit, et va dans ta maison."
-    },
-    "interlinear": [
-      { "greek": "Σοὶ", "gloss": "À_toi" },
-      { "greek": "λέγω,", "gloss": "je_dis" },
-      { "greek": "ἔγειρε", "gloss": "lève-toi", "analyse": "L'impératif *egeire* est le mot même de la résurrection. La guérison opérée par l'Énergie divine redresse l'homme. Le paralytique cesse d'être un objet inerte porté par les autres, il retrouve sa stature verticale de 'sujet' vivant." },
-      { "greek": "ἆρον", "gloss": "prends" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "κράβαττόν", "gloss": "lit" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ὕπαγε", "gloss": "va/retire-toi" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "οἶκόν", "gloss": "maison", "analyse": "Le Christ ne lui dit pas de s'exhiber ou de faire de la théologie avec les scribes. Il le renvoie à sa maison (*oikos*), symbole de l'intériorité stable, de la cellule spirituelle. Guéri, le sujet doit maintenant préserver cette unité retrouvée dans la crypte de son cœur, loin des bruits du Monde duel." },
-      { "greek": "σου.", "gloss": "de_toi" }
-    ]
-  },
-  {
-    "verse_number": 12,
-    "translations": {
-      "segond": "Et, à l'instant, il se leva, prit son lit, et sortit en présence de tout le monde, de sorte qu'ils étaient tous dans l'étonnement et glorifiaient Dieu, disant : Nous n'avons jamais rien vu de pareil.",
-      "darby": "Et il se leva aussitôt, et ayant pris son petit lit, il sortit devant tous, de sorte qu'ils en étaient tous hors d'eux-mêmes et glorifiaient Dieu, disant : Nous ne vîmes jamais rien de pareil."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἠγέρθη", "gloss": "il_se_leva" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "εὐθὺς", "gloss": "aussitôt" },
-      { "greek": "ἄρας", "gloss": "ayant_pris" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "κράβαττον", "gloss": "lit" },
-      { "greek": "ἐξῆλθεν", "gloss": "il_sortit" },
-      { "greek": "ἔμπροσθεν", "gloss": "devant" },
-      { "greek": "πάντων,", "gloss": "tous" },
-      { "greek": "ὥστε", "gloss": "de_sorte_que" },
-      { "greek": "ἐξίστασθαι", "gloss": "être_hors_de_soi/extase", "analyse": "Du verbe *existemi* (qui a donné extase). La foule est arrachée à ses repères rationnels ordinaires. Face à l'irruption de la Lumière divine qui transfigure le corps et l'âme de cet homme, les témoins basculent dans l'étonnement sacré, au-delà de la dualité logique." },
-      { "greek": "πάντας", "gloss": "tous" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "δοξάζειν", "gloss": "glorifier" },
-      { "greek": "τὸν", "gloss": "—" },
-      { "greek": "θεὸν", "gloss": "Dieu" },
-      { "greek": "λέγοντας", "gloss": "disant" },
-      { "greek": "ὅτι", "gloss": "—" },
-      { "greek": "Οὐδέποτε", "gloss": "Jamais" },
-      { "greek": "οὕτως", "gloss": "ainsi" },
-      { "greek": "εἴδομεν.", "gloss": "nous_n'avons_vu" }
-    ]
-  }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 6 - διαλογιζόμενοι : Segond et Darby traduisent par 'raisonnaient'. Le terme grec montre un processus dialectique, un va-et-vient mental typique de la pensée dualiste qui pèse, calcule et finit par enfermer la réalité vivante dans des boîtes conceptuelles.\n• Verset 11 - κράβαττον : Traduit par 'lit' ou 'petit lit'. Ce meuble rudimentaire symbolise l'instrument de la dépendance du paralytique. En lui ordonnant de le porter, le Christ inverse le rapport de force : ce qui matérialisait son objectivation et son impuissance devient le trophée de sa liberté retrouvée.\n• Verset 12 - ἐξίστασθαι : Les traducteurs peinent à rendre la force de ce verbe ('être dans l'étonnement' ou 'être hors d'eux-mêmes'). La racine évoque l'extase, le fait de sortir de sa position habituelle. C'est l'effondrement des structures du Monde duel devant la manifestation des Énergies divines.\n\nAnalyse spirituelle :\nLe deuxième dimanche du Grand Carême, dédié à Saint Grégoire Palamas, est intimement lié à la guérison du paralytique. La paralysie n'est pas comprise ici comme un simple accident biologique, mais comme l'état spirituel de l'humanité déchue, incapable de se mouvoir vers Dieu par ses propres forces, clouée au sol par le poids de l'Ego.\n\nLa guérison s'opère par une kénose communautaire (les quatre porteurs qui brisent le 'toit' des certitudes mentales) et par l'action directe de l'Énergie incréée du Christ. Face à l'irruption de cette grâce, les scribes réagissent depuis la fermeture de leur système logique et juridique ('Il blasphème !'). Ils refusent la rencontre de Sujet à Sujet. Le Christ pulvérise ce légalisme mortifère en unifiant instantanément le paralytique, lui rendant sa stature verticale de résurrection (*egeire*) et le renvoyant à sa maison (*oikos*), lieu du combat spirituel intérieur. C'est le triomphe de la théologie palamite : Dieu ne nous sauve pas de loin par des décrets administratifs, Il nous pénètre et nous transfigure par Ses Énergies, nous arrachant à la fragmentation pour faire de notre être tout entier le réceptacle de Sa Lumière Thaborique."
-    },
-    "apostle": {
-  "reference": "Hébreux 1, 10 - 2, 3",
-  "title": "La Divinité du Fils et la Vigilance du Salut",
-  "interlinear": [
-   {
-    "verse_number": "1, 10",
-    "translations": {
-      "segond": "Et encore : Toi, Seigneur, tu as au commencement fondé la terre, et les cieux sont l'ouvrage de tes mains ;",
-      "darby": "Et : Toi, dans les commencements, Seigneur, tu as fondé la terre, et les cieux sont les oeuvres de tes mains :"
-    },
-    "interlinear": [
-      { "greek": "Καὶ·", "gloss": "Et" },
-      { "greek": "Σὺ", "gloss": "Toi" },
-      { "greek": "κατ’", "gloss": "au" },
-      { "greek": "ἀρχάς,", "gloss": "commencement/principes", "analyse": "La racine *arché* indique à la fois le commencement temporel et le principe ontologique. Le Christ n'est pas un organisateur du monde au sein du temps ; Il est le Principe incréé (l'Énergie créatrice) qui fonde et maintient toute l'existence au-dessus du néant." },
-      { "greek": "κύριε,", "gloss": "Seigneur" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "γῆν", "gloss": "terre" },
-      { "greek": "ἐθεμελίωσας,", "gloss": "tu_as_fondé" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἔργα", "gloss": "œuvres" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "χειρῶν", "gloss": "mains" },
-      { "greek": "σού", "gloss": "de_toi" },
-      { "greek": "εἰσιν", "gloss": "sont" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "οὐρανοί·", "gloss": "cieux" }
-    ]
-  },
-  {
-    "verse_number": "1, 11",
-    "translations": {
-      "segond": "Ils périront, mais tu subsistes ; ils vieilliront tous comme un vêtement,",
-      "darby": "eux, ils périront, mais toi, tu subsistes ; et ils vieilliront tous comme un vêtement,"
-    },
-    "interlinear": [
-      { "greek": "αὐτοὶ", "gloss": "Eux" },
-      { "greek": "ἀπολοῦνται,", "gloss": "périront" },
-      { "greek": "σὺ", "gloss": "toi" },
-      { "greek": "δὲ", "gloss": "mais" },
-      { "greek": "διαμένεις·", "gloss": "tu_subsistes/demeures", "analyse": "Le verbe *diameno* indique la permanence absolue à travers le temps. Le Monde duel est structurellement marqué par l'impermanence, la corruption et la mort. Le drame de l'homme déchu est de chercher sa sécurité dans ce qui périt, alors que sa vocation de sujet est de s'ancrer dans Celui qui traverse tout sans changer." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πάντες", "gloss": "tous" },
-      { "greek": "ὡς", "gloss": "comme" },
-      { "greek": "ἱμάτιον", "gloss": "vêtement" },
-      { "greek": "παλαιωθήσονται,", "gloss": "ils_vieilliront" }
-    ]
-  },
-  {
-    "verse_number": "1, 12",
-    "translations": {
-      "segond": "tu les rouleras comme un manteau et ils seront changés ; mais toi, tu es le même, et tes années ne finiront point.",
-      "darby": "et tu les rouleras comme un manteau, et ils seront changés ; mais toi, tu es le même, et tes années ne failliront pas."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ὡσεὶ", "gloss": "comme" },
-      { "greek": "περιβόλαιον", "gloss": "manteau/couverture" },
-      { "greek": "ἑλίξεις", "gloss": "tu_enrouleras" },
-      { "greek": "αὐτούς,", "gloss": "eux" },
-      { "greek": "ὡς", "gloss": "comme" },
-      { "greek": "ἱμάτιον", "gloss": "vêtement" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀλλαγήσονται·", "gloss": "ils_seront_changés" },
-      { "greek": "σὺ", "gloss": "toi" },
-      { "greek": "δὲ", "gloss": "mais" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "αὐτὸς", "gloss": "même", "analyse": "L'expression *Su de ho autos* (Mais toi, tu es le Même) est le cœur de l'anthropologie palamite. Face à la dispersion instable du monde créé, le Christ est l'Identique, la Source unifiée. Devenir un 'sujet dans le Christ', c'est précisément être arraché aux fluctuations chaotiques de l'ego pour être stabilisé et unifié dans ce 'Même' divin." },
-      { "greek": "εἶ,", "gloss": "tu_es" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "ἔτη", "gloss": "années" },
-      { "greek": "σchoiceου", "gloss": "de_toi" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἐκλείψουσιν.", "gloss": "manqueront/finiront" }
-    ]
-  },
-  {
-    "verse_number": "1, 13",
-    "translations": {
-      "segond": "Et auquel des anges a-t-il jamais dit : Assieds-toi à ma droite, jusqu'à ce que je fasse de tes ennemis ton marchepied ?",
-      "darby": "Et auquel des anges a-t-il jamais dit : Assieds-toi à ma droite, jusqu'à ce que j'aie mis tes ennemis pour marchepied de tes pieds ?"
-    },
-    "interlinear": [
-      { "greek": "πρὸς", "gloss": "Vers" },
-      { "greek": "τίνα", "gloss": "lequel" },
-      { "greek": "δὲ", "gloss": "or/et" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "ἀγγέλων", "gloss": "anges" },
-      { "greek": "εἴρηκέν", "gloss": "a-t-il_dit" },
-      { "greek": "ποτε·", "gloss": "jamais" },
-      { "greek": "Κάθου", "gloss": "Assieds-toi" },
-      { "greek": "ἐκ", "gloss": "à" },
-      { "greek": "δεξιῶν", "gloss": "la_droite" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "ἕως", "gloss": "jusqu'à" },
-      { "greek": "ἂν", "gloss": "ce_que" },
-      { "greek": "θῶ", "gloss": "je_place" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ἐχθρούς", "gloss": "ennemis" },
-      { "greek": "σου", "gloss": "de_toi" },
-      { "greek": "ὑποπόδιον", "gloss": "marchepied" },
-      { "greek": "τῶν", "gloss": "des" },
-      { "greek": "ποδῶν", "gloss": "pieds" },
-      { "greek": "σου;", "gloss": "de_toi" }
-    ]
-  },
-  {
-    "verse_number": "1, 14",
-    "translations": {
-      "segond": "Ne sont-ils pas tous des esprits au service de Dieu, envoyés pour exercer un ministère en faveur de ceux qui doivent hériter du salut ?",
-      "darby": "Ne sont-ils pas tous des esprits administrateurs, envoyés pour servir en faveur de ceux qui vont hériter du salut ?"
-    },
-    "interlinear": [
-      { "greek": "οὐχὶ", "gloss": "Est-ce_que_non" },
-      { "greek": "πάντες", "gloss": "tous" },
-      { "greek": "εἰσὶν", "gloss": "sont" },
-      { "greek": "λειτουργικὰ", "gloss": "liturgiques/serviteurs" },
-      { "greek": "πνεύματα", "gloss": "esprits" },
-      { "greek": "εἰς", "gloss": "pour" },
-      { "greek": "διακονίαν", "gloss": "ministère/service" },
-      { "greek": "ἀποστελλόμενα", "gloss": "étant_envoyés" },
-      { "greek": "διὰ", "gloss": "à_cause_de" },
-      { "greek": "τοὺς", "gloss": "ceux" },
-      { "greek": "μέλλοντας", "gloss": "devant" },
-      { "greek": "κληρονομεῖν", "gloss": "hériter", "analyse": "Le but de toute la création invisible (les anges) est d'escorter l'homme vers sa deification. L'homme n'est pas un objet perdu dans le cosmos : il est l'héritier du Salut. Saint Grégoire Palamas insistera sur le fait que l'homme, par son corps et son esprit unifiés, a vocation à s'élever plus haut que les anges en participant directement à l'Énergie divine." },
-      { "greek": "σωτηρίαν;", "gloss": "salut" }
-]
-  },
-  {
-   "verse_number": "2, 1",
-    "translations": {
-      "segond": "C'est pourquoi nous devons d'autant plus être attentifs à ce que nous avons entendu, de peur que nous ne soyons emportés loin d'elle.",
-      "darby": "C'est pourquoi nous devons porter une plus grande attention aux choses que nous avons entendues, de peur que nous ne nous couliions loin d'elles."
-    },
-    "interlinear": [
-      { "greek": "Διὰ", "gloss": "À_cause_de" },
-      { "greek": "τοῦτο", "gloss": "ceci" },
-      { "greek": "δεῖ", "gloss": "il_faut" },
-      { "greek": "περισσοτέρως", "gloss": "plus_abondamment" },
-      { "greek": "προσέχειν", "gloss": "être_attentifs" },
-      { "greek": "ἡμᾶς", "gloss": "nous" },
-      { "greek": "τοῖς", "gloss": "aux_choses" },
-      { "greek": "ἀκουσθεῖσιν,", "gloss": "ayant_été_tendues" },
-      { "greek": "μήποτε", "gloss": "de_peur_que_jamais" },
-      { "greek": "παραρυῶμεν.", "gloss": "nous_ne_dérivions", "analyse": "Du verbe *pararruo* (s'écouler à côté, dériver, glisser). C'est l'image d'un navire dont l'ancre a lâché et qui dérive sans bruit.  le grand danger spirituel, c'est l'assoupissement psychologique qui nous fait quitter l'axe du Présent et du Royaume UN pour nous laisser emporter par le flux chaotique du Monde duel." }
-    ]
-  },
-  {
-    "verse_number": "2, 2",
-    "translations": {
-      "segond": "Car, si la parole annoncée par des anges a eu son effet, et si toute transgression et toute désobéissance a reçu une juste rétribution,",
-      "darby": "Car si la parole dictée par les anges a été ferme, et si toute transgression et désobéissance a reçu une juste rétribution,"
-    },
-    "interlinear": [
-      { "greek": "εἰ", "gloss": "si" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ὁ", "gloss": "la" },
-      { "greek": "δι’", "gloss": "par" },
-      { "greek": "ἀγγέλων", "gloss": "anges" },
-      { "greek": "λαληθεὶς", "gloss": "ayant_été_dite" },
-      { "greek": "λόγος", "gloss": "parole" },
-      { "greek": "ἐγένετο", "gloss": "devint" },
-      { "greek": "βέβαιος,", "gloss": "ferme/certaine" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πᾶσα", "gloss": "toute" },
-      { "greek": "παράβασις", "gloss": "transgression" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "παρακοὴ", "gloss": "désobéissance/mauvaise_écoute", "analyse": "Le mot *parakoē* signifie littéralement 'entendre à côté'. Ce n'est pas une révolte ouverte, c'est une écoute distraite, parasitée par les bruits du monde. L'homme n'entend plus la vibration de la Parole divine ; il n'est plus en synergie avec l'Énergie incréée et se referme sur son propre ego." },
-      { "greek": "ἔλαβεν", "gloss": "reçut" },
-      { "greek": "ἔνδικον", "gloss": "juste" },
-      { "greek": "μισθαποδοσίαν,", "gloss": "rétribution/salaire" }
-    ]
-  },
-  {
-    "verse_number": "2, 3",
-    "translations": {
-      "segond": "comment échapperons-nous en négligeant un si grand salut, qui, annoncé d'abord par le Seigneur, nous a été confirmé par ceux qui l'ont entendu,",
-      "darby": "comment échapperons-nous, si nous négligeons un si grand salut, qui, ayant commencé par être annoncé par le Seigneur, nous a été confirmé par ceux qui l'avaient entendu,"
-    },
-    "interlinear": [
-      { "greek": "πῶς", "gloss": "comment" },
-      { "greek": "ἡμεῖς", "gloss": "nous" },
-      { "greek": "ἐκφευξόμεθα", "gloss": "échapperons-nous" },
-      { "greek": "τηλικαύτης", "gloss": "un_si_grand" },
-      { "greek": "ἀμελήσαντες", "gloss": "ayant_négligé", "analyse": "Du verbe *ameleo* (ne pas se soucier de, laisser de côté). La négligence est le symptôme de la paralysie spirituelle. C'est refuser de faire l'effort de la métanoïa, préférant rester un objet passif plutôt que de devenir un sujet éveillé et debout dans le Christ." },
-   { "greek": "σωτηρίας;", "gloss": "salut" }
-    ]
-  }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Chapitre 2, Verset 1 - παραρυῶμεν : Segond traduit de manière abstraite par 'être emportés loin d'elle'. Darby capte magnifiquement la métaphore fluide du grec en traduisant 'de peur que nous ne nous couliions loin d'elles', évoquant le glissement imperceptible de l'eau.\n• Chapitre 2, Verset 2 - παρακοὴ : Traduit uniformément par 'désobéissance'. La racine acoustique grecque (*akouo* / entendre, précédée de *para* / à côté) est gommée, alors qu'elle montre que la chute commence par une déviation de l'attention intérieure.\n• Chapitre 2, Verset 3 - ἀμελήσαντες : Traduit par 'en négligeant'. Le participe indique une condition préalable : 'si nous négligeons'. C'est le manque de vigilance (*nepsis*) qui ferme la porte à l'action de la grâce.\n\nAnalyse spirituelle :\nCette épître s'emboîte de manière lumineuse avec la mémoire de Saint Grégoire Palamas et l'Évangile du paralytique. Le chapitre 1 posait le contraste absolu entre le monde créé, par nature changeant, instable, s'usant comme un vêtement (le Monde duel), et le Christ qui est 'le Même' (l'Immutabilité incréée). \n\nAu chapitre 2, l'Apôtre en tire la conséquence ascétique immédiate : puisque le monde matériel est un fleuve en constant écoulement, le risque majeur pour le chrétien est de 'dériver' (*pararyomen*), de se laisser emporter par le courant de la dispersion psychologique. La paralysie spirituelle, c'est précisément ce glissement passif où l'homme cesse d'être un 'sujet' éveillé pour redevenir un objet balloté par les vagues des passions. Négliger le salut, ce n'est pas nécessairement commettre de grands crimes, c'est simplement 'entendre à côté' (*parakoe*), laisser l'œil du cœur (*nous*) s'asphyxier dans les détails du monde. Saint Grégoire Palamas nous rappelle que le Salut est une participation réelle et exigeante aux Énergies divines. Ce texte nous appelle à jeter l'ancre de notre attention dans l'Immuable, pour être redressés et stabilisés dans le Royaume UN."
   }
 }
