@@ -10,58 +10,189 @@
           "darby": "Et un de la foule lui répondit : Maître, je t'ai amené mon fils qui a un esprit muet."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ἀπεκρίθη", "gloss": "répondit" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "εἷς", "gloss": "un" },
-          { "greek": "ἐκ", "gloss": "de" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "ὄχλου·", "gloss": "foule" },
-          { "greek": "Διδάσκαλε,", "gloss": "Maître" },
-          { "greek": "ἤνεγκα", "gloss": "j'ai_amené" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "υἱόν", "gloss": "fils" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "σέ,", "gloss": "toi" },
-          { "greek": "ἔχοντα", "gloss": "ayant" },
-          { "greek": "πνεῦμα", "gloss": "un_esprit" },
-          { "greek": "ἄλαλον·", "gloss": "muet", "analyse": "Le mutisme spirituel est le symptôme de l'enfermement dans le Monde duel. L'homme déchu perd sa capacité à nommer le réel et à entrer en dialogue avec Dieu. Il n'est plus un Sujet de communion, il est objectivé et réduit au silence par ses propres aliénations." }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀπεκρίθη",
+            "gloss": "répondit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄχλου·",
+            "gloss": "foule"
+          },
+          {
+            "greek": "Διδάσκαλε,",
+            "gloss": "Maître"
+          },
+          {
+            "greek": "ἤνεγκα",
+            "gloss": "j'ai_amené"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱόν",
+            "gloss": "fils"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "σέ,",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἔχοντα",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "πνεῦμα",
+            "gloss": "un_esprit"
+          },
+          {
+            "greek": "ἄλαλον·",
+            "gloss": "muet",
+            "analyse": "Le mutisme spirituel est le symptôme de l'enfermement dans le Monde duel. L'homme déchu perd sa capacité à nommer le réel et à entrer en dialogue avec Dieu. Il n'est plus un Sujet de communion, il est objectivé et réduit au silence par ses propres aliénations."
+          }
         ]
       },
       {
-"verse_number": 18,
+        "verse_number": 18,
         "translations": {
           "segond": "En quelque lieu qu'il le saisisse, il le jette par terre; l'enfant écume, grince des dents, et devient tout raide. J'ai prié tes disciples de chasser cet esprit, et ils ne l'ont pas pu.",
           "darby": "Et quelque part qu'il le saisisse, il le déchire ; et il écume, et grince des dents, et devient sec. Et j'ai dit à tes disciples de le chasser ; et ils ne l'ont pu."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ὅπου", "gloss": "où" },
-          { "greek": "ἐὰν", "gloss": "que" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "καταλάβῃ", "gloss": "il_saisisse" },
-          { "greek": "ῥήσσει", "gloss": "il_déchire/jette" },
-          { "greek": "αὐτόν,", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀφρίζει", "gloss": "il_écume" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τρίζει", "gloss": "il_grince" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ὀδόντας", "gloss": "dents" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ξηραίνεται·", "gloss": "il_se_dessèche/devient_raide" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἶπα", "gloss": "j'ai_dit" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "μαθηταῖς", "gloss": "disciples" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἵνα", "gloss": "afin_qu'" },
-          { "greek": "αὐτὸ", "gloss": "lui" },
-          { "greek": "ἐκβάλωσιν,", "gloss": "ils_chassent" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἴσχυσαν.", "gloss": "ils_ont_eu_la_force", "analyse": "L'incapacité des disciples (*ouk ischusan* : ne pas avoir la force) révèle que la grâce ne se possède pas comme un pouvoir magique. Enfermés dans le Monde duel, ils essaient d'agir par leurs propres forces égotiques, ce qui est impuissant face au mal." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ὅπου",
+            "gloss": "où"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "que"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καταλάβῃ",
+            "gloss": "il_saisisse"
+          },
+          {
+            "greek": "ῥήσσει",
+            "gloss": "il_déchire/jette"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀφρίζει",
+            "gloss": "il_écume"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τρίζει",
+            "gloss": "il_grince"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὀδόντας",
+            "gloss": "dents"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ξηραίνεται·",
+            "gloss": "il_se_dessèche/devient_raide"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπα",
+            "gloss": "j'ai_dit"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "μαθηταῖς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_qu'"
+          },
+          {
+            "greek": "αὐτὸ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐκβάλωσιν,",
+            "gloss": "ils_chassent"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἴσχυσαν.",
+            "gloss": "ils_ont_eu_la_force",
+            "analyse": "L'incapacité des disciples (*ouk ischusan* : ne pas avoir la force) révèle que la grâce ne se possède pas comme un pouvoir magique. Enfermés dans le Monde duel, ils essaient d'agir par leurs propres forces égotiques, ce qui est impuissant face au mal."
+          }
         ]
       },
       {
@@ -71,27 +202,90 @@
           "darby": "Et lui, répondant, leur dit : Ô génération incrédule, jusques à quand serai-je avec vous ? jusques à quand vous supporterai-je ? Amenez-le-moi."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἀποκριθεὶς", "gloss": "ayant_répondu" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "λέγει·", "gloss": "dit" },
-          { "greek": "Ὦ", "gloss": "Ô" },
-          { "greek": "γενεὰ", "gloss": "génération" },
-          { "greek": "ἄπιστος,", "gloss": "sans_foi/incrédule" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "πότε", "gloss": "quand" },
-          { "greek": "πρὸς", "gloss": "avec" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "ἔσομαι;", "gloss": "serai-je" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "πότε", "gloss": "quand" },
-          { "greek": "ἀνέξομαι", "gloss": "supporterai-je" },
-          { "greek": "ὑμῶν;", "gloss": "vous" },
-          { "greek": "φέρετε", "gloss": "amenez" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "πρός", "gloss": "vers" },
-          { "greek": "με.", "gloss": "moi" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "ayant_répondu"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "λέγει·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ὦ",
+            "gloss": "Ô"
+          },
+          {
+            "greek": "γενεὰ",
+            "gloss": "génération"
+          },
+          {
+            "greek": "ἄπιστος,",
+            "gloss": "sans_foi/incrédule"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "πότε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἔσομαι;",
+            "gloss": "serai-je"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "πότε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "ἀνέξομαι",
+            "gloss": "supporterai-je"
+          },
+          {
+            "greek": "ὑμῶν;",
+            "gloss": "vous"
+          },
+          {
+            "greek": "φέρετε",
+            "gloss": "amenez"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "πρός",
+            "gloss": "vers"
+          },
+          {
+            "greek": "με.",
+            "gloss": "moi"
+          }
         ]
       },
       {
@@ -101,26 +295,86 @@
           "darby": "Et ils le lui amenèrent. Et aussitôt qu'il le vit, l'esprit le déchira ; et tombant par terre, il se veautrait en écumant."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἤνεγκαν", "gloss": "ils_amenèrent" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "αὐτόν.", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "πνεῦμα", "gloss": "esprit" },
-          { "greek": "εὐθὺς", "gloss": "aussitôt" },
-          { "greek": "συνεσπάραξεν", "gloss": "agita_violemment/déchira" },
-          { "greek": "αὐτόν,", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πεσὼν", "gloss": "étant_tombé" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "γῆς", "gloss": "terre" },
-          { "greek": "ἐκυλίετο", "gloss": "il_se_roulait" },
-          { "greek": "ἀφρίζων.", "gloss": "écumant" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἤνεγκαν",
+            "gloss": "ils_amenèrent"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "πνεῦμα",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "εὐθὺς",
+            "gloss": "aussitôt"
+          },
+          {
+            "greek": "συνεσπάραξεν",
+            "gloss": "agita_violemment/déchira"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πεσὼν",
+            "gloss": "étant_tombé"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆς",
+            "gloss": "terre"
+          },
+          {
+            "greek": "ἐκυλίετο",
+            "gloss": "il_se_roulait"
+          },
+          {
+            "greek": "ἀφρίζων.",
+            "gloss": "écumant"
+          }
         ]
       },
       {
@@ -130,23 +384,74 @@
           "darby": "Et il demanda au père : Combien y a-t-il de temps que ceci lui est arrivé ? Et il dit : Depuis son enfance ;"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐπηρώτησεν", "gloss": "il_interrogea" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "πατέρα", "gloss": "père" },
-          { "greek": "αὐτοῦ·", "gloss": "de_lui" },
-          { "greek": "Πόσος", "gloss": "Combien" },
-          { "greek": "χρόνος", "gloss": "temps" },
-          { "greek": "ἐστὶν", "gloss": "est-ce" },
-          { "greek": "ὡς", "gloss": "depuis_que" },
-          { "greek": "τοῦτο", "gloss": "ceci" },
-          { "greek": "γέγονεν", "gloss": "est_arrivé" },
-          { "greek": "αὐτῷ;", "gloss": "à_lui" },
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Ἐκ", "gloss": "Depuis" },
-          { "greek": "παιδιόθεν·", "gloss": "l'enfance" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐπηρώτησεν",
+            "gloss": "il_interrogea"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατέρα",
+            "gloss": "père"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Πόσος",
+            "gloss": "Combien"
+          },
+          {
+            "greek": "χρόνος",
+            "gloss": "temps"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est-ce"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "depuis_que"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "ceci"
+          },
+          {
+            "greek": "γέγονεν",
+            "gloss": "est_arrivé"
+          },
+          {
+            "greek": "αὐτῷ;",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἐκ",
+            "gloss": "Depuis"
+          },
+          {
+            "greek": "παιδιόθεν·",
+            "gloss": "l'enfance"
+          }
         ]
       },
       {
@@ -156,28 +461,95 @@
           "darby": "et souvent il l'a jeté et dans le feu et dans les eaux, pour le détruire. Mais, si tu peux quelque chose, viens à notre aide, ému de compassion envers nous."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πολλάκις", "gloss": "souvent" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "πῦρ", "gloss": "le_feu" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἔβαλεν", "gloss": "il_a_jeté" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "ὕδατα", "gloss": "les_eaux" },
-          { "greek": "ἵνα", "gloss": "afin_de" },
-          { "greek": "ἀπολέσῃ", "gloss": "le_détruire" },
-          { "greek": "αὐτόν·", "gloss": "lui" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "εἴ", "gloss": "si" },
-          { "greek": "τι", "gloss": "quelque_chose" },
-          { "greek": "δύνῃ,", "gloss": "tu_peux" },
-          { "greek": "βοήθησον", "gloss": "viens_au_secours" },
-          { "greek": "ἡμῖν", "gloss": "de_nous" },
-          { "greek": "σπλαγχνισθεὶς", "gloss": "ému_aux_entrailles", "analyse": "Le verbe *splagchnizomai* désigne une compassion physique, viscérale. Le père demande au Christ de descendre dans la souffrance, de quitter l'objectivité froide pour entrer en communion avec leur douleur. C'est l'essence de l'Incarnation." },
-          { "greek": "ἐφ’", "gloss": "envers" },
-          { "greek": "ἡμᾶς.", "gloss": "nous" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πολλάκις",
+            "gloss": "souvent"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πῦρ",
+            "gloss": "le_feu"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἔβαλεν",
+            "gloss": "il_a_jeté"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ὕδατα",
+            "gloss": "les_eaux"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_de"
+          },
+          {
+            "greek": "ἀπολέσῃ",
+            "gloss": "le_détruire"
+          },
+          {
+            "greek": "αὐτόν·",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "εἴ",
+            "gloss": "si"
+          },
+          {
+            "greek": "τι",
+            "gloss": "quelque_chose"
+          },
+          {
+            "greek": "δύνῃ,",
+            "gloss": "tu_peux"
+          },
+          {
+            "greek": "βοήθησον",
+            "gloss": "viens_au_secours"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "σπλαγχνισθεὶς",
+            "gloss": "ému_aux_entrailles",
+            "analyse": "Le verbe *splagchnizomai* désigne une compassion physique, viscérale. Le père demande au Christ de descendre dans la souffrance, de quitter l'objectivité froide pour entrer en communion avec leur douleur. C'est l'essence de l'Incarnation."
+          },
+          {
+            "greek": "ἐφ’",
+            "gloss": "envers"
+          },
+          {
+            "greek": "ἡμᾶς.",
+            "gloss": "nous"
+          }
         ]
       },
       {
@@ -187,18 +559,55 @@
           "darby": "Et Jésus lui dit : Le 'Si tu peux', c'est : Crois ! toutes choses sont possibles pour celui qui croit."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Τὸ", "gloss": "Le" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "δύνῃ,", "gloss": "tu_peux" },
-          { "greek": "πάντα", "gloss": "toutes_choses" },
-          { "greek": "δυνατὰ", "gloss": "possibles" },
-          { "greek": "τῷ", "gloss": "à_celui_qui" },
-          { "greek": "πιστεύοντι.", "gloss": "croit", "analyse": "La foi (*pistis*) n'est pas une simple croyance intellectuelle, une idée de plus dans la machinerie mentale de l'Ego. C'est l'acte radical d'ancrage dans le Royaume UN. Celui qui croit devient 'Sujet', s'ouvrant aux Énergies incréées pour lesquelles il n'y a plus de loi de nécessité ou d'impossibilité." }
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Τὸ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "δύνῃ,",
+            "gloss": "tu_peux"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "δυνατὰ",
+            "gloss": "possibles"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_celui_qui"
+          },
+          {
+            "greek": "πιστεύοντι.",
+            "gloss": "croit",
+            "analyse": "La foi (*pistis*) n'est pas une simple croyance intellectuelle, une idée de plus dans la machinerie mentale de l'Ego. C'est l'acte radical d'ancrage dans le Royaume UN. Celui qui croit devient 'Sujet', s'ouvrant aux Énergies incréées pour lesquelles il n'y a plus de loi de nécessité ou d'impossibilité."
+          }
         ]
       },
       {
@@ -208,18 +617,55 @@
           "darby": "Et aussitôt le père de l'enfant, s'écriant avec larmes, dit : Je crois, viens en aide à mon incrédulité."
         },
         "interlinear": [
-          { "greek": "εὐθὺς", "gloss": "Aussitôt" },
-          { "greek": "κράξας", "gloss": "ayant_crié" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "πατὴρ", "gloss": "père" },
-          { "greek": "τοῦ", "gloss": "de_l'" },
-          { "greek": "παιδίου", "gloss": "enfant" },
-          { "greek": "ἔλεγεν·", "gloss": "disait" },
-          { "greek": "Πιστεύω·", "gloss": "Je_crois" },
-          { "greek": "βοήθει", "gloss": "viens_au_secours" },
-          { "greek": "μου", "gloss": "de_mon" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "ἀπιστίᾳ.", "gloss": "incrédulité", "analyse": "Ce paradoxe est le cœur de la métanoïa (conversion). Reconnaître sa propre incrédulité, c'est ôter le masque de la fausse piété. L'Ego s'effondre dans ce cri. En exposant sa béance et son impuissance sans chercher à se justifier, le père devient enfin un réceptacle transparent pour la grâce." }
+          {
+            "greek": "εὐθὺς",
+            "gloss": "Aussitôt"
+          },
+          {
+            "greek": "κράξας",
+            "gloss": "ayant_crié"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "père"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "παιδίου",
+            "gloss": "enfant"
+          },
+          {
+            "greek": "ἔλεγεν·",
+            "gloss": "disait"
+          },
+          {
+            "greek": "Πιστεύω·",
+            "gloss": "Je_crois"
+          },
+          {
+            "greek": "βοήθει",
+            "gloss": "viens_au_secours"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_mon"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀπιστίᾳ.",
+            "gloss": "incrédulité",
+            "analyse": "Ce paradoxe est le cœur de la métanoïa (conversion). Reconnaître sa propre incrédulité, c'est ôter le masque de la fausse piété. L'Ego s'effondre dans ce cri. En exposant sa béance et son impuissance sans chercher à se justifier, le père devient enfin un réceptacle transparent pour la grâce."
+          }
         ]
       },
       {
@@ -229,36 +675,126 @@
           "darby": "Mais Jésus, voyant que la foule accourait ensemble, tance l'esprit immonde, lui disant : Esprit muet et sourd, moi je te l'ordonne : sors de lui, et n'y entre plus."
         },
         "interlinear": [
-          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ἐπισυντρέχει", "gloss": "accourt_ensemble" },
-          { "greek": "ὄχλος", "gloss": "la_foule" },
-          { "greek": "ἐπετίμησεν", "gloss": "menaça/tança" },
-          { "greek": "τῷ", "gloss": "l'" },
-          { "greek": "πνεύματι", "gloss": "esprit" },
-          { "greek": "τῷ", "gloss": "l'" },
-          { "greek": "ἀκαθάρτῳ", "gloss": "impur" },
-          { "greek": "λέγων", "gloss": "disant" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Τὸ", "gloss": "L'" },
-          { "greek": "ἄλαλον", "gloss": "muet" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "κωφὸν", "gloss": "sourd" },
-          { "greek": "πνεῦμα,", "gloss": "esprit" },
-          { "greek": "ἐγὼ", "gloss": "Moi" },
-          { "greek": "ἐπιτάσσω", "gloss": "j'ordonne" },
-          { "greek": "σοι,", "gloss": "à_toi" },
-          { "greek": "ἔξελθε", "gloss": "sors" },
-          { "greek": "ἐξ", "gloss": "de" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μηκέτι", "gloss": "plus_jamais" },
-          { "greek": "εἰσέλθῃς", "gloss": "tu_n'entres" },
-          { "greek": "εἰς", "gloss": "en" },
-          { "greek": "αὐτόν.", "gloss": "lui" }
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἐπισυντρέχει",
+            "gloss": "accourt_ensemble"
+          },
+          {
+            "greek": "ὄχλος",
+            "gloss": "la_foule"
+          },
+          {
+            "greek": "ἐπετίμησεν",
+            "gloss": "menaça/tança"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἀκαθάρτῳ",
+            "gloss": "impur"
+          },
+          {
+            "greek": "λέγων",
+            "gloss": "disant"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Τὸ",
+            "gloss": "L'"
+          },
+          {
+            "greek": "ἄλαλον",
+            "gloss": "muet"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κωφὸν",
+            "gloss": "sourd"
+          },
+          {
+            "greek": "πνεῦμα,",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "ἐπιτάσσω",
+            "gloss": "j'ordonne"
+          },
+          {
+            "greek": "σοι,",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ἔξελθε",
+            "gloss": "sors"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "de"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μηκέτι",
+            "gloss": "plus_jamais"
+          },
+          {
+            "greek": "εἰσέλθῃς",
+            "gloss": "tu_n'entres"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en"
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -268,22 +804,70 @@
           "darby": "Et ayant crié et l'ayant fort déchiré, il sortit ; et il devint comme mort, de sorte que plusieurs disaient : Il est mort."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "κράξας", "gloss": "ayant_crié" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πολλὰ", "gloss": "beaucoup" },
-          { "greek": "σπαράξας", "gloss": "ayant_déchiré" },
-          { "greek": "ἐξῆλθεν·", "gloss": "il_sortit" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐγένετο", "gloss": "il_devint" },
-          { "greek": "ὡσεὶ", "gloss": "comme" },
-          { "greek": "νεκρός,", "gloss": "mort" },
-          { "greek": "ὥστε", "gloss": "de_sorte_que" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "πολλοὺς", "gloss": "nombreux/plusieurs" },
-          { "greek": "λέγειν", "gloss": "dire" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "ἀπέθανεν.", "gloss": "il_est_mort" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "κράξας",
+            "gloss": "ayant_crié"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πολλὰ",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "σπαράξας",
+            "gloss": "ayant_déchiré"
+          },
+          {
+            "greek": "ἐξῆλθεν·",
+            "gloss": "il_sortit"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "il_devint"
+          },
+          {
+            "greek": "ὡσεὶ",
+            "gloss": "comme"
+          },
+          {
+            "greek": "νεκρός,",
+            "gloss": "mort"
+          },
+          {
+            "greek": "ὥστε",
+            "gloss": "de_sorte_que"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πολλοὺς",
+            "gloss": "nombreux/plusieurs"
+          },
+          {
+            "greek": "λέγειν",
+            "gloss": "dire"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ἀπέθανεν.",
+            "gloss": "il_est_mort"
+          }
         ]
       },
       {
@@ -293,17 +877,51 @@
           "darby": "Mais Jésus, le prenant par la main, le releva ; et il se tint debout."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "δὲ", "gloss": "mais/or" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "κρατήσας", "gloss": "ayant_saisi" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "χειρὸς", "gloss": "main" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἤγειρεν", "gloss": "le_releva", "analyse": "Verbe de la résurrection (*egeiro*). Après l'épreuve de la mort (la fin des aliénations du Monde duel), le Christ redonne à l'homme sa verticalité spirituelle. La restauration est complète : l'enfant se tient debout par lui-même, en être libre." },
-          { "greek": "αὐτόν,", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀνέστη.", "gloss": "il_se_leva/tint_debout" }
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais/or"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "κρατήσας",
+            "gloss": "ayant_saisi"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "χειρὸς",
+            "gloss": "main"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἤγειρεν",
+            "gloss": "le_releva",
+            "analyse": "Verbe de la résurrection (*egeiro*). Après l'épreuve de la mort (la fin des aliénations du Monde duel), le Christ redonne à l'homme sa verticalité spirituelle. La restauration est complète : l'enfant se tient debout par lui-même, en être libre."
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀνέστη.",
+            "gloss": "il_se_leva/tint_debout"
+          }
         ]
       },
       {
@@ -313,24 +931,78 @@
           "darby": "Et quand il fut entré dans la maison, ses disciples lui demandèrent en particulier : Pourquoi n'avons-nous pu le chasser ?"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "εἰσελθόντος", "gloss": "étant_entré" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "οἶκον", "gloss": "la_maison" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "κατ’", "gloss": "en" },
-          { "greek": "ἰδίαν", "gloss": "particulier" },
-          { "greek": "ἐπηρώτων", "gloss": "interrogeaient" },
-          { "greek": "αὐτόν·", "gloss": "lui" },
-          { "greek": "Ὅτι", "gloss": "Pourquoi" },
-          { "greek": "ἡμεῖς", "gloss": "nous" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἠδυνήθημεν", "gloss": "avons-nous_pu" },
-          { "greek": "ἐκβαλεῖν", "gloss": "chasser" },
-          { "greek": "αὐτό;", "gloss": "le/lui" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἰσελθόντος",
+            "gloss": "étant_entré"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "οἶκον",
+            "gloss": "la_maison"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἰδίαν",
+            "gloss": "particulier"
+          },
+          {
+            "greek": "ἐπηρώτων",
+            "gloss": "interrogeaient"
+          },
+          {
+            "greek": "αὐτόν·",
+            "gloss": "lui"
+          },
+          {
+            "greek": "Ὅτι",
+            "gloss": "Pourquoi"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἠδυνήθημεν",
+            "gloss": "avons-nous_pu"
+          },
+          {
+            "greek": "ἐκβαλεῖν",
+            "gloss": "chasser"
+          },
+          {
+            "greek": "αὐτό;",
+            "gloss": "le/lui"
+          }
         ]
       },
       {
@@ -340,22 +1012,71 @@
           "darby": "Et il leur dit : Cette sorte ne peut sortir en aucune manière, si ce n'est par la prière et par le jeûne."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἶπεν", "gloss": "il_dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Τοῦτο", "gloss": "Cette" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "γένος", "gloss": "espèce/sorte" },
-          { "greek": "ἐν", "gloss": "par" },
-          { "greek": "οὐδενὶ", "gloss": "rien" },
-          { "greek": "δύναται", "gloss": "ne_peut" },
-          { "greek": "ἐξελθεῖν", "gloss": "sortir" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "ἐν", "gloss": "par" },
-          { "greek": "προσευχῇ", "gloss": "prière", "analyse": "La prière et le jeûne ne sont pas des performances morales pour acheter une récompense. Ce sont les outils ascétiques qui permettent de déconstruire le Monde duel. Le jeûne affame la volonté de préhension de l'Ego, et la prière recentre l'attention (le *nous*) vers le Royaume UN, permettant aux Énergies divines de chasser l'aliénation." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "νηστείᾳ.", "gloss": "jeûne" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Τοῦτο",
+            "gloss": "Cette"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "γένος",
+            "gloss": "espèce/sorte"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par"
+          },
+          {
+            "greek": "οὐδενὶ",
+            "gloss": "rien"
+          },
+          {
+            "greek": "δύναται",
+            "gloss": "ne_peut"
+          },
+          {
+            "greek": "ἐξελθεῖν",
+            "gloss": "sortir"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par"
+          },
+          {
+            "greek": "προσευχῇ",
+            "gloss": "prière",
+            "analyse": "La prière et le jeûne ne sont pas des performances morales pour acheter une récompense. Ce sont les outils ascétiques qui permettent de déconstruire le Monde duel. Le jeûne affame la volonté de préhension de l'Ego, et la prière recentre l'attention (le *nous*) vers le Royaume UN, permettant aux Énergies divines de chasser l'aliénation."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "νηστείᾳ.",
+            "gloss": "jeûne"
+          }
         ]
       },
       {
@@ -365,18 +1086,54 @@
           "darby": "Et étant partis de là, ils cheminaient par la Galilée ; et il ne voulait pas que personne le sût."
         },
         "interlinear": [
-          { "greek": "Κἀκεῖθεν", "gloss": "Et_de_là" },
-          { "greek": "ἐξελθόντες", "gloss": "étant_partis" },
-          { "greek": "παρεπορεύοντο", "gloss": "ils_traversaient" },
-          { "greek": "διὰ", "gloss": "par/à_travers" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "Γαλιλαίας,", "gloss": "Galilée" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἤθελεν", "gloss": "il_voulait" },
-          { "greek": "ἵνα", "gloss": "que" },
-          { "greek": "τις", "gloss": "quelqu'un" },
-          { "greek": "γνοῖ·", "gloss": "sût" }
+          {
+            "greek": "Κἀκεῖθεν",
+            "gloss": "Et_de_là"
+          },
+          {
+            "greek": "ἐξελθόντες",
+            "gloss": "étant_partis"
+          },
+          {
+            "greek": "παρεπορεύοντο",
+            "gloss": "ils_traversaient"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par/à_travers"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "Γαλιλαίας,",
+            "gloss": "Galilée"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἤθελεν",
+            "gloss": "il_voulait"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "que"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "γνοῖ·",
+            "gloss": "sût"
+          }
         ]
       },
       {
@@ -386,38 +1143,209 @@
           "darby": "Car il enseignait ses disciples et leur disait : Le fils de l'homme est livré entre les mains des hommes, et ils le feront mourir ; et l'ayant fait mourir, il ressuscitera le troisième jour."
         },
         "interlinear": [
-          { "greek": "ἐδίδασκεν", "gloss": "il_enseignait" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "μαθητὰς", "gloss": "disciples" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔλεγεν", "gloss": "disait" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ὁ", "gloss": "Le" },
-          { "greek": "υἱὸς", "gloss": "fils" },
-          { "greek": "τοῦ", "gloss": "de_l'" },
-          { "greek": "ἀνθρώπου", "gloss": "homme" },
-          { "greek": "παραδίδοται", "gloss": "est_livré" },
-          { "greek": "εἰς", "gloss": "entre" },
-          { "greek": "χεῖρας", "gloss": "mains" },
-          { "greek": "ἀνθρώπων,", "gloss": "d'hommes" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀποκτενοῦσιν", "gloss": "ils_tueront" },
-          { "greek": "αὐτόν,", "gloss": "lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀποκτανθεὶς", "gloss": "ayant_été_tué" },
-          { "greek": "μετὰ", "gloss": "après" },
-          { "greek": "τρεῖς", "gloss": "trois" },
-          { "greek": "ἡμέρας", "gloss": "jours" },
-          { "greek": "ἀναστήσεται.", "gloss": "il_ressuscitera" }
+          {
+            "greek": "ἐδίδασκεν",
+            "gloss": "il_enseignait"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθητὰς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔλεγεν",
+            "gloss": "disait"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "homme"
+          },
+          {
+            "greek": "παραδίδοται",
+            "gloss": "est_livré"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "entre"
+          },
+          {
+            "greek": "χεῖρας",
+            "gloss": "mains"
+          },
+          {
+            "greek": "ἀνθρώπων,",
+            "gloss": "d'hommes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποκτενοῦσιν",
+            "gloss": "ils_tueront"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποκτανθεὶς",
+            "gloss": "ayant_été_tué"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "après"
+          },
+          {
+            "greek": "τρεῖς",
+            "gloss": "trois"
+          },
+          {
+            "greek": "ἡμέρας",
+            "gloss": "jours"
+          },
+          {
+            "greek": "ἀναστήσεται.",
+            "gloss": "il_ressuscitera"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 17 - ἄλαλον : Souvent traduit simplement par 'muet'. Le préfixe privatif 'a-' indique une perte, une dépossession de la parole (lalein). C'est la figure tragique de l'humain coupé du Logos.\n• Verset 24 - ἀπιστίᾳ : Le terme 'incrédulité' (Segond) peut sembler purement intellectuel. C'est en fait l''a-pistia', l'absence d'ancrage, le flottement angoissé de l'âme qui n'est plus fixée en Dieu.\n\nAnalyse spirituelle :\nLe 4ème dimanche du Carême est dédié à Saint Jean Climaque, l'auteur de 'L'Échelle Sainte'. Ce texte évangélique illustre parfaitement cette ascension intérieure. L'enfant possédé représente l'humanité jetée à terre, tiraillée, incapable de se tenir debout dans sa dignité originelle. L'Ego des disciples, qui essaient de chasser le démon par leurs propres capacités (dans une logique de pouvoir inhérente au 'Monde duel'), échoue lamentablement.\n\nLa guérison s'opère par une bascule spectaculaire : le cri du père. 'Je crois, viens au secours de mon incrédulité !' Ce cri est la fin de l'idéologie et de la préhension. Le père ne cherche plus à se présenter sous un beau masque, il expose sa fracture absolue. À cet instant précis, l'Ego abdique, et l'homme redevient un 'Sujet' véritable, prêt à recevoir la vie de l'Incréé. Le jeûne et la prière, mentionnés à la fin, sont l'entraînement concret de cette posture : non pas des règles de purification légale, mais le dépouillement nécessaire pour que l'illusion du monde duel s'efface et laisse place à la communion du Royaume UN."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 17 - ἄλαλον : Souvent traduit simplement par 'muet'. Le préfixe privatif 'a-' indique une perte, une dépossession de la parole (lalein). C'est la figure tragique de l'humain coupé du Logos.\n• Verset 24 - ἀπιστίᾳ : Le terme 'incrédulité' (Segond) peut sembler purement intellectuel. C'est en fait l''a-pistia', l'absence d'ancrage, le flottement angoissé de l'âme qui n'est plus fixée en Dieu.\n\nAnalyse spirituelle :\nLe 4ème dimanche du Carême est dédié à Saint Jean Climaque, l'auteur de 'L'Échelle Sainte'. Ce texte évangélique illustre parfaitement cette ascension intérieure. L'enfant possédé représente l'humanité jetée à terre, tiraillée, incapable de se tenir debout dans sa dignité originelle. L'Ego des disciples, qui essaient de chasser le démon par leurs propres capacités (dans une logique de pouvoir inhérente au 'Monde duel'), échoue lamentablement.\n\nLa guérison s'opère par une bascule spectaculaire : le cri du père. 'Je crois, viens au secours de mon incrédulité !' Ce cri est la fin de l'idéologie et de la préhension. Le père ne cherche plus à se présenter sous un beau masque, il expose sa fracture absolue. À cet instant précis, l'Ego abdique, et l'homme redevient un 'Sujet' véritable, prêt à recevoir la vie de l'Incréé. Le jeûne et la prière, mentionnés à la fin, sont l'entraînement concret de cette posture : non pas des règles de purification légale, mais le dépouillement nécessaire pour que l'illusion du monde duel s'efface et laisse place à la communion du Royaume UN.",
+    "homiletic_axes": [
+      {
+        "title": "« Je crois ; viens au secours de mon manque de foi »",
+        "content": "Le père ne dissimule ni sa foi ni sa faiblesse. Sa prière tient ensemble confiance et pauvreté : elle devient une forme authentique de persévérance, ouverte à l’action du Christ.",
+        "keywords": [
+          "πιστεύω — croire",
+          "ἀπιστία — manque de foi",
+          "βοηθέω — secourir"
+        ]
       },
-"apostle": {
+      {
+        "title": "Prière, patience et souffle long",
+        "content": "Jésus enseigne que cette espèce ne sort que par la prière. Hébreux associe foi et μακροθυμία, la patience au souffle long : l’ascèse n’est pas agitation, mais fidélité tendue vers l’accomplissement.",
+        "keywords": [
+          "προσευχή — prière",
+          "μακροθυμία — patience",
+          "σπουδή — empressement"
+        ]
+      },
+      {
+        "title": "Pris par la main, relevé et remis debout",
+        "content": "L’enfant devient comme mort, puis Jésus le saisit, le relève et le met debout. Les verbes ἐγείρω et ἀνίστημι donnent à la guérison une résonance pascale : le Christ rejoint l’impuissance jusqu’à y faire surgir la vie.",
+        "keywords": [
+          "κρατέω — saisir",
+          "ἐγείρω — relever",
+          "ἀνίστημι — se lever"
+        ]
+      },
+      {
+        "title": "L’espérance comme ancre au-delà du voile",
+        "content": "Hébreux appelle à saisir l’espérance proposée, sûre et ferme, entrant au-delà du voile où Jésus nous précède. L’échelle spirituelle n’est donc pas une ascension autosuffisante : elle demeure attachée au Christ précurseur.",
+        "keywords": [
+          "ἐλπίς — espérance",
+          "ἄγκυρα — ancre",
+          "πρόδρομος — précurseur"
+        ]
+      },
+      {
+        "title": "Le chemin de l’ascèse conduit au don de soi",
+        "content": "Après le relèvement de l’enfant, Jésus annonce qu’il sera livré, mis à mort et qu’il ressuscitera. L’effort spirituel reçoit son sens du mystère pascal : non conquérir une hauteur, mais suivre le Christ dans la prière, l’abaissement et la vie donnée.",
+        "keywords": [
+          "παραδίδωμι — livrer",
+          "ἀποκτείνω — mettre à mort",
+          "ἀνίστημι — ressusciter"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La foi persévérante saisit l’espérance",
+        "reference": "Marc 9, 17-31 ; Hébreux 6, 13-20",
+        "content": "Le père crie une foi encore blessée ; Hébreux appelle à imiter ceux qui héritent la promesse par la foi et la patience. Le Christ relève l’enfant et précède les siens au-delà du voile.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Saint Jean Climaque et l’enfant possédé » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
+  },
+  "apostle": {
     "reference": "Hébreux 6, 13-20",
     "title": "L'ancre de l'âme et la traversée du Voile",
     "interlinear": [
@@ -428,21 +1356,66 @@
           "darby": "Car Dieu, faisant promesse à Abraham, puisqu'il n'avait personne de plus grand par qui jurer, jura par lui-même,"
         },
         "interlinear": [
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "Ἀβραὰμ", "gloss": "Abraham" },
-          { "greek": "ἐπαγγειλάμενος", "gloss": "ayant_promis" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεός,", "gloss": "Dieu" },
-          { "greek": "ἐπεὶ", "gloss": "puisque" },
-          { "greek": "κατ’", "gloss": "par" },
-          { "greek": "οὐδενὸς", "gloss": "aucun" },
-          { "greek": "εἶχεν", "gloss": "il_avait" },
-          { "greek": "μείζονος", "gloss": "de_plus_grand" },
-          { "greek": "ὀμόσαι,", "gloss": "à_jurer" },
-          { "greek": "ὤμοσεν", "gloss": "il_jura" },
-          { "greek": "καθ’", "gloss": "par" },
-          { "greek": "ἑαυτοῦ,", "gloss": "lui-même" }
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "Ἀβραὰμ",
+            "gloss": "Abraham"
+          },
+          {
+            "greek": "ἐπαγγειλάμενος",
+            "gloss": "ayant_promis"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεός,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐπεὶ",
+            "gloss": "puisque"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "par"
+          },
+          {
+            "greek": "οὐδενὸς",
+            "gloss": "aucun"
+          },
+          {
+            "greek": "εἶχεν",
+            "gloss": "il_avait"
+          },
+          {
+            "greek": "μείζονος",
+            "gloss": "de_plus_grand"
+          },
+          {
+            "greek": "ὀμόσαι,",
+            "gloss": "à_jurer"
+          },
+          {
+            "greek": "ὤμοσεν",
+            "gloss": "il_jura"
+          },
+          {
+            "greek": "καθ’",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἑαυτοῦ,",
+            "gloss": "lui-même"
+          }
         ]
       },
       {
@@ -452,16 +1425,46 @@
           "darby": "disant : Certes, en bénissant je te bénirai, et en multipliant je te multiplierai."
         },
         "interlinear": [
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Ἦ", "gloss": "Certainement" },
-          { "greek": "μὴν", "gloss": "vraiment" },
-          { "greek": "εὐλογῶν", "gloss": "bénissant" },
-          { "greek": "εὐλογήσω", "gloss": "je_bénirai" },
-          { "greek": "σε", "gloss": "toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πληθύνων", "gloss": "multipliant" },
-          { "greek": "πληθυνῶ", "gloss": "je_multiplierai" },
-          { "greek": "σε·", "gloss": "toi" }
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἦ",
+            "gloss": "Certainement"
+          },
+          {
+            "greek": "μὴν",
+            "gloss": "vraiment"
+          },
+          {
+            "greek": "εὐλογῶν",
+            "gloss": "bénissant"
+          },
+          {
+            "greek": "εὐλογήσω",
+            "gloss": "je_bénirai"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πληθύνων",
+            "gloss": "multipliant"
+          },
+          {
+            "greek": "πληθυνῶ",
+            "gloss": "je_multiplierai"
+          },
+          {
+            "greek": "σε·",
+            "gloss": "toi"
+          }
         ]
       },
       {
@@ -471,12 +1474,31 @@
           "darby": "Et ainsi, ayant eu patience, il obtint la promesse."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "οὕτως", "gloss": "ainsi" },
-          { "greek": "μακροθυμήσας", "gloss": "ayant_patienté", "analyse": "Le verbe *makrothumeo* (avoir l'âme longue, patienter) est fondamental. C'est l'antidote à la pulsion de l'Ego qui veut tout saisir immédiatement. La 'patience' biblique est l'endurance du Sujet qui accepte de ne pas maîtriser le temps, se désinvestissant de l'urgence mondaine pour s'ancrer dans le temps de Dieu." },
-          { "greek": "ἐπέτυχεν", "gloss": "il_obtint" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "ἐπαγγελίας.", "gloss": "promesse" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "οὕτως",
+            "gloss": "ainsi"
+          },
+          {
+            "greek": "μακροθυμήσας",
+            "gloss": "ayant_patienté",
+            "analyse": "Le verbe *makrothumeo* (avoir l'âme longue, patienter) est fondamental. C'est l'antidote à la pulsion de l'Ego qui veut tout saisir immédiatement. La 'patience' biblique est l'endurance du Sujet qui accepte de ne pas maîtriser le temps, se désinvestissant de l'urgence mondaine pour s'ancrer dans le temps de Dieu."
+          },
+          {
+            "greek": "ἐπέτυχεν",
+            "gloss": "il_obtint"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐπαγγελίας.",
+            "gloss": "promesse"
+          }
         ]
       },
       {
@@ -486,21 +1508,67 @@
           "darby": "Car les hommes jurent par un plus grand qu'eux, et le serment est pour eux la fin de toute contestation, pour confirmation."
         },
         "interlinear": [
-          { "greek": "ἄνθρωποι", "gloss": "Les_hommes" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "κατὰ", "gloss": "par" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "μείζονος", "gloss": "plus_grand" },
-          { "greek": "ὀμνύουσιν,", "gloss": "jurent" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πάσης", "gloss": "de_toute" },
-          { "greek": "αὐτοῖς", "gloss": "pour_eux" },
-          { "greek": "ἀντιλογίας", "gloss": "contestation/contradiction", "analyse": "L'*antilogia* (litt. le discours contre, la contradiction). C'est la signature même du Monde duel, perpétuellement divisé, où les volontés et les raisonnements s'affrontent sans fin. La parole divine, par nature Une, met un terme à cette fragmentation mentale." },
-          { "greek": "πέρας", "gloss": "fin/terme" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "βεβαίωσιν", "gloss": "garantie/confirmation" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "ὅρκος·", "gloss": "serment" }
+          {
+            "greek": "ἄνθρωποι",
+            "gloss": "Les_hommes"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μείζονος",
+            "gloss": "plus_grand"
+          },
+          {
+            "greek": "ὀμνύουσιν,",
+            "gloss": "jurent"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάσης",
+            "gloss": "de_toute"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "pour_eux"
+          },
+          {
+            "greek": "ἀντιλογίας",
+            "gloss": "contestation/contradiction",
+            "analyse": "L'*antilogia* (litt. le discours contre, la contradiction). C'est la signature même du Monde duel, perpétuellement divisé, où les volontés et les raisonnements s'affrontent sans fin. La parole divine, par nature Une, met un terme à cette fragmentation mentale."
+          },
+          {
+            "greek": "πέρας",
+            "gloss": "fin/terme"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "βεβαίωσιν",
+            "gloss": "garantie/confirmation"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὅρκος·",
+            "gloss": "serment"
+          }
         ]
       },
       {
@@ -510,24 +1578,79 @@
           "darby": "Et par cela, Dieu, voulant montrer plus abondamment aux héritiers de la promesse l'immutabilité de son conseil, est intervenu par un serment,"
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ᾧ", "gloss": "quoi" },
-          { "greek": "περισσότερον", "gloss": "plus_abondamment" },
-          { "greek": "βουλόμενος", "gloss": "voulant" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "ἐπιδεῖξαι", "gloss": "montrer" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "κληρονόμοις", "gloss": "héritiers" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ἐπαγγελίας", "gloss": "promesse" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "ἀμετάθετον", "gloss": "immutabilité", "analyse": "Ce qui est inaltérable (*ametatheton*). Dans l'illusion du monde créé, tout est fluide, changeant, sujet à l'angoisse et à la mort. L'Incréé seul est immuable. Le but de la voie spirituelle est d'attacher son être à cette immutabilité pour ne plus être ballotté par les passions." },
-          { "greek": "τῆς", "gloss": "du" },
-          { "greek": "βουλῆς", "gloss": "dessein/volonté" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "ἐμεσίτευσεν", "gloss": "intervint_comme_médiateur" },
-          { "greek": "ὅρκῳ,", "gloss": "par_un_serment" }
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "quoi"
+          },
+          {
+            "greek": "περισσότερον",
+            "gloss": "plus_abondamment"
+          },
+          {
+            "greek": "βουλόμενος",
+            "gloss": "voulant"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐπιδεῖξαι",
+            "gloss": "montrer"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "κληρονόμοις",
+            "gloss": "héritiers"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἐπαγγελίας",
+            "gloss": "promesse"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἀμετάθετον",
+            "gloss": "immutabilité",
+            "analyse": "Ce qui est inaltérable (*ametatheton*). Dans l'illusion du monde créé, tout est fluide, changeant, sujet à l'angoisse et à la mort. L'Incréé seul est immuable. Le but de la voie spirituelle est d'attacher son être à cette immutabilité pour ne plus être ballotté par les passions."
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "βουλῆς",
+            "gloss": "dessein/volonté"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐμεσίτευσεν",
+            "gloss": "intervint_comme_médiateur"
+          },
+          {
+            "greek": "ὅρκῳ,",
+            "gloss": "par_un_serment"
+          }
         ]
       },
       {
@@ -537,25 +1660,82 @@
           "darby": "afin que, par deux choses immuables, dans lesquelles il était impossible que Dieu mentît, nous ayons une ferme consolation, nous qui nous sommes enfuis pour saisir l'espérance proposée,"
         },
         "interlinear": [
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "πραγμάτων", "gloss": "choses" },
-          { "greek": "ἀμεταθέτων,", "gloss": "immuables" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "οἷς", "gloss": "lesquelles" },
-          { "greek": "ἀδύνατον", "gloss": "impossible" },
-          { "greek": "ψεύσασθαι", "gloss": "de_mentir_pour" },
-          { "greek": "θεόν,", "gloss": "Dieu" },
-          { "greek": "ἰσχυρὰν", "gloss": "une_forte" },
-          { "greek": "παράκλησιν", "gloss": "consolation/encouragement" },
-          { "greek": "ἔχωμεν", "gloss": "nous_ayons" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "καταφυγόντες", "gloss": "ayant_cherché_refuge" },
-          { "greek": "κρατῆσαι", "gloss": "pour_saisir" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "προκειμένης", "gloss": "proposée/placée_devant" },
-          { "greek": "ἐλπίδος·", "gloss": "espérance" }
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "πραγμάτων",
+            "gloss": "choses"
+          },
+          {
+            "greek": "ἀμεταθέτων,",
+            "gloss": "immuables"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "οἷς",
+            "gloss": "lesquelles"
+          },
+          {
+            "greek": "ἀδύνατον",
+            "gloss": "impossible"
+          },
+          {
+            "greek": "ψεύσασθαι",
+            "gloss": "de_mentir_pour"
+          },
+          {
+            "greek": "θεόν,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἰσχυρὰν",
+            "gloss": "une_forte"
+          },
+          {
+            "greek": "παράκλησιν",
+            "gloss": "consolation/encouragement"
+          },
+          {
+            "greek": "ἔχωμεν",
+            "gloss": "nous_ayons"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "καταφυγόντες",
+            "gloss": "ayant_cherché_refuge"
+          },
+          {
+            "greek": "κρατῆσαι",
+            "gloss": "pour_saisir"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "προκειμένης",
+            "gloss": "proposée/placée_devant"
+          },
+          {
+            "greek": "ἐλπίδος·",
+            "gloss": "espérance"
+          }
         ]
       },
       {
@@ -565,23 +1745,76 @@
           "darby": "laquelle nous avons comme une ancre de l'âme, sûre et ferme, et qui entre jusqu'au dedans du voile,"
         },
         "interlinear": [
-          { "greek": "ἣν", "gloss": "Laquelle" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "ἄγκυραν", "gloss": "ancre", "analyse": "L'ancre (*agkyra*) est l'une des images les plus puissantes de l'ascèse. L'âme humaine est naturellement ballottée par les tempêtes de l'Ego (pensées, émotions, peurs). L'attention spirituelle (le *nous*) est cette ancre jetée volontairement en-dehors du Monde duel pour trouver la stabilité absolue dans l'Incréé." },
-          { "greek": "ἔχομεν", "gloss": "nous_avons" },
-          { "greek": "τῆς", "gloss": "de_l'" },
-          { "greek": "ψυχῆς", "gloss": "âme" },
-          { "greek": "ἀσφαλῆ", "gloss": "sûre" },
-          { "greek": "τε", "gloss": "et" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "βεβαίαν", "gloss": "ferme" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἰσερχομένην", "gloss": "entrant" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "ἐσώτερον", "gloss": "intérieur" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "καταπετάσματος,", "gloss": "voile", "analyse": "Le voile (*katapetasma*) représente la limite sensorielle et rationnelle, la clôture du monde aliéné. Le traverser, c'est quitter la périphérie pour entrer dans le cœur profond, le Saint des Saints intérieur, le lieu de la présence pure du Royaume UN." }
+          {
+            "greek": "ἣν",
+            "gloss": "Laquelle"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἄγκυραν",
+            "gloss": "ancre",
+            "analyse": "L'ancre (*agkyra*) est l'une des images les plus puissantes de l'ascèse. L'âme humaine est naturellement ballottée par les tempêtes de l'Ego (pensées, émotions, peurs). L'attention spirituelle (le *nous*) est cette ancre jetée volontairement en-dehors du Monde duel pour trouver la stabilité absolue dans l'Incréé."
+          },
+          {
+            "greek": "ἔχομεν",
+            "gloss": "nous_avons"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ψυχῆς",
+            "gloss": "âme"
+          },
+          {
+            "greek": "ἀσφαλῆ",
+            "gloss": "sûre"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "βεβαίαν",
+            "gloss": "ferme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἰσερχομένην",
+            "gloss": "entrant"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἐσώτερον",
+            "gloss": "intérieur"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "καταπετάσματος,",
+            "gloss": "voile",
+            "analyse": "Le voile (*katapetasma*) représente la limite sensorielle et rationnelle, la clôture du monde aliéné. Le traverser, c'est quitter la périphérie pour entrer dans le cœur profond, le Saint des Saints intérieur, le lieu de la présence pure du Royaume UN."
+          }
         ]
       },
       {
@@ -591,24 +1824,162 @@
           "darby": "où Jésus est entré pour nous comme précurseur, étant devenu souverain sacrificateur pour l'éternité, selon l'ordre de Melchisédec."
         },
         "interlinear": [
-          { "greek": "ὅπου", "gloss": "où" },
-          { "greek": "πρόδρομος", "gloss": "précurseur" },
-          { "greek": "ὑπὲρ", "gloss": "pour" },
-          { "greek": "ἡμῶν", "gloss": "nous" },
-          { "greek": "εἰσῆλθεν", "gloss": "est_entré" },
-          { "greek": "Ἰησοῦς,", "gloss": "Jésus" },
-          { "greek": "κατὰ", "gloss": "selon" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "τάξιν", "gloss": "ordre" },
-          { "greek": "Μελχισέδεκ", "gloss": "Melchisédek" },
-          { "greek": "ἀρχιερεὺς", "gloss": "grand_prêtre" },
-          { "greek": "γενόμενος", "gloss": "étant_devenu" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "τὸν", "gloss": "l'" },
-          { "greek": "αἰῶνα.", "gloss": "éternité" }
+          {
+            "greek": "ὅπου",
+            "gloss": "où"
+          },
+          {
+            "greek": "πρόδρομος",
+            "gloss": "précurseur"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "εἰσῆλθεν",
+            "gloss": "est_entré"
+          },
+          {
+            "greek": "Ἰησοῦς,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "τάξιν",
+            "gloss": "ordre"
+          },
+          {
+            "greek": "Μελχισέδεκ",
+            "gloss": "Melchisédek"
+          },
+          {
+            "greek": "ἀρχιερεὺς",
+            "gloss": "grand_prêtre"
+          },
+          {
+            "greek": "γενόμενος",
+            "gloss": "étant_devenu"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "αἰῶνα.",
+            "gloss": "éternité"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 15 - μακροθυμήσας : L'usage commun du mot 'persévérer' ou 'patienter' affaiblit la radicalité de ce terme qui décrit une 'longueur d'âme' (makro-thumos), une dilatation intérieure capable de supporter le temps sans s'y épuiser.\n• Verset 16 - ἀντιλογίας : Traduit par 'différends' (Segond) ou 'contestation' (Darby), ce mot désigne plus largement la contradiction perpétuelle, la dialectique (le fait de parler 'contre'). Le serment divin ne vient pas régler une dispute, il vient abolir la logique même du conflit inhérente à la pensée humaine.\n\nAnalyse spirituelle :\nDans le sillage de l'Évangile (où le père jette son cri de foi dans le vide pour sauver son enfant), cet extrait de l'Épître aux Hébreux nous livre la clé du processus ascétique : 'l'ancre de l'âme'. \nLe monde naturel est une surface instable, déchirée par la contradiction (l'antilogia) et dominée par l'agitation de l'Ego. Si l'homme s'appuie sur ce monde, il coule avec lui. L'enjeu de la vie spirituelle consiste à lancer l'ancre de son attention au-delà du 'Voile', au-delà des apparences sensibles et des constructions mentales, pour l'arrimer solidement dans la réalité immuable de l'Incréé.\nLe Christ est notre 'précurseur' : Il a percé l'opacité du Monde duel pour rouvrir l'accès direct au Royaume UN. Nous n'avons plus qu'à remonter le long de cette chaîne, par une ascèse de désidentification et de foi silencieuse, pour que notre être, libéré du vacarme extérieur, trouve enfin son repos d'éternité."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 15 - μακροθυμήσας : L'usage commun du mot 'persévérer' ou 'patienter' affaiblit la radicalité de ce terme qui décrit une 'longueur d'âme' (makro-thumos), une dilatation intérieure capable de supporter le temps sans s'y épuiser.\n• Verset 16 - ἀντιλογίας : Traduit par 'différends' (Segond) ou 'contestation' (Darby), ce mot désigne plus largement la contradiction perpétuelle, la dialectique (le fait de parler 'contre'). Le serment divin ne vient pas régler une dispute, il vient abolir la logique même du conflit inhérente à la pensée humaine.\n\nAnalyse spirituelle :\nDans le sillage de l'Évangile (où le père jette son cri de foi dans le vide pour sauver son enfant), cet extrait de l'Épître aux Hébreux nous livre la clé du processus ascétique : 'l'ancre de l'âme'. \nLe monde naturel est une surface instable, déchirée par la contradiction (l'antilogia) et dominée par l'agitation de l'Ego. Si l'homme s'appuie sur ce monde, il coule avec lui. L'enjeu de la vie spirituelle consiste à lancer l'ancre de son attention au-delà du 'Voile', au-delà des apparences sensibles et des constructions mentales, pour l'arrimer solidement dans la réalité immuable de l'Incréé.\nLe Christ est notre 'précurseur' : Il a percé l'opacité du Monde duel pour rouvrir l'accès direct au Royaume UN. Nous n'avons plus qu'à remonter le long de cette chaîne, par une ascèse de désidentification et de foi silencieuse, pour que notre être, libéré du vacarme extérieur, trouve enfin son repos d'éternité.",
+    "homiletic_axes": [
+      {
+        "title": "« Je crois ; viens au secours de mon manque de foi »",
+        "content": "Le père ne dissimule ni sa foi ni sa faiblesse. Sa prière tient ensemble confiance et pauvreté : elle devient une forme authentique de persévérance, ouverte à l’action du Christ.",
+        "keywords": [
+          "πιστεύω — croire",
+          "ἀπιστία — manque de foi",
+          "βοηθέω — secourir"
+        ]
+      },
+      {
+        "title": "Prière, patience et souffle long",
+        "content": "Jésus enseigne que cette espèce ne sort que par la prière. Hébreux associe foi et μακροθυμία, la patience au souffle long : l’ascèse n’est pas agitation, mais fidélité tendue vers l’accomplissement.",
+        "keywords": [
+          "προσευχή — prière",
+          "μακροθυμία — patience",
+          "σπουδή — empressement"
+        ]
+      },
+      {
+        "title": "Pris par la main, relevé et remis debout",
+        "content": "L’enfant devient comme mort, puis Jésus le saisit, le relève et le met debout. Les verbes ἐγείρω et ἀνίστημι donnent à la guérison une résonance pascale : le Christ rejoint l’impuissance jusqu’à y faire surgir la vie.",
+        "keywords": [
+          "κρατέω — saisir",
+          "ἐγείρω — relever",
+          "ἀνίστημι — se lever"
+        ]
+      },
+      {
+        "title": "L’espérance comme ancre au-delà du voile",
+        "content": "Hébreux appelle à saisir l’espérance proposée, sûre et ferme, entrant au-delà du voile où Jésus nous précède. L’échelle spirituelle n’est donc pas une ascension autosuffisante : elle demeure attachée au Christ précurseur.",
+        "keywords": [
+          "ἐλπίς — espérance",
+          "ἄγκυρα — ancre",
+          "πρόδρομος — précurseur"
+        ]
+      },
+      {
+        "title": "Le chemin de l’ascèse conduit au don de soi",
+        "content": "Après le relèvement de l’enfant, Jésus annonce qu’il sera livré, mis à mort et qu’il ressuscitera. L’effort spirituel reçoit son sens du mystère pascal : non conquérir une hauteur, mais suivre le Christ dans la prière, l’abaissement et la vie donnée.",
+        "keywords": [
+          "παραδίδωμι — livrer",
+          "ἀποκτείνω — mettre à mort",
+          "ἀνίστημι — ressusciter"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La foi persévérante saisit l’espérance",
+        "reference": "Marc 9, 17-31 ; Hébreux 6, 13-20",
+        "content": "Le père crie une foi encore blessée ; Hébreux appelle à imiter ceux qui héritent la promesse par la foi et la patience. Le Christ relève l’enfant et précède les siens au-delà du voile.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Saint Jean Climaque et l’enfant possédé » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   }
 }
