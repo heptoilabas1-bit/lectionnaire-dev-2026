@@ -63,7 +63,6 @@ document.addEventListener('DOMContentLoaded', () => {
         '326_after_pentecost_26': 'Le Riche insensé (9e de Luc)',
         '327_after_pentecost_27': 'La Femme courbée (10e de Luc)',
         '328_after_pentecost_28': 'Les Dix Lépreux (12e de Luc)',
-        '329_after_pentecost_29': 'Les Saints Ancêtres (Grand Souper)',
         '330_after_pentecost_30': 'Le Jeune Homme Riche (13e de Luc)',
         '331_after_pentecost_31': 'L\'Aveugle de Jéricho (14e de Luc)',
         '332_after_pentecost_32': 'Zachée (15e de Luc)',
