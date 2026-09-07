@@ -1263,7 +1263,23 @@
     ],
     "notes_translators": [],
     "personal_analysis": "Notes sur le texte grec :\n• πίστις Χριστοῦ peut être entendue comme foi en Christ ou fidélité du Christ ; la construction ouvre un horizon plus large qu’une performance psychologique du croyant.\n• συνεσταύρωμαι est un parfait : « j’ai été crucifié avec » et cette union demeure.\n• οὐκέτι ἐγώ… Χριστός : Paul ne décrit pas l’anéantissement de la personne, mais une vie personnelle désormais reçue dans la communion au Christ.\n\nAnalyse spirituelle : après l’appel à prendre sa croix, l’Apôtre en révèle l’intériorisation baptismale : être crucifié avec le Christ afin que sa vie habite en nous. La kénose ne détruit pas le sujet ; elle délivre du moi autosuffisant et ouvre une existence relationnelle, vécue dans la foi au Fils qui « m’a aimé et s’est livré pour moi ».",
-    "homiletic_axes": [],
+    "homiletic_axes": [
+      {
+        "title": "La justification comme don reçu dans le Christ",
+        "content": "Après l’appel à renoncer à soi-même, Paul écarte toute autosuffisance religieuse : la vie juste n’est pas produite par l’accumulation des œuvres, elle est reçue dans la communion au Christ.",
+        "keywords": ["δικαιοῦται", "πίστεως", "Χριστοῦ"]
+      },
+      {
+        "title": "Crucifié avec le Christ, sans disparition de la personne",
+        "content": "Paul exprime de l’intérieur ce que signifie prendre sa croix : le moi autosuffisant cesse d’être le centre, mais la personne demeure et reçoit une vie nouvelle dans le Christ.",
+        "keywords": ["συνεσταύρωμαι·", "οὐκέτι", "Χριστός·"]
+      },
+      {
+        "title": "Vivre de l’amour du Fils qui se livre",
+        "content": "La Croix n’est ni recherche de souffrance ni mépris de soi. Elle devient chemin de vie parce qu’elle est d’abord le don personnel du Fils de Dieu qui aime et se livre.",
+        "keywords": ["ἀγαπήσαντός", "παραδόντος", "ἑαυτὸν"]
+      }
+    ],
     "homily_template": [
       {
         "id": "theme",
