@@ -1577,7 +1577,23 @@
       }
     ],
     "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 13 - περικαθάρματα : Segond et Darby traduisent par 'balayures'. Ce mot français est un peu trop propre. Le grec désigne les résidus d'un nettoyage purificatoire, les immondices dont on se débarrasse pour échapper à la malédiction. C'est le paroxysme de la figure du bouc émissaire.\n• Verset 15 - παιδαγωγοὺς : 'Maîtres'. Le terme français efface le contexte antique de l'esclave surveillant (*paidagogos*). Paul oppose la froideur d'une surveillance disciplinaire (l'Ego religieux moralisateur) à la chaleur organique de la paternité spirituelle (la transmission de l'Être).\n\nAnalyse spirituelle :\nCe texte est une radiographie impitoyable de la maladie spirituelle de Corinthe (et de notre propre modernité religieuse). Les Corinthiens se sont fabriqués un christianisme sans Croix. Ils vivent dans le fantasme d'un 'Monde duel' spiritualisé où ils seraient déjà 'rois', 'forts' et 'sages'. Leur religion est une validation de leur Ego.\n\nSaint Paul démolit cette hallucination en leur jetant à la figure la réalité apostolique. Le vrai témoin du 'Royaume UN' n'est pas un philosophe honoré, c'est un fou (*moria*) jeté en pâture dans l'arène (*theatron*). Mais cette kénose n'est pas du misérabilisme ; elle est le laboratoire de la liberté absolue. Parce que l'apôtre a accepté de mourir à la reconnaissance du monde (devenant son 'rebut'), il n'est plus prisonnier de ses codes d'action-réaction. C'est pourquoi, frappé, il bénit ; calomnié, il exhorte. Il est un vrai Sujet.\n\nLa conclusion (verset 15) révèle le drame de la transmission. On peut avoir dix mille 'pédagogues' qui nous expliquent le dogme, mais cela ne sauve pas l'âme. Seul un 'Père', c'est-à-dire quelqu'un qui est passé par la mort de l'Ego pour faire circuler l'Énergie divine, peut 'engendrer' (*gennao*) un autre être humain à la vie véritable. Paul demande donc aux Corinthiens de cesser de l'étudier comme un professeur, et de l'imiter dans sa folie crucifiée pour naître à leur tour.\n\nComplément de lecture : Paul décrit l’apostolat par une série de renversements : derniers, spectacle, faibles, sans demeure, insultés mais bénissant. La paternité spirituelle naît de cet engendrement dans l’Évangile et non d’une position sociale protégée.",
-    "homiletic_axes": [],
+    "homiletic_axes": [
+      {
+        "title": "La faiblesse apostolique n’est pas un échec",
+        "content": "Face au désir d’une puissance immédiatement visible, Paul présente des apôtres faibles, exposés et sans prestige. Cette faiblesse rejoint l’annonce de la Passion et empêche de confondre la foi avec une promesse de maîtrise.",
+        "keywords": ["ἀσθενεῖς,", "ἄτιμοι.", "θέατρον"]
+      },
+      {
+        "title": "Répondre autrement à la violence",
+        "content": "Insultés, les apôtres bénissent ; persécutés, ils supportent ; calomniés, ils exhortent. La puissance de l’Évangile apparaît dans cette liberté qui ne reproduit pas mécaniquement ce qu’elle subit.",
+        "keywords": ["λοιδορούμενοι", "εὐλογοῦμεν,", "διωκόμενοι"]
+      },
+      {
+        "title": "Engendrer dans l’Évangile",
+        "content": "Paul distingue la multiplication des discours d’une véritable paternité spirituelle. Engendrer ne consiste pas à imposer une personnalité, mais à transmettre une vie reçue dans le Christ.",
+        "keywords": ["πατέρας·", "ἐγέννησα.", "εὐαγγελίου"]
+      }
+    ],
     "homily_template": [
       {
         "id": "theme",
