@@ -2335,7 +2335,23 @@
       }
     ],
     "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 10 - ποίημα : Traduit par 'ouvrage' chez Segond et Darby. C'est exact, mais le mot grec *poiema* (qui a donné 'poème' en français) porte une charge esthétique et créatrice bien supérieure au simple travail artisanal. Il y a un contraste absolu et ironique chez Paul : nous essayons de fabriquer des œuvres (*erga* au verset 9) utilitaires et transactionnelles, alors que Dieu fait de nous son *poiema*, une œuvre d'art pur, gratuite et respirant l'Incréé.\n\nAnalyse spirituelle :\nCe passage est le joyau métaphysique de l'Épître aux Éphésiens. Il signe l'anéantissement définitif de la 'religion' comprise comme un contrat commercial entre l'homme et la divinité.\n\nDans le Monde duel, l'Ego vit dans une insécurité constante. Pour exister et se justifier, il veut prouver sa valeur par des actions horizontales (*ex ergon*) dans l'espoir secret de pouvoir s'en glorifier (*kauchaomai*). C'est la mécanique stérile de l'auto-salvation. \n\nPaul renverse totalement cette matrice. La Grâce (*charis*) est un jaillissement asymétrique qui ne demande rien en retour, elle est un pur don (*doron*). Le Sujet, par la foi (*pistis*), ne fait qu'offrir un espace vide pour que ce flux s'écoule. Les versets 4 à 6 montrent que cette Grâce opère par 'co-inclusion' : nous sommes vivifiés-avec, ressuscités-avec, et assis-avec (*syn-*) le Christ dans les lieux supra-vibratoires (*epouraniois*).\n\nLe verset 10 clôt le mystère en réhabilitant l'action humaine, mais en l'inversant. L'Ego est mort, le Sujet ne s'auto-construit plus, il accepte d'être l'artefact (*poiema*) de Dieu. Dès lors, les actions qu'il pose sur terre (*peri-pateo*, sa marche horizontale) ne sont plus des tentatives anxieuses de gagner le ciel, mais la simple actualisation de l'harmonie préexistante (*pro-etoimazo*) de l'Incréé. La liberté absolue de l'Éveillé est de marcher dans une Œuvre qui le précède.\n\nComplément de lecture : Éphésiens décrit la même initiative divine avec des verbes composés par syn- : Dieu nous a fait revivre, ressusciter et asseoir avec le Christ. Cette grâce ne nie pas l’action humaine ; elle la précède et fait de nous son ouvrage, créés pour des œuvres bonnes.",
-    "homiletic_axes": [],
+    "homiletic_axes": [
+      {
+        "title": "Dieu fait revivre celui que la mort retenait",
+        "content": "L’homme de Gérasa habite parmi les tombeaux ; Paul décrit une humanité que Dieu fait revivre avec le Christ. Dans les deux lectures, le salut est d’abord l’initiative miséricordieuse de Dieu envers celui qui ne peut se restaurer seul.",
+        "keywords": ["ἐλέει,", "συνεζωοποίησεν", "Χριστῷ"]
+      },
+      {
+        "title": "Sauvés par grâce, non par autojustification",
+        "content": "L’homme délivré ne peut revendiquer sa guérison comme une œuvre personnelle. L’Apôtre précise que le salut est un don reçu par la foi, qui retire toute place à la vantardise sans supprimer la réponse humaine.",
+        "keywords": ["χάριτί", "πίστεως·", "δῶρον·"]
+      },
+      {
+        "title": "Recréés pour une marche féconde",
+        "content": "Jésus renvoie l’homme dans sa maison pour raconter ce que Dieu a fait. Paul présente la même dynamique : devenus l’ouvrage de Dieu, nous sommes recréés dans le Christ pour marcher dans des œuvres préparées par lui.",
+        "keywords": ["ποίημα,", "κτισθέντες", "περιπατήσωμεν."]
+      }
+    ],
     "homily_template": [
       {
         "id": "theme",
