@@ -2,6 +2,9 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
+    const DATA_VERSION = '20260911-compare-fix';
+    const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
+
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
     const liturgicalList = {
         // --- Période du Triode ---
@@ -912,7 +915,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if(mainText) mainText.innerHTML = '<p style="text-align:center;"><em>Chargement...</em></p>';
 
         try {
-            const response = await fetch(`data/${sundayKey}.json`);
+            const response = await fetch(versionedDataPath(`data/${sundayKey}.json`));
             if (!response.ok) throw new Error("Fichier JSON manquant dans le dossier /data/");
 
             const data = await response.json();
@@ -1161,7 +1164,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (lectionaryDataPromise) return lectionaryDataPromise;
         lectionaryDataPromise = Promise.all(Object.keys(liturgicalList).map(async key => {
             try {
-                const response = await fetch(`data/${key}.json`);
+                const response = await fetch(versionedDataPath(`data/${key}.json`));
                 if (!response.ok) return null;
                 return { key, data: await response.json() };
             } catch {
@@ -1439,7 +1442,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!calendarSelect) return;
 
         try {
-            const response = await fetch(`data/calendar_${requestedYear}.json`);
+            const response = await fetch(versionedDataPath(`data/calendar_${requestedYear}.json`));
             if (!response.ok) throw new Error('calendrier indisponible');
             const calendar = await response.json();
             const monthFormatter = new Intl.DateTimeFormat('fr-FR', { month: 'long' });
