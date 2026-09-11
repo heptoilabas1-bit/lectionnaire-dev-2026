@@ -6,8 +6,10 @@
       {
         "directness": "direct",
         "kind": "same_lemma",
+        "link_type": "lexical_identity",
         "title": "πνεῦμα — l’Esprit",
         "explanation": "Le même lemme πνεῦμα apparaît dans les deux lectures : Jean annonce l’Esprit à recevoir, tandis que les Actes montrent les disciples remplis de l’Esprit Saint.",
+        "homiletic_use": "Partir du même mot πνεῦμα pour faire passer l’auditeur de la promesse à l’accomplissement : l’Esprit attendu dans l’Évangile remplit les disciples dans les Actes.",
         "bridge": {
           "evidence": "Même lemme grec dans les deux lectures : πνεῦμα",
           "gospel": "πνεύματος / πνεῦμα : l’Esprit que les croyants doivent recevoir",
@@ -29,8 +31,10 @@
       {
         "directness": "indirect",
         "kind": "structure",
+        "link_type": "promise_fulfillment",
         "title": "De la soif à l’accomplissement",
         "explanation": "Le Christ appelle l’homme assoiffé et annonce l’Esprit à recevoir. Dans les Actes, le souffle remplit la maison puis les disciples : la promesse devient événement.",
+        "homiletic_use": "Suivre le mouvement de la soif vers la plénitude : l’homme reconnaît son manque, vient au Christ, puis reçoit l’Esprit qui remplit la personne et la communauté.",
         "bridge": {
           "evidence": "Pas de racine grecque commune — passage de la promesse à l’événement",
           "gospel": "διψάω / πίνω / ὕδωρ / λαμβάνω : avoir soif, boire et recevoir",
@@ -57,8 +61,10 @@
       {
         "directness": "indirect",
         "kind": "theology",
+        "link_type": "theological_reversal",
         "title": "De la division à la communion des langues",
         "explanation": "Jean constate la division de la foule autour du Christ. À la Pentecôte, tous sont rassemblés et chacun entend dans sa propre langue : l’unité donnée par l’Esprit ne supprime pas la diversité.",
+        "homiletic_use": "Opposer la déchirure à la communion : l’Esprit ne fabrique pas l’uniformité, il rend possible une unité où chacun demeure entendu dans sa propre langue.",
         "bridge": {
           "evidence": "Pas de racine grecque commune — renversement théologique",
           "gospel": "σχίσμα : la foule se divise à cause du Christ",

@@ -693,6 +693,24 @@ document.addEventListener('DOMContentLoaded', () => {
         theology: 'Lien théologique'
     };
 
+    const connectionLinkTypeLabels = {
+        lexical_identity: 'Identité lexicale',
+        spiritual_movement: 'Même mouvement spirituel',
+        contrast: 'Contraste éclairant',
+        shared_orientation: 'Même orientation',
+        mission_continuity: 'Mission transmise',
+        semantic_echo: 'Écho de sens',
+        ecclesial_fulfillment: 'Accomplissement ecclésial',
+        promise_fulfillment: 'Promesse → accomplissement',
+        theological_reversal: 'Renversement théologique'
+    };
+
+    const connectionGreekBasisLabels = {
+        same_form: 'Même forme grecque',
+        same_lemma: 'Même lemme grec',
+        same_root: 'Racine grecque commune'
+    };
+
     const normalizeGreekToken = value => String(value || '')
         .normalize('NFD')
         .replace(/[\u0300-\u036f]/g, '')
@@ -824,15 +842,15 @@ document.addEventListener('DOMContentLoaded', () => {
         header.className = 'comparison-link-header';
         const badges = document.createElement('div');
         badges.className = 'comparison-badges';
-        const directness = document.createElement('span');
-        directness.className = `comparison-badge comparison-badge-${connection.directness || 'indirect'}`;
-        directness.textContent = connection.directness === 'direct'
-            ? 'Correspondance lexicale grecque'
-            : 'Rapprochement de sens';
-        const kind = document.createElement('span');
-        kind.className = 'comparison-badge comparison-badge-kind';
-        kind.textContent = connectionKindLabels[connection.kind] || 'Rapprochement';
-        badges.append(directness, kind);
+        const relationType = document.createElement('span');
+        relationType.className = `comparison-badge comparison-badge-${connection.directness || 'indirect'}`;
+        relationType.textContent = `Nature du lien · ${connectionLinkTypeLabels[connection.link_type]
+            || connectionKindLabels[connection.kind]
+            || 'Rapprochement'}`;
+        const greekBasis = document.createElement('span');
+        greekBasis.className = 'comparison-badge comparison-badge-kind';
+        greekBasis.textContent = connectionGreekBasisLabels[connection.kind] || 'Mots grecs différents';
+        badges.append(relationType, greekBasis);
         const title = document.createElement('h3');
         title.textContent = connection.title || `Rapprochement ${index + 1}`;
         const explanation = document.createElement('p');
@@ -906,6 +924,16 @@ document.addEventListener('DOMContentLoaded', () => {
             detail.className = 'comparison-bridge-detail';
             detail.textContent = bridgeData.detail;
             bridge.appendChild(detail);
+        }
+        if (connection.homiletic_use) {
+            const homily = document.createElement('aside');
+            homily.className = 'comparison-homiletic-use';
+            const homilyTitle = document.createElement('strong');
+            homilyTitle.textContent = 'Piste homilétique';
+            const homilyText = document.createElement('p');
+            homilyText.textContent = connection.homiletic_use;
+            homily.append(homilyTitle, homilyText);
+            bridge.appendChild(homily);
         }
         if (interactive) {
             const hint = document.createElement('span');
@@ -2540,6 +2568,8 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('comparison-term-evidence').textContent = bridge.evidence || (connection.directness === 'direct'
             ? 'Correspondance lexicale grecque.'
             : 'Rapprochement de sens sans racine grecque commune.');
+        document.getElementById('comparison-term-homily').textContent = connection.homiletic_use
+            || 'Ce rapprochement demande encore une formulation homilétique.';
         applyComparisonFocus(connectionIndex);
         if (typeof comparisonTermDialog.showModal === 'function') comparisonTermDialog.showModal();
         else comparisonTermDialog.setAttribute('open', '');

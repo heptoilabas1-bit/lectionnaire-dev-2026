@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lectionnaire Interlinéaire Orthodoxe</title>
-    <link rel="stylesheet" href="style.css?v=20260911-compare-explore">
+    <link rel="stylesheet" href="style.css?v=20260911-compare-homily">
 </head>
 <body>
 
@@ -115,8 +115,8 @@
                     <p id="comparison-summary" class="comparison-summary"></p>
                     <p class="comparison-legend">
                         <strong>Comment lire la comparaison&nbsp;?</strong>
-                        Les mots grecs encadrés sont ceux qui se répondent. Le pont central précise s’ils partagent une même forme,
-                        un même lemme ou une même racine, ou si leur rapprochement repose sur le sens du passage.
+                        Les mots grecs encadrés sont ceux qui se répondent. Chaque rapprochement indique précisément sa nature,
+                        son appui dans le grec et la piste homilétique qu’il peut ouvrir.
                     </p>
                     <div id="comparison-display-toggle" class="comparison-display-toggle" role="group" aria-label="Étendue des lectures" hidden>
                         <button type="button" data-comparison-mode="related" class="active">Passages liés</button>
@@ -267,6 +267,10 @@
             <p id="comparison-term-relation"></p>
             <p id="comparison-term-evidence" class="comparison-term-evidence"></p>
         </section>
+        <section class="comparison-term-context comparison-term-homily" aria-labelledby="comparison-term-homily-title">
+            <h4 id="comparison-term-homily-title">Piste homilétique</h4>
+            <p id="comparison-term-homily"></p>
+        </section>
     </dialog>
 
     <dialog id="homily-library-dialog" class="homily-library-dialog" aria-labelledby="homily-library-title">
@@ -315,7 +319,7 @@
         </div>
     </dialog>
 
-    <script src="app.js?v=20260911-compare-explore"></script>
+    <script src="app.js?v=20260911-compare-homily"></script>
 
 </body>
 </html>
