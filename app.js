@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260911-compare-bridge';
+    const DATA_VERSION = '20260911-compare-explore';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -95,6 +95,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let preferredReadingTypeByKey = new Map();
     let currentLectionaryData = null;
     let currentReadingView = 'reading';
+    let comparisonDisplayMode = 'related';
+    let focusedComparisonIndex = null;
 
     const defaultHomilyTemplate = [
         {
@@ -731,14 +733,21 @@ document.addEventListener('DOMContentLoaded', () => {
             : 'Comparer l’Évangile et l’Apôtre — comparaison en préparation');
     };
 
-    const buildComparisonInterlinear = (reading, side, connection) => {
+    const connectionMatchesToken = (connection, side, token) =>
+        (connection?.[side]?.terms || []).some(term => normalizeGreekToken(term) === token);
+
+    const findComparisonTermDetail = (connection, side, token) =>
+        (connection?.term_details?.[side] || []).find(item =>
+            (item.forms || []).some(form => normalizeGreekToken(form) === token));
+
+    const buildComparisonInterlinear = (reading, side, connection, options = {}) => {
         const container = document.createElement('div');
         container.className = 'comparison-interlinear';
-        const sideData = connection[side] || {};
+        const sideData = connection?.[side] || {};
         const selectedVerses = new Set((sideData.verses || []).map(String));
-        const highlightedTerms = new Set((sideData.terms || []).map(normalizeGreekToken));
+        const fullConnections = Array.isArray(options.fullConnections) ? options.fullConnections : null;
         const verses = Array.isArray(reading?.interlinear)
-            ? reading.interlinear.filter(verse => !selectedVerses.size || selectedVerses.has(String(verse.verse_number)))
+            ? reading.interlinear.filter(verse => fullConnections || !selectedVerses.size || selectedVerses.has(String(verse.verse_number)))
             : [];
 
         if (!verses.length) {
@@ -764,8 +773,19 @@ document.addEventListener('DOMContentLoaded', () => {
                     const token = normalizeGreekToken(word.greek);
                     greek.className = `greek-word${annotation ? ` mot-info mot-${inferAnnotationType(annotation)}` : ''}`;
                     greek.textContent = word.greek || '';
-                    if (highlightedTerms.has(token)) {
-                        greek.classList.add('connection-highlight', `connection-${connection.kind || 'theology'}`);
+                    const matchingIndexes = fullConnections
+                        ? fullConnections.map((item, index) => connectionMatchesToken(item, side, token) ? index : -1).filter(index => index >= 0)
+                        : (connectionMatchesToken(connection, side, token) ? [options.connectionIndex ?? 0] : []);
+                    if (matchingIndexes.length) {
+                        const primaryConnection = fullConnections ? fullConnections[matchingIndexes[0]] : connection;
+                        greek.classList.add('connection-highlight', 'comparison-term', `connection-${primaryConnection.kind || 'theology'}`);
+                        matchingIndexes.forEach(index => greek.classList.add(`comparison-term-link-${index}`));
+                        greek.dataset.comparisonSide = side;
+                        greek.dataset.comparisonToken = token;
+                        greek.dataset.connectionIndexes = matchingIndexes.join(',');
+                        greek.tabIndex = 0;
+                        greek.setAttribute('role', 'button');
+                        greek.setAttribute('aria-label', `Étudier ${word.greek || 'ce mot'} dans la comparaison`);
                     }
                     if (annotation) {
                         greek.dataset.annotation = encodeURIComponent(JSON.stringify(annotation));
@@ -785,7 +805,7 @@ document.addEventListener('DOMContentLoaded', () => {
         return container;
     };
 
-    const buildComparisonReading = (label, reading, side, connection) => {
+    const buildComparisonReading = (label, reading, side, connection, options = {}) => {
         const column = document.createElement('section');
         column.className = `comparison-reading comparison-reading-${side}`;
         const heading = document.createElement('div');
@@ -795,15 +815,54 @@ document.addEventListener('DOMContentLoaded', () => {
         const reference = document.createElement('p');
         reference.textContent = reading?.reference || '';
         heading.append(name, reference);
-        column.append(heading, buildComparisonInterlinear(reading, side, connection));
+        column.append(heading, buildComparisonInterlinear(reading, side, connection, options));
         return column;
     };
 
-    const buildComparisonBridge = connection => {
+    const buildComparisonHeader = (connection, index) => {
+        const header = document.createElement('div');
+        header.className = 'comparison-link-header';
+        const badges = document.createElement('div');
+        badges.className = 'comparison-badges';
+        const directness = document.createElement('span');
+        directness.className = `comparison-badge comparison-badge-${connection.directness || 'indirect'}`;
+        directness.textContent = connection.directness === 'direct'
+            ? 'Correspondance lexicale grecque'
+            : 'Rapprochement de sens';
+        const kind = document.createElement('span');
+        kind.className = 'comparison-badge comparison-badge-kind';
+        kind.textContent = connectionKindLabels[connection.kind] || 'Rapprochement';
+        badges.append(directness, kind);
+        const title = document.createElement('h3');
+        title.textContent = connection.title || `Rapprochement ${index + 1}`;
+        const explanation = document.createElement('p');
+        explanation.textContent = connection.explanation || '';
+        header.append(badges, title, explanation);
+        return header;
+    };
+
+    const buildComparisonBridge = (connection, index, interactive = true) => {
         const bridgeData = connection.bridge || {};
         const bridge = document.createElement('section');
         bridge.className = `comparison-bridge comparison-bridge-${connection.directness || 'indirect'}`;
-        bridge.setAttribute('aria-label', 'Explication du rapprochement');
+        bridge.classList.toggle('comparison-bridge-static', !interactive);
+        bridge.dataset.connectionIndex = String(index);
+        bridge.setAttribute('aria-label', interactive
+            ? 'Sélectionner ce rapprochement'
+            : 'Explication du rapprochement');
+        if (interactive) {
+            bridge.tabIndex = 0;
+            bridge.setAttribute('role', 'button');
+            bridge.setAttribute('aria-pressed', 'false');
+            bridge.addEventListener('click', () => {
+                applyComparisonFocus(focusedComparisonIndex === index ? null : index);
+            });
+            bridge.addEventListener('keydown', event => {
+                if (event.key !== 'Enter' && event.key !== ' ') return;
+                event.preventDefault();
+                applyComparisonFocus(focusedComparisonIndex === index ? null : index);
+            });
+        }
 
         const evidence = document.createElement('p');
         evidence.className = 'comparison-bridge-evidence';
@@ -848,7 +907,103 @@ document.addEventListener('DOMContentLoaded', () => {
             detail.textContent = bridgeData.detail;
             bridge.appendChild(detail);
         }
+        if (interactive) {
+            const hint = document.createElement('span');
+            hint.className = 'comparison-bridge-hint';
+            hint.textContent = 'Cliquer pour isoler ce rapprochement';
+            bridge.appendChild(hint);
+        }
         return bridge;
+    };
+
+    const applyComparisonFocus = (index, options = {}) => {
+        focusedComparisonIndex = Number.isInteger(index) ? index : null;
+        const linksContainer = document.getElementById('comparison-links');
+        if (!linksContainer) return;
+        linksContainer.classList.toggle('has-focused-link', focusedComparisonIndex !== null);
+        linksContainer.querySelectorAll('.comparison-link[data-connection-index]').forEach(article => {
+            article.classList.toggle('is-focused', Number(article.dataset.connectionIndex) === focusedComparisonIndex);
+        });
+        linksContainer.querySelectorAll('.comparison-bridge[role="button"]').forEach(bridge => {
+            bridge.setAttribute('aria-pressed', String(Number(bridge.dataset.connectionIndex) === focusedComparisonIndex));
+        });
+        const fullView = linksContainer.querySelector('.comparison-full-view');
+        if (fullView) fullView.classList.toggle('has-focused-link', focusedComparisonIndex !== null);
+        linksContainer.querySelectorAll('.comparison-focus-button').forEach(button => {
+            button.setAttribute('aria-pressed', String(Number(button.dataset.connectionIndex) === focusedComparisonIndex));
+        });
+        linksContainer.querySelectorAll('.comparison-full-explanation').forEach(article => {
+            article.hidden = Number(article.dataset.connectionIndex) !== focusedComparisonIndex;
+        });
+        linksContainer.querySelectorAll('.comparison-full-view .connection-highlight').forEach(term => {
+            term.classList.toggle('is-focused-term', focusedComparisonIndex !== null
+                && term.classList.contains(`comparison-term-link-${focusedComparisonIndex}`));
+        });
+        if (options.scroll && focusedComparisonIndex !== null) {
+            linksContainer.querySelector(`.comparison-full-view .comparison-term-link-${focusedComparisonIndex}`)
+                ?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+    };
+
+    const renderRelatedComparisons = (linksContainer, data, links) => {
+        links.forEach((connection, index) => {
+            const article = document.createElement('article');
+            article.className = `comparison-link comparison-link-${connection.directness || 'indirect'}`;
+            article.dataset.connectionIndex = String(index);
+            const grid = document.createElement('div');
+            grid.className = 'comparison-grid';
+            grid.append(
+                buildComparisonReading('Évangile', data.gospel, 'gospel', connection, { connectionIndex: index }),
+                buildComparisonReading('Apôtre', data.apostle, 'apostle', connection, { connectionIndex: index })
+            );
+            article.append(buildComparisonHeader(connection, index), buildComparisonBridge(connection, index), grid);
+            linksContainer.appendChild(article);
+        });
+    };
+
+    const renderFullComparisons = (linksContainer, data, links) => {
+        const focusNav = document.createElement('div');
+        focusNav.className = 'comparison-focus-nav';
+        focusNav.setAttribute('aria-label', 'Choisir un rapprochement à suivre dans les lectures intégrales');
+        links.forEach((connection, index) => {
+            const button = document.createElement('button');
+            button.type = 'button';
+            button.className = 'comparison-focus-button';
+            button.dataset.connectionIndex = String(index);
+            button.textContent = `${index + 1}. ${connection.title || 'Rapprochement'}`;
+            button.setAttribute('aria-pressed', 'false');
+            button.addEventListener('click', () => applyComparisonFocus(index, { scroll: true }));
+            focusNav.appendChild(button);
+        });
+
+        const fullView = document.createElement('section');
+        fullView.className = 'comparison-full-view';
+        const heading = document.createElement('div');
+        heading.className = 'comparison-full-heading';
+        const title = document.createElement('h3');
+        title.textContent = 'Les deux lectures intégrales';
+        const instruction = document.createElement('p');
+        instruction.textContent = 'Choisissez un rapprochement : les autres mots s’effacent pour laisser apparaître son parcours dans les deux textes.';
+        heading.append(title, instruction);
+        const grid = document.createElement('div');
+        grid.className = 'comparison-grid';
+        grid.append(
+            buildComparisonReading('Évangile', data.gospel, 'gospel', null, { fullConnections: links }),
+            buildComparisonReading('Apôtre', data.apostle, 'apostle', null, { fullConnections: links })
+        );
+        fullView.append(heading, grid);
+
+        const explanations = document.createElement('div');
+        explanations.className = 'comparison-full-explanations';
+        links.forEach((connection, index) => {
+            const article = document.createElement('article');
+            article.className = 'comparison-full-explanation';
+            article.dataset.connectionIndex = String(index);
+            article.hidden = true;
+            article.append(buildComparisonHeader(connection, index), buildComparisonBridge(connection, index, false));
+            explanations.appendChild(article);
+        });
+        linksContainer.append(focusNav, fullView, explanations);
     };
 
     const renderComparisonView = data => {
@@ -859,6 +1014,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const summary = document.getElementById('comparison-summary');
         const linksContainer = document.getElementById('comparison-links');
         const legend = document.querySelector('.comparison-legend');
+        const displayToggle = document.getElementById('comparison-display-toggle');
         const verseTitle = document.getElementById('verse-title');
         const mainText = document.getElementById('gospel-text');
         const notesView = document.getElementById('notes-view');
@@ -871,6 +1027,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (comparisonTitle) comparisonTitle.textContent = 'Comparaison en préparation';
             if (summary) summary.textContent = 'Cette péricope ne possède pas encore de rapprochements validés entre l’Évangile et l’Apôtre.';
             if (legend) legend.hidden = true;
+            if (displayToggle) displayToggle.hidden = true;
             linksContainer.innerHTML = '';
             const notice = document.createElement('p');
             notice.className = 'comparison-empty';
@@ -880,39 +1037,15 @@ document.addEventListener('DOMContentLoaded', () => {
             if (comparisonTitle) comparisonTitle.textContent = connections.title || 'Unité des lectures';
             if (summary) summary.textContent = connections.summary || '';
             if (legend) legend.hidden = false;
+            if (displayToggle) displayToggle.hidden = false;
             linksContainer.innerHTML = '';
-
-        links.forEach((connection, index) => {
-            const article = document.createElement('article');
-            article.className = `comparison-link comparison-link-${connection.directness || 'indirect'}`;
-            const header = document.createElement('div');
-            header.className = 'comparison-link-header';
-            const badges = document.createElement('div');
-            badges.className = 'comparison-badges';
-            const directness = document.createElement('span');
-            directness.className = `comparison-badge comparison-badge-${connection.directness || 'indirect'}`;
-            directness.textContent = connection.directness === 'direct'
-                ? 'Correspondance lexicale grecque'
-                : 'Rapprochement de sens';
-            const kind = document.createElement('span');
-            kind.className = 'comparison-badge comparison-badge-kind';
-            kind.textContent = connectionKindLabels[connection.kind] || 'Rapprochement';
-            badges.append(directness, kind);
-            const title = document.createElement('h3');
-            title.textContent = connection.title || `Rapprochement ${index + 1}`;
-            const explanation = document.createElement('p');
-            explanation.textContent = connection.explanation || '';
-            header.append(badges, title, explanation);
-
-            const grid = document.createElement('div');
-            grid.className = 'comparison-grid';
-            grid.append(
-                buildComparisonReading('Évangile', data.gospel, 'gospel', connection),
-                buildComparisonReading('Apôtre', data.apostle, 'apostle', connection)
-            );
-            article.append(header, buildComparisonBridge(connection), grid);
-            linksContainer.appendChild(article);
-        });
+            document.querySelectorAll('[data-comparison-mode]').forEach(button => {
+                button.classList.toggle('active', button.dataset.comparisonMode === comparisonDisplayMode);
+            });
+            focusedComparisonIndex = comparisonDisplayMode === 'full' ? 0 : null;
+            if (comparisonDisplayMode === 'full') renderFullComparisons(linksContainer, data, links);
+            else renderRelatedComparisons(linksContainer, data, links);
+            applyComparisonFocus(focusedComparisonIndex);
         }
 
         if (verseTitle) verseTitle.hidden = true;
@@ -1702,6 +1835,15 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    document.querySelectorAll('[data-comparison-mode]').forEach(button => {
+        button.addEventListener('click', () => {
+            const mode = button.dataset.comparisonMode;
+            if (!currentLectionaryData || !['related', 'full'].includes(mode)) return;
+            comparisonDisplayMode = mode;
+            renderComparisonView(currentLectionaryData);
+        });
+    });
+
   // --- 5. GESTION DES PANNEAUX LATÉRAUX ---
     const frenchView = document.getElementById('french-view');
     const toggleFrench = document.getElementById('toggle-french');
@@ -2350,7 +2492,58 @@ document.addEventListener('DOMContentLoaded', () => {
     const analysisDialog = document.getElementById('analysis-dialog');
     const analysisDialogClose = document.getElementById('analysis-dialog-close');
     const addAnnotationToHomily = document.getElementById('add-annotation-to-homily');
+    const comparisonTermDialog = document.getElementById('comparison-term-dialog');
+    const comparisonTermClose = document.getElementById('comparison-term-close');
     let currentAnnotationMaterial = null;
+
+    const decodeTargetAnnotation = target => {
+        const encoded = target?.getAttribute('data-annotation');
+        if (!encoded) return null;
+        try {
+            const annotation = JSON.parse(decodeURIComponent(encoded));
+            return typeof annotation === 'string'
+                ? { type: 'analyse', title: target.textContent, content: annotation }
+                : annotation;
+        } catch {
+            return { type: 'analyse', title: target.textContent, content: decodeURIComponent(encoded) };
+        }
+    };
+
+    const openComparisonTerm = target => {
+        if (!comparisonTermDialog || !target || !currentLectionaryData) return;
+        const indexes = String(target.dataset.connectionIndexes || '')
+            .split(',')
+            .map(value => Number(value))
+            .filter(Number.isInteger);
+        const connectionIndex = focusedComparisonIndex !== null && indexes.includes(focusedComparisonIndex)
+            ? focusedComparisonIndex
+            : indexes[0];
+        const connection = currentLectionaryData.reading_connections?.links?.[connectionIndex];
+        if (!connection) return;
+        const side = target.dataset.comparisonSide;
+        const token = target.dataset.comparisonToken || normalizeGreekToken(target.textContent);
+        const detail = findComparisonTermDetail(connection, side, token) || {};
+        const annotation = decodeTargetAnnotation(target) || {};
+        const annotationLemma = String(annotation.title || '').split(/\s+[—–-]\s+/)[0].trim();
+        const gloss = target.closest('.comparison-word-unit')?.querySelector('.inter-gloss')?.textContent?.trim();
+        const bridge = connection.bridge || {};
+        const sideLabel = side === 'apostle' ? 'Dans l’Apôtre' : 'Dans l’Évangile';
+
+        document.getElementById('comparison-term-title').textContent = `${target.textContent.trim()} — ${sideLabel}`;
+        document.getElementById('comparison-term-form').textContent = target.textContent.trim();
+        document.getElementById('comparison-term-lemma').textContent = detail.lemma || annotationLemma || 'Lemme non renseigné';
+        document.getElementById('comparison-term-root').textContent = detail.root || 'Racine non renseignée pour cette forme';
+        document.getElementById('comparison-term-literal').textContent = detail.literal || gloss || 'Sens littéral non renseigné';
+        document.getElementById('comparison-term-role').textContent = detail.role || bridge[side]
+            || 'Ce mot appartient au groupe grec encadré dans ce rapprochement.';
+        document.getElementById('comparison-term-relation').textContent = bridge.relation || connection.explanation || connection.title;
+        document.getElementById('comparison-term-evidence').textContent = bridge.evidence || (connection.directness === 'direct'
+            ? 'Correspondance lexicale grecque.'
+            : 'Rapprochement de sens sans racine grecque commune.');
+        applyComparisonFocus(connectionIndex);
+        if (typeof comparisonTermDialog.showModal === 'function') comparisonTermDialog.showModal();
+        else comparisonTermDialog.setAttribute('open', '');
+    };
 
     const openAnnotation = (target) => {
         if (!analysisDialog || !target) return;
@@ -2399,6 +2592,12 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     document.addEventListener('click', (event) => {
+        const comparisonTarget = event.target.closest('.comparison-term');
+        if (comparisonTarget) {
+            event.preventDefault();
+            openComparisonTerm(comparisonTarget);
+            return;
+        }
         const target = event.target.closest('.mot-info');
         if (target) {
             event.preventDefault();
@@ -2407,6 +2606,12 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     document.addEventListener('keydown', (event) => {
+        const comparisonTarget = event.target.closest && event.target.closest('.comparison-term');
+        if (comparisonTarget && (event.key === 'Enter' || event.key === ' ')) {
+            event.preventDefault();
+            openComparisonTerm(comparisonTarget);
+            return;
+        }
         const target = event.target.closest && event.target.closest('.mot-info');
         if (target && (event.key === 'Enter' || event.key === ' ')) {
             event.preventDefault();
@@ -2416,6 +2621,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (analysisDialogClose) {
         analysisDialogClose.addEventListener('click', () => analysisDialog.close());
+    }
+    if (comparisonTermClose) {
+        comparisonTermClose.addEventListener('click', () => comparisonTermDialog.close());
+    }
+    if (comparisonTermDialog) {
+        comparisonTermDialog.addEventListener('click', event => {
+            if (event.target === comparisonTermDialog) comparisonTermDialog.close();
+        });
     }
     if (analysisDialog) {
         analysisDialog.addEventListener('click', event => {

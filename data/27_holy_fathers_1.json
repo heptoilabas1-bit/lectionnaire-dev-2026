@@ -15,6 +15,18 @@
           "apostle": "προσέχω / ποιμαίνω : veiller sur le troupeau et le paître",
           "detail": "Les verbes ne partagent pas de racine. Le lien est structurel : ceux que le Christ garde et confie au Père deviennent, dans les Actes, le troupeau confié par l’Esprit aux pasteurs."
         },
+        "term_details": {
+          "gospel": [
+            { "forms": ["τήρησον", "ἐτήρουν"], "lemma": "τηρέω", "root": "τηρ- : garder", "literal": "garder, maintenir sous protection", "role": "Le Christ demande au Père de garder les disciples et rappelle qu’il les gardait lui-même." },
+            { "forms": ["ἐφύλαξα"], "lemma": "φυλάσσω", "root": "φυλακ-/φυλασσ- : veiller", "literal": "garder, protéger, veiller sur", "role": "Le verbe renforce l’idée d’une protection exercée sur ceux qui ont été confiés." }
+          ],
+          "apostle": [
+            { "forms": ["προσέχετε"], "lemma": "προσέχω", "root": "πρός + ἔχω", "literal": "tenir son attention tournée vers, veiller", "role": "Paul demande aux anciens de veiller sur eux-mêmes et sur le troupeau." },
+            { "forms": ["ποιμνίῳ"], "lemma": "ποίμνιον", "root": "ποιμν- : troupeau", "literal": "petit troupeau, troupeau", "role": "Le troupeau désigne la communauté concrète confiée à la vigilance pastorale." },
+            { "forms": ["ποιμαίνειν"], "lemma": "ποιμαίνω", "root": "ποιμήν : berger", "literal": "paître, conduire comme un berger", "role": "La garde devient un service pastoral actif de l’Église." },
+            { "forms": ["λύκοι"], "lemma": "λύκος", "root": "λυκ- : loup", "literal": "loups", "role": "L’image nomme la menace qui rend nécessaire la vigilance des pasteurs." }
+          ]
+        },
         "gospel": { "verses": ["17, 11", "17, 12"], "terms": ["τήρησον", "ἐτήρουν", "ἐφύλαξα"] },
         "apostle": { "verses": ["20, 28", "20, 29"], "terms": ["προσέχετε", "ποιμνίῳ", "ποιμαίνειν", "λύκοι"] }
       },
@@ -30,6 +42,18 @@
           "apostle": "λόγος τῆς χάριτος : la parole de la grâce à laquelle Paul confie les anciens",
           "detail": "Il ne s’agit ni du même mot ni de la même racine. Jean insiste sur les paroles effectivement reçues ; Paul sur la Parole de grâce capable d’édifier et de donner l’héritage."
         },
+        "term_details": {
+          "gospel": [
+            { "forms": ["ῥήματα"], "lemma": "ῥῆμα", "root": "ῥη-/ῥηματ- : parole dite", "literal": "paroles prononcées", "role": "Jean insiste sur les paroles données par le Père et effectivement reçues." },
+            { "forms": ["ἔδωκάς", "δέδωκα"], "lemma": "δίδωμι", "root": "δο-/δω- : donner", "literal": "donner", "role": "La Parole est d’abord présentée comme un don transmis du Père au Fils puis aux disciples." },
+            { "forms": ["ἔλαβον"], "lemma": "λαμβάνω", "root": "λαβ-/ληβ- : prendre, recevoir", "literal": "recevoir", "role": "Les disciples ne sont pas seulement auditeurs : ils reçoivent les paroles données." }
+          ],
+          "apostle": [
+            { "forms": ["παρατίθεμαι"], "lemma": "παρατίθημι", "root": "παρά + τίθημι", "literal": "placer auprès de, confier", "role": "Paul confie les anciens à Dieu et à la Parole de sa grâce." },
+            { "forms": ["λόγῳ"], "lemma": "λόγος", "root": "λεγ-/λογ- : dire, recueillir", "literal": "parole, discours", "role": "Le λόγος de la grâce est capable d’édifier la communauté." },
+            { "forms": ["χάριτος"], "lemma": "χάρις", "root": "χαρ- : faveur, joie", "literal": "grâce, faveur donnée", "role": "La Parole à laquelle Paul confie l’Église est qualifiée par la grâce." }
+          ]
+        },
         "gospel": { "verses": ["17, 8"], "terms": ["ῥήματα", "ἔδωκάς", "δέδωκα", "ἔλαβον"] },
         "apostle": { "verses": ["20, 32"], "terms": ["παρατίθεμαι", "λόγῳ", "χάριτος"] }
       },
@@ -44,6 +68,16 @@
           "relation": "L’unité priée prend corps dans une communauté gardée",
           "apostle": "πνεῦμα / ποίμνιον / ἐκκλησία : l’Esprit, le troupeau et l’Église",
           "detail": "L’unité de Jean devient concrète dans les Actes : l’Esprit constitue un troupeau et une Église dont les pasteurs doivent préserver la communion."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["ἓν"], "lemma": "εἷς, μία, ἕν", "root": "ἑν- : un", "literal": "un, une seule réalité", "role": "Le neutre ἕν exprime l’unité demandée par le Christ pour les disciples." }
+          ],
+          "apostle": [
+            { "forms": ["πνεῦμα"], "lemma": "πνεῦμα", "root": "πνέω : souffler", "literal": "souffle, esprit", "role": "L’Esprit établit les pasteurs au service de la communauté." },
+            { "forms": ["ποιμνίῳ"], "lemma": "ποίμνιον", "root": "ποιμν- : troupeau", "literal": "troupeau", "role": "Le troupeau rend visible la communauté dont l’unité doit être gardée." },
+            { "forms": ["ἐκκλησίαν"], "lemma": "ἐκκλησία", "root": "ἐκ + καλέω", "literal": "assemblée convoquée", "role": "L’unité priée dans l’Évangile prend corps dans l’Église concrète." }
+          ]
         },
         "gospel": { "verses": ["17, 11"], "terms": ["ἓν"] },
         "apostle": { "verses": ["20, 28"], "terms": ["πνεῦμα", "ποιμνίῳ", "ἐκκλησίαν"] }

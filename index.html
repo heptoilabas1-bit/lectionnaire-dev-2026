@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lectionnaire Interlinéaire Orthodoxe</title>
-    <link rel="stylesheet" href="style.css?v=20260911-compare-bridge">
+    <link rel="stylesheet" href="style.css?v=20260911-compare-explore">
 </head>
 <body>
 
@@ -118,6 +118,10 @@
                         Les mots grecs encadrés sont ceux qui se répondent. Le pont central précise s’ils partagent une même forme,
                         un même lemme ou une même racine, ou si leur rapprochement repose sur le sens du passage.
                     </p>
+                    <div id="comparison-display-toggle" class="comparison-display-toggle" role="group" aria-label="Étendue des lectures" hidden>
+                        <button type="button" data-comparison-mode="related" class="active">Passages liés</button>
+                        <button type="button" data-comparison-mode="full">Lectures intégrales</button>
+                    </div>
                 </div>
                 <div id="comparison-links" class="comparison-links"></div>
             </section>
@@ -244,6 +248,27 @@
         <button id="add-annotation-to-homily" class="dialog-add-button" type="button">Ajouter à mon brouillon</button>
     </dialog>
 
+    <dialog id="comparison-term-dialog" class="analysis-dialog comparison-term-dialog" aria-labelledby="comparison-term-title">
+        <button id="comparison-term-close" class="analysis-dialog-close" type="button" aria-label="Fermer">×</button>
+        <p class="analysis-dialog-type">Fiche grecque dans la comparaison</p>
+        <h3 id="comparison-term-title"></h3>
+        <dl class="comparison-term-fields">
+            <div><dt>Forme rencontrée</dt><dd id="comparison-term-form"></dd></div>
+            <div><dt>Lemme</dt><dd id="comparison-term-lemma"></dd></div>
+            <div><dt>Racine ou composition</dt><dd id="comparison-term-root"></dd></div>
+            <div><dt>Sens littéral</dt><dd id="comparison-term-literal"></dd></div>
+        </dl>
+        <section class="comparison-term-context" aria-labelledby="comparison-term-role-title">
+            <h4 id="comparison-term-role-title">Rôle dans le rapprochement</h4>
+            <p id="comparison-term-role"></p>
+        </section>
+        <section class="comparison-term-context" aria-labelledby="comparison-term-relation-title">
+            <h4 id="comparison-term-relation-title">Relation entre les deux lectures</h4>
+            <p id="comparison-term-relation"></p>
+            <p id="comparison-term-evidence" class="comparison-term-evidence"></p>
+        </section>
+    </dialog>
+
     <dialog id="homily-library-dialog" class="homily-library-dialog" aria-labelledby="homily-library-title">
         <button id="homily-library-close" class="analysis-dialog-close" type="button" aria-label="Fermer">×</button>
         <p class="workspace-kicker">Travaux enregistrés sur cet appareil</p>
@@ -290,7 +315,7 @@
         </div>
     </dialog>
 
-    <script src="app.js?v=20260911-compare-bridge"></script>
+    <script src="app.js?v=20260911-compare-explore"></script>
 
 </body>
 </html>

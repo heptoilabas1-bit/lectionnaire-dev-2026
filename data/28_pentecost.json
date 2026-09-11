@@ -15,6 +15,14 @@
           "apostle": "πνεύματος / πνεῦμα : tous sont remplis de l’Esprit Saint",
           "detail": "Les formes fléchies varient selon leur fonction dans la phrase, mais elles renvoient au même lemme πνεῦμα : c’est ici une véritable correspondance lexicale grecque."
         },
+        "term_details": {
+          "gospel": [
+            { "forms": ["πνεύματος", "πνεῦμα"], "lemma": "πνεῦμα", "root": "πνέω : souffler", "literal": "souffle, esprit", "role": "Jean nomme l’Esprit que doivent recevoir ceux qui croient au Christ." }
+          ],
+          "apostle": [
+            { "forms": ["πνεύματος", "πνεῦμα"], "lemma": "πνεῦμα", "root": "πνέω : souffler", "literal": "souffle, esprit", "role": "Les Actes montrent l’accomplissement : tous sont remplis de l’Esprit Saint." }
+          ]
+        },
         "gospel": { "verses": ["7, 39"], "terms": ["πνεύματος", "πνεῦμα"] },
         "apostle": { "verses": ["2, 4"], "terms": ["πνεύματος", "πνεῦμα"] }
       },
@@ -30,6 +38,19 @@
           "apostle": "πνοή / πληρόω : le souffle survient et remplit",
           "detail": "Jean emploie les images de la soif et de l’eau pour annoncer le don ; les Actes racontent l’irruption du souffle et l’accomplissement de cette promesse."
         },
+        "term_details": {
+          "gospel": [
+            { "forms": ["διψᾷ"], "lemma": "διψάω", "root": "διψ- : soif", "literal": "avoir soif", "role": "La soif exprime le désir qui ouvre à l’accueil du don." },
+            { "forms": ["πινέτω"], "lemma": "πίνω", "root": "πι-/πο- : boire", "literal": "qu’il boive", "role": "Boire exprime l’accueil personnel de ce que le Christ donne." },
+            { "forms": ["ὕδατος"], "lemma": "ὕδωρ", "root": "ὑδατ- : eau", "literal": "eau", "role": "L’eau devient l’image évangélique du don de l’Esprit." },
+            { "forms": ["λαμβάνειν"], "lemma": "λαμβάνω", "root": "λαβ-/ληβ- : prendre, recevoir", "literal": "recevoir", "role": "Le verbe situe encore l’Esprit du côté de la promesse à accueillir." }
+          ],
+          "apostle": [
+            { "forms": ["πνοῆς"], "lemma": "πνοή", "root": "πνέω : souffler", "literal": "souffle, respiration", "role": "Le souffle sensible signale l’irruption de l’événement promis." },
+            { "forms": ["ἐπλήρωσεν"], "lemma": "πληρόω", "root": "πληρ- : plein", "literal": "remplir, rendre plein", "role": "Le souffle remplit la maison : la promesse investit le lieu du rassemblement." },
+            { "forms": ["ἐπλήσθησαν"], "lemma": "πίμπλημι", "root": "πλη- : remplir", "literal": "être rempli", "role": "Les disciples eux-mêmes sont remplis de l’Esprit Saint." }
+          ]
+        },
         "gospel": { "verses": ["7, 37", "7, 38", "7, 39"], "terms": ["διψᾷ", "πινέτω", "ὕδατος", "λαμβάνειν"] },
         "apostle": { "verses": ["2, 2", "2, 4"], "terms": ["πνοῆς", "ἐπλήρωσεν", "ἐπλήσθησαν"] }
       },
@@ -44,6 +65,16 @@
           "relation": "L’Esprit transforme la division en communion sans uniformité",
           "apostle": "ὁμοῦ / γλῶσσα / διάλεκτος : ensemble, en plusieurs langues",
           "detail": "Le lien repose sur un renversement : à la division constatée dans l’Évangile répond, dans les Actes, une unité où chacun entend pourtant dans sa propre langue."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["σχίσμα"], "lemma": "σχίσμα", "root": "σχίζω : fendre, séparer", "literal": "division, déchirure", "role": "Le mot constate la séparation produite dans la foule autour du Christ." }
+          ],
+          "apostle": [
+            { "forms": ["ὁμοῦ"], "lemma": "ὁμοῦ", "root": "ὁμ- : même, ensemble", "literal": "ensemble, au même lieu", "role": "Le rassemblement constitue le point de départ de la scène de Pentecôte." },
+            { "forms": ["γλῶσσαι", "γλώσσαις"], "lemma": "γλῶσσα", "root": "γλωσσ- : langue", "literal": "langue, langage", "role": "La diversité des langues demeure au cœur de l’unité reçue." },
+            { "forms": ["διαλέκτῳ"], "lemma": "διάλεκτος", "root": "διαλέγομαι : converser", "literal": "langue propre, dialecte", "role": "Chacun entend dans sa propre langue : la communion ne supprime pas la diversité." }
+          ]
         },
         "gospel": { "verses": ["7, 43"], "terms": ["σχίσμα"] },
         "apostle": { "verses": ["2, 1", "2, 3", "2, 4", "2, 6"], "terms": ["ὁμοῦ", "γλῶσσαι", "γλώσσαις", "διαλέκτῳ"] }

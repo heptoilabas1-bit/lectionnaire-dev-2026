@@ -15,6 +15,17 @@
           "apostle": "κρίνω / προσλαμβάνομαι : juger ou accueillir",
           "detail": "Dans l’Évangile, pardonner délie la faute ; dans l’Apôtre, ne pas juger et accueillir empêchent de réduire le frère à cette faute. Les vocabulaires diffèrent, mais le même mouvement restaure la communion."
         },
+        "term_details": {
+          "gospel": [
+            { "forms": ["ἀφῆτε", "ἀφήσει"], "lemma": "ἀφίημι", "root": "ἀπό + ἵημι", "literal": "laisser partir, relâcher, remettre", "role": "Le pardon est présenté comme l’acte de délier et de laisser aller la faute." },
+            { "forms": ["παραπτώματα"], "lemma": "παράπτωμα", "root": "παρά + πίπτω", "literal": "faux pas, chute à côté", "role": "Le mot désigne la faute dont le frère doit être libéré plutôt qu’à laquelle il serait réduit." }
+          ],
+          "apostle": [
+            { "forms": ["ἐξουθενείτω"], "lemma": "ἐξουθενέω", "root": "formation autour de οὐθέν : rien", "literal": "tenir pour rien, mépriser", "role": "Le mépris réduit le frère à rien et s’oppose au mouvement de communion." },
+            { "forms": ["κρινέτω", "κρίνων"], "lemma": "κρίνω", "root": "κρι-/κριν- : distinguer, décider", "literal": "juger, prononcer une décision", "role": "Juger fixe le frère dans une appréciation, alors que pardonner délie." },
+            { "forms": ["προσελάβετο"], "lemma": "προσλαμβάνομαι", "root": "πρός + λαμβάνω", "literal": "prendre auprès de soi, accueillir", "role": "L’accueil de Dieu fonde l’accueil mutuel demandé par Paul." }
+          ]
+        },
         "gospel": { "verses": ["14", "15"], "terms": ["ἀφῆτε", "ἀφήσει", "παραπτώματα"] },
         "apostle": { "verses": ["14, 3", "14, 4"], "terms": ["ἐξουθενείτω", "κρινέτω", "κρίνων", "προσελάβετο"] }
       },
@@ -30,6 +41,16 @@
           "apostle": "σκότος / φῶς : quitter les ténèbres pour la lumière",
           "detail": "Le rapprochement ne vient pas d’un même mot. Il repose sur un paradoxe : l’ascèse cachée n’est pas obscure, puisqu’elle se tient sous le regard du Père ; elle relève de la lumière intérieure."
         },
+        "term_details": {
+          "gospel": [
+            { "forms": ["κρυφαίῳ"], "lemma": "κρυφαῖος", "root": "κρυφ- : caché", "literal": "caché, secret", "role": "Le lieu secret soustrait l’ascèse au spectacle des hommes, non au regard de Dieu." },
+            { "forms": ["βλέπων"], "lemma": "βλέπω", "root": "βλεπ- : voir", "literal": "voir, regarder", "role": "Le Père voit ce qui demeure caché aux hommes." }
+          ],
+          "apostle": [
+            { "forms": ["σκότους"], "lemma": "σκότος", "root": "σκοτ- : obscurité", "literal": "ténèbres, obscurité", "role": "Les œuvres des ténèbres désignent ce qui doit être déposé." },
+            { "forms": ["φωτός"], "lemma": "φῶς", "root": "φωτ- : lumière", "literal": "lumière", "role": "La lumière qualifie les armes dont le croyant doit se revêtir." }
+          ]
+        },
         "gospel": { "verses": ["18"], "terms": ["κρυφαίῳ", "βλέπων"] },
         "apostle": { "verses": ["13, 12"], "terms": ["σκότους", "φωτός"] }
       },
@@ -44,6 +65,18 @@
           "relation": "Déplacer le centre de la vie vers le Christ",
           "apostle": "ἀποτίθημι / ἐνδύω : se dépouiller et revêtir le Christ",
           "detail": "Matthieu décrit le lieu du désir : le cœur suit son trésor. Paul décrit l’acte correspondant : déposer les œuvres des ténèbres et recevoir le Christ comme vêtement et identité."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["θησαυρίζετε"], "lemma": "θησαυρίζω", "root": "θησαυρός", "literal": "amasser, mettre en réserve", "role": "Le verbe décrit l’action qui oriente durablement le désir." },
+            { "forms": ["θησαυροὺς", "θησαυρός"], "lemma": "θησαυρός", "root": "θησαυρ- : dépôt, trésor", "literal": "trésor, dépôt précieux", "role": "Le trésor devient le pôle vers lequel le cœur se déplace." },
+            { "forms": ["καρδία"], "lemma": "καρδία", "root": "καρδι- : cœur", "literal": "cœur, centre intérieur", "role": "Le cœur révèle l’orientation profonde de la personne." }
+          ],
+          "apostle": [
+            { "forms": ["ἀποθώμεθα"], "lemma": "ἀποτίθημι", "root": "ἀπό + τίθημι", "literal": "déposer, mettre de côté", "role": "Paul décrit le renoncement aux œuvres anciennes comme un dépouillement." },
+            { "forms": ["ἐνδυσώμεθα", "ἐνδύσασθε"], "lemma": "ἐνδύω", "root": "ἐν + δύω", "literal": "revêtir, faire entrer dans un vêtement", "role": "L’orientation nouvelle devient un revêtement : recevoir le Christ comme identité." },
+            { "forms": ["Χριστόν"], "lemma": "Χριστός", "root": "χρίω : oindre", "literal": "Oint, Christ", "role": "Le Christ n’est pas seulement le but du mouvement : il devient le vêtement de la personne." }
+          ]
         },
         "gospel": { "verses": ["20", "21"], "terms": ["θησαυρίζετε", "θησαυροὺς", "θησαυρός", "καρδία"] },
         "apostle": { "verses": ["13, 12", "13, 14"], "terms": ["ἀποθώμεθα", "ἐνδυσώμεθα", "ἐνδύσασθε", "Χριστόν"] }
