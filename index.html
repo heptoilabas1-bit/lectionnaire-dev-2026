@@ -94,6 +94,7 @@
             <div id="text-selector">
                 <button id="select-gospel" class="active">Évangile</button>
                 <button id="select-apostle">Apôtre</button>
+                <button id="select-compare" type="button" disabled>Comparer</button>
             </div>
             <div class="annotation-help">
                 <strong>Mots grecs expliqués</strong>
@@ -106,6 +107,19 @@
                     <span><i class="legend-dot analysis"></i>Autre remarque</span>
                 </div>
             </div>
+
+            <section id="comparison-view" class="comparison-view" aria-labelledby="comparison-title" hidden>
+                <div class="comparison-heading">
+                    <p class="comparison-kicker">Évangile ↔ Apôtre</p>
+                    <h2 id="comparison-title">Unité des lectures</h2>
+                    <p id="comparison-summary" class="comparison-summary"></p>
+                    <div class="comparison-legend" aria-label="Nature des rapprochements">
+                        <span><i class="connection-mark direct"></i>Lien direct dans le grec</span>
+                        <span><i class="connection-mark indirect"></i>Lien indirect</span>
+                    </div>
+                </div>
+                <div id="comparison-links" class="comparison-links"></div>
+            </section>
 
             <h2 id="verse-title">Chargement...</h2>
 

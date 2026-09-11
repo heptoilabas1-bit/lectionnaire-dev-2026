@@ -892,11 +892,67 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .tool-btn.outline-btn:hover { background: #624817; }
 .tool-btn.danger { color: #fff; background: #7e2029; border-color: #68151e; }
 .version-btn.active { background: #4b1018; border-color: #4b1018; }
-#text-selector { display: grid; grid-template-columns: 1fr 1fr; width: min(520px, 100%); margin: 18px auto; padding: 5px; border: 1px solid #cdbb91; border-radius: 12px; background: #e6ddc8; box-shadow: inset 0 1px 3px rgba(53,36,21,.12); }
+#text-selector { display: grid; grid-template-columns: repeat(3, 1fr); width: min(700px, 100%); margin: 18px auto; padding: 5px; border: 1px solid #cdbb91; border-radius: 12px; background: #e6ddc8; box-shadow: inset 0 1px 3px rgba(53,36,21,.12); }
 #text-selector button { min-height: 48px; border: 0; border-radius: 8px; color: #5d5142; background: transparent; font-size: 1rem; font-weight: 800; letter-spacing: .04em; cursor: pointer; }
 #text-selector button.active { color: #fff; box-shadow: 0 4px 12px rgba(31,24,20,.18); }
 #select-gospel.active { background: linear-gradient(135deg, #243c5b, #17283f); }
 #select-apostle.active { background: linear-gradient(135deg, #8b6b2f, #6d4e17); }
+#select-compare.active { background: linear-gradient(135deg, #671b2a, #431019); }
+#select-compare:disabled { color: #918a7d; cursor: not-allowed; opacity: .62; }
+.comparison-view {
+    margin: 22px 0 28px;
+    border: 1px solid #cdbb91;
+    border-radius: 12px;
+    overflow: hidden;
+    background: rgba(255, 253, 247, .92);
+    box-shadow: 0 10px 30px rgba(57, 39, 23, .1);
+}
+.comparison-heading {
+    padding: 24px clamp(18px, 4vw, 36px);
+    color: #fffdf7;
+    background: linear-gradient(125deg, #243c5b, #4b1018);
+    border-bottom: 3px solid #c7a75b;
+}
+.comparison-kicker { margin: 0 0 6px; color: #eadcae; font-size: .78rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.comparison-heading h2 { margin: 0; color: #fffdf7; font-family: var(--font-serif); font-size: clamp(1.45rem, 3vw, 2rem); }
+.comparison-summary { max-width: 850px; margin: 9px 0 0; color: #fff9e8; font-family: var(--font-serif); font-size: 1.05rem; line-height: 1.58; }
+.comparison-legend { display: flex; flex-wrap: wrap; gap: 14px 22px; margin-top: 15px; color: #f4ead0; font-size: .86rem; }
+.comparison-legend span { display: inline-flex; gap: 7px; align-items: center; }
+.connection-mark { width: 11px; height: 11px; border-radius: 50%; background: #eadcae; box-shadow: 0 0 0 2px rgba(255,255,255,.2); }
+.connection-mark.indirect { border-radius: 2px; background: transparent; border: 2px solid #eadcae; }
+.comparison-links { display: grid; gap: 18px; padding: clamp(16px, 3vw, 28px); }
+.comparison-link { overflow: hidden; border: 1px solid #dbd0b8; border-radius: 10px; background: #fffdf8; box-shadow: 0 4px 14px rgba(61,42,25,.06); }
+.comparison-link-direct { border-left: 5px solid #315d89; }
+.comparison-link-indirect { border-left: 5px solid #a67a27; }
+.comparison-link-header { padding: 17px 19px 15px; background: linear-gradient(180deg, #fbf7ec, #f5eddc); border-bottom: 1px solid #dfd4bd; }
+.comparison-badges { display: flex; flex-wrap: wrap; gap: 7px; }
+.comparison-badge { display: inline-flex; align-items: center; min-height: 26px; padding: 3px 9px; border-radius: 999px; font-size: .74rem; font-weight: 800; letter-spacing: .035em; }
+.comparison-badge-direct { color: #fff; background: #315d89; }
+.comparison-badge-indirect { color: #fff; background: #8a6726; }
+.comparison-badge-kind { color: #4b1018; background: #eadcae; }
+.comparison-link-header h3 { margin: 9px 0 5px; color: #4b1018; font: 700 1.22rem/1.3 var(--font-serif); }
+.comparison-link-header p { margin: 0; color: #514a40; line-height: 1.55; }
+.comparison-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.comparison-reading { min-width: 0; padding: 17px 18px 20px; }
+.comparison-reading + .comparison-reading { border-left: 1px solid #ddd2ba; }
+.comparison-reading-gospel { background: rgba(227, 236, 246, .28); }
+.comparison-reading-apostle { background: rgba(242, 232, 206, .25); }
+.comparison-reading-heading { display: flex; flex-wrap: wrap; gap: 5px 12px; align-items: baseline; margin-bottom: 13px; padding-bottom: 9px; border-bottom: 1px solid #ded4c0; }
+.comparison-reading-heading h4 { margin: 0; color: #243c5b; font-size: .78rem; letter-spacing: .1em; text-transform: uppercase; }
+.comparison-reading-apostle .comparison-reading-heading h4 { color: #76561c; }
+.comparison-reading-heading p { margin: 0; color: #665f55; font-size: .86rem; font-weight: 700; }
+.comparison-interlinear { display: grid; gap: 13px; }
+.comparison-verse { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 10px; }
+.comparison-verse-number { padding-top: 3px; color: #7a632d; font: 700 .8rem/1.4 var(--font-sans); }
+.comparison-words { display: flex; flex-wrap: wrap; gap: 9px 8px; align-items: flex-start; }
+.comparison-word-unit { display: inline-flex; flex-direction: column; align-items: center; max-width: 100%; }
+.comparison-word-unit .greek-word { padding: 2px 3px; border-radius: 4px; font-size: 1.08rem; line-height: 1.3; }
+.comparison-word-unit .inter-gloss { max-width: 120px; overflow-wrap: anywhere; font-size: .7rem; line-height: 1.15; text-align: center; }
+.connection-highlight { color: #1c2530 !important; border-bottom: 0 !important; box-shadow: inset 0 -0.52em rgba(223, 185, 77, .48); font-weight: 800; }
+.connection-same_form, .connection-same_lemma, .connection-same_root { box-shadow: inset 0 -0.52em rgba(79, 135, 184, .4); }
+.connection-notion { box-shadow: inset 0 -0.52em rgba(66, 151, 134, .38); }
+.connection-structure { box-shadow: inset 0 -0.52em rgba(223, 185, 77, .48); }
+.connection-theology { box-shadow: inset 0 -0.52em rgba(151, 67, 83, .34); }
 .interlinear-container, .analysis-panel, .homily-workspace { border: 1px solid #ded2b8; border-radius: 11px; box-shadow: 0 9px 28px rgba(57,39,23,.08); }
 .analysis-panel { border-top: 5px solid #4b1018; }
 #verse-title { color: #4b1018; font-family: var(--font-serif); text-align: center; }
@@ -918,4 +974,8 @@ footer { padding: 22px; color: #eadcae; text-align: center; background: #281018;
     .selection-modes { display: grid; grid-template-columns: 1fr; }
     .homily-actions { grid-template-columns: 1fr; }
     .homily-actions > .danger { width: 100%; }
+    #text-selector button { padding-inline: 7px; font-size: .9rem; }
+    .comparison-grid { grid-template-columns: 1fr; }
+    .comparison-reading + .comparison-reading { border-top: 1px solid #ddd2ba; border-left: 0; }
+    .comparison-word-unit .greek-word { font-size: 1.02rem; }
 }

@@ -1,4 +1,34 @@
 {
+  "reading_connections": {
+    "title": "L’unité reçue et gardée",
+    "summary": "Le Christ prie le Père de garder les disciples dans l’unité ; Paul confie aux pasteurs la responsabilité concrète de veiller sur l’Église.",
+    "links": [
+      {
+        "directness": "indirect",
+        "kind": "structure",
+        "title": "Garder ceux qui ont été confiés",
+        "explanation": "Dans l’Évangile, le Christ demande au Père de garder les siens et rappelle qu’il les a lui-même protégés. Dans l’Apôtre, cette garde prend une forme pastorale : veiller sur le troupeau menacé.",
+        "gospel": { "verses": ["17, 11", "17, 12"], "terms": ["τήρησον", "ἐτήρουν", "ἐφύλαξα"] },
+        "apostle": { "verses": ["20, 28", "20, 29"], "terms": ["προσέχετε", "ποιμνίῳ", "ποιμαίνειν", "λύκοι"] }
+      },
+      {
+        "directness": "indirect",
+        "kind": "notion",
+        "title": "La Parole reçue et confiée",
+        "explanation": "Jean emploie ῥήματα pour les paroles reçues du Père ; Paul parle du λόγος de la grâce. Les termes ne sont pas identiques : le rapprochement porte sur la Parole transmise et confiée.",
+        "gospel": { "verses": ["17, 8"], "terms": ["ῥήματα", "ἔδωκάς", "δέδωκα", "ἔλαβον"] },
+        "apostle": { "verses": ["20, 32"], "terms": ["παρατίθεμαι", "λόγῳ", "χάριτος"] }
+      },
+      {
+        "directness": "indirect",
+        "kind": "theology",
+        "title": "De l’unité priée à l’Église servie",
+        "explanation": "L’unité demandée par le Christ n’est pas une idée abstraite. Elle devient, dans les Actes, une Église concrète que l’Esprit confie à la vigilance de ses pasteurs.",
+        "gospel": { "verses": ["17, 11"], "terms": ["ἓν"] },
+        "apostle": { "verses": ["20, 28"], "terms": ["πνεῦμα", "ποιμνίῳ", "ἐκκλησίαν"] }
+      }
+    ]
+  },
   "going_further": [
     {
       "type": "podcast",

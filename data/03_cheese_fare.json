@@ -1,4 +1,34 @@
 {
+  "reading_connections": {
+    "title": "Quitter le jugement et revêtir le Christ",
+    "summary": "L’Évangile libère du ressentiment, du paraître et du trésor terrestre ; l’Apôtre appelle à abandonner les œuvres des ténèbres, à ne pas juger et à revêtir le Christ.",
+    "links": [
+      {
+        "directness": "indirect",
+        "kind": "theology",
+        "title": "Pardonner et ne pas juger",
+        "explanation": "Matthieu présente le pardon comme un laisser-aller de la faute. Paul déplace le regard : celui que Dieu a accueilli ne doit être ni méprisé ni jugé par son frère.",
+        "gospel": { "verses": ["14", "15"], "terms": ["ἀφῆτε", "ἀφήσει", "παραπτώματα"] },
+        "apostle": { "verses": ["14, 3", "14, 4"], "terms": ["ἐξουθενείτω", "κρινέτω", "κρίνων", "προσελάβετο"] }
+      },
+      {
+        "directness": "indirect",
+        "kind": "theology",
+        "title": "Le secret n’est pas la ténèbre",
+        "explanation": "Le jeûne caché se soustrait au regard des hommes mais demeure sous le regard du Père. Il ne relève donc pas des œuvres des ténèbres : il appartient à la lumière reçue de Dieu.",
+        "gospel": { "verses": ["18"], "terms": ["κρυφαίῳ", "βλέπων"] },
+        "apostle": { "verses": ["13, 12"], "terms": ["σκότους", "φωτός"] }
+      },
+      {
+        "directness": "indirect",
+        "kind": "structure",
+        "title": "Du trésor au revêtement",
+        "explanation": "Là où se trouve le trésor se tient aussi le cœur. Paul donne à cette orientation une forme personnelle : déposer les œuvres anciennes et revêtir le Seigneur Jésus Christ.",
+        "gospel": { "verses": ["20", "21"], "terms": ["θησαυρίζετε", "θησαυροὺς", "θησαυρός", "καρδία"] },
+        "apostle": { "verses": ["13, 12", "13, 14"], "terms": ["ἀποθώμεθα", "ἐνδυσώμεθα", "ἐνδύσασθε", "Χριστόν"] }
+      }
+    ]
+  },
   "gospel": {
     "reference": "Matthieu 6, 14-21",
     "title": "Le Pardon et le Jeûne Véritable",

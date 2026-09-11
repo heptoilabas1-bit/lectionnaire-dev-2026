@@ -1,4 +1,34 @@
 {
+  "reading_connections": {
+    "title": "L’Esprit promis et répandu",
+    "summary": "L’Évangile nomme l’Esprit que les croyants doivent recevoir ; l’Apôtre raconte sa venue, qui rassemble sans effacer la diversité des langues.",
+    "links": [
+      {
+        "directness": "direct",
+        "kind": "same_lemma",
+        "title": "πνεῦμα — l’Esprit",
+        "explanation": "Le même lemme πνεῦμα apparaît dans les deux lectures : Jean annonce l’Esprit à recevoir, tandis que les Actes montrent les disciples remplis de l’Esprit Saint.",
+        "gospel": { "verses": ["7, 39"], "terms": ["πνεύματος", "πνεῦμα"] },
+        "apostle": { "verses": ["2, 4"], "terms": ["πνεύματος", "πνεῦμα"] }
+      },
+      {
+        "directness": "indirect",
+        "kind": "structure",
+        "title": "De la soif à l’accomplissement",
+        "explanation": "Le Christ appelle l’homme assoiffé et annonce l’Esprit à recevoir. Dans les Actes, le souffle remplit la maison puis les disciples : la promesse devient événement.",
+        "gospel": { "verses": ["7, 37", "7, 38", "7, 39"], "terms": ["διψᾷ", "πινέτω", "ὕδατος", "λαμβάνειν"] },
+        "apostle": { "verses": ["2, 2", "2, 4"], "terms": ["πνοῆς", "ἐπλήρωσεν", "ἐπλήσθησαν"] }
+      },
+      {
+        "directness": "indirect",
+        "kind": "theology",
+        "title": "De la division à la communion des langues",
+        "explanation": "Jean constate la division de la foule autour du Christ. À la Pentecôte, tous sont rassemblés et chacun entend dans sa propre langue : l’unité donnée par l’Esprit ne supprime pas la diversité.",
+        "gospel": { "verses": ["7, 43"], "terms": ["σχίσμα"] },
+        "apostle": { "verses": ["2, 1", "2, 3", "2, 4", "2, 6"], "terms": ["ὁμοῦ", "γλῶσσαι", "γλώσσαις", "διαλέκτῳ"] }
+      }
+    ]
+  },
   "going_further": [
     {
       "type": "podcast",
