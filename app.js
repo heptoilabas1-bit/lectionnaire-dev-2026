@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260911-compare-fix';
+    const DATA_VERSION = '20260911-compare-clarity';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -839,13 +839,15 @@ document.addEventListener('DOMContentLoaded', () => {
             badges.className = 'comparison-badges';
             const directness = document.createElement('span');
             directness.className = `comparison-badge comparison-badge-${connection.directness || 'indirect'}`;
-            directness.textContent = connection.directness === 'direct' ? 'Lien direct' : 'Lien indirect';
+            directness.textContent = connection.directness === 'direct'
+                ? 'Correspondance lexicale grecque'
+                : 'Rapprochement de sens';
             const kind = document.createElement('span');
             kind.className = 'comparison-badge comparison-badge-kind';
             kind.textContent = connectionKindLabels[connection.kind] || 'Rapprochement';
             badges.append(directness, kind);
             const title = document.createElement('h3');
-            title.textContent = connection.title || `Lien ${index + 1}`;
+            title.textContent = connection.title || `Rapprochement ${index + 1}`;
             const explanation = document.createElement('p');
             explanation.textContent = connection.explanation || '';
             header.append(badges, title, explanation);
