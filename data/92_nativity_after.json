@@ -10,46 +10,172 @@
           "darby": "Or, quand ils se furent retirés, voici, un ange du Seigneur apparaît en songe à Joseph, disant : Lève-toi, prends le petit enfant et sa mère, et fuis en Égypte, et demeures-y jusqu'à ce que je te le dise ; car Hérode cherchera le petit enfant pour le faire périr."
         },
         "interlinear": [
-          { "greek": "Ἀναχωρησάντων", "gloss": "S'étant_retirés" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτῶν", "gloss": "eux", "analyse": "Le départ des Mages. L'hommage cosmique est terminé, la brutalité du Monde duel reprend ses droits." },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "ἄγγελος", "gloss": "un_ange" },
-          { "greek": "κυρίου", "gloss": "du_Seigneur" },
-          { "greek": "φαίνεται", "gloss": "apparaît" },
-          { "greek": "κατ’", "gloss": "en/selon" },
-          { "greek": "ὄναρ", "gloss": "songe", "analyse": "Comme au chapitre 1, l'Incréé communique avec Joseph en contournant son intellect rationnel par l'état de sommeil profond." },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Ἐγερθεὶς", "gloss": "T'étant_levé/Ressuscité" },
-          { "greek": "παράλαβε", "gloss": "prends_auprès_de_toi" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "παιδίον", "gloss": "petit_enfant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "μητέρα", "gloss": "mère" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "φεῦγε", "gloss": "fuis", "analyse": "L'injonction de repli. La Grâce ne joue pas aux héros contre l'entropie de la Matrice. Il y a un temps (*Kairos*) pour l'affrontement et un temps pour la préservation stratégique du Logos naissant." },
-          { "greek": "εἰς", "gloss": "vers/en" },
-          { "greek": "Αἴγυπτον,", "gloss": "Égypte", "analyse": "L'Égypte (*Aigyptos*). Dans la géographie spirituelle, c'est l'archétype de la Matrice, le lieu de la servitude, de l'opacité et de la matière dense. Le Christ doit y descendre pour assumer l'extrême limite de la chute humaine." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἴσθι", "gloss": "sois/demeure" },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "ἂν", "gloss": "ce_que" },
-          { "greek": "εἴπω", "gloss": "je_dise" },
-          { "greek": "σοι·", "gloss": "à_toi" },
-          { "greek": "μέλλει", "gloss": "est_sur_le_point_de" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "Ἡρῴδης", "gloss": "Hérode", "analyse": "L'Ego absolu. Le roi horizontal, paranoïaque et obsédé par le maintien de son pouvoir. Il représente le système duel terrorisé par la fréquence de l'Unité." },
-          { "greek": "ζητεῖν", "gloss": "chercher" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "παιδίον", "gloss": "petit_enfant" },
-          { "greek": "τοῦ", "gloss": "pour" },
-          { "greek": "ἀπολέσαι", "gloss": "le_détruire/le_perdre", "analyse": "Le verbe *apollymi* (désintégrer/ruiner). L'Ego ne cherche pas à comprendre la Non-Dualité, il veut l'anéantir car elle révèle son illusion." },
-          { "greek": "αὐτό.", "gloss": "lui" }
+          {
+            "greek": "Ἀναχωρησάντων",
+            "gloss": "S'étant_retirés"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux",
+            "analyse": "Le départ des Mages. L'hommage cosmique est terminé, la brutalité du Monde duel reprend ses droits."
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ἄγγελος",
+            "gloss": "un_ange"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "du_Seigneur"
+          },
+          {
+            "greek": "φαίνεται",
+            "gloss": "apparaît"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "en/selon"
+          },
+          {
+            "greek": "ὄναρ",
+            "gloss": "songe",
+            "analyse": "Comme au chapitre 1, l'Incréé communique avec Joseph en contournant son intellect rationnel par l'état de sommeil profond."
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "Ἰωσὴφ",
+            "gloss": "Joseph"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἐγερθεὶς",
+            "gloss": "T'étant_levé/Ressuscité"
+          },
+          {
+            "greek": "παράλαβε",
+            "gloss": "prends_auprès_de_toi"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παιδίον",
+            "gloss": "petit_enfant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "μητέρα",
+            "gloss": "mère"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φεῦγε",
+            "gloss": "fuis",
+            "analyse": "L'injonction de repli. La Grâce ne joue pas aux héros contre l'entropie de la Matrice. Il y a un temps (*Kairos*) pour l'affrontement et un temps pour la préservation stratégique du Logos naissant."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/en"
+          },
+          {
+            "greek": "Αἴγυπτον,",
+            "gloss": "Égypte",
+            "analyse": "L'Égypte (*Aigyptos*). Dans la géographie spirituelle, c'est l'archétype de la Matrice, le lieu de la servitude, de l'opacité et de la matière dense. Le Christ doit y descendre pour assumer l'extrême limite de la chute humaine."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἴσθι",
+            "gloss": "sois/demeure"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "εἴπω",
+            "gloss": "je_dise"
+          },
+          {
+            "greek": "σοι·",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "μέλλει",
+            "gloss": "est_sur_le_point_de"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "Ἡρῴδης",
+            "gloss": "Hérode",
+            "analyse": "L'Ego absolu. Le roi horizontal, paranoïaque et obsédé par le maintien de son pouvoir. Il représente le système duel terrorisé par la fréquence de l'Unité."
+          },
+          {
+            "greek": "ζητεῖν",
+            "gloss": "chercher"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παιδίον",
+            "gloss": "petit_enfant"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ἀπολέσαι",
+            "gloss": "le_détruire/le_perdre",
+            "analyse": "Le verbe *apollymi* (désintégrer/ruiner). L'Ego ne cherche pas à comprendre la Non-Dualité, il veut l'anéantir car elle révèle son illusion."
+          },
+          {
+            "greek": "αὐτό.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -59,21 +185,67 @@
           "darby": "Et lui, s'étant levé, prit le petit enfant et sa mère de nuit, et se retira en Égypte."
         },
         "interlinear": [
-          { "greek": "Ὁ", "gloss": "Lui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγερθεὶς", "gloss": "s'étant_levé" },
-          { "greek": "παρέλαβεν", "gloss": "prit" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "παιδίον", "gloss": "petit_enfant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "μητέρα", "gloss": "mère" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "νυκτὸς", "gloss": "de_nuit", "analyse": "La *Nyx*. L'Éveil de l'Incréé a lieu pendant que le monde duel est plongé dans l'obscurité totale. La nuit est le milieu de dissimulation nécessaire pour échapper à la vigilance mortifère de l'Empire." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀνεχώρησεν", "gloss": "se_retira" },
-          { "greek": "εἰς", "gloss": "en" },
-          { "greek": "Αἴγυπτον,", "gloss": "Égypte" }
+          {
+            "greek": "Ὁ",
+            "gloss": "Lui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγερθεὶς",
+            "gloss": "s'étant_levé"
+          },
+          {
+            "greek": "παρέλαβεν",
+            "gloss": "prit"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παιδίον",
+            "gloss": "petit_enfant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "μητέρα",
+            "gloss": "mère"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "νυκτὸς",
+            "gloss": "de_nuit",
+            "analyse": "La *Nyx*. L'Éveil de l'Incréé a lieu pendant que le monde duel est plongé dans l'obscurité totale. La nuit est le milieu de dissimulation nécessaire pour échapper à la vigilance mortifère de l'Empire."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀνεχώρησεν",
+            "gloss": "se_retira"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en"
+          },
+          {
+            "greek": "Αἴγυπτον,",
+            "gloss": "Égypte"
+          }
         ]
       },
       {
@@ -83,29 +255,101 @@
           "darby": "Et il y demeura jusqu'à la mort d'Hérode, afin que fût accompli ce que le Seigneur a dit par le prophète, disant : 'J'ai appelé mon fils hors d'Égypte'."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἦν", "gloss": "il_fut/était" },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "ἕως", "gloss": "jusqu'à" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "τελευτῆς", "gloss": "fin/mort" },
-          { "greek": "Ἡρῴδου·", "gloss": "d'Hérode", "analyse": "La limite temporelle de l'Ego. Aussi puissant soit-il, le tyran horizontal finit toujours par être désintégré par l'entropie (*teleute*)." },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "πληρωθῇ", "gloss": "soit_accompli/rempli" },
-          { "greek": "τὸ", "gloss": "ce_qui" },
-          { "greek": "ῥηθὲν", "gloss": "a_été_dit" },
-          { "greek": "ὑπὸ", "gloss": "par" },
-          { "greek": "κυρίου", "gloss": "le_Seigneur" },
-          { "greek": "διὰ", "gloss": "à_travers" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "προφήτου", "gloss": "prophète" },
-          { "greek": "λέγοντος·", "gloss": "disant" },
-          { "greek": "Ἐξ", "gloss": "Hors_de" },
-          { "greek": "Αἰγύπτου", "gloss": "d'Égypte" },
-          { "greek": "ἐκάλεσα", "gloss": "j'ai_appelé", "analyse": "Le verbe *kaleo*. Le magnétisme de l'Axe. Dieu appelle toujours hors de la Matrice." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "υἱόν", "gloss": "fils", "analyse": "Le Christ remplace l'ancien Israël. L'Exode historique d'un peuple géographique devient un Exode ontologique : c'est l'Homme Nouveau tout entier qui est arraché à l'emprise de l'Égypte mentale." },
-          { "greek": "μου.", "gloss": "de_moi" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "il_fut/était"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "τελευτῆς",
+            "gloss": "fin/mort"
+          },
+          {
+            "greek": "Ἡρῴδου·",
+            "gloss": "d'Hérode",
+            "analyse": "La limite temporelle de l'Ego. Aussi puissant soit-il, le tyran horizontal finit toujours par être désintégré par l'entropie (*teleute*)."
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "πληρωθῇ",
+            "gloss": "soit_accompli/rempli"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "ce_qui"
+          },
+          {
+            "greek": "ῥηθὲν",
+            "gloss": "a_été_dit"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "le_Seigneur"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "προφήτου",
+            "gloss": "prophète"
+          },
+          {
+            "greek": "λέγοντος·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἐξ",
+            "gloss": "Hors_de"
+          },
+          {
+            "greek": "Αἰγύπτου",
+            "gloss": "d'Égypte"
+          },
+          {
+            "greek": "ἐκάλεσα",
+            "gloss": "j'ai_appelé",
+            "analyse": "Le verbe καλέω relit ici l’Exode dans la personne du Christ : le Fils est appelé hors d’Égypte. Cet appel peut être rapproché de la vocation de Paul, en qui Dieu révèle son Fils afin qu’il l’annonce parmi les nations."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱόν",
+            "gloss": "fils",
+            "analyse": "Le Christ remplace l'ancien Israël. L'Exode historique d'un peuple géographique devient un Exode ontologique : c'est l'Homme Nouveau tout entier qui est arraché à l'emprise de l'Égypte mentale."
+          },
+          {
+            "greek": "μου.",
+            "gloss": "de_moi"
+          }
         ]
       },
       {
@@ -115,43 +359,158 @@
           "darby": "Alors Hérode, voyant qu'il avait été joué par les mages, fut extrêmement furieux ; et il envoya tuer tous les enfants qui étaient dans Bethléhem et dans tous ses confins, depuis l'âge de deux ans et au-dessous, selon le temps qu'il s'était enquis exactement des mages."
         },
         "interlinear": [
-          { "greek": "Τότε", "gloss": "Alors" },
-          { "greek": "Ἡρῴδης", "gloss": "Hérode" },
-          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "ἐνεπαίχθη", "gloss": "il_fut_joué/moqué" },
-          { "greek": "ὑπὸ", "gloss": "par" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "μάγων", "gloss": "mages" },
-          { "greek": "ἐθυμώθη", "gloss": "fut_en_colère", "analyse": "Le verbe *thymoomai* (être enflammé par le *thymos*). Le feu de l'Ego frustré. C'est l'énergie la plus destructrice du système horizontal : la colère née de la perte de contrôle sur le Réel." },
-          { "greek": "λίαν,", "gloss": "extrêmement" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀποστείλας", "gloss": "ayant_envoyé" },
-          { "greek": "ἀνεῖλεν", "gloss": "il_détruisit/supprima", "analyse": "Le verbe *anaireo*. L'annulation de la vie humaine. Hérode utilise la pure force mathématique et asymétrique pour écraser toute possibilité de verticalité." },
-          { "greek": "πάντας", "gloss": "tous" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "παῖδας", "gloss": "enfants" },
-          { "greek": "τοὺς", "gloss": "ceux" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "Βηθλεὲμ", "gloss": "Bethléhem" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "πᾶσι", "gloss": "tous" },
-          { "greek": "τοῖς", "gloss": "les" },
-          { "greek": "ὁρίοις", "gloss": "confins/frontières", "analyse": "Le *horion* (limite/frontière). L'Ego veut sceller géométriquement l'espace pour s'assurer qu'aucune fuite n'est possible. Mais le Logos a déjà franchi ces frontières de nuit." },
-          { "greek": "αὐτῆς", "gloss": "d'elle" },
-          { "greek": "ἀπὸ", "gloss": "depuis" },
-          { "greek": "διετοῦς", "gloss": "deux_ans" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "κατωτέρω,", "gloss": "au-dessous" },
-          { "greek": "κατὰ", "gloss": "selon" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "χρόνον", "gloss": "temps" },
-          { "greek": "ὃν", "gloss": "lequel" },
-          { "greek": "ἠκρίβωσεν", "gloss": "il_s'enquit_exactement", "analyse": "La précision maniaque de la tyrannie. L'Empire utilise le *Chronos* (le calcul exact du temps temporel) comme une arme de destruction." },
-          { "greek": "παρὰ", "gloss": "auprès_de" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "μάγων.", "gloss": "mages" }
+          {
+            "greek": "Τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "Ἡρῴδης",
+            "gloss": "Hérode"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "ἐνεπαίχθη",
+            "gloss": "il_fut_joué/moqué"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "μάγων",
+            "gloss": "mages"
+          },
+          {
+            "greek": "ἐθυμώθη",
+            "gloss": "fut_en_colère",
+            "analyse": "Le verbe *thymoomai* (être enflammé par le *thymos*). Le feu de l'Ego frustré. C'est l'énergie la plus destructrice du système horizontal : la colère née de la perte de contrôle sur le Réel."
+          },
+          {
+            "greek": "λίαν,",
+            "gloss": "extrêmement"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀποστείλας",
+            "gloss": "ayant_envoyé"
+          },
+          {
+            "greek": "ἀνεῖλεν",
+            "gloss": "il_détruisit/supprima",
+            "analyse": "Le verbe *anaireo*. L'annulation de la vie humaine. Hérode utilise la pure force mathématique et asymétrique pour écraser toute possibilité de verticalité."
+          },
+          {
+            "greek": "πάντας",
+            "gloss": "tous"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "παῖδας",
+            "gloss": "enfants"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Βηθλεὲμ",
+            "gloss": "Bethléhem"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πᾶσι",
+            "gloss": "tous"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὁρίοις",
+            "gloss": "confins/frontières",
+            "analyse": "Le *horion* (limite/frontière). L'Ego veut sceller géométriquement l'espace pour s'assurer qu'aucune fuite n'est possible. Mais le Logos a déjà franchi ces frontières de nuit."
+          },
+          {
+            "greek": "αὐτῆς",
+            "gloss": "d'elle"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "διετοῦς",
+            "gloss": "deux_ans"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κατωτέρω,",
+            "gloss": "au-dessous"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "χρόνον",
+            "gloss": "temps"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "ἠκρίβωσεν",
+            "gloss": "il_s'enquit_exactement",
+            "analyse": "La précision maniaque de la tyrannie. L'Empire utilise le *Chronos* (le calcul exact du temps temporel) comme une arme de destruction."
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "μάγων.",
+            "gloss": "mages"
+          }
         ]
       },
       {
@@ -161,15 +520,42 @@
           "darby": "Alors fut accompli ce qui a été dit par Jérémie le prophète, disant :"
         },
         "interlinear": [
-          { "greek": "τότε", "gloss": "Alors" },
-          { "greek": "ἐπληρώθη", "gloss": "fut_accompli/rempli" },
-          { "greek": "τὸ", "gloss": "ce_qui" },
-          { "greek": "ῥηθὲν", "gloss": "fut_dit" },
-          { "greek": "διὰ", "gloss": "à_travers" },
-          { "greek": "Ἰερεμίου", "gloss": "Jérémie" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "προφήτου", "gloss": "prophète" },
-          { "greek": "λέγοντος·", "gloss": "disant" }
+          {
+            "greek": "τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "ἐπληρώθη",
+            "gloss": "fut_accompli/rempli"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "ce_qui"
+          },
+          {
+            "greek": "ῥηθὲν",
+            "gloss": "fut_dit"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "Ἰερεμίου",
+            "gloss": "Jérémie"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "προφήτου",
+            "gloss": "prophète"
+          },
+          {
+            "greek": "λέγοντος·",
+            "gloss": "disant"
+          }
         ]
       },
       {
@@ -179,49 +565,154 @@
           "darby": "'Une voix a été entendue à Rama, des pleurs et de grandes lamentations : Rachel pleurant ses enfants ; et elle n'a pas voulu être consolée, parce qu'ils ne sont plus'."
         },
         "interlinear": [
-          { "greek": "Φωνὴ", "gloss": "Une_voix" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "Ῥαμὰ", "gloss": "Rama" },
-          { "greek": "ἠκούσθη,", "gloss": "fut_entendue" },
-          { "greek": "κλαυθμὸς", "gloss": "des_pleurs" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὀδυρμὸς", "gloss": "une_lamentation/gémissement" },
-          { "greek": "πολύς·", "gloss": "grand/beaucoup" },
-          { "greek": "Ῥαχὴλ", "gloss": "Rachel" },
-          { "greek": "κλαίουσα", "gloss": "pleurant" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "τέκνα", "gloss": "enfants" },
-          { "greek": "αὐτῆς,", "gloss": "d'elle" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἤθελεν", "gloss": "elle_voulait" },
-          { "greek": "παρακληθῆναι,", "gloss": "être_consolée", "analyse": "Le refus du *Parakletos* prématuré. La tragédie du Monde duel est irréparable sur le plan horizontal. Le deuil absolu de l'âme humaine face à l'entropie cruelle de la Matrice. Aucune philosophie ou psychologie humaine ne peut 'consoler' cette désintégration." },
-          { "greek": "ὅτι", "gloss": "parce_que" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "εἰσίν.", "gloss": "ils_sont", "analyse": "Le *ouk eisin* (ils ne sont pas/ne sont plus). La définition même de la mort dans le monde temporel : la perte radicale de l'Être." }
+          {
+            "greek": "Φωνὴ",
+            "gloss": "Une_voix"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Ῥαμὰ",
+            "gloss": "Rama"
+          },
+          {
+            "greek": "ἠκούσθη,",
+            "gloss": "fut_entendue"
+          },
+          {
+            "greek": "κλαυθμὸς",
+            "gloss": "des_pleurs"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὀδυρμὸς",
+            "gloss": "une_lamentation/gémissement"
+          },
+          {
+            "greek": "πολύς·",
+            "gloss": "grand/beaucoup"
+          },
+          {
+            "greek": "Ῥαχὴλ",
+            "gloss": "Rachel"
+          },
+          {
+            "greek": "κλαίουσα",
+            "gloss": "pleurant"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "τέκνα",
+            "gloss": "enfants"
+          },
+          {
+            "greek": "αὐτῆς,",
+            "gloss": "d'elle"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἤθελεν",
+            "gloss": "elle_voulait"
+          },
+          {
+            "greek": "παρακληθῆναι,",
+            "gloss": "être_consolée",
+            "analyse": "Le refus du *Parakletos* prématuré. La tragédie du Monde duel est irréparable sur le plan horizontal. Le deuil absolu de l'âme humaine face à l'entropie cruelle de la Matrice. Aucune philosophie ou psychologie humaine ne peut 'consoler' cette désintégration."
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "εἰσίν.",
+            "gloss": "ils_sont",
+            "analyse": "Le *ouk eisin* (ils ne sont pas/ne sont plus). La définition même de la mort dans le monde temporel : la perte radicale de l'Être."
+          }
         ]
       },
- {
+      {
         "verse_number": 19,
         "translations": {
           "segond": "Quand Hérode fut mort, voici, un ange du Seigneur apparut en songe à Joseph, en Égypte,",
           "darby": "Or, quand Hérode fut mort, voici, un ange du Seigneur apparaît en songe à Joseph en Égypte, disant :"
         },
         "interlinear": [
-          { "greek": "Τελευτήσαντος", "gloss": "Ayant_atteint_sa_fin/Étant_mort", "analyse": "Le verbe *teleutao*. Le moment d'achèvement de l'entropie. L'Ego dictatorial a cru maîtriser le temps, mais il est finalement rattrapé et dissous par lui. La tyrannie horizontale a une date de péremption inévitable." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "Ἡρῴδου", "gloss": "Hérode" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "ἄγγελος", "gloss": "un_ange" },
-          { "greek": "κυρίου", "gloss": "du_Seigneur" },
-          { "greek": "φαίνεται", "gloss": "apparaît" },
-          { "greek": "κατ’", "gloss": "en/selon" },
-          { "greek": "ὄναρ", "gloss": "songe" },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "Αἰγύπτῳ", "gloss": "l'Égypte" }
+          {
+            "greek": "Τελευτήσαντος",
+            "gloss": "Ayant_atteint_sa_fin/Étant_mort",
+            "analyse": "Le verbe *teleutao*. Le moment d'achèvement de l'entropie. L'Ego dictatorial a cru maîtriser le temps, mais il est finalement rattrapé et dissous par lui. La tyrannie horizontale a une date de péremption inévitable."
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἡρῴδου",
+            "gloss": "Hérode"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ἄγγελος",
+            "gloss": "un_ange"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "du_Seigneur"
+          },
+          {
+            "greek": "φαίνεται",
+            "gloss": "apparaît"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "en/selon"
+          },
+          {
+            "greek": "ὄναρ",
+            "gloss": "songe"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "Ἰωσὴφ",
+            "gloss": "Joseph"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Αἰγύπτῳ",
+            "gloss": "l'Égypte"
+          }
         ]
       },
       {
@@ -231,28 +722,95 @@
           "darby": "Lève-toi, prends le petit enfant et sa mère, et va dans le pays d'Israël ; car ceux qui cherchaient la vie du petit enfant sont morts."
         },
         "interlinear": [
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Ἐγερθεὶς", "gloss": "T'étant_levé/Ressuscité" },
-          { "greek": "παράλαβε", "gloss": "prends_auprès_de_toi" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "παιδίον", "gloss": "petit_enfant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "μητέρα", "gloss": "mère" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πορεύου", "gloss": "fais_route/va" },
-          { "greek": "εἰς", "gloss": "vers/dans" },
-          { "greek": "γῆν", "gloss": "la_terre" },
-          { "greek": "Ἰσραήλ·", "gloss": "d'Israël" },
-          { "greek": "τεθνήκασιν", "gloss": "sont_morts" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "ζητοῦντες", "gloss": "cherchant" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ψυχὴν", "gloss": "vie/âme", "analyse": "La *Psyche*. L'Ego d'Hérode ne cherchait pas seulement à tuer un corps physique, mais à éteindre le principe vital (*psyche*) qui portait l'anomalie vibratoire du Logos." },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "παιδίου.", "gloss": "petit_enfant" }
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἐγερθεὶς",
+            "gloss": "T'étant_levé/Ressuscité"
+          },
+          {
+            "greek": "παράλαβε",
+            "gloss": "prends_auprès_de_toi"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παιδίον",
+            "gloss": "petit_enfant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "μητέρα",
+            "gloss": "mère"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πορεύου",
+            "gloss": "fais_route/va"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/dans"
+          },
+          {
+            "greek": "γῆν",
+            "gloss": "la_terre"
+          },
+          {
+            "greek": "Ἰσραήλ·",
+            "gloss": "d'Israël"
+          },
+          {
+            "greek": "τεθνήκασιν",
+            "gloss": "sont_morts"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ζητοῦντες",
+            "gloss": "cherchant"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ψυχὴν",
+            "gloss": "vie/âme",
+            "analyse": "La *Psyche*. L'Ego d'Hérode ne cherchait pas seulement à tuer un corps physique, mais à éteindre le principe vital (*psyche*) qui portait l'anomalie vibratoire du Logos."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "παιδίου.",
+            "gloss": "petit_enfant"
+          }
         ]
       },
       {
@@ -262,21 +820,67 @@
           "darby": "Et lui, s'étant levé, prit le petit enfant et sa mère, et vint dans le pays d'Israël."
         },
         "interlinear": [
-          { "greek": "Ὁ", "gloss": "Lui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐγερθεὶς", "gloss": "s'étant_levé" },
-          { "greek": "παρέλαβεν", "gloss": "prit" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "παιδίον", "gloss": "petit_enfant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "μητέρα", "gloss": "mère" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εἰσῆλθεν", "gloss": "entra" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "γῆν", "gloss": "la_terre" },
-          { "greek": "Ἰσραήλ.", "gloss": "d'Israël", "analyse": "La boucle de l'Exode est achevée. Le nouveau Sujet est revenu de la Matrice (Égypte) pour réclamer le centre géographique de la promesse (Israël)." }
+          {
+            "greek": "Ὁ",
+            "gloss": "Lui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐγερθεὶς",
+            "gloss": "s'étant_levé"
+          },
+          {
+            "greek": "παρέλαβεν",
+            "gloss": "prit"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "παιδίον",
+            "gloss": "petit_enfant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "μητέρα",
+            "gloss": "mère"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἰσῆλθεν",
+            "gloss": "entra"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "γῆν",
+            "gloss": "la_terre"
+          },
+          {
+            "greek": "Ἰσραήλ.",
+            "gloss": "d'Israël",
+            "analyse": "La boucle de l'Exode est achevée. Le nouveau Sujet est revenu de la Matrice (Égypte) pour réclamer le centre géographique de la promesse (Israël)."
+          }
         ]
       },
       {
@@ -286,31 +890,109 @@
           "darby": "Mais, entendant qu'Archélaüs régnait sur la Judée à la place d'Hérode son père, il craignit d'y aller ; et, averti divinement en songe, il se retira dans les quartiers de la Galilée ;"
         },
         "interlinear": [
-          { "greek": "ἀκούσας", "gloss": "Ayant_entendu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "Ἀρχέλαος", "gloss": "Archélaüs" },
-          { "greek": "βασιλεύει", "gloss": "règne" },
-          { "greek": "τῆς", "gloss": "sur_la" },
-          { "greek": "Ἰουδαίας", "gloss": "Judée" },
-          { "greek": "ἀντὶ", "gloss": "à_la_place_de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "πατρὸς", "gloss": "père" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "Ἡρῴδου", "gloss": "Hérode", "analyse": "Le recyclage perpétuel du Monde duel. L'Ego meurt (Hérode), mais le système matriciel génère immédiatement un successeur (Archélaüs) pour maintenir l'architecture de la tyrannie." },
-          { "greek": "ἐφοβήθη", "gloss": "il_craignit/eut_peur" },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "ἀπελθεῖν·", "gloss": "d'aller" },
-          { "greek": "χρηματισθεὶς", "gloss": "ayant_été_divinement_averti", "analyse": "Le verbe *chrematizo* (recevoir un oracle/une directive divine). La communication verticale vient corriger la géographie horizontale." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "κατ’", "gloss": "en" },
-          { "greek": "ὄναρ", "gloss": "songe" },
-          { "greek": "ἀνεχώρησεν", "gloss": "il_se_retira" },
-          { "greek": "εἰς", "gloss": "vers/dans" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "μέρη", "gloss": "parties/quartiers" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "Γαλιλαίας,", "gloss": "Galilée", "analyse": "La périphérie. Refusant l'épicentre du pouvoir duel (Jérusalem/la Judée), l'Incréé choisit de croître dans l'angle mort du système : la Galilée des nations." }
+          {
+            "greek": "ἀκούσας",
+            "gloss": "Ayant_entendu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "Ἀρχέλαος",
+            "gloss": "Archélaüs"
+          },
+          {
+            "greek": "βασιλεύει",
+            "gloss": "règne"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "sur_la"
+          },
+          {
+            "greek": "Ἰουδαίας",
+            "gloss": "Judée"
+          },
+          {
+            "greek": "ἀντὶ",
+            "gloss": "à_la_place_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πατρὸς",
+            "gloss": "père"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ἡρῴδου",
+            "gloss": "Hérode",
+            "analyse": "Le recyclage perpétuel du Monde duel. L'Ego meurt (Hérode), mais le système matriciel génère immédiatement un successeur (Archélaüs) pour maintenir l'architecture de la tyrannie."
+          },
+          {
+            "greek": "ἐφοβήθη",
+            "gloss": "il_craignit/eut_peur"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "ἀπελθεῖν·",
+            "gloss": "d'aller"
+          },
+          {
+            "greek": "χρηματισθεὶς",
+            "gloss": "ayant_été_divinement_averti",
+            "analyse": "Le verbe *chrematizo* (recevoir un oracle/une directive divine). La communication verticale vient corriger la géographie horizontale."
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "en"
+          },
+          {
+            "greek": "ὄναρ",
+            "gloss": "songe"
+          },
+          {
+            "greek": "ἀνεχώρησεν",
+            "gloss": "il_se_retira"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/dans"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μέρη",
+            "gloss": "parties/quartiers"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "Γαλιλαίας,",
+            "gloss": "Galilée",
+            "analyse": "La périphérie. Refusant l'épicentre du pouvoir duel (Jérusalem/la Judée), l'Incréé choisit de croître dans l'angle mort du système : la Galilée des nations."
+          }
         ]
       },
       {
@@ -320,29 +1002,174 @@
           "darby": "et vint et demeura dans une ville appelée Nazareth ; de sorte que fût accompli ce qui a été dit par les prophètes : Il sera appelé Nazaréen."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐλθὼν", "gloss": "étant_venu" },
-          { "greek": "κατῴκησεν", "gloss": "il_habita/s'établit" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "πόλιν", "gloss": "une_ville" },
-          { "greek": "λεγομένην", "gloss": "étant_appelée" },
-          { "greek": "Ναζαρέτ·", "gloss": "Nazareth" },
-          { "greek": "ὅπως", "gloss": "de_sorte_que" },
-          { "greek": "πληρωθῇ", "gloss": "soit_accompli/rempli" },
-          { "greek": "τὸ", "gloss": "ce_qui" },
-          { "greek": "ῥηθὲν", "gloss": "a_été_dit" },
-          { "greek": "διὰ", "gloss": "à_travers" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "προφητῶν", "gloss": "prophètes" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ναζωραῖος", "gloss": "Nazaréen", "analyse": "Le paradoxe final. Il n'y a pas de prophétie textuelle littérale disant 'Il sera appelé Nazaréen' dans l'Ancien Testament. Matthieu utilise un jeu de mots spirituel (soit sur *Netzer* = le rejeton/la branche d'Ésaïe 11:1, soit sur le vœu de Naziréat). Topographiquement, cela signifie que le Centre divin s'enracine là où la Matrice ne voit aucune valeur religieuse ou politique." },
-          { "greek": "κληθήσεται.", "gloss": "il_sera_appelé" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "κατῴκησεν",
+            "gloss": "il_habita/s'établit"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πόλιν",
+            "gloss": "une_ville"
+          },
+          {
+            "greek": "λεγομένην",
+            "gloss": "étant_appelée"
+          },
+          {
+            "greek": "Ναζαρέτ·",
+            "gloss": "Nazareth"
+          },
+          {
+            "greek": "ὅπως",
+            "gloss": "de_sorte_que"
+          },
+          {
+            "greek": "πληρωθῇ",
+            "gloss": "soit_accompli/rempli"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "ce_qui"
+          },
+          {
+            "greek": "ῥηθὲν",
+            "gloss": "a_été_dit"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "προφητῶν",
+            "gloss": "prophètes"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Ναζωραῖος",
+            "gloss": "Nazaréen",
+            "analyse": "Le paradoxe final. Il n'y a pas de prophétie textuelle littérale disant 'Il sera appelé Nazaréen' dans l'Ancien Testament. Matthieu utilise un jeu de mots spirituel (soit sur *Netzer* = le rejeton/la branche d'Ésaïe 11:1, soit sur le vœu de Naziréat). Topographiquement, cela signifie que le Centre divin s'enracine là où la Matrice ne voit aucune valeur religieuse ou politique."
+          },
+          {
+            "greek": "κληθήσεται.",
+            "gloss": "il_sera_appelé"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 13/20 - ἀπολέσαι / τὴν ψυχὴν : Les traductions adoucissent souvent le choc en parlant de 'faire périr' ou d'en 'vouloir à la vie'. L'Ego héroïen cherche à détruire (*apollymi*) l'âme (*psyche*) de l'enfant. Ce n'est pas qu'un infanticide clinique, c'est une guerre spirituelle pour éteindre le principe vital de la Non-Dualité qui vient de s'incarner dans la Matrice.\n• Verset 22 - χρηματισθεὶς : Souvent traduit par 'divinement averti'. Le verbe *chrematizo* désigne l'émission d'un oracle ou d'une loi depuis le Centre spirituel. Face à la peur générée par la Matrice politique (Archélaüs), la seule boussole valable du Sujet est l'oracle vibratoire intérieur.\n\nAnalyse spirituelle :\nCette péricope (Matthieu 2, 13-23) est la brutale désillusion post-Nativité. À peine la Grâce s'est-elle incarnée que le *Kosmos* (le Monde duel) réagit avec la violence de l'Ego tyrannique incarné par Hérode.\n\nLa trajectoire du Logos (Jésus) est d'abord une Kénose géographique : Il doit fuir l'épicentre d'Israël pour s'enfoncer dans l'Égypte (v.13). L'Égypte est le symbole archétypal de l'enfermement horizontal, l'opposé absolu de la Terre Promise. Pour transmuter l'entropie humaine, l'Incréé doit d'abord y descendre totalement. C'est en allant au bout de la chute qu'Il pourra 'rappeler Son fils hors d'Égypte' (v.15), validant la sortie de la Matrice pour toute l'humanité.\n\nLe massacre des Innocents (v.16-18) dévoile la terreur structurelle de l'Ego (Hérode). Face à la liberté de la Grâce qu'il ne peut pas contrôler (les mages se sont moqués de lui), l'Ego répond par l'anéantissement de l'Autre (*anaireo*). Il est prêt à dévaster la création pour préserver sa propre suprématie. Les pleurs de Rachel (v.18) expriment la souffrance intolérable du monde duel soumis à cette entropie mortifère. Ce deuil absolu ne trouve aucune consolation philosophique : la seule réponse est la résurrection que cet Enfant apportera plus tard.\n\nÀ la mort d'Hérode (v.19), la mécanique de l'Ego se perpétue pourtant à travers son fils Archélaüs (v.22). Le système horizontal ne change jamais vraiment, il remplace simplement ses tyrans. C'est pourquoi, sur instruction du Souffle, la famille refuse de retourner au cœur du pouvoir (Jérusalem/Judée) et s'installe en Galilée, à Nazareth (v.23). Le Logos choisit l'angle mort de la Matrice. Il croîtra dans la marge, en tant que 'Nazaréen', un terme presque péjoratif pour le système religieux, prouvant que l'Axe vertical se fiche des honneurs géopolitiques : Il établit le Centre là où Il se trouve."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 13/20 - ἀπολέσαι / τὴν ψυχὴν : Les traductions adoucissent souvent le choc en parlant de 'faire périr' ou d'en 'vouloir à la vie'. L'Ego héroïen cherche à détruire (*apollymi*) l'âme (*psyche*) de l'enfant. Ce n'est pas qu'un infanticide clinique, c'est une guerre spirituelle pour éteindre le principe vital de la Non-Dualité qui vient de s'incarner dans la Matrice.\n• Verset 22 - χρηματισθεὶς : Souvent traduit par 'divinement averti'. Le verbe *chrematizo* désigne l'émission d'un oracle ou d'une loi depuis le Centre spirituel. Face à la peur générée par la Matrice politique (Archélaüs), la seule boussole valable du Sujet est l'oracle vibratoire intérieur.\n\nAnalyse spirituelle :\nCette péricope (Matthieu 2, 13-23) est la brutale désillusion post-Nativité. À peine la Grâce s'est-elle incarnée que le *Kosmos* (le Monde duel) réagit avec la violence de l'Ego tyrannique incarné par Hérode.\n\nLa trajectoire du Logos (Jésus) est d'abord une Kénose géographique : Il doit fuir l'épicentre d'Israël pour s'enfoncer dans l'Égypte (v.13). L'Égypte est le symbole archétypal de l'enfermement horizontal, l'opposé absolu de la Terre Promise. Pour transmuter l'entropie humaine, l'Incréé doit d'abord y descendre totalement. C'est en allant au bout de la chute qu'Il pourra 'rappeler Son fils hors d'Égypte' (v.15), validant la sortie de la Matrice pour toute l'humanité.\n\nLe massacre des Innocents (v.16-18) dévoile la terreur structurelle de l'Ego (Hérode). Face à la liberté de la Grâce qu'il ne peut pas contrôler (les mages se sont moqués de lui), l'Ego répond par l'anéantissement de l'Autre (*anaireo*). Il est prêt à dévaster la création pour préserver sa propre suprématie. Les pleurs de Rachel (v.18) expriment la souffrance intolérable du monde duel soumis à cette entropie mortifère. Ce deuil absolu ne trouve aucune consolation philosophique : la seule réponse est la résurrection que cet Enfant apportera plus tard.\n\nÀ la mort d'Hérode (v.19), la mécanique de l'Ego se perpétue pourtant à travers son fils Archélaüs (v.22). Le système horizontal ne change jamais vraiment, il remplace simplement ses tyrans. C'est pourquoi, sur instruction du Souffle, la famille refuse de retourner au cœur du pouvoir (Jérusalem/Judée) et s'installe en Galilée, à Nazareth (v.23). Le Logos choisit l'angle mort de la Matrice. Il croîtra dans la marge, en tant que 'Nazaréen', un terme presque péjoratif pour le système religieux, prouvant que l'Axe vertical se fiche des honneurs géopolitiques : Il établit le Centre là où Il se trouve.",
+    "homiletic_axes": [
+      {
+        "title": "Le Fils appelé hors d’Égypte et révélé en Paul",
+        "content": "Matthieu relit l’Exode dans le Christ : « d’Égypte, j’ai appelé mon Fils ». Paul décrit sa vocation comme le bon plaisir de Dieu de « révéler en moi son Fils ». Dans les deux lectures, l’initiative appartient à Dieu et ouvre une mission.",
+        "keywords": [
+          "υἱός — fils",
+          "καλέω — appeler",
+          "ἀποκαλύπτω — révéler"
+        ]
+      },
+      {
+        "title": "Se retirer pour préserver et recevoir",
+        "content": "Joseph se retire en Égypte puis en Galilée sous la conduite de Dieu ; Paul part en Arabie après la révélation. Le retrait n’est ni fuite intérieure ni autosuffisance : il peut devenir un espace d’obéissance, de maturation et de discernement.",
+        "keywords": [
+          "ἀναχωρέω — se retirer",
+          "φεύγω — fuir",
+          "Ἀραβία — Arabie"
+        ]
+      },
+      {
+        "title": "La violence religieuse désarmée par la grâce",
+        "content": "Hérode veut supprimer l’Enfant pour protéger son pouvoir. Paul reconnaît qu’il persécutait l’Église avec un zèle extrême. La grâce ne répond pas à la violence en reproduisant sa logique : elle protège l’Enfant et transforme le persécuteur en apôtre.",
+        "keywords": [
+          "διώκω — persécuter",
+          "πορθέω — ravager",
+          "χάρις — grâce"
+        ]
+      },
+      {
+        "title": "Révélation divine et communion ecclésiale",
+        "content": "L’Évangile vient à Paul par révélation de Jésus-Christ, non comme invention humaine. Pourtant, après trois ans, il rencontre Céphas et Jacques. L’origine divine de l’appel et la communion avec l’Église apostolique ne s’excluent pas : elles se répondent.",
+        "keywords": [
+          "εὐαγγέλιον — Bonne Nouvelle",
+          "ἀποκάλυψις — révélation",
+          "ἱστορέω — rencontrer et s’informer"
+        ]
+      },
+      {
+        "title": "Dieu conduit dans une histoire menacée",
+        "content": "La Nativité n’abolit pas immédiatement la peur, l’exil ou le deuil. Dieu demeure pourtant à l’œuvre dans les déplacements, les songes, les rencontres et les retournements personnels. Le salut entre réellement dans l’histoire blessée.",
+        "keywords": [
+          "ὄναρ — songe",
+          "ὁδός — chemin",
+          "πρόνοια — providence"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel appel, déplacement ou dévoilement relie Matthieu 2 et Galates 1 ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les déplacements de Joseph et de Paul, les formes de violence et les initiatives de Dieu."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Quelle œuvre de Dieu apparaît dans la protection du Fils et la transformation du persécuteur ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation d’exil, de peur, de zèle mal orienté ou de maturation cette parole vient-elle éclairer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quel déplacement concret permettrait de répondre à l’appel de Dieu sans s’isoler de la communion ecclésiale ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Un double déplacement conduit par Dieu",
+        "reference": "Matthieu 2, 13-23 ; Galates 1, 11-19",
+        "content": "Joseph reçoit en songe la route qui protège l’Enfant ; Paul reçoit la révélation du Fils puis rejoint Céphas et Jacques. Dieu conduit chacun par un chemin singulier qui demeure inscrit dans l’histoire du salut et la communion de l’Église.",
+        "connections": []
+      }
+    ]
   },
-    "apostle": {
+  "apostle": {
     "reference": "Galates 1, 11-19",
     "title": "L'Apocalypse du Sujet : La Révélation du Fils au-delà de la Transmission Humaine",
     "interlinear": [
@@ -353,21 +1180,69 @@
           "darby": "Or je vous fais savoir, frères, quant à l'évangile qui a été annoncé par moi, qu'il n'est pas selon l'homme ;"
         },
         "interlinear": [
-          { "greek": "Γνωρίζω", "gloss": "Je_fais_connaître", "analyse": "Le verbe *gnorizo*. Paul ne transmet pas une information, il invite à une connaissance intérieure (Gnose)." },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ὑμῖν,", "gloss": "à_vous" },
-          { "greek": "ἀδελφοί,", "gloss": "frères" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "εὐαγγέλιον", "gloss": "Évangile/Bonne_Nouvelle", "analyse": "L'*Eu-angelion*. La fréquence de la Lumière pure, le message de l'Unification." },
-          { "greek": "τὸ", "gloss": "qui" },
-          { "greek": "εὐαγγελισθὲν", "gloss": "a_été_annoncé" },
-          { "greek": "ὑπ’", "gloss": "par" },
-          { "greek": "ἐμοῦ", "gloss": "moi" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔστιν", "gloss": "est" },
-          { "greek": "κατὰ", "gloss": "selon" },
-          { "greek": "ἄνθρωπον·", "gloss": "l'homme", "analyse": "La rupture radicale. Le Logos n'est pas une construction mentale humaine (l'Ego collectif ou les traditions de la Matrice)." }
+          {
+            "greek": "Γνωρίζω",
+            "gloss": "Je_fais_connaître",
+            "analyse": "Le verbe *gnorizo*. Paul ne transmet pas une information, il invite à une connaissance intérieure (Gnose)."
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ἀδελφοί,",
+            "gloss": "frères"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "εὐαγγέλιον",
+            "gloss": "Évangile/Bonne_Nouvelle",
+            "analyse": "L'*Eu-angelion*. La fréquence de la Lumière pure, le message de l'Unification."
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "εὐαγγελισθὲν",
+            "gloss": "a_été_annoncé"
+          },
+          {
+            "greek": "ὑπ’",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "ἄνθρωπον·",
+            "gloss": "l'homme",
+            "analyse": "La rupture radicale. Le Logos n'est pas une construction mentale humaine (l'Ego collectif ou les traditions de la Matrice)."
+          }
         ]
       },
       {
@@ -377,20 +1252,64 @@
           "darby": "car moi, je ne l'ai ni reçu ni appris d'un homme, mais par une révélation de Jésus Christ."
         },
         "interlinear": [
-          { "greek": "οὐδὲ", "gloss": "ni" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "παρὰ", "gloss": "auprès_de/de" },
-          { "greek": "ἀνθρώπου", "gloss": "d'homme" },
-          { "greek": "παρέλαβον", "gloss": "je_l'ai_reçu", "analyse": "Le refus de la chaîne traditionnelle de transmission. Paul coupe court à toute généalogie humaine." },
-          { "greek": "αὐτὸ", "gloss": "celui-ci" },
-          { "greek": "οὔτε", "gloss": "ni" },
-          { "greek": "ἐδιδάχθην,", "gloss": "je_fus_enseigné" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "δι’", "gloss": "à_travers/par" },
-          { "greek": "ἀποκαλύψεως", "gloss": "révélation/dévoilement", "analyse": "L'*Apokalypsis*. Le 'dé-voilement'. L'Ego est un voile qui cache la Lumière. La révélation n'est pas l'ajout d'une connaissance, c'est l'arrachement du voile qui permet à la Réalité divine d'apparaître." },
-          { "greek": "Ἰησοῦ", "gloss": "de_Jésus" },
-          { "greek": "Χριστοῦ.", "gloss": "Christ" }
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_de/de"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "d'homme"
+          },
+          {
+            "greek": "παρέλαβον",
+            "gloss": "je_l'ai_reçu",
+            "analyse": "Le refus de la chaîne traditionnelle de transmission. Paul coupe court à toute généalogie humaine."
+          },
+          {
+            "greek": "αὐτὸ",
+            "gloss": "celui-ci"
+          },
+          {
+            "greek": "οὔτε",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἐδιδάχθην,",
+            "gloss": "je_fus_enseigné"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "à_travers/par"
+          },
+          {
+            "greek": "ἀποκαλύψεως",
+            "gloss": "révélation/dévoilement",
+            "analyse": "L'*Apokalypsis*. Le 'dé-voilement'. L'Ego est un voile qui cache la Lumière. La révélation n'est pas l'ajout d'une connaissance, c'est l'arrachement du voile qui permet à la Réalité divine d'apparaître."
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "de_Jésus"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "Christ"
+          }
         ]
       },
       {
@@ -400,25 +1319,85 @@
           "darby": "Car vous avez entendu quelle était autrefois ma conduite dans le judaïsme, comment je persécutais outre mesure l'assemblée de Dieu et la dévastais ;"
         },
         "interlinear": [
-          { "greek": "ἠκούσατε", "gloss": "Vous_avez_entendu" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἐμὴν", "gloss": "ma" },
-          { "greek": "ἀναστροφὴν", "gloss": "conduite/mouvement", "analyse": "La trajectoire géométrique de Saul. Son activité était une 'dé-vastation' (le verbe *portheo* signifie détruire, raser comme on rase une cité)." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "Ἰουδαϊσμῷ,", "gloss": "judaïsme", "analyse": "La Matrice religieuse : le système d'identification par les rites et les lois humaines." },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "καθ’", "gloss": "selon/en" },
-          { "greek": "ὑπερβολὴν", "gloss": "l'excès/la_démesure", "analyse": "L'*hyper-bolé* (le jet au-delà). L'Ego de Saul était dans la sur-activité, cherchant à valider son existence par la destruction de l'Autre." },
-          { "greek": "ἐδίωκον", "gloss": "je_persécutais" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἐκκλησίαν", "gloss": "Église/assemblée" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπόρθουν", "gloss": "je_la_dévastais/détruisais" },
-          { "greek": "αὐτήν.", "gloss": "elle" }
+          {
+            "greek": "ἠκούσατε",
+            "gloss": "Vous_avez_entendu"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐμὴν",
+            "gloss": "ma"
+          },
+          {
+            "greek": "ἀναστροφὴν",
+            "gloss": "conduite/mouvement",
+            "analyse": "La trajectoire géométrique de Saul. Son activité était une 'dé-vastation' (le verbe *portheo* signifie détruire, raser comme on rase une cité)."
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰουδαϊσμῷ,",
+            "gloss": "judaïsme",
+            "analyse": "La Matrice religieuse : le système d'identification par les rites et les lois humaines."
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "καθ’",
+            "gloss": "selon/en"
+          },
+          {
+            "greek": "ὑπερβολὴν",
+            "gloss": "l'excès/la_démesure",
+            "analyse": "L'*hyper-bolé* (le jet au-delà). L'Ego de Saul était dans la sur-activité, cherchant à valider son existence par la destruction de l'Autre."
+          },
+          {
+            "greek": "ἐδίωκον",
+            "gloss": "je_persécutais"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἐκκλησίαν",
+            "gloss": "Église/assemblée"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπόρθουν",
+            "gloss": "je_la_dévastais/détruisais"
+          },
+          {
+            "greek": "αὐτήν.",
+            "gloss": "elle"
+          }
         ]
       },
       {
@@ -428,25 +1407,85 @@
           "darby": "et que je faisais des progrès dans le judaïsme, plus que beaucoup de ceux de mon âge dans ma nation, étant infiniment plus zélé pour les traditions de mes pères."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "προέκοπτον", "gloss": "je_faisais_des_progrès", "analyse": "Le *pro-kopto* : avancer dans la voie horizontale, le succès selon les critères du Monde." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "Ἰουδαϊσμῷ", "gloss": "judaïsme" },
-          { "greek": "ὑπὲρ", "gloss": "au-dessus_de" },
-          { "greek": "πολλοὺς", "gloss": "beaucoup" },
-          { "greek": "συλικιώτας", "gloss": "ceux_de_mon_âge" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "γένει", "gloss": "nation/race/famille" },
-          { "greek": "μου,", "gloss": "de_moi" },
-          { "greek": "περισσοτέρως", "gloss": "plus_abondamment" },
-          { "greek": "ζηλωτὴς", "gloss": "zélé/fanatique", "analyse": "Le *zelotes*. L'Ego passionnel, celui qui est dévoré par la ferveur pour les formes mortes de la tradition." },
-          { "greek": "ὑπάρχων", "gloss": "étant" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "πατρικῶν", "gloss": "patrimoniales/traditions_des_pères" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "παραδόσεων.", "gloss": "traditions/données_transmises", "analyse": "La *paradosis*. La chaîne mentale qui conditionne le Sujet dans le passé." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "προέκοπτον",
+            "gloss": "je_faisais_des_progrès",
+            "analyse": "Le *pro-kopto* : avancer dans la voie horizontale, le succès selon les critères du Monde."
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰουδαϊσμῷ",
+            "gloss": "judaïsme"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "au-dessus_de"
+          },
+          {
+            "greek": "πολλοὺς",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "συλικιώτας",
+            "gloss": "ceux_de_mon_âge"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γένει",
+            "gloss": "nation/race/famille"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "περισσοτέρως",
+            "gloss": "plus_abondamment"
+          },
+          {
+            "greek": "ζηλωτὴς",
+            "gloss": "zélé/fanatique",
+            "analyse": "Le *zelotes*. L'Ego passionnel, celui qui est dévoré par la ferveur pour les formes mortes de la tradition."
+          },
+          {
+            "greek": "ὑπάρχων",
+            "gloss": "étant"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "πατρικῶν",
+            "gloss": "patrimoniales/traditions_des_pères"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "παραδόσεων.",
+            "gloss": "traditions/données_transmises",
+            "analyse": "La *paradosis*. La chaîne mentale qui conditionne le Sujet dans le passé."
+          }
         ]
       },
       {
@@ -456,23 +1495,77 @@
           "darby": "Mais quand il plut à Dieu, qui m'avait mis à part dès le sein de ma mère, et qui m'a appelé par sa grâce,"
         },
         "interlinear": [
-          { "greek": "Ὅτε", "gloss": "Quand/Lorsque" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εὐδόκησεν", "gloss": "il_trouva_bon/il_prit_plaisir", "analyse": "L'*eudokia*. La volonté souveraine de l'Incréé. Ce n'est pas un choix rationnel de Paul, c'est l'irruption du bon plaisir divin." },
-          { "greek": "[ὁ] θεὸς", "gloss": "Dieu" },
-          { "greek": "ὁ", "gloss": "celui_qui" },
-          { "greek": "ἀφορίσας", "gloss": "ayant_mis_à_part", "analyse": "Le verbe *aphorizo*. La vocation est une 'délimitation' spatiale et énergétique : l'être est soustrait au tout-venant de l'entropie." },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "ἐκ", "gloss": "hors_de" },
-          { "greek": "κοιλίας", "gloss": "ventre/sein" },
-          { "greek": "μητρός", "gloss": "mère" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "καλέσας", "gloss": "ayant_appelé" },
-          { "greek": "διὰ", "gloss": "par" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "χάριτος", "gloss": "grâce", "analyse": "La *Charis*. L'énergie pure qui ne dépend d'aucun mérite égotique." },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" }
+          {
+            "greek": "Ὅτε",
+            "gloss": "Quand/Lorsque"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εὐδόκησεν",
+            "gloss": "il_trouva_bon/il_prit_plaisir",
+            "analyse": "L'*eudokia*. La volonté souveraine de l'Incréé. Ce n'est pas un choix rationnel de Paul, c'est l'irruption du bon plaisir divin."
+          },
+          {
+            "greek": "[ὁ] θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "ἀφορίσας",
+            "gloss": "ayant_mis_à_part",
+            "analyse": "Le verbe *aphorizo*. La vocation est une 'délimitation' spatiale et énergétique : l'être est soustrait au tout-venant de l'entropie."
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "hors_de"
+          },
+          {
+            "greek": "κοιλίας",
+            "gloss": "ventre/sein"
+          },
+          {
+            "greek": "μητρός",
+            "gloss": "mère"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "καλέσας",
+            "gloss": "ayant_appelé"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάριτος",
+            "gloss": "grâce",
+            "analyse": "La *Charis*. L'énergie pure qui ne dépend d'aucun mérite égotique."
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -482,24 +1575,82 @@
           "darby": "de révéler son Fils en moi, afin que je l'annonçasse parmi les nations, aussitôt je ne pris pas conseil de la chair et du sang,"
         },
         "interlinear": [
-          { "greek": "ἀποκαλύψαι", "gloss": "de_révéler/dévoiler", "analyse": "Révéler *en* moi. La révélation n'est pas une vision extérieure, c'est l'éclosion du Christ au centre même de la conscience du Sujet." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "υἱὸν", "gloss": "Fils" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ἐμοὶ", "gloss": "moi" },
-          { "greek": "ἵνα", "gloss": "afin_de" },
-          { "greek": "εὐαγγελίζωμαι", "gloss": "annoncer_la_bonne_nouvelle" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἐν", "gloss": "parmi/dans" },
-          { "greek": "τοῖς", "gloss": "les" },
-          { "greek": "ἔθνεσιν,", "gloss": "nations/païens" },
-          { "greek": "εὐθέως", "gloss": "aussitôt", "analyse": "L'immédiateté de la conversion. La Grâce ne demande pas de réflexion." },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "προσανεθέμην", "gloss": "je_ne_pris_conseil", "analyse": "Le refus du consensus social. Paul ne vérifie pas son expérience auprès des 'autorités' humaines." },
-          { "greek": "σαρκὶ", "gloss": "chair" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αἵματι,", "gloss": "sang", "analyse": "La 'chair et le sang' : l'humanité biologique et psychologique, le système de poids et mesures de la Matrice." }
+          {
+            "greek": "ἀποκαλύψαι",
+            "gloss": "de_révéler/dévoiler",
+            "analyse": "Ἀποκαλύπτω signifie dévoiler, rendre manifeste. « Révéler son Fils en moi » désigne l’initiative de Dieu qui transforme Paul en vue de l’annonce aux nations ; cette révélation conduira aussi à la rencontre de Céphas et de Jacques."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸν",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_de"
+          },
+          {
+            "greek": "εὐαγγελίζωμαι",
+            "gloss": "annoncer_la_bonne_nouvelle"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi/dans"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἔθνεσιν,",
+            "gloss": "nations/païens"
+          },
+          {
+            "greek": "εὐθέως",
+            "gloss": "aussitôt",
+            "analyse": "L'immédiateté de la conversion. La Grâce ne demande pas de réflexion."
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "προσανεθέμην",
+            "gloss": "je_ne_pris_conseil",
+            "analyse": "Le refus du consensus social. Paul ne vérifie pas son expérience auprès des 'autorités' humaines."
+          },
+          {
+            "greek": "σαρκὶ",
+            "gloss": "chair"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αἵματι,",
+            "gloss": "sang",
+            "analyse": "La 'chair et le sang' : l'humanité biologique et psychologique, le système de poids et mesures de la Matrice."
+          }
         ]
       },
       {
@@ -509,24 +1660,80 @@
           "darby": "et je ne montai pas à Jérusalem vers ceux qui étaient apôtres avant moi ; mais je m'en allai en Arabie, et je revins encore à Damas."
         },
         "interlinear": [
-          { "greek": "οὐδὲ", "gloss": "ni" },
-          { "greek": "ἀνῆλθον", "gloss": "je_ne_montai" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "Ἰεροσόλυμα", "gloss": "Jérusalem", "analyse": "Jérusalem est le centre de la Matrice religieuse, le siège de l'autorité établie." },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "τοὺς", "gloss": "ceux" },
-          { "greek": "πρὸ", "gloss": "avant" },
-          { "greek": "ἐμοῦ", "gloss": "moi" },
-          { "greek": "ἀποστόλους,", "gloss": "apôtres" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "ἀπῆλθον", "gloss": "je_partis/m'en_allai" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "Ἀραβίαν,", "gloss": "l'Arabie", "analyse": "Le désert. Paul s'isole du monde humain pour laisser l'Apocalypse se structurer dans son silence intérieur." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πάλιν", "gloss": "de_nouveau" },
-          { "greek": "ὑπέστρεψα", "gloss": "je_revins" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Δαμασκόν.", "gloss": "Damas" }
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἀνῆλθον",
+            "gloss": "je_ne_montai"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "Ἰεροσόλυμα",
+            "gloss": "Jérusalem",
+            "analyse": "Jérusalem est le centre de la Matrice religieuse, le siège de l'autorité établie."
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "πρὸ",
+            "gloss": "avant"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἀποστόλους,",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἀπῆλθον",
+            "gloss": "je_partis/m'en_allai"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Ἀραβίαν,",
+            "gloss": "l'Arabie",
+            "analyse": "Le désert. Paul s'isole du monde humain pour laisser l'Apocalypse se structurer dans son silence intérieur."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάλιν",
+            "gloss": "de_nouveau"
+          },
+          {
+            "greek": "ὑπέστρεψα",
+            "gloss": "je_revins"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Δαμασκόν.",
+            "gloss": "Damas"
+          }
         ]
       },
       {
@@ -536,21 +1743,67 @@
           "darby": "Puis, après trois ans, je montai à Jérusalem pour faire la connaissance de Céphas, et je demeurai chez lui quinze jours."
         },
         "interlinear": [
-          { "greek": "Ἔπειτα", "gloss": "Ensuite/Puis" },
-          { "greek": "μετὰ", "gloss": "après" },
-          { "greek": "ἔτη", "gloss": "des_années" },
-          { "greek": "τρία", "gloss": "trois" },
-          { "greek": "ἀνῆλθον", "gloss": "je_montai" },
-          { "greek": "εἰς", "gloss": "à" },
-          { "greek": "Ἰεροσόλυμα", "gloss": "Jérusalem" },
-          { "greek": "ἱστορῆσαι", "gloss": "pour_faire_la_connaissance/explorer", "analyse": "Le verbe *historeo* (explorer, voir pour comprendre). Paul ne monte pas pour se soumettre, mais pour confronter son expérience du Logos avec l'histoire des autres." },
-          { "greek": "Κηφᾶν,", "gloss": "Céphas" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπέμεινα", "gloss": "je_demeurai" },
-          { "greek": "πρὸς", "gloss": "avec" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἡμέρας", "gloss": "des_jours" },
-          { "greek": "δεκαπέντε·", "gloss": "quinze" }
+          {
+            "greek": "Ἔπειτα",
+            "gloss": "Ensuite/Puis"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "après"
+          },
+          {
+            "greek": "ἔτη",
+            "gloss": "des_années"
+          },
+          {
+            "greek": "τρία",
+            "gloss": "trois"
+          },
+          {
+            "greek": "ἀνῆλθον",
+            "gloss": "je_montai"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à"
+          },
+          {
+            "greek": "Ἰεροσόλυμα",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "ἱστορῆσαι",
+            "gloss": "pour_faire_la_connaissance/explorer",
+            "analyse": "Ἱστορέω peut signifier visiter pour connaître personnellement ou s’informer. « Faire la connaissance de Céphas » n’est donc pas une traduction affaiblie : le mot souligne une rencontre attentive, après laquelle Paul mentionne également Jacques."
+          },
+          {
+            "greek": "Κηφᾶν,",
+            "gloss": "Céphas"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπέμεινα",
+            "gloss": "je_demeurai"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἡμέρας",
+            "gloss": "des_jours"
+          },
+          {
+            "greek": "δεκαπέντε·",
+            "gloss": "quinze"
+          }
         ]
       },
       {
@@ -560,22 +1813,154 @@
           "darby": "mais je ne vis aucun autre des apôtres, si ce n'est Jacques, le frère du Seigneur."
         },
         "interlinear": [
-          { "greek": "ἕτερον", "gloss": "un_autre" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἀποστόλων", "gloss": "apôtres" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "εἶδον", "gloss": "je_vis" },
-          { "greek": "εἰ", "gloss": "si_ce_n'est" },
-          { "greek": "μὴ", "gloss": "ne_pas" },
-          { "greek": "Ἰάκωβον", "gloss": "Jacques" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἀδελφὸν", "gloss": "frère" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "κυρίου.", "gloss": "Seigneur" }
-         ]  
-       }
+          {
+            "greek": "ἕτερον",
+            "gloss": "un_autre"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀποστόλων",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "εἶδον",
+            "gloss": "je_vis"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si_ce_n'est"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "Ἰάκωβον",
+            "gloss": "Jacques"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀδελφὸν",
+            "gloss": "frère"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου.",
+            "gloss": "Seigneur"
+          }
+        ]
+      }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 11 - κατὰ ἄνθρωπον : Segond traduit par 'pas de l'homme'. Le grec est plus précis : *kata anthropon* signifie 'selon l'homme', c'est-à-dire conforme aux standards humains, aux normes de la Matrice sociale ou religieuse. L'Évangile n'est pas un produit de l'anthropologie, il est une irruption ontologique.\n\n• Verset 18 - ἱστορῆσαι : Segond traduit par 'faire la connaissance'. C'est une traduction affaiblie. Le verbe *historeo* (racine de 'histoire') signifie ici enquêter, explorer, s'informer par un examen rigoureux. Paul ne monte pas à Jérusalem pour se soumettre à une autorité, il monte pour 'examiner' le Céphas historique, pour confronter sa révélation intérieure avec la tradition extérieure. C'est une démarche d'éveil souverain, pas de disciple docile.\n\nAnalyse spirituelle :\n\nCe texte est le manifeste de l'Apocalypse intérieure. Paul ne raconte pas un changement de religion (passer du judaïsme au christianisme), il raconte la désintégration d'une structure égotique (le zélateur de la Loi) pour laisser place à une irruption directe du Logos (le Christ).\n\nLe point central est le verset 16 : 'révéler en moi son Fils'. La révélation n'est pas un savoir transmis par des livres ou des maîtres (la 'chair et le sang'), c'est une *Apocalypse* (dévoilement) : l'effacement du voile de l'Ego qui permet à l'Incréé de rayonner *à l'intérieur* de la conscience. Paul insiste sur son indépendance vis-à-vis de Jérusalem pour souligner que la Vérité ne peut être reçue par 'transmission horizontale'. Elle doit être vécue comme une naissance verticale.\n\nSon passé de persécuteur (v.13-14) est ici crucial : Paul était le sommet de la Matrice religieuse, le 'zélé' (*zelotes*) qui croyait défendre Dieu par la violence. Il était 'en avance' sur les autres, ce qui signifie qu'il était le plus enchaîné par les traditions. Sa conversion est la preuve que nul n'est trop enfermé dans la structure mentale de l'Ego pour être touché par la Grâce.\n\nL'exil en Arabie (v.17) est le temps nécessaire de l'intégration : après le choc de l'irruption lumineuse, le Sujet doit se retirer du bruit du monde (et même du bruit des autres apôtres) pour laisser cette nouvelle fréquence stabiliser sa propre structure. Paul ne 'devient' pas apôtre par un diplôme humain, il le devient par la reconnaissance absolue que son 'Moi' (Saul) a disparu au profit de la Présence du Fils en lui. La seule autorité reconnue est désormais celle de la Lumière dévoilée."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 11 - κατὰ ἄνθρωπον : Segond traduit par 'pas de l'homme'. Le grec est plus précis : *kata anthropon* signifie 'selon l'homme', c'est-à-dire conforme aux standards humains, aux normes de la Matrice sociale ou religieuse. L'Évangile n'est pas un produit de l'anthropologie, il est une irruption ontologique.\n\n• Verset 18 - ἱστορῆσαι : Segond traduit par 'faire la connaissance'. C'est une traduction affaiblie. Le verbe *historeo* (racine de 'histoire') signifie ici enquêter, explorer, s'informer par un examen rigoureux. Paul ne monte pas à Jérusalem pour se soumettre à une autorité, il monte pour 'examiner' le Céphas historique, pour confronter sa révélation intérieure avec la tradition extérieure. C'est une démarche d'éveil souverain, pas de disciple docile.\n\nAnalyse spirituelle :\n\nCe texte est le manifeste de l'Apocalypse intérieure. Paul ne raconte pas un changement de religion (passer du judaïsme au christianisme), il raconte la désintégration d'une structure égotique (le zélateur de la Loi) pour laisser place à une irruption directe du Logos (le Christ).\n\nLe point central est le verset 16 : 'révéler en moi son Fils'. La révélation n'est pas un savoir transmis par des livres ou des maîtres (la 'chair et le sang'), c'est une *Apocalypse* (dévoilement) : l'effacement du voile de l'Ego qui permet à l'Incréé de rayonner *à l'intérieur* de la conscience. Paul insiste sur son indépendance vis-à-vis de Jérusalem pour souligner que la Vérité ne peut être reçue par 'transmission horizontale'. Elle doit être vécue comme une naissance verticale.\n\nSon passé de persécuteur (v.13-14) est ici crucial : Paul était le sommet de la Matrice religieuse, le 'zélé' (*zelotes*) qui croyait défendre Dieu par la violence. Il était 'en avance' sur les autres, ce qui signifie qu'il était le plus enchaîné par les traditions. Sa conversion est la preuve que nul n'est trop enfermé dans la structure mentale de l'Ego pour être touché par la Grâce.\n\nL'exil en Arabie (v.17) est le temps nécessaire de l'intégration : après le choc de l'irruption lumineuse, le Sujet doit se retirer du bruit du monde (et même du bruit des autres apôtres) pour laisser cette nouvelle fréquence stabiliser sa propre structure. Paul ne 'devient' pas apôtre par un diplôme humain, il le devient par la reconnaissance absolue que son 'Moi' (Saul) a disparu au profit de la Présence du Fils en lui. La seule autorité reconnue est désormais celle de la Lumière dévoilée.\n\nComplément de discernement :\nL’expression « faire la connaissance de Céphas » rend légitimement ἱστορῆσαι dans ce contexte. Le verbe peut porter l’idée de visiter pour connaître ou s’informer avec soin ; il ne permet pas, à lui seul, d’opposer Paul à l’autorité apostolique. Paul affirme que l’Évangile reçu a son origine en Dieu, mais il mentionne aussi sa rencontre avec Céphas et Jacques. La révélation personnelle ne devient donc pas une autosuffisance spirituelle : elle entre dans une relation ecclésiale concrète.",
+    "homiletic_axes": [
+      {
+        "title": "Le Fils appelé hors d’Égypte et révélé en Paul",
+        "content": "Matthieu relit l’Exode dans le Christ : « d’Égypte, j’ai appelé mon Fils ». Paul décrit sa vocation comme le bon plaisir de Dieu de « révéler en moi son Fils ». Dans les deux lectures, l’initiative appartient à Dieu et ouvre une mission.",
+        "keywords": [
+          "υἱός — fils",
+          "καλέω — appeler",
+          "ἀποκαλύπτω — révéler"
+        ]
+      },
+      {
+        "title": "Se retirer pour préserver et recevoir",
+        "content": "Joseph se retire en Égypte puis en Galilée sous la conduite de Dieu ; Paul part en Arabie après la révélation. Le retrait n’est ni fuite intérieure ni autosuffisance : il peut devenir un espace d’obéissance, de maturation et de discernement.",
+        "keywords": [
+          "ἀναχωρέω — se retirer",
+          "φεύγω — fuir",
+          "Ἀραβία — Arabie"
+        ]
+      },
+      {
+        "title": "La violence religieuse désarmée par la grâce",
+        "content": "Hérode veut supprimer l’Enfant pour protéger son pouvoir. Paul reconnaît qu’il persécutait l’Église avec un zèle extrême. La grâce ne répond pas à la violence en reproduisant sa logique : elle protège l’Enfant et transforme le persécuteur en apôtre.",
+        "keywords": [
+          "διώκω — persécuter",
+          "πορθέω — ravager",
+          "χάρις — grâce"
+        ]
+      },
+      {
+        "title": "Révélation divine et communion ecclésiale",
+        "content": "L’Évangile vient à Paul par révélation de Jésus-Christ, non comme invention humaine. Pourtant, après trois ans, il rencontre Céphas et Jacques. L’origine divine de l’appel et la communion avec l’Église apostolique ne s’excluent pas : elles se répondent.",
+        "keywords": [
+          "εὐαγγέλιον — Bonne Nouvelle",
+          "ἀποκάλυψις — révélation",
+          "ἱστορέω — rencontrer et s’informer"
+        ]
+      },
+      {
+        "title": "Dieu conduit dans une histoire menacée",
+        "content": "La Nativité n’abolit pas immédiatement la peur, l’exil ou le deuil. Dieu demeure pourtant à l’œuvre dans les déplacements, les songes, les rencontres et les retournements personnels. Le salut entre réellement dans l’histoire blessée.",
+        "keywords": [
+          "ὄναρ — songe",
+          "ὁδός — chemin",
+          "πρόνοια — providence"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel appel, déplacement ou dévoilement relie Matthieu 2 et Galates 1 ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les déplacements de Joseph et de Paul, les formes de violence et les initiatives de Dieu."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Quelle œuvre de Dieu apparaît dans la protection du Fils et la transformation du persécuteur ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation d’exil, de peur, de zèle mal orienté ou de maturation cette parole vient-elle éclairer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quel déplacement concret permettrait de répondre à l’appel de Dieu sans s’isoler de la communion ecclésiale ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Un double déplacement conduit par Dieu",
+        "reference": "Matthieu 2, 13-23 ; Galates 1, 11-19",
+        "content": "Joseph reçoit en songe la route qui protège l’Enfant ; Paul reçoit la révélation du Fils puis rejoint Céphas et Jacques. Dieu conduit chacun par un chemin singulier qui demeure inscrit dans l’histoire du salut et la communion de l’Église.",
+        "connections": []
+      }
+    ]
+  }
 }
- } 

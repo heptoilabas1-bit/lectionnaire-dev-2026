@@ -10,20 +10,62 @@
           "darby": "Car il en est comme d'un homme s'en allant hors du pays, qui appela ses propres esclaves et leur remit ses biens."
         },
         "interlinear": [
-          { "greek": "Ὥσπερ", "gloss": "Comme" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "ἄνθρωπος", "gloss": "un_homme" },
-          { "greek": "ἀποδημῶν", "gloss": "partant_en_voyage" },
-          { "greek": "ἐκάλεσεν", "gloss": "appela" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ἰδίους", "gloss": "propres" },
-          { "greek": "δούλους", "gloss": "serviteurs/esclaves" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "παρέδωκεν", "gloss": "livra/remit" },
-          { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ὑπάρχοντα", "gloss": "biens" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" }
+          {
+            "greek": "Ὥσπερ",
+            "gloss": "Comme"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "ἄνθρωπος",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "ἀποδημῶν",
+            "gloss": "partant_en_voyage"
+          },
+          {
+            "greek": "ἐκάλεσεν",
+            "gloss": "appela"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἰδίους",
+            "gloss": "propres"
+          },
+          {
+            "greek": "δούλους",
+            "gloss": "serviteurs/esclaves"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παρέδωκεν",
+            "gloss": "livra/remit"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὑπάρχοντα",
+            "gloss": "biens"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -33,25 +75,83 @@
           "darby": "Et à l'un il donna cinq talents ; à un autre, deux ; à un autre, un ; à chacun selon sa propre capacité ; et aussitôt il s'en alla hors du pays."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ᾧ", "gloss": "à_l'un" },
-          { "greek": "μὲν", "gloss": "d'une_part" },
-          { "greek": "ἔδωκεν", "gloss": "il_donna" },
-          { "greek": "πέντε", "gloss": "cinq" },
-          { "greek": "τάλαντα,", "gloss": "talents" },
-          { "greek": "ᾧ", "gloss": "à_un_autre" },
-          { "greek": "δὲ", "gloss": "d'autre_part" },
-          { "greek": "δύο,", "gloss": "deux" },
-          { "greek": "ᾧ", "gloss": "à_un_autre" },
-          { "greek": "δὲ", "gloss": "d'autre_part" },
-          { "greek": "ἕν,", "gloss": "un" },
-          { "greek": "ἑκάστῳ", "gloss": "à_chacun" },
-          { "greek": "κατὰ", "gloss": "selon" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἰδίαν", "gloss": "propre" },
-          { "greek": "δύναμιν,", "gloss": "capacité/puissance", "analyse": "Le mot *dynamis* (puissance, énergie). Le Maître (Dieu) ne distribue pas la Grâce (*les talents*) de manière arithmétique et égalitaire (selon la logique du Monde duel), mais organiquement, selon la *dynamis* de chacun. L'Incréé s'adapte à la réceptivité du Sujet." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀπεδήμησεν.", "gloss": "il_partit_en_voyage" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "à_l'un"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "d'une_part"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "il_donna"
+          },
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "τάλαντα,",
+            "gloss": "talents"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "à_un_autre"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "d'autre_part"
+          },
+          {
+            "greek": "δύο,",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "à_un_autre"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "d'autre_part"
+          },
+          {
+            "greek": "ἕν,",
+            "gloss": "un"
+          },
+          {
+            "greek": "ἑκάστῳ",
+            "gloss": "à_chacun"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἰδίαν",
+            "gloss": "propre"
+          },
+          {
+            "greek": "δύναμιν,",
+            "gloss": "capacité/puissance",
+            "analyse": "Le mot *dynamis* (puissance, énergie). Le Maître (Dieu) ne distribue pas la Grâce (*les talents*) de manière arithmétique et égalitaire (selon la logique du Monde duel), mais organiquement, selon la *dynamis* de chacun. L'Incréé s'adapte à la réceptivité du Sujet."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπεδήμησεν.",
+            "gloss": "il_partit_en_voyage"
+          }
         ]
       },
       {
@@ -61,20 +161,62 @@
           "darby": "Or celui qui avait reçu les cinq talents s'en alla et trafiqua avec eux, et gagna cinq autres talents."
         },
         "interlinear": [
-          { "greek": "εὐθέως", "gloss": "Aussitôt" },
-          { "greek": "πορευθεὶς", "gloss": "étant_parti" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πέντε", "gloss": "cinq" },
-          { "greek": "τάλαντα", "gloss": "talents" },
-          { "greek": "λαβὼν", "gloss": "ayant_reçu" },
-          { "greek": "ἠργάσατο", "gloss": "travailla" },
-          { "greek": "ἐν", "gloss": "avec" },
-          { "greek": "αὐτοῖς", "gloss": "eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐκέρδησεν", "gloss": "gagna" },
-          { "greek": "ἄλλα", "gloss": "d'autres" },
-          { "greek": "πέντε·", "gloss": "cinq" }
+          {
+            "greek": "εὐθέως",
+            "gloss": "Aussitôt"
+          },
+          {
+            "greek": "πορευθεὶς",
+            "gloss": "étant_parti"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "τάλαντα",
+            "gloss": "talents"
+          },
+          {
+            "greek": "λαβὼν",
+            "gloss": "ayant_reçu"
+          },
+          {
+            "greek": "ἠργάσατο",
+            "gloss": "travailla"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐκέρδησεν",
+            "gloss": "gagna"
+          },
+          {
+            "greek": "ἄλλα",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "πέντε·",
+            "gloss": "cinq"
+          }
         ]
       },
       {
@@ -84,13 +226,34 @@
           "darby": "De même aussi, celui qui avait reçu les deux en gagna deux autres."
         },
         "interlinear": [
-          { "greek": "ὡσαύτως", "gloss": "De_même" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "ἐκέρδησεν", "gloss": "gagna" },
-          { "greek": "ἄλλα", "gloss": "d'autres" },
-          { "greek": "δύο.", "gloss": "deux" }
+          {
+            "greek": "ὡσαύτως",
+            "gloss": "De_même"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἐκέρδησεν",
+            "gloss": "gagna"
+          },
+          {
+            "greek": "ἄλλα",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δύο.",
+            "gloss": "deux"
+          }
         ]
       },
       {
@@ -100,21 +263,67 @@
           "darby": "Mais celui qui en avait reçu un, s'en alla et creusa dans la terre, et cacha l'argent de son seigneur."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Celui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ἓν", "gloss": "un" },
-          { "greek": "λαβὼν", "gloss": "ayant_reçu" },
-          { "greek": "ἀπελθὼν", "gloss": "s'en_étant_allé" },
-          { "greek": "ὤρυξεν", "gloss": "creusa" },
-          { "greek": "γῆν", "gloss": "la_terre" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔκρυψεν", "gloss": "cacha", "analyse": "Cacher dans la terre, c'est l'acte suprême de l'Ego religieux. Il prend le don divin (le talent) et l'enterre dans la matérialité et le conservatisme. Il refuse le mouvement, le risque et la circulation de l'Énergie, préférant sécuriser son 'avoir'." },
-          { "greek": "τὸ", "gloss": "l'" },
-          { "greek": "ἀργύριον", "gloss": "argent" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "κυρίου", "gloss": "maître" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "ὁ",
+            "gloss": "Celui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἓν",
+            "gloss": "un"
+          },
+          {
+            "greek": "λαβὼν",
+            "gloss": "ayant_reçu"
+          },
+          {
+            "greek": "ἀπελθὼν",
+            "gloss": "s'en_étant_allé"
+          },
+          {
+            "greek": "ὤρυξεν",
+            "gloss": "creusa"
+          },
+          {
+            "greek": "γῆν",
+            "gloss": "la_terre"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔκρυψεν",
+            "gloss": "cacha",
+            "analyse": "Cacher dans la terre, c'est l'acte suprême de l'Ego religieux. Il prend le don divin (le talent) et l'enterre dans la matérialité et le conservatisme. Il refuse le mouvement, le risque et la circulation de l'Énergie, préférant sécuriser son 'avoir'."
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἀργύριον",
+            "gloss": "argent"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "maître"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -124,21 +333,66 @@
           "darby": "Or, longtemps après, le seigneur de ces esclaves vient et règle compte avec eux."
         },
         "interlinear": [
-          { "greek": "μετὰ", "gloss": "Après" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "πολὺν", "gloss": "beaucoup_de" },
-          { "greek": "χρόνον", "gloss": "temps" },
-          { "greek": "ἔρχεται", "gloss": "vient" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κύριος", "gloss": "seigneur" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "δούλων", "gloss": "serviteurs" },
-          { "greek": "ἐκείνων", "gloss": "ces...-là" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "συναίρει", "gloss": "règle" },
-          { "greek": "λόγον", "gloss": "les_comptes" },
-          { "greek": "μετ’", "gloss": "avec" },
-          { "greek": "αὐτῶν.", "gloss": "eux" }
+          {
+            "greek": "μετὰ",
+            "gloss": "Après"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "πολὺν",
+            "gloss": "beaucoup_de"
+          },
+          {
+            "greek": "χρόνον",
+            "gloss": "temps"
+          },
+          {
+            "greek": "ἔρχεται",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "δούλων",
+            "gloss": "serviteurs"
+          },
+          {
+            "greek": "ἐκείνων",
+            "gloss": "ces...-là"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συναίρει",
+            "gloss": "règle"
+          },
+          {
+            "greek": "λόγον",
+            "gloss": "les_comptes"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "eux"
+          }
         ]
       },
       {
@@ -148,28 +402,94 @@
           "darby": "Et celui qui avait reçu les cinq talents s'approcha et apporta cinq autres talents, disant : Seigneur, tu m'as remis cinq talents ; voici, j'ai gagné cinq autres talents par-dessus."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "προσελθὼν", "gloss": "s'étant_approché" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πέντε", "gloss": "cinq" },
-          { "greek": "τάλαντα", "gloss": "talents" },
-          { "greek": "λαβὼν", "gloss": "ayant_reçu" },
-          { "greek": "προσήνεγκεν", "gloss": "apporta" },
-          { "greek": "ἄλλα", "gloss": "d'autres" },
-          { "greek": "πέντε", "gloss": "cinq" },
-          { "greek": "τάλαντα", "gloss": "talents" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Κύριε,", "gloss": "Seigneur" },
-          { "greek": "πέντε", "gloss": "cinq" },
-          { "greek": "τάλαντά", "gloss": "talents" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "παρέδωκας·", "gloss": "tu_as_remis" },
-          { "greek": "ἴδε", "gloss": "voici" },
-          { "greek": "ἄλλα", "gloss": "d'autres" },
-          { "greek": "πέντε", "gloss": "cinq" },
-          { "greek": "τάλαντα", "gloss": "talents" },
-          { "greek": "ἐκέρδησα.", "gloss": "j'ai_gagnés" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "προσελθὼν",
+            "gloss": "s'étant_approché"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "τάλαντα",
+            "gloss": "talents"
+          },
+          {
+            "greek": "λαβὼν",
+            "gloss": "ayant_reçu"
+          },
+          {
+            "greek": "προσήνεγκεν",
+            "gloss": "apporta"
+          },
+          {
+            "greek": "ἄλλα",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "τάλαντα",
+            "gloss": "talents"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "τάλαντά",
+            "gloss": "talents"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "παρέδωκας·",
+            "gloss": "tu_as_remis"
+          },
+          {
+            "greek": "ἴδε",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ἄλλα",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "τάλαντα",
+            "gloss": "talents"
+          },
+          {
+            "greek": "ἐκέρδησα.",
+            "gloss": "j'ai_gagnés"
+          }
         ]
       },
       {
@@ -179,31 +499,107 @@
           "darby": "Son seigneur lui dit : Bien, bon et fidèle esclave ; tu as été fidèle en peu de chose, je t'établirai sur beaucoup : entre dans la joie de ton seigneur."
         },
         "interlinear": [
-          { "greek": "ἔφη", "gloss": "Dit" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κύριος", "gloss": "seigneur" },
-          { "greek": "αὐτοῦ·", "gloss": "de_lui" },
-          { "greek": "Εὖ,", "gloss": "Bien" },
-          { "greek": "δοῦλε", "gloss": "serviteur" },
-          { "greek": "ἀγαθὲ", "gloss": "bon" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πιστέ,", "gloss": "fidèle" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "ὀλίγα", "gloss": "peu_de_choses" },
-          { "greek": "ἦς", "gloss": "tu_as_été" },
-          { "greek": "πιστός,", "gloss": "fidèle" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "πολλῶν", "gloss": "beaucoup" },
-          { "greek": "σε", "gloss": "te" },
-          { "greek": "καταστήσω·", "gloss": "j'établirai" },
-          { "greek": "εἴσελθε", "gloss": "entre", "analyse": "Le verbe *eiselthe* (entre). La récompense n'est pas horizontale (plus d'argent ou de pouvoir). La récompense est une mutation ontologique : le Sujet pénètre et est absorbé dans la 'Joie' (*chara*), c'est-à-dire dans l'état d'être même de son Maître. Le serviteur devient participant de la nature divine." },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "χαρὰν", "gloss": "joie" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "κυρίου", "gloss": "seigneur" },
-          { "greek": "σου.", "gloss": "de_toi" }
+          {
+            "greek": "ἔφη",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Εὖ,",
+            "gloss": "Bien"
+          },
+          {
+            "greek": "δοῦλε",
+            "gloss": "serviteur"
+          },
+          {
+            "greek": "ἀγαθὲ",
+            "gloss": "bon"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πιστέ,",
+            "gloss": "fidèle"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ὀλίγα",
+            "gloss": "peu_de_choses"
+          },
+          {
+            "greek": "ἦς",
+            "gloss": "tu_as_été"
+          },
+          {
+            "greek": "πιστός,",
+            "gloss": "fidèle"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "πολλῶν",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "σε",
+            "gloss": "te"
+          },
+          {
+            "greek": "καταστήσω·",
+            "gloss": "j'établirai"
+          },
+          {
+            "greek": "εἴσελθε",
+            "gloss": "entre",
+            "analyse": "Le verbe *eiselthe* (entre). La récompense n'est pas horizontale (plus d'argent ou de pouvoir). La récompense est une mutation ontologique : le Sujet pénètre et est absorbé dans la 'Joie' (*chara*), c'est-à-dire dans l'état d'être même de son Maître. Le serviteur devient participant de la nature divine."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χαρὰν",
+            "gloss": "joie"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "σου.",
+            "gloss": "de_toi"
+          }
         ]
       },
       {
@@ -213,24 +609,78 @@
           "darby": "Et celui qui avait reçu les deux talents s'approchant aussi, dit : Seigneur, tu m'as remis deux talents ; voici, j'ai gagné deux autres talents par-dessus."
         },
         "interlinear": [
-          { "greek": "προσελθὼν", "gloss": "S'étant_approché" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "τάλαντα", "gloss": "talents" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Κύριε,", "gloss": "Seigneur" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "τάλαντά", "gloss": "talents" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "παρέδωκας·", "gloss": "tu_as_remis" },
-          { "greek": "ἴδε", "gloss": "voici" },
-          { "greek": "ἄλλα", "gloss": "d'autres" },
-          { "greek": "δύο", "gloss": "deux" },
-          { "greek": "τάλαντα", "gloss": "talents" },
-          { "greek": "ἐκέρδησα.", "gloss": "j'ai_gagnés" }
+          {
+            "greek": "προσελθὼν",
+            "gloss": "S'étant_approché"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "τάλαντα",
+            "gloss": "talents"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "τάλαντά",
+            "gloss": "talents"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "παρέδωκας·",
+            "gloss": "tu_as_remis"
+          },
+          {
+            "greek": "ἴδε",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ἄλλα",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "τάλαντα",
+            "gloss": "talents"
+          },
+          {
+            "greek": "ἐκέρδησα.",
+            "gloss": "j'ai_gagnés"
+          }
         ]
       },
       {
@@ -240,31 +690,106 @@
           "darby": "Son seigneur lui dit : Bien, bon et fidèle esclave ; tu as été fidèle en peu de chose, je t'établirai sur beaucoup : entre dans la joie de ton seigneur."
         },
         "interlinear": [
-          { "greek": "ἔφη", "gloss": "Dit" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κύριος", "gloss": "seigneur" },
-          { "greek": "αὐτοῦ·", "gloss": "de_lui" },
-          { "greek": "Εὖ,", "gloss": "Bien" },
-          { "greek": "δοῦλε", "gloss": "serviteur" },
-          { "greek": "ἀγαθὲ", "gloss": "bon" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πιστέ,", "gloss": "fidèle" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "ὀλίγα", "gloss": "peu_de_choses" },
-          { "greek": "ἦς", "gloss": "tu_as_été" },
-          { "greek": "πιστός,", "gloss": "fidèle" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "πολλῶν", "gloss": "beaucoup" },
-          { "greek": "σε", "gloss": "te" },
-          { "greek": "καταστήσω·", "gloss": "j'établirai" },
-          { "greek": "εἴσελθε", "gloss": "entre" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "χαρὰν", "gloss": "joie" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "κυρίου", "gloss": "seigneur" },
-          { "greek": "σου.", "gloss": "de_toi" }
+          {
+            "greek": "ἔφη",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Εὖ,",
+            "gloss": "Bien"
+          },
+          {
+            "greek": "δοῦλε",
+            "gloss": "serviteur"
+          },
+          {
+            "greek": "ἀγαθὲ",
+            "gloss": "bon"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πιστέ,",
+            "gloss": "fidèle"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ὀλίγα",
+            "gloss": "peu_de_choses"
+          },
+          {
+            "greek": "ἦς",
+            "gloss": "tu_as_été"
+          },
+          {
+            "greek": "πιστός,",
+            "gloss": "fidèle"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "πολλῶν",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "σε",
+            "gloss": "te"
+          },
+          {
+            "greek": "καταστήσω·",
+            "gloss": "j'établirai"
+          },
+          {
+            "greek": "εἴσελθε",
+            "gloss": "entre"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χαρὰν",
+            "gloss": "joie"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "κυρίου",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "σου.",
+            "gloss": "de_toi"
+          }
         ]
       },
       {
@@ -274,31 +799,107 @@
           "darby": "Et celui qui avait reçu le seul talent, s'approchant aussi, dit : Seigneur, je te connaissais, que tu es un homme dur, moissonnant où tu n'as pas semé, et recueillant où tu n'as pas répandu ;"
         },
         "interlinear": [
-          { "greek": "προσελθὼν", "gloss": "S'étant_approché" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ἓν", "gloss": "un" },
-          { "greek": "τάλαντον", "gloss": "talent" },
-          { "greek": "εἰληφὼς", "gloss": "ayant_reçu" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Κύριε,", "gloss": "Seigneur" },
-          { "greek": "ἔγνων", "gloss": "je_te_connaissais" },
-          { "greek": "σε", "gloss": "te" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "σκληρὸς", "gloss": "dur/sévère", "analyse": "Le mot *skleros* (dur, inflexible). L'Ego projette toujours sur Dieu ses propres névroses. Ayant refusé la relation intime (qui est Grâce), ce serviteur voit le Maître de manière purement horizontale et juridique : comme un tyran exigeant, un comptable impitoyable du Monde duel." },
-          { "greek": "εἶ", "gloss": "tu_es" },
-          { "greek": "ἄνθρωπος,", "gloss": "homme" },
-          { "greek": "θερίζων", "gloss": "moissonnant" },
-          { "greek": "ὅπου", "gloss": "là_où" },
-          { "greek": "οὐκ", "gloss": "tu_n'as_pas" },
-          { "greek": "ἔσπειρας", "gloss": "semé" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "συνάγων", "gloss": "amassant" },
-          { "greek": "ὅθεν", "gloss": "d'où" },
-          { "greek": "οὐ", "gloss": "tu_n'as_pas" },
-          { "greek": "διεσκόρπισας·", "gloss": "répandu/vanné" }
+          {
+            "greek": "προσελθὼν",
+            "gloss": "S'étant_approché"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἓν",
+            "gloss": "un"
+          },
+          {
+            "greek": "τάλαντον",
+            "gloss": "talent"
+          },
+          {
+            "greek": "εἰληφὼς",
+            "gloss": "ayant_reçu"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἔγνων",
+            "gloss": "je_te_connaissais"
+          },
+          {
+            "greek": "σε",
+            "gloss": "te"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "σκληρὸς",
+            "gloss": "dur/sévère",
+            "analyse": "Le mot *skleros* (dur, inflexible). L'Ego projette toujours sur Dieu ses propres névroses. Ayant refusé la relation intime (qui est Grâce), ce serviteur voit le Maître de manière purement horizontale et juridique : comme un tyran exigeant, un comptable impitoyable du Monde duel."
+          },
+          {
+            "greek": "εἶ",
+            "gloss": "tu_es"
+          },
+          {
+            "greek": "ἄνθρωπος,",
+            "gloss": "homme"
+          },
+          {
+            "greek": "θερίζων",
+            "gloss": "moissonnant"
+          },
+          {
+            "greek": "ὅπου",
+            "gloss": "là_où"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "tu_n'as_pas"
+          },
+          {
+            "greek": "ἔσπειρας",
+            "gloss": "semé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συνάγων",
+            "gloss": "amassant"
+          },
+          {
+            "greek": "ὅθεν",
+            "gloss": "d'où"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "tu_n'as_pas"
+          },
+          {
+            "greek": "διεσκόρπισας·",
+            "gloss": "répandu/vanné"
+          }
         ]
       },
       {
@@ -308,20 +909,64 @@
           "darby": "et, craignant, je m'en suis allé et j'ai caché ton talent dans la terre : voici, tu as ce qui est à toi."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "φοβηθεὶς", "gloss": "ayant_été_effrayé", "analyse": "Le *phobos* (la peur) est la signature même de l'Ego séparé de la Source. La peur paralyse le Sujet. Elle empêche le risque de la foi et refuse la kénose. Par peur de perdre ou d'être jugé, on gèle la Grâce, on s'enferme dans le dogmatisme ou le ritualisme mort ('cacher dans la terre')." },
-          { "greek": "ἀπελθὼν", "gloss": "m'en_étant_allé" },
-          { "greek": "ἔκρυψα", "gloss": "j'ai_caché" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "τάλαντόν", "gloss": "talent" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "γῇ·", "gloss": "terre" },
-          { "greek": "ἴδε", "gloss": "voici" },
-          { "greek": "ἔχεις", "gloss": "tu_as" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "σόν.", "gloss": "tien", "analyse": "'Tu as ce qui est à toi'. Formule de l'homme duel qui conçoit la religion comme un simple dépôt bancaire à restituer intact. Mais l'Énergie divine est un feu vivant : si on l'enferme sans la faire circuler par l'amour, elle s'éteint." }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φοβηθεὶς",
+            "gloss": "ayant_été_effrayé",
+            "analyse": "Le *phobos* (la peur) est la signature même de l'Ego séparé de la Source. La peur paralyse le Sujet. Elle empêche le risque de la foi et refuse la kénose. Par peur de perdre ou d'être jugé, on gèle la Grâce, on s'enferme dans le dogmatisme ou le ritualisme mort ('cacher dans la terre')."
+          },
+          {
+            "greek": "ἀπελθὼν",
+            "gloss": "m'en_étant_allé"
+          },
+          {
+            "greek": "ἔκρυψα",
+            "gloss": "j'ai_caché"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τάλαντόν",
+            "gloss": "talent"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῇ·",
+            "gloss": "terre"
+          },
+          {
+            "greek": "ἴδε",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ἔχεις",
+            "gloss": "tu_as"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σόν.",
+            "gloss": "tien",
+            "analyse": "'Tu as ce qui est à toi'. Formule de l'homme duel qui conçoit la religion comme un simple dépôt bancaire à restituer intact. Mais l'Énergie divine est un feu vivant : si on l'enferme sans la faire circuler par l'amour, elle s'éteint."
+          }
         ]
       },
       {
@@ -331,28 +976,94 @@
           "darby": "Et son seigneur, répondant, lui dit : Méchant et paresseux esclave, tu savais que je moissonne où je n'ai pas semé, et que je recueille où je n'ai pas répandu ;"
         },
         "interlinear": [
-          { "greek": "ἀποκριθεὶς", "gloss": "Ayant_répondu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κύριος", "gloss": "maître" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Πονηρὲ", "gloss": "Mauvais/méchant" },
-          { "greek": "δοῦλε", "gloss": "serviteur" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὀκνηρέ,", "gloss": "paresseux" },
-          { "greek": "ᾔδεις", "gloss": "tu_savais" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "θερίζω", "gloss": "je_moissonne" },
-          { "greek": "ὅπου", "gloss": "là_où" },
-          { "greek": "οὐκ", "gloss": "je_n'ai_pas" },
-          { "greek": "ἔσπειρα", "gloss": "semé" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "συνάγω", "gloss": "j'amasse" },
-          { "greek": "ὅθεν", "gloss": "d'où" },
-          { "greek": "οὐ", "gloss": "je_n'ai_pas" },
-          { "greek": "διεσκόρπισα;", "gloss": "répandu" }
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "Ayant_répondu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "maître"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Πονηρὲ",
+            "gloss": "Mauvais/méchant"
+          },
+          {
+            "greek": "δοῦλε",
+            "gloss": "serviteur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὀκνηρέ,",
+            "gloss": "paresseux"
+          },
+          {
+            "greek": "ᾔδεις",
+            "gloss": "tu_savais"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "θερίζω",
+            "gloss": "je_moissonne"
+          },
+          {
+            "greek": "ὅπου",
+            "gloss": "là_où"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "je_n'ai_pas"
+          },
+          {
+            "greek": "ἔσπειρα",
+            "gloss": "semé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συνάγω",
+            "gloss": "j'amasse"
+          },
+          {
+            "greek": "ὅθεν",
+            "gloss": "d'où"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "je_n'ai_pas"
+          },
+          {
+            "greek": "διεσκόρπισα;",
+            "gloss": "répandu"
+          }
         ]
       },
       {
@@ -362,24 +1073,78 @@
           "darby": "il te fallait donc placer mon argent chez les banquiers, et, quand je serais venu, j'aurais recouvré ce qui est à moi avec l'intérêt."
         },
         "interlinear": [
-          { "greek": "ἔδει", "gloss": "Il_fallait" },
-          { "greek": "σε", "gloss": "te" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "βαλεῖν", "gloss": "jeter/placer" },
-          { "greek": "τὰ", "gloss": "l'" },
-          { "greek": "ἀργύριά", "gloss": "argent" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "τραπεζίταις,", "gloss": "banquiers/changeurs" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐλθὼν", "gloss": "étant_venu" },
-          { "greek": "ἐγὼ", "gloss": "moi" },
-          { "greek": "ἐκομισάμην", "gloss": "j'aurais_recouvré" },
-          { "greek": "ἂν", "gloss": "[particule_conditionnelle]" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "ἐμὸν", "gloss": "mien" },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "τόκῳ.", "gloss": "intérêt" }
+          {
+            "greek": "ἔδει",
+            "gloss": "Il_fallait"
+          },
+          {
+            "greek": "σε",
+            "gloss": "te"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "βαλεῖν",
+            "gloss": "jeter/placer"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἀργύριά",
+            "gloss": "argent"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "τραπεζίταις,",
+            "gloss": "banquiers/changeurs"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐκομισάμην",
+            "gloss": "j'aurais_recouvré"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "[particule_conditionnelle]"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐμὸν",
+            "gloss": "mien"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "τόκῳ.",
+            "gloss": "intérêt"
+          }
         ]
       },
       {
@@ -389,19 +1154,58 @@
           "darby": "Ôtez-lui donc le talent et donnez-le à celui qui a les dix talents."
         },
         "interlinear": [
-          { "greek": "ἄρατε", "gloss": "Ôtez" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ἀπ’", "gloss": "de" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "τάλαντον", "gloss": "talent" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δότε", "gloss": "donnez-le" },
-          { "greek": "τῷ", "gloss": "à_celui" },
-          { "greek": "ἔχοντι", "gloss": "ayant" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "δέκα", "gloss": "dix" },
-          { "greek": "τάλαντα·", "gloss": "talents" }
+          {
+            "greek": "ἄρατε",
+            "gloss": "Ôtez"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "de"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τάλαντον",
+            "gloss": "talent"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δότε",
+            "gloss": "donnez-le"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_celui"
+          },
+          {
+            "greek": "ἔχοντι",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δέκα",
+            "gloss": "dix"
+          },
+          {
+            "greek": "τάλαντα·",
+            "gloss": "talents"
+          }
         ]
       },
       {
@@ -411,23 +1215,75 @@
           "darby": "Car à quiconque a, il sera donné, et il sera dans l'abondance ; mais à celui qui n'a pas, cela même qu'il a lui sera ôté."
         },
         "interlinear": [
-          { "greek": "τῷ", "gloss": "À_celui" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἔχοντι", "gloss": "ayant" },
-          { "greek": "παντὶ", "gloss": "tout/à_quiconque" },
-          { "greek": "δοθήσεται", "gloss": "il_sera_donné" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "περισσευθήσεται·", "gloss": "il_sera_dans_l'abondance" },
-          { "greek": "τοῦ", "gloss": "de_celui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "ἔχοντος", "gloss": "ayant", "analyse": "Cette phrase choque la morale horizontale, mais c'est la grande loi ontologique du Royaume UN. La Grâce est un flux. Si le Sujet laisse circuler l'Énergie ('celui qui a' = celui qui fait fructifier par l'amour), l'Énergie abonde. S'il bloque ce flux par l'Ego ('celui qui n'a pas' l'usage du mouvement), l'étincelle finit par s'éteindre totalement en lui." },
-          { "greek": "καὶ", "gloss": "même" },
-          { "greek": "ὃ", "gloss": "ce_qu'" },
-          { "greek": "ἔχει", "gloss": "il_a" },
-          { "greek": "ἀρθήσεται", "gloss": "sera_ôté" },
-          { "greek": "ἀπ’", "gloss": "de" },
-          { "greek": "αὐτοῦ.", "gloss": "lui" }
+          {
+            "greek": "τῷ",
+            "gloss": "À_celui"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἔχοντι",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "παντὶ",
+            "gloss": "tout/à_quiconque"
+          },
+          {
+            "greek": "δοθήσεται",
+            "gloss": "il_sera_donné"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "περισσευθήσεται·",
+            "gloss": "il_sera_dans_l'abondance"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_celui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔχοντος",
+            "gloss": "ayant",
+            "analyse": "Cette phrase choque la morale horizontale, mais c'est la grande loi ontologique du Royaume UN. La Grâce est un flux. Si le Sujet laisse circuler l'Énergie ('celui qui a' = celui qui fait fructifier par l'amour), l'Énergie abonde. S'il bloque ce flux par l'Ego ('celui qui n'a pas' l'usage du mouvement), l'étincelle finit par s'éteindre totalement en lui."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "même"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "ce_qu'"
+          },
+          {
+            "greek": "ἔχει",
+            "gloss": "il_a"
+          },
+          {
+            "greek": "ἀρθήσεται",
+            "gloss": "sera_ôté"
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "de"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -437,32 +1293,173 @@
           "darby": "Et jetez l'esclave inutile dans les ténèbres de dehors : là seront les pleurs et les grincements de dents."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἀχρεῖον", "gloss": "inutile/sans_profit" },
-          { "greek": "δοῦλον", "gloss": "serviteur" },
-          { "greek": "ἐκβάλετε", "gloss": "jetez" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸ", "gloss": "les" },
-          { "greek": "σκότος", "gloss": "ténèbres" },
-          { "greek": "τὸ", "gloss": "les" },
-          { "greek": "ἐξώτερον·", "gloss": "extérieures" },
-          { "greek": "ἐκεῖ", "gloss": "là" },
-          { "greek": "ἔσται", "gloss": "sera/seront" },
-          { "greek": "ὁ", "gloss": "les" },
-          { "greek": "κλαυθμὸς", "gloss": "pleurs" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "les" },
-          { "greek": "βρυγμὸς", "gloss": "grincements" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ὀδόντων.", "gloss": "dents" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀχρεῖον",
+            "gloss": "inutile/sans_profit"
+          },
+          {
+            "greek": "δοῦλον",
+            "gloss": "serviteur"
+          },
+          {
+            "greek": "ἐκβάλετε",
+            "gloss": "jetez"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "les"
+          },
+          {
+            "greek": "σκότος",
+            "gloss": "ténèbres"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐξώτερον·",
+            "gloss": "extérieures"
+          },
+          {
+            "greek": "ἐκεῖ",
+            "gloss": "là"
+          },
+          {
+            "greek": "ἔσται",
+            "gloss": "sera/seront"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "les"
+          },
+          {
+            "greek": "κλαυθμὸς",
+            "gloss": "pleurs"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "les"
+          },
+          {
+            "greek": "βρυγμὸς",
+            "gloss": "grincements"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ὀδόντων.",
+            "gloss": "dents"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 26 - ὀκνηρέ : 'Paresseux' (Segond et Darby). Il ne s'agit pas d'une simple flemme psychologique, mais de l'acédie (la torpeur spirituelle). C'est le refus d'engager sa volonté (*thelema*) dans la synergie avec Dieu.\n• Verset 30 - ἀχρεῖον : Traduit par 'inutile'. Ce mot désigne ce qui ne produit rien, ce qui est dénué de fonction vitale. Un croyant qui enferme l'Incréé en lui sans le faire rayonner par la kénose devient ontologiquement inutile au Corps du Christ.\n\nAnalyse spirituelle :\nCette parabole déconstruit l'illusion d'une religion statique et conservatrice. Le Maître (le Christ) confie ses biens (l'Énergie incréée de la Grâce, et non des capacités intellectuelles ou artistiques naturelles). Il les répartit selon la *dynamis* (réceptivité spirituelle) de chacun.\n\nLes deux premiers serviteurs entrent immédiatement dans le risque de l'Amour. Ils font 'travailler' la Grâce. L'Énergie divine, parce qu'elle circule, se multiplie. Leur récompense n'est pas quantitative (ils ne reçoivent pas un salaire horizontal) mais qualitative : ils entrent dans la 'Joie' (*chara*) du Seigneur. Ils fusionnent avec l'état d'être de l'Incréé.\n\nLe drame du troisième serviteur est le drame de l'Ego religieux. Coupé de l'Amour, il est dominé par la peur (*phobos*). Il projette sur Dieu l'image d'un tyran comptable et redoutable. Il choisit alors d'enterrer son talent : il fige la Grâce dans la matérialité, le moralisme ou la lettre morte. Il cherche à rendre 'exactement ce qui a été donné', évitant le risque de la kénose. Mais Dieu n'est pas un banquier du Monde duel : la Grâce qui ne brûle pas d'amour s'éteint. Être jeté dans les 'ténèbres du dehors' n'est pas une punition juridique, c'est la conséquence tragique de l'isolement du Sujet qui s'est auto-exclu du flux de la Vie."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 26 - ὀκνηρέ : 'Paresseux' (Segond et Darby). Il ne s'agit pas d'une simple flemme psychologique, mais de l'acédie (la torpeur spirituelle). C'est le refus d'engager sa volonté (*thelema*) dans la synergie avec Dieu.\n• Verset 30 - ἀχρεῖον : Traduit par 'inutile'. Ce mot désigne ce qui ne produit rien, ce qui est dénué de fonction vitale. Un croyant qui enferme l'Incréé en lui sans le faire rayonner par la kénose devient ontologiquement inutile au Corps du Christ.\n\nAnalyse spirituelle :\nCette parabole déconstruit l'illusion d'une religion statique et conservatrice. Le Maître (le Christ) confie ses biens (l'Énergie incréée de la Grâce, et non des capacités intellectuelles ou artistiques naturelles). Il les répartit selon la *dynamis* (réceptivité spirituelle) de chacun.\n\nLes deux premiers serviteurs entrent immédiatement dans le risque de l'Amour. Ils font 'travailler' la Grâce. L'Énergie divine, parce qu'elle circule, se multiplie. Leur récompense n'est pas quantitative (ils ne reçoivent pas un salaire horizontal) mais qualitative : ils entrent dans la 'Joie' (*chara*) du Seigneur. Ils fusionnent avec l'état d'être de l'Incréé.\n\nLe drame du troisième serviteur est le drame de l'Ego religieux. Coupé de l'Amour, il est dominé par la peur (*phobos*). Il projette sur Dieu l'image d'un tyran comptable et redoutable. Il choisit alors d'enterrer son talent : il fige la Grâce dans la matérialité, le moralisme ou la lettre morte. Il cherche à rendre 'exactement ce qui a été donné', évitant le risque de la kénose. Mais Dieu n'est pas un banquier du Monde duel : la Grâce qui ne brûle pas d'amour s'éteint. Être jeté dans les 'ténèbres du dehors' n'est pas une punition juridique, c'est la conséquence tragique de l'isolement du Sujet qui s'est auto-exclu du flux de la Vie.",
+    "homiletic_axes": [
+      {
+        "title": "Le don confié appelle une réponse",
+        "content": "Les talents ne sont pas d’abord des qualités possédées, mais un bien confié par le maître. Paul demande de ne pas recevoir la grâce de Dieu en vain : le don devient fécond lorsqu’il est accueilli comme responsabilité.",
+        "keywords": [
+          "τάλαντον — bien confié",
+          "χάρις — grâce",
+          "κενός — vain/vide"
+        ]
+      },
+      {
+        "title": "Aujourd’hui, le temps favorable",
+        "content": "La parabole ouvre un temps d’absence où les serviteurs doivent agir. L’Apôtre insiste : « maintenant » est le temps favorable. La fidélité ne remet pas indéfiniment la réponse à plus tard.",
+        "keywords": [
+          "νῦν — maintenant",
+          "καιρός — temps favorable",
+          "πιστός — fidèle"
+        ]
+      },
+      {
+        "title": "La peur enterre, la confiance fait circuler",
+        "content": "Le troisième serviteur connaît son maître à travers la peur et immobilise le dépôt. Les deux autres entrent dans une relation de confiance qui met le don en mouvement et les fait entrer dans la joie.",
+        "keywords": [
+          "φόβος — peur",
+          "κρύπτω — cacher",
+          "χαρά — joie"
+        ]
+      },
+      {
+        "title": "Riches au cœur du dénuement",
+        "content": "Paul décrit le ministère par des paradoxes : attristés et pourtant toujours joyeux, pauvres et enrichissant plusieurs, n’ayant rien et possédant tout. La fécondité évangélique ne se mesure donc pas à l’accumulation visible.",
+        "keywords": [
+          "πτωχός — pauvre",
+          "πλουτίζω — enrichir",
+          "πάντα — toutes choses"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « La parabole des talents » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Relevez ce qui est reçu, ce qui circule ou demeure enfoui, puis les paradoxes par lesquels Paul décrit la fécondité apostolique."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Ne pas recevoir la grâce en vain",
+        "reference": "Matthieu 25, 14-30 ; 2 Corinthiens 6, 1-10",
+        "content": "Le bien confié dans la parabole et la grâce reçue chez Paul appellent tous deux une réponse présente, confiante et féconde.",
+        "connections": []
+      }
+    ]
   },
   "apostle": {
-"reference": "2 Corinthiens 6, 1-10",
+    "reference": "2 Corinthiens 6, 1-10",
     "title": "La Synergie et les Paradoxes de la Kénose Apostolique",
     "interlinear": [
       {
@@ -472,19 +1469,59 @@
           "darby": "Mais comme travaillant à la même oeuvre, nous vous exhortons aussi à ne pas recevoir la grâce de Dieu en vain"
         },
         "interlinear": [
-          { "greek": "Συνεργοῦντες", "gloss": "Travaillant_ensemble/Collaborant", "analyse": "Le verbe *synergeo* (agir avec, opérer en synergie). La vie spirituelle n'est pas passive. Contrairement au 'mauvais serviteur' de l'Évangile qui enterre son talent, le Sujet est appelé à une synergie totale avec l'Énergie divine (la Grâce)." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "παρακαλοῦμεν", "gloss": "nous_exhortons" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "εἰς", "gloss": "dans_le" },
-          { "greek": "κενὸν", "gloss": "vide/en_vain" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "χάριν", "gloss": "grâce" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "δέξασθαι", "gloss": "recevoir" },
-          { "greek": "ὑμᾶς—", "gloss": "vous" }
+          {
+            "greek": "Συνεργοῦντες",
+            "gloss": "Travaillant_ensemble/Collaborant",
+            "analyse": "Le verbe *synergeo* (agir avec, opérer en synergie). La vie spirituelle n'est pas passive. Contrairement au 'mauvais serviteur' de l'Évangile qui enterre son talent, le Sujet est appelé à une synergie totale avec l'Énergie divine (la Grâce)."
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "παρακαλοῦμεν",
+            "gloss": "nous_exhortons"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans_le"
+          },
+          {
+            "greek": "κενὸν",
+            "gloss": "vide/en_vain"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάριν",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "δέξασθαι",
+            "gloss": "recevoir"
+          },
+          {
+            "greek": "ὑμᾶς—",
+            "gloss": "vous"
+          }
         ]
       },
       {
@@ -494,26 +1531,86 @@
           "darby": "(car il dit : « Au temps agréé je t'ai exaucé, et au jour du salut je t'ai secouru ». Voici, c'est maintenant le temps bien agréé ; voici, c'est maintenant le jour du salut) ;"
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Il_dit" },
-          { "greek": "γάρ·", "gloss": "en_effet" },
-          { "greek": "Καιρῷ", "gloss": "En_un_temps" },
-          { "greek": "δεκτῷ", "gloss": "favorable/agréé" },
-          { "greek": "ἐπήκουσά", "gloss": "j'ai_exaucé" },
-          { "greek": "σου", "gloss": "toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "en_un" },
-          { "greek": "ἡμέρᾳ", "gloss": "jour" },
-          { "greek": "σωτηρίας", "gloss": "de_salut" },
-          { "greek": "ἐβοήθησά", "gloss": "j'ai_secouru" },
-          { "greek": "σοι·", "gloss": "toi" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "καιρὸς", "gloss": "un_temps" },
-          { "greek": "εὐπρόσδεκτος,", "gloss": "très_favorable" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "νῦν", "gloss": "maintenant" },
-          { "greek": "ἡμέρα", "gloss": "jour" },
-          { "greek": "σωτηρίας—", "gloss": "de_salut" }
+          {
+            "greek": "λέγει",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "γάρ·",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "Καιρῷ",
+            "gloss": "En_un_temps"
+          },
+          {
+            "greek": "δεκτῷ",
+            "gloss": "favorable/agréé"
+          },
+          {
+            "greek": "ἐπήκουσά",
+            "gloss": "j'ai_exaucé"
+          },
+          {
+            "greek": "σου",
+            "gloss": "toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en_un"
+          },
+          {
+            "greek": "ἡμέρᾳ",
+            "gloss": "jour"
+          },
+          {
+            "greek": "σωτηρίας",
+            "gloss": "de_salut"
+          },
+          {
+            "greek": "ἐβοήθησά",
+            "gloss": "j'ai_secouru"
+          },
+          {
+            "greek": "σοι·",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "καιρὸς",
+            "gloss": "un_temps"
+          },
+          {
+            "greek": "εὐπρόσδεκτος,",
+            "gloss": "très_favorable"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "ἡμέρα",
+            "gloss": "jour"
+          },
+          {
+            "greek": "σωτηρίας—",
+            "gloss": "de_salut"
+          }
         ]
       },
       {
@@ -523,16 +1620,46 @@
           "darby": "ne donnant aucun scandale en rien, afin que le service ne soit pas blâmé ;"
         },
         "interlinear": [
-          { "greek": "μηδεμίαν", "gloss": "Aucune" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "μηδενὶ", "gloss": "rien" },
-          { "greek": "διδόντες", "gloss": "donnant" },
-          { "greek": "προσκοπήν,", "gloss": "occasion_de_chute/scandale" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "μωμηθῇ", "gloss": "soit_blâmé" },
-          { "greek": "ἡ", "gloss": "le" },
-          { "greek": "διακονία,", "gloss": "ministère/service" }
+          {
+            "greek": "μηδεμίαν",
+            "gloss": "Aucune"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "μηδενὶ",
+            "gloss": "rien"
+          },
+          {
+            "greek": "διδόντες",
+            "gloss": "donnant"
+          },
+          {
+            "greek": "προσκοπήν,",
+            "gloss": "occasion_de_chute/scandale"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "μωμηθῇ",
+            "gloss": "soit_blâmé"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "διακονία,",
+            "gloss": "ministère/service"
+          }
         ]
       },
       {
@@ -542,23 +1669,75 @@
           "darby": "mais en toutes choses nous recommandant comme serviteurs de Dieu, par une grande patience dans les tribulations, dans les nécessités, dans les détresses,"
         },
         "interlinear": [
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "παντὶ", "gloss": "tout" },
-          { "greek": "συνιστάντες", "gloss": "recommandant/établissant" },
-          { "greek": "ἑαυτοὺς", "gloss": "nous-mêmes" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "θεοῦ", "gloss": "de_Dieu" },
-          { "greek": "διάκονοι,", "gloss": "serviteurs" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ὑπομονῇ", "gloss": "endurance/patience", "analyse": "L'*hypomone* (la capacité à rester sous la pression). Le serviteur de l'Incréé ne fuit pas le Monde duel ; il en encaisse les chocs sans se briser, car il est ancré sur l'Axe vertical." },
-          { "greek": "πολλῇ,", "gloss": "grande" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "θλίψεσιν,", "gloss": "pressions/tribulations" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ἀνάγκαις,", "gloss": "nécessités" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "στενοχωρίαις,", "gloss": "angoisses/étroitesses" }
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "παντὶ",
+            "gloss": "tout"
+          },
+          {
+            "greek": "συνιστάντες",
+            "gloss": "recommandant/établissant"
+          },
+          {
+            "greek": "ἑαυτοὺς",
+            "gloss": "nous-mêmes"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "διάκονοι,",
+            "gloss": "serviteurs"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ὑπομονῇ",
+            "gloss": "endurance/patience",
+            "analyse": "L'*hypomone* (la capacité à rester sous la pression). Le serviteur de l'Incréé ne fuit pas le Monde duel ; il en encaisse les chocs sans se briser, car il est ancré sur l'Axe vertical."
+          },
+          {
+            "greek": "πολλῇ,",
+            "gloss": "grande"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "θλίψεσιν,",
+            "gloss": "pressions/tribulations"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἀνάγκαις,",
+            "gloss": "nécessités"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "στενοχωρίαις,",
+            "gloss": "angoisses/étroitesses"
+          }
         ]
       },
       {
@@ -568,18 +1747,54 @@
           "darby": "sous les coups, dans les prisons, dans les troubles, dans les travaux, dans les veilles, dans les jeûnes ;"
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "πληγαῖς,", "gloss": "les_coups" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "φυλακαῖς,", "gloss": "les_prisons" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ἀκαταστασίαις,", "gloss": "les_désordres/troubles" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "κόποις,", "gloss": "les_fatigues/labeurs" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ἀγρυπνίαις,", "gloss": "les_veilles/insomnies" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "νηστείαις,", "gloss": "les_jeûnes" }
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πληγαῖς,",
+            "gloss": "les_coups"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "φυλακαῖς,",
+            "gloss": "les_prisons"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἀκαταστασίαις,",
+            "gloss": "les_désordres/troubles"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κόποις,",
+            "gloss": "les_fatigues/labeurs"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ἀγρυπνίαις,",
+            "gloss": "les_veilles/insomnies"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "νηστείαις,",
+            "gloss": "les_jeûnes"
+          }
         ]
       },
       {
@@ -589,20 +1804,63 @@
           "darby": "par la pureté, par la connaissance, par la longanimité, par la bonté, par l'Esprit Saint, par un amour sans hypocrisie,"
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "dans/par" },
-          { "greek": "ἁγνότητι,", "gloss": "pureté" },
-          { "greek": "ἐν", "gloss": "par" },
-          { "greek": "γνώσει,", "gloss": "connaissance" },
-          { "greek": "ἐν", "gloss": "par" },
-          { "greek": "μακροθυμίᾳ,", "gloss": "longanimité/patience" },
-          { "greek": "ἐν", "gloss": "par" },
-          { "greek": "χρηστότητι,", "gloss": "bonté" },
-          { "greek": "ἐν", "gloss": "par_l'" },
-          { "greek": "πνεύματι", "gloss": "esprit" },
-          { "greek": "ἁγίῳ,", "gloss": "saint" },
-          { "greek": "ἐν", "gloss": "par_un" },
-          { "greek": "ἀγάπῃ", "gloss": "amour" },
-          { "greek": "ἀνυποκρίτῳ,", "gloss": "sans_hypocrisie", "analyse": "L'*agape anypokritos*. L'hypocrisie (jouer la comédie de l'ego, porter un masque) est détruite par l'amour véritable, qui est la transparence absolue du Sujet laissant passer la Grâce." }
+          {
+            "greek": "ἐν",
+            "gloss": "dans/par"
+          },
+          {
+            "greek": "ἁγνότητι,",
+            "gloss": "pureté"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par"
+          },
+          {
+            "greek": "γνώσει,",
+            "gloss": "connaissance"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par"
+          },
+          {
+            "greek": "μακροθυμίᾳ,",
+            "gloss": "longanimité/patience"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par"
+          },
+          {
+            "greek": "χρηστότητι,",
+            "gloss": "bonté"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par_l'"
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "ἁγίῳ,",
+            "gloss": "saint"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par_un"
+          },
+          {
+            "greek": "ἀγάπῃ",
+            "gloss": "amour"
+          },
+          {
+            "greek": "ἀνυποκρίτῳ,",
+            "gloss": "sans_hypocrisie",
+            "analyse": "L'*agape anypokritos*. L'hypocrisie (jouer la comédie de l'ego, porter un masque) est détruite par l'amour véritable, qui est la transparence absolue du Sujet laissant passer la Grâce."
+          }
         ]
       },
       {
@@ -612,21 +1870,67 @@
           "darby": "par la parole de la vérité, par la puissance de Dieu, par les armes de la justice de la main droite et de la main gauche,"
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "par_la" },
-          { "greek": "λόγῳ", "gloss": "parole" },
-          { "greek": "ἀληθείας,", "gloss": "de_vérité" },
-          { "greek": "ἐν", "gloss": "par_la" },
-          { "greek": "δυνάμει", "gloss": "puissance/énergie" },
-          { "greek": "θεοῦ·", "gloss": "de_Dieu" },
-          { "greek": "διὰ", "gloss": "à_travers" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ὅπλων", "gloss": "armes" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "δικαιοσύνης", "gloss": "justice" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "δεξιῶν", "gloss": "droites" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀριστερῶν,", "gloss": "gauches", "analyse": "Les armes à droite (l'épée pour attaquer) et à gauche (le bouclier pour parer). Sur le plan ontologique, c'est l'équilibre parfait du Sujet. Il n'est déséquilibré ni par les attaques (la gauche) ni par les louanges (la droite) ; il maintient son Centre." }
+          {
+            "greek": "ἐν",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "λόγῳ",
+            "gloss": "parole"
+          },
+          {
+            "greek": "ἀληθείας,",
+            "gloss": "de_vérité"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par_la"
+          },
+          {
+            "greek": "δυνάμει",
+            "gloss": "puissance/énergie"
+          },
+          {
+            "greek": "θεοῦ·",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὅπλων",
+            "gloss": "armes"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "δικαιοσύνης",
+            "gloss": "justice"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "δεξιῶν",
+            "gloss": "droites"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀριστερῶν,",
+            "gloss": "gauches",
+            "analyse": "Les armes à droite (l'épée pour attaquer) et à gauche (le bouclier pour parer). Sur le plan ontologique, c'est l'équilibre parfait du Sujet. Il n'est déséquilibré ni par les attaques (la gauche) ni par les louanges (la droite) ; il maintient son Centre."
+          }
         ]
       },
       {
@@ -636,18 +1940,54 @@
           "darby": "dans la gloire et dans l'ignominie, dans la mauvaise et dans la bonne renommée ; comme séducteurs, et véritables ;"
         },
         "interlinear": [
-          { "greek": "διὰ", "gloss": "à_travers" },
-          { "greek": "δόξης", "gloss": "gloire" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀτιμίας,", "gloss": "déshonneur" },
-          { "greek": "διὰ", "gloss": "à_travers" },
-          { "greek": "δυσφημίας", "gloss": "mauvaise_réputation" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "εὐφημίας·", "gloss": "bonne_réputation" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "πλάνοι", "gloss": "imposteurs/errants" },
-          { "greek": "καὶ", "gloss": "et_pourtant" },
-          { "greek": "ἀληθεῖς,", "gloss": "vrais" }
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "δόξης",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀτιμίας,",
+            "gloss": "déshonneur"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "δυσφημίας",
+            "gloss": "mauvaise_réputation"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εὐφημίας·",
+            "gloss": "bonne_réputation"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "πλάνοι",
+            "gloss": "imposteurs/errants"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et_pourtant"
+          },
+          {
+            "greek": "ἀληθεῖς,",
+            "gloss": "vrais"
+          }
         ]
       },
       {
@@ -657,20 +1997,62 @@
           "darby": "comme inconnus, et bien connus ; comme mourants, et voici, nous vivons ; comme châtiés, et non mis à mort ;"
         },
         "interlinear": [
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "ἀγνοούμενοι", "gloss": "inconnus/ignorés" },
-          { "greek": "καὶ", "gloss": "et_pourtant" },
-          { "greek": "ἐπιγινωσκόμενοι,", "gloss": "parfaitement_connus" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "ἀποθνῄσκοντες", "gloss": "mourants" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "ζῶμεν,", "gloss": "nous_vivons" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "παιδευόμενοι", "gloss": "châtiés/éduqués" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μὴ", "gloss": "non" },
-          { "greek": "θανατούμενοι,", "gloss": "mis_à_mort" }
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἀγνοούμενοι",
+            "gloss": "inconnus/ignorés"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et_pourtant"
+          },
+          {
+            "greek": "ἐπιγινωσκόμενοι,",
+            "gloss": "parfaitement_connus"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ἀποθνῄσκοντες",
+            "gloss": "mourants"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "ζῶμεν,",
+            "gloss": "nous_vivons"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "παιδευόμενοι",
+            "gloss": "châtiés/éduqués"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "θανατούμενοι,",
+            "gloss": "mis_à_mort"
+          }
         ]
       },
       {
@@ -680,27 +2062,158 @@
           "darby": "comme attristés, mais toujours joyeux ; comme pauvres, mais enrichissant plusieurs ; comme n'ayant rien, et possédant toutes choses."
         },
         "interlinear": [
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "λυπούμενοι", "gloss": "attristés" },
-          { "greek": "ἀεὶ", "gloss": "toujours" },
-          { "greek": "δὲ", "gloss": "mais" },
-          { "greek": "χαίροντες,", "gloss": "nous_réjouissant" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "πτωχοὶ", "gloss": "pauvres" },
-          { "greek": "πολλοὺς", "gloss": "beaucoup_de_gens" },
-          { "greek": "δὲ", "gloss": "mais" },
-          { "greek": "πλουτίζοντες,", "gloss": "enrichissant" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "μηδὲν", "gloss": "rien" },
-          { "greek": "ἔχοντες", "gloss": "ayant" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πάντα", "gloss": "toutes_choses" },
-          { "greek": "κατέχοντες.", "gloss": "possédant_pleinement", "analyse": "Le grand paradoxe final de la kénose. *Echein* c'est avoir (la possession matérielle et égotique, qui est toujours une illusion). *Katechein*, c'est contenir, embrasser ontologiquement. Le Sujet, vidé de son Ego ('comme n'ayant rien'), devient l'écrin transparent qui contient l'Incréé ('possédant tout')." }
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "λυπούμενοι",
+            "gloss": "attristés"
+          },
+          {
+            "greek": "ἀεὶ",
+            "gloss": "toujours"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "χαίροντες,",
+            "gloss": "nous_réjouissant"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "πτωχοὶ",
+            "gloss": "pauvres"
+          },
+          {
+            "greek": "πολλοὺς",
+            "gloss": "beaucoup_de_gens"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "πλουτίζοντες,",
+            "gloss": "enrichissant"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "μηδὲν",
+            "gloss": "rien"
+          },
+          {
+            "greek": "ἔχοντες",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "κατέχοντες.",
+            "gloss": "possédant_pleinement",
+            "analyse": "Le grand paradoxe final de la kénose. *Echein* c'est avoir (la possession matérielle et égotique, qui est toujours une illusion). *Katechein*, c'est contenir, embrasser ontologiquement. Le Sujet, vidé de son Ego ('comme n'ayant rien'), devient l'écrin transparent qui contient l'Incréé ('possédant tout')."
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 1 - Συνεργοῦντες : 'Nous travaillons avec Dieu' (Segond). La traduction littérale est simplement 'Travaillant en synergie'. Le mot est capital car il définit l'anthropologie spirituelle orthodoxe : le salut n'est pas imposé de l'extérieur, il nécessite la coopération active et risquée (la *synergia*) de la volonté humaine avec l'Énergie divine.\n• Verset 10 - ἔχοντες / κατέχοντες : La distinction entre les deux verbes est souvent lissée en français ('ayant' / 'possédant'). *Echo* désigne l'avoir ordinaire, la possession horizontale. *Katecho* implique une étreinte, une maîtrise totale, une contenance absolue. On passe de l'Avoir illusoire du Monde duel à l'Être unifié du Royaume.\n\nAnalyse spirituelle :\nSi l'Évangile nous mettait en garde contre la peur qui paralyse la Grâce (le serviteur qui enterre son talent), l'Apôtre Paul nous offre ici le portrait de celui qui, au contraire, fait fructifier la Vie divine en bravant toutes les tempêtes du Monde duel.\n\nLa première partie du texte (v. 4-5) dresse le catalogue effrayant des 'pressions' de l'horizontalité : coups, prisons, détresses, nuits sans sommeil. Le serviteur de Dieu n'est pas un être éthéré planant au-dessus des réalités matérielles. Il est plongé au cœur du chaos. Mais, au lieu de réagir par la violence ou de s'effondrer, il y déploie la *dynamis* (l'énergie) de l'Esprit : amour sans masque, pureté, patience (v. 6-7).\n\nLe sommet du texte réside dans la série de paradoxes des versets 8 à 10. C'est la radiographie exacte du Sujet libéré de l'Ego. L'Ego a besoin de la validation extérieure pour exister : il veut être glorieux, riche, de bonne réputation. Le Sujet christique a traversé la kénose (le dépouillement). Puisqu'il est mort à son image mondaine ('comme mourants'), le mépris ou la pauvreté ne l'atteignent plus. Horizontale-ment, il semble être un perdant qui n'a 'rien' ; ontologique-ment, parce qu'il est connecté à la Source, il est celui qui 'possède tout' et qui a le pouvoir d'enrichir les autres. C'est cela, avoir fait fructifier ses talents : devenir un distributeur infini de la Joie incréée."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 1 - Συνεργοῦντες : 'Nous travaillons avec Dieu' (Segond). La traduction littérale est simplement 'Travaillant en synergie'. Le mot est capital car il définit l'anthropologie spirituelle orthodoxe : le salut n'est pas imposé de l'extérieur, il nécessite la coopération active et risquée (la *synergia*) de la volonté humaine avec l'Énergie divine.\n• Verset 10 - ἔχοντες / κατέχοντες : La distinction entre les deux verbes est souvent lissée en français ('ayant' / 'possédant'). *Echo* désigne l'avoir ordinaire, la possession horizontale. *Katecho* implique une étreinte, une maîtrise totale, une contenance absolue. On passe de l'Avoir illusoire du Monde duel à l'Être unifié du Royaume.\n\nAnalyse spirituelle :\nSi l'Évangile nous mettait en garde contre la peur qui paralyse la Grâce (le serviteur qui enterre son talent), l'Apôtre Paul nous offre ici le portrait de celui qui, au contraire, fait fructifier la Vie divine en bravant toutes les tempêtes du Monde duel.\n\nLa première partie du texte (v. 4-5) dresse le catalogue effrayant des 'pressions' de l'horizontalité : coups, prisons, détresses, nuits sans sommeil. Le serviteur de Dieu n'est pas un être éthéré planant au-dessus des réalités matérielles. Il est plongé au cœur du chaos. Mais, au lieu de réagir par la violence ou de s'effondrer, il y déploie la *dynamis* (l'énergie) de l'Esprit : amour sans masque, pureté, patience (v. 6-7).\n\nLe sommet du texte réside dans la série de paradoxes des versets 8 à 10. C'est la radiographie exacte du Sujet libéré de l'Ego. L'Ego a besoin de la validation extérieure pour exister : il veut être glorieux, riche, de bonne réputation. Le Sujet christique a traversé la kénose (le dépouillement). Puisqu'il est mort à son image mondaine ('comme mourants'), le mépris ou la pauvreté ne l'atteignent plus. Horizontale-ment, il semble être un perdant qui n'a 'rien' ; ontologique-ment, parce qu'il est connecté à la Source, il est celui qui 'possède tout' et qui a le pouvoir d'enrichir les autres. C'est cela, avoir fait fructifier ses talents : devenir un distributeur infini de la Joie incréée.",
+    "homiletic_axes": [
+      {
+        "title": "Le don confié appelle une réponse",
+        "content": "Les talents ne sont pas d’abord des qualités possédées, mais un bien confié par le maître. Paul demande de ne pas recevoir la grâce de Dieu en vain : le don devient fécond lorsqu’il est accueilli comme responsabilité.",
+        "keywords": [
+          "τάλαντον — bien confié",
+          "χάρις — grâce",
+          "κενός — vain/vide"
+        ]
+      },
+      {
+        "title": "Aujourd’hui, le temps favorable",
+        "content": "La parabole ouvre un temps d’absence où les serviteurs doivent agir. L’Apôtre insiste : « maintenant » est le temps favorable. La fidélité ne remet pas indéfiniment la réponse à plus tard.",
+        "keywords": [
+          "νῦν — maintenant",
+          "καιρός — temps favorable",
+          "πιστός — fidèle"
+        ]
+      },
+      {
+        "title": "La peur enterre, la confiance fait circuler",
+        "content": "Le troisième serviteur connaît son maître à travers la peur et immobilise le dépôt. Les deux autres entrent dans une relation de confiance qui met le don en mouvement et les fait entrer dans la joie.",
+        "keywords": [
+          "φόβος — peur",
+          "κρύπτω — cacher",
+          "χαρά — joie"
+        ]
+      },
+      {
+        "title": "Riches au cœur du dénuement",
+        "content": "Paul décrit le ministère par des paradoxes : attristés et pourtant toujours joyeux, pauvres et enrichissant plusieurs, n’ayant rien et possédant tout. La fécondité évangélique ne se mesure donc pas à l’accumulation visible.",
+        "keywords": [
+          "πτωχός — pauvre",
+          "πλουτίζω — enrichir",
+          "πάντα — toutes choses"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « La parabole des talents » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Relevez ce qui est reçu, ce qui circule ou demeure enfoui, puis les paradoxes par lesquels Paul décrit la fécondité apostolique."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Ne pas recevoir la grâce en vain",
+        "reference": "Matthieu 25, 14-30 ; 2 Corinthiens 6, 1-10",
+        "content": "Le bien confié dans la parabole et la grâce reçue chez Paul appellent tous deux une réponse présente, confiante et féconde.",
+        "connections": []
+      }
+    ]
   }
 }
-      
- 

@@ -3,614 +3,1975 @@
     "reference": "Jean 1, 43-51",
     "title": "Le Triomphe de l'Orthodoxie : Philippe et Nathanaël",
     "interlinear": [
-      
-      
-        {
-    "verse_number": 43,
-    "translations": {
-      "segond": "Le lendemain, Jésus voulut se rendre en Galilée, et il rencontra Philippe. Il lui dit : Suis-moi.",
-      "darby": "Le lendemain, il voulut s'en aller en Galilée. Et Jésus trouve Philippe, et lui dit : Suis-moi."
-    },
-    "interlinear": [
-      { "greek": "Τῇ", "gloss": "Le" },
-      { "greek": "ἐπαύριον", "gloss": "lendemain" },
-      { "greek": "ἠθέλησεν", "gloss": "il_voulut" },
-      { "greek": "ἐξελθεῖν", "gloss": "sortir/partir" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "Γαλιλαίαν,", "gloss": "Galilée" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "εὑρίσκει", "gloss": "il_trouve" },
-      { "greek": "Φίλιππον.", "gloss": "Philippe" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "λέγει", "gloss": "dit" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
-      { "greek": "Ἀκολούθει", "gloss": "Suis" },
-      { "greek": "μοι.", "gloss": "moi" }
+      {
+        "verse_number": 43,
+        "translations": {
+          "segond": "Le lendemain, Jésus voulut se rendre en Galilée, et il rencontra Philippe. Il lui dit : Suis-moi.",
+          "darby": "Le lendemain, il voulut s'en aller en Galilée. Et Jésus trouve Philippe, et lui dit : Suis-moi."
+        },
+        "interlinear": [
+          {
+            "greek": "Τῇ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "ἐπαύριον",
+            "gloss": "lendemain"
+          },
+          {
+            "greek": "ἠθέλησεν",
+            "gloss": "il_voulut"
+          },
+          {
+            "greek": "ἐξελθεῖν",
+            "gloss": "sortir/partir"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "Γαλιλαίαν,",
+            "gloss": "Galilée"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εὑρίσκει",
+            "gloss": "il_trouve"
+          },
+          {
+            "greek": "Φίλιππον.",
+            "gloss": "Philippe"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Ἀκολούθει",
+            "gloss": "Suis"
+          },
+          {
+            "greek": "μοι.",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 44,
+        "translations": {
+          "segond": "Philippe était de Bethsaïda, de la ville d'André et de Pierre.",
+          "darby": "Or Philippe était de Bethsaïda, de la ville d'André et de Pierre."
+        },
+        "interlinear": [
+          {
+            "greek": "ἦν",
+            "gloss": "Était"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Φίλιππος",
+            "gloss": "Philippe"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Βηθσαϊδά,",
+            "gloss": "Bethsaïda"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "πόλεως",
+            "gloss": "ville"
+          },
+          {
+            "greek": "Ἀνδρέου",
+            "gloss": "d'André"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Πέτρου.",
+            "gloss": "de_Pierre"
+          }
+        ]
+      },
+      {
+        "verse_number": 45,
+        "translations": {
+          "segond": "Philippe rencontra Nathanaël, et lui dit : Nous avons trouvé celui de qui Moïse a écrit dans la loi et dont les prophètes ont parlé, Jésus de Nazareth, fils de Joseph.",
+          "darby": "Philippe trouve Nathanaël et lui dit : Nous avons trouvé celui de qui Moïse a écrit dans la loi et dont les prophètes ont écrit, Jésus, le fils de Joseph, qui est de Nazareth."
+        },
+        "interlinear": [
+          {
+            "greek": "εὑρίσκει",
+            "gloss": "Trouve"
+          },
+          {
+            "greek": "Φίλιππος",
+            "gloss": "Philippe"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ναθαναὴλ",
+            "gloss": "Nathanaël"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ὃν",
+            "gloss": "Celui_que"
+          },
+          {
+            "greek": "ἔγραψεν",
+            "gloss": "a_écrit"
+          },
+          {
+            "greek": "Μωϋσῆς",
+            "gloss": "Moïse"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "νόμῳ",
+            "gloss": "loi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "προφῆται",
+            "gloss": "prophètes"
+          },
+          {
+            "greek": "εὑρήκαμεν,",
+            "gloss": "nous_avons_trouvé"
+          },
+          {
+            "greek": "Ἰησοῦν",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "υἱὸν",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "Ἰωσὴφ",
+            "gloss": "Joseph"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ναζαρέτ.",
+            "gloss": "Nazareth"
+          }
+        ]
+      },
+      {
+        "verse_number": 46,
+        "translations": {
+          "segond": "Nathanaël lui dit : Peut-il venir de Nazareth quelque chose de bon ? Philippe lui répondit : Viens, et vois.",
+          "darby": "Et Nathanaël lui dit : Peut-il venir quelque chose de bon de Nazareth ? Philippe lui dit : Viens et vois."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ναθαναήλ·",
+            "gloss": "Nathanaël"
+          },
+          {
+            "greek": "Ἐκ",
+            "gloss": "De"
+          },
+          {
+            "greek": "Ναζαρὲτ",
+            "gloss": "Nazareth"
+          },
+          {
+            "greek": "δύναταί",
+            "gloss": "peut-il"
+          },
+          {
+            "greek": "τι",
+            "gloss": "quelque_chose"
+          },
+          {
+            "greek": "ἀγαθὸν",
+            "gloss": "de_bon"
+          },
+          {
+            "greek": "εἶναι;",
+            "gloss": "être"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Φίλιππος·",
+            "gloss": "Philippe"
+          },
+          {
+            "greek": "Ἔρχου",
+            "gloss": "Viens",
+            "analyse": "Le 'Monde duel' fonctionne par préjugés idéologiques ('Peut-il venir de Nazareth quelque chose de bon ?'). L'ego classe, juge et objective l'autre selon son origine ou ses idées. La réponse de Philippe ('Viens et vois') est la destruction de l'idéologie : la vérité ne s'argumente pas, elle s'expérimente dans une rencontre de Sujet à Sujet."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἴδε.",
+            "gloss": "vois"
+          }
+        ]
+      },
+      {
+        "verse_number": 47,
+        "translations": {
+          "segond": "Jésus, voyant venir à lui Nathanaël, dit de lui : Voici vraiment un Israélite, dans lequel il n'y a point de fraude.",
+          "darby": "Jésus vit Nathanaël venir vers lui, et il dit de lui : Voici un véritable Israélite, en qui il n'y a pas de fraude."
+        },
+        "interlinear": [
+          {
+            "greek": "εἶδεν",
+            "gloss": "Vit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ναθαναὴλ",
+            "gloss": "Nathanaël"
+          },
+          {
+            "greek": "ἐρχόμενον",
+            "gloss": "venant"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "lui"
+          },
+          {
+            "greek": "Ἴδε",
+            "gloss": "Voici"
+          },
+          {
+            "greek": "ἀληθῶς",
+            "gloss": "vraiment"
+          },
+          {
+            "greek": "Ἰσραηλίτης,",
+            "gloss": "Israélite"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ᾧ",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "δόλος",
+            "gloss": "fraude/ruse",
+            "analyse": "Le mot *dolos* désigne la tromperie, l'artifice ou le masque.  'être sans ruse', c'est avoir fait tomber les masques de l'hypocrisie du Monde duel (cf. dimanche précédent). Nathanaël ne joue plus de rôle. Il est un 'sujet' authentique, prêt pour la vraie rencontre. C'est pourquoi le Christ le reconnaît immédiatement."
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔστιν.",
+            "gloss": "est"
+          }
+        ]
+      },
+      {
+        "verse_number": 48,
+        "translations": {
+          "segond": "D'où me connais-tu ? lui dit Nathanaël. Jésus lui répondit : Avant que Philippe t'appelât, quand tu étais sous le figuier, je t'ai vu.",
+          "darby": "Nathanaël lui dit : D'où me connais-tu ? Jésus répondit et lui dit : Avant que Philippe t'eût appelé, quand tu étais sous le figuier, je te voyais."
+        },
+        "interlinear": [
+          {
+            "greek": "λέγει",
+            "gloss": "Dit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ναθαναήλ·",
+            "gloss": "Nathanaël"
+          },
+          {
+            "greek": "Πόθεν",
+            "gloss": "D'où"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "γινώσκεις;",
+            "gloss": "connais-tu"
+          },
+          {
+            "greek": "ἀπεκρίθη",
+            "gloss": "Répondit"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Πρὸ",
+            "gloss": "Avant"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "que"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "Φίλιππον",
+            "gloss": "Philippe"
+          },
+          {
+            "greek": "φωνῆσαι",
+            "gloss": "ait_appelé"
+          },
+          {
+            "greek": "ὄντα",
+            "gloss": "étant"
+          },
+          {
+            "greek": "ὑπὸ",
+            "gloss": "sous"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "συκῆν",
+            "gloss": "figuier",
+            "analyse": "Le 'figuier' représentait souvent, chez les rabbins, le lieu de l'étude et de la prière. Mais ici, 'être sous le figuier', c'est être dans la crypte de son propre cœur, dans le lieu secret (le Royaume UN). Le Christ voit Nathanaël non pas avec les yeux de la chair, mais de Sujet à Sujet, avant même la rencontre physique."
+          },
+          {
+            "greek": "εἶδόν",
+            "gloss": "j'ai_vu"
+          },
+          {
+            "greek": "σε.",
+            "gloss": "toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 49,
+        "translations": {
+          "segond": "Nathanaël répondit et lui dit : Rabbi, tu es le Fils de Dieu, tu es le roi d'Israël.",
+          "darby": "Nathanaël répondit et lui dit : Rabbi, tu es le Fils de Dieu, tu es le roi d'Israël."
+        },
+        "interlinear": [
+          {
+            "greek": "ἀπεκρίθη",
+            "gloss": "Répondit"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ναθαναήλ·",
+            "gloss": "Nathanaël"
+          },
+          {
+            "greek": "Ῥαββί,",
+            "gloss": "Rabbi"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "εἶ",
+            "gloss": "tu_es"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "βασιλεὺς",
+            "gloss": "roi"
+          },
+          {
+            "greek": "εἶ",
+            "gloss": "tu_es"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "d'Israël"
+          },
+          {
+            "greek": "Ἰσραήλ.",
+            "gloss": "Israël"
+          }
+        ]
+      },
+      {
+        "verse_number": 50,
+        "translations": {
+          "segond": "Jésus lui répondit : Parce que je t'ai dit que je t'ai vu sous le figuier, tu crois ; tu verras de plus grandes choses que celles-ci.",
+          "darby": "Jésus répondit et lui dit : Parce que je t'ai dit : Je te voyais sous le figuier, tu crois ? Tu verras de plus grandes choses que celles-ci."
+        },
+        "interlinear": [
+          {
+            "greek": "ἀπεκρίθη",
+            "gloss": "Répondit"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ὅτι",
+            "gloss": "Parce_que"
+          },
+          {
+            "greek": "εἶπόν",
+            "gloss": "j'ai_dit"
+          },
+          {
+            "greek": "σοι",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "εἶδόν",
+            "gloss": "j'ai_vu"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ὑποκάτω",
+            "gloss": "en_dessous"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "συκῆς,",
+            "gloss": "figuier"
+          },
+          {
+            "greek": "πιστεύεις;",
+            "gloss": "tu_crois"
+          },
+          {
+            "greek": "μείζω",
+            "gloss": "de_plus_grandes_choses"
+          },
+          {
+            "greek": "τούτων",
+            "gloss": "que_celles-ci"
+          },
+          {
+            "greek": "ὄψῃ.",
+            "gloss": "tu_verras"
+          }
+        ]
+      },
+      {
+        "verse_number": 51,
+        "translations": {
+          "segond": "Et il lui dit : En vérité, en vérité, je vous le dis, vous verrez désormais le ciel ouvert et les anges de Dieu monter et descendre sur le Fils de l'homme.",
+          "darby": "Et il lui dit : En vérité, en vérité, je vous dis : Désormais vous verrez le ciel ouvert, et les anges de Dieu montant et descendant sur le fils de l'homme."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἀμὴν",
+            "gloss": "En_vérité"
+          },
+          {
+            "greek": "ἀμὴν",
+            "gloss": "en_vérité"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὄψεσθε",
+            "gloss": "vous_verrez"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὐρανὸν",
+            "gloss": "ciel"
+          },
+          {
+            "greek": "ἀνεῳγότα",
+            "gloss": "ouvert",
+            "analyse": "Le 'ciel ouvert' est la fin de la séparation ontologique. Le Fils de l'homme (l'Incarnation) est l'Échelle de Jacob (Genèse 28) : Il unit définitivement le divin et l'humain, détruisant la coupure du Monde duel. L'Icône, fêtée ce dimanche, témoigne exactement de cette réalité : la matière (le bois, les couleurs, la chair humaine) est devenue le réceptacle transparent des énergies divines."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀγγέλους",
+            "gloss": "anges"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἀναβαίνοντας",
+            "gloss": "montant",
+            "annotation": {
+              "type": "theologie",
+              "title": "Les anges montant et descendant",
+              "content": "Ἀναβαίνω répond ici à καταβαίνω. Le ciel demeure ouvert sur le Fils de l’homme : les deux mouvements expriment moins une séparation entre deux mondes qu’une communion rendue visible en Christ.",
+              "related": ["καταβαίνοντας", "ἀνεῳγότα", "υἱὸν"]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "καταβαίνοντας",
+            "gloss": "descendant",
+            "annotation": {
+              "type": "theologie",
+              "title": "Une circulation sur le Fils de l’homme",
+              "content": "Καταβαίνω complète ἀναβαίνω dans l’image de l’échelle de Jacob. La lecture spirituelle peut y contempler la circulation du don divin et de la réponse humaine ; le centre grammatical et théologique de la vision demeure le Fils de l’homme.",
+              "related": ["ἀναβαίνοντας", "ἀγγέλους", "υἱὸν"]
+            }
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸν",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου.",
+            "gloss": "homme"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 47 - δόλος : Traduit par 'fraude', ce mot grec a un sens beaucoup plus théâtral et guerrier : c'est l'artifice, le piège, ou l'appât (le Cheval de Troie était un *dolos*). Ne pas avoir de *dolos*, c'est refuser d'avancer masqué, c'est la pureté d'intention absolue.\n• Verset 51 - ἀνεῳγότα : C'est un participe parfait. Le parfait en grec indique une action passée dont les effets durent dans le présent. Littéralement : 'Le ciel ayant été ouvert et demeurant ouvert à jamais'. L'incarnation a brisé définitivement le plafond de verre.\n• Verset 51 - ὑμῖν / ὄψεσθε : Le passage du singulier au pluriel est invisible si on ne lit pas le grec (ou le vieux français 'vous'). Jésus parlait à Nathanaël (tu verras - ὄψῃ), puis soudain Il s'adresse à toute l'Église : 'VOUS verrez le ciel ouvert'.\n\nAnalyse spirituelle :\nCe premier dimanche du Grand Carême célèbre le Triomphe de l'Orthodoxie (la restauration de la vénération des Saintes Icônes en 843). Ce récit évangélique a été choisi car il illustre parfaitement le passage de l'idole à l'Icône, c'est-à-dire le passage de l'idéologie à la communion.\n\nNathanaël commence par réagir depuis le 'Monde duel' : il juge selon l'étiquette et le préjugé ('Peut-il venir quelque chose de bon de Nazareth ?'). Philippe ne tente pas de le convaincre par des arguments philosophiques : il l'invite à l'expérience ('Viens et vois'). La rencontre avec le Christ fulgure Nathanaël parce qu'il se sent vu *de l'intérieur*, dans la crypte de son cœur ('sous le figuier'), en tant que Sujet. \nL'icône n'est rien d'autre que cela. L'Orthodoxie ne vénère pas du bois ou de la peinture (cela serait de l'idolâtrie). Elle vénère le Sujet divin qui se rend présent à travers la matière. Le Christ est l'Icône absolue du Père. En Lui, le ciel est désormais 'ouvert' : la matière n'est plus une barrière opaque, elle est devenue l'Échelle de Jacob où Dieu et l'homme se rencontrent.",
+    "homiletic_axes": [
+      {
+        "title": "Venir et voir",
+        "content": "Philippe transmet une invitation reçue : « Viens et vois ». La foi n’est pas une idée imposée, mais une rencontre avec le Christ qui connaît déjà Nathanaël et l’appelle à une confession personnelle.",
+        "keywords": [
+          "ἔρχομαι — venir",
+          "ὁράω — voir",
+          "γινώσκω — connaître"
+        ]
+      },
+      {
+        "title": "Sous le figuier : de l’attente à la rencontre",
+        "content": "Le regard du Christ précède celui de Nathanaël. Ce qui mûrissait dans le secret reçoit une parole, traverse l’attente puis s’accomplit dans la rencontre : un mouvement fécondation, espérance et reconnaissance déjà mis en valeur dans les cours.",
+        "keywords": [
+          "συκή — figuier",
+          "εἶδόν σε — je t’ai vu",
+          "ῥαββί — Rabbi"
+        ]
+      },
+      {
+        "title": "Confesser au milieu de la nuée des témoins",
+        "content": "Nathanaël confesse le Fils de Dieu et le Roi d’Israël. Hébreux inscrit cette confession dans la longue fidélité de Moïse, des prophètes et des martyrs, jusqu’à la nuée de témoins qui entoure la course chrétienne.",
+        "keywords": [
+          "ὁμολογία — confession",
+          "πίστις — foi",
+          "νέφος μαρτύρων — nuée de témoins"
+        ]
+      },
+      {
+        "title": "L’image restaurée ouvre le ciel",
+        "content": "Le Triomphe de l’Orthodoxie célèbre le Verbe véritablement incarné et donc représentable. Le ciel ouvert et les anges montant et descendant sur le Fils de l’homme manifestent que la matière et l’histoire peuvent devenir lieu de communion avec Dieu.",
+        "keywords": [
+          "εἰκών — image",
+          "σάρκωσις — incarnation",
+          "ἀνεῳγότα — ouvert"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la foi des témoins à la vision du Christ",
+        "reference": "Jean 1, 43-51 ; Hébreux 11, 24-26 ; 32 - 12, 2",
+        "content": "Les témoins d’Hébreux courent les yeux fixés sur Jésus ; Nathanaël est conduit à voir et à confesser celui qui ouvre le ciel. La foi reçue devient rencontre, confession et témoignage.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Triomphe de l’Orthodoxie » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
   },
-  {
-    "verse_number": 44,
-    "translations": {
-      "segond": "Philippe était de Bethsaïda, de la ville d'André et de Pierre.",
-      "darby": "Or Philippe était de Bethsaïda, de la ville d'André et de Pierre."
-    },
+  "apostle": {
+    "reference": "Hébreux 11, 24-26 ; 32 - 12, 2",
+    "title": "La Foi des Pères et le Nuage des Témoins",
     "interlinear": [
-      { "greek": "ἦν", "gloss": "Était" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Φίλιππος", "gloss": "Philippe" },
-      { "greek": "ἀπὸ", "gloss": "de" },
-      { "greek": "Βηθσαϊδά,", "gloss": "Bethsaïda" },
-      { "greek": "ἐκ", "gloss": "de" },
-      { "greek": "τῆς", "gloss": "la" },
-      { "greek": "πόλεως", "gloss": "ville" },
-      { "greek": "Ἀνδρέου", "gloss": "d'André" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "Πέτρου.", "gloss": "de_Pierre" }
+      {
+        "verse_number": "11, 24",
+        "translations": {
+          "segond": "C'est par la foi que Moïse, devenu grand, refusa d'être appelé fils de la fille de Pharaon,",
+          "darby": "Par la foi, Moïse, étant devenu grand, refusa d'être appelé fils de la fille du Pharaon,"
+        },
+        "interlinear": [
+          {
+            "greek": "Πίστει",
+            "gloss": "Par_la_foi"
+          },
+          {
+            "greek": "Μωϋσῆς",
+            "gloss": "Moïse"
+          },
+          {
+            "greek": "μέγας",
+            "gloss": "grand"
+          },
+          {
+            "greek": "γενόμενος",
+            "gloss": "étant_devenu"
+          },
+          {
+            "greek": "ἠρνήσατο",
+            "gloss": "refusa",
+            "analyse": "Le verbe *arneomai* signifie renier, refuser catégoriquement. Moïse refuse le titre, le pouvoir et l'identité artificielle ('fils de la fille de Pharaon') que lui offre l'Égypte.l'acte inaugural du salut, c'est refuser le masque et l'objectivation du 'Monde duel' pour chercher sa véritable identité de Sujet en Dieu."
+          },
+          {
+            "greek": "λέγεσθαι",
+            "gloss": "d'être_appelé"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "θυγατρὸς",
+            "gloss": "de_la_fille"
+          },
+          {
+            "greek": "Φαραώ,",
+            "gloss": "de_Pharaon"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 25",
+        "translations": {
+          "segond": "aimant mieux être maltraité avec le peuple de Dieu que d'avoir pour un temps la jouissance du péché,",
+          "darby": "choisissant plutôt d'être dans l'affliction avec le peuple de Dieu, que de jouir pour un temps des délices du péché,"
+        },
+        "interlinear": [
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plutôt"
+          },
+          {
+            "greek": "ἑλόμενος",
+            "gloss": "ayant_choisi"
+          },
+          {
+            "greek": "συγκακουχεῖσθαι",
+            "gloss": "d'être_maltraité_avec"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λαῷ",
+            "gloss": "peuple"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "que"
+          },
+          {
+            "greek": "πρόσκαιρον",
+            "gloss": "passagère/pour_un_temps"
+          },
+          {
+            "greek": "ἔχειν",
+            "gloss": "d'avoir"
+          },
+          {
+            "greek": "ἁμαρτίας",
+            "gloss": "du_péché"
+          },
+          {
+            "greek": "ἀπόλαυσιν,",
+            "gloss": "jouissance"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 26",
+        "translations": {
+          "segond": "regardant l'opprobre de Christ comme une richesse plus grande que les trésors de l'Égypte, car il avait les yeux fixés sur la rémunération.",
+          "darby": "estimant l'opprobre du Christ une plus grande richesse que les trésors de l'Égypte ; car il regardait à la rémunération."
+        },
+        "interlinear": [
+          {
+            "greek": "μείζονα",
+            "gloss": "plus_grande"
+          },
+          {
+            "greek": "πλοῦτον",
+            "gloss": "richesse"
+          },
+          {
+            "greek": "ἡγησάμενος",
+            "gloss": "ayant_estimé"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "que_les"
+          },
+          {
+            "greek": "Αἰγύπτου",
+            "gloss": "d'Égypte"
+          },
+          {
+            "greek": "θησαυρῶν",
+            "gloss": "trésors"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὀνειδισμὸν",
+            "gloss": "opprobre/honte"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Χριστοῦ,",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ἀπέβλεπεν",
+            "gloss": "il_avait_les_yeux_fixés",
+            "analyse": "Du verbe *apoblepo* (regarder au loin, détourner son regard pour le fixer ailleurs). C'est exactement l'attitude de l'orant devant l'Icône. Moïse détourne les yeux des trésors matériels de l'Égypte pour fixer son cœur sur la réalité invisible du Christ. C'est l'antidote à l'idolâtrie."
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "μισθαποδοσίαν.",
+            "gloss": "rémunération/récompense"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 32",
+        "translations": {
+          "segond": "Et que dirai-je encore ? Car le temps me manquerait pour parler de Gédéon, de Barak, de Samson, de Jephthé, de David, de Samuel, et des prophètes,",
+          "darby": "Et que dirai-je encore ? car le temps me manquera si je raconte ce qui concerne Gédéon, Barak, Samson, Jephthé, David, Samuel, et les prophètes,"
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τί",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "encore"
+          },
+          {
+            "greek": "λέγω;",
+            "gloss": "dirai-je"
+          },
+          {
+            "greek": "ἐπιλείψει",
+            "gloss": "manquera"
+          },
+          {
+            "greek": "με",
+            "gloss": "me"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "διηγούμενον",
+            "gloss": "racontant"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "χρόνος",
+            "gloss": "temps"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "Γεδεών,",
+            "gloss": "Gédéon"
+          },
+          {
+            "greek": "Βαράκ,",
+            "gloss": "Barak"
+          },
+          {
+            "greek": "Σαμψών,",
+            "gloss": "Samson"
+          },
+          {
+            "greek": "Ἰεφθάε,",
+            "gloss": "Jephthé"
+          },
+          {
+            "greek": "Δαυίδ",
+            "gloss": "David"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Σαμουὴλ",
+            "gloss": "Samuel"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "προφητῶν,",
+            "gloss": "prophètes"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 33",
+        "translations": {
+          "segond": "qui, par la foi, vainquirent des royaumes, exercèrent la justice, obtinrent des promesses, fermèrent la gueule des lions,",
+          "darby": "qui par la foi ont subjugué des royaumes, opéré la justice, obtenu les promesses, fermé la gueule des lions,"
+        },
+        "interlinear": [
+          {
+            "greek": "οἳ",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi"
+          },
+          {
+            "greek": "κατηγωνίσαντο",
+            "gloss": "vainquirent"
+          },
+          {
+            "greek": "βασιλείας,",
+            "gloss": "royaumes"
+          },
+          {
+            "greek": "εἰργάσαντο",
+            "gloss": "exercèrent"
+          },
+          {
+            "greek": "δικαιοσύνην,",
+            "gloss": "justice"
+          },
+          {
+            "greek": "ἐπέτυχον",
+            "gloss": "obtinrent"
+          },
+          {
+            "greek": "ἐπαγγελιῶν,",
+            "gloss": "promesses"
+          },
+          {
+            "greek": "ἔφραξαν",
+            "gloss": "fermèrent"
+          },
+          {
+            "greek": "στόματα",
+            "gloss": "gueules"
+          },
+          {
+            "greek": "λεόντων,",
+            "gloss": "de_lions"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 34",
+        "translations": {
+          "segond": "éteignirent la puissance du feu, échappèrent au tranchant de l'épée, guérirent de leurs maladies, furent vaillants à la guerre, mirent en fuite des armées étrangères.",
+          "darby": "éteint la force du feu, échappé au tranchant de l'épée, tiré de la faiblesse de la force, ont été rendus vigoureux dans la bataille, ont fait ployer les armées des étrangers."
+        },
+        "interlinear": [
+          {
+            "greek": "ἔσβεσαν",
+            "gloss": "éteignirent"
+          },
+          {
+            "greek": "δύναμιν",
+            "gloss": "puissance"
+          },
+          {
+            "greek": "πυρός,",
+            "gloss": "du_feu"
+          },
+          {
+            "greek": "ἔφυγον",
+            "gloss": "fuirent/échappèrent"
+          },
+          {
+            "greek": "στόματα",
+            "gloss": "bouches/tranchants"
+          },
+          {
+            "greek": "μαχαίρης,",
+            "gloss": "de_l'épée"
+          },
+          {
+            "greek": "ἐδυναμώθησαν",
+            "gloss": "furent_rendus_forts"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "à_partir_de"
+          },
+          {
+            "greek": "ἀσθενείας,",
+            "gloss": "faiblesse"
+          },
+          {
+            "greek": "ἐγενήθησαν",
+            "gloss": "devinrent"
+          },
+          {
+            "greek": "ἰσχυροὶ",
+            "gloss": "forts"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "πολέμῳ,",
+            "gloss": "guerre"
+          },
+          {
+            "greek": "παρεμβολὰς",
+            "gloss": "camps/armées"
+          },
+          {
+            "greek": "ἔκλιναν",
+            "gloss": "firent_plier/mirent_en_fuite"
+          },
+          {
+            "greek": "ἀλλοτρίων·",
+            "gloss": "d'étrangers"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 35",
+        "translations": {
+          "segond": "Des femmes recouvrèrent leurs morts par la résurrection; d'autres furent livrés aux tourments, et n'acceptèrent point de délivrance, afin d'obtenir une meilleure résurrection;",
+          "darby": "Des femmes ont recouvré leurs morts par la résurrection ; et d'autres ont été torturés, n'acceptant pas la délivrance, afin d'obtenir une meilleure résurrection ;"
+        },
+        "interlinear": [
+          {
+            "greek": "ἔλαβον",
+            "gloss": "Recouvrèrent"
+          },
+          {
+            "greek": "γυναῖκες",
+            "gloss": "des_femmes"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἀναστάσεως",
+            "gloss": "résurrection"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "νεκροὺς",
+            "gloss": "morts"
+          },
+          {
+            "greek": "αὐτῶν·",
+            "gloss": "d'elles"
+          },
+          {
+            "greek": "ἄλλοι",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "et/or"
+          },
+          {
+            "greek": "ἐτυμπανίσθησαν,",
+            "gloss": "furent_torturés"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "προσδεξάμενοι",
+            "gloss": "ayant_accepté"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀπολύτρωσιν,",
+            "gloss": "délivrance/rachat"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_d'"
+          },
+          {
+            "greek": "κρείττονος",
+            "gloss": "d'une_meilleure"
+          },
+          {
+            "greek": "ἀναστάσεως",
+            "gloss": "résurrection"
+          },
+          {
+            "greek": "τύχωσιν·",
+            "gloss": "ils_obtiennent"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 36",
+        "translations": {
+          "segond": "d'autres subirent les moqueries et le fouet, les chaînes et la prison;",
+          "darby": "et d'autres ont passé par l'épreuve des moqueries et des coups de fouet, et aussi des liens et de la prison :"
+        },
+        "interlinear": [
+          {
+            "greek": "ἕτεροι",
+            "gloss": "d'autres"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "et/or"
+          },
+          {
+            "greek": "ἐμπαιγμῶν",
+            "gloss": "de_moqueries"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μαστίγων",
+            "gloss": "de_fouets"
+          },
+          {
+            "greek": "πεῖραν",
+            "gloss": "l'épreuve"
+          },
+          {
+            "greek": "ἔλαβον,",
+            "gloss": "reçurent"
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "encore/et_aussi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "δεσμῶν",
+            "gloss": "de_liens/chaînes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φυλακῆς·",
+            "gloss": "de_prison"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 37",
+        "translations": {
+          "segond": "ils furent lapidés, sciés, torturés, ils moururent tués par l'épée, ils allèrent çà et là vêtus de peaux de brebis et de peaux de chèvres, dénués de tout, persécutés, maltraités,",
+          "darby": "ils ont été lapidés, ils ont été sciés, ils ont été tentés, ils ont été mis à mort par l'épée ; ils ont erré çà et là, vêtus de peaux de brebis, de peaux de chèvres, dans les privations, les afflictions, les mauvais traitements,"
+        },
+        "interlinear": [
+          {
+            "greek": "ἐλιθάσθησαν,",
+            "gloss": "ils_furent_lapidés"
+          },
+          {
+            "greek": "ἐπρίσθησαν,",
+            "gloss": "ils_furent_sciés"
+          },
+          {
+            "greek": "ἐπειράσθησαν,",
+            "gloss": "ils_furent_tentés/éprouvés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/par"
+          },
+          {
+            "greek": "φόνον",
+            "gloss": "meurtre"
+          },
+          {
+            "greek": "μαχαίρης",
+            "gloss": "de_l'épée"
+          },
+          {
+            "greek": "ἀπέθανον,",
+            "gloss": "ils_moururent"
+          },
+          {
+            "greek": "περιῆλθον",
+            "gloss": "ils_allèrent_çà_et_là"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/avec"
+          },
+          {
+            "greek": "μηλωταῖς,",
+            "gloss": "peaux_de_brebis"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/avec"
+          },
+          {
+            "greek": "αἰγείοις",
+            "gloss": "de_chèvres"
+          },
+          {
+            "greek": "δέρμασιν,",
+            "gloss": "peaux"
+          },
+          {
+            "greek": "ὑστερούμενοι,",
+            "gloss": "manquant_de_tout"
+          },
+          {
+            "greek": "θλιβόμενοι,",
+            "gloss": "pressés/affligés"
+          },
+          {
+            "greek": "κακουχούμενοι,",
+            "gloss": "maltraîtés"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 38",
+        "translations": {
+          "segond": "eux dont le monde n'était pas digne, errants dans les déserts et les montagnes, dans les cavernes et les antres de la terre.",
+          "darby": "(desquels le monde n'était pas digne), errant dans les déserts et les montagnes, et les cavernes et les trous de la terre."
+        },
+        "interlinear": [
+          {
+            "greek": "ὧν",
+            "gloss": "desquels"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ἄξιος",
+            "gloss": "digne",
+            "analyse": "Le Monde duel (le système d'aliénation et de pouvoir) n'est pas 'digne' (axios : de même poids) que les Saints. Les martyrs pèsent du poids de la gloire divine. Le monde les rejette parce qu'ils sont la preuve vivante qu'une autre réalité, le Royaume UN, existe déjà au milieu de nous."
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμος,",
+            "gloss": "monde"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur/dans"
+          },
+          {
+            "greek": "ἐρημίαις",
+            "gloss": "déserts"
+          },
+          {
+            "greek": "πλανώμενοι",
+            "gloss": "errant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὄρεσιν",
+            "gloss": "montagnes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σπηλαίοις",
+            "gloss": "cavernes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὀπαῖς",
+            "gloss": "trous/antres"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "γῆς.",
+            "gloss": "terre"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 39",
+        "translations": {
+          "segond": "Tous ceux-là, à la foi desquels il a été rendu témoignage, n'ont pas obtenu ce qui leur était promis,",
+          "darby": "Et tous ceux-ci, ayant reçu témoignage par la foi, n'ont pas reçu la chose promise,"
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "οὗτοι",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "μαρτυρηθέντες",
+            "gloss": "ayant_reçu_témoignage"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "n'ont_pas"
+          },
+          {
+            "greek": "ἐκομίσαντο",
+            "gloss": "obtenu/remporté"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐπαγγελίαν,",
+            "gloss": "promesse"
+          }
+        ]
+      },
+      {
+        "verse_number": "11, 40",
+        "translations": {
+          "segond": "Dieu ayant en vue quelque chose de meilleur pour nous, afin qu'ils ne parvinssent pas sans nous à la perfection.",
+          "darby": "Dieu ayant en vue quelque chose de meilleur pour nous, afin qu'ils ne parvinssent pas à la perfection sans nous."
+        },
+        "interlinear": [
+          {
+            "greek": "τοῦ",
+            "gloss": "—"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "pour/au_sujet_de"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "κρεῖττόν",
+            "gloss": "quelque_chose_de_meilleur"
+          },
+          {
+            "greek": "τι",
+            "gloss": "quelque"
+          },
+          {
+            "greek": "προβλεψαμένου,",
+            "gloss": "ayant_prévu"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "χωρὶς",
+            "gloss": "sans"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "τελειωθῶσιν.",
+            "gloss": "ils_soient_rendus_parfaits",
+            "analyse": "Le salut n'est pas un accomplissement individuel. L'Église est un organisme, le Corps total du Christ. Les prophètes de l'Ancien Testament attendaient notre époque (l'Église) pour que la communion soit totale. C'est l'essence même de la 'Synaxe' (l'assemblée eucharistique) : vivants et endormis forment un seul Sujet en Christ."
+          }
+        ]
+      },
+      {
+        "verse_number": "12, 1",
+        "translations": {
+          "segond": "Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetons tout fardeau, et le péché qui nous enveloppe si facilement, et courons avec persévérance dans la carrière qui nous est ouverte,",
+          "darby": "C'est pourquoi, nous aussi, ayant une si grande nuée de témoins qui nous entoure, rejetant tout fardeau et le péché qui nous enveloppe si facilement, courons avec patience la course qui est devant nous,"
+        },
+        "interlinear": [
+          {
+            "greek": "Τοιγαροῦν",
+            "gloss": "C'est_pourquoi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἡμεῖς,",
+            "gloss": "nous"
+          },
+          {
+            "greek": "τοσοῦτον",
+            "gloss": "une_si_grande"
+          },
+          {
+            "greek": "ἔχοντες",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "περικείμενον",
+            "gloss": "placée_autour_de"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "νέφος",
+            "gloss": "nuée",
+            "analyse": "La 'nuée de témoins' (nephos martyron) ! C'est la fondation biblique de l'iconostase et des fresques de nos églises. Les Saints ne sont pas de simples souvenirs, ils sont une présence active, une nuée céleste qui nous environne pendant la prière pour nous arracher au Monde duel et nous tirer vers la Lumière."
+          },
+          {
+            "greek": "μαρτύρων,",
+            "gloss": "de_témoins/martyrs"
+          },
+          {
+            "greek": "ὄγκον",
+            "gloss": "fardeau/poids"
+          },
+          {
+            "greek": "ἀποθέμενοι",
+            "gloss": "ayant_rejeté"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "εὐπερίστατον",
+            "gloss": "qui_enveloppe_facilement"
+          },
+          {
+            "greek": "ἁμαρτίαν,",
+            "gloss": "péché"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ὑπομονῆς",
+            "gloss": "persévérance/patience"
+          },
+          {
+            "greek": "τρέχωμεν",
+            "gloss": "courons"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "προκείμενον",
+            "gloss": "qui_est_placée_devant"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἀγῶνα,",
+            "gloss": "course/combat"
+          }
+        ]
+      },
+      {
+        "verse_number": "12, 2",
+        "translations": {
+          "segond": "ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.",
+          "darby": "fixant les yeux sur Jésus, le chef et le consommateur de la foi, lequel, à cause de la joie qui lui était proposée, a enduré la croix, ayant méprisé la honte, et est assis à la droite du trône de Dieu."
+        },
+        "interlinear": [
+          {
+            "greek": "ἀφορῶντες",
+            "gloss": "ayant_les_regards_fixés",
+            "analyse": "Le verbe *aphorao* (regarder attentivement au loin, détourner le regard d'ailleurs pour le concentrer sur une cible). C'est l'acte intime de la vénération de l'Icône. On détourne son regard de l'illusion des choses terrestres pour devenir un vrai Sujet, captivé par le Visage du Christ."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "sur/vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi"
+          },
+          {
+            "greek": "ἀρχηγὸν",
+            "gloss": "chef/auteur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τελειωτὴν",
+            "gloss": "consommateur/finisseur"
+          },
+          {
+            "greek": "Ἰησοῦν,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "ἀντὶ",
+            "gloss": "en_vue_de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "προκειμένης",
+            "gloss": "qui_était_placée_devant"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "χαρᾶς",
+            "gloss": "joie"
+          },
+          {
+            "greek": "ὑπέμεινεν",
+            "gloss": "endura"
+          },
+          {
+            "greek": "σταυρὸν",
+            "gloss": "croix"
+          },
+          {
+            "greek": "αἰσχύνης",
+            "gloss": "la_honte/l'ignominie"
+          },
+          {
+            "greek": "καταφρονήσας,",
+            "gloss": "l'ayant_méprisée"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "à"
+          },
+          {
+            "greek": "δεξιᾷ",
+            "gloss": "la_droite"
+          },
+          {
+            "greek": "τε",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "θρόνου",
+            "gloss": "trône"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "κεκάθικεν.",
+            "gloss": "s'est_assis"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 39 - μαρτυρηθέντες : Segond et Darby traduisent ce participe par 'à la foi desquels il a été rendu témoignage'. Il s'agit du verbe *martyreo*, dont vient le mot 'martyr' (le témoin absolu, jusqu'au sang).\n• Verset 12, 1 - νέφος μαρτύρων : Littéralement 'nuée de martyrs / de témoins'. Le mot *nephos* désigne un nuage épais qui enveloppe totalement, une métaphore grandiose de la présence spirituelle des saints tout autour de l'orant.\n• Verset 12, 2 - ἀφορῶντες : Darby utilise 'fixant les yeux', ce qui rend très bien la force de la préposition *apo* dans ce verbe, qui implique l'idée de détourner son regard des choses environnantes (le péché, le fardeau) pour le river exclusivement sur le Christ.\n\nAnalyse spirituelle :\nCette épître éclaire d'une lumière resplendissante le 'Triomphe de l'Orthodoxie'. Pourquoi l'Église a-t-elle lutté jusqu'au sang contre l'iconoclasme (la destruction des icônes) ? Parce que l'Icône n'est pas de l'art décoratif : elle est la théologie visuelle de l'Incarnation. L'Apôtre nous rappelle que les Prophètes et les Justes de l'Ancien Testament ont souffert le martyre, méprisés par le 'Monde duel', sans pour autant voir l'accomplissement final (le Christ).\n\nAujourd'hui, dans l'Église, la déchirure du temps et de l'espace est réparée. Les saints ne sont pas morts ; ils forment cette prodigieuse 'nuée de témoins' qui tapisse l'iconostase et les murs du temple. En vénérant leurs icônes, nous confessons qu'ils ont trouvé la guérison de la nature humaine : ils sont devenus de véritables Sujets, greffés sur le Royaume UN. L'ascèse du Carême (rejeter le fardeau du péché) a pour unique but de rendre notre cœur semblable à une icône épurée, afin que nous puissions, nous aussi, 'fixer les regards' (*aphorontes*) sur le grand Archétype : Christ, notre Seigneur.",
+    "homiletic_axes": [
+      {
+        "title": "Venir et voir",
+        "content": "Philippe transmet une invitation reçue : « Viens et vois ». La foi n’est pas une idée imposée, mais une rencontre avec le Christ qui connaît déjà Nathanaël et l’appelle à une confession personnelle.",
+        "keywords": [
+          "ἔρχομαι — venir",
+          "ὁράω — voir",
+          "γινώσκω — connaître"
+        ]
+      },
+      {
+        "title": "Sous le figuier : de l’attente à la rencontre",
+        "content": "Le regard du Christ précède celui de Nathanaël. Ce qui mûrissait dans le secret reçoit une parole, traverse l’attente puis s’accomplit dans la rencontre : un mouvement fécondation, espérance et reconnaissance déjà mis en valeur dans les cours.",
+        "keywords": [
+          "συκή — figuier",
+          "εἶδόν σε — je t’ai vu",
+          "ῥαββί — Rabbi"
+        ]
+      },
+      {
+        "title": "Confesser au milieu de la nuée des témoins",
+        "content": "Nathanaël confesse le Fils de Dieu et le Roi d’Israël. Hébreux inscrit cette confession dans la longue fidélité de Moïse, des prophètes et des martyrs, jusqu’à la nuée de témoins qui entoure la course chrétienne.",
+        "keywords": [
+          "ὁμολογία — confession",
+          "πίστις — foi",
+          "νέφος μαρτύρων — nuée de témoins"
+        ]
+      },
+      {
+        "title": "L’image restaurée ouvre le ciel",
+        "content": "Le Triomphe de l’Orthodoxie célèbre le Verbe véritablement incarné et donc représentable. Le ciel ouvert et les anges montant et descendant sur le Fils de l’homme manifestent que la matière et l’histoire peuvent devenir lieu de communion avec Dieu.",
+        "keywords": [
+          "εἰκών — image",
+          "σάρκωσις — incarnation",
+          "ἀνεῳγότα — ouvert"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la foi des témoins à la vision du Christ",
+        "reference": "Jean 1, 43-51 ; Hébreux 11, 24-26 ; 32 - 12, 2",
+        "content": "Les témoins d’Hébreux courent les yeux fixés sur Jésus ; Nathanaël est conduit à voir et à confesser celui qui ouvre le ciel. La foi reçue devient rencontre, confession et témoignage.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Triomphe de l’Orthodoxie » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, mouvements et oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
-  },
-  {
-    "verse_number": 45,
-    "translations": {
-      "segond": "Philippe rencontra Nathanaël, et lui dit : Nous avons trouvé celui de qui Moïse a écrit dans la loi et dont les prophètes ont parlé, Jésus de Nazareth, fils de Joseph.",
-      "darby": "Philippe trouve Nathanaël et lui dit : Nous avons trouvé celui de qui Moïse a écrit dans la loi et dont les prophètes ont écrit, Jésus, le fils de Joseph, qui est de Nazareth."
-    },
-    "interlinear": [
-      { "greek": "εὑρίσκει", "gloss": "Trouve" },
-      { "greek": "Φίλιππος", "gloss": "Philippe" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "Ναθαναὴλ", "gloss": "Nathanaël" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "λέγει", "gloss": "dit" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Ὃν", "gloss": "Celui_que" },
-      { "greek": "ἔγραψεν", "gloss": "a_écrit" },
-      { "greek": "Μωϋσῆς", "gloss": "Moïse" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῷ", "gloss": "la" },
-      { "greek": "νόμῳ", "gloss": "loi" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "προφῆται", "gloss": "prophètes" },
-      { "greek": "εὑρήκαμεν,", "gloss": "nous_avons_trouvé" },
-      { "greek": "Ἰησοῦν", "gloss": "Jésus" },
-      { "greek": "υἱὸν", "gloss": "fils" },
-      { "greek": "τοῦ", "gloss": "de_le" },
-      { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "ἀπὸ", "gloss": "de" },
-      { "greek": "Ναζαρέτ.", "gloss": "Nazareth" }
-    ]
-  },
-  {
-    "verse_number": 46,
-    "translations": {
-      "segond": "Nathanaël lui dit : Peut-il venir de Nazareth quelque chose de bon ? Philippe lui répondit : Viens, et vois.",
-      "darby": "Et Nathanaël lui dit : Peut-il venir quelque chose de bon de Nazareth ? Philippe lui dit : Viens et vois."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "Ναθαναήλ·", "gloss": "Nathanaël" },
-      { "greek": "Ἐκ", "gloss": "De" },
-      { "greek": "Ναζαρὲτ", "gloss": "Nazareth" },
-      { "greek": "δύναταί", "gloss": "peut-il" },
-      { "greek": "τι", "gloss": "quelque_chose" },
-      { "greek": "ἀγαθὸν", "gloss": "de_bon" },
-      { "greek": "εἶναι;", "gloss": "être" },
-      { "greek": "λέγει", "gloss": "dit" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "Φίλιππος·", "gloss": "Philippe" },
-      { "greek": "Ἔρχου", "gloss": "Viens", "analyse": "Le 'Monde duel' fonctionne par préjugés idéologiques ('Peut-il venir de Nazareth quelque chose de bon ?'). L'ego classe, juge et objective l'autre selon son origine ou ses idées. La réponse de Philippe ('Viens et vois') est la destruction de l'idéologie : la vérité ne s'argumente pas, elle s'expérimente dans une rencontre de Sujet à Sujet." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἴδε.", "gloss": "vois" }
-    ]
-  },
-  {
-  "verse_number": 47,
-    "translations": {
-      "segond": "Jésus, voyant venir à lui Nathanaël, dit de lui : Voici vraiment un Israélite, dans lequel il n'y a point de fraude.",
-      "darby": "Jésus vit Nathanaël venir vers lui, et il dit de lui : Voici un véritable Israélite, en qui il n'y a pas de fraude."
-    },
-    "interlinear": [
-      { "greek": "εἶδεν", "gloss": "Vit" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "Ναθαναὴλ", "gloss": "Nathanaël" },
-      { "greek": "ἐρχόμενον", "gloss": "venant" },
-      { "greek": "πρὸς", "gloss": "vers" },
-      { "greek": "αὐτὸν", "gloss": "lui" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "λέγει", "gloss": "dit" },
-      { "greek": "περὶ", "gloss": "au_sujet_de" },
-      { "greek": "αὐτοῦ·", "gloss": "lui" },
-      { "greek": "Ἴδε", "gloss": "Voici" },
-      { "greek": "ἀληθῶς", "gloss": "vraiment" },
-      { "greek": "Ἰσραηλίτης,", "gloss": "Israélite" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "ᾧ", "gloss": "lequel" },
-      { "greek": "δόλος", "gloss": "fraude/ruse", "analyse": "Le mot *dolos* désigne la tromperie, l'artifice ou le masque.  'être sans ruse', c'est avoir fait tomber les masques de l'hypocrisie du Monde duel (cf. dimanche précédent). Nathanaël ne joue plus de rôle. Il est un 'sujet' authentique, prêt pour la vraie rencontre. C'est pourquoi le Christ le reconnaît immédiatement." },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἔστιν.", "gloss": "est" }
-    ]
-  },
-  {
-    "verse_number": 48,
-    "translations": {
-      "segond": "D'où me connais-tu ? lui dit Nathanaël. Jésus lui répondit : Avant que Philippe t'appelât, quand tu étais sous le figuier, je t'ai vu.",
-      "darby": "Nathanaël lui dit : D'où me connais-tu ? Jésus répondit et lui dit : Avant que Philippe t'eût appelé, quand tu étais sous le figuier, je te voyais."
-    },
-    "interlinear": [
-      { "greek": "λέγει", "gloss": "Dit" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "Ναθαναήλ·", "gloss": "Nathanaël" },
-      { "greek": "Πόθεν", "gloss": "D'où" },
-      { "greek": "με", "gloss": "moi" },
-      { "greek": "γινώσκεις;", "gloss": "connais-tu" },
-      { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Πρὸ", "gloss": "Avant" },
-      { "greek": "τοῦ", "gloss": "que" },
-      { "greek": "σε", "gloss": "toi" },
-      { "greek": "Φίλιππον", "gloss": "Philippe" },
-      { "greek": "φωνῆσαι", "gloss": "ait_appelé" },
-      { "greek": "ὄντα", "gloss": "étant" },
-      { "greek": "ὑπὸ", "gloss": "sous" },
-      { "greek": "τὴν", "gloss": "le" },
-      { "greek": "συκῆν", "gloss": "figuier", "analyse": "Le 'figuier' représentait souvent, chez les rabbins, le lieu de l'étude et de la prière. Mais ici, 'être sous le figuier', c'est être dans la crypte de son propre cœur, dans le lieu secret (le Royaume UN). Le Christ voit Nathanaël non pas avec les yeux de la chair, mais de Sujet à Sujet, avant même la rencontre physique." },
-      { "greek": "εἶδόν", "gloss": "j'ai_vu" },
-      { "greek": "σε.", "gloss": "toi" }
-    ]
-  },
-  {
-    "verse_number": 49,
-    "translations": {
-      "segond": "Nathanaël répondit et lui dit : Rabbi, tu es le Fils de Dieu, tu es le roi d'Israël.",
-      "darby": "Nathanaël répondit et lui dit : Rabbi, tu es le Fils de Dieu, tu es le roi d'Israël."
-    },
-    "interlinear": [
-      { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "Ναθαναήλ·", "gloss": "Nathanaël" },
-      { "greek": "Ῥαββί,", "gloss": "Rabbi" },
-      { "greek": "σὺ", "gloss": "toi" },
-      { "greek": "εἶ", "gloss": "tu_es" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "τοῦ", "gloss": "de_le" },
-      { "greek": "θεοῦ,", "gloss": "Dieu" },
-      { "greek": "σὺ", "gloss": "toi" },
-      { "greek": "βασιλεὺς", "gloss": "roi" },
-      { "greek": "εἶ", "gloss": "tu_es" },
-      { "greek": "τοῦ", "gloss": "d'Israël" },
-      { "greek": "Ἰσραήλ.", "gloss": "Israël" }
-    ]
-  },
-  {
-    "verse_number": 50,
-    "translations": {
-      "segond": "Jésus lui répondit : Parce que je t'ai dit que je t'ai vu sous le figuier, tu crois ; tu verras de plus grandes choses que celles-ci.",
-      "darby": "Jésus répondit et lui dit : Parce que je t'ai dit : Je te voyais sous le figuier, tu crois ? Tu verras de plus grandes choses que celles-ci."
-    },
-    "interlinear": [
-      { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
-      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "εἶπεν", "gloss": "dit" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Ὅτι", "gloss": "Parce_que" },
-      { "greek": "εἶπόν", "gloss": "j'ai_dit" },
-      { "greek": "σοι", "gloss": "à_toi" },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "εἶδόν", "gloss": "j'ai_vu" },
-      { "greek": "σε", "gloss": "toi" },
-      { "greek": "ὑποκάτω", "gloss": "en_dessous" },
-      { "greek": "τῆς", "gloss": "du" },
-      { "greek": "συκῆς,", "gloss": "figuier" },
-      { "greek": "πιστεύεις;", "gloss": "tu_crois" },
-      { "greek": "μείζω", "gloss": "de_plus_grandes_choses" },
-      { "greek": "τούτων", "gloss": "que_celles-ci" },
-      { "greek": "ὄψῃ.", "gloss": "tu_verras" }
-    ]
-  },
-  {
-    "verse_number": 51,
-    "translations": {
-      "segond": "Et il lui dit : En vérité, en vérité, je vous le dis, vous verrez désormais le ciel ouvert et les anges de Dieu monter et descendre sur le Fils de l'homme.",
-      "darby": "Et il lui dit : En vérité, en vérité, je vous dis : Désormais vous verrez le ciel ouvert, et les anges de Dieu montant et descendant sur le fils de l'homme."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "λέγει", "gloss": "il_dit" },
-      { "greek": "αὐτῷ·", "gloss": "à_lui" },
-      { "greek": "Ἀμὴν", "gloss": "En_vérité" },
-      { "greek": "ἀμὴν", "gloss": "en_vérité" },
-      { "greek": "λέγω", "gloss": "je_dis" },
-      { "greek": "ὑμῖν,", "gloss": "à_vous" },
-      { "greek": "ὄψεσθε", "gloss": "vous_verrez" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "οὐρανὸν", "gloss": "ciel" },
-      { "greek": "ἀνεῳγότα", "gloss": "ouvert", "analyse": "Le 'ciel ouvert' est la fin de la séparation ontologique. Le Fils de l'homme (l'Incarnation) est l'Échelle de Jacob (Genèse 28) : Il unit définitivement le divin et l'humain, détruisant la coupure du Monde duel. L'Icône, fêtée ce dimanche, témoigne exactement de cette réalité : la matière (le bois, les couleurs, la chair humaine) est devenue le réceptacle transparent des énergies divines." },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ἀγγέλους", "gloss": "anges" },
-      { "greek": "τοῦ", "gloss": "de_le" },
-      { "greek": "θεοῦ", "gloss": "Dieu" },
-      { "greek": "ἀναβαίνοντας", "gloss": "montant" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "καταβαίνοντας", "gloss": "descendant" },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "υἱὸν", "gloss": "fils" },
-      { "greek": "τοῦ", "gloss": "de_l'" },
-      { "greek": "ἀνθρώπου.", "gloss": "homme" }
-    ]
-  }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 47 - δόλος : Traduit par 'fraude', ce mot grec a un sens beaucoup plus théâtral et guerrier : c'est l'artifice, le piège, ou l'appât (le Cheval de Troie était un *dolos*). Ne pas avoir de *dolos*, c'est refuser d'avancer masqué, c'est la pureté d'intention absolue.\n• Verset 51 - ἀνεῳγότα : C'est un participe parfait. Le parfait en grec indique une action passée dont les effets durent dans le présent. Littéralement : 'Le ciel ayant été ouvert et demeurant ouvert à jamais'. L'incarnation a brisé définitivement le plafond de verre.\n• Verset 51 - ὑμῖν / ὄψεσθε : Le passage du singulier au pluriel est invisible si on ne lit pas le grec (ou le vieux français 'vous'). Jésus parlait à Nathanaël (tu verras - ὄψῃ), puis soudain Il s'adresse à toute l'Église : 'VOUS verrez le ciel ouvert'.\n\nAnalyse spirituelle :\nCe premier dimanche du Grand Carême célèbre le Triomphe de l'Orthodoxie (la restauration de la vénération des Saintes Icônes en 843). Ce récit évangélique a été choisi car il illustre parfaitement le passage de l'idole à l'Icône, c'est-à-dire le passage de l'idéologie à la communion.\n\nNathanaël commence par réagir depuis le 'Monde duel' : il juge selon l'étiquette et le préjugé ('Peut-il venir quelque chose de bon de Nazareth ?'). Philippe ne tente pas de le convaincre par des arguments philosophiques : il l'invite à l'expérience ('Viens et vois'). La rencontre avec le Christ fulgure Nathanaël parce qu'il se sent vu *de l'intérieur*, dans la crypte de son cœur ('sous le figuier'), en tant que Sujet. \nL'icône n'est rien d'autre que cela. L'Orthodoxie ne vénère pas du bois ou de la peinture (cela serait de l'idolâtrie). Elle vénère le Sujet divin qui se rend présent à travers la matière. Le Christ est l'Icône absolue du Père. En Lui, le ciel est désormais 'ouvert' : la matière n'est plus une barrière opaque, elle est devenue l'Échelle de Jacob où Dieu et l'homme se rencontrent."    
-  },
-"apostle": {
-  "reference": "Hébreux 11, 24-26 ; 32 - 12, 2",
-  "title": "La Foi des Pères et le Nuage des Témoins",
-  "interlinear": [
-   {
-    "verse_number": "11, 24",
-    "translations": {
-      "segond": "C'est par la foi que Moïse, devenu grand, refusa d'être appelé fils de la fille de Pharaon,",
-      "darby": "Par la foi, Moïse, étant devenu grand, refusa d'être appelé fils de la fille du Pharaon,"
-    },
-    "interlinear": [
-      { "greek": "Πίστει", "gloss": "Par_la_foi" },
-      { "greek": "Μωϋσῆς", "gloss": "Moïse" },
-      { "greek": "μέγας", "gloss": "grand" },
-      { "greek": "γενόμενος", "gloss": "étant_devenu" },
-      { "greek": "ἠρνήσατο", "gloss": "refusa", "analyse": "Le verbe *arneomai* signifie renier, refuser catégoriquement. Moïse refuse le titre, le pouvoir et l'identité artificielle ('fils de la fille de Pharaon') que lui offre l'Égypte.l'acte inaugural du salut, c'est refuser le masque et l'objectivation du 'Monde duel' pour chercher sa véritable identité de Sujet en Dieu." },
-      { "greek": "λέγεσθαι", "gloss": "d'être_appelé" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "θυγατρὸς", "gloss": "de_la_fille" },
-      { "greek": "Φαραώ,", "gloss": "de_Pharaon" }
-    ]
-  },
-  {
-    "verse_number": "11, 25",
-    "translations": {
-      "segond": "aimant mieux être maltraité avec le peuple de Dieu que d'avoir pour un temps la jouissance du péché,",
-      "darby": "choisissant plutôt d'être dans l'affliction avec le peuple de Dieu, que de jouir pour un temps des délices du péché,"
-    },
-    "interlinear": [
-      { "greek": "μᾶλλον", "gloss": "plutôt" },
-      { "greek": "ἑλόμενος", "gloss": "ayant_choisi" },
-      { "greek": "συγκακουχεῖσθαι", "gloss": "d'être_maltraité_avec" },
-      { "greek": "τῷ", "gloss": "le" },
-      { "greek": "λαῷ", "gloss": "peuple" },
-      { "greek": "τοῦ", "gloss": "de" },
-      { "greek": "θεοῦ", "gloss": "Dieu" },
-      { "greek": "ἢ", "gloss": "que" },
-      { "greek": "πρόσκαιρον", "gloss": "passagère/pour_un_temps" },
-      { "greek": "ἔχειν", "gloss": "d'avoir" },
-      { "greek": "ἁμαρτίας", "gloss": "du_péché" },
-      { "greek": "ἀπόλαυσιν,", "gloss": "jouissance" }
-    ]
-  },
-  {
-    "verse_number": "11, 26",
-    "translations": {
-      "segond": "regardant l'opprobre de Christ comme une richesse plus grande que les trésors de l'Égypte, car il avait les yeux fixés sur la rémunération.",
-      "darby": "estimant l'opprobre du Christ une plus grande richesse que les trésors de l'Égypte ; car il regardait à la rémunération."
-    },
-    "interlinear": [
-      { "greek": "μείζονα", "gloss": "plus_grande" },
-      { "greek": "πλοῦτον", "gloss": "richesse" },
-      { "greek": "ἡγησάμενος", "gloss": "ayant_estimé" },
-      { "greek": "τῶν", "gloss": "que_les" },
-      { "greek": "Αἰγύπτου", "gloss": "d'Égypte" },
-      { "greek": "θησαυρῶν", "gloss": "trésors" },
-      { "greek": "τὸν", "gloss": "l'" },
-      { "greek": "ὀνειδισμὸν", "gloss": "opprobre/honte" },
-      { "greek": "τοῦ", "gloss": "du" },
-      { "greek": "Χριστοῦ,", "gloss": "Christ" },
-      { "greek": "ἀπέβλεπεν", "gloss": "il_avait_les_yeux_fixés", "analyse": "Du verbe *apoblepo* (regarder au loin, détourner son regard pour le fixer ailleurs). C'est exactement l'attitude de l'orant devant l'Icône. Moïse détourne les yeux des trésors matériels de l'Égypte pour fixer son cœur sur la réalité invisible du Christ. C'est l'antidote à l'idolâtrie." },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "εἰς", "gloss": "vers" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "μισθαποδοσίαν.", "gloss": "rémunération/récompense" }
-    ]
-  },
-  {
-    "verse_number": "11, 32",
-    "translations": {
-      "segond": "Et que dirai-je encore ? Car le temps me manquerait pour parler de Gédéon, de Barak, de Samson, de Jephthé, de David, de Samuel, et des prophètes,",
-      "darby": "Et que dirai-je encore ? car le temps me manquera si je raconte ce qui concerne Gédéon, Barak, Samson, Jephthé, David, Samuel, et les prophètes,"
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "τί", "gloss": "que" },
-      { "greek": "ἔτι", "gloss": "encore" },
-      { "greek": "λέγω;", "gloss": "dirai-je" },
-      { "greek": "ἐπιλείψει", "gloss": "manquera" },
-      { "greek": "με", "gloss": "me" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "διηγούμενον", "gloss": "racontant" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "χρόνος", "gloss": "temps" },
-      { "greek": "περὶ", "gloss": "au_sujet_de" },
-      { "greek": "Γεδεών,", "gloss": "Gédéon" },
-      { "greek": "Βαράκ,", "gloss": "Barak" },
-      { "greek": "Σαμψών,", "gloss": "Samson" },
-      { "greek": "Ἰεφθάε,", "gloss": "Jephthé" },
-      { "greek": "Δαυίδ", "gloss": "David" },
-      { "greek": "τε", "gloss": "et" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "Σαμουὴλ", "gloss": "Samuel" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "προφητῶν,", "gloss": "prophètes" }
-    ]
-  },
-  {
-    "verse_number": "11, 33",
-    "translations": {
-      "segond": "qui, par la foi, vainquirent des royaumes, exercèrent la justice, obtinrent des promesses, fermèrent la gueule des lions,",
-      "darby": "qui par la foi ont subjugué des royaumes, opéré la justice, obtenu les promesses, fermé la gueule des lions,"
-    },
-    "interlinear": [
-      { "greek": "οἳ", "gloss": "lesquels" },
-      { "greek": "διὰ", "gloss": "par" },
-      { "greek": "πίστεως", "gloss": "foi" },
-      { "greek": "κατηγωνίσαντο", "gloss": "vainquirent" },
-      { "greek": "βασιλείας,", "gloss": "royaumes" },
-      { "greek": "εἰργάσαντο", "gloss": "exercèrent" },
-      { "greek": "δικαιοσύνην,", "gloss": "justice" },
-      { "greek": "ἐπέτυχον", "gloss": "obtinrent" },
-      { "greek": "ἐπαγγελιῶν,", "gloss": "promesses" },
-      { "greek": "ἔφραξαν", "gloss": "fermèrent" },
-      { "greek": "στόματα", "gloss": "gueules" },
-      { "greek": "λεόντων,", "gloss": "de_lions" }
-    ]
-  },
-  {
-    "verse_number": "11, 34",
-    "translations": {
-      "segond": "éteignirent la puissance du feu, échappèrent au tranchant de l'épée, guérirent de leurs maladies, furent vaillants à la guerre, mirent en fuite des armées étrangères.",
-      "darby": "éteint la force du feu, échappé au tranchant de l'épée, tiré de la faiblesse de la force, ont été rendus vigoureux dans la bataille, ont fait ployer les armées des étrangers."
-    },
-    "interlinear": [
-      { "greek": "ἔσβεσαν", "gloss": "éteignirent" },
-      { "greek": "δύναμιν", "gloss": "puissance" },
-      { "greek": "πυρός,", "gloss": "du_feu" },
-      { "greek": "ἔφυγον", "gloss": "fuirent/échappèrent" },
-      { "greek": "στόματα", "gloss": "bouches/tranchants" },
-      { "greek": "μαχαίρης,", "gloss": "de_l'épée" },
-      { "greek": "ἐδυναμώθησαν", "gloss": "furent_rendus_forts" },
-      { "greek": "ἀπὸ", "gloss": "à_partir_de" },
-      { "greek": "ἀσθενείας,", "gloss": "faiblesse" },
-      { "greek": "ἐγενήθησαν", "gloss": "devinrent" },
-      { "greek": "ἰσχυροὶ", "gloss": "forts" },
-      { "greek": "ἐν", "gloss": "en" },
-      { "greek": "πολέμῳ,", "gloss": "guerre" },
-      { "greek": "παρεμβολὰς", "gloss": "camps/armées" },
-      { "greek": "ἔκλιναν", "gloss": "firent_plier/mirent_en_fuite" },
-      { "greek": "ἀλλοτρίων·", "gloss": "d'étrangers" }
- ]
-  },
-  {
-  "verse_number": "11, 35",
-    "translations": {
-      "segond": "Des femmes recouvrèrent leurs morts par la résurrection; d'autres furent livrés aux tourments, et n'acceptèrent point de délivrance, afin d'obtenir une meilleure résurrection;",
-      "darby": "Des femmes ont recouvré leurs morts par la résurrection ; et d'autres ont été torturés, n'acceptant pas la délivrance, afin d'obtenir une meilleure résurrection ;"
-    },
-    "interlinear": [
-      { "greek": "ἔλαβον", "gloss": "Recouvrèrent" },
-      { "greek": "γυναῖκες", "gloss": "des_femmes" },
-      { "greek": "ἐξ", "gloss": "par" },
-      { "greek": "ἀναστάσεως", "gloss": "résurrection" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "νεκροὺς", "gloss": "morts" },
-      { "greek": "αὐτῶν·", "gloss": "d'elles" },
-      { "greek": "ἄλλοι", "gloss": "d'autres" },
-      { "greek": "δὲ", "gloss": "et/or" },
-      { "greek": "ἐτυμπανίσθησαν,", "gloss": "furent_torturés" },
-      { "greek": "οὐ", "gloss": "non" },
-      { "greek": "προσδεξάμενοι", "gloss": "ayant_accepté" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "ἀπολύτρωσιν,", "gloss": "délivrance/rachat" },
-      { "greek": "ἵνα", "gloss": "afin_d'" },
-      { "greek": "κρείττονος", "gloss": "d'une_meilleure" },
-      { "greek": "ἀναστάσεως", "gloss": "résurrection" },
-      { "greek": "τύχωσιν·", "gloss": "ils_obtiennent" }
-    ]
-  },
-  {
-    "verse_number": "11, 36",
-    "translations": {
-      "segond": "d'autres subirent les moqueries et le fouet, les chaînes et la prison;",
-      "darby": "et d'autres ont passé par l'épreuve des moqueries et des coups de fouet, et aussi des liens et de la prison :"
-    },
-    "interlinear": [
-      { "greek": "ἕτεροι", "gloss": "d'autres" },
-      { "greek": "δὲ", "gloss": "et/or" },
-      { "greek": "ἐμπαιγμῶν", "gloss": "de_moqueries" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "μαστίγων", "gloss": "de_fouets" },
-      { "greek": "πεῖραν", "gloss": "l'épreuve" },
-      { "greek": "ἔλαβον,", "gloss": "reçurent" },
-      { "greek": "ἔτι", "gloss": "encore/et_aussi" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "δεσμῶν", "gloss": "de_liens/chaînes" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "φυλακῆς·", "gloss": "de_prison" }
-    ]
-  },
-  {
-    "verse_number": "11, 37",
-    "translations": {
-      "segond": "ils furent lapidés, sciés, torturés, ils moururent tués par l'épée, ils allèrent çà et là vêtus de peaux de brebis et de peaux de chèvres, dénués de tout, persécutés, maltraités,",
-      "darby": "ils ont été lapidés, ils ont été sciés, ils ont été tentés, ils ont été mis à mort par l'épée ; ils ont erré çà et là, vêtus de peaux de brebis, de peaux de chèvres, dans les privations, les afflictions, les mauvais traitements,"
-    },
-    "interlinear": [
-      { "greek": "ἐλιθάσθησαν,", "gloss": "ils_furent_lapidés" },
-      { "greek": "ἐπρίσθησαν,", "gloss": "ils_furent_sciés" },
-      { "greek": "ἐπειράσθησαν,", "gloss": "ils_furent_tentés/éprouvés" },
-      { "greek": "ἐν", "gloss": "en/par" },
-      { "greek": "φόνον", "gloss": "meurtre" },
-      { "greek": "μαχαίρης", "gloss": "de_l'épée" },
-      { "greek": "ἀπέθανον,", "gloss": "ils_moururent" },
-      { "greek": "περιῆλθον", "gloss": "ils_allèrent_çà_et_là" },
-      { "greek": "ἐν", "gloss": "en/avec" },
-      { "greek": "μηλωταῖς,", "gloss": "peaux_de_brebis" },
-      { "greek": "ἐν", "gloss": "en/avec" },
-      { "greek": "αἰγείοις", "gloss": "de_chèvres" },
-      { "greek": "δέρμασιν,", "gloss": "peaux" },
-      { "greek": "ὑστερούμενοι,", "gloss": "manquant_de_tout" },
-      { "greek": "θλιβόμενοι,", "gloss": "pressés/affligés" },
-      { "greek": "κακουχούμενοι,", "gloss": "maltraîtés" }
-    ]
-  },
-  {
-    "verse_number": "11, 38",
-    "translations": {
-      "segond": "eux dont le monde n'était pas digne, errants dans les déserts et les montagnes, dans les cavernes et les antres de la terre.",
-      "darby": "(desquels le monde n'était pas digne), errant dans les déserts et les montagnes, et les cavernes et les trous de la terre."
-    },
-    "interlinear": [
-      { "greek": "ὧν", "gloss": "desquels" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἦν", "gloss": "était" },
-      { "greek": "ἄξιος", "gloss": "digne", "analyse": "Le Monde duel (le système d'aliénation et de pouvoir) n'est pas 'digne' (axios : de même poids) que les Saints. Les martyrs pèsent du poids de la gloire divine. Le monde les rejette parce qu'ils sont la preuve vivante qu'une autre réalité, le Royaume UN, existe déjà au milieu de nous." },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "κόσμος,", "gloss": "monde" },
-      { "greek": "ἐπὶ", "gloss": "sur/dans" },
-      { "greek": "ἐρημίαις", "gloss": "déserts" },
-      { "greek": "πλανώμενοι", "gloss": "errant" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ὄρεσιν", "gloss": "montagnes" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "σπηλαίοις", "gloss": "cavernes" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ταῖς", "gloss": "les" },
-      { "greek": "ὀπαῖς", "gloss": "trous/antres" },
-      { "greek": "τῆς", "gloss": "de_la" },
-      { "greek": "γῆς.", "gloss": "terre" }
-    ]
-  },
-  {
-    "verse_number": "11, 39",
-    "translations": {
-      "segond": "Tous ceux-là, à la foi desquels il a été rendu témoignage, n'ont pas obtenu ce qui leur était promis,",
-      "darby": "Et tous ceux-ci, ayant reçu témoignage par la foi, n'ont pas reçu la chose promise,"
-    },
-    "interlinear": [
-      { "greek": "Καὶ", "gloss": "Et" },
-      { "greek": "οὗτοι", "gloss": "ceux-ci" },
-      { "greek": "πάντες", "gloss": "tous" },
-      { "greek": "μαρτυρηθέντες", "gloss": "ayant_reçu_témoignage" },
-      { "greek": "διὰ", "gloss": "à_travers" },
-      { "greek": "τῆς", "gloss": "la" },
-      { "greek": "πίστεως", "gloss": "foi" },
-      { "greek": "οὐκ", "gloss": "n'ont_pas" },
-      { "greek": "ἐκομίσαντο", "gloss": "obtenu/remporté" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "ἐπαγγελίαν,", "gloss": "promesse" }
-    ]
-  },
-  {
-    "verse_number": "11, 40",
-    "translations": {
-      "segond": "Dieu ayant en vue quelque chose de meilleur pour nous, afin qu'ils ne parvinssent pas sans nous à la perfection.",
-      "darby": "Dieu ayant en vue quelque chose de meilleur pour nous, afin qu'ils ne parvinssent pas à la perfection sans nous."
-    },
-    "interlinear": [
-      { "greek": "τοῦ", "gloss": "—" },
-      { "greek": "θεοῦ", "gloss": "Dieu" },
-      { "greek": "περὶ", "gloss": "pour/au_sujet_de" },
-      { "greek": "ἡμῶν", "gloss": "nous" },
-      { "greek": "κρεῖττόν", "gloss": "quelque_chose_de_meilleur" },
-      { "greek": "τι", "gloss": "quelque" },
-      { "greek": "προβλεψαμένου,", "gloss": "ayant_prévu" },
-      { "greek": "ἵνα", "gloss": "afin_que" },
-      { "greek": "μὴ", "gloss": "ne...pas" },
-      { "greek": "χωρὶς", "gloss": "sans" },
-      { "greek": "ἡμῶν", "gloss": "nous" },
-      { "greek": "τελειωθῶσιν.", "gloss": "ils_soient_rendus_parfaits", "analyse": "Le salut n'est pas un accomplissement individuel. L'Église est un organisme, le Corps total du Christ. Les prophètes de l'Ancien Testament attendaient notre époque (l'Église) pour que la communion soit totale. C'est l'essence même de la 'Synaxe' (l'assemblée eucharistique) : vivants et endormis forment un seul Sujet en Christ." }
-    ]
-  },
-  {
-    "verse_number": "12, 1",
-    "translations": {
-      "segond": "Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetons tout fardeau, et le péché qui nous enveloppe si facilement, et courons avec persévérance dans la carrière qui nous est ouverte,",
-      "darby": "C'est pourquoi, nous aussi, ayant une si grande nuée de témoins qui nous entoure, rejetant tout fardeau et le péché qui nous enveloppe si facilement, courons avec patience la course qui est devant nous,"
-    },
-    "interlinear": [
-      { "greek": "Τοιγαροῦν", "gloss": "C'est_pourquoi" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "ἡμεῖς,", "gloss": "nous" },
-      { "greek": "τοσοῦτον", "gloss": "une_si_grande" },
-      { "greek": "ἔχοντες", "gloss": "ayant" },
-      { "greek": "περικείμενον", "gloss": "placée_autour_de" },
-      { "greek": "ἡμῖν", "gloss": "nous" },
-      { "greek": "νέφος", "gloss": "nuée", "analyse": "La 'nuée de témoins' (nephos martyron) ! C'est la fondation biblique de l'iconostase et des fresques de nos églises. Les Saints ne sont pas de simples souvenirs, ils sont une présence active, une nuée céleste qui nous environne pendant la prière pour nous arracher au Monde duel et nous tirer vers la Lumière." },
-      { "greek": "μαρτύρων,", "gloss": "de_témoins/martyrs" },
-      { "greek": "ὄγκον", "gloss": "fardeau/poids" },
-      { "greek": "ἀποθέμενοι", "gloss": "ayant_rejeté" },
-      { "greek": "πάντα", "gloss": "tout" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τὴν", "gloss": "le" },
-      { "greek": "εὐπερίστατον", "gloss": "qui_enveloppe_facilement" },
-      { "greek": "ἁμαρτίαν,", "gloss": "péché" },
-      { "greek": "δι’", "gloss": "avec" },
-      { "greek": "ὑπομονῆς", "gloss": "persévérance/patience" },
-      { "greek": "τρέχωμεν", "gloss": "courons" },
-      { "greek": "τὸν", "gloss": "la" },
-      { "greek": "προκείμενον", "gloss": "qui_est_placée_devant" },
-      { "greek": "ἡμῖν", "gloss": "nous" },
-      { "greek": "ἀγῶνα,", "gloss": "course/combat" }
-    ]
-  },
-  {
-    "verse_number": "12, 2",
-    "translations": {
-      "segond": "ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.",
-      "darby": "fixant les yeux sur Jésus, le chef et le consommateur de la foi, lequel, à cause de la joie qui lui était proposée, a enduré la croix, ayant méprisé la honte, et est assis à la droite du trône de Dieu."
-    },
-    "interlinear": [
-      { "greek": "ἀφορῶντες", "gloss": "ayant_les_regards_fixés", "analyse": "Le verbe *aphorao* (regarder attentivement au loin, détourner le regard d'ailleurs pour le concentrer sur une cible). C'est l'acte intime de la vénération de l'Icône. On détourne son regard de l'illusion des choses terrestres pour devenir un vrai Sujet, captivé par le Visage du Christ." },
-      { "greek": "εἰς", "gloss": "sur/vers" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "τῆς", "gloss": "de_la" },
-      { "greek": "πίστεως", "gloss": "foi" },
-      { "greek": "ἀρχηγὸν", "gloss": "chef/auteur" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τελειωτὴν", "gloss": "consommateur/finisseur" },
-      { "greek": "Ἰησοῦν,", "gloss": "Jésus" },
-      { "greek": "ὃς", "gloss": "lequel" },
-      { "greek": "ἀντὶ", "gloss": "en_vue_de" },
-      { "greek": "τῆς", "gloss": "la" },
-      { "greek": "προκειμένης", "gloss": "qui_était_placée_devant" },
-      { "greek": "αὐτῷ", "gloss": "lui" },
-      { "greek": "χαρᾶς", "gloss": "joie" },
-      { "greek": "ὑπέμεινεν", "gloss": "endura" },
-      { "greek": "σταυρὸν", "gloss": "croix" },
-      { "greek": "αἰσχύνης", "gloss": "la_honte/l'ignominie" },
-      { "greek": "καταφρονήσας,", "gloss": "l'ayant_méprisée" },
-      { "greek": "ἐν", "gloss": "à" },
-      { "greek": "δεξιᾷ", "gloss": "la_droite" },
-      { "greek": "τε", "gloss": "et" },
-      { "greek": "τοῦ", "gloss": "du" },
-      { "greek": "θρόνου", "gloss": "trône" },
-      { "greek": "τοῦ", "gloss": "de_le" },
-      { "greek": "θεοῦ", "gloss": "Dieu" },
-      { "greek": "κεκάθικεν.", "gloss": "s'est_assis" }
-    ]
-  }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 39 - μαρτυρηθέντες : Segond et Darby traduisent ce participe par 'à la foi desquels il a été rendu témoignage'. Il s'agit du verbe *martyreo*, dont vient le mot 'martyr' (le témoin absolu, jusqu'au sang).\n• Verset 12, 1 - νέφος μαρτύρων : Littéralement 'nuée de martyrs / de témoins'. Le mot *nephos* désigne un nuage épais qui enveloppe totalement, une métaphore grandiose de la présence spirituelle des saints tout autour de l'orant.\n• Verset 12, 2 - ἀφορῶντες : Darby utilise 'fixant les yeux', ce qui rend très bien la force de la préposition *apo* dans ce verbe, qui implique l'idée de détourner son regard des choses environnantes (le péché, le fardeau) pour le river exclusivement sur le Christ.\n\nAnalyse spirituelle :\nCette épître éclaire d'une lumière resplendissante le 'Triomphe de l'Orthodoxie'. Pourquoi l'Église a-t-elle lutté jusqu'au sang contre l'iconoclasme (la destruction des icônes) ? Parce que l'Icône n'est pas de l'art décoratif : elle est la théologie visuelle de l'Incarnation. L'Apôtre nous rappelle que les Prophètes et les Justes de l'Ancien Testament ont souffert le martyre, méprisés par le 'Monde duel', sans pour autant voir l'accomplissement final (le Christ).\n\nAujourd'hui, dans l'Église, la déchirure du temps et de l'espace est réparée. Les saints ne sont pas morts ; ils forment cette prodigieuse 'nuée de témoins' qui tapisse l'iconostase et les murs du temple. En vénérant leurs icônes, nous confessons qu'ils ont trouvé la guérison de la nature humaine : ils sont devenus de véritables Sujets, greffés sur le Royaume UN. L'ascèse du Carême (rejeter le fardeau du péché) a pour unique but de rendre notre cœur semblable à une icône épurée, afin que nous puissions, nous aussi, 'fixer les regards' (*aphorontes*) sur le grand Archétype : Christ, notre Seigneur.\n\nRepère liturgique :\nCe passage appartient à une constellation de lectures d'Hébreux 11 : il est repris, avec des découpages différents, avant la Nativité, au dimanche de l'Orthodoxie et à Tous les Saints. Ces trois emplois manifestent d'une même réalité ecclésiale : les témoins de la foi convergent vers le Christ, leur accomplissement ne se fait pas « sans nous » (He 11, 40), et leur témoignage devient la « nuée » qui accompagne la course de l'Église (He 12, 1)."
   }
 }

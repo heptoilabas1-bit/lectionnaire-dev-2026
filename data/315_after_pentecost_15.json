@@ -10,14 +10,39 @@
           "darby": "et l'un d'entre eux, docteur de la loi, l'interrogea pour l'éprouver, disant :"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐπηρώτησεν", "gloss": "interrogea" },
-          { "greek": "εἷς", "gloss": "un" },
-          { "greek": "ἐξ", "gloss": "d'entre" },
-          { "greek": "αὐτῶν", "gloss": "eux" },
-          { "greek": "νομικὸς", "gloss": "docteur_de_la_loi/légiste", "analyse": "Le *nomikos* (l'homme de la loi). C'est l'incarnation de l'intellect enfermé dans le Monde duel : il perçoit le divin comme un code juridique à analyser, hiérarchiser et respecter, au lieu d'y voir une relation vivante." },
-          { "greek": "πειράζων", "gloss": "éprouvant/tentant" },
-          { "greek": "αὐτόν·", "gloss": "lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπηρώτησεν",
+            "gloss": "interrogea"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "d'entre"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "eux"
+          },
+          {
+            "greek": "νομικὸς",
+            "gloss": "docteur_de_la_loi/légiste",
+            "analyse": "Le *nomikos* (l'homme de la loi). C'est l'incarnation de l'intellect enfermé dans le Monde duel : il perçoit le divin comme un code juridique à analyser, hiérarchiser et respecter, au lieu d'y voir une relation vivante."
+          },
+          {
+            "greek": "πειράζων",
+            "gloss": "éprouvant/tentant"
+          },
+          {
+            "greek": "αὐτόν·",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -27,13 +52,34 @@
           "darby": "Maître, quel est le grand commandement dans la loi ?"
         },
         "interlinear": [
-          { "greek": "Διδάσκαλε,", "gloss": "Maître" },
-          { "greek": "ποία", "gloss": "quel" },
-          { "greek": "ἐντολὴ", "gloss": "commandement" },
-          { "greek": "μεγάλη", "gloss": "grand" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "la" },
-          { "greek": "νόμῳ;", "gloss": "loi" }
+          {
+            "greek": "Διδάσκαλε,",
+            "gloss": "Maître"
+          },
+          {
+            "greek": "ποία",
+            "gloss": "quel"
+          },
+          {
+            "greek": "ἐντολὴ",
+            "gloss": "commandement"
+          },
+          {
+            "greek": "μεγάλη",
+            "gloss": "grand"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "νόμῳ;",
+            "gloss": "loi"
+          }
         ]
       },
       {
@@ -43,32 +89,111 @@
           "darby": "Et il lui dit : Tu aimeras le Seigneur ton Dieu de tout ton coeur, et de toute ton âme, et de toute ta pensée."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Il" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἔφη", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Ἀγαπήσεις", "gloss": "Tu_aimeras" },
-          { "greek": "κύριον", "gloss": "le_Seigneur" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεόν", "gloss": "Dieu" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἐν", "gloss": "avec/dans" },
-          { "greek": "ὅλῃ", "gloss": "tout", "analyse": "Le mot *holē* (entier/tout) est répété trois fois. Dans le Monde duel, l'Ego est fragmenté, tiraillé entre ses désirs, ses émotions et ses pensées. L'Agapè est l'Énergie qui unifie le Sujet : aimer Dieu ne se fait pas avec une fraction de soi, c'est l'alignement total et pacifié de l'être sur l'Axe vertical." },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "καρδίᾳ", "gloss": "cœur" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "avec/dans" },
-          { "greek": "ὅλῃ", "gloss": "toute" },
-          { "greek": "τῇ", "gloss": "l'" },
-          { "greek": "ψυχῇ", "gloss": "âme" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "avec/dans" },
-          { "greek": "ὅλῃ", "gloss": "toute" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "διανοίᾳ", "gloss": "pensée/intelligence" },
-          { "greek": "σου·", "gloss": "de_toi" }
+          {
+            "greek": "ὁ",
+            "gloss": "Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἔφη",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἀγαπήσεις",
+            "gloss": "Tu_aimeras"
+          },
+          {
+            "greek": "κύριον",
+            "gloss": "le_Seigneur"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεόν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec/dans"
+          },
+          {
+            "greek": "ὅλῃ",
+            "gloss": "tout",
+            "analyse": "Le mot *holē* (entier/tout) est répété trois fois. Dans le Monde duel, l'Ego est fragmenté, tiraillé entre ses désirs, ses émotions et ses pensées. L'Agapè est l'Énergie qui unifie le Sujet : aimer Dieu ne se fait pas avec une fraction de soi, c'est l'alignement total et pacifié de l'être sur l'Axe vertical."
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "καρδίᾳ",
+            "gloss": "cœur"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec/dans"
+          },
+          {
+            "greek": "ὅλῃ",
+            "gloss": "toute"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ψυχῇ",
+            "gloss": "âme"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec/dans"
+          },
+          {
+            "greek": "ὅλῃ",
+            "gloss": "toute"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "διανοίᾳ",
+            "gloss": "pensée/intelligence"
+          },
+          {
+            "greek": "σου·",
+            "gloss": "de_toi"
+          }
         ]
       },
       {
@@ -78,13 +203,34 @@
           "darby": "C'est là le grand et premier commandement."
         },
         "interlinear": [
-          { "greek": "αὕτη", "gloss": "Celle-ci" },
-          { "greek": "ἐστὶν", "gloss": "est" },
-          { "greek": "ἡ", "gloss": "le" },
-          { "greek": "μεγάλη", "gloss": "grand" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πρώτη", "gloss": "premier" },
-          { "greek": "ἐντολή.", "gloss": "commandement" }
+          {
+            "greek": "αὕτη",
+            "gloss": "Celle-ci"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "μεγάλη",
+            "gloss": "grand"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πρώτη",
+            "gloss": "premier"
+          },
+          {
+            "greek": "ἐντολή.",
+            "gloss": "commandement"
+          }
         ]
       },
       {
@@ -94,16 +240,47 @@
           "darby": "Et le second lui est semblable : Tu aimeras ton prochain comme toi-même."
         },
         "interlinear": [
-          { "greek": "δευτέρα", "gloss": "Un_second" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁμοία", "gloss": "semblable/consubstantiel", "analyse": "Le mot *homoia* (de même nature). Le Christ pose ici la Croix : on ne peut pas séparer l'Axe vertical (Dieu) de l'Axe horizontal (le prochain). Ils sont d'une seule et même essence. Aimer l'Invisible sans aimer le visible est une illusion spirituelle." },
-          { "greek": "αὐτῇ·", "gloss": "à_lui" },
-          { "greek": "Ἀγαπήσεις", "gloss": "Tu_aimeras" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "πλησίον", "gloss": "prochain" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "σεαυτόν.", "gloss": "toi-même" }
+          {
+            "greek": "δευτέρα",
+            "gloss": "Un_second"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁμοία",
+            "gloss": "semblable/consubstantiel",
+            "analyse": "Le mot *homoia* (de même nature). Le Christ pose ici la Croix : on ne peut pas séparer l'Axe vertical (Dieu) de l'Axe horizontal (le prochain). Ils sont d'une seule et même essence. Aimer l'Invisible sans aimer le visible est une illusion spirituelle."
+          },
+          {
+            "greek": "αὐτῇ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἀγαπήσεις",
+            "gloss": "Tu_aimeras"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πλησίον",
+            "gloss": "prochain"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "σεαυτόν.",
+            "gloss": "toi-même"
+          }
         ]
       },
       {
@@ -113,18 +290,55 @@
           "darby": "À ces deux commandements est suspendue toute la loi, et les prophètes."
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "À/Dans" },
-          { "greek": "ταύταις", "gloss": "ces" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "δυσὶν", "gloss": "deux" },
-          { "greek": "ἐντολαῖς", "gloss": "commandements" },
-          { "greek": "ὅλος", "gloss": "toute" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "νόμος", "gloss": "loi" },
-          { "greek": "κρέμαται", "gloss": "est_suspendue", "analyse": "Le verbe *krematai* (être suspendu, pendre). La Loi n'est pas un bloc de béton juridique posé sur la terre, elle est suspendue au Ciel par le fil de l'Amour. Si l'on coupe le fil de l'Agapè, la loi religieuse s'écrase au sol et devient un instrument de mort aux mains de l'Ego." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "προφῆται.", "gloss": "prophètes" }
+          {
+            "greek": "ἐν",
+            "gloss": "À/Dans"
+          },
+          {
+            "greek": "ταύταις",
+            "gloss": "ces"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δυσὶν",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἐντολαῖς",
+            "gloss": "commandements"
+          },
+          {
+            "greek": "ὅλος",
+            "gloss": "toute"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "νόμος",
+            "gloss": "loi"
+          },
+          {
+            "greek": "κρέμαται",
+            "gloss": "est_suspendue",
+            "analyse": "Le verbe *krematai* (être suspendu, pendre). La Loi n'est pas un bloc de béton juridique posé sur la terre, elle est suspendue au Ciel par le fil de l'Amour. Si l'on coupe le fil de l'Agapè, la loi religieuse s'écrase au sol et devient un instrument de mort aux mains de l'Ego."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "προφῆται.",
+            "gloss": "prophètes"
+          }
         ]
       },
       {
@@ -134,14 +348,38 @@
           "darby": "Et les pharisiens étant assemblés, Jésus les interrogea,"
         },
         "interlinear": [
-          { "greek": "Συνηγμένων", "gloss": "Étant_rassemblés" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "Φαρισαίων", "gloss": "pharisiens" },
-          { "greek": "ἐπηρώτησεν", "gloss": "interrogea" },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" }
+          {
+            "greek": "Συνηγμένων",
+            "gloss": "Étant_rassemblés"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "Φαρισαίων",
+            "gloss": "pharisiens"
+          },
+          {
+            "greek": "ἐπηρώτησεν",
+            "gloss": "interrogea"
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          }
         ]
       },
       {
@@ -151,20 +389,63 @@
           "darby": "disant : Que vous semble-t-il du Christ ? de qui est-il fils ? Ils lui disent : De David."
         },
         "interlinear": [
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Τί", "gloss": "Que" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "δοκεῖ", "gloss": "semble-t-il/pensez-vous" },
-          { "greek": "περὶ", "gloss": "au_sujet_de" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "Χριστοῦ;", "gloss": "Christ" },
-          { "greek": "τίνος", "gloss": "de_qui" },
-          { "greek": "υἱός", "gloss": "fils" },
-          { "greek": "ἐστιν;", "gloss": "est-il" },
-          { "greek": "λέγουσιν", "gloss": "Ils_disent" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Τοῦ", "gloss": "De_celui_de" },
-          { "greek": "Δαυίδ.", "gloss": "David", "analyse": "Les Pharisiens ne conçoivent le Messie que de manière horizontale : le fils biologique d'un roi, censé restaurer un pouvoir politique mondain. Ils enferment l'Infini dans une généalogie humaine." }
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Τί",
+            "gloss": "Que"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "δοκεῖ",
+            "gloss": "semble-t-il/pensez-vous"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "au_sujet_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστοῦ;",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "τίνος",
+            "gloss": "de_qui"
+          },
+          {
+            "greek": "υἱός",
+            "gloss": "fils"
+          },
+          {
+            "greek": "ἐστιν;",
+            "gloss": "est-il"
+          },
+          {
+            "greek": "λέγουσιν",
+            "gloss": "Ils_disent"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Τοῦ",
+            "gloss": "De_celui_de"
+          },
+          {
+            "greek": "Δαυίδ.",
+            "gloss": "David",
+            "analyse": "Les Pharisiens ne conçoivent le Messie que de manière horizontale : le fils biologique d'un roi, censé restaurer un pouvoir politique mondain. Ils enferment l'Infini dans une généalogie humaine."
+          }
         ]
       },
       {
@@ -174,17 +455,51 @@
           "darby": "Il leur dit : Comment donc David, en Esprit, l'appelle-t-il seigneur, disant :"
         },
         "interlinear": [
-          { "greek": "λέγει", "gloss": "Il_dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Πῶς", "gloss": "Comment" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "Δαυὶδ", "gloss": "David" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "πνεύματι", "gloss": "Esprit", "analyse": "L'expression *en pneumati* (en Esprit). L'intellect seul (qui étudie la lettre de la loi) ne peut voir que la chair (le fils de David). Seul l'éveil par le Pneuma divin permet à David de reconnaître l'Incréé (le Seigneur) derrière le voile de l'histoire." },
-          { "greek": "καλεῖ", "gloss": "appelle" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "κύριον", "gloss": "Seigneur" },
-          { "greek": "λέγων·", "gloss": "disant" }
+          {
+            "greek": "λέγει",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Πῶς",
+            "gloss": "Comment"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "Δαυὶδ",
+            "gloss": "David"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "Esprit",
+            "analyse": "L'expression *en pneumati* (en Esprit). L'intellect seul (qui étudie la lettre de la loi) ne peut voir que la chair (le fils de David). Seul l'éveil par le Pneuma divin permet à David de reconnaître l'Incréé (le Seigneur) derrière le voile de l'histoire."
+          },
+          {
+            "greek": "καλεῖ",
+            "gloss": "appelle"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "κύριον",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          }
         ]
       },
       {
@@ -194,25 +509,82 @@
           "darby": "« Le Seigneur a dit à mon seigneur : Assieds-toi à ma droite, jusqu'à ce que je mette tes ennemis pour le marchepied de tes pieds » ?"
         },
         "interlinear": [
-          { "greek": "Εἶπεν", "gloss": "A_dit" },
-          { "greek": "κύριος", "gloss": "le_Seigneur" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "κυρίῳ", "gloss": "Seigneur" },
-          { "greek": "μου·", "gloss": "de_moi" },
-          { "greek": "Κάθου", "gloss": "Assieds-toi" },
-          { "greek": "ἐκ", "gloss": "à" },
-          { "greek": "δεξιῶν", "gloss": "la_droite" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "ἕως", "gloss": "jusqu'à_ce_que" },
-          { "greek": "ἂν", "gloss": "—" },
-          { "greek": "θῶ", "gloss": "je_place" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "ἐχθρούς", "gloss": "ennemis" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ὑποκάτω", "gloss": "sous" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ποδῶν", "gloss": "pieds" },
-          { "greek": "σου;", "gloss": "de_toi" }
+          {
+            "greek": "Εἶπεν",
+            "gloss": "A_dit"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "le_Seigneur"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "μου·",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "Κάθου",
+            "gloss": "Assieds-toi"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "à"
+          },
+          {
+            "greek": "δεξιῶν",
+            "gloss": "la_droite"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à_ce_que"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "—"
+          },
+          {
+            "greek": "θῶ",
+            "gloss": "je_place"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐχθρούς",
+            "gloss": "ennemis"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ὑποκάτω",
+            "gloss": "sous"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ποδῶν",
+            "gloss": "pieds"
+          },
+          {
+            "greek": "σου;",
+            "gloss": "de_toi"
+          }
         ]
       },
       {
@@ -222,16 +594,46 @@
           "darby": "Si donc David l'appelle seigneur, comment est-il son fils ?"
         },
         "interlinear": [
-          { "greek": "εἰ", "gloss": "Si" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "Δαυὶδ", "gloss": "David" },
-          { "greek": "καλεῖ", "gloss": "appelle" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "κύριον,", "gloss": "Seigneur" },
-          { "greek": "πῶς", "gloss": "comment" },
-          { "greek": "υἱὸς", "gloss": "fils" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἐστιν;", "gloss": "est-il" }
+          {
+            "greek": "εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "Δαυὶδ",
+            "gloss": "David"
+          },
+          {
+            "greek": "καλεῖ",
+            "gloss": "appelle"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "κύριον,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "πῶς",
+            "gloss": "comment"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐστιν;",
+            "gloss": "est-il"
+          }
         ]
       },
       {
@@ -241,29 +643,162 @@
           "darby": "Et personne ne pouvait lui répondre un mot ; et depuis ce jour-là, personne n'osa plus l'interroger."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "οὐδεὶς", "gloss": "personne" },
-          { "greek": "ἐδύνατο", "gloss": "ne_pouvait", "analyse": "Encore la racine *dynamai* (qui donne la Grâce, la *dynamis*). Sans l'Esprit, l'intellect religieux est littéralement 'sans-puissance' devant le mystère de l'Incréé. La logique duelle disjoncte." },
-          { "greek": "ἀποκριθῆναι", "gloss": "répondre" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "λόγον,", "gloss": "un_mot" },
-          { "greek": "οὐδὲ", "gloss": "ni" },
-          { "greek": "ἐτόλμησέν", "gloss": "n'osa" },
-          { "greek": "τις", "gloss": "quelqu'un" },
-          { "greek": "ἀπ’", "gloss": "depuis" },
-          { "greek": "ἐκείνης", "gloss": "ce...-là" },
-          { "greek": "τῆς", "gloss": "le" },
-          { "greek": "ἡμέρας", "gloss": "jour" },
-          { "greek": "ἐπερωτῆσαι", "gloss": "interroger" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "οὐκέτι.", "gloss": "plus" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "οὐδεὶς",
+            "gloss": "personne"
+          },
+          {
+            "greek": "ἐδύνατο",
+            "gloss": "ne_pouvait",
+            "analyse": "Encore la racine *dynamai* (qui donne la Grâce, la *dynamis*). Sans l'Esprit, l'intellect religieux est littéralement 'sans-puissance' devant le mystère de l'Incréé. La logique duelle disjoncte."
+          },
+          {
+            "greek": "ἀποκριθῆναι",
+            "gloss": "répondre"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "λόγον,",
+            "gloss": "un_mot"
+          },
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἐτόλμησέν",
+            "gloss": "n'osa"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "ἐκείνης",
+            "gloss": "ce...-là"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἡμέρας",
+            "gloss": "jour"
+          },
+          {
+            "greek": "ἐπερωτῆσαι",
+            "gloss": "interroger"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "οὐκέτι.",
+            "gloss": "plus"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 35 - νομικὸς : Darby et Segond utilisent 'docteur de la loi'. Ce terme désigne littéralement un spécialiste de la Torah. Il incarne le paradigme du Monde duel : la volonté de classer, découper et hiérarchiser le divin avec des outils purement intellectuels et juridiques.\n• Verset 40 - κρέμαται : Segond traduit 'dépendent', perdant la force visuelle du verbe grec. Darby traduit très justement par 'est suspendue'. L'image est cosmique : la loi entière est accrochée au Ciel par le fil de l'Amour. Si l'Amour est rompu, la religion s'effondre dans le formalisme mortifère.\n\nAnalyse spirituelle :\nCet Évangile met en scène le choc frontal entre l'Ego religieux et le Sujet christique. \n\nDans la première partie, le docteur de la loi tente de piéger le Christ dans la fragmentation du Monde duel : parmi les 613 commandements de la Torah, lequel 'gagne' ? Lequel est le plus utile ? Le Christ refuse ce découpage. Il révèle que l'être humain n'est sauvé que par l'unification : aimer avec *tout* (holē) son cœur, son âme, sa pensée. La Grâce (Agapè) n'est pas une loi parmi d'autres, c'est l'Énergie qui structure l'Axe vertical (Dieu) et l'Axe horizontal (le prochain) en une seule et même Croix (*homoia*, de même nature). Sans cet Amour, toute la construction religieuse s'effondre.\n\nDans la seconde partie, Jésus retourne la situation pour faire exploser le cadre mental des Pharisiens. Ces derniers conçoivent le Messie comme un simple héros historique (le 'fils de David'), un leader horizontal devant restaurer une nation. Le Christ cite les Psaumes pour démontrer que David lui-même, lorsqu'il est éveillé 'en Esprit', Le contemple non pas comme son descendant biologique, mais comme l'Incréé ('mon Seigneur'). \n\nL'intellect duel des Pharisiens est incapable de résoudre ce paradoxe (être à la fois la racine et la branche, l'Incréé et le créé). Privés de la Lumière de l'Esprit, ils se retrouvent 'sans-puissance' (*edynato*) et sont réduits au silence absolu."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 35 - νομικὸς : Darby et Segond utilisent 'docteur de la loi'. Ce terme désigne littéralement un spécialiste de la Torah. Il incarne le paradigme du Monde duel : la volonté de classer, découper et hiérarchiser le divin avec des outils purement intellectuels et juridiques.\n• Verset 40 - κρέμαται : Segond traduit 'dépendent', perdant la force visuelle du verbe grec. Darby traduit très justement par 'est suspendue'. L'image est cosmique : la loi entière est accrochée au Ciel par le fil de l'Amour. Si l'Amour est rompu, la religion s'effondre dans le formalisme mortifère.\n\nAnalyse spirituelle :\nCet Évangile met en scène le choc frontal entre l'Ego religieux et le Sujet christique. \n\nDans la première partie, le docteur de la loi tente de piéger le Christ dans la fragmentation du Monde duel : parmi les 613 commandements de la Torah, lequel 'gagne' ? Lequel est le plus utile ? Le Christ refuse ce découpage. Il révèle que l'être humain n'est sauvé que par l'unification : aimer avec *tout* (holē) son cœur, son âme, sa pensée. La Grâce (Agapè) n'est pas une loi parmi d'autres, c'est l'Énergie qui structure l'Axe vertical (Dieu) et l'Axe horizontal (le prochain) en une seule et même Croix (*homoia*, de même nature). Sans cet Amour, toute la construction religieuse s'effondre.\n\nDans la seconde partie, Jésus retourne la situation pour faire exploser le cadre mental des Pharisiens. Ces derniers conçoivent le Messie comme un simple héros historique (le 'fils de David'), un leader horizontal devant restaurer une nation. Le Christ cite les Psaumes pour démontrer que David lui-même, lorsqu'il est éveillé 'en Esprit', Le contemple non pas comme son descendant biologique, mais comme l'Incréé ('mon Seigneur'). \n\nL'intellect duel des Pharisiens est incapable de résoudre ce paradoxe (être à la fois la racine et la branche, l'Incréé et le créé). Privés de la Lumière de l'Esprit, ils se retrouvent 'sans-puissance' (*edynato*) et sont réduits au silence absolu.",
+    "homiletic_axes": [
+      {
+        "title": "Unifier le cœur dans l’amour de Dieu",
+        "content": "Le premier commandement rassemble le cœur, l’âme et la pensée au lieu de les laisser dispersés. Paul parle de la lumière de Dieu brillant dans les cœurs : l’amour naît d’un centre intérieur éclairé par le visage du Christ.",
+        "keywords": [
+          "ἀγαπάω — aimer",
+          "καρδία — cœur",
+          "φῶς — lumière"
+        ]
+      },
+      {
+        "title": "Deux commandements inséparables",
+        "content": "L’amour de Dieu et l’amour du prochain sont distingués sans être séparés. L’Apôtre en montre la forme concrète : porter la vie de Jésus dans une existence exposée, éprouvée et donnée pour les autres.",
+        "keywords": [
+          "πλησίον — prochain",
+          "ζωή — vie",
+          "διὰ Ἰησοῦν — à cause de Jésus"
+        ]
+      },
+      {
+        "title": "Le trésor dans des vases de terre",
+        "content": "La totalité demandée par le commandement ne suppose pas une perfection autosuffisante. Le trésor demeure dans des vases fragiles afin que la puissance soit reconnue comme venant de Dieu.",
+        "keywords": [
+          "θησαυρός — trésor",
+          "ὀστράκινος — de terre",
+          "δύναμις — puissance"
+        ]
+      },
+      {
+        "title": "Le Messie, fils de David et Seigneur",
+        "content": "Jésus conduit ses interlocuteurs au-delà d’une définition seulement généalogique du Messie. La lumière de la connaissance de Dieu resplendit dans le visage du Christ : celui qui interroge sur le commandement révèle aussi qui en est le Seigneur.",
+        "keywords": [
+          "Χριστός — Messie",
+          "Κύριος — Seigneur",
+          "πρόσωπον — visage"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le plus grand commandement » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez comment le cœur, l’amour, la lumière, la fragilité et la puissance progressent d’un texte à l’autre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Du commandement reçu à la vie donnée",
+        "reference": "Matthieu 22, 35-46 ; 2 Corinthiens 4, 6-15",
+        "content": "Le Christ unifie toute la Loi dans l’amour ; Paul montre cet amour à l’œuvre dans une vie fragile qui porte et transmet la vie de Jésus.",
+        "connections": []
+      }
+    ]
   },
   "apostle": {
-  "reference": "2 Corinthiens 4, 6-15",
+    "reference": "2 Corinthiens 4, 6-15",
     "title": "Le Trésor dans les Vases de Terre : Kénose et Puissance Incréée",
     "interlinear": [
       {
@@ -273,32 +808,111 @@
           "darby": "Car c'est le Dieu qui a dit que du sein des ténèbres la lumière brillât, qui a relui dans nos coeurs pour faire luire la connaissance de la gloire de Dieu dans la face de Christ."
         },
         "interlinear": [
-          { "greek": "ὅτι", "gloss": "Parce_que" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "εἰπών·", "gloss": "ayant_dit" },
-          { "greek": "Ἐκ", "gloss": "Du_milieu_de" },
-          { "greek": "σκότους", "gloss": "ténèbres" },
-          { "greek": "φῶς", "gloss": "lumière" },
-          { "greek": "λάμψει,", "gloss": "brillera" },
-          { "greek": "ὃς", "gloss": "qui" },
-          { "greek": "ἔλαμψεν", "gloss": "a_brillé" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "καρδίαις", "gloss": "cœurs" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "πρὸς", "gloss": "pour" },
-          { "greek": "φωτισμὸν", "gloss": "l'illumination/mise_en_lumière", "analyse": "Le *photismos* (l'illumination). Ce n'est pas une simple compréhension intellectuelle comme celle des docteurs de la loi. C'est l'irruption de la Lumière incréée (l'Énergie divine) directement dans la crypte du cœur." },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "γνώσεως", "gloss": "connaissance" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "δόξης", "gloss": "gloire" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "ἐν", "gloss": "sur/dans" },
-          { "greek": "προσώπῳ", "gloss": "la_face" },
-          { "greek": "Χριστοῦ.", "gloss": "de_Christ" }
+          {
+            "greek": "ὅτι",
+            "gloss": "Parce_que"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "εἰπών·",
+            "gloss": "ayant_dit"
+          },
+          {
+            "greek": "Ἐκ",
+            "gloss": "Du_milieu_de"
+          },
+          {
+            "greek": "σκότους",
+            "gloss": "ténèbres"
+          },
+          {
+            "greek": "φῶς",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "λάμψει,",
+            "gloss": "brillera"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἔλαμψεν",
+            "gloss": "a_brillé"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "καρδίαις",
+            "gloss": "cœurs"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "φωτισμὸν",
+            "gloss": "l'illumination/mise_en_lumière",
+            "analyse": "Le *photismos* (l'illumination). Ce n'est pas une simple compréhension intellectuelle comme celle des docteurs de la loi. C'est l'irruption de la Lumière incréée (l'Énergie divine) directement dans la crypte du cœur."
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "γνώσεως",
+            "gloss": "connaissance"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "δόξης",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "sur/dans"
+          },
+          {
+            "greek": "προσώπῳ",
+            "gloss": "la_face"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "de_Christ"
+          }
         ]
       },
       {
@@ -308,26 +922,87 @@
           "darby": "Mais nous avons ce trésor dans des vases de terre, afin que l'excellence de la puissance soit de Dieu et ne soit pas de nous :"
         },
         "interlinear": [
-          { "greek": "Ἔχομεν", "gloss": "Nous_avons" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θησαυρὸν", "gloss": "trésor" },
-          { "greek": "τοῦτον", "gloss": "ce" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ὀστρακίνοις", "gloss": "de_terre_cuite/d'argile", "analyse": "Le mot *ostrakinois* désigne une poterie bon marché, fragile, sans valeur intrinsèque. L'Ego cherche toujours à se blinder, à se construire comme une forteresse dorée. Le Sujet christique accepte sa fragilité totale : il est un simple vase d'argile dont la seule valeur est le Feu incréé qu'il contient." },
-          { "greek": "σκεύεσιν,", "gloss": "vases" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἡ", "gloss": "l'" },
-          { "greek": "ὑπερβολὴ", "gloss": "excellence/surabondance" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "δυνάμεως", "gloss": "puissance/énergie" },
-          { "greek": "ᾖ", "gloss": "soit" },
-          { "greek": "τοῦ", "gloss": "à_Dieu" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μὴ", "gloss": "non" },
-          { "greek": "ἐξ", "gloss": "venant_de" },
-          { "greek": "ἡμῶν·", "gloss": "nous" }
+          {
+            "greek": "Ἔχομεν",
+            "gloss": "Nous_avons"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θησαυρὸν",
+            "gloss": "trésor"
+          },
+          {
+            "greek": "τοῦτον",
+            "gloss": "ce"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ὀστρακίνοις",
+            "gloss": "de_terre_cuite/d'argile",
+            "analyse": "Le mot *ostrakinois* désigne une poterie bon marché, fragile, sans valeur intrinsèque. L'Ego cherche toujours à se blinder, à se construire comme une forteresse dorée. Le Sujet christique accepte sa fragilité totale : il est un simple vase d'argile dont la seule valeur est le Feu incréé qu'il contient."
+          },
+          {
+            "greek": "σκεύεσιν,",
+            "gloss": "vases"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὑπερβολὴ",
+            "gloss": "excellence/surabondance"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "δυνάμεως",
+            "gloss": "puissance/énergie"
+          },
+          {
+            "greek": "ᾖ",
+            "gloss": "soit"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "à_Dieu"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "venant_de"
+          },
+          {
+            "greek": "ἡμῶν·",
+            "gloss": "nous"
+          }
         ]
       },
       {
@@ -337,16 +1012,46 @@
           "darby": "étant de toutes manières dans la tribulation, mais non point réduits à l'étroit ; dans la perplexité, mais non pas sans ressource ;"
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "En" },
-          { "greek": "παντὶ", "gloss": "tout" },
-          { "greek": "θλιβόμενοι", "gloss": "étant_pressés/écrasés" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "στενοχωρούμενοι,", "gloss": "réduits_à_l'étroit" },
-          { "greek": "ἀπορούμενοι", "gloss": "étant_dans_le_doute/sans_ressource" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἐξαπορούμενοι,", "gloss": "totalement_désespérés" }
+          {
+            "greek": "ἐν",
+            "gloss": "En"
+          },
+          {
+            "greek": "παντὶ",
+            "gloss": "tout"
+          },
+          {
+            "greek": "θλιβόμενοι",
+            "gloss": "étant_pressés/écrasés"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "στενοχωρούμενοι,",
+            "gloss": "réduits_à_l'étroit"
+          },
+          {
+            "greek": "ἀπορούμενοι",
+            "gloss": "étant_dans_le_doute/sans_ressource"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐξαπορούμενοι,",
+            "gloss": "totalement_désespérés"
+          }
         ]
       },
       {
@@ -356,14 +1061,38 @@
           "darby": "persécutés, mais non pas abandonnés ; abattus, mais non pas détruits ;"
         },
         "interlinear": [
-          { "greek": "διωκόμενοι", "gloss": "étant_persécutés" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἐγκαταλειπόμενοι,", "gloss": "abandonnés" },
-          { "greek": "καταβαλλόμενοι", "gloss": "étant_jetés_à_terre/abattus" },
-          { "greek": "ἀλλ’", "gloss": "mais" },
-          { "greek": "οὐκ", "gloss": "non" },
-          { "greek": "ἀπολλύμενοι,", "gloss": "détruits/perdus" }
+          {
+            "greek": "διωκόμενοι",
+            "gloss": "étant_persécutés"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐγκαταλειπόμενοι,",
+            "gloss": "abandonnés"
+          },
+          {
+            "greek": "καταβαλλόμενοι",
+            "gloss": "étant_jetés_à_terre/abattus"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἀπολλύμενοι,",
+            "gloss": "détruits/perdus"
+          }
         ]
       },
       {
@@ -373,26 +1102,87 @@
           "darby": "portant toujours partout dans le corps la mort de Jésus, afin que la vie aussi de Jésus soit manifestée dans notre corps."
         },
         "interlinear": [
-          { "greek": "πάντοτε", "gloss": "Toujours" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "νέκρωσιν", "gloss": "mortification/mise_à_mort", "analyse": "Le mot *nekrosis* ne désigne pas l'état d'être mort (*thanatos*), mais le processus actif de mise à mort. C'est la kénose vécue dans la chair : l'apôtre accepte que son Ego et son confort mondain soient continuellement brisés pour laisser l'Énergie vitale passer à travers ses failles." },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "σώματι", "gloss": "corps" },
-          { "greek": "περιφέροντες,", "gloss": "portant_partout" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "ζωὴ", "gloss": "vie" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "σώματι", "gloss": "corps" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "φανερωθῇ.", "gloss": "soit_manifestée" }
+          {
+            "greek": "πάντοτε",
+            "gloss": "Toujours"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "νέκρωσιν",
+            "gloss": "mortification/mise_à_mort",
+            "analyse": "Le mot *nekrosis* ne désigne pas l'état d'être mort (*thanatos*), mais le processus actif de mise à mort. C'est la kénose vécue dans la chair : l'apôtre accepte que son Ego et son confort mondain soient continuellement brisés pour laisser l'Énergie vitale passer à travers ses failles."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σώματι",
+            "gloss": "corps"
+          },
+          {
+            "greek": "περιφέροντες,",
+            "gloss": "portant_partout"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ζωὴ",
+            "gloss": "vie"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "σώματι",
+            "gloss": "corps"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "φανερωθῇ.",
+            "gloss": "soit_manifestée"
+          }
         ]
       },
       {
@@ -402,28 +1192,94 @@
           "darby": "Car nous qui vivons, nous sommes toujours livrés à la mort pour l'amour de Jésus, afin que la vie aussi de Jésus soit manifestée dans notre chair mortelle."
         },
         "interlinear": [
-          { "greek": "ἀεὶ", "gloss": "Toujours/sans_cesse" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἡμεῖς", "gloss": "nous" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "ζῶντες", "gloss": "vivants" },
-          { "greek": "εἰς", "gloss": "à/vers" },
-          { "greek": "θάνατον", "gloss": "mort" },
-          { "greek": "παραδιδόμεθα", "gloss": "nous_sommes_livrés" },
-          { "greek": "διὰ", "gloss": "à_cause_de" },
-          { "greek": "Ἰησοῦν,", "gloss": "Jésus" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "ζωὴ", "gloss": "vie" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "φανερωθῇ", "gloss": "soit_manifestée" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "la" },
-          { "greek": "θνητῇ", "gloss": "mortelle" },
-          { "greek": "σαρκὶ", "gloss": "chair" },
-          { "greek": "ἡμῶν.", "gloss": "de_nous" }
+          {
+            "greek": "ἀεὶ",
+            "gloss": "Toujours/sans_cesse"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ζῶντες",
+            "gloss": "vivants"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "à/vers"
+          },
+          {
+            "greek": "θάνατον",
+            "gloss": "mort"
+          },
+          {
+            "greek": "παραδιδόμεθα",
+            "gloss": "nous_sommes_livrés"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "Ἰησοῦν,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ζωὴ",
+            "gloss": "vie"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "φανερωθῇ",
+            "gloss": "soit_manifestée"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "θνητῇ",
+            "gloss": "mortelle"
+          },
+          {
+            "greek": "σαρκὶ",
+            "gloss": "chair"
+          },
+          {
+            "greek": "ἡμῶν.",
+            "gloss": "de_nous"
+          }
         ]
       },
       {
@@ -433,17 +1289,51 @@
           "darby": "Ainsi la mort opère en nous, mais la vie en vous."
         },
         "interlinear": [
-          { "greek": "ὥστε", "gloss": "De_sorte_que" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "θάνατος", "gloss": "mort" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ἡμῖν", "gloss": "nous" },
-          { "greek": "ἐνεργεῖται,", "gloss": "agit/opère", "analyse": "Le verbe *energeitai* (est mis en énergie). C'est le grand paradoxe de la croix : la mort volontaire de l'Ego de l'apôtre devient l'Énergie (*energeia*) qui transmet la vie au corps ecclésial. Si le pasteur préserve sa vie mondaine, la communauté meurt. S'il offre sa vie en kénose, la communauté vit." },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "ζωὴ", "gloss": "vie" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ὑμῖν.", "gloss": "vous" }
+          {
+            "greek": "ὥστε",
+            "gloss": "De_sorte_que"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "θάνατος",
+            "gloss": "mort"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἡμῖν",
+            "gloss": "nous"
+          },
+          {
+            "greek": "ἐνεργεῖται,",
+            "gloss": "agit/opère",
+            "analyse": "Le verbe *energeitai* (est mis en énergie). C'est le grand paradoxe de la croix : la mort volontaire de l'Ego de l'apôtre devient l'Énergie (*energeia*) qui transmet la vie au corps ecclésial. Si le pasteur préserve sa vie mondaine, la communauté meurt. S'il offre sa vie en kénose, la communauté vit."
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ζωὴ",
+            "gloss": "vie"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ὑμῖν.",
+            "gloss": "vous"
+          }
         ]
       },
       {
@@ -453,25 +1343,82 @@
           "darby": "Et ayant le même esprit de foi, selon ce qui est écrit : « J'ai cru, c'est pourquoi j'ai parlé », nous aussi nous croyons, et c'est pourquoi aussi nous parlons,"
         },
         "interlinear": [
-          { "greek": "Ἔχοντες", "gloss": "Ayant" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "τὸ", "gloss": "le" },
-          { "greek": "αὐτὸ", "gloss": "même" },
-          { "greek": "πνεῦμα", "gloss": "esprit" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "πίστεως,", "gloss": "foi" },
-          { "greek": "κατὰ", "gloss": "selon" },
-          { "greek": "τὸ", "gloss": "ce_qui_est" },
-          { "greek": "γεγραμμένον·", "gloss": "écrit" },
-          { "greek": "Ἐπίστευσα,", "gloss": "J'ai_cru" },
-          { "greek": "διὸ", "gloss": "c'est_pourquoi" },
-          { "greek": "ἐλάλησα,", "gloss": "j'ai_parlé" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἡμεῖς", "gloss": "nous" },
-          { "greek": "πιστεύομεν,", "gloss": "nous_croyons" },
-          { "greek": "διὸ", "gloss": "c'est_pourquoi" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "λαλοῦμεν,", "gloss": "nous_parlons" }
+          {
+            "greek": "Ἔχοντες",
+            "gloss": "Ayant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "αὐτὸ",
+            "gloss": "même"
+          },
+          {
+            "greek": "πνεῦμα",
+            "gloss": "esprit"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πίστεως,",
+            "gloss": "foi"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "ce_qui_est"
+          },
+          {
+            "greek": "γεγραμμένον·",
+            "gloss": "écrit"
+          },
+          {
+            "greek": "Ἐπίστευσα,",
+            "gloss": "J'ai_cru"
+          },
+          {
+            "greek": "διὸ",
+            "gloss": "c'est_pourquoi"
+          },
+          {
+            "greek": "ἐλάλησα,",
+            "gloss": "j'ai_parlé"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "πιστεύομεν,",
+            "gloss": "nous_croyons"
+          },
+          {
+            "greek": "διὸ",
+            "gloss": "c'est_pourquoi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "λαλοῦμεν,",
+            "gloss": "nous_parlons"
+          }
         ]
       },
       {
@@ -481,22 +1428,70 @@
           "darby": "sachant que celui qui a ressuscité le Seigneur Jésus, nous ressuscitera aussi avec Jésus et nous présentera avec vous."
         },
         "interlinear": [
-          { "greek": "εἰδότες", "gloss": "sachant" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "ἐγείρας", "gloss": "ayant_ressuscité/réveillé" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κύριον", "gloss": "Seigneur" },
-          { "greek": "Ἰησοῦν", "gloss": "Jésus" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ἡμᾶς", "gloss": "nous" },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "ἐγερεῖ", "gloss": "ressuscitera" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "παραστήσει", "gloss": "présentera/fera_paraître" },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "ὑμῖν.", "gloss": "vous" }
+          {
+            "greek": "εἰδότες",
+            "gloss": "sachant"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἐγείρας",
+            "gloss": "ayant_ressuscité/réveillé"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριον",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "Ἰησοῦν",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐγερεῖ",
+            "gloss": "ressuscitera"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παραστήσει",
+            "gloss": "présentera/fera_paraître"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ὑμῖν.",
+            "gloss": "vous"
+          }
         ]
       },
       {
@@ -506,30 +1501,173 @@
           "darby": "Car toutes choses sont pour vous, afin que la grâce, abondant par le moyen de plusieurs, multiplie les actions de grâces à la gloire de Dieu."
         },
         "interlinear": [
-          { "greek": "τὰ", "gloss": "Les" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "πάντα", "gloss": "toutes_choses" },
-          { "greek": "δι’", "gloss": "à_cause_de/pour" },
-          { "greek": "ὑμᾶς,", "gloss": "vous" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "χάρις", "gloss": "grâce" },
-          { "greek": "πλεονάσασα", "gloss": "s'étant_multipliée" },
-          { "greek": "διὰ", "gloss": "à_travers/par" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "πλειόνων", "gloss": "plus_nombreux" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "εὐχαριστίαν", "gloss": "action_de_grâces/eucharistie" },
-          { "greek": "περισσεύσῃ", "gloss": "fasse_abonder" },
-          { "greek": "εἰς", "gloss": "pour" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "δόξαν", "gloss": "gloire" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ.", "gloss": "Dieu" }
+          {
+            "greek": "τὰ",
+            "gloss": "Les"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "à_cause_de/pour"
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "πλεονάσασα",
+            "gloss": "s'étant_multipliée"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers/par"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "πλειόνων",
+            "gloss": "plus_nombreux"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "εὐχαριστίαν",
+            "gloss": "action_de_grâces/eucharistie"
+          },
+          {
+            "greek": "περισσεύσῃ",
+            "gloss": "fasse_abonder"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "δόξαν",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ.",
+            "gloss": "Dieu"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 7 - ὀστρακίνοις : 'Vases de terre' est une bonne traduction, mais le grec *ostrakinon* évoque précisément la poterie d'argile la plus commune et cassable. Dans l'antiquité, on y cachait parfois des valeurs lors des invasions. L'apôtre insiste sur l'extrême banalité et la fragilité du contenant, qui contraste avec l'infini du contenu.\n• Verset 10 - νέκρωσιν : Traduit par 'la mort de Jésus'. Darby et Segond perdent une nuance cruciale. Le grec a le mot *thanatos* pour l'état de mort, mais utilise ici *nekrosis*, qui est le processus de mortification, l'action de mettre à mort. Paul ne trimballe pas un cadavre ; il actualise en permanence dans sa chair le processus kénotique de la crucifixion.\n\nAnalyse spirituelle :\nCe texte est l'antidote absolu à la maladie des docteurs de la loi vus dans l'Évangile. Les Pharisiens attendaient un 'Fils de David' conquérant, puissant, dans un corps invincible : ils pensaient le divin selon les codes de domination du 'Monde duel'.\n\nSaint Paul renverse totalement cette matrice. La Puissance de Dieu (*dynamis*) n'écrase pas l'homme pour s'imposer ; elle choisit de résider dans ce qu'il y a de plus fragile et de plus destructible : un 'vase de terre'. La force du Sujet christique n'est pas de nier sa fragilité, mais de l'assumer totalement pour que la gloire ne soit pas attribuée à l'Ego, mais à l'Énergie incréée qui le traverse.\n\nLes versets 10 à 12 décrivent la loi fondamentale de l'amour spirituel : la kénose transmise. Le Monde duel fonctionne sur la survie (je tue l'autre pour vivre). Le Royaume fonctionne sur l'offrande ('la mort agit en nous, et la vie agit en vous'). L'apôtre accepte les pressions (*thlibomenoi*), l'abattement et la persécution de la part du Monde duel sans jamais rendre les coups. Ce 'broyage' de son vase d'argile permet à la Lumière incréée, jadis enfermée, de jaillir (*photismos*) et d'illuminer la communauté. L'épuisement du pasteur devient l'Eucharistie (*eucharistian*, v. 15) de la multitude."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 7 - ὀστρακίνοις : 'Vases de terre' est une bonne traduction, mais le grec *ostrakinon* évoque précisément la poterie d'argile la plus commune et cassable. Dans l'antiquité, on y cachait parfois des valeurs lors des invasions. L'apôtre insiste sur l'extrême banalité et la fragilité du contenant, qui contraste avec l'infini du contenu.\n• Verset 10 - νέκρωσιν : Traduit par 'la mort de Jésus'. Darby et Segond perdent une nuance cruciale. Le grec a le mot *thanatos* pour l'état de mort, mais utilise ici *nekrosis*, qui est le processus de mortification, l'action de mettre à mort. Paul ne trimballe pas un cadavre ; il actualise en permanence dans sa chair le processus kénotique de la crucifixion.\n\nAnalyse spirituelle :\nCe texte est l'antidote absolu à la maladie des docteurs de la loi vus dans l'Évangile. Les Pharisiens attendaient un 'Fils de David' conquérant, puissant, dans un corps invincible : ils pensaient le divin selon les codes de domination du 'Monde duel'.\n\nSaint Paul renverse totalement cette matrice. La Puissance de Dieu (*dynamis*) n'écrase pas l'homme pour s'imposer ; elle choisit de résider dans ce qu'il y a de plus fragile et de plus destructible : un 'vase de terre'. La force du Sujet christique n'est pas de nier sa fragilité, mais de l'assumer totalement pour que la gloire ne soit pas attribuée à l'Ego, mais à l'Énergie incréée qui le traverse.\n\nLes versets 10 à 12 décrivent la loi fondamentale de l'amour spirituel : la kénose transmise. Le Monde duel fonctionne sur la survie (je tue l'autre pour vivre). Le Royaume fonctionne sur l'offrande ('la mort agit en nous, et la vie agit en vous'). L'apôtre accepte les pressions (*thlibomenoi*), l'abattement et la persécution de la part du Monde duel sans jamais rendre les coups. Ce 'broyage' de son vase d'argile permet à la Lumière incréée, jadis enfermée, de jaillir (*photismos*) et d'illuminer la communauté. L'épuisement du pasteur devient l'Eucharistie (*eucharistian*, v. 15) de la multitude.",
+    "homiletic_axes": [
+      {
+        "title": "Unifier le cœur dans l’amour de Dieu",
+        "content": "Le premier commandement rassemble le cœur, l’âme et la pensée au lieu de les laisser dispersés. Paul parle de la lumière de Dieu brillant dans les cœurs : l’amour naît d’un centre intérieur éclairé par le visage du Christ.",
+        "keywords": [
+          "ἀγαπάω — aimer",
+          "καρδία — cœur",
+          "φῶς — lumière"
+        ]
+      },
+      {
+        "title": "Deux commandements inséparables",
+        "content": "L’amour de Dieu et l’amour du prochain sont distingués sans être séparés. L’Apôtre en montre la forme concrète : porter la vie de Jésus dans une existence exposée, éprouvée et donnée pour les autres.",
+        "keywords": [
+          "πλησίον — prochain",
+          "ζωή — vie",
+          "διὰ Ἰησοῦν — à cause de Jésus"
+        ]
+      },
+      {
+        "title": "Le trésor dans des vases de terre",
+        "content": "La totalité demandée par le commandement ne suppose pas une perfection autosuffisante. Le trésor demeure dans des vases fragiles afin que la puissance soit reconnue comme venant de Dieu.",
+        "keywords": [
+          "θησαυρός — trésor",
+          "ὀστράκινος — de terre",
+          "δύναμις — puissance"
+        ]
+      },
+      {
+        "title": "Le Messie, fils de David et Seigneur",
+        "content": "Jésus conduit ses interlocuteurs au-delà d’une définition seulement généalogique du Messie. La lumière de la connaissance de Dieu resplendit dans le visage du Christ : celui qui interroge sur le commandement révèle aussi qui en est le Seigneur.",
+        "keywords": [
+          "Χριστός — Messie",
+          "Κύριος — Seigneur",
+          "πρόσωπον — visage"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le plus grand commandement » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez comment le cœur, l’amour, la lumière, la fragilité et la puissance progressent d’un texte à l’autre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Du commandement reçu à la vie donnée",
+        "reference": "Matthieu 22, 35-46 ; 2 Corinthiens 4, 6-15",
+        "content": "Le Christ unifie toute la Loi dans l’amour ; Paul montre cet amour à l’œuvre dans une vie fragile qui porte et transmet la vie de Jésus.",
+        "connections": []
+      }
+    ]
   }
 }
- 

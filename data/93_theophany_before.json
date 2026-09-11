@@ -10,13 +10,36 @@
           "darby": "Commencement de l'évangile de Jésus Christ, Fils de Dieu ;"
         },
         "interlinear": [
-          { "greek": "Ἀρχὴ", "gloss": "Commencement/Principe", "analyse": "L'*Arche*. Ce n'est pas simplement un début chronologique, c'est le Principe générateur, le point zéro où l'Éternité fait irruption dans l'espace-temps duel." },
-          { "greek": "τοῦ", "gloss": "de_l'" },
-          { "greek": "εὐαγγελίου", "gloss": "Évangile/Bonne_Nouvelle", "analyse": "L'*Eu-angelion*. La fréquence de la Lumière pure, le code source de l'Unification." },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "Χριστοῦ", "gloss": "Christ" },
-          { "greek": "[υἱοῦ", "gloss": "Fils" },
-          { "greek": "θεοῦ].", "gloss": "de_Dieu" }
+          {
+            "greek": "Ἀρχὴ",
+            "gloss": "Commencement/Principe",
+            "analyse": "L'*Arche*. Ce n'est pas simplement un début chronologique, c'est le Principe générateur, le point zéro où l'Éternité fait irruption dans l'espace-temps duel."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "εὐαγγελίου",
+            "gloss": "Évangile/Bonne_Nouvelle",
+            "analyse": "L'*Eu-angelion*. La fréquence de la Lumière pure, le code source de l'Unification."
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "[υἱοῦ",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "θεοῦ].",
+            "gloss": "de_Dieu"
+          }
         ]
       },
       {
@@ -26,26 +49,88 @@
           "darby": "selon qu'il est écrit dans le prophète Ésaïe : 'Voici, moi j'envoie mon messager devant ta face, lequel préparera ton chemin'."
         },
         "interlinear": [
-          { "greek": "Καθὼς", "gloss": "Comme/Selon" },
-          { "greek": "γέγραπται", "gloss": "il_a_été_écrit" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "Ἠσαΐᾳ", "gloss": "Ésaïe" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "προφήτῃ·", "gloss": "prophète" },
-          { "greek": "Ἰδοὺ", "gloss": "Voici" },
-          { "greek": "ἀποστέλλω", "gloss": "j'envoie" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἄγγελόν", "gloss": "messager/ange", "analyse": "Le précurseur n'agit pas selon son propre Ego, il est un 'ange' (un émetteur pur), mandaté pour opérer une rectification topographique avant l'arrivée du Roi." },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "πρὸ", "gloss": "devant" },
-          { "greek": "προσώπου", "gloss": "la_face" },
-          { "greek": "σου,", "gloss": "de_toi" },
-          { "greek": "ὃς", "gloss": "qui" },
-          { "greek": "κατασκευάσει", "gloss": "préparera/aménagera", "analyse": "Un travail d'ingénierie spirituelle. L'Incréé ne se pose pas sur un terrain chaotique ; il faut d'abord que le Sujet déblaie les gravats de l'Ego." },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "ὁδόν", "gloss": "chemin/la_voie" },
-          { "greek": "σου·", "gloss": "de_toi" }
+          {
+            "greek": "Καθὼς",
+            "gloss": "Comme/Selon"
+          },
+          {
+            "greek": "γέγραπται",
+            "gloss": "il_a_été_écrit"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἠσαΐᾳ",
+            "gloss": "Ésaïe"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "προφήτῃ·",
+            "gloss": "prophète"
+          },
+          {
+            "greek": "Ἰδοὺ",
+            "gloss": "Voici"
+          },
+          {
+            "greek": "ἀποστέλλω",
+            "gloss": "j'envoie"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄγγελόν",
+            "gloss": "messager/ange",
+            "analyse": "Le précurseur n'agit pas selon son propre Ego, il est un 'ange' (un émetteur pur), mandaté pour opérer une rectification topographique avant l'arrivée du Roi."
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "πρὸ",
+            "gloss": "devant"
+          },
+          {
+            "greek": "προσώπου",
+            "gloss": "la_face"
+          },
+          {
+            "greek": "σου,",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "κατασκευάσει",
+            "gloss": "préparera/aménagera",
+            "analyse": "Un travail d'ingénierie spirituelle. L'Incréé ne se pose pas sur un terrain chaotique ; il faut d'abord que le Sujet déblaie les gravats de l'Ego."
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὁδόν",
+            "gloss": "chemin/la_voie"
+          },
+          {
+            "greek": "σου·",
+            "gloss": "de_toi"
+          }
         ]
       },
       {
@@ -55,20 +140,65 @@
           "darby": "'Voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, faites droits ses sentiers'."
         },
         "interlinear": [
-          { "greek": "Φωνὴ", "gloss": "Une_voix", "analyse": "La *Phone*. Jean est défini comme une simple vibration sonore. Son Ego est tellement effacé qu'il n'est plus qu'un canal acoustique pour le *Logos* (le Verbe)." },
-          { "greek": "βοῶντος", "gloss": "hurlant/criant" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "ἐρήμῳ·", "gloss": "désert", "analyse": "L'*Eremos*. L'espace vidé de toute interférence de la Matrice (le système de la ville, Jérusalem). La Révélation exige le vide absolu (*Kénose* spatiale) pour être captée." },
-          { "greek": "Ἑτοιμάσατε", "gloss": "Préparez" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "ὁδὸν", "gloss": "chemin" },
-          { "greek": "κυρίου,", "gloss": "du_Seigneur" },
-          { "greek": "εὐθείας", "gloss": "droites", "analyse": "Le terme géométrique de la non-dualité. L'Ego évolue dans des chemins sinueux et circulaires (l'entropie karmique). L'Axe christique exige la Ligne Droite, la connexion la plus rapide vers le Centre." },
-          { "greek": "ποιεῖτε", "gloss": "faites/rendez" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "τρίβους", "gloss": "sentiers" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "Φωνὴ",
+            "gloss": "Une_voix",
+            "analyse": "La *Phone*. Jean est défini comme une simple vibration sonore. Son Ego est tellement effacé qu'il n'est plus qu'un canal acoustique pour le *Logos* (le Verbe)."
+          },
+          {
+            "greek": "βοῶντος",
+            "gloss": "hurlant/criant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐρήμῳ·",
+            "gloss": "désert",
+            "analyse": "L'*Eremos*. L'espace vidé de toute interférence de la Matrice (le système de la ville, Jérusalem). La Révélation exige le vide absolu (*Kénose* spatiale) pour être captée."
+          },
+          {
+            "greek": "Ἑτοιμάσατε",
+            "gloss": "Préparez"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὁδὸν",
+            "gloss": "chemin"
+          },
+          {
+            "greek": "κυρίου,",
+            "gloss": "du_Seigneur"
+          },
+          {
+            "greek": "εὐθείας",
+            "gloss": "droites",
+            "analyse": "Le terme géométrique de la non-dualité. L'Ego évolue dans des chemins sinueux et circulaires (l'entropie karmique). L'Axe christique exige la Ligne Droite, la connexion la plus rapide vers le Centre."
+          },
+          {
+            "greek": "ποιεῖτε",
+            "gloss": "faites/rendez"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "τρίβους",
+            "gloss": "sentiers"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -78,20 +208,66 @@
           "darby": "Jean vint, baptisant dans le désert et prêchant le baptême de la repentance pour la rémission des péchés."
         },
         "interlinear": [
-          { "greek": "Ἐγένετο", "gloss": "Il_arriva/parut" },
-          { "greek": "Ἰωάννης", "gloss": "Jean" },
-          { "greek": "[ὁ]", "gloss": "celui" },
-          { "greek": "βαπτίζων", "gloss": "baptisant/immergeant" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "ἐρήμῳ", "gloss": "désert" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "κηρύσσων", "gloss": "proclamant" },
-          { "greek": "βάπτισμα", "gloss": "un_baptême", "analyse": "L'immersion dans l'eau. Symboliquement, c'est la mort aux lois de la gravité terrestre. On plonge l'Ego dans le chaos originel pour désintégrer ses anciennes structures." },
-          { "greek": "μετανοίας", "gloss": "de_repentance/de_retournement", "analyse": "La *Meta-noia*. Bien au-delà du simple 'regret' moral. C'est le retournement complet (*meta*) de l'intellect (*nous*), un changement de paradigme, une mutation de la fréquence de conscience." },
-          { "greek": "εἰς", "gloss": "vers/pour" },
-          { "greek": "ἄφεσιν", "gloss": "la_rémission/relâchement", "analyse": "L'*Aphesis*. Le dénouement des chaînes karmiques. L'énergie vampirisée par les fautes est relâchée." },
-          { "greek": "ἁμαρτιῶν.", "gloss": "des_péchés", "analyse": "L'*Hamartia*. La cible ratée, le désaxement. La rémission des péchés est le réalignement balistique de l'Être vers son Centre." }
+          {
+            "greek": "Ἐγένετο",
+            "gloss": "Il_arriva/parut"
+          },
+          {
+            "greek": "Ἰωάννης",
+            "gloss": "Jean"
+          },
+          {
+            "greek": "[ὁ]",
+            "gloss": "celui"
+          },
+          {
+            "greek": "βαπτίζων",
+            "gloss": "baptisant/immergeant"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐρήμῳ",
+            "gloss": "désert"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "κηρύσσων",
+            "gloss": "proclamant"
+          },
+          {
+            "greek": "βάπτισμα",
+            "gloss": "un_baptême",
+            "analyse": "L'immersion dans l'eau. Symboliquement, c'est la mort aux lois de la gravité terrestre. On plonge l'Ego dans le chaos originel pour désintégrer ses anciennes structures."
+          },
+          {
+            "greek": "μετανοίας",
+            "gloss": "de_repentance/de_retournement",
+            "analyse": "La *Meta-noia*. Bien au-delà du simple 'regret' moral. C'est le retournement complet (*meta*) de l'intellect (*nous*), un changement de paradigme, une mutation de la fréquence de conscience."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/pour"
+          },
+          {
+            "greek": "ἄφεσιν",
+            "gloss": "la_rémission/relâchement",
+            "analyse": "L'*Aphesis*. Le dénouement des chaînes karmiques. L'énergie vampirisée par les fautes est relâchée."
+          },
+          {
+            "greek": "ἁμαρτιῶν.",
+            "gloss": "des_péchés",
+            "analyse": "L'*Hamartia*. La cible ratée, le désaxement. La rémission des péchés est le réalignement balistique de l'Être vers son Centre."
+          }
         ]
       },
       {
@@ -101,30 +277,104 @@
           "darby": "Et tout le pays de Judée et tous ceux de Jérusalem sortaient vers lui ; et ils étaient tous baptisés par lui dans le fleuve du Jourdain, confessant leurs péchés."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ἐξεπορεύετο", "gloss": "sortait", "analyse": "Le mouvement centrifuge (*ex-poreuomai*). Face à l'intensité de la fréquence émise dans le désert, la Matrice (Jérusalem/Judée) se vide. Les Sujets quittent l'illusion architecturale pour aller chercher la vérité dans le dénuement." },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "πᾶσα", "gloss": "tout" },
-          { "greek": "ἡ", "gloss": "le" },
-          { "greek": "Ἰουδαία", "gloss": "Judée" },
-          { "greek": "χώρα", "gloss": "pays/région" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "Ἱεροσολυμῖται", "gloss": "hiérosolymitains" },
-          { "greek": "πάντες,", "gloss": "tous" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐβαπτίζοντο", "gloss": "ils_étaient_baptisés" },
-          { "greek": "ὑπ’", "gloss": "par" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "Ἰορδάνῃ", "gloss": "Jourdain" },
-          { "greek": "ποταμῷ", "gloss": "fleuve" },
-          { "greek": "ἐξομολογούμενοι", "gloss": "confessant/reconnaissant", "analyse": "L'*ex-homo-logeo* (dire la même chose depuis soi). Dire la vérité totale sur sa propre opacité. L'aveu pulvérise les masques de l'Ego, préalable indispensable à l'effacement dans l'eau." },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "ἁμαρτίας", "gloss": "cibles_ratées" },
-          { "greek": "αὐτῶν.", "gloss": "d'eux" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐξεπορεύετο",
+            "gloss": "sortait",
+            "analyse": "Le mouvement centrifuge (*ex-poreuomai*). Face à l'intensité de la fréquence émise dans le désert, la Matrice (Jérusalem/Judée) se vide. Les Sujets quittent l'illusion architecturale pour aller chercher la vérité dans le dénuement."
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "πᾶσα",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰουδαία",
+            "gloss": "Judée"
+          },
+          {
+            "greek": "χώρα",
+            "gloss": "pays/région"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "Ἱεροσολυμῖται",
+            "gloss": "hiérosolymitains"
+          },
+          {
+            "greek": "πάντες,",
+            "gloss": "tous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐβαπτίζοντο",
+            "gloss": "ils_étaient_baptisés"
+          },
+          {
+            "greek": "ὑπ’",
+            "gloss": "par"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰορδάνῃ",
+            "gloss": "Jourdain"
+          },
+          {
+            "greek": "ποταμῷ",
+            "gloss": "fleuve"
+          },
+          {
+            "greek": "ἐξομολογούμενοι",
+            "gloss": "confessant/reconnaissant",
+            "analyse": "L'*ex-homo-logeo* (dire la même chose depuis soi). Dire la vérité totale sur sa propre opacité. L'aveu pulvérise les masques de l'Ego, préalable indispensable à l'effacement dans l'eau."
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁμαρτίας",
+            "gloss": "cibles_ratées"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "d'eux"
+          }
         ]
       },
       {
@@ -134,26 +384,88 @@
           "darby": "Or Jean était vêtu de poil de chameau, et avait une ceinture de cuir autour de ses reins, et il mangeait des sauterelles et du miel sauvage."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰωάννης", "gloss": "Jean" },
-          { "greek": "ἐνδεδυμένος", "gloss": "vêtu" },
-          { "greek": "τρίχας", "gloss": "de_poils" },
-          { "greek": "καμήλου", "gloss": "de_chameau" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ζώνην", "gloss": "une_ceinture" },
-          { "greek": "δερματίνην", "gloss": "de_cuir" },
-          { "greek": "περὶ", "gloss": "autour_de" },
-          { "greek": "τὴν", "gloss": "les" },
-          { "greek": "ὀσφὺν", "gloss": "reins", "analyse": "L'équipement du prophète Élie. Jean renonce aux habits tissés de la civilisation (qui symbolisent le conditionnement social). Sa ceinture comprime ses reins (siège des passions) : c'est la maîtrise totale de la gravité instinctive." },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔσθων", "gloss": "mangeant" },
-          { "greek": "ἀκρίδας", "gloss": "des_sauterelles" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "μέλι", "gloss": "du_miel" },
-          { "greek": "ἄγριον.", "gloss": "sauvage", "analyse": "Le régime alimentaire anti-matrice. Jean refuse l'économie agraire et commerciale de l'homme déchu. Il puise son énergie directement dans ce que la nature originelle (*agrion*) donne librement." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰωάννης",
+            "gloss": "Jean"
+          },
+          {
+            "greek": "ἐνδεδυμένος",
+            "gloss": "vêtu"
+          },
+          {
+            "greek": "τρίχας",
+            "gloss": "de_poils"
+          },
+          {
+            "greek": "καμήλου",
+            "gloss": "de_chameau"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ζώνην",
+            "gloss": "une_ceinture"
+          },
+          {
+            "greek": "δερματίνην",
+            "gloss": "de_cuir"
+          },
+          {
+            "greek": "περὶ",
+            "gloss": "autour_de"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὀσφὺν",
+            "gloss": "reins",
+            "analyse": "L'équipement du prophète Élie. Jean renonce aux habits tissés de la civilisation (qui symbolisent le conditionnement social). Sa ceinture comprime ses reins (siège des passions) : c'est la maîtrise totale de la gravité instinctive."
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔσθων",
+            "gloss": "mangeant"
+          },
+          {
+            "greek": "ἀκρίδας",
+            "gloss": "des_sauterelles"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "μέλι",
+            "gloss": "du_miel"
+          },
+          {
+            "greek": "ἄγριον.",
+            "gloss": "sauvage",
+            "analyse": "Le régime alimentaire anti-matrice. Jean refuse l'économie agraire et commerciale de l'homme déchu. Il puise son énergie directement dans ce que la nature originelle (*agrion*) donne librement."
+          }
         ]
       },
       {
@@ -163,26 +475,88 @@
           "darby": "Et il prêchait, disant : Il vient après moi celui qui est plus puissant que moi, duquel je ne suis pas digne de délier, en me baissant, la courroie des sandales."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ἐκήρυσσεν", "gloss": "il_proclamait" },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Ἔρχεται", "gloss": "Il_vient" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "ἰσχυρότερός", "gloss": "plus_puissant/plus_fort", "analyse": "La Force absolue (*Ischys*). Jean possède la force de détruire l'Ego, mais seul le Christ possède l'Énergie anti-entropique pour ressusciter la matière." },
-          { "greek": "μου", "gloss": "que_moi" },
-          { "greek": "ὀπίσω", "gloss": "derrière/après" },
-          { "greek": "μου,", "gloss": "moi" },
-          { "greek": "οὗ", "gloss": "duquel" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "εἰμὶ", "gloss": "je_suis" },
-          { "greek": "ἱκανὸς", "gloss": "suffisant/digne" },
-          { "greek": "κύψας", "gloss": "m'étant_courbé", "analyse": "L'ultime Kénose. Le plus grand des prophètes courbe son être face à l'Incréé. La verticalité ne tolère aucune concurrence." },
-          { "greek": "λῦσαι", "gloss": "délier" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "ἱμάντα", "gloss": "courroie" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ὑποδημάτων", "gloss": "sandales" },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐκήρυσσεν",
+            "gloss": "il_proclamait"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἔρχεται",
+            "gloss": "Il_vient"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἰσχυρότερός",
+            "gloss": "plus_puissant/plus_fort",
+            "analyse": "La Force absolue (*Ischys*). Jean possède la force de détruire l'Ego, mais seul le Christ possède l'Énergie anti-entropique pour ressusciter la matière."
+          },
+          {
+            "greek": "μου",
+            "gloss": "que_moi"
+          },
+          {
+            "greek": "ὀπίσω",
+            "gloss": "derrière/après"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "οὗ",
+            "gloss": "duquel"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ἱκανὸς",
+            "gloss": "suffisant/digne"
+          },
+          {
+            "greek": "κύψας",
+            "gloss": "m'étant_courbé",
+            "analyse": "L'ultime Kénose. Le plus grand des prophètes courbe son être face à l'Incréé. La verticalité ne tolère aucune concurrence."
+          },
+          {
+            "greek": "λῦσαι",
+            "gloss": "délier"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἱμάντα",
+            "gloss": "courroie"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ὑποδημάτων",
+            "gloss": "sandales"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -192,21 +566,149 @@
           "darby": "Moi, je vous ai baptisés d'eau ; mais lui vous baptisera de l'Esprit Saint."
         },
         "interlinear": [
-          { "greek": "ἐγὼ", "gloss": "Moi" },
-          { "greek": "ἐβάπτισα", "gloss": "j'ai_baptisé/immergé" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "ὕδατι,", "gloss": "dans_l'eau", "analyse": "L'eau nettoie le récipient (la *Metanoia*, le repentir). C'est la phase préparatoire, négative (retirer la boue de l'Ego)." },
-          { "greek": "αὐτὸς", "gloss": "lui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "βαπτίσει", "gloss": "il_baptisera/immergera" },
-          { "greek": "ὑμᾶς", "gloss": "vous" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "πνεύματι", "gloss": "le_Souffle/l'Esprit", "analyse": "Le *Pneuma*. Le saut quantique. L'Incréé ne se contente pas de nettoyer la créature, Il la sature de Sa propre fréquence lumineuse (le feu et le souffle). L'eau vide le Sujet de la Matrice, l'Esprit le remplit de la Présence éternelle." },
-          { "greek": "ἁγίῳ.", "gloss": "Saint" }
+          {
+            "greek": "ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "ἐβάπτισα",
+            "gloss": "j'ai_baptisé/immergé"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ὕδατι,",
+            "gloss": "dans_l'eau",
+            "analyse": "L'eau nettoie le récipient (la *Metanoia*, le repentir). C'est la phase préparatoire, négative (retirer la boue de l'Ego)."
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "βαπτίσει",
+            "gloss": "il_baptisera/immergera"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πνεύματι",
+            "gloss": "le_Souffle/l'Esprit",
+            "analyse": "Le *Pneuma*. Le saut quantique. L'Incréé ne se contente pas de nettoyer la créature, Il la sature de Sa propre fréquence lumineuse (le feu et le souffle). L'eau vide le Sujet de la Matrice, l'Esprit le remplit de la Présence éternelle."
+          },
+          {
+            "greek": "ἁγίῳ.",
+            "gloss": "Saint"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 3 - εὐθείας (droites) : Le mot grec indique une géométrie parfaite, sans déviation. La spiritualité n'est pas un chemin de flânerie, c'est l'exigence d'une trajectoire balistique directe vers le Centre.\n• Verset 4 - μετανοίας (repentance) : Traduit presque partout par 'repentance' (teinté de culpabilité morale). La *Metanoia* grecque est bien plus puissante : c'est le basculement fondamental (*meta*) de l'intellect (*nous*), la réinitialisation de la conscience qui cesse de percevoir le monde à travers le prisme de la séparation.\n\nAnalyse spirituelle :\nCette ouverture de l'Évangile de Marc nous livre la procédure d'évacuation de la Matrice duel. Jean le Baptiste y opère comme la lame d'un scalpel métaphysique.\n\nTout d'abord, l'espace d'opération : le Désert (*Eremos*). L'Incréé ne vient pas s'ajouter comme une option confortable au milieu de nos constructions égotiques (Jérusalem/la ville). Il exige le Vide. Le Sujet qui désire la lumière doit d'abord sortir de l'économie psychique et matérielle du monde. Jean incarne physiquement cette sortie : sa robe de poil et son régime sauvage (v.6) démontrent un être déprogrammé, qui a cessé de 'consommer' le Monde pour survivre.\n\nSon rôle n'est pas d'attirer la lumière à lui, mais d'agir comme une simple *Phone* (une Voix). Il amène les hommes à 'redresser' ce qui est tordu (v.3), c'est-à-dire à cesser leurs errances karmiques par l'aveu de leur vérité (*exomologoumenoi*, v.5) et par l'immersion dans l'eau de la mort (la dissolution de l'Ego).\n\nCependant, le Baptiste lui-même connaît la limite de sa technologie spirituelle. Son baptême d'eau est une purge, un effacement. Mais il annonce (v.7-8) l'arrivée du *Plus Fort* (*Ischyroteros*). L'eau peut vider la coupe, mais seul le *Pneuma* (le Souffle/Feu du Christ) peut l'embraser. La préparation géométrique du Précurseur ouvre la voie à la Théophanie, l'irruption fracassante de l'Esprit Saint qui va définitivement ré-axer l'humanité."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 3 - εὐθείας (droites) : Le mot grec indique une géométrie parfaite, sans déviation. La spiritualité n'est pas un chemin de flânerie, c'est l'exigence d'une trajectoire balistique directe vers le Centre.\n• Verset 4 - μετανοίας (repentance) : Traduit presque partout par 'repentance' (teinté de culpabilité morale). La *Metanoia* grecque est bien plus puissante : c'est le basculement fondamental (*meta*) de l'intellect (*nous*), la réinitialisation de la conscience qui cesse de percevoir le monde à travers le prisme de la séparation.\n\nAnalyse spirituelle :\nCette ouverture de l'Évangile de Marc nous livre la procédure d'évacuation de la Matrice duel. Jean le Baptiste y opère comme la lame d'un scalpel métaphysique.\n\nTout d'abord, l'espace d'opération : le Désert (*Eremos*). L'Incréé ne vient pas s'ajouter comme une option confortable au milieu de nos constructions égotiques (Jérusalem/la ville). Il exige le Vide. Le Sujet qui désire la lumière doit d'abord sortir de l'économie psychique et matérielle du monde. Jean incarne physiquement cette sortie : sa robe de poil et son régime sauvage (v.6) démontrent un être déprogrammé, qui a cessé de 'consommer' le Monde pour survivre.\n\nSon rôle n'est pas d'attirer la lumière à lui, mais d'agir comme une simple *Phone* (une Voix). Il amène les hommes à 'redresser' ce qui est tordu (v.3), c'est-à-dire à cesser leurs errances karmiques par l'aveu de leur vérité (*exomologoumenoi*, v.5) et par l'immersion dans l'eau de la mort (la dissolution de l'Ego).\n\nCependant, le Baptiste lui-même connaît la limite de sa technologie spirituelle. Son baptême d'eau est une purge, un effacement. Mais il annonce (v.7-8) l'arrivée du *Plus Fort* (*Ischyroteros*). L'eau peut vider la coupe, mais seul le *Pneuma* (le Souffle/Feu du Christ) peut l'embraser. La préparation géométrique du Précurseur ouvre la voie à la Théophanie, l'irruption fracassante de l'Esprit Saint qui va définitivement ré-axer l'humanité.",
+    "homiletic_axes": [
+      {
+        "title": "Préparer le chemin par la métanoïa",
+        "content": "Jean n’attire pas à lui-même : il devient voix qui prépare le chemin du Seigneur. La μετάνοια n’est pas une simple culpabilité mais une conversion de l’intelligence et de la vie, rendue concrète par la confession et le baptême.",
+        "keywords": [
+          "ἑτοιμάζω — préparer",
+          "μετάνοια — conversion",
+          "εὐθύς — droit"
+        ]
+      },
+      {
+        "title": "L’eau prépare, l’Esprit accomplit",
+        "content": "Jean reconnaît la limite et la grandeur de son ministère : il baptise dans l’eau, tandis que le Plus Fort baptisera dans l’Esprit Saint. L’humilité du Précurseur ouvre l’attente de la manifestation trinitaire au Jourdain.",
+        "keywords": [
+          "ὕδωρ — eau",
+          "Πνεῦμα Ἅγιον — Esprit Saint",
+          "ἰσχυρότερος — plus fort"
+        ]
+      },
+      {
+        "title": "Veiller, combattre et garder la foi",
+        "content": "La préparation demandée par Jean rejoint l’exhortation de Paul : demeurer sobre, supporter l’épreuve, accomplir le ministère et garder la foi. L’attente liturgique est une vigilance active, non une attente passive.",
+        "keywords": [
+          "νήφω — veiller avec sobriété",
+          "ἀγών — combat",
+          "πίστις — foi"
+        ]
+      },
+      {
+        "title": "De l’ἀνάλυσις à l’ἐπιφάνεια",
+        "content": "Paul parle de son départ par ἀνάλυσις, terme de déliaison, puis de l’apparition du Seigneur par ἐπιφάνεια. Le préfixe ἀνά- suggère ici un mouvement de relèvement ou de retour ; il prépare l’écoute de la Théophanie sans transformer l’étymologie en définition exhaustive.",
+        "keywords": [
+          "ἀνάλυσις — départ/déliaison",
+          "ἀνά- — vers le haut/de nouveau",
+          "ἐπιφάνεια — manifestation"
+        ]
+      },
+      {
+        "title": "La respiration du cycle théophanique",
+        "content": "Le document fourni met en valeur le couple ἀνά-/κατά- : le Christ descend vers l’homme et l’homme est relevé vers Dieu. Dans la lecture de ce dimanche, cette dynamique reste une ouverture liturgique ; elle se déploiera explicitement au baptême du Christ et dans les lectures qui suivent la fête.",
+        "keywords": [
+          "ἀνά- — montée/retour",
+          "κατά- — descente",
+          "Θεοφάνεια — manifestation de Dieu"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Préparer et aimer la manifestation du Seigneur",
+        "reference": "Marc 1, 1-8 ; 2 Timothée 4, 5-8",
+        "content": "Jean prépare la venue du Plus Fort qui baptisera dans l’Esprit ; Paul achève sa course dans l’amour de l’apparition du Seigneur. Les deux lectures orientent l’assemblée vers la Théophanie par la conversion, la sobriété et la fidélité.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Avant la Théophanie » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, les déplacements et les oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que le Christ donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   },
   "apostle": {
     "reference": "2 Timothée 4, 5-8",
@@ -219,19 +721,61 @@
           "darby": "Mais toi, sois sobre en toutes choses, endure les souffrances, fais l'oeuvre d'un évangéliste, accomplis pleinement ton service."
         },
         "interlinear": [
-          { "greek": "Σὺ", "gloss": "Toi" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "νῆφε", "gloss": "sois_sobre/vigilant", "analyse": "Le verbe *nepho*. Ce n'est pas une injonction diététique, c'est l'état de lucidité vibratoire absolue. L'Ego est perpétuellement ivre des illusions de la Matrice (peurs, désirs, pouvoir). Être 'sobre', c'est refuser l'hypnose du Monde duel." },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "πᾶσιν,", "gloss": "toutes_choses" },
-          { "greek": "κακοπάθησον,", "gloss": "endure_le_mal/souffre", "analyse": "La friction inévitable. Maintenir la Verticalité dans un monde horizontal provoque une résistance de la matière. La souffrance n'est pas une punition, c'est la preuve de l'impact de l'Axe sur la densité matricielle." },
-          { "greek": "ἔργον", "gloss": "l'œuvre" },
-          { "greek": "ποίησον", "gloss": "fais" },
-          { "greek": "εὐαγγελιστοῦ,", "gloss": "d'évangéliste" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "διακονίαν", "gloss": "service/ministère" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "πληροφόρησον.", "gloss": "accomplis_pleinement", "analyse": "Le verbe *plerophoreo* (porter à la plénitude, remplir jusqu'au bord). Le *Pleroma* (la plénitude). Il s'agit de saturer son espace d'incarnation avec la fréquence de l'Incréé." }
+          {
+            "greek": "Σὺ",
+            "gloss": "Toi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "νῆφε",
+            "gloss": "sois_sobre/vigilant",
+            "analyse": "Le verbe *nepho*. Ce n'est pas une injonction diététique, c'est l'état de lucidité vibratoire absolue. L'Ego est perpétuellement ivre des illusions de la Matrice (peurs, désirs, pouvoir). Être 'sobre', c'est refuser l'hypnose du Monde duel."
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "πᾶσιν,",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "κακοπάθησον,",
+            "gloss": "endure_le_mal/souffre",
+            "analyse": "La friction inévitable. Maintenir la Verticalité dans un monde horizontal provoque une résistance de la matière. La souffrance n'est pas une punition, c'est la preuve de l'impact de l'Axe sur la densité matricielle."
+          },
+          {
+            "greek": "ἔργον",
+            "gloss": "l'œuvre"
+          },
+          {
+            "greek": "ποίησον",
+            "gloss": "fais"
+          },
+          {
+            "greek": "εὐαγγελιστοῦ,",
+            "gloss": "d'évangéliste"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "διακονίαν",
+            "gloss": "service/ministère"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "πληροφόρησον.",
+            "gloss": "accomplis_pleinement",
+            "analyse": "Le verbe *plerophoreo* (porter à la plénitude, remplir jusqu'au bord). Le *Pleroma* (la plénitude). Il s'agit de saturer son espace d'incarnation avec la fréquence de l'Incréé."
+          }
         ]
       },
       {
@@ -241,17 +785,53 @@
           "darby": "Car, pour moi, je sers déjà de libation, et le temps de mon départ est arrivé."
         },
         "interlinear": [
-          { "greek": "Ἐγὼ", "gloss": "Moi" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἤδη", "gloss": "déjà" },
-          { "greek": "σπένδομαι,", "gloss": "je_suis_répandu_en_libation", "analyse": "Le verbe magistral *spendo*. L'acte rituel de verser le vin ou l'huile sur l'autel. La Kénose ultime. Paul ne 'meurt' pas comme une victime passive de l'entropie, il se vide activement de sa propre substance pour se fondre dans la Source." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "καιρὸς", "gloss": "moment_propice/Kairos", "analyse": "Le *Kairos*, pas le *Chronos*. La mort de Paul n'est pas une échéance calendaire, c'est le point d'intersection parfait où son cycle terrestre s'achève." },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ἀναλύσεώς", "gloss": "départ/déliaison", "analyse": "Le mot vertigineux : *Ana-lysis*. Souvent traduit par 'départ'. Littéralement : l'action de délier (*lyo*) pour remonter (*ana*). C'est le terme marin pour détacher les amarres d'un navire. La mort du Sujet n'est que la rupture du cordon qui le retenait à la Matrice." },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "ἐφέστηκεν.", "gloss": "est_imminent/s'est_tenu_près" }
+          {
+            "greek": "Ἐγὼ",
+            "gloss": "Moi"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἤδη",
+            "gloss": "déjà"
+          },
+          {
+            "greek": "σπένδομαι,",
+            "gloss": "je_suis_répandu_en_libation",
+            "analyse": "Le verbe magistral *spendo*. L'acte rituel de verser le vin ou l'huile sur l'autel. La Kénose ultime. Paul ne 'meurt' pas comme une victime passive de l'entropie, il se vide activement de sa propre substance pour se fondre dans la Source."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "καιρὸς",
+            "gloss": "moment_propice/Kairos",
+            "analyse": "Le *Kairos*, pas le *Chronos*. La mort de Paul n'est pas une échéance calendaire, c'est le point d'intersection parfait où son cycle terrestre s'achève."
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἀναλύσεώς",
+            "gloss": "départ/déliaison",
+            "analyse": "Le mot vertigineux : *Ana-lysis*. Souvent traduit par 'départ'. Littéralement : l'action de délier (*lyo*) pour remonter (*ana*). C'est le terme marin pour détacher les amarres d'un navire. La mort du Sujet n'est que la rupture du cordon qui le retenait à la Matrice."
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ἐφέστηκεν.",
+            "gloss": "est_imminent/s'est_tenu_près"
+          }
         ]
       },
       {
@@ -261,16 +841,49 @@
           "darby": "J'ai combattu le bon combat, j'ai achevé la course, j'ai gardé la foi :"
         },
         "interlinear": [
-          { "greek": "τὸν", "gloss": "Le" },
-          { "greek": "καλὸν", "gloss": "beau/bon" },
-          { "greek": "ἀγῶνα", "gloss": "combat/agonie", "analyse": "L'*Agon* (qui a donné agonie). L'arène, la tension extrême. La vie spirituelle n'est pas une quiétude psychologique, c'est le maintien sous haute pression de la verticalité face à l'écrasement horizontal." },
-          { "greek": "ἠγώνισμαι,", "gloss": "j'ai_combattu" },
-          { "greek": "τὸν", "gloss": "la" },
-          { "greek": "δρόμον", "gloss": "course" },
-          { "greek": "τετέλεκα,", "gloss": "j'ai_achevée", "analyse": "Le parfait du verbe *teleo*. Pas simplement 'terminer', mais amener au *Telos* (le but métaphysique, la perfection)." },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "πίστιν", "gloss": "foi", "analyse": "La *Pistis*. L'alignement pur. Paul n'a pas gardé un système de dogmes intellectuels, il a préservé l'intégrité de la connexion avec l'Axe." },
-          { "greek": "τετήρηκα·", "gloss": "j'ai_gardée/préservée" }
+          {
+            "greek": "τὸν",
+            "gloss": "Le"
+          },
+          {
+            "greek": "καλὸν",
+            "gloss": "beau/bon"
+          },
+          {
+            "greek": "ἀγῶνα",
+            "gloss": "combat/agonie",
+            "analyse": "L'*Agon* (qui a donné agonie). L'arène, la tension extrême. La vie spirituelle n'est pas une quiétude psychologique, c'est le maintien sous haute pression de la verticalité face à l'écrasement horizontal."
+          },
+          {
+            "greek": "ἠγώνισμαι,",
+            "gloss": "j'ai_combattu"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "δρόμον",
+            "gloss": "course"
+          },
+          {
+            "greek": "τετέλεκα,",
+            "gloss": "j'ai_achevée",
+            "analyse": "Le parfait du verbe *teleo*. Pas simplement 'terminer', mais amener au *Telos* (le but métaphysique, la perfection)."
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστιν",
+            "gloss": "foi",
+            "analyse": "La *Pistis*. L'alignement pur. Paul n'a pas gardé un système de dogmes intellectuels, il a préservé l'intégrité de la connexion avec l'Axe."
+          },
+          {
+            "greek": "τετήρηκα·",
+            "gloss": "j'ai_gardée/préservée"
+          }
         ]
       },
       {
@@ -280,40 +893,229 @@
           "darby": "désormais m'est réservée la couronne de justice, que le Seigneur juste juge me donnera dans ce jour-là, et non seulement à moi, mais aussi à tous ceux qui aiment son apparition."
         },
         "interlinear": [
-          { "greek": "λοιπὸν", "gloss": "Désormais/Il_reste_que" },
-          { "greek": "ἀπόκειταί", "gloss": "est_réservée/déposée" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "δικαιοσύνης", "gloss": "justice/ajustement", "analyse": "La *Dikaiosyne*. Non pas une justice morale et punitive, mais l'Ajustement ontologique parfait. Le Sujet est enfin totalement réaligné avec sa nature divine." },
-          { "greek": "στέφανος,", "gloss": "couronne", "analyse": "Le *Stephanos*. Le symbole géométrique de la victoire : le cercle, la perfection sans début ni fin, la forme de la Non-Dualité." },
-          { "greek": "ὃν", "gloss": "laquelle" },
-          { "greek": "ἀποδώσει", "gloss": "rendra/donnera" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κύριος", "gloss": "Seigneur" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ἐκείνῃ", "gloss": "ce" },
-          { "greek": "τῇ", "gloss": "le" },
-          { "greek": "ἡμέρᾳ,", "gloss": "jour-là" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "δίκαιος", "gloss": "juste" },
-          { "greek": "κριτής,", "gloss": "juge" },
-          { "greek": "οὐ", "gloss": "non" },
-          { "greek": "μόνον", "gloss": "seulement" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐμοὶ", "gloss": "à_moi" },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "πᾶσι", "gloss": "à_tous" },
-          { "greek": "τοῖς", "gloss": "ceux" },
-          { "greek": "ἠγαπηκόσι", "gloss": "ayant_aimé/désiré" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἐπιφάνειαν", "gloss": "apparition/épiphanie", "analyse": "L'*Epiphaneia*. La Théophanie. L'irruption foudroyante de la Lumière (le Phos) qui déchire le voile de la Matrice. Aimer cette apparition, c'est vibrer sur la fréquence de la Fin du Monde duel." },
-          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+          {
+            "greek": "λοιπὸν",
+            "gloss": "Désormais/Il_reste_que"
+          },
+          {
+            "greek": "ἀπόκειταί",
+            "gloss": "est_réservée/déposée"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "δικαιοσύνης",
+            "gloss": "justice/ajustement",
+            "analyse": "La *Dikaiosyne*. Non pas une justice morale et punitive, mais l'Ajustement ontologique parfait. Le Sujet est enfin totalement réaligné avec sa nature divine."
+          },
+          {
+            "greek": "στέφανος,",
+            "gloss": "couronne",
+            "analyse": "Le *Stephanos*. Le symbole géométrique de la victoire : le cercle, la perfection sans début ni fin, la forme de la Non-Dualité."
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "ἀποδώσει",
+            "gloss": "rendra/donnera"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἐκείνῃ",
+            "gloss": "ce"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἡμέρᾳ,",
+            "gloss": "jour-là"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δίκαιος",
+            "gloss": "juste"
+          },
+          {
+            "greek": "κριτής,",
+            "gloss": "juge"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "μόνον",
+            "gloss": "seulement"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "πᾶσι",
+            "gloss": "à_tous"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἠγαπηκόσι",
+            "gloss": "ayant_aimé/désiré"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἐπιφάνειαν",
+            "gloss": "apparition/épiphanie",
+            "analyse": "L'*Epiphaneia*. La Théophanie. L'irruption foudroyante de la Lumière (le Phos) qui déchire le voile de la Matrice. Aimer cette apparition, c'est vibrer sur la fréquence de la Fin du Monde duel."
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἀναλύσεώς : Traduit uniformément par 'départ'. Ce choix gomme l'étymologie puissante de l'*ana-lysis* grecque. Le préfixe *ana* (vers le haut/à nouveau) et le nom *lysis* (la dissolution, la déliaison, la rupture d'une chaîne). Paul ne 'part' pas en voyage, il se détache des liens gravitationnels de la Matrice matérielle pour remonter à la Source.\n• Verset 8 - ἐπιφάνειαν : 'L'avènement' (Segond) ou 'l'apparition' (Darby). Le mot *Epiphaneia* désigne l'irradiation de la lumière pure sur ce qui était caché. C'est le terme même qui donne son nom à la fête de l'Épiphanie (la Théophanie), préparant ainsi l'auditeur à la manifestation du Verbe dans les eaux du Jourdain.\n\nAnalyse spirituelle :\nCette courte péricope est le testament métaphysique de l'Apôtre. Du fond d'une prison romaine, attendant son exécution, Paul livre le secret de la désintégration glorieuse de l'Ego.\n\nLe texte s'ouvre (v.5) sur l'injonction de 'sobriété' (*nepho*) adressée à Timothée. Dans le monde duel, tout est conçu pour intoxiquer la conscience (les ambitions, les peurs, le bruit social). La première étape de l'éveil est le refus de cette ivresse pour maintenir sa lucidité face aux 'souffrances' (la friction avec l'entropie de la Matrice).\n\nAux versets 6 et 7, Paul explique pourquoi la mort du corps n'est pas une tragédie, mais un triomphe structurel. Il utilise le verbe *spendo* (je sers de libation) : la mort n'est pas un vol subi par la nature, c'est l'ultime Kénose volontaire du Sujet éveillé qui se vide de sa propre substance pour se restituer à l'Incréé. Il a maintenu la tension (*Agon*, le combat) non pas pour amasser un mérite, mais pour garder la fréquence (*Pistis*, la foi) intacte d'un bout à l'autre de sa trajectoire (*Telos*).\n\nLe couronnement intervient au verset 8. La Couronne (*Stephanos*) n'est pas une médaille sportive récompensant une supériorité égotique ; c'est le symbole de la plénitude non-duelle, la forme géométrique du cercle fermé. La boucle de l'Incarnation est achevée. Et ce couronnement n'est pas réservé à une élite religieuse : il est la conséquence naturelle pour 'tous ceux qui auront aimé Son apparition'. L'Apôtre déplace ainsi l'attention de son propre sort vers la grande *Epiphaneia* cosmique. Aimer cette irruption lumineuse, c'est cesser de s'accrocher aux ombres de la caverne pour désirer activement que la Matrice soit transpercée par la Vérité de l'Axe."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἀναλύσεώς : Traduit uniformément par 'départ'. Ce choix gomme l'étymologie puissante de l'*ana-lysis* grecque. Le préfixe *ana* (vers le haut/à nouveau) et le nom *lysis* (la dissolution, la déliaison, la rupture d'une chaîne). Paul ne 'part' pas en voyage, il se détache des liens gravitationnels de la Matrice matérielle pour remonter à la Source.\n• Verset 8 - ἐπιφάνειαν : 'L'avènement' (Segond) ou 'l'apparition' (Darby). Le mot *Epiphaneia* désigne l'irradiation de la lumière pure sur ce qui était caché. C'est le terme même qui donne son nom à la fête de l'Épiphanie (la Théophanie), préparant ainsi l'auditeur à la manifestation du Verbe dans les eaux du Jourdain.\n\nAnalyse spirituelle :\nCette courte péricope est le testament métaphysique de l'Apôtre. Du fond d'une prison romaine, attendant son exécution, Paul livre le secret de la désintégration glorieuse de l'Ego.\n\nLe texte s'ouvre (v.5) sur l'injonction de 'sobriété' (*nepho*) adressée à Timothée. Dans le monde duel, tout est conçu pour intoxiquer la conscience (les ambitions, les peurs, le bruit social). La première étape de l'éveil est le refus de cette ivresse pour maintenir sa lucidité face aux 'souffrances' (la friction avec l'entropie de la Matrice).\n\nAux versets 6 et 7, Paul explique pourquoi la mort du corps n'est pas une tragédie, mais un triomphe structurel. Il utilise le verbe *spendo* (je sers de libation) : la mort n'est pas un vol subi par la nature, c'est l'ultime Kénose volontaire du Sujet éveillé qui se vide de sa propre substance pour se restituer à l'Incréé. Il a maintenu la tension (*Agon*, le combat) non pas pour amasser un mérite, mais pour garder la fréquence (*Pistis*, la foi) intacte d'un bout à l'autre de sa trajectoire (*Telos*).\n\nLe couronnement intervient au verset 8. La Couronne (*Stephanos*) n'est pas une médaille sportive récompensant une supériorité égotique ; c'est le symbole de la plénitude non-duelle, la forme géométrique du cercle fermé. La boucle de l'Incarnation est achevée. Et ce couronnement n'est pas réservé à une élite religieuse : il est la conséquence naturelle pour 'tous ceux qui auront aimé Son apparition'. L'Apôtre déplace ainsi l'attention de son propre sort vers la grande *Epiphaneia* cosmique. Aimer cette irruption lumineuse, c'est cesser de s'accrocher aux ombres de la caverne pour désirer activement que la Matrice soit transpercée par la Vérité de l'Axe.",
+    "homiletic_axes": [
+      {
+        "title": "Préparer le chemin par la métanoïa",
+        "content": "Jean n’attire pas à lui-même : il devient voix qui prépare le chemin du Seigneur. La μετάνοια n’est pas une simple culpabilité mais une conversion de l’intelligence et de la vie, rendue concrète par la confession et le baptême.",
+        "keywords": [
+          "ἑτοιμάζω — préparer",
+          "μετάνοια — conversion",
+          "εὐθύς — droit"
+        ]
+      },
+      {
+        "title": "L’eau prépare, l’Esprit accomplit",
+        "content": "Jean reconnaît la limite et la grandeur de son ministère : il baptise dans l’eau, tandis que le Plus Fort baptisera dans l’Esprit Saint. L’humilité du Précurseur ouvre l’attente de la manifestation trinitaire au Jourdain.",
+        "keywords": [
+          "ὕδωρ — eau",
+          "Πνεῦμα Ἅγιον — Esprit Saint",
+          "ἰσχυρότερος — plus fort"
+        ]
+      },
+      {
+        "title": "Veiller, combattre et garder la foi",
+        "content": "La préparation demandée par Jean rejoint l’exhortation de Paul : demeurer sobre, supporter l’épreuve, accomplir le ministère et garder la foi. L’attente liturgique est une vigilance active, non une attente passive.",
+        "keywords": [
+          "νήφω — veiller avec sobriété",
+          "ἀγών — combat",
+          "πίστις — foi"
+        ]
+      },
+      {
+        "title": "De l’ἀνάλυσις à l’ἐπιφάνεια",
+        "content": "Paul parle de son départ par ἀνάλυσις, terme de déliaison, puis de l’apparition du Seigneur par ἐπιφάνεια. Le préfixe ἀνά- suggère ici un mouvement de relèvement ou de retour ; il prépare l’écoute de la Théophanie sans transformer l’étymologie en définition exhaustive.",
+        "keywords": [
+          "ἀνάλυσις — départ/déliaison",
+          "ἀνά- — vers le haut/de nouveau",
+          "ἐπιφάνεια — manifestation"
+        ]
+      },
+      {
+        "title": "La respiration du cycle théophanique",
+        "content": "Le document fourni met en valeur le couple ἀνά-/κατά- : le Christ descend vers l’homme et l’homme est relevé vers Dieu. Dans la lecture de ce dimanche, cette dynamique reste une ouverture liturgique ; elle se déploiera explicitement au baptême du Christ et dans les lectures qui suivent la fête.",
+        "keywords": [
+          "ἀνά- — montée/retour",
+          "κατά- — descente",
+          "Θεοφάνεια — manifestation de Dieu"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Préparer et aimer la manifestation du Seigneur",
+        "reference": "Marc 1, 1-8 ; 2 Timothée 4, 5-8",
+        "content": "Jean prépare la venue du Plus Fort qui baptisera dans l’Esprit ; Paul achève sa course dans l’amour de l’apparition du Seigneur. Les deux lectures orientent l’assemblée vers la Théophanie par la conversion, la sobriété et la fidélité.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Avant la Théophanie » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, les déplacements et les oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que le Christ donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   }
 }

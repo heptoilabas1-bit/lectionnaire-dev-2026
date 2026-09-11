@@ -10,18 +10,57 @@
           "darby": "Et il lui dit : Un certain homme fit un grand souper et convia beaucoup de gens."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Il" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Ἄνθρωπός", "gloss": "Un_homme" },
-          { "greek": "τις", "gloss": "certain" },
-          { "greek": "ἐποίει", "gloss": "faisait", "analyse": "Imparfait. L'Incréé est dans une dynamique de préparation continue. Ce n'est pas un événement statique." },
-          { "greek": "δεῖπνον", "gloss": "souper/banquet", "analyse": "Le *Deipnon*. C'est le repas de la fin du jour (le repas eschatologique). Dans le Monde duel, l'Ego se nourrit en dévorant l'autre. Dans le Royaume UN, le banquet est le symbole absolu de la Non-Dualité : tous les Sujets sont co-inclus à la même table et se nourrissent de la même Énergie divine (l'Eucharistie métaphysique)." },
-          { "greek": "μέγα,", "gloss": "grand" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐκάλεσεν", "gloss": "il_appela/invita", "analyse": "Le verbe *kaleo* (appeler). L'appel vertical qui vient percuter le bruit de fond du monde." },
-          { "greek": "πολλούς·", "gloss": "beaucoup" }
+          {
+            "greek": "ὁ",
+            "gloss": "Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἄνθρωπός",
+            "gloss": "Un_homme"
+          },
+          {
+            "greek": "τις",
+            "gloss": "certain"
+          },
+          {
+            "greek": "ἐποίει",
+            "gloss": "faisait",
+            "analyse": "Imparfait. L'Incréé est dans une dynamique de préparation continue. Ce n'est pas un événement statique."
+          },
+          {
+            "greek": "δεῖπνον",
+            "gloss": "souper/banquet",
+            "analyse": "Le *Deipnon*. C'est le repas de la fin du jour (le repas eschatologique). Dans le Monde duel, l'Ego se nourrit en dévorant l'autre. Dans le Royaume UN, le banquet est le symbole absolu de la Non-Dualité : tous les Sujets sont co-inclus à la même table et se nourrissent de la même Énergie divine (l'Eucharistie métaphysique)."
+          },
+          {
+            "greek": "μέγα,",
+            "gloss": "grand"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐκάλεσεν",
+            "gloss": "il_appela/invita",
+            "analyse": "Le verbe *kaleo* (appeler). L'appel vertical qui vient percuter le bruit de fond du monde."
+          },
+          {
+            "greek": "πολλούς·",
+            "gloss": "beaucoup"
+          }
         ]
       },
       {
@@ -31,23 +70,76 @@
           "darby": "Et il envoya son esclave, à l'heure du souper, dire aux conviés : Venez, car déjà tout est prêt."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀπέστειλεν", "gloss": "il_envoya" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "δοῦλον", "gloss": "serviteur/esclave" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "τῇ", "gloss": "à_l'" },
-          { "greek": "ὥρᾳ", "gloss": "heure", "analyse": "L'*hora* (l'heure H, l'instant qualitatif). C'est le *Kairos*, le point d'intersection où l'Axe vertical transperce la ligne chronologique du temps horizontal. Ce n'est pas un temps que l'on peut remettre à plus tard." },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "δείπνου", "gloss": "souper" },
-          { "greek": "εἰπεῖν", "gloss": "dire" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "κεκλημένοις·", "gloss": "ayant_été_appelés" },
-          { "greek": "Ἔρχεσθε,", "gloss": "Venez/Faites_mouvement", "analyse": "L'injonction spatiale de l'Incréé. Quitter sa position statique pour faire mouvement vers le Centre." },
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "ἤδη", "gloss": "déjà" },
-          { "greek": "ἕτοιμά", "gloss": "prêtes" },
-          { "greek": "ἐστιν.", "gloss": "sont" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀπέστειλεν",
+            "gloss": "il_envoya"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "δοῦλον",
+            "gloss": "serviteur/esclave"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_l'"
+          },
+          {
+            "greek": "ὥρᾳ",
+            "gloss": "heure",
+            "analyse": "L'*hora* (l'heure H, l'instant qualitatif). C'est le *Kairos*, le point d'intersection où l'Axe vertical transperce la ligne chronologique du temps horizontal. Ce n'est pas un temps que l'on peut remettre à plus tard."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "δείπνου",
+            "gloss": "souper"
+          },
+          {
+            "greek": "εἰπεῖν",
+            "gloss": "dire"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "κεκλημένοις·",
+            "gloss": "ayant_été_appelés"
+          },
+          {
+            "greek": "Ἔρχεσθε,",
+            "gloss": "Venez/Faites_mouvement",
+            "analyse": "L'injonction spatiale de l'Incréé. Quitter sa position statique pour faire mouvement vers le Centre."
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἤδη",
+            "gloss": "déjà"
+          },
+          {
+            "greek": "ἕτοιμά",
+            "gloss": "prêtes"
+          },
+          {
+            "greek": "ἐστιν.",
+            "gloss": "sont"
+          }
         ]
       },
       {
@@ -57,29 +149,103 @@
           "darby": "Et ils se mirent tous unanimement à s'excuser. Le premier lui dit : J'ai acheté un champ, et il me faut nécessairement sortir et le voir ; je te prie, tiens-moi pour excusé."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἤρξαντο", "gloss": "ils_commencèrent" },
-          { "greek": "ἀπὸ", "gloss": "à_partir_de" },
-          { "greek": "μιᾶς", "gloss": "une_seule_voix/unanimement", "analyse": "L'homogénéité de l'Ego. Dans la résistance à l'Incréé, la masse est toujours 'unanime'. L'inertie du Monde duel crée un bloc homogène de justifications." },
-          { "greek": "πάντες", "gloss": "tous" },
-          { "greek": "παραιτεῖσθαι.", "gloss": "s'excuser/se_récuser", "analyse": "Le verbe *para-iteomai*. Composé de *para* (à côté) et *aiteo* (demander). Le refus de la verticalité. L'Ego demande toujours à rester 'à côté', sur le bas-côté de l'Axe, protégé dans sa bulle." },
-          { "greek": "ὁ", "gloss": "Le" },
-          { "greek": "πρῶτος", "gloss": "premier" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Ἀγρὸν", "gloss": "Un_champ/territoire", "analyse": "Première excuse : le territoire (*agros*). L'Ego s'ancre dans l'espace physique. Il confond son Être avec l'espace horizontal qu'il possède." },
-          { "greek": "ἠγόρασα", "gloss": "j'ai_acheté", "analyse": "Verbe d'action commerciale (*agorazo*, de *agora*, le marché). Le Sujet a transformé son énergie vitale en transaction matérielle." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔχω", "gloss": "j'ai" },
-          { "greek": "ἀνάγκην", "gloss": "nécessité/contrainte" },
-          { "greek": "ἐξελθὼν", "gloss": "étant_sorti", "analyse": "Mouvement centrifuge (*ex-erchomai*). Au lieu de faire mouvement vers le Banquet (le Centre), l'Ego est aspiré vers l'extérieur, vers son champ, s'éparpillant dans la matière." },
-          { "greek": "ἰδεῖν", "gloss": "de_voir" },
-          { "greek": "αὐτόν·", "gloss": "lui" },
-          { "greek": "ἐρωτῶ", "gloss": "je_demande" },
-          { "greek": "σε,", "gloss": "te" },
-          { "greek": "ἔχε", "gloss": "aie/tiens" },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "παρῃτημένον.", "gloss": "excusé" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἤρξαντο",
+            "gloss": "ils_commencèrent"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "à_partir_de"
+          },
+          {
+            "greek": "μιᾶς",
+            "gloss": "une_seule_voix/unanimement",
+            "analyse": "L'homogénéité de l'Ego. Dans la résistance à l'Incréé, la masse est toujours 'unanime'. L'inertie du Monde duel crée un bloc homogène de justifications."
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "παραιτεῖσθαι.",
+            "gloss": "s'excuser/se_récuser",
+            "analyse": "Le verbe *para-iteomai*. Composé de *para* (à côté) et *aiteo* (demander). Le refus de la verticalité. L'Ego demande toujours à rester 'à côté', sur le bas-côté de l'Axe, protégé dans sa bulle."
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "πρῶτος",
+            "gloss": "premier"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἀγρὸν",
+            "gloss": "Un_champ/territoire",
+            "analyse": "Première excuse : le territoire (*agros*). L'Ego s'ancre dans l'espace physique. Il confond son Être avec l'espace horizontal qu'il possède."
+          },
+          {
+            "greek": "ἠγόρασα",
+            "gloss": "j'ai_acheté",
+            "analyse": "Verbe d'action commerciale (*agorazo*, de *agora*, le marché). Le Sujet a transformé son énergie vitale en transaction matérielle."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔχω",
+            "gloss": "j'ai"
+          },
+          {
+            "greek": "ἀνάγκην",
+            "gloss": "nécessité/contrainte"
+          },
+          {
+            "greek": "ἐξελθὼν",
+            "gloss": "étant_sorti",
+            "analyse": "Mouvement centrifuge (*ex-erchomai*). Au lieu de faire mouvement vers le Banquet (le Centre), l'Ego est aspiré vers l'extérieur, vers son champ, s'éparpillant dans la matière."
+          },
+          {
+            "greek": "ἰδεῖν",
+            "gloss": "de_voir"
+          },
+          {
+            "greek": "αὐτόν·",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐρωτῶ",
+            "gloss": "je_demande"
+          },
+          {
+            "greek": "σε,",
+            "gloss": "te"
+          },
+          {
+            "greek": "ἔχε",
+            "gloss": "aie/tiens"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "παρῃτημένον.",
+            "gloss": "excusé"
+          }
         ]
       },
       {
@@ -89,22 +255,73 @@
           "darby": "Et un autre dit : J'ai acheté cinq attelages de boeufs, et je vais les essayer ; je te prie, tiens-moi pour excusé."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἕτερος", "gloss": "un_autre" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Ζεύγη", "gloss": "Paires/attelages", "analyse": "Le *zeugos* (ce qui lie ensemble, le joug). L'Ego s'assujettit volontairement à la mécanique laborieuse du Monde duel." },
-          { "greek": "βοῶν", "gloss": "de_bœufs" },
-          { "greek": "ἠγόρασα", "gloss": "j'ai_acheté" },
-          { "greek": "πέντε,", "gloss": "cinq", "analyse": "Les cinq bœufs. Dans l'exégèse mystique traditionnelle, c'est l'allégorie des cinq sens physiques. Deuxième excuse : l'immersion sensorielle et mécanique. L'être est hypnotisé par sa capacité d'agir et de percevoir la matérialité brute (le travail, l'effort horizontal)." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πορεύομαι", "gloss": "je_fais_route/je_vais" },
-          { "greek": "δοκιμάσαι", "gloss": "éprouver/tester", "analyse": "L'Ego préfère 'tester' la fiabilité de ses outils extérieurs (ses sens, son travail) plutôt que de tester la Présence intérieure de l'Incréé." },
-          { "greek": "αὐτά·", "gloss": "eux" },
-          { "greek": "ἐρωτῶ", "gloss": "je_demande" },
-          { "greek": "σε,", "gloss": "te" },
-          { "greek": "ἔχε", "gloss": "aie/tiens" },
-          { "greek": "με", "gloss": "moi" },
-          { "greek": "παρῃτημένον.", "gloss": "excusé" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἕτερος",
+            "gloss": "un_autre"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ζεύγη",
+            "gloss": "Paires/attelages",
+            "analyse": "Le *zeugos* (ce qui lie ensemble, le joug). L'Ego s'assujettit volontairement à la mécanique laborieuse du Monde duel."
+          },
+          {
+            "greek": "βοῶν",
+            "gloss": "de_bœufs"
+          },
+          {
+            "greek": "ἠγόρασα",
+            "gloss": "j'ai_acheté"
+          },
+          {
+            "greek": "πέντε,",
+            "gloss": "cinq",
+            "analyse": "Les cinq bœufs. Dans l'exégèse mystique traditionnelle, c'est l'allégorie des cinq sens physiques. Deuxième excuse : l'immersion sensorielle et mécanique. L'être est hypnotisé par sa capacité d'agir et de percevoir la matérialité brute (le travail, l'effort horizontal)."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πορεύομαι",
+            "gloss": "je_fais_route/je_vais"
+          },
+          {
+            "greek": "δοκιμάσαι",
+            "gloss": "éprouver/tester",
+            "analyse": "L'Ego préfère 'tester' la fiabilité de ses outils extérieurs (ses sens, son travail) plutôt que de tester la Présence intérieure de l'Incréé."
+          },
+          {
+            "greek": "αὐτά·",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἐρωτῶ",
+            "gloss": "je_demande"
+          },
+          {
+            "greek": "σε,",
+            "gloss": "te"
+          },
+          {
+            "greek": "ἔχε",
+            "gloss": "aie/tiens"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "παρῃτημένον.",
+            "gloss": "excusé"
+          }
         ]
       },
       {
@@ -114,17 +331,52 @@
           "darby": "Et un autre dit : J'ai épousé une femme, et c'est pourquoi je ne puis y aller."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἕτερος", "gloss": "un_autre" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Γυναῖκα", "gloss": "Une_femme/épouse" },
-          { "greek": "ἔγημα,", "gloss": "j'ai_épousé", "analyse": "Troisième excuse : la cellule biologique et sociale. Ce n'est pas le mariage en soi qui est visé, mais le circuit fermé que l'Ego en fait. L'être fusionne avec un autre Ego pour créer une unité de survie horizontale, refermant la porte à toute kénose cosmique." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "διὰ", "gloss": "à_cause_de" },
-          { "greek": "τοῦτο", "gloss": "cela" },
-          { "greek": "οὐ", "gloss": "ne...pas" },
-          { "greek": "δύναμαι", "gloss": "je_puis/suis_capable", "analyse": "Les premiers demandaient à être 'excusés'. Le dernier déclare une impossibilité structurelle (*ou dynamai*). La fusion biologique a totalement anéanti sa capacité ('dynamis') à répondre à l'Appel de l'Esprit." },
-          { "greek": "ἐλθεῖν.", "gloss": "venir" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἕτερος",
+            "gloss": "un_autre"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Γυναῖκα",
+            "gloss": "Une_femme/épouse"
+          },
+          {
+            "greek": "ἔγημα,",
+            "gloss": "j'ai_épousé",
+            "analyse": "Troisième excuse : la cellule biologique et sociale. Ce n'est pas le mariage en soi qui est visé, mais le circuit fermé que l'Ego en fait. L'être fusionne avec un autre Ego pour créer une unité de survie horizontale, refermant la porte à toute kénose cosmique."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "δύναμαι",
+            "gloss": "je_puis/suis_capable",
+            "analyse": "Les premiers demandaient à être 'excusés'. Le dernier déclare une impossibilité structurelle (*ou dynamai*). La fusion biologique a totalement anéanti sa capacité ('dynamis') à répondre à l'Appel de l'Esprit."
+          },
+          {
+            "greek": "ἐλθεῖν.",
+            "gloss": "venir"
+          }
         ]
       },
       {
@@ -134,43 +386,160 @@
           "darby": "Et le serviteur, s'en étant retourné, rapporta ces choses à son maître. Alors le maître de la maison, en colère, dit à son serviteur : Va-t'en promptement dans les rues et dans les ruelles de la ville, et amène ici les pauvres, et les estropiés, et les aveugles, et les boiteux."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "παραγενόμενος", "gloss": "étant_survenu/de_retour" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "δοῦλος", "gloss": "serviteur" },
-          { "greek": "ἀπήγγειλεν", "gloss": "rapporta" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "κυρίῳ", "gloss": "maître" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ταῦτα.", "gloss": "ces_choses" },
-          { "greek": "τότε", "gloss": "alors" },
-          { "greek": "ὀργισθεὶς", "gloss": "ayant_été_mis_en_colère", "analyse": "Le verbe *orgizo*. L'Incréé ne subit pas d'états d'âme psychologiques. La 'colère' divine est la friction métaphysique pure : c'est l'onde de choc de la Grâce absolue qui percute le mur de refus de l'Ego. Cette friction consume ce qui bloque l'effusion." },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "οἰκοδεσπότης", "gloss": "maître_de_maison", "analyse": "L'*oikodespotes*. Celui qui régit le Foyer, le Centre originel. Il s'oppose aux Egos qui tentent de régir leurs propres petits domaines (le champ, les bœufs)." },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "τῷ", "gloss": "au" },
-          { "greek": "δούλῳ", "gloss": "serviteur" },
-          { "greek": "αὐτοῦ·", "gloss": "de_lui" },
-          { "greek": "Ἔξελθε", "gloss": "Sors", "analyse": "L'injonction d'extraction (*ex-erchomai*). L'Esprit se déploie de manière centrifuge pour ratisser les zones périphériques que la religion institutionnelle ignore." },
-          { "greek": "ταχέως", "gloss": "rapidement" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "πλατείας", "gloss": "places_publiques/larges_rues" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ῥύμας", "gloss": "ruelles" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "πόλεως,", "gloss": "ville" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "πτωχοὺς", "gloss": "pauvres", "analyse": "Le *ptochos* (celui qui est recroquevillé de misère). L'opposé de l'Ego gonflé." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀναπήρους", "gloss": "estropiés/mutilés", "analyse": "Ceux dont l'enveloppe physique ou sociale a été brisée. N'ayant plus l'illusion de leur intégrité horizontale, ils sont devenus poreux à la verticalité." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τυφλοὺς", "gloss": "aveugles" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "χωλοὺς", "gloss": "boiteux" },
-          { "greek": "εἰσάγαγε", "gloss": "fais_entrer/conduis_à_l'intérieur", "analyse": "Le mouvement centripète (*eis-ago*). L'Esprit prend ceux qui sont exclus dans l'horizontalité (sur les places) pour les ramener au Centre absolu (le Souper)." },
-          { "greek": "ὧδε.", "gloss": "ici" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "παραγενόμενος",
+            "gloss": "étant_survenu/de_retour"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δοῦλος",
+            "gloss": "serviteur"
+          },
+          {
+            "greek": "ἀπήγγειλεν",
+            "gloss": "rapporta"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "maître"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ταῦτα.",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "ὀργισθεὶς",
+            "gloss": "ayant_été_mis_en_colère",
+            "analyse": "Le verbe *orgizo*. L'Incréé ne subit pas d'états d'âme psychologiques. La 'colère' divine est la friction métaphysique pure : c'est l'onde de choc de la Grâce absolue qui percute le mur de refus de l'Ego. Cette friction consume ce qui bloque l'effusion."
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "οἰκοδεσπότης",
+            "gloss": "maître_de_maison",
+            "analyse": "L'*oikodespotes*. Celui qui régit le Foyer, le Centre originel. Il s'oppose aux Egos qui tentent de régir leurs propres petits domaines (le champ, les bœufs)."
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "δούλῳ",
+            "gloss": "serviteur"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ἔξελθε",
+            "gloss": "Sors",
+            "analyse": "L'injonction d'extraction (*ex-erchomai*). L'Esprit se déploie de manière centrifuge pour ratisser les zones périphériques que la religion institutionnelle ignore."
+          },
+          {
+            "greek": "ταχέως",
+            "gloss": "rapidement"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πλατείας",
+            "gloss": "places_publiques/larges_rues"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ῥύμας",
+            "gloss": "ruelles"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πόλεως,",
+            "gloss": "ville"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πτωχοὺς",
+            "gloss": "pauvres",
+            "analyse": "Le *ptochos* (celui qui est recroquevillé de misère). L'opposé de l'Ego gonflé."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀναπήρους",
+            "gloss": "estropiés/mutilés",
+            "analyse": "Ceux dont l'enveloppe physique ou sociale a été brisée. N'ayant plus l'illusion de leur intégrité horizontale, ils sont devenus poreux à la verticalité."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τυφλοὺς",
+            "gloss": "aveugles"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "χωλοὺς",
+            "gloss": "boiteux"
+          },
+          {
+            "greek": "εἰσάγαγε",
+            "gloss": "fais_entrer/conduis_à_l'intérieur",
+            "analyse": "Le mouvement centripète (*eis-ago*). L'Esprit prend ceux qui sont exclus dans l'horizontalité (sur les places) pour les ramener au Centre absolu (le Souper)."
+          },
+          {
+            "greek": "ὧδε.",
+            "gloss": "ici"
+          }
         ]
       },
       {
@@ -180,18 +549,55 @@
           "darby": "Et le serviteur dit : Maître, il a été fait comme tu as commandé, et il y a encore de la place."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "δοῦλος·", "gloss": "serviteur" },
-          { "greek": "Κύριε,", "gloss": "Seigneur" },
-          { "greek": "γέγονεν", "gloss": "c'est_devenu/a_été_fait" },
-          { "greek": "ὃ", "gloss": "ce_que" },
-          { "greek": "ἐπέταξας,", "gloss": "tu_as_ordonné" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔτι", "gloss": "encore" },
-          { "greek": "τόπος", "gloss": "place/espace", "analyse": "Le *Topos*. Dans la matrice du Monde duel, l'espace est fini, limité et exclusif (d'où l'achat du 'champ' pour le clore). Dans la métaphysique de l'Incréé, le *Topos* est la dilatation infinie de l'Amour. L'Unité ne sature jamais, elle englobe toujours plus." },
-          { "greek": "ἐστίν.", "gloss": "est" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δοῦλος·",
+            "gloss": "serviteur"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "γέγονεν",
+            "gloss": "c'est_devenu/a_été_fait"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "ἐπέταξας,",
+            "gloss": "tu_as_ordonné"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "encore"
+          },
+          {
+            "greek": "τόπος",
+            "gloss": "place/espace",
+            "analyse": "Le *Topos*. Dans la matrice du Monde duel, l'espace est fini, limité et exclusif (d'où l'achat du 'champ' pour le clore). Dans la métaphysique de l'Incréé, le *Topos* est la dilatation infinie de l'Amour. L'Unité ne sature jamais, elle englobe toujours plus."
+          },
+          {
+            "greek": "ἐστίν.",
+            "gloss": "est"
+          }
         ]
       },
       {
@@ -201,27 +607,93 @@
           "darby": "Et le maître dit au serviteur : Va dans les chemins et le long des haies, et contrains les gens d'entrer, afin que ma maison soit remplie ;"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "κύριος", "gloss": "seigneur" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "δοῦλον·", "gloss": "serviteur" },
-          { "greek": "Ἔξελθε", "gloss": "Sors" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "ὁδοὺς", "gloss": "chemins" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "φραγμοὺς", "gloss": "haies/clôtures", "analyse": "Les *phragmous* (ce qui fait obstacle, les murs périphériques). L'Esprit sort de la ville, de la religion, de la civilisation. Il va chercher aux confins absolus du Monde duel, là où l'humain n'a même plus de statut social." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀνάγκασον", "gloss": "contrains/force", "analyse": "Le verbe vertigineux : *anankazo* (obliger, contraindre par nécessité). Ce n'est pas une violence tyrannique. C'est l'attraction magnétique irrésistible de la Grâce. Ceux qui n'ont plus d'Ego n'ont plus la force de résister à la Lumière ; ils sont 'aspirés' par l'Amour divin dans un mouvement de nécessité ontologique." },
-          { "greek": "εἰσελθεῖν,", "gloss": "à_entrer" },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "γεμισθῇ", "gloss": "soit_remplie", "analyse": "La plénitude absolue (*Pleroma*). La kénose de Dieu consiste à se vider pour créer un espace d'accueil, mais la finalité est le remplissage total du Foyer par tous les Sujets éveillés." },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "ὁ", "gloss": "la" },
-          { "greek": "οἶκος·", "gloss": "maison" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "seigneur"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "δοῦλον·",
+            "gloss": "serviteur"
+          },
+          {
+            "greek": "Ἔξελθε",
+            "gloss": "Sors"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὁδοὺς",
+            "gloss": "chemins"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φραγμοὺς",
+            "gloss": "haies/clôtures",
+            "analyse": "Les *phragmous* (ce qui fait obstacle, les murs périphériques). L'Esprit sort de la ville, de la religion, de la civilisation. Il va chercher aux confins absolus du Monde duel, là où l'humain n'a même plus de statut social."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀνάγκασον",
+            "gloss": "contrains/force",
+            "analyse": "Le verbe vertigineux : *anankazo* (obliger, contraindre par nécessité). Ce n'est pas une violence tyrannique. C'est l'attraction magnétique irrésistible de la Grâce. Ceux qui n'ont plus d'Ego n'ont plus la force de résister à la Lumière ; ils sont 'aspirés' par l'Amour divin dans un mouvement de nécessité ontologique."
+          },
+          {
+            "greek": "εἰσελθεῖν,",
+            "gloss": "à_entrer"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "γεμισθῇ",
+            "gloss": "soit_remplie",
+            "analyse": "La plénitude absolue (*Pleroma*). La kénose de Dieu consiste à se vider pour créer un espace d'accueil, mais la finalité est le remplissage total du Foyer par tous les Sujets éveillés."
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἶκος·",
+            "gloss": "maison"
+          }
         ]
       },
       {
@@ -231,26 +703,154 @@
           "darby": "car je vous dis qu'aucun de ces hommes qui avaient été conviés, ne goûtera de mon souper."
         },
         "interlinear": [
-          { "greek": "λέγω", "gloss": "Je_dis" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ὑμῖν", "gloss": "à_vous" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "οὐδεὶς", "gloss": "aucun", "analyse": "La sentence de la coupure. L'auto-exclusion devient définitive. Ce n'est pas une vengeance du Maître, c'est la pure loi des conséquences vibratoires : la fermeture de l'Ego empêche la réception." },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἀνδρῶν", "gloss": "hommes" },
-          { "greek": "ἐκείνων", "gloss": "ces..._là" },
-          { "greek": "τῶν", "gloss": "ceux" },
-          { "greek": "κεκλημένων", "gloss": "ayant_été_appelés" },
-          { "greek": "γεύσεταί", "gloss": "ne_goûtera", "analyse": "Le verbe *geuomai* (goûter, expérimenter par les sens). L'ironie métaphysique finale. Les invités ont refusé le banquet pour 'goûter' l'horizontalité (les champs, les cinq bœufs qui représentent les cinq sens physiques). Ils se sont ainsi privés de l'unique expérience sensorielle absolue : goûter l'Incréé. La saveur du Royaume leur est ontologiquement interdite par leur propre choix d'opacité." },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "δείπνου.", "gloss": "souper" }
+          {
+            "greek": "λέγω",
+            "gloss": "Je_dis"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οὐδεὶς",
+            "gloss": "aucun",
+            "analyse": "La sentence de la coupure. L'auto-exclusion devient définitive. Ce n'est pas une vengeance du Maître, c'est la pure loi des conséquences vibratoires : la fermeture de l'Ego empêche la réception."
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀνδρῶν",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "ἐκείνων",
+            "gloss": "ces..._là"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "κεκλημένων",
+            "gloss": "ayant_été_appelés"
+          },
+          {
+            "greek": "γεύσεταί",
+            "gloss": "ne_goûtera",
+            "analyse": "Le verbe *geuomai* (goûter, expérimenter par les sens). L'ironie métaphysique finale. Les invités ont refusé le banquet pour 'goûter' l'horizontalité (les champs, les cinq bœufs qui représentent les cinq sens physiques). Ils se sont ainsi privés de l'unique expérience sensorielle absolue : goûter l'Incréé. La saveur du Royaume leur est ontologiquement interdite par leur propre choix d'opacité."
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δείπνου.",
+            "gloss": "souper"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 23 - ἀνάγκασον εἰσελθεῖν : 'Contrains-les d'entrer'. Traduction fameuse (et tragiquement utilisée au fil de l'histoire par Augustin et d'autres pour justifier la coercition physique contre les hérétiques - *compelle intrare*). Cependant, le grec *anankazo* dans la métaphysique de Luc ne renvoie à aucune milice armée. C'est l'urgence bouleversante de la Grâce. L'Esprit exerce une 'contrainte' de nécessité, de chaleur vibratoire, une force d'attraction magnétique sur des êtres brisés qui, par humilité ou désespoir extrême (le long des haies), n'oseraient jamais franchir d'eux-mêmes le seuil du Centre.\n\nAnalyse spirituelle :\nCette parabole, fondamentale dans la théologie de Luc, est la radiographie parfaite de l'hypnose du Monde duel face à l'irruption de la Non-Dualité.\n\nLe *Kairos* (l'Instant présent, l'Heure du souper) exige une réponse immédiate : la mise en mouvement vers le Centre de l'Être (*Oikos*). Mais la classe des 'bien-portants' (l'élite religieuse, sociale et intellectuelle) refuse l'invitation en utilisant les trois piliers de l'illusion égotique : l'espace (mon champ), l'action mécanique/sensorielle (mes cinq bœufs) et l'unité biologique fusionnelle (ma femme). Dans chaque cas, le faux Moi justifie sa surdité spirituelle par une nécessité de surface. Il a déjà le ventre plein de lui-même.\n\nFace à ce refus, l'Incréé opère un double mouvement prodigieux. D'abord, le ratissage de la misère intra-muros (les rues de la ville) : les estropiés, les boiteux et les aveugles. Symboliquement, ce sont ceux dont les 'cinq bœufs' (l'Ego d'action) et le 'champ' (l'Ego de possession) ont été pulvérisés par l'épreuve. N'ayant plus d'enveloppe à défendre, ils sont directement aspirés par la Lumière.\n\nEnsuite, comme l'espace de la Grâce est infini (*eti topos estin*), le mouvement devient purement centrifuge (extra-muros) : les haies, les routes. L'Esprit ramasse ce qui traîne aux franges du chaos, la périphérie absolue, pour les forcer à la plénitude (*anankason*). \n\nLa conclusion (v. 24) établit la loi du Monde spirituel : on ne peut 'goûter' (*geusetai*) simultanément à l'illusion du monde et à la vérité de l'Être. Les premiers appelés se sont auto-exclus de la saveur de l'Éternité pour s'être gavés de poussière.\n\nComplément théologique - création, appel et entrée :\nLa succession du champ, des bœufs et de l'épouse reprend l'ordre de Genèse - terre, animaux, humanité -, mais sous la forme d'une création reçue à l'envers : les réalités créées deviennent possessions, moyens d'action ou prétextes. Le problème n'est donc ni la terre, ni le travail, ni le mariage ; il est le regard qui réduit la création et autrui à des objets, au lieu de les recevoir dans la relation au Créateur.\n\nLe mouvement répété des serviteurs - sortir, appeler, puis faire entrer - donne à la parabole une respiration ecclésiale. On peut rapprocher spirituellement ἐκκλησία de l'appel (καλέω) et de la sortie (ἐκ), sans faire de ce rapprochement une définition lexicale suffisante : l'Église est l'assemblée appelée par Dieu, mais aussi le passage personnel hors des logiques d'exclusion vers la communion eucharistique. Le « je » répond d'abord librement à l'appel ; au banquet, il découvre les autres invités comme frères et peut dire « notre Père ».\n\nLa salle vide et la colère du maître éclairent enfin le jugement sans en faire une décision arbitraire de Dieu. Les premiers invités se privent eux-mêmes du repas en refusant la relation. À l'inverse, la sortie vers les rues, les chemins et les haies manifeste l'appel adressé jusqu'aux périphéries : la maison doit se remplir, sans que les exclus du monde soient à nouveau traités comme une foule anonyme."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 23 - ἀνάγκασον εἰσελθεῖν : 'Contrains-les d'entrer'. Traduction fameuse (et tragiquement utilisée au fil de l'histoire par Augustin et d'autres pour justifier la coercition physique contre les hérétiques - *compelle intrare*). Cependant, le grec *anankazo* dans la métaphysique de Luc ne renvoie à aucune milice armée. C'est l'urgence bouleversante de la Grâce. L'Esprit exerce une 'contrainte' de nécessité, de chaleur vibratoire, une force d'attraction magnétique sur des êtres brisés qui, par humilité ou désespoir extrême (le long des haies), n'oseraient jamais franchir d'eux-mêmes le seuil du Centre.\n\nAnalyse spirituelle :\nCette parabole, fondamentale dans la théologie de Luc, est la radiographie parfaite de l'hypnose du Monde duel face à l'irruption de la Non-Dualité.\n\nLe *Kairos* (l'Instant présent, l'Heure du souper) exige une réponse immédiate : la mise en mouvement vers le Centre de l'Être (*Oikos*). Mais la classe des 'bien-portants' (l'élite religieuse, sociale et intellectuelle) refuse l'invitation en utilisant les trois piliers de l'illusion égotique : l'espace (mon champ), l'action mécanique/sensorielle (mes cinq bœufs) et l'unité biologique fusionnelle (ma femme). Dans chaque cas, le faux Moi justifie sa surdité spirituelle par une nécessité de surface. Il a déjà le ventre plein de lui-même.\n\nFace à ce refus, l'Incréé opère un double mouvement prodigieux. D'abord, le ratissage de la misère intra-muros (les rues de la ville) : les estropiés, les boiteux et les aveugles. Symboliquement, ce sont ceux dont les 'cinq bœufs' (l'Ego d'action) et le 'champ' (l'Ego de possession) ont été pulvérisés par l'épreuve. N'ayant plus d'enveloppe à défendre, ils sont directement aspirés par la Lumière.\n\nEnsuite, comme l'espace de la Grâce est infini (*eti topos estin*), le mouvement devient purement centrifuge (extra-muros) : les haies, les routes. L'Esprit ramasse ce qui traîne aux franges du chaos, la périphérie absolue, pour les forcer à la plénitude (*anankason*). \n\nLa conclusion (v. 24) établit la loi du Monde spirituel : on ne peut 'goûter' (*geusetai*) simultanément à l'illusion du monde et à la vérité de l'Être. Les premiers appelés se sont auto-exclus de la saveur de l'Éternité pour s'être gavés de poussière.",
+    "homiletic_axes": [
+      {
+        "title": "L’invitation demande un accueil libre",
+        "content": "Le repas est préparé et l’appel est adressé, mais chacun peut lui opposer ses priorités. Le drame de la parabole n’est pas le manque de don : c’est le refus d’entrer dans la communion offerte.",
+        "keywords": [
+          "καλέω — appeler",
+          "ἔρχομαι — venir",
+          "παραιτέομαι — décliner/refuser"
+        ]
+      },
+      {
+        "title": "Se dépouiller de ce qui retient",
+        "content": "Champ, bœufs et situation familiale deviennent des excuses lorsqu’ils ferment à l’appel. Paul invite précisément à faire mourir la convoitise et à se dépouiller du vieil homme : non à mépriser la création, mais à ne plus en faire une idole.",
+        "keywords": [
+          "πλεονεξία — cupidité",
+          "νεκρόω — faire mourir",
+          "ἀπεκδύομαι — se dépouiller"
+        ]
+      },
+      {
+        "title": "La maison se remplit des exclus",
+        "content": "Pauvres, estropiés, aveugles et boiteux sont conduits au repas. La plénitude de la maison annonce une communauté où les anciennes catégories de séparation ne gouvernent plus, car le Christ est tout et en tous.",
+        "keywords": [
+          "πτωχός — pauvre",
+          "γεμίζω — remplir",
+          "πάντα — toutes choses"
+        ]
+      },
+      {
+        "title": "« Contrains-les d’entrer » : l’insistance de l’hospitalité",
+        "content": "Le verbe ἀναγκάζω exprime ici l’insistance du maître envers ceux qui, laissés aux chemins et aux haies, pourraient ne pas se croire invités. Il ne peut servir à justifier une contrainte religieuse : dans la parabole, le maître veut que sa maison accueille ceux que personne n’attend.",
+        "keywords": [
+          "ἀναγκάζω — presser/contraindre",
+          "εἰσέρχομαι — entrer",
+          "οἶκος — maison"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Quitter les excuses et revêtir l’homme nouveau",
+        "reference": "Luc 14, 16-24 ; Colossiens 3, 4-11",
+        "content": "Les attachements qui excusent le refus du repas correspondent à ce que Paul demande de déposer. L’invitation devient alors passage du vieil homme à l’homme nouveau et entrée dans une table où les séparations sont dépassées dans le Christ.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le grand repas » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, les déplacements et les oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que le Christ donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   },
-"apostle": {
+  "apostle": {
     "reference": "Colossiens 3, 4-11",
     "title": "La Pulvérisation des Identités Matricielles et le Revêtement de l'Homme Nouveau",
     "interlinear": [
@@ -261,21 +861,69 @@
           "darby": "Quand le Christ qui est notre vie, sera manifesté, alors vous aussi, vous serez manifestés avec lui en gloire."
         },
         "interlinear": [
-          { "greek": "ὅταν", "gloss": "Quand" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Χριστὸς", "gloss": "Christ" },
-          { "greek": "φανερωθῇ,", "gloss": "sera_manifesté/apparaîtra", "analyse": "Le verbe *phaneroo* (rendre visible, mettre en lumière). L'Épiphanie. L'Axe n'est pas une abstraction, c'est une fréquence qui finit irrémédiablement par percer le voile de l'espace-temps." },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "ζωὴ", "gloss": "vie", "analyse": "La *Zoe*. Le Christ n'est pas le 'donneur' de vie, Il EST le principe vital lui-même, l'anti-entropie absolue." },
-          { "greek": "ὑμῶν,", "gloss": "de_vous" },
-          { "greek": "τότε", "gloss": "alors" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "φανερωθήσεσθε", "gloss": "serez_manifestés" },
-          { "greek": "ἐν", "gloss": "en/dans" },
-          { "greek": "δόξῃ.", "gloss": "gloire", "analyse": "La *Doxa*. Le rayonnement de la Présence divine. La manifestation de l'Incréé englobe instantanément tous les sujets qui se sont alignés sur lui." }
+          {
+            "greek": "ὅταν",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "φανερωθῇ,",
+            "gloss": "sera_manifesté/apparaîtra",
+            "analyse": "Le verbe *phaneroo* (rendre visible, mettre en lumière). L'Épiphanie. L'Axe n'est pas une abstraction, c'est une fréquence qui finit irrémédiablement par percer le voile de l'espace-temps."
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ζωὴ",
+            "gloss": "vie",
+            "analyse": "La *Zoe*. Le Christ n'est pas le 'donneur' de vie, Il EST le principe vital lui-même, l'anti-entropie absolue."
+          },
+          {
+            "greek": "ὑμῶν,",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "φανερωθήσεσθε",
+            "gloss": "serez_manifestés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/dans"
+          },
+          {
+            "greek": "δόξῃ.",
+            "gloss": "gloire",
+            "analyse": "La *Doxa*. Le rayonnement de la Présence divine. La manifestation de l'Incréé englobe instantanément tous les sujets qui se sont alignés sur lui."
+          }
         ]
       },
       {
@@ -285,25 +933,86 @@
           "darby": "Mortifiez donc vos membres qui sont sur la terre, la fornication, l'impureté, les affections déréglées, la mauvaise convoitise, et la cupidité, qui est de l'idolâtrie ;"
         },
         "interlinear": [
-          { "greek": "Νεκρώσατε", "gloss": "Faites_mourir/Mortifiez", "analyse": "Le verbe *nekroo*. Ordre radical. Il ne s'agit pas de 'gérer' ses défauts psychologiques, mais d'assécher littéralement l'alimentation énergétique des capteurs horizontaux de l'Ego." },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "μέλη", "gloss": "membres" },
-          { "greek": "τὰ", "gloss": "ceux" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "γῆς,", "gloss": "terre", "analyse": "Les 'membres sur la terre' ne désignent pas le corps physique, mais les points d'ancrage par lesquels l'Ego s'arrime à l'entropie de la Matrice." },
-          { "greek": "πορνείαν,", "gloss": "débauche/fornication" },
-          { "greek": "ἀκαθαρσίαν,", "gloss": "impureté" },
-          { "greek": "πάθος,", "gloss": "passion/affection_déréglée" },
-          { "greek": "ἐπιθυμίαν", "gloss": "désir/convoitise" },
-          { "greek": "κακήν,", "gloss": "mauvais" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "πλεονεξίαν", "gloss": "cupidité/volonté_d'avoir_plus", "analyse": "La *pleonexia* (vouloir toujours plus). C'est le moteur central de l'Ego : le trou noir de l'insatisfaction perpétuelle." },
-          { "greek": "ἥτις", "gloss": "laquelle" },
-          { "greek": "ἐστὶν", "gloss": "est" },
-          { "greek": "εἰδωλολατρία,", "gloss": "idolâtrie", "analyse": "L'équation foudroyante de Paul. L'avidité matérielle n'est pas un 'petit défaut', c'est l'essence même de l'idolâtrie : substituer l'objet fini à la Source infinie." }
+          {
+            "greek": "Νεκρώσατε",
+            "gloss": "Faites_mourir/Mortifiez",
+            "analyse": "Le verbe *nekroo*. Ordre radical. Il ne s'agit pas de 'gérer' ses défauts psychologiques, mais d'assécher littéralement l'alimentation énergétique des capteurs horizontaux de l'Ego."
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μέλη",
+            "gloss": "membres"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆς,",
+            "gloss": "terre",
+            "analyse": "Les 'membres sur la terre' ne désignent pas le corps physique, mais les points d'ancrage par lesquels l'Ego s'arrime à l'entropie de la Matrice."
+          },
+          {
+            "greek": "πορνείαν,",
+            "gloss": "débauche/fornication"
+          },
+          {
+            "greek": "ἀκαθαρσίαν,",
+            "gloss": "impureté"
+          },
+          {
+            "greek": "πάθος,",
+            "gloss": "passion/affection_déréglée"
+          },
+          {
+            "greek": "ἐπιθυμίαν",
+            "gloss": "désir/convoitise"
+          },
+          {
+            "greek": "κακήν,",
+            "gloss": "mauvais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλεονεξίαν",
+            "gloss": "cupidité/volonté_d'avoir_plus",
+            "analyse": "La *pleonexia* (vouloir toujours plus). C'est le moteur central de l'Ego : le trou noir de l'insatisfaction perpétuelle."
+          },
+          {
+            "greek": "ἥτις",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est"
+          },
+          {
+            "greek": "εἰδωλολατρία,",
+            "gloss": "idolâtrie",
+            "analyse": "L'équation foudroyante de Paul. L'avidité matérielle n'est pas un 'petit défaut', c'est l'essence même de l'idolâtrie : substituer l'objet fini à la Source infinie."
+          }
         ]
       },
       {
@@ -313,18 +1022,55 @@
           "darby": "à cause desquelles la colère de Dieu vient sur les fils de la désobéissance ;"
         },
         "interlinear": [
-          { "greek": "δι’", "gloss": "à_cause_de" },
-          { "greek": "ἃ", "gloss": "lesquelles_[choses]" },
-          { "greek": "ἔρχεται", "gloss": "vient" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "ὀργὴ", "gloss": "colère", "analyse": "L'*Orge*. La friction ontologique entre la pureté de la Lumière et les structures d'opacité. Ce n'est pas une vengeance émotionnelle, c'est une réaction métaphysique." },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "[ἐπὶ", "gloss": "sur" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "υἱοὺς", "gloss": "fils" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ἀπειθείας·]", "gloss": "désobéissance/rébellion" }
+          {
+            "greek": "δι’",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "ἃ",
+            "gloss": "lesquelles_[choses]"
+          },
+          {
+            "greek": "ἔρχεται",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὀργὴ",
+            "gloss": "colère",
+            "analyse": "L'*Orge*. La friction ontologique entre la pureté de la Lumière et les structures d'opacité. Ce n'est pas une vengeance émotionnelle, c'est une réaction métaphysique."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "[ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "υἱοὺς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἀπειθείας·]",
+            "gloss": "désobéissance/rébellion"
+          }
         ]
       },
       {
@@ -334,16 +1080,47 @@
           "darby": "parmi lesquels vous aussi vous avez marché autrefois, quand vous viviez dans ces choses."
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "οἷς", "gloss": "lesquelles/lesquels" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "περιεπατήσατέ", "gloss": "avez_marché", "analyse": "Le verbe *peripateo* (marcher autour). La déambulation labyrinthique et sans but de l'homme duel prisonnier de la Matrice." },
-          { "greek": "ποτε,", "gloss": "autrefois" },
-          { "greek": "ὅτε", "gloss": "quand" },
-          { "greek": "ἐζῆτε", "gloss": "vous_viviez" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τούτοις·", "gloss": "ces_choses" }
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "οἷς",
+            "gloss": "lesquelles/lesquels"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "περιεπατήσατέ",
+            "gloss": "avez_marché",
+            "analyse": "Le verbe *peripateo* (marcher autour). La déambulation labyrinthique et sans but de l'homme duel prisonnier de la Matrice."
+          },
+          {
+            "greek": "ποτε,",
+            "gloss": "autrefois"
+          },
+          {
+            "greek": "ὅτε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "ἐζῆτε",
+            "gloss": "vous_viviez"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τούτοις·",
+            "gloss": "ces_choses"
+          }
         ]
       },
       {
@@ -353,22 +1130,72 @@
           "darby": "Mais maintenant, renoncez, vous aussi, à toutes ces choses : colère, courroux, malice, injures, paroles honteuses sortant de votre bouche."
         },
         "interlinear": [
-          { "greek": "νυνὶ", "gloss": "maintenant" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἀπόθεσθε", "gloss": "déposez/dépouillez-vous_de", "analyse": "Le verbe *apo-tithemi* (enlever et mettre de côté). Se débarrasser de la peau de l'Ego comme on jette un vieux vêtement sale." },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πάντα,", "gloss": "toutes_[ces]_choses" },
-          { "greek": "ὀργήν,", "gloss": "colère" },
-          { "greek": "θυμόν,", "gloss": "animosité/fureur" },
-          { "greek": "κακίαν,", "gloss": "méchanceté/malice" },
-          { "greek": "βλασφημίαν,", "gloss": "calomnie/blasphème" },
-          { "greek": "αἰσχρολογίαν", "gloss": "parole_honteuse", "analyse": "Toutes ces tares sont les manifestations de l'Ego en mode défensif ou offensif, cherchant à rabaisser l'Autre pour s'élever lui-même dans la géométrie horizontale." },
-          { "greek": "ἐκ", "gloss": "hors_de" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "στόματος", "gloss": "bouche" },
-          { "greek": "ὑμῶν·", "gloss": "de_vous" }
+          {
+            "greek": "νυνὶ",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀπόθεσθε",
+            "gloss": "déposez/dépouillez-vous_de",
+            "analyse": "Le verbe *apo-tithemi* (enlever et mettre de côté). Se débarrasser de la peau de l'Ego comme on jette un vieux vêtement sale."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πάντα,",
+            "gloss": "toutes_[ces]_choses"
+          },
+          {
+            "greek": "ὀργήν,",
+            "gloss": "colère"
+          },
+          {
+            "greek": "θυμόν,",
+            "gloss": "animosité/fureur"
+          },
+          {
+            "greek": "κακίαν,",
+            "gloss": "méchanceté/malice"
+          },
+          {
+            "greek": "βλασφημίαν,",
+            "gloss": "calomnie/blasphème"
+          },
+          {
+            "greek": "αἰσχρολογίαν",
+            "gloss": "parole_honteuse",
+            "analyse": "Toutes ces tares sont les manifestations de l'Ego en mode défensif ou offensif, cherchant à rabaisser l'Autre pour s'élever lui-même dans la géométrie horizontale."
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "hors_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "στόματος",
+            "gloss": "bouche"
+          },
+          {
+            "greek": "ὑμῶν·",
+            "gloss": "de_vous"
+          }
         ]
       },
       {
@@ -378,18 +1205,56 @@
           "darby": "Ne mentez point l'un à l'autre, ayant dépouillé le vieil homme avec ses actions,"
         },
         "interlinear": [
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "ψεύδεσθε", "gloss": "mentez" },
-          { "greek": "εἰς", "gloss": "vers/à" },
-          { "greek": "ἀλλήλους,", "gloss": "les_uns_les_autres" },
-          { "greek": "ἀπεκδυσάμενοι", "gloss": "vous_étant_dépouillés", "analyse": "Le participe *apekdyomai* (enlever de sur soi). La Kénose identitaire." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "παλαιὸν", "gloss": "vieil/ancien" },
-          { "greek": "ἄνθρωπον", "gloss": "homme", "analyse": "Le *palaios anthropos*. L'ancien système d'exploitation, l'identité fragmentée fondée sur la peur, la survie et le *Chronos*." },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "πράξεσιν", "gloss": "pratiques/œuvres" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" }
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ψεύδεσθε",
+            "gloss": "mentez"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/à"
+          },
+          {
+            "greek": "ἀλλήλους,",
+            "gloss": "les_uns_les_autres"
+          },
+          {
+            "greek": "ἀπεκδυσάμενοι",
+            "gloss": "vous_étant_dépouillés",
+            "analyse": "Le participe *apekdyomai* (enlever de sur soi). La Kénose identitaire."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "παλαιὸν",
+            "gloss": "vieil/ancien"
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "homme",
+            "analyse": "Le *palaios anthropos*. L'ancien système d'exploitation, l'identité fragmentée fondée sur la peur, la survie et le *Chronos*."
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πράξεσιν",
+            "gloss": "pratiques/œuvres"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -399,20 +1264,66 @@
           "darby": "et ayant revêtu le nouvel homme qui est renouvelé en connaissance, selon l'image de celui qui l'a créé,"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐνδυσάμενοι", "gloss": "ayant_revêtu", "analyse": "Le verbe inverse : *endyomai* (plonger dans, revêtir). L'espace laissé vide par l'Ego est immédiatement saturé par la Présence." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "νέον", "gloss": "nouveau" },
-          { "greek": "[ἄνθρωπον]", "gloss": "homme" },
-          { "greek": "τὸν", "gloss": "celui_qui" },
-          { "greek": "ἀνακαινούμενον", "gloss": "est_renouvelé", "analyse": "L'*anakainosis*. Ce n'est pas un nettoyage de surface, c'est une mutation constante de la conscience pour retrouver la fraîcheur originelle de la vibration divine." },
-          { "greek": "εἰς", "gloss": "vers/en" },
-          { "greek": "ἐπίγνωσιν", "gloss": "connaissance_exacte", "analyse": "L'*epi-gnosis*. L'expérience intime et non-duelle du Réel, qui remplace les croyances ou les théories." },
-          { "greek": "κατ’", "gloss": "selon" },
-          { "greek": "εἰκόνα", "gloss": "l'image", "analyse": "L'*Eikon*. Le fractal pur. Le nouvel homme est le miroir parfait qui reflète la source, sans distorsion égotique." },
-          { "greek": "τοῦ", "gloss": "de_celui" },
-          { "greek": "κτίσαντος", "gloss": "ayant_créé" },
-          { "greek": "αὐτόν,", "gloss": "lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐνδυσάμενοι",
+            "gloss": "ayant_revêtu",
+            "analyse": "Le verbe inverse : *endyomai* (plonger dans, revêtir). L'espace laissé vide par l'Ego est immédiatement saturé par la Présence."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "νέον",
+            "gloss": "nouveau"
+          },
+          {
+            "greek": "[ἄνθρωπον]",
+            "gloss": "homme"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "ἀνακαινούμενον",
+            "gloss": "est_renouvelé",
+            "analyse": "L'*anakainosis*. Ce n'est pas un nettoyage de surface, c'est une mutation constante de la conscience pour retrouver la fraîcheur originelle de la vibration divine."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/en"
+          },
+          {
+            "greek": "ἐπίγνωσιν",
+            "gloss": "connaissance_exacte",
+            "analyse": "L'*epi-gnosis*. L'expérience intime et non-duelle du Réel, qui remplace les croyances ou les théories."
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "selon"
+          },
+          {
+            "greek": "εἰκόνα",
+            "gloss": "l'image",
+            "analyse": "L'*Eikon*. Le fractal pur. Le nouvel homme est le miroir parfait qui reflète la source, sans distorsion égotique."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_celui"
+          },
+          {
+            "greek": "κτίσαντος",
+            "gloss": "ayant_créé"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -422,29 +1333,178 @@
           "darby": "où il n'y a pas Grec et Juif, circoncision et incirconcision, barbare, Scythe, esclave, homme libre ; mais où Christ est tout et en tous."
         },
         "interlinear": [
-          { "greek": "ὅπου", "gloss": "où", "analyse": "Le 'Où' topographique : dans cette nouvelle dimension (*le Nouvel Homme*)." },
-          { "greek": "οὐκ", "gloss": "non / il_n'y_a_pas" },
-          { "greek": "ἔνι", "gloss": "dedans" },
-          { "greek": "Ἕλλην", "gloss": "Grec" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰουδαῖος,", "gloss": "Juif", "analyse": "La pulvérisation de la dualité culturelle et religieuse." },
-          { "greek": "περιτομὴ", "gloss": "circoncision" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀκροβυστία,", "gloss": "incirconcision", "analyse": "La pulvérisation de la dualité rituelle." },
-          { "greek": "βάρβαρος,", "gloss": "barbare" },
-          { "greek": "Σκύθης,", "gloss": "Scythe" },
-          { "greek": "δοῦλος,", "gloss": "esclave" },
-          { "greek": "ἐλεύθερος,", "gloss": "libre", "analyse": "La pulvérisation de la dualité sociale et économique. Tous les 'champs' et 'bœufs' de la Parabole du Grand Souper sont effacés." },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "[τὰ]", "gloss": "toutes" },
-          { "greek": "πάντα", "gloss": "choses" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "πᾶσιν", "gloss": "tous" },
-          { "greek": "Χριστός.", "gloss": "Christ", "analyse": "L'absolu Non-Duel. *Panta kai en pasin Christos*. Il ne s'agit plus d'individus séparés adorant un Dieu extérieur, mais du Christ cosmique qui se manifeste comme l'unique Réalité vibratoire à travers toutes les formes." }
+          {
+            "greek": "ὅπου",
+            "gloss": "où",
+            "analyse": "Le 'Où' topographique : dans cette nouvelle dimension (*le Nouvel Homme*)."
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non / il_n'y_a_pas"
+          },
+          {
+            "greek": "ἔνι",
+            "gloss": "dedans"
+          },
+          {
+            "greek": "Ἕλλην",
+            "gloss": "Grec"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰουδαῖος,",
+            "gloss": "Juif",
+            "analyse": "La pulvérisation de la dualité culturelle et religieuse."
+          },
+          {
+            "greek": "περιτομὴ",
+            "gloss": "circoncision"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀκροβυστία,",
+            "gloss": "incirconcision",
+            "analyse": "La pulvérisation de la dualité rituelle."
+          },
+          {
+            "greek": "βάρβαρος,",
+            "gloss": "barbare"
+          },
+          {
+            "greek": "Σκύθης,",
+            "gloss": "Scythe"
+          },
+          {
+            "greek": "δοῦλος,",
+            "gloss": "esclave"
+          },
+          {
+            "greek": "ἐλεύθερος,",
+            "gloss": "libre",
+            "analyse": "La pulvérisation de la dualité sociale et économique. Tous les 'champs' et 'bœufs' de la Parabole du Grand Souper sont effacés."
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "[τὰ]",
+            "gloss": "toutes"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "choses"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "πᾶσιν",
+            "gloss": "tous"
+          },
+          {
+            "greek": "Χριστός.",
+            "gloss": "Christ",
+            "analyse": "L'absolu Non-Duel. *Panta kai en pasin Christos*. Il ne s'agit plus d'individus séparés adorant un Dieu extérieur, mais du Christ cosmique qui se manifeste comme l'unique Réalité vibratoire à travers toutes les formes."
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 5 - Νεκρώσατε : 'Faites mourir' (Segond) ou 'Mortifiez' (Darby). Le sens métaphysique de *nekroo* dépasse la pénitence corporelle. Il s'agit de sectionner les câbles d'alimentation énergétique qui lient le Sujet à la Matrice. Tant que l'homme nourrit son avidité (cupidité), il reste cloué à la gravité horizontale.\n• Verset 10 - ἀνακαινούμενον : Ce participe présent passif souligne une dynamique en temps réel. Le Nouvel Homme n'est pas un statut figé qu'on obtiendrait une fois pour toutes : il est continuellement 'en train d'être renouvelé' par la réception de la fréquence divine (*epi-gnosis*).\n\nAnalyse spirituelle :\nCe texte est l'interface parfaite pour comprendre la Parabole du Grand Souper (Luc 14). Dans la parabole, les hommes refusaient l'Unité (le repas) parce qu'ils étaient identifiés à leurs possessions (champ, bœufs, femme). Paul déconstruit ici l'anatomie exacte de cette illusion.\n\nAux versets 5 à 7, l'Apôtre dresse la liste des programmes corrompus de l'ancien système : la cupidité, la débauche, les passions. Fait foudroyant, il définit la *pleonexia* (la cupidité, le besoin d'avoir toujours plus) comme l'essence même de l'idolâtrie. L'Ego est ce gouffre d'insatisfaction qui s'attache frénétiquement aux objets du monde (les 'champs' et les 'bœufs' de Luc 14) pour fuir sa propre vacuité. Marcher dans ces illusions attire mécaniquement la friction de l'Incréé ('la colère de Dieu').\n\nPour accepter l'invitation au 'Souper', le Sujet doit accomplir deux mouvements spatiaux drastiques (v.8-10) : *Apekdyomai* (se dépouiller du Vieil Homme, comme on jette une mue) et *Endyomai* (revêtir le Nouvel Homme). Il s'agit d'abandonner l'identité matricielle (le Moi séparé, colérique et mensonger) pour devenir le pur miroir (*Eikon*) de la Source.\n\nLe verset 11 est l'apothéose métaphysique de l'Épître. Une fois le Vieil Homme désactivé, la réalité holographique de la Matrice s'effondre. Le Sujet réalise que toutes les étiquettes de séparation (Grec/Juif, libre/esclave) n'étaient que des fictions d'ancrage utilisées par l'Ego pour se donner de l'importance. Dans la dimension du Nouvel Homme, il n'y a plus d'invités qui s'affrontent ou se comparent. Il ne reste qu'une seule Énergie géométrique : le Christ, qui est toutes choses et en toutes choses (*Panta kai en pasin*). La Non-Dualité est accomplie.\n\nRepère intertextuel :\nSans modifier la lecture liturgique de Colossiens 3, on peut la mettre en dialogue avec Colossiens 1, 12-18 : le Père « nous a arrachés au pouvoir des ténèbres » et transférés dans le Royaume du Fils ; tout a été créé par le Christ et en vue de lui ; il est la tête du corps, l'Église. Ce mouvement répond au Grand Souper : alors que la parabole montre une salle encore vide, l'épître affirme la vocation de toute la création à converger vers le Christ. Se dépouiller du vieil homme et revêtir l'homme nouveau n'est donc pas une disparition de la personne, mais son entrée dans un corps dont le Christ demeure la tête."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 5 - Νεκρώσατε : 'Faites mourir' (Segond) ou 'Mortifiez' (Darby). Le sens métaphysique de *nekroo* dépasse la pénitence corporelle. Il s'agit de sectionner les câbles d'alimentation énergétique qui lient le Sujet à la Matrice. Tant que l'homme nourrit son avidité (cupidité), il reste cloué à la gravité horizontale.\n• Verset 10 - ἀνακαινούμενον : Ce participe présent passif souligne une dynamique en temps réel. Le Nouvel Homme n'est pas un statut figé qu'on obtiendrait une fois pour toutes : il est continuellement 'en train d'être renouvelé' par la réception de la fréquence divine (*epi-gnosis*).\n\nAnalyse spirituelle :\nCe texte est l'interface parfaite pour comprendre la Parabole du Grand Souper (Luc 14). Dans la parabole, les hommes refusaient l'Unité (le repas) parce qu'ils étaient identifiés à leurs possessions (champ, bœufs, femme). Paul déconstruit ici l'anatomie exacte de cette illusion.\n\nAux versets 5 à 7, l'Apôtre dresse la liste des programmes corrompus de l'ancien système : la cupidité, la débauche, les passions. Fait foudroyant, il définit la *pleonexia* (la cupidité, le besoin d'avoir toujours plus) comme l'essence même de l'idolâtrie. L'Ego est ce gouffre d'insatisfaction qui s'attache frénétiquement aux objets du monde (les 'champs' et les 'bœufs' de Luc 14) pour fuir sa propre vacuité. Marcher dans ces illusions attire mécaniquement la friction de l'Incréé ('la colère de Dieu').\n\nPour accepter l'invitation au 'Souper', le Sujet doit accomplir deux mouvements spatiaux drastiques (v.8-10) : *Apekdyomai* (se dépouiller du Vieil Homme, comme on jette une mue) et *Endyomai* (revêtir le Nouvel Homme). Il s'agit d'abandonner l'identité matricielle (le Moi séparé, colérique et mensonger) pour devenir le pur miroir (*Eikon*) de la Source.\n\nLe verset 11 est l'apothéose métaphysique de l'Épître. Une fois le Vieil Homme désactivé, la réalité holographique de la Matrice s'effondre. Le Sujet réalise que toutes les étiquettes de séparation (Grec/Juif, libre/esclave) n'étaient que des fictions d'ancrage utilisées par l'Ego pour se donner de l'importance. Dans la dimension du Nouvel Homme, il n'y a plus d'invités qui s'affrontent ou se comparent. Il ne reste qu'une seule Énergie géométrique : le Christ, qui est toutes choses et en toutes choses (*Panta kai en pasin*). La Non-Dualité est accomplie.",
+    "homiletic_axes": [
+      {
+        "title": "L’invitation demande un accueil libre",
+        "content": "Le repas est préparé et l’appel est adressé, mais chacun peut lui opposer ses priorités. Le drame de la parabole n’est pas le manque de don : c’est le refus d’entrer dans la communion offerte.",
+        "keywords": [
+          "καλέω — appeler",
+          "ἔρχομαι — venir",
+          "παραιτέομαι — décliner/refuser"
+        ]
+      },
+      {
+        "title": "Se dépouiller de ce qui retient",
+        "content": "Champ, bœufs et situation familiale deviennent des excuses lorsqu’ils ferment à l’appel. Paul invite précisément à faire mourir la convoitise et à se dépouiller du vieil homme : non à mépriser la création, mais à ne plus en faire une idole.",
+        "keywords": [
+          "πλεονεξία — cupidité",
+          "νεκρόω — faire mourir",
+          "ἀπεκδύομαι — se dépouiller"
+        ]
+      },
+      {
+        "title": "La maison se remplit des exclus",
+        "content": "Pauvres, estropiés, aveugles et boiteux sont conduits au repas. La plénitude de la maison annonce une communauté où les anciennes catégories de séparation ne gouvernent plus, car le Christ est tout et en tous.",
+        "keywords": [
+          "πτωχός — pauvre",
+          "γεμίζω — remplir",
+          "πάντα — toutes choses"
+        ]
+      },
+      {
+        "title": "« Contrains-les d’entrer » : l’insistance de l’hospitalité",
+        "content": "Le verbe ἀναγκάζω exprime ici l’insistance du maître envers ceux qui, laissés aux chemins et aux haies, pourraient ne pas se croire invités. Il ne peut servir à justifier une contrainte religieuse : dans la parabole, le maître veut que sa maison accueille ceux que personne n’attend.",
+        "keywords": [
+          "ἀναγκάζω — presser/contraindre",
+          "εἰσέρχομαι — entrer",
+          "οἶκος — maison"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Quitter les excuses et revêtir l’homme nouveau",
+        "reference": "Luc 14, 16-24 ; Colossiens 3, 4-11",
+        "content": "Les attachements qui excusent le refus du repas correspondent à ce que Paul demande de déposer. L’invitation devient alors passage du vieil homme à l’homme nouveau et entrée dans une table où les séparations sont dépassées dans le Christ.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le grand repas » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, les déplacements et les oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que le Christ donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   }
 }

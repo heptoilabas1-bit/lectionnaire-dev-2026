@@ -10,15 +10,44 @@
           "darby": "Et ayant ouï dire que Jean avait été livré, il se retira en Galilée ;"
         },
         "interlinear": [
-          { "greek": "Ἀκούσας", "gloss": "Ayant_entendu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ἰωάννης", "gloss": "Jean" },
-          { "greek": "παρεδόθη,", "gloss": "fut_livré/transmis", "analyse": "Le verbe *para-didomi*. La Matrice horizontale réagit toujours à la fréquence de l'Éveil par la tentative d'étouffement. La 'Voix' préparatoire du désert est enfermée par l'Ego despotique (Hérode Antipas)." },
-          { "greek": "ἀνεχώρησεν", "gloss": "il_se_retira/se_déplaça", "analyse": "Le verbe *ana-choreo* (se retirer, faire de l'espace). Le Logos ne mène pas une rébellion politique de front. Il est fluide. Face à la fermeture d'un espace vibratoire (la Judée), Il glisse stratégiquement vers un autre." },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "Γαλιλαίαν.", "gloss": "Galilée" }
+          {
+            "greek": "Ἀκούσας",
+            "gloss": "Ayant_entendu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Ἰωάννης",
+            "gloss": "Jean"
+          },
+          {
+            "greek": "παρεδόθη,",
+            "gloss": "fut_livré/transmis",
+            "analyse": "Le verbe *para-didomi*. La Matrice horizontale réagit toujours à la fréquence de l'Éveil par la tentative d'étouffement. La 'Voix' préparatoire du désert est enfermée par l'Ego despotique (Hérode Antipas)."
+          },
+          {
+            "greek": "ἀνεχώρησεν",
+            "gloss": "il_se_retira/se_déplaça",
+            "analyse": "Le verbe *ana-choreo* (se retirer, faire de l'espace). Le Logos ne mène pas une rébellion politique de front. Il est fluide. Face à la fermeture d'un espace vibratoire (la Judée), Il glisse stratégiquement vers un autre."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "Γαλιλαίαν.",
+            "gloss": "Galilée"
+          }
         ]
       },
       {
@@ -28,21 +57,67 @@
           "darby": "et ayant quitté Nazareth, il vint et demeura à Capernaüm, qui est sur la mer, sur les confins de Zabulon et de Nephthali,"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "καταλιπὼν", "gloss": "ayant_quitté/laissé_derrière" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "Ναζαρὰ", "gloss": "Nazareth" },
-          { "greek": "ἐλθὼν", "gloss": "étant_venu" },
-          { "greek": "κατῴκησεν", "gloss": "il_habita/établit_sa_demeure" },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "Καφαρναοὺμ", "gloss": "Capernaüm" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "παραθαλασσίαν", "gloss": "près_de_la_mer", "analyse": "La topographie symbolique : au bord du lac, à la frontière entre la terre ferme (le monde structuré) et l'eau (les profondeurs chaotiques de l'inconscient)." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "ὁρίοις", "gloss": "les_frontières/confins" },
-          { "greek": "Ζαβουλὼν", "gloss": "Zabulon" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Νεφθαλείμ·", "gloss": "Nephthali" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "καταλιπὼν",
+            "gloss": "ayant_quitté/laissé_derrière"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "Ναζαρὰ",
+            "gloss": "Nazareth"
+          },
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "κατῴκησεν",
+            "gloss": "il_habita/établit_sa_demeure"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Καφαρναοὺμ",
+            "gloss": "Capernaüm"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "παραθαλασσίαν",
+            "gloss": "près_de_la_mer",
+            "analyse": "La topographie symbolique : au bord du lac, à la frontière entre la terre ferme (le monde structuré) et l'eau (les profondeurs chaotiques de l'inconscient)."
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ὁρίοις",
+            "gloss": "les_frontières/confins"
+          },
+          {
+            "greek": "Ζαβουλὼν",
+            "gloss": "Zabulon"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Νεφθαλείμ·",
+            "gloss": "Nephthali"
+          }
         ]
       },
       {
@@ -52,15 +127,43 @@
           "darby": "afin que fût accompli ce qui a été dit par Ésaïe le prophète, disant :"
         },
         "interlinear": [
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "πληρωθῇ", "gloss": "soit_accompli/rempli", "analyse": "Le *Pleroma*. La superposition du *Chronos* (le temps linéaire d'Ésaïe) par la densité du Présent. La prophétie n'est pas une simple prédiction, c'est un contenant vibratoire qui est enfin 'saturé' par la Présence." },
-          { "greek": "τὸ", "gloss": "ce_qui" },
-          { "greek": "ῥηθὲν", "gloss": "fut_dit" },
-          { "greek": "διὰ", "gloss": "à_travers" },
-          { "greek": "Ἠσαΐου", "gloss": "d'Ésaïe" },
-          { "greek": "τοῦ", "gloss": "le" },
-          { "greek": "προφήτου", "gloss": "prophète" },
-          { "greek": "λέγοντος·", "gloss": "disant" }
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "πληρωθῇ",
+            "gloss": "soit_accompli/rempli",
+            "analyse": "Le *Pleroma*. La superposition du *Chronos* (le temps linéaire d'Ésaïe) par la densité du Présent. La prophétie n'est pas une simple prédiction, c'est un contenant vibratoire qui est enfin 'saturé' par la Présence."
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "ce_qui"
+          },
+          {
+            "greek": "ῥηθὲν",
+            "gloss": "fut_dit"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers"
+          },
+          {
+            "greek": "Ἠσαΐου",
+            "gloss": "d'Ésaïe"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "προφήτου",
+            "gloss": "prophète"
+          },
+          {
+            "greek": "λέγοντος·",
+            "gloss": "disant"
+          }
         ]
       },
       {
@@ -70,19 +173,59 @@
           "darby": "Terre de Zabulon et terre de Nephthali, sur le chemin de la mer, au delà du Jourdain, Galilée des nations :"
         },
         "interlinear": [
-          { "greek": "Γῆ", "gloss": "Terre" },
-          { "greek": "Ζαβουλὼν", "gloss": "Zabulon" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "γῆ", "gloss": "terre" },
-          { "greek": "Νεφθαλείμ,", "gloss": "Nephthali" },
-          { "greek": "ὁδὸν", "gloss": "sur_le_chemin" },
-          { "greek": "θαλάσσης,", "gloss": "de_la_mer" },
-          { "greek": "πέραν", "gloss": "au-delà" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "Ἰορδάνου,", "gloss": "Jourdain" },
-          { "greek": "Γαλιλαία", "gloss": "Galilée" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἐθνῶν,", "gloss": "nations/païens", "analyse": "L'apogée de l'anomalie. L'épicentre religieux (l'Ego puriste de Jérusalem) méprisait cette région hybride, jugée corrompue et impure. L'Incréé installe pourtant son QG précisément dans l'angle mort du système religieux, là où l'humanité est la plus fracturée." }
+          {
+            "greek": "Γῆ",
+            "gloss": "Terre"
+          },
+          {
+            "greek": "Ζαβουλὼν",
+            "gloss": "Zabulon"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "γῆ",
+            "gloss": "terre"
+          },
+          {
+            "greek": "Νεφθαλείμ,",
+            "gloss": "Nephthali"
+          },
+          {
+            "greek": "ὁδὸν",
+            "gloss": "sur_le_chemin"
+          },
+          {
+            "greek": "θαλάσσης,",
+            "gloss": "de_la_mer"
+          },
+          {
+            "greek": "πέραν",
+            "gloss": "au-delà"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Ἰορδάνου,",
+            "gloss": "Jourdain"
+          },
+          {
+            "greek": "Γαλιλαία",
+            "gloss": "Galilée"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἐθνῶν,",
+            "gloss": "nations/païens",
+            "analyse": "L'apogée de l'anomalie. L'épicentre religieux (l'Ego puriste de Jérusalem) méprisait cette région hybride, jugée corrompue et impure. L'Incréé installe pourtant son QG précisément dans l'angle mort du système religieux, là où l'humanité est la plus fracturée."
+          }
         ]
       },
       {
@@ -92,26 +235,91 @@
           "darby": "Le peuple assis dans les ténèbres a vu une grande lumière ; et sur ceux qui sont assis dans la contrée et dans l'ombre de la mort, la lumière s'est levée."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λαὸς", "gloss": "peuple" },
-          { "greek": "ὁ", "gloss": "qui_est" },
-          { "greek": "καθήμενος", "gloss": "assis", "analyse": "La posture statique de l'entropie absolue. Le Sujet, écrasé par la Matrice, n'a même plus la force de marcher ou de chercher. Il est paralysé." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "σκότει", "gloss": "les_ténèbres", "analyse": "L'obscurité ontologique. L'absence d'information divine et la perte du Centre." },
-          { "greek": "φῶς", "gloss": "lumière" },
-          { "greek": "εἶδεν", "gloss": "vit" },
-          { "greek": "μέγα,", "gloss": "grande", "analyse": "Le *Phos mega*. C'est l'onde de choc de la Théophanie qui se propage depuis le Jourdain." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τοῖς", "gloss": "sur_ceux" },
-          { "greek": "καθημένοις", "gloss": "étant_assis" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "χώρᾳ", "gloss": "la_région/contrée" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "σκιᾷ", "gloss": "l'ombre" },
-          { "greek": "θανάτου", "gloss": "de_la_mort", "analyse": "La géographie de la dualité : un monde dégradé où toute forme finit par se dissoudre. L'homme duel est littéralement 'dans l'ombre' de sa propre finitude." },
-          { "greek": "φῶς", "gloss": "lumière" },
-          { "greek": "ἀνέτειλεν", "gloss": "se_leva/jaillit", "analyse": "Le verbe *anatello* (se lever comme un astre, germer). La trajectoire foudroyante de bas en haut. La lumière ne s'allume pas progressivement ; elle transperce la nuit sans demander l'autorisation des ténèbres." },
-          { "greek": "αὐτοῖς.", "gloss": "pour_eux" }
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λαὸς",
+            "gloss": "peuple"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "qui_est"
+          },
+          {
+            "greek": "καθήμενος",
+            "gloss": "assis",
+            "analyse": "La posture statique de l'entropie absolue. Le Sujet, écrasé par la Matrice, n'a même plus la force de marcher ou de chercher. Il est paralysé."
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "σκότει",
+            "gloss": "les_ténèbres",
+            "analyse": "L'obscurité ontologique. L'absence d'information divine et la perte du Centre."
+          },
+          {
+            "greek": "φῶς",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "εἶδεν",
+            "gloss": "vit"
+          },
+          {
+            "greek": "μέγα,",
+            "gloss": "grande",
+            "analyse": "Le *Phos mega*. C'est l'onde de choc de la Théophanie qui se propage depuis le Jourdain."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "sur_ceux"
+          },
+          {
+            "greek": "καθημένοις",
+            "gloss": "étant_assis"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "χώρᾳ",
+            "gloss": "la_région/contrée"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σκιᾷ",
+            "gloss": "l'ombre"
+          },
+          {
+            "greek": "θανάτου",
+            "gloss": "de_la_mort",
+            "analyse": "La géographie de la dualité : un monde dégradé où toute forme finit par se dissoudre. L'homme duel est littéralement 'dans l'ombre' de sa propre finitude."
+          },
+          {
+            "greek": "φῶς",
+            "gloss": "lumière"
+          },
+          {
+            "greek": "ἀνέτειλεν",
+            "gloss": "se_leva/jaillit",
+            "analyse": "Le verbe *anatello* (se lever comme un astre, germer). La trajectoire foudroyante de bas en haut. La lumière ne s'allume pas progressivement ; elle transperce la nuit sans demander l'autorisation des ténèbres."
+          },
+          {
+            "greek": "αὐτοῖς.",
+            "gloss": "pour_eux"
+          }
         ]
       },
       {
@@ -121,27 +329,168 @@
           "darby": "Dès lors Jésus commença à prêcher et à dire : Repentez-vous, car le royaume des cieux s'est approché."
         },
         "interlinear": [
-          { "greek": "Ἀπὸ", "gloss": "Depuis" },
-          { "greek": "τότε", "gloss": "alors" },
-          { "greek": "ἤρξατο", "gloss": "commença" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "κηρύσσειν", "gloss": "à_prêcher/proclamer" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "λέγειν·", "gloss": "à_dire" },
-          { "greek": "Μετανοεῖτε,", "gloss": "Repentez-vous", "analyse": "La *Meta-noia*. Le retournement de l'intellect (*nous*). Ce n'est pas le regret moralisable d'avoir fait de mauvaises actions. C'est l'ordre métaphysique de changer de paradigme perceptif, de désactiver la logique de l'Ego séparé." },
-          { "greek": "ἤγγικεν", "gloss": "s'est_approché", "analyse": "Le parfait du verbe *engizo*. Le 'Royaume' n'est pas un événement repoussé dans le futur (*Chronos*). Il est spatialement arrivé au point de contact absolu avec notre dimension. Il est là, palpable, si la *Metanoia* est opérée." },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ἡ", "gloss": "le" },
-          { "greek": "βασιλεία", "gloss": "royaume", "analyse": "La *Basileia*. Le Champ Unifié, le domaine non-duel souverain de l'Incréé." },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "οὐρανῶν.", "gloss": "cieux" }
+          {
+            "greek": "Ἀπὸ",
+            "gloss": "Depuis"
+          },
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "ἤρξατο",
+            "gloss": "commença"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "κηρύσσειν",
+            "gloss": "à_prêcher/proclamer"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λέγειν·",
+            "gloss": "à_dire"
+          },
+          {
+            "greek": "Μετανοεῖτε,",
+            "gloss": "Repentez-vous",
+            "analyse": "La *Meta-noia*. Le retournement de l'intellect (*nous*). Ce n'est pas le regret moralisable d'avoir fait de mauvaises actions. C'est l'ordre métaphysique de changer de paradigme perceptif, de désactiver la logique de l'Ego séparé."
+          },
+          {
+            "greek": "ἤγγικεν",
+            "gloss": "s'est_approché",
+            "analyse": "Le parfait du verbe *engizo*. Le 'Royaume' n'est pas un événement repoussé dans le futur (*Chronos*). Il est spatialement arrivé au point de contact absolu avec notre dimension. Il est là, palpable, si la *Metanoia* est opérée."
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλεία",
+            "gloss": "royaume",
+            "analyse": "La *Basileia*. Le Champ Unifié, le domaine non-duel souverain de l'Incréé."
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "οὐρανῶν.",
+            "gloss": "cieux"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 16 - ἀνέτειλεν : Traduit par 's'est levée' (Segond/Darby). Ce verbe (*anatello*) décrit littéralement l'aube cosmique (le lever d'un astre) ou la poussée végétale qui jaillit du sol. C'est la force irrésistible de l'Axe (le Haut) qui vient déchirer la croûte de l'ombre (le Bas).\n• Verset 17 - ἤγγικεν : Segond rend par 'est proche' et Darby par 's'est approché'. La tension du grec classique (au parfait) indique une action achevée dont les effets se font sentir dans le présent : 'il est arrivé à portée de main'. La *Basileia* n'est plus une promesse temporelle lointaine, elle est une superposition spatiale immédiate.\n\nAnalyse spirituelle :\nCette péricope s'articule comme la conséquence topographique directe de la Théophanie (le Baptême du Christ). \n\nLe texte s'ouvre sur un double mouvement (v.12). D'un côté, la Matrice duel tente de neutraliser l'onde de l'Éveil : Jean (le précurseur) est enfermé (*paredothe*) par le système despotique d'Hérode. De l'autre côté, le *Logos* réagit par la fluidité absolue : Il se retire (*anachoresen*) et quitte son centre d'origine (Nazareth). \n\nLa stratégie métaphysique du Christ est vertigineuse. Au lieu d'aller affronter le pouvoir frontalement à Jérusalem (l'épicentre de l'Ego religieux et politique), Il choisit de s'enraciner dans les marges absolues : Capernaüm, la 'Galilée des nations' (v.15). Dans l'imaginaire biblique, c'est la zone hybride, impure, méprisée. C'est précisément la loi de la Grâce : l'Incréé ne vient pas féliciter les structures morales qui se croient pures, Il vient briser la nuit là où l'humanité est la plus aliénée.\n\nLe verset 16 décrit la condition humaine sous l'empire de l'Ego : le peuple est 'assis' (*kathemenos*). C'est l'image de la paralysie, de l'entropie maximale. L'homme duel végète dans la 'région de l'ombre de la mort'. Et soudain, sans aucun mérite ou effort horizontal de la part de ces captifs, la Lumière (*Phos mega*) fait irruption. Elle vient les heurter verticalement.\n\nC'est à la lumière de cette fulgurance que prend sens l'injonction du verset 17 : 'Repentez-vous (*Metanoeite*), car le Royaume des cieux est à portée de main (*engiken*)'. Le Christ de l'Évangile ne prêche pas une morale comportementale. Il donne l'alerte d'une collision interdimensionnelle. Le Champ Unifié (*Basileia*) vient de s'encastrer dans l'espace-temps duel. La *Metanoia* (le retournement de la conscience) n'est donc pas le moyen pour 'gagner' le ciel dans le futur ; c'est le seul mécanisme cognitif qui permette au Sujet, ici et maintenant, de syntoniser sa fréquence avec ce Royaume qui est déjà là."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 16 - ἀνέτειλεν : Traduit par 's'est levée' (Segond/Darby). Ce verbe (*anatello*) décrit littéralement l'aube cosmique (le lever d'un astre) ou la poussée végétale qui jaillit du sol. C'est la force irrésistible de l'Axe (le Haut) qui vient déchirer la croûte de l'ombre (le Bas).\n• Verset 17 - ἤγγικεν : Segond rend par 'est proche' et Darby par 's'est approché'. La tension du grec classique (au parfait) indique une action achevée dont les effets se font sentir dans le présent : 'il est arrivé à portée de main'. La *Basileia* n'est plus une promesse temporelle lointaine, elle est une superposition spatiale immédiate.\n\nAnalyse spirituelle :\nCette péricope s'articule comme la conséquence topographique directe de la Théophanie (le Baptême du Christ). \n\nLe texte s'ouvre sur un double mouvement (v.12). D'un côté, la Matrice duel tente de neutraliser l'onde de l'Éveil : Jean (le précurseur) est enfermé (*paredothe*) par le système despotique d'Hérode. De l'autre côté, le *Logos* réagit par la fluidité absolue : Il se retire (*anachoresen*) et quitte son centre d'origine (Nazareth). \n\nLa stratégie métaphysique du Christ est vertigineuse. Au lieu d'aller affronter le pouvoir frontalement à Jérusalem (l'épicentre de l'Ego religieux et politique), Il choisit de s'enraciner dans les marges absolues : Capernaüm, la 'Galilée des nations' (v.15). Dans l'imaginaire biblique, c'est la zone hybride, impure, méprisée. C'est précisément la loi de la Grâce : l'Incréé ne vient pas féliciter les structures morales qui se croient pures, Il vient briser la nuit là où l'humanité est la plus aliénée.\n\nLe verset 16 décrit la condition humaine sous l'empire de l'Ego : le peuple est 'assis' (*kathemenos*). C'est l'image de la paralysie, de l'entropie maximale. L'homme duel végète dans la 'région de l'ombre de la mort'. Et soudain, sans aucun mérite ou effort horizontal de la part de ces captifs, la Lumière (*Phos mega*) fait irruption. Elle vient les heurter verticalement.\n\nC'est à la lumière de cette fulgurance que prend sens l'injonction du verset 17 : 'Repentez-vous (*Metanoeite*), car le Royaume des cieux est à portée de main (*engiken*)'. Le Christ de l'Évangile ne prêche pas une morale comportementale. Il donne l'alerte d'une collision interdimensionnelle. Le Champ Unifié (*Basileia*) vient de s'encastrer dans l'espace-temps duel. La *Metanoia* (le retournement de la conscience) n'est donc pas le moyen pour 'gagner' le ciel dans le futur ; c'est le seul mécanisme cognitif qui permette au Sujet, ici et maintenant, de syntoniser sa fréquence avec ce Royaume qui est déjà là.",
+    "homiletic_axes": [
+      {
+        "title": "La lumière descend dans les marges",
+        "content": "Après la manifestation au Jourdain, le Christ va habiter la Galilée des nations. La lumière ne demeure pas à distance : elle rejoint ceux qui habitent les ténèbres et l’ombre de la mort.",
+        "keywords": [
+          "φῶς — lumière",
+          "σκοτία — ténèbres",
+          "κατοικέω — habiter"
+        ]
+      },
+      {
+        "title": "Descendre et monter pour remplir toutes choses",
+        "content": "L’Évangile montre le Christ allant vers une terre marginale ; l’Apôtre déploie le même mystère à l’échelle du salut : celui qui est descendu est aussi monté au-dessus des cieux afin de remplir toutes choses. Le couple κατά-/ἀνά- éclaire ce mouvement sans réduire les verbes à leurs seuls préfixes.",
+        "keywords": [
+          "καταβαίνω — descendre",
+          "ἀναβαίνω — monter",
+          "πληρόω — remplir"
+        ]
+      },
+      {
+        "title": "La métanoïa comme réponse à la proximité du Royaume",
+        "content": "Parce que la lumière s’est approchée, Jésus appelle à la conversion. La μετάνοια est retournement de l’intelligence et de la vie : elle accueille l’initiative de Dieu au lieu de prétendre produire seule son élévation.",
+        "keywords": [
+          "μετανοέω — se convertir",
+          "ἐγγίζω — s’approcher",
+          "βασιλεία — Royaume"
+        ]
+      },
+      {
+        "title": "Des dons différents pour l’unité du Corps",
+        "content": "Le Christ donne à chacun selon sa mesure, non pour isoler des talents individuels, mais pour édifier son Corps dans l’unité de la foi. La plénitude n’abolit pas les personnes : elle accorde leurs dons au service de tous.",
+        "keywords": [
+          "δωρεά — don",
+          "οἰκοδομή — édification",
+          "ἑνότης — unité"
+        ]
+      },
+      {
+        "title": "Porter dans le monde la lumière reçue",
+        "content": "Les cours S1 et S2 décrivent un mouvement théophorique : recevoir la parole, la laisser croître puis lui donner corps dans le monde. Après la Théophanie, la lumière reçue devient ainsi service, témoignage et édification ecclésiale.",
+        "keywords": [
+          "θεοφόρος — porteur de Dieu",
+          "διακονία — service",
+          "σῶμα Χριστοῦ — Corps du Christ"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La manifestation devient mission et édification",
+        "reference": "Matthieu 4, 12-17 ; Éphésiens 4, 7-13",
+        "content": "La lumière manifestée au Jourdain rejoint la Galilée et appelle à la conversion. Paul montre le Christ descendant et montant pour remplir toutes choses, puis donnant à chacun de quoi édifier l’unique Corps.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Après la Théophanie » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez comment descente, montée, lumière, conversion, dons et unité du Corps progressent d’un texte à l’autre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   },
- "apostle": {
+  "apostle": {
     "reference": "Éphésiens 4, 7-13",
     "title": "La Katabasis, l'Anabasis et l'Architecture du Pleroma",
     "interlinear": [
@@ -152,20 +501,64 @@
           "darby": "Mais à chacun de nous la grâce a été donnée selon la mesure du don de Christ."
         },
         "interlinear": [
-          { "greek": "Ἑνὶ", "gloss": "À_un" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἑκάστῳ", "gloss": "chacun" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
-          { "greek": "ἐδόθη", "gloss": "fut_donnée" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "χάρις", "gloss": "grâce", "analyse": "La *Charis*. L'énergie pure de l'Incréé. Elle ne s'obtient pas par l'effort horizontal de l'Ego, elle est 'donnée' comme une onde qui frappe le Sujet." },
-          { "greek": "κατὰ", "gloss": "selon" },
-          { "greek": "τὸ", "gloss": "la" },
-          { "greek": "μέτρον", "gloss": "mesure", "analyse": "Le *Metron*. L'Énergie divine est infinie, mais elle est distribuée de manière fractale, adaptée à la capacité topologique et vibratoire de chaque Sujet dans la Matrice." },
-          { "greek": "τῆς", "gloss": "du" },
-          { "greek": "δωρεᾶς", "gloss": "don" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "Χριστοῦ.", "gloss": "Christ" }
+          {
+            "greek": "Ἑνὶ",
+            "gloss": "À_un"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἑκάστῳ",
+            "gloss": "chacun"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "ἐδόθη",
+            "gloss": "fut_donnée"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce",
+            "analyse": "La *Charis*. L'énergie pure de l'Incréé. Elle ne s'obtient pas par l'effort horizontal de l'Ego, elle est 'donnée' comme une onde qui frappe le Sujet."
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "μέτρον",
+            "gloss": "mesure",
+            "analyse": "Le *Metron*. L'Énergie divine est infinie, mais elle est distribuée de manière fractale, adaptée à la capacité topologique et vibratoire de chaque Sujet dans la Matrice."
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "δωρεᾶς",
+            "gloss": "don"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "Christ"
+          }
         ]
       },
       {
@@ -175,17 +568,52 @@
           "darby": "C'est pourquoi il dit : 'Étant monté en haut, il a emmené captive la captivité, et a donné des dons aux hommes'."
         },
         "interlinear": [
-          { "greek": "διὸ", "gloss": "C'est_pourquoi" },
-          { "greek": "λέγει·", "gloss": "il_dit" },
-          { "greek": "Ἀναβὰς", "gloss": "Étant_monté", "analyse": "L'*Anabasis* (l'ascension, la marche vers le haut). Le mouvement de ré-érection de l'Axe qui arrache la création à la gravité terrestre." },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "ὕψος", "gloss": "la_hauteur" },
-          { "greek": "ᾐχμαλώτευσεν", "gloss": "il_a_capturé" },
-          { "greek": "αἰχμαλωσίαν,", "gloss": "la_captivité", "analyse": "Le paradoxe cosmique absolu : capturer la captivité. Le Logos ne capture pas des humains ; Il fait prisonnier le principe même de l'entropie et de la tyrannie (la Matrice/la Mort) qui tenait l'humanité en esclavage." },
-          { "greek": "ἔδωκεν", "gloss": "il_a_donné" },
-          { "greek": "δόματα", "gloss": "des_dons" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "ἀνθρώποις.", "gloss": "hommes" }
+          {
+            "greek": "διὸ",
+            "gloss": "C'est_pourquoi"
+          },
+          {
+            "greek": "λέγει·",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "Ἀναβὰς",
+            "gloss": "Étant_monté",
+            "analyse": "L'*Anabasis* (l'ascension, la marche vers le haut). Le mouvement de ré-érection de l'Axe qui arrache la création à la gravité terrestre."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ὕψος",
+            "gloss": "la_hauteur"
+          },
+          {
+            "greek": "ᾐχμαλώτευσεν",
+            "gloss": "il_a_capturé"
+          },
+          {
+            "greek": "αἰχμαλωσίαν,",
+            "gloss": "la_captivité",
+            "analyse": "Le paradoxe cosmique absolu : capturer la captivité. Le Logos ne capture pas des humains ; Il fait prisonnier le principe même de l'entropie et de la tyrannie (la Matrice/la Mort) qui tenait l'humanité en esclavage."
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "il_a_donné"
+          },
+          {
+            "greek": "δόματα",
+            "gloss": "des_dons"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἀνθρώποις.",
+            "gloss": "hommes"
+          }
         ]
       },
       {
@@ -195,22 +623,78 @@
           "darby": "(Or, qu'il soit monté, qu'est-ce, sinon qu'il est aussi descendu dans les parties inférieures de la terre ?"
         },
         "interlinear": [
-          { "greek": "Τὸ", "gloss": "Le_[mot]" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "Ἀνέβη", "gloss": "Il_est_monté" },
-          { "greek": "τί", "gloss": "que" },
-          { "greek": "ἐστιν", "gloss": "est-ce" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "μὴ", "gloss": "ce_n'est" },
-          { "greek": "ὅτι", "gloss": "qu'" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "κατέβη", "gloss": "il_est_descendu", "analyse": "La *Katabasis* (la Kénose, la descente). Le Logos ne règne pas depuis une transcendance lointaine. Il doit chuter délibérément dans le point le plus dense de l'illusion pour la faire exploser de l'intérieur." },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "κατώτερα", "gloss": "plus_basses" },
-          { "greek": "μέρη", "gloss": "parties/régions" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "γῆς;", "gloss": "terre", "analyse": "L'entropie maximale (l'Hadès, la mort, l'inconscient collectif). L'Éveil ne consiste pas à fuir la matière, mais à y injecter la Lumière de l'Axe jusqu'en son fond." }
+          {
+            "greek": "Τὸ",
+            "gloss": "Le_[mot]"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "Ἀνέβη",
+            "gloss": "Il_est_monté",
+            "annotation": {
+              "type": "repetition",
+              "title": "Que signifie : Il est monté ?",
+              "content": "Paul reprend le verbe du psaume qu’il vient de citer et l’interprète par son contraire : dire que le Christ est monté suppose qu’il est aussi descendu. Le raisonnement unit ainsi l’Ascension à l’abaissement réel de l’Incarnation.",
+              "related": ["κατέβη", "κατώτερα", "Χριστός"]
+            }
+          },
+          {
+            "greek": "τί",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est-ce"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ce_n'est"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "κατέβη",
+            "gloss": "il_est_descendu",
+            "analyse": "La *Katabasis* (la Kénose, la descente). Le Logos ne règne pas depuis une transcendance lointaine. Il doit chuter délibérément dans le point le plus dense de l'illusion pour la faire exploser de l'intérieur."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "κατώτερα",
+            "gloss": "plus_basses"
+          },
+          {
+            "greek": "μέρη",
+            "gloss": "parties/régions"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "γῆς;",
+            "gloss": "terre",
+            "analyse": "L'entropie maximale (l'Hadès, la mort, l'inconscient collectif). L'Éveil ne consiste pas à fuir la matière, mais à y injecter la Lumière de l'Axe jusqu'en son fond."
+          }
         ]
       },
       {
@@ -220,21 +704,79 @@
           "darby": "Celui qui est descendu est le même que celui qui est aussi monté au-dessus de tous les cieux, afin qu'il remplît toutes choses ;)"
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Celui_qui" },
-          { "greek": "καταβὰς", "gloss": "étant_descendu" },
-          { "greek": "αὐτός", "gloss": "lui-même" },
-          { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὁ", "gloss": "celui_qui" },
-          { "greek": "ἀναβὰς", "gloss": "étant_monté" },
-          { "greek": "ὑπεράνω", "gloss": "au-dessus" },
-          { "greek": "πάντων", "gloss": "de_tous" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "οὐρανῶν,", "gloss": "cieux" },
-          { "greek": "ἵνα", "gloss": "afin_de" },
-          { "greek": "πληρώσῃ", "gloss": "remplir/saturer", "analyse": "Le verbe *pleroo* (d'où vient *Pleroma*). Le but du Christ cosmique n'est pas de juger la création de l'extérieur, mais d'effectuer un balayage vibratoire total (du fond de la terre jusqu'au-dessus des cieux) pour 'saturer' chaque point de l'espace de sa Présence non-duelle." },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πάντα.", "gloss": "toutes_choses" }
+          {
+            "greek": "ὁ",
+            "gloss": "Celui_qui"
+          },
+          {
+            "greek": "καταβὰς",
+            "gloss": "étant_descendu",
+            "annotation": {
+              "type": "theologie",
+              "title": "Celui qui est descendu",
+              "content": "Καταβαίνω désigne la descente du Christ jusque dans les régions inférieures de la terre. Paul l’unit immédiatement à ἀναβαίνω : l’ascension ne contourne pas l’Incarnation et la mort, elle manifeste la victoire de Celui qui les a assumées.",
+              "related": ["ἀναβὰς", "κατώτερα", "πληρώσῃ"]
+            }
+          },
+          {
+            "greek": "αὐτός",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "ἐστιν",
+            "gloss": "est"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "ἀναβὰς",
+            "gloss": "étant_monté",
+            "annotation": {
+              "type": "theologie",
+              "title": "Celui qui est monté",
+              "content": "Ἀναβαίνω répond à καταβαίνω et désigne le même Christ. Le mouvement entier va de la descente kénotique à l’élévation au-dessus des cieux, afin de remplir toutes choses et de communiquer ses dons à l’Église.",
+              "related": ["καταβὰς", "οὐρανῶν", "πληρώσῃ"]
+            }
+          },
+          {
+            "greek": "ὑπεράνω",
+            "gloss": "au-dessus"
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "de_tous"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "οὐρανῶν,",
+            "gloss": "cieux"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_de"
+          },
+          {
+            "greek": "πληρώσῃ",
+            "gloss": "remplir/saturer",
+            "analyse": "Le verbe *pleroo* (d'où vient *Pleroma*). Le but du Christ cosmique n'est pas de juger la création de l'extérieur, mais d'effectuer un balayage vibratoire total (du fond de la terre jusqu'au-dessus des cieux) pour 'saturer' chaque point de l'espace de sa Présence non-duelle."
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πάντα.",
+            "gloss": "toutes_choses"
+          }
         ]
       },
       {
@@ -244,23 +786,75 @@
           "darby": "et lui, a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs ;"
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "αὐτὸς", "gloss": "lui-même" },
-          { "greek": "ἔδωκεν", "gloss": "donna" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "μὲν", "gloss": "uns" },
-          { "greek": "ἀποστόλους,", "gloss": "apôtres" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "δὲ", "gloss": "autres" },
-          { "greek": "προφήτας,", "gloss": "prophètes" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "δὲ", "gloss": "autres" },
-          { "greek": "εὐαγγελιστάς,", "gloss": "évangélistes" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "δὲ", "gloss": "autres" },
-          { "greek": "ποιμένας", "gloss": "pasteurs/bergers" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "διδασκάλους,", "gloss": "docteurs/enseignants", "analyse": "Il ne s'agit pas d'une bureaucratie religieuse ou de titres hiérarchiques, mais de différentes fréquences opérationnelles. Ces fonctions sont les 'fractales' de la kénose christique réparties dans le Corps pour poursuivre le travail de saturation." }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "donna"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "uns"
+          },
+          {
+            "greek": "ἀποστόλους,",
+            "gloss": "apôtres"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "autres"
+          },
+          {
+            "greek": "προφήτας,",
+            "gloss": "prophètes"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "autres"
+          },
+          {
+            "greek": "εὐαγγελιστάς,",
+            "gloss": "évangélistes"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "autres"
+          },
+          {
+            "greek": "ποιμένας",
+            "gloss": "pasteurs/bergers"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διδασκάλους,",
+            "gloss": "docteurs/enseignants",
+            "analyse": "Il ne s'agit pas d'une bureaucratie religieuse ou de titres hiérarchiques, mais de différentes fréquences opérationnelles. Ces fonctions sont les 'fractales' de la kénose christique réparties dans le Corps pour poursuivre le travail de saturation."
+          }
         ]
       },
       {
@@ -270,20 +864,65 @@
           "darby": "en vue du perfectionnement des saints, pour l'oeuvre du service, pour l'édification du corps de Christ ;"
         },
         "interlinear": [
-          { "greek": "πρὸς", "gloss": "vers/pour" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "καταρτισμὸν", "gloss": "perfectionnement/ajustement", "analyse": "Le terme magistral *katartismos*. Dans le grec médical, c'est l'action de 'réduire une fracture' ou de remboîter un membre luxé. Le but des ministères est de réaligner géométriquement les sujets disloqués par l'Ego." },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "ἁγίων", "gloss": "saints" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "ἔργον", "gloss": "l'œuvre" },
-          { "greek": "διακονίας,", "gloss": "de_service/ministère" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "οἰκοδομὴν", "gloss": "l'édification/la_construction", "analyse": "L'*oikodome* (architecture de la maison). La restructuration spirituelle de l'être humain." },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "σώματος", "gloss": "corps", "analyse": "Le *Soma*. Le Christ cosmique n'est pas un concept, c'est un Organisme vivant dont nous sommes les cellules, une fois l'Ego désactivé." },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "Χριστοῦ,", "gloss": "Christ" }
+          {
+            "greek": "πρὸς",
+            "gloss": "vers/pour"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "καταρτισμὸν",
+            "gloss": "perfectionnement/ajustement",
+            "analyse": "Le terme magistral *katartismos*. Dans le grec médical, c'est l'action de 'réduire une fracture' ou de remboîter un membre luxé. Le but des ministères est de réaligner géométriquement les sujets disloqués par l'Ego."
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἁγίων",
+            "gloss": "saints"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ἔργον",
+            "gloss": "l'œuvre"
+          },
+          {
+            "greek": "διακονίας,",
+            "gloss": "de_service/ministère"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "οἰκοδομὴν",
+            "gloss": "l'édification/la_construction",
+            "analyse": "L'*oikodome* (architecture de la maison). La restructuration spirituelle de l'être humain."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "σώματος",
+            "gloss": "corps",
+            "analyse": "Le *Soma*. Le Christ cosmique n'est pas un concept, c'est un Organisme vivant dont nous sommes les cellules, une fois l'Ego désactivé."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Χριστοῦ,",
+            "gloss": "Christ"
+          }
         ]
       },
       {
@@ -293,35 +932,210 @@
           "darby": "jusqu'à ce que nous parvenions tous à l'unité de la foi et de la connaissance du Fils de Dieu, à l'état d'un homme fait, à la mesure de la stature de la plénitude du Christ :"
         },
         "interlinear": [
-          { "greek": "μέχρι", "gloss": "jusqu'à_ce_que" },
-          { "greek": "καταντήσωμεν", "gloss": "nous_parvenions" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "πάντες", "gloss": "tous" },
-          { "greek": "εἰς", "gloss": "vers/à" },
-          { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ἑνότητα", "gloss": "unité", "analyse": "L'*Henotes*. Le concept philosophique de la Non-Dualité. L'annulation absolue de la séparation (sujet/objet, moi/le monde, moi/Dieu)." },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "πίστεως", "gloss": "foi" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ἐπιγνώσεως", "gloss": "connaissance_exacte", "analyse": "L'*epi-gnosis*. Non pas un savoir intellectuel ou théologique, mais la fusion par l'expérience directe du Réel." },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "υἱοῦ", "gloss": "Fils" },
-          { "greek": "τοῦ", "gloss": "de" },
-          { "greek": "θεοῦ,", "gloss": "Dieu" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "ἄνδρα", "gloss": "un_homme" },
-          { "greek": "τέλειον,", "gloss": "parfait/achevé", "analyse": "L'*Aner teleios*. Le stade de maturité ontologique où le Sujet atteint son *Telos* (son but métaphysique). Il n'y a plus des milliards d'individus fragmentés, mais un seul 'Homme Parfait' collectif." },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "μέτρον", "gloss": "la_mesure" },
-          { "greek": "ἡλικίας", "gloss": "de_la_stature/l'âge" },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "πληρώματος", "gloss": "plénitude", "analyse": "Le *Pleroma*. L'effacement définitif de l'Ego dans la saturation totale de l'Esprit." },
-          { "greek": "τοῦ", "gloss": "du" },
-          { "greek": "Χριστοῦ,", "gloss": "Christ" }
+          {
+            "greek": "μέχρι",
+            "gloss": "jusqu'à_ce_que"
+          },
+          {
+            "greek": "καταντήσωμεν",
+            "gloss": "nous_parvenions"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/à"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἑνότητα",
+            "gloss": "unité",
+            "analyse": "L'*Henotes*. Le concept philosophique de la Non-Dualité. L'annulation absolue de la séparation (sujet/objet, moi/le monde, moi/Dieu)."
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἐπιγνώσεως",
+            "gloss": "connaissance_exacte",
+            "analyse": "L'*epi-gnosis*. Non pas un savoir intellectuel ou théologique, mais la fusion par l'expérience directe du Réel."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "υἱοῦ",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ἄνδρα",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "τέλειον,",
+            "gloss": "parfait/achevé",
+            "analyse": "L'*Aner teleios*. Le stade de maturité ontologique où le Sujet atteint son *Telos* (son but métaphysique). Il n'y a plus des milliards d'individus fragmentés, mais un seul 'Homme Parfait' collectif."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "μέτρον",
+            "gloss": "la_mesure"
+          },
+          {
+            "greek": "ἡλικίας",
+            "gloss": "de_la_stature/l'âge"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "πληρώματος",
+            "gloss": "plénitude",
+            "analyse": "Le *Pleroma*. L'effacement définitif de l'Ego dans la saturation totale de l'Esprit."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "Χριστοῦ,",
+            "gloss": "Christ"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 8 - ᾐχμαλώτευσεν αἰχμαλωσίαν : Darby traduit littéralement par 'il a emmené captive la captivité'. Segond, moins audacieux, traduit par 'il a emmené des captifs'. La version de Darby reflète mieux le choc sémantique et métaphysique grec : ce ne sont pas des otages que le Christ capture, c'est la Prison elle-même. Il prend en otage la tyrannie entropique de la Matrice.\n• Verset 12 - καταρτισμὸν : 'Perfectionnement' (Segond/Darby) est une traduction morale. Le *katartismos* vient de la sphère médicale et navale : c'est ré-emboîter un os démis ou réparer les mailles déchirées d'un filet. L'Église n'est pas une école de perfection morale, c'est l'hôpital métaphysique où la géométrie brisée de l'être humain est réalignée.\n\nAnalyse spirituelle :\nCette péricope d'Éphésiens 4 (lue pour le dimanche qui prolonge la Théophanie) explique la mécanique vibratoire de l'Incarnation. La Théophanie (l'apparition de Dieu) n'est pas un événement localisé dans le Jourdain, c'est un balayage cosmique (*Anabasis/Katabasis*).\n\nPaul révèle (v.9-10) que pour que l'univers entier soit 'rempli' (*Pleroma*), le Verbe devait opérer un mouvement absolu. Il ne s'est pas contenté de siéger 'au-dessus des cieux', il est délibérément descendu au point géométrique et psychologique le plus bas de la Matrice ('les régions inférieures de la terre'). C'est en descendant à la racine du chaos (la Kénose) qu'il a pu inverser la gravité et 'capturer la captivité' (v.8), brisant la loi d'entropie qui maintenait l'homme duel dans l'illusion.\n\nCependant, ce balayage a laissé une empreinte fractale dans la trame humaine (v.11-12) : les charismes (apôtres, prophètes, etc.). Ces fonctions n'ont aucune finalité hiérarchique. Elles sont les 'attelles' vibratoires nécessaires au *katartismos* (le remboîtement des os de la conscience humaine disloquée). Leur unique mission est l'architecture (*oikodome*) de l'Organisme christique.\n\nLe verset 13 donne l'horizon eschatologique final : la fin de la multiplicité. L'évolution spirituelle ne consiste pas à devenir un 'meilleur individu', mais à disparaître en tant qu'individu séparé pour atteindre l'*Henotes* (l'Unité, la Non-Dualité totale). L'aboutissement du cosmos n'est pas une foule d'humains sauvés, mais la constitution d'un seul *Aner teleios* (l'Homme Parfait), dont la fréquence et la stature correspondent exactement au *Pleroma* (la Plénitude saturante) du Christ."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 8 - ᾐχμαλώτευσεν αἰχμαλωσίαν : Darby traduit littéralement par 'il a emmené captive la captivité'. Segond, moins audacieux, traduit par 'il a emmené des captifs'. La version de Darby reflète mieux le choc sémantique et métaphysique grec : ce ne sont pas des otages que le Christ capture, c'est la Prison elle-même. Il prend en otage la tyrannie entropique de la Matrice.\n• Verset 12 - καταρτισμὸν : 'Perfectionnement' (Segond/Darby) est une traduction morale. Le *katartismos* vient de la sphère médicale et navale : c'est ré-emboîter un os démis ou réparer les mailles déchirées d'un filet. L'Église n'est pas une école de perfection morale, c'est l'hôpital métaphysique où la géométrie brisée de l'être humain est réalignée.\n\nAnalyse spirituelle :\nCette péricope d'Éphésiens 4 (lue pour le dimanche qui prolonge la Théophanie) explique la mécanique vibratoire de l'Incarnation. La Théophanie (l'apparition de Dieu) n'est pas un événement localisé dans le Jourdain, c'est un balayage cosmique (*Anabasis/Katabasis*).\n\nPaul révèle (v.9-10) que pour que l'univers entier soit 'rempli' (*Pleroma*), le Verbe devait opérer un mouvement absolu. Il ne s'est pas contenté de siéger 'au-dessus des cieux', il est délibérément descendu au point géométrique et psychologique le plus bas de la Matrice ('les régions inférieures de la terre'). C'est en descendant à la racine du chaos (la Kénose) qu'il a pu inverser la gravité et 'capturer la captivité' (v.8), brisant la loi d'entropie qui maintenait l'homme duel dans l'illusion.\n\nCependant, ce balayage a laissé une empreinte fractale dans la trame humaine (v.11-12) : les charismes (apôtres, prophètes, etc.). Ces fonctions n'ont aucune finalité hiérarchique. Elles sont les 'attelles' vibratoires nécessaires au *katartismos* (le remboîtement des os de la conscience humaine disloquée). Leur unique mission est l'architecture (*oikodome*) de l'Organisme christique.\n\nLe verset 13 donne l'horizon eschatologique final : la fin de la multiplicité. L'évolution spirituelle ne consiste pas à devenir un 'meilleur individu', mais à disparaître en tant qu'individu séparé pour atteindre l'*Henotes* (l'Unité, la Non-Dualité totale). L'aboutissement du cosmos n'est pas une foule d'humains sauvés, mais la constitution d'un seul *Aner teleios* (l'Homme Parfait), dont la fréquence et la stature correspondent exactement au *Pleroma* (la Plénitude saturante) du Christ.",
+    "homiletic_axes": [
+      {
+        "title": "La lumière descend dans les marges",
+        "content": "Après la manifestation au Jourdain, le Christ va habiter la Galilée des nations. La lumière ne demeure pas à distance : elle rejoint ceux qui habitent les ténèbres et l’ombre de la mort.",
+        "keywords": [
+          "φῶς — lumière",
+          "σκοτία — ténèbres",
+          "κατοικέω — habiter"
+        ]
+      },
+      {
+        "title": "Descendre et monter pour remplir toutes choses",
+        "content": "L’Évangile montre le Christ allant vers une terre marginale ; l’Apôtre déploie le même mystère à l’échelle du salut : celui qui est descendu est aussi monté au-dessus des cieux afin de remplir toutes choses. Le couple κατά-/ἀνά- éclaire ce mouvement sans réduire les verbes à leurs seuls préfixes.",
+        "keywords": [
+          "καταβαίνω — descendre",
+          "ἀναβαίνω — monter",
+          "πληρόω — remplir"
+        ]
+      },
+      {
+        "title": "La métanoïa comme réponse à la proximité du Royaume",
+        "content": "Parce que la lumière s’est approchée, Jésus appelle à la conversion. La μετάνοια est retournement de l’intelligence et de la vie : elle accueille l’initiative de Dieu au lieu de prétendre produire seule son élévation.",
+        "keywords": [
+          "μετανοέω — se convertir",
+          "ἐγγίζω — s’approcher",
+          "βασιλεία — Royaume"
+        ]
+      },
+      {
+        "title": "Des dons différents pour l’unité du Corps",
+        "content": "Le Christ donne à chacun selon sa mesure, non pour isoler des talents individuels, mais pour édifier son Corps dans l’unité de la foi. La plénitude n’abolit pas les personnes : elle accorde leurs dons au service de tous.",
+        "keywords": [
+          "δωρεά — don",
+          "οἰκοδομή — édification",
+          "ἑνότης — unité"
+        ]
+      },
+      {
+        "title": "Porter dans le monde la lumière reçue",
+        "content": "Les cours S1 et S2 décrivent un mouvement théophorique : recevoir la parole, la laisser croître puis lui donner corps dans le monde. Après la Théophanie, la lumière reçue devient ainsi service, témoignage et édification ecclésiale.",
+        "keywords": [
+          "θεοφόρος — porteur de Dieu",
+          "διακονία — service",
+          "σῶμα Χριστοῦ — Corps du Christ"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La manifestation devient mission et édification",
+        "reference": "Matthieu 4, 12-17 ; Éphésiens 4, 7-13",
+        "content": "La lumière manifestée au Jourdain rejoint la Galilée et appelle à la conversion. Paul montre le Christ descendant et montant pour remplir toutes choses, puis donnant à chacun de quoi édifier l’unique Corps.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Après la Théophanie » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez comment descente, montée, lumière, conversion, dons et unité du Corps progressent d’un texte à l’autre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   }
 }

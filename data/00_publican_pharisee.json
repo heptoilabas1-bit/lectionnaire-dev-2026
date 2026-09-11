@@ -2,311 +2,1097 @@
   "gospel": {
     "reference": "Luc 18, 10-14",
     "title": "Le Publicain et le Pharisien : L'Humilité qui Justifie",
-    "interlinear":[
-  {
-     "verse_number": 10,
-    "translations": {
-      "segond": "Deux hommes montèrent au temple pour prier ; l'un était pharisien, et l'autre publicain.",
-      "darby": "Deux hommes montèrent au temple pour prier, l'un pharisien, et l'autre publicain."
-    },
     "interlinear": [
-      { "greek": "Ἄνθρωποι", "gloss": "Hommes" },
-      { "greek": "δύο", "gloss": "deux" },
-      { "greek": "ἀνέβησαν", "gloss": "montèrent" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "ἱερὸν", "gloss": "temple" },
-      { "greek": "προσεύξασθαι,", "gloss": "pour_prier" },
-      { "greek": "ὁ", "gloss": "l'" },
-      { "greek": "εἷς", "gloss": "un" },
-      { "greek": "Φαρισαῖος", "gloss": "Pharisien" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ὁ", "gloss": "l'" },
-      { "greek": "ἕτερος", "gloss": "autre" },
-      { "greek": "τελώνης.", "gloss": "publicain" }
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "Deux hommes montèrent au temple pour prier ; l'un était pharisien, et l'autre publicain.",
+          "darby": "Deux hommes montèrent au temple pour prier, l'un pharisien, et l'autre publicain."
+        },
+        "interlinear": [
+          {
+            "greek": "Ἄνθρωποι",
+            "gloss": "Hommes"
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "ἀνέβησαν",
+            "gloss": "montèrent",
+            "annotation": {
+              "type": "theologie",
+              "title": "Monter vers le Temple",
+              "content": "Ἀναβαίνω décrit d’abord la montée concrète des deux hommes vers le Temple. La fin du récit en renverse pourtant l’évidence : la véritable élévation ne vient pas de celui qui s’exalte, mais de celui qui s’abaisse devant Dieu.",
+              "related": ["κατέβη", "ταπεινῶν"]
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἱερὸν",
+            "gloss": "temple"
+          },
+          {
+            "greek": "προσεύξασθαι,",
+            "gloss": "pour_prier"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "εἷς",
+            "gloss": "un"
+          },
+          {
+            "greek": "Φαρισαῖος",
+            "gloss": "Pharisien"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἕτερος",
+            "gloss": "autre"
+          },
+          {
+            "greek": "τελώνης.",
+            "gloss": "publicain"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Le pharisien, debout, priait ainsi en lui-même : O Dieu, je te rends grâces de ce que je ne suis pas comme le reste des hommes, qui sont ravisseurs, injustes, adultères, ou même comme ce publicain ;",
+          "darby": "Le pharisien, se tenant debout, priait ainsi en lui-même : O Dieu, je te rends grâces de ce que je ne suis pas comme le reste des hommes, qui sont ravisseurs, injustes, adultères, ou même comme ce publicain ;"
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "Φαρισαῖος",
+            "gloss": "Pharisien"
+          },
+          {
+            "greek": "σταθεὶς",
+            "gloss": "se_tenant_debout"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "en",
+            "analyse": "Littéralement \"vers soi-même\". Le grec sous-entend que la prière du Pharisien ne monte pas vers le Ciel : elle est projetée \"vers lui-même\". C'est le propre de l'illusion spirituelle (la prelest) : un monologue narcissique où l'ego se mire dans ses propres vertus."
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "προσηύχετο·",
+            "gloss": "priait"
+          },
+          {
+            "greek": "Ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "θεός,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "εὐχαριστῶ",
+            "gloss": "je_rends_grâces"
+          },
+          {
+            "greek": "σοι",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ὥσπερ",
+            "gloss": "comme"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "λοιποὶ",
+            "gloss": "restes"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "de_les"
+          },
+          {
+            "greek": "ἀνθρώπων,",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "ἅρπαγες,",
+            "gloss": "ravisseurs"
+          },
+          {
+            "greek": "ἄδικοι,",
+            "gloss": "injustes"
+          },
+          {
+            "greek": "μοιχοί,",
+            "gloss": "adultères"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "οὗτος",
+            "gloss": "ce"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "τελώνης·",
+            "gloss": "publicain"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "je jeûne deux fois la semaine, je donne la dîme de tous mes revenus.",
+          "darby": "je jeûne deux fois la semaine, je donne la dîme de tout ce que je possède."
+        },
+        "interlinear": [
+          {
+            "greek": "νηστεύω",
+            "gloss": "je_jeûne"
+          },
+          {
+            "greek": "δὶς",
+            "gloss": "deux_fois"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "σαββάτου,",
+            "gloss": "semaine"
+          },
+          {
+            "greek": "ἀποδεκατῶ",
+            "gloss": "je_donne_la_dîme"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "de_tout"
+          },
+          {
+            "greek": "ὅσα",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "κτῶμαι.",
+            "gloss": "j'acquiers"
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "translations": {
+          "segond": "Le publicain, se tenant à distance, n'osait même pas lever les yeux au ciel ; mais il se frappait la poitrine, en disant : O Dieu, sois apaisé envers moi, qui suis un pécheur.",
+          "darby": "Et le publicain, se tenant loin, ne voulait pas même lever les yeux vers le ciel, mais se frappait la poitrine, disant : O Dieu, sois apaisé envers moi, pécheur !"
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τελώνης",
+            "gloss": "publicain"
+          },
+          {
+            "greek": "μακρόθεν",
+            "gloss": "de_loin"
+          },
+          {
+            "greek": "ἑστὼς",
+            "gloss": "se_tenant"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "ἤθελεν",
+            "gloss": "voulait"
+          },
+          {
+            "greek": "οὐδὲ",
+            "gloss": "même_pas"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὀφθαλμοὺς",
+            "gloss": "yeux"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "οὐρανὸν",
+            "gloss": "ciel"
+          },
+          {
+            "greek": "ἐπᾶραι,",
+            "gloss": "lever"
+          },
+          {
+            "greek": "ἀλλ’",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἔτυπτεν",
+            "gloss": "il_frappait"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "στῆθος",
+            "gloss": "sinus/poitrine"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "en_disant"
+          },
+          {
+            "greek": "Ὁ",
+            "gloss": "—"
+          },
+          {
+            "greek": "θεός,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἱλάσθητί",
+            "gloss": "sois_favorable/fais_miséricorde",
+            "annotation": {
+              "type": "racine",
+              "title": "Ô Dieu, fais-moi miséricorde",
+              "content": "Ἱλάσθητί est un impératif aoriste passif de ἱλάσκομαι. Le publicain ne présente aucun mérite : il demande à Dieu de lui être favorable et de faire miséricorde. La famille ἱλασ- appartient au vocabulaire de l’expiation et du lieu de propitiation ; cette profondeur cultuelle éclaire la prière sans réduire le mot à une simple décomposition.",
+              "related": ["θεός", "μοι", "ἁμαρτωλῷ."]
+            }
+          },
+          {
+            "greek": "μοι",
+            "gloss": "envers_moi"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἁμαρτωλῷ.",
+            "gloss": "pécheur"
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Je vous le dis, celui-ci descendit dans sa maison justifié, plutôt que l'autre. Car quiconque s'élève sera abaissé, et celui qui s'abaisse sera élevé.",
+          "darby": "Je vous le dis : celui-ci descendit en sa maison justifié, plutôt que l'autre ; car quiconque s'élève soi-même sera abaissé ; et celui qui s'abaisse soi-même sera élevé."
+        },
+        "interlinear": [
+          {
+            "greek": "λέγω",
+            "gloss": "Je_dis"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "κατέβη",
+            "gloss": "descendit",
+            "annotation": {
+              "type": "theologie",
+              "title": "Redescendre justifié",
+              "content": "Καταβαίνω marque la descente du Temple vers la maison. Le publicain redescend pourtant élevé par Dieu : le mouvement spatial devient le signe d’un paradoxe spirituel, puisque l’abaissement accueilli ouvre la justification.",
+              "related": ["ἀνέβησαν", "δεδικαιωμένος"]
+            }
+          },
+          {
+            "greek": "οὗτος",
+            "gloss": "celui-ci"
+          },
+          {
+            "greek": "δεδικαιωμένος",
+            "gloss": "justifié",
+            "analyse": "Participe parfait passif. Le passif indique que c'est une action exclusive de Dieu (\"rendu juste par Dieu\"). Le parfait indique un état permanent, une transformation qui dure. La justification n'est pas un salaire éthique qu'on gagne, c'est un état de grâce que l'on reçoit en s'ouvrant par l'humilité."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "οἶκον",
+            "gloss": "maison"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "παρ’",
+            "gloss": "plutôt_que"
+          },
+          {
+            "greek": "ἐκεῖνον·",
+            "gloss": "celui-là"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "πᾶς",
+            "gloss": "quiconque"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "ὑψῶν",
+            "gloss": "s'élève"
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "ταπεινωθήσεται,",
+            "gloss": "sera_abaissé"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ταπεινῶν",
+            "gloss": "s'abaisse"
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "ὑψωθήσεται.",
+            "gloss": "sera_élevé"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 11 - Ὁ / ὁ : L'article devant le vocatif \"Dieu\" (Ὁ θεός) ainsi que l'article de reprise devant \"publicain\" ne sont pas traduits en français car la langue moderne refuse le redoublement de l'article dans ces structures.\n• Verset 11 - τῶν : L'article génitif pluriel fléchi (\"de les hommes\") est contracté naturellement par Segond et Darby en \"des hommes\".\n• Verset 12 - τοῦ : L'article génitif singulier marquant le temps (\"de la semaine\") est omis ou traduit directement par le syntagme \"la semaine\" sans préposition explicite.\n• Verset 13 - Ὁ : L'article de l'invocation vocative (\"O Dieu\") est absent ou remplacé par l'interjection vocative traditionnelle.\n• Verset 13 - τῷ : Le démonstratif/article d'insistance qui précède le qualificatif (\"le pécheur\") est traduit par une proposition relative chez Segond (\"qui suis un pécheur\") ou condensé en apposition absolue par Darby (\"pécheur !\").\n\nAnalyse spirituelle :\nCe dimanche ouvre le temps du Triode en renversant nos conceptions de la justice. Le Pharisien n'est pas condamné parce qu'il jeûne ou donne la dîme – ces pratiques ascétiques sont bonnes –, mais parce qu'il fait de sa vertu un miroir narcissique (il prie \"vers lui-même\"). Il objective sa piété pour se séparer des autres, transformant l'ascèse en barrière. \n\nLe Publicain, à l'inverse, offre la matrice absolue de la prière orthodoxe : la conscience de sa propre pauvreté ontologique. Sa posture (à distance, les yeux baissés, se frappant la poitrine) et son cri sacrificiel (ἱλάσθητί - \"rends-moi propice\") ne relèvent plus de la comptabilité morale, mais d'une soif de transformation par la grâce. C'est l'antidote fondamental à la *prelest* (l'illusion spirituelle) : la justification n'est pas un salaire éthique qu'on revendique, mais un état de grâce que l'on reçoit dans l'abaissement.",
+    "homiletic_axes": [
+      {
+        "title": "Deux prières, deux orientations du cœur",
+        "content": "Les deux hommes montent au Temple, mais le Pharisien enferme sa prière dans la comparaison tandis que le publicain se tient à distance et demande miséricorde. La question n’est pas la quantité de paroles, mais celui vers qui le cœur se tourne.",
+        "keywords": [
+          "προσεύχομαι — prier",
+          "ἑαυτόν — soi-même",
+          "ἱλάσκομαι — faire miséricorde"
+        ]
+      },
+      {
+        "title": "L’abaissement ouvre à la justification",
+        "content": "Le publicain ne fabrique pas sa propre justice : il la reçoit de Dieu. La sentence du Christ renverse l’élévation de soi et révèle l’humilité comme vérité devant Dieu, non comme dévalorisation de la personne.",
+        "keywords": [
+          "ταπεινόω — abaisser",
+          "ὑψόω — élever",
+          "δικαιόω — justifier"
+        ]
+      },
+      {
+        "title": "La foi se vérifie dans une vie suivie",
+        "content": "Paul rappelle à Timothée son enseignement, sa conduite, son dessein, sa foi et sa patience. Face à la prière qui se met elle-même en scène, l’Apôtre présente une fidélité éprouvée dans le temps et dans les persécutions.",
+        "keywords": [
+          "ἀγωγή — conduite",
+          "πίστις — foi",
+          "ὑπομονή — persévérance"
+        ]
+      },
+      {
+        "title": "Demeurer dans les Écritures sans s’en glorifier",
+        "content": "Timothée est invité à demeurer dans ce qu’il a appris et dans les saintes Écritures. Le contraste avec le Pharisien protège d’un double écueil : abandonner la tradition reçue ou en faire un motif de supériorité sur autrui.",
+        "keywords": [
+          "μένω — demeurer",
+          "μανθάνω — apprendre",
+          "ἱερὰ γράμματα — saintes Écritures"
+        ]
+      },
+      {
+        "title": "Le seuil du Triode : commencer par recevoir",
+        "content": "Le résumé S2 situe cette péricope comme l’enracinement du chemin préparatoire dans l’humilité. Avant l’ascèse, l’homme renonce à se justifier lui-même et demande à Dieu de recréer en lui une relation vraie.",
+        "keywords": [
+          "τελώνης — publicain",
+          "ταπείνωσις — humilité",
+          "ἔλεος — miséricorde"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la connaissance religieuse à la vérité vécue",
+        "reference": "Luc 18, 10-14 ; 2 Timothée 3, 10-15",
+        "content": "Le Pharisien possède une pratique mais l’utilise pour se comparer ; Timothée reçoit un enseignement appelé à devenir conduite, patience et persévérance. L’Écriture porte du fruit lorsqu’elle conduit à l’humilité et à la fidélité.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le Pharisien et le Publicain » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les oppositions entre apparence et vérité, élévation de soi et abaissement, autosatisfaction et fidélité éprouvée."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
-  },
-  {
-    "verse_number": 11,
-    "translations": {
-      "segond": "Le pharisien, debout, priait ainsi en lui-même : O Dieu, je te rends grâces de ce que je ne suis pas comme le reste des hommes, qui sont ravisseurs, injustes, adultères, ou même comme ce publicain ;",
-      "darby": "Le pharisien, se tenant debout, priait ainsi en lui-même : O Dieu, je te rends grâces de ce que je ne suis pas comme le reste des hommes, qui sont ravisseurs, injustes, adultères, ou même comme ce publicain ;"
-    },
-    "interlinear": [
-      { "greek": "ὁ", "gloss": "Le" },
-      { "greek": "Φαρισαῖος", "gloss": "Pharisien" },
-      { "greek": "σταθεὶς", "gloss": "se_tenant_debout" },
-      { "greek": "πρὸς", "gloss": "en", "analyse": "Littéralement \"vers soi-même\". Le grec sous-entend que la prière du Pharisien ne monte pas vers le Ciel : elle est projetée \"vers lui-même\". C'est le propre de l'illusion spirituelle (la prelest) : un monologue narcissique où l'ego se mire dans ses propres vertus." },
-      { "greek": "ἑαυτὸν", "gloss": "lui-même" },
-      { "greek": "ταῦτα", "gloss": "ces_choses" },
-      { "greek": "προσηύχετο·", "gloss": "priait" },
-      { "greek": "Ὁ", "gloss": "—" },
-      { "greek": "θεός,", "gloss": "Dieu" },
-      { "greek": "εὐχαριστῶ", "gloss": "je_rends_grâces" },
-      { "greek": "σοι", "gloss": "à_toi" },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "οὐκ", "gloss": "ne_pas" },
-      { "greek": "εἰμὶ", "gloss": "je_suis" },
-      { "greek": "ὥσπερ", "gloss": "comme" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "λοιποὶ", "gloss": "restes" },
-      { "greek": "τῶν", "gloss": "de_les" },
-      { "greek": "ἀνθρώπων,", "gloss": "hommes" },
-      { "greek": "ἅρπαγες,", "gloss": "ravisseurs" },
-      { "greek": "ἄδικοι,", "gloss": "injustes" },
-      { "greek": "μοιχοί,", "gloss": "adultères" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "ὡς", "gloss": "comme" },
-      { "greek": "οὗτος", "gloss": "ce" },
-      { "greek": "ὁ", "gloss": "—" },
-      { "greek": "τελώνης·", "gloss": "publicain" }
-    ]
-  },
-  {
-    "verse_number": 12,
-    "translations": {
-      "segond": "je jeûne deux fois la semaine, je donne la dîme de tous mes revenus.",
-      "darby": "je jeûne deux fois la semaine, je donne la dîme de tout ce que je possède."
-    },
-    "interlinear": [
-      { "greek": "νηστεύω", "gloss": "je_jeûne" },
-      { "greek": "δὶς", "gloss": "deux_fois" },
-      { "greek": "τοῦ", "gloss": "de_la" },
-      { "greek": "σαββάτου,", "gloss": "semaine" },
-      { "greek": "ἀποδεκατῶ", "gloss": "je_donne_la_dîme" },
-      { "greek": "πάντα", "gloss": "de_tout" },
-      { "greek": "ὅσα", "gloss": "ce_que" },
-      { "greek": "κτῶμαι.", "gloss": "j'acquiers" }
-    ]
-  },
-  {
-    "verse_number": 13,
-    "translations": {
-      "segond": "Le publicain, se tenant à distance, n'osait même pas lever les yeux au ciel ; mais il se frappait la poitrine, en disant : O Dieu, sois apaisé envers moi, qui suis un pécheur.",
-      "darby": "Et le publicain, se tenant loin, ne voulait pas même lever les yeux vers le ciel, mais se frappait la poitrine, disant : O Dieu, sois apaisé envers moi, pécheur !"
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "τελώνης", "gloss": "publicain" },
-      { "greek": "μακρόθεν", "gloss": "de_loin" },
-      { "greek": "ἑστὼς", "gloss": "se_tenant" },
-      { "greek": "οὐκ", "gloss": "ne_pas" },
-      { "greek": "ἤθελεν", "gloss": "voulait" },
-      { "greek": "οὐδὲ", "gloss": "même_pas" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ὀφθαλμοὺς", "gloss": "yeux" },
-      { "greek": "εἰς", "gloss": "vers" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "οὐρανὸν", "gloss": "ciel" },
-      { "greek": "ἐπᾶραι,", "gloss": "lever" },
-      { "greek": "ἀλλ’", "gloss": "mais" },
-      { "greek": "ἔτυπτεν", "gloss": "il_frappait" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "στῆθος", "gloss": "sinus/poitrine" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "λέγων·", "gloss": "en_disant" },
-      { "greek": "Ὁ", "gloss": "—" },
-      { "greek": "θεός,", "gloss": "Dieu" },
-     { 
-  "greek": "<span class='encadre mot-info' data-analyse='Analyse de la racine HILAS : Le propitiatoire, le lieu de la rencontre entre le divin et l humain.'>ἱλάσ</span><span class='mot-info' data-analyse='Analyse de la terminaison -THETI : Forme impérative aoriste passive, marquant l urgence et la réception d une action divine.'>θητί</span>", 
-  "gloss": "sois_apaisé" 
-},
-      { "greek": "μοι", "gloss": "envers_moi" },
-      { "greek": "τῷ", "gloss": "le" },
-      { "greek": "ἁμαρτωλῷ.", "gloss": "pécheur" }
-    ]
-  },
-  {
-    "verse_number": 14,
-    "translations": {
-      "segond": "Je vous le dis, celui-ci descendit dans sa maison justifié, plutôt que l'autre. Car quiconque s'élève sera abaissé, et celui qui s'abaisse sera élevé.",
-      "darby": "Je vous le dis : celui-ci descendit en sa maison justifié, plutôt que l'autre ; car quiconque s'élève soi-même sera abaissé ; et celui qui s'abaisse soi-même sera élevé."
-    },
-    "interlinear": [
-      { "greek": "λέγω", "gloss": "Je_dis" },
-      { "greek": "ὑμῖν,", "gloss": "à_vous" },
-      { "greek": "κατέβη", "gloss": "descendit" },
-      { "greek": "οὗτος", "gloss": "celui-ci" },
-      { "greek": "δεδικαιωμένος", "gloss": "justifié", "analyse": "Participe parfait passif. Le passif indique que c'est une action exclusive de Dieu (\"rendu juste par Dieu\"). Le parfait indique un état permanent, une transformation qui dure. La justification n'est pas un salaire éthique qu'on gagne, c'est un état de grâce que l'on reçoit en s'ouvrant par l'humilité." },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "οἶκον", "gloss": "maison" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "παρ’", "gloss": "plutôt_que" },
-      { "greek": "ἐκεῖνον·", "gloss": "celui-là" },
-      { "greek": "ὅτι", "gloss": "car" },
-      { "greek": "πᾶς", "gloss": "quiconque" },
-      { "greek": "ὁ", "gloss": "celui_qui" },
-      { "greek": "ὑψῶν", "gloss": "s'élève" },
-      { "greek": "ἑαυτὸν", "gloss": "lui-même" },
-      { "greek": "ταπεινωθήσεται,", "gloss": "sera_abaissé" },
-      { "greek": "ὁ", "gloss": "celui_qui" },
-      { "greek": "δὲ", "gloss": "mais" },
-      { "greek": "ταπεινῶν", "gloss": "s'abaisse" },
-      { "greek": "ἑαυτὸν", "gloss": "lui-même" },
-      { "greek": "ὑψωθήσεται.", "gloss": "sera_élevé" }
-    ]
-  }
-],
-  "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 11 - Ὁ / ὁ : L'article devant le vocatif \"Dieu\" (Ὁ θεός) ainsi que l'article de reprise devant \"publicain\" ne sont pas traduits en français car la langue moderne refuse le redoublement de l'article dans ces structures.\n• Verset 11 - τῶν : L'article génitif pluriel fléchi (\"de les hommes\") est contracté naturellement par Segond et Darby en \"des hommes\".\n• Verset 12 - τοῦ : L'article génitif singulier marquant le temps (\"de la semaine\") est omis ou traduit directement par le syntagme \"la semaine\" sans préposition explicite.\n• Verset 13 - Ὁ : L'article de l'invocation vocative (\"O Dieu\") est absent ou remplacé par l'interjection vocative traditionnelle.\n• Verset 13 - τῷ : Le démonstratif/article d'insistance qui précède le qualificatif (\"le pécheur\") est traduit par une proposition relative chez Segond (\"qui suis un pécheur\") ou condensé en apposition absolue par Darby (\"pécheur !\").\n\nAnalyse spirituelle :\nCe dimanche ouvre le temps du Triode en renversant nos conceptions de la justice. Le Pharisien n'est pas condamné parce qu'il jeûne ou donne la dîme – ces pratiques ascétiques sont bonnes –, mais parce qu'il fait de sa vertu un miroir narcissique (il prie \"vers lui-même\"). Il objective sa piété pour se séparer des autres, transformant l'ascèse en barrière. \n\nLe Publicain, à l'inverse, offre la matrice absolue de la prière orthodoxe : la conscience de sa propre pauvreté ontologique. Sa posture (à distance, les yeux baissés, se frappant la poitrine) et son cri sacrificiel (ἱλάσθητί - \"rends-moi propice\") ne relèvent plus de la comptabilité morale, mais d'une soif de transformation par la grâce. C'est l'antidote fondamental à la *prelest* (l'illusion spirituelle) : la justification n'est pas un salaire éthique qu'on revendique, mais un état de grâce que l'on reçoit dans l'abaissement."
   },
   "apostle": {
     "reference": "2 Timothée 3, 10-15",
     "title": "La Fidélité dans les Persécutions et l'Attachement aux Écritures",
-   "interlinear":[
-  {
-    "verse_number": 10,
-    "translations": {
-      "segond": "Pour toi, tu as suivi de près mon enseignement, ma conduite, mes résolutions, ma foi, ma douceur, ma charité, ma constance,",
-      "darby": "Mais toi, tu as compris ma doctrine, ma conduite, mon but, ma foi, ma patience, mon amour, ma persévérance,"
-    },
     "interlinear": [
-      { "greek": "Σὺ", "gloss": "Toi" },
-      { "greek": "δὲ", "gloss": "mais" },
-      { "greek": "παρηκολούθησάς", "gloss": "tu_as_suivi_de_près" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "διδασκαλίᾳ,", "gloss": "doctrine/enseignement" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "ἀγωγῇ,", "gloss": "conduite" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "προθέσει,", "gloss": "résolution/but" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "πίστει,", "gloss": "foi" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "μακροθυμίᾳ,", "gloss": "patience" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "ἀγάπῃ,", "gloss": "charité/amour" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "ὑπομονῇ,", "gloss": "constance" }
-    ]
-  },
-  {
-    "verse_number": 11,
-    "translations": {
-      "segond": "mes persécutions, mes souffrances. A quelles souffrances n'ai-je pas été exposé à Antioche, à Icone, à Lystre? Quelles persécutions n'ai-je pas supportées? Et le Seigneur m'a délivré de toutes.",
-      "darby": "mes persécutions, mes souffrances, telles qu'elles me sont arrivées à Antioche, à Iconium, à Lystre ; quelles persécutions j'ai endurées ! — et le Seigneur m'a délivré de toutes."
-    },
-    "interlinear": [
-      { "greek": "τοῖς", "gloss": "les" },
-      { "greek": "διωγμοῖς,", "gloss": "persécutions" },
-      { "greek": "τοῖς", "gloss": "les" },
-      { "greek": "παθήμασιν,", "gloss": "souffrances" },
-      { "greek": "οἷά", "gloss": "telles_que" },
-      { "greek": "μοι", "gloss": "à_moi" },
-      { "greek": "ἐγένετο", "gloss": "sont_arrivées" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "Ἀντιοχείᾳ,", "gloss": "Antioche" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "Ἰκονίῳ,", "gloss": "Iconium" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "Λύστροις·", "gloss": "Lystre" },
-      { "greek": "οἵους", "gloss": "quelles" },
-      { "greek": "διωγμοὺς", "gloss": "persécutions" },
-      { "greek": "ὑπήνεγκα·", "gloss": "j'ai_supportées" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐκ", "gloss": "hors_de" },
-      { "greek": "πάντων", "gloss": "toutes" },
-      { "greek": "με", "gloss": "moi" },
-      { "greek": "ἐρρύσατο", "gloss": "a_délivré" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "κύριος.", "gloss": "Seigneur" }
-    ]
-  },
-  {
-    "verse_number": 12,
-    "translations": {
-      "segond": "Or, tous ceux qui veulent vivre pieusement en Jésus Christ seront persécutés.",
-      "darby": "Et tous ceux aussi qui veulent vivre pieusement dans le Christ Jésus, seront persécutés ;"
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "πάντες", "gloss": "tous" },
-      { "greek": "δὲ", "gloss": "aussi/or" },
-      { "greek": "οἱ", "gloss": "ceux" },
-      { "greek": "θέλοντες", "gloss": "voulant" },
-      { "greek": "ζῆν", "gloss": "vivre" },
-      { "greek": "εὐσεβῶς", "gloss": "pieusement" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "Χριστῷ", "gloss": "Christ" },
-      { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-      { "greek": "διωχθήσονται·", "gloss": "seront_persécutés" }
-    ]
-  },
-  {
-    "verse_number": 13,
-    "translations": {
-      "segond": "Mais les hommes méchants et imposteurs avanceront toujours plus dans le mal, égarant les autres et égarés eux-mêmes.",
-      "darby": "mais les hommes méchants et les imposteurs iront en empirant, séduisant et étant séduits."
-    },
-    "interlinear": [
-      { "greek": "πονηροὶ", "gloss": "Méchants" },
-      { "greek": "δὲ", "gloss": "mais" },
-      { "greek": "ἄνθρωποι", "gloss": "hommes" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "γόητες", "gloss": "imposteurs", "analyse": "À l'origine, ce mot désigne les magiciens, les charlatans ou ceux qui hurlent des incantations théâtrales. Saint Paul l'utilise pour dénoncer les personnes qui ont les dehors de la piété (les incantations, les rites extérieurs) mais qui sont vides de la puissance d'amour et de transformation intérieure." },
-      { "greek": "προκόψουσιν", "gloss": "avanceront" },
-      { "greek": "ἐπὶ", "gloss": "vers" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "χεῖρον,", "gloss": "pire" },
-      { "greek": "πλανῶντες", "gloss": "égarant" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πλανώμενοι.", "gloss": "étant_égarés" }
-    ]
-  },
-  {
-    "verse_number": 14,
-    "translations": {
-      "segond": "Toi, demeure dans les choses que tu as apprises, et reconnues certaines, sachant de qui tu les as apprises ;",
-      "darby": "Mais toi, demeure dans les choses que tu as apprises et dont tu as été pleinement convaincu, sachant de qui tu les as apprises,"
-    },
-    "interlinear": [
-      { "greek": "σὺ", "gloss": "Toi" },
-      { "greek": "δὲ", "gloss": "mais" },
-      { "greek": "μένε", "gloss": "demeure" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "οἷς", "gloss": "les_choses_que" },
-      { "greek": "ἔμαθες", "gloss": "tu_as_apprises" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐπιστώθης,", "gloss": "as_été_convaincu" },
-      { "greek": "εἰδὼς", "gloss": "sachant" },
-      { "greek": "παρὰ", "gloss": "de_la_part_de" },
-      { "greek": "τίνος", "gloss": "qui" },
-      { "greek": "ἔμαθες,", "gloss": "tu_as_appris" }
-    ]
-  },
-  {
-    "verse_number": 15,
-    "translations": {
-      "segond": "dès ton enfance, tu connais les saintes lettres, qui peuvent te rendre sage à salut par la foi en Jésus Christ.",
-      "darby": "et que, dès l'enfance, tu connais les saintes lettres, qui peuvent te rendre sage à salut par la foi qui est dans le Christ Jésus."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ὅτι", "gloss": "que" },
-      { "greek": "ἀπὸ", "gloss": "depuis" },
-      { "greek": "βρέφους", "gloss": "la_petite_enfance" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "ἱερὰ", "gloss": "saintes" },
-      { "greek": "γράμματα", "gloss": "lettres" },
-      { "greek": "οἶδας,", "gloss": "tu_connais" },
-      { "greek": "τὰ", "gloss": "lesquelles" },
-      { "greek": "δυνάμενά", "gloss": "peuvent" },
-      { "greek": "σε", "gloss": "toi" },
-      { "greek": "σοφίσαι", "gloss": "rendre_sage" },
-      { "greek": "εἰς", "gloss": "pour" },
-      { "greek": "σωτηρίαν", "gloss": "le_salut" },
-      { "greek": "διὰ", "gloss": "par" },
-      { "greek": "πίστεως", "gloss": "la_foi" },
-      { "greek": "τῆς", "gloss": "celle" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "Χριστῷ", "gloss": "Christ" },
-      { "greek": "Ἰησοῦ.", "gloss": "Jésus" }
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "Pour toi, tu as suivi de près mon enseignement, ma conduite, mes résolutions, ma foi, ma douceur, ma charité, ma constance,",
+          "darby": "Mais toi, tu as compris ma doctrine, ma conduite, mon but, ma foi, ma patience, mon amour, ma persévérance,"
+        },
+        "interlinear": [
+          {
+            "greek": "Σὺ",
+            "gloss": "Toi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "παρηκολούθησάς",
+            "gloss": "tu_as_suivi_de_près"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "διδασκαλίᾳ,",
+            "gloss": "doctrine/enseignement"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀγωγῇ,",
+            "gloss": "conduite"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "προθέσει,",
+            "gloss": "résolution/but"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστει,",
+            "gloss": "foi"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "μακροθυμίᾳ,",
+            "gloss": "patience"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἀγάπῃ,",
+            "gloss": "charité/amour"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὑπομονῇ,",
+            "gloss": "constance"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "mes persécutions, mes souffrances. A quelles souffrances n'ai-je pas été exposé à Antioche, à Icone, à Lystre? Quelles persécutions n'ai-je pas supportées? Et le Seigneur m'a délivré de toutes.",
+          "darby": "mes persécutions, mes souffrances, telles qu'elles me sont arrivées à Antioche, à Iconium, à Lystre ; quelles persécutions j'ai endurées ! — et le Seigneur m'a délivré de toutes."
+        },
+        "interlinear": [
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "διωγμοῖς,",
+            "gloss": "persécutions"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "παθήμασιν,",
+            "gloss": "souffrances"
+          },
+          {
+            "greek": "οἷά",
+            "gloss": "telles_que"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "sont_arrivées"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Ἀντιοχείᾳ,",
+            "gloss": "Antioche"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Ἰκονίῳ,",
+            "gloss": "Iconium"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Λύστροις·",
+            "gloss": "Lystre"
+          },
+          {
+            "greek": "οἵους",
+            "gloss": "quelles"
+          },
+          {
+            "greek": "διωγμοὺς",
+            "gloss": "persécutions"
+          },
+          {
+            "greek": "ὑπήνεγκα·",
+            "gloss": "j'ai_supportées"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "hors_de"
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "toutes"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐρρύσατο",
+            "gloss": "a_délivré"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος.",
+            "gloss": "Seigneur"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "Or, tous ceux qui veulent vivre pieusement en Jésus Christ seront persécutés.",
+          "darby": "Et tous ceux aussi qui veulent vivre pieusement dans le Christ Jésus, seront persécutés ;"
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "aussi/or"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "θέλοντες",
+            "gloss": "voulant"
+          },
+          {
+            "greek": "ζῆν",
+            "gloss": "vivre"
+          },
+          {
+            "greek": "εὐσεβῶς",
+            "gloss": "pieusement"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Χριστῷ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "διωχθήσονται·",
+            "gloss": "seront_persécutés"
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "translations": {
+          "segond": "Mais les hommes méchants et imposteurs avanceront toujours plus dans le mal, égarant les autres et égarés eux-mêmes.",
+          "darby": "mais les hommes méchants et les imposteurs iront en empirant, séduisant et étant séduits."
+        },
+        "interlinear": [
+          {
+            "greek": "πονηροὶ",
+            "gloss": "Méchants"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἄνθρωποι",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "γόητες",
+            "gloss": "imposteurs",
+            "analyse": "À l'origine, ce mot désigne les magiciens, les charlatans ou ceux qui hurlent des incantations théâtrales. Saint Paul l'utilise pour dénoncer les personnes qui ont les dehors de la piété (les incantations, les rites extérieurs) mais qui sont vides de la puissance d'amour et de transformation intérieure."
+          },
+          {
+            "greek": "προκόψουσιν",
+            "gloss": "avanceront"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "χεῖρον,",
+            "gloss": "pire"
+          },
+          {
+            "greek": "πλανῶντες",
+            "gloss": "égarant"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πλανώμενοι.",
+            "gloss": "étant_égarés"
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "translations": {
+          "segond": "Toi, demeure dans les choses que tu as apprises, et reconnues certaines, sachant de qui tu les as apprises ;",
+          "darby": "Mais toi, demeure dans les choses que tu as apprises et dont tu as été pleinement convaincu, sachant de qui tu les as apprises,"
+        },
+        "interlinear": [
+          {
+            "greek": "σὺ",
+            "gloss": "Toi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "μένε",
+            "gloss": "demeure"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "οἷς",
+            "gloss": "les_choses_que"
+          },
+          {
+            "greek": "ἔμαθες",
+            "gloss": "tu_as_apprises"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπιστώθης,",
+            "gloss": "as_été_convaincu"
+          },
+          {
+            "greek": "εἰδὼς",
+            "gloss": "sachant"
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "de_la_part_de"
+          },
+          {
+            "greek": "τίνος",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἔμαθες,",
+            "gloss": "tu_as_appris"
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "translations": {
+          "segond": "dès ton enfance, tu connais les saintes lettres, qui peuvent te rendre sage à salut par la foi en Jésus Christ.",
+          "darby": "et que, dès l'enfance, tu connais les saintes lettres, qui peuvent te rendre sage à salut par la foi qui est dans le Christ Jésus."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "βρέφους",
+            "gloss": "la_petite_enfance"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἱερὰ",
+            "gloss": "saintes"
+          },
+          {
+            "greek": "γράμματα",
+            "gloss": "lettres"
+          },
+          {
+            "greek": "οἶδας,",
+            "gloss": "tu_connais"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "lesquelles"
+          },
+          {
+            "greek": "δυνάμενά",
+            "gloss": "peuvent"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "σοφίσαι",
+            "gloss": "rendre_sage"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "σωτηρίαν",
+            "gloss": "le_salut"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "la_foi"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "celle"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "Χριστῷ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦ.",
+            "gloss": "Jésus"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 10 - τῇ / μου : Le grec répète l'article défini (τῇ - la) devant chaque vertu listée par Paul. Segond et Darby traduisent ces articles par des pronoms possessifs (ma / mon) rattachés au \"μου\" (de moi) initial pour alléger la phrase française.\n• Verset 11 - οἷά : Ce pronom relatif (\"lesquelles choses\") est traduit littéralement par Darby (\"telles qu'elles me sont arrivées\"), tandis que Segond modifie la ponctuation pour en faire une exclamation (\"A quelles souffrances n'ai-je pas été exposé\").\n• Verset 13 - ἐπὶ τὸ χεῖρον : Littéralement \"vers le pire\". Segond le rend par \"avanceront toujours plus dans le mal\" et Darby par \"iront en empirant\".\n• Verset 15 - βρέφους : Terme désignant spécifiquement le nourrisson ou le petit enfant (de la même racine qui a donné \"fœtus\" ou \"bébé\"). Les traducteurs utilisent le terme plus général d'\"enfance\".\n• Verset 15 - τῆς : L'article (féminin génitif) qui insiste sur la foi (\"la foi, CELLE qui est dans le Christ\") est traduit par la relative \"qui est\" chez Darby, et simplement absorbé chez Segond (\"par la foi en\").\n\nAnalyse spirituelle :\nLe texte de l'Apôtre répond en miroir à l'Évangile du jour. Face à la fausse piété du Pharisien, saint Paul dresse le portrait du véritable disciple. La foi authentique ne se mesure pas à une auto-justification orgueilleuse, mais à la constance dans l'épreuve (les persécutions, la patience, la charité).\n\nL'Apôtre met spécifiquement en garde contre les \"imposteurs\" (γόητες), ces charlatans de la spiritualité qui, comme le Pharisien, séduisent par les apparences extérieures mais s'égarent eux-mêmes dans le vide intérieur. La seule sauvegarde face à cette illusion est l'humilité de l'enracinement : demeurer dans la Tradition et les \"saintes lettres\" apprises avec le cœur d'un petit enfant (βρέφους). La véritable théologie n'enfle pas l'ego, elle prépare au martyre et au salut.",
+    "homiletic_axes": [
+      {
+        "title": "Deux prières, deux orientations du cœur",
+        "content": "Les deux hommes montent au Temple, mais le Pharisien enferme sa prière dans la comparaison tandis que le publicain se tient à distance et demande miséricorde. La question n’est pas la quantité de paroles, mais celui vers qui le cœur se tourne.",
+        "keywords": [
+          "προσεύχομαι — prier",
+          "ἑαυτόν — soi-même",
+          "ἱλάσκομαι — faire miséricorde"
+        ]
+      },
+      {
+        "title": "L’abaissement ouvre à la justification",
+        "content": "Le publicain ne fabrique pas sa propre justice : il la reçoit de Dieu. La sentence du Christ renverse l’élévation de soi et révèle l’humilité comme vérité devant Dieu, non comme dévalorisation de la personne.",
+        "keywords": [
+          "ταπεινόω — abaisser",
+          "ὑψόω — élever",
+          "δικαιόω — justifier"
+        ]
+      },
+      {
+        "title": "La foi se vérifie dans une vie suivie",
+        "content": "Paul rappelle à Timothée son enseignement, sa conduite, son dessein, sa foi et sa patience. Face à la prière qui se met elle-même en scène, l’Apôtre présente une fidélité éprouvée dans le temps et dans les persécutions.",
+        "keywords": [
+          "ἀγωγή — conduite",
+          "πίστις — foi",
+          "ὑπομονή — persévérance"
+        ]
+      },
+      {
+        "title": "Demeurer dans les Écritures sans s’en glorifier",
+        "content": "Timothée est invité à demeurer dans ce qu’il a appris et dans les saintes Écritures. Le contraste avec le Pharisien protège d’un double écueil : abandonner la tradition reçue ou en faire un motif de supériorité sur autrui.",
+        "keywords": [
+          "μένω — demeurer",
+          "μανθάνω — apprendre",
+          "ἱερὰ γράμματα — saintes Écritures"
+        ]
+      },
+      {
+        "title": "Le seuil du Triode : commencer par recevoir",
+        "content": "Le résumé S2 situe cette péricope comme l’enracinement du chemin préparatoire dans l’humilité. Avant l’ascèse, l’homme renonce à se justifier lui-même et demande à Dieu de recréer en lui une relation vraie.",
+        "keywords": [
+          "τελώνης — publicain",
+          "ταπείνωσις — humilité",
+          "ἔλεος — miséricorde"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "De la connaissance religieuse à la vérité vécue",
+        "reference": "Luc 18, 10-14 ; 2 Timothée 3, 10-15",
+        "content": "Le Pharisien possède une pratique mais l’utilise pour se comparer ; Timothée reçoit un enseignement appelé à devenir conduite, patience et persévérance. L’Écriture porte du fruit lorsqu’elle conduit à l’humilité et à la fidélité.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le Pharisien et le Publicain » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les oppositions entre apparence et vérité, élévation de soi et abaissement, autosatisfaction et fidélité éprouvée."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 10 - τῇ / μου : Le grec répète l'article défini (τῇ - la) devant chaque vertu listée par Paul. Segond et Darby traduisent ces articles par des pronoms possessifs (ma / mon) rattachés au \"μου\" (de moi) initial pour alléger la phrase française.\n• Verset 11 - οἷά : Ce pronom relatif (\"lesquelles choses\") est traduit littéralement par Darby (\"telles qu'elles me sont arrivées\"), tandis que Segond modifie la ponctuation pour en faire une exclamation (\"A quelles souffrances n'ai-je pas été exposé\").\n• Verset 13 - ἐπὶ τὸ χεῖρον : Littéralement \"vers le pire\". Segond le rend par \"avanceront toujours plus dans le mal\" et Darby par \"iront en empirant\".\n• Verset 15 - βρέφους : Terme désignant spécifiquement le nourrisson ou le petit enfant (de la même racine qui a donné \"fœtus\" ou \"bébé\"). Les traducteurs utilisent le terme plus général d'\"enfance\".\n• Verset 15 - τῆς : L'article (féminin génitif) qui insiste sur la foi (\"la foi, CELLE qui est dans le Christ\") est traduit par la relative \"qui est\" chez Darby, et simplement absorbé chez Segond (\"par la foi en\").\n\nAnalyse spirituelle :\nLe texte de l'Apôtre répond en miroir à l'Évangile du jour. Face à la fausse piété du Pharisien, saint Paul dresse le portrait du véritable disciple. La foi authentique ne se mesure pas à une auto-justification orgueilleuse, mais à la constance dans l'épreuve (les persécutions, la patience, la charité).\n\nL'Apôtre met spécifiquement en garde contre les \"imposteurs\" (γόητες), ces charlatans de la spiritualité qui, comme le Pharisien, séduisent par les apparences extérieures mais s'égarent eux-mêmes dans le vide intérieur. La seule sauvegarde face à cette illusion est l'humilité de l'enracinement : demeurer dans la Tradition et les \"saintes lettres\" apprises avec le cœur d'un petit enfant (βρέφους). La véritable théologie n'enfle pas l'ego, elle prépare au martyre et au salut."
-}
 }

@@ -10,19 +10,60 @@
           "darby": "Et comme il entrait dans un certain village, dix hommes lépreux le rencontrèrent, qui se tinrent de loin ;"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἰσερχομένου", "gloss": "entrant" },
-          { "greek": "αὐτοῦ", "gloss": "lui" },
-          { "greek": "εἴς", "gloss": "dans" },
-          { "greek": "τινα", "gloss": "un_certain" },
-          { "greek": "κώμην", "gloss": "village" },
-          { "greek": "ἀπήντησαν", "gloss": "vinrent_à_sa_rencontre" },
-          { "greek": "δέκα", "gloss": "dix" },
-          { "greek": "λεπροὶ", "gloss": "lépreux", "analyse": "La lèpre n'est pas qu'une maladie clinique, c'est l'expression physique suprême de l'entropie du Monde duel : la perte des limites, la fragmentation de la chair, la corruption de l'enveloppe. C'est l'Ego qui tombe littéralement en lambeaux." },
-          { "greek": "ἄνδρες,", "gloss": "hommes" },
-          { "greek": "οἳ", "gloss": "lesquels" },
-          { "greek": "ἔστησαν", "gloss": "se_tinrent" },
-          { "greek": "πόρρωθεν,", "gloss": "à_distance/de_loin", "analyse": "L'adverbe topographique *porrothen*. L'Ego corrompu est frappé d'exclusion spatiale. Il est repoussé à la périphérie extrême, incapable d'approcher le Centre (le village, la communauté, ou l'Axe divin)." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἰσερχομένου",
+            "gloss": "entrant"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἴς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τινα",
+            "gloss": "un_certain"
+          },
+          {
+            "greek": "κώμην",
+            "gloss": "village"
+          },
+          {
+            "greek": "ἀπήντησαν",
+            "gloss": "vinrent_à_sa_rencontre"
+          },
+          {
+            "greek": "δέκα",
+            "gloss": "dix"
+          },
+          {
+            "greek": "λεπροὶ",
+            "gloss": "lépreux",
+            "analyse": "La lèpre n'est pas qu'une maladie clinique, c'est l'expression physique suprême de l'entropie du Monde duel : la perte des limites, la fragmentation de la chair, la corruption de l'enveloppe. C'est l'Ego qui tombe littéralement en lambeaux."
+          },
+          {
+            "greek": "ἄνδρες,",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "οἳ",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "ἔστησαν",
+            "gloss": "se_tinrent"
+          },
+          {
+            "greek": "πόρρωθεν,",
+            "gloss": "à_distance/de_loin",
+            "analyse": "L'adverbe topographique *porrothen*. L'Ego corrompu est frappé d'exclusion spatiale. Il est repoussé à la périphérie extrême, incapable d'approcher le Centre (le village, la communauté, ou l'Axe divin)."
+          }
         ]
       },
       {
@@ -32,15 +73,44 @@
           "darby": "et ils élevèrent la voix, disant : Jésus, maître, aie pitié de nous !"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὐτοὶ", "gloss": "eux" },
-          { "greek": "ἦραν", "gloss": "élevèrent/soulevèrent", "analyse": "Le verbe *airo* (lever, soulever). Coincés dans l'horizontalité lointaine, leur seule possibilité d'atteindre l'Axe est de 'soulever' leur voix, créant une émission vibratoire ascendante vers la Grâce." },
-          { "greek": "φωνὴν", "gloss": "voix" },
-          { "greek": "λέγοντες·", "gloss": "disant" },
-          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
-          { "greek": "ἐπιστάτα,", "gloss": "maître/commandant", "analyse": "Le terme *epistates* (placé au-dessus). Malgré leur déchéance, ils reconnaissent l'architecture géométrique du Réel : le Christ est Celui qui surplombe (*epi*) le Monde duel." },
-          { "greek": "ἐλέησον", "gloss": "fais_miséricorde/aie_pitié" },
-          { "greek": "ἡμᾶς.", "gloss": "de_nous" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἦραν",
+            "gloss": "élevèrent/soulevèrent",
+            "analyse": "Le verbe *airo* (lever, soulever). Coincés dans l'horizontalité lointaine, leur seule possibilité d'atteindre l'Axe est de 'soulever' leur voix, créant une émission vibratoire ascendante vers la Grâce."
+          },
+          {
+            "greek": "φωνὴν",
+            "gloss": "voix"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐπιστάτα,",
+            "gloss": "maître/commandant",
+            "analyse": "Le terme *epistates* (placé au-dessus). Malgré leur déchéance, ils reconnaissent l'architecture géométrique du Réel : le Christ est Celui qui surplombe (*epi*) le Monde duel."
+          },
+          {
+            "greek": "ἐλέησον",
+            "gloss": "fais_miséricorde/aie_pitié"
+          },
+          {
+            "greek": "ἡμᾶς.",
+            "gloss": "de_nous"
+          }
         ]
       },
       {
@@ -50,22 +120,73 @@
           "darby": "Et les ayant vus, il leur dit : Allez, montrez-vous aux sacrificateurs. Et il arriva qu'en s'en allant, ils furent rendus nets."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
-          { "greek": "εἶπεν", "gloss": "il_dit" },
-          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-          { "greek": "Πορευθέντες", "gloss": "Faisant_route/Étant_partis" },
-          { "greek": "ἐπιδείξατε", "gloss": "montrez/exhibez", "analyse": "Le verbe *epideiknymi*. Jésus ne les guérit pas instantanément sur place. Il exige d'abord une action horizontale, un déplacement physique vers l'institution religieuse du Monde duel (les prêtres, qui sont les seuls habilités à constater la guérison). C'est un test d'alignement." },
-          { "greek": "ἑαυτοὺς", "gloss": "vous-mêmes" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "ἱερεῦσιν.", "gloss": "prêtres" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐγένετο", "gloss": "il_arriva" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "ὑπάγειν", "gloss": "aller/s'éloigner", "analyse": "Le verbe *hypago* (se retirer, aller sous la contrainte). L'action se déroule pendant qu'ils s'éloignent de la Source." },
-          { "greek": "αὐτοὺς", "gloss": "eux" },
-          { "greek": "ἐκαθαρίσθησαν.", "gloss": "ils_furent_purifiés/rendus_nets", "analyse": "Le verbe *katharizo*. Attention, ce n'est pas encore le salut (*sozo*). C'est une réparation mécanique des tissus. La gangrène de la matière est stoppée, l'enveloppe corporelle est nettoyée. Les dix ont recouvré leur intégrité physique, mais pas encore leur intégrité ontologique." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Πορευθέντες",
+            "gloss": "Faisant_route/Étant_partis"
+          },
+          {
+            "greek": "ἐπιδείξατε",
+            "gloss": "montrez/exhibez",
+            "analyse": "Le verbe *epideiknymi*. Jésus ne les guérit pas instantanément sur place. Il exige d'abord une action horizontale, un déplacement physique vers l'institution religieuse du Monde duel (les prêtres, qui sont les seuls habilités à constater la guérison). C'est un test d'alignement."
+          },
+          {
+            "greek": "ἑαυτοὺς",
+            "gloss": "vous-mêmes"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "ἱερεῦσιν.",
+            "gloss": "prêtres"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐγένετο",
+            "gloss": "il_arriva"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὑπάγειν",
+            "gloss": "aller/s'éloigner",
+            "analyse": "Le verbe *hypago* (se retirer, aller sous la contrainte). L'action se déroule pendant qu'ils s'éloignent de la Source."
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἐκαθαρίσθησαν.",
+            "gloss": "ils_furent_purifiés/rendus_nets",
+            "analyse": "Le verbe *katharizo*. Attention, ce n'est pas encore le salut (*sozo*). C'est une réparation mécanique des tissus. La gangrène de la matière est stoppée, l'enveloppe corporelle est nettoyée. Les dix ont recouvré leur intégrité physique, mais pas encore leur intégrité ontologique."
+          }
         ]
       },
       {
@@ -75,20 +196,67 @@
           "darby": "Et l'un d'eux, voyant qu'il était guéri, retourna sur ses pas, glorifiant Dieu à haute voix ;"
         },
         "interlinear": [
-          { "greek": "εἷς", "gloss": "Un_seul", "analyse": "La singularité foudroyante. La masse (le groupe des dix) obéit mécaniquement et suit le mouvement d'inertie horizontale vers la société. 'L'Un' s'arrache à la totalité grégaire. Il devient un Sujet." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐξ", "gloss": "hors_de", "analyse": "Le mouvement d'extraction spatiale. L'éveil nécessite de sortir du groupe (*ex auton*)." },
-          { "greek": "αὐτῶν,", "gloss": "eux" },
-          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ἰάθη,", "gloss": "il_fut_guéri", "analyse": "Le verbe change. Ce n'est plus *katharizo* (purifié socialement), c'est *iaomai* (guéri profondément). Ce regard intérieur (*idon*) déclenche la bascule métaphysique." },
-          { "greek": "ὑπέστρεψεν", "gloss": "revint/retourna", "analyse": "Le verbe magistral : *hypo-strepho*. Littéralement, se tourner dans le sens inverse. C'est la *metanoia* (conversion) mise en acte spatial. Plutôt que de jouir de sa nouvelle santé dans le monde matériel, il rompt sa trajectoire pour faire demi-tour vers le Centre." },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "φωνῆς", "gloss": "voix" },
-          { "greek": "μεγάλης", "gloss": "grande" },
-          { "greek": "δοξάζων", "gloss": "glorifiant", "analyse": "La *Doxa* (la Gloire). La voix qui s'élevait pour crier sa misère ('aie pitié', v.13) s'élève maintenant pour résonner avec l'Incréé. Le Sujet s'est verticalisé." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεόν,", "gloss": "Dieu" }
+          {
+            "greek": "εἷς",
+            "gloss": "Un_seul",
+            "analyse": "La singularité foudroyante. La masse (le groupe des dix) obéit mécaniquement et suit le mouvement d'inertie horizontale vers la société. 'L'Un' s'arrache à la totalité grégaire. Il devient un Sujet."
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "hors_de",
+            "analyse": "Le mouvement d'extraction spatiale. L'éveil nécessite de sortir du groupe (*ex auton*)."
+          },
+          {
+            "greek": "αὐτῶν,",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "ἰάθη,",
+            "gloss": "il_fut_guéri",
+            "analyse": "Le verbe change. Ce n'est plus *katharizo* (purifié socialement), c'est *iaomai* (guéri profondément). Ce regard intérieur (*idon*) déclenche la bascule métaphysique."
+          },
+          {
+            "greek": "ὑπέστρεψεν",
+            "gloss": "revint/retourna",
+            "analyse": "Le verbe magistral : *hypo-strepho*. Littéralement, se tourner dans le sens inverse. C'est la *metanoia* (conversion) mise en acte spatial. Plutôt que de jouir de sa nouvelle santé dans le monde matériel, il rompt sa trajectoire pour faire demi-tour vers le Centre."
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "φωνῆς",
+            "gloss": "voix"
+          },
+          {
+            "greek": "μεγάλης",
+            "gloss": "grande"
+          },
+          {
+            "greek": "δοξάζων",
+            "gloss": "glorifiant",
+            "analyse": "La *Doxa* (la Gloire). La voix qui s'élevait pour crier sa misère ('aie pitié', v.13) s'élève maintenant pour résonner avec l'Incréé. Le Sujet s'est verticalisé."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεόν,",
+            "gloss": "Dieu"
+          }
         ]
       },
       {
@@ -98,20 +266,66 @@
           "darby": "et il se jeta sur sa face aux pieds de Jésus, lui rendant grâces. Et il était Samaritain."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἔπεσεν", "gloss": "il_tomba", "analyse": "Du verbe *pipto* (tomber). Mouvement de kénose volontaire. Le lépreux a retrouvé l'intégrité de son corps, mais au lieu de parader debout dans le Monde duel, il s'effondre délibérément pour briser son Ego face à la Majesté." },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "πρόσωπον", "gloss": "sa_face/visage", "analyse": "Le *prosopon* (le masque, la face). Il plaque son visage contre la terre. C'est l'anéantissement de l'identité de surface. Le Sujet renonce à son image sociale naissante pour fusionner avec la poussière au pied de l'Axe." },
-          { "greek": "παρὰ", "gloss": "auprès_de" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "πόδας", "gloss": "pieds" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "εὐχαριστῶν", "gloss": "rendant_grâces", "analyse": "Le verbe *eucharisteo*. La gratitude n'est pas un merci poli, c'est l'Eucharistie elle-même : la restitution de la Grâce (*charis*) à sa Source. Une boucle énergétique parfaite se referme entre l'Incréé et la créature." },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὐτὸς", "gloss": "lui" },
-          { "greek": "ἦν", "gloss": "était" },
-          { "greek": "Σαμαρίτης.", "gloss": "Samaritain", "analyse": "L'ironie métaphysique suprême. Le seul qui reconnaît le Centre est celui qui est rituellement, géographiquement et ethniquement à la périphérie absolue (l'hérétique). La religion du Monde duel (les neuf Juifs) a consommé le miracle comme un dû ; l'exclu l'a reçu comme une pure Grâce." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἔπεσεν",
+            "gloss": "il_tomba",
+            "analyse": "Du verbe *pipto* (tomber). Mouvement de kénose volontaire. Le lépreux a retrouvé l'intégrité de son corps, mais au lieu de parader debout dans le Monde duel, il s'effondre délibérément pour briser son Ego face à la Majesté."
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "πρόσωπον",
+            "gloss": "sa_face/visage",
+            "analyse": "Le *prosopon* (le masque, la face). Il plaque son visage contre la terre. C'est l'anéantissement de l'identité de surface. Le Sujet renonce à son image sociale naissante pour fusionner avec la poussière au pied de l'Axe."
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "auprès_de"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πόδας",
+            "gloss": "pieds"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "εὐχαριστῶν",
+            "gloss": "rendant_grâces",
+            "analyse": "Le verbe *eucharisteo*. La gratitude n'est pas un merci poli, c'est l'Eucharistie elle-même : la restitution de la Grâce (*charis*) à sa Source. Une boucle énergétique parfaite se referme entre l'Incréé et la créature."
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἦν",
+            "gloss": "était"
+          },
+          {
+            "greek": "Σαμαρίτης.",
+            "gloss": "Samaritain",
+            "analyse": "L'ironie métaphysique suprême. Le seul qui reconnaît le Centre est celui qui est rituellement, géographiquement et ethniquement à la périphérie absolue (l'hérétique). La religion du Monde duel (les neuf Juifs) a consommé le miracle comme un dû ; l'exclu l'a reçu comme une pure Grâce."
+          }
         ]
       },
       {
@@ -121,19 +335,60 @@
           "darby": "Et Jésus, répondant, dit : Les dix n'ont-ils pas été rendus nets ? et les neuf, où sont-ils ?"
         },
         "interlinear": [
-          { "greek": "ἀποκριθεὶς", "gloss": "Ayant_répondu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Οὐχὶ", "gloss": "N'est-ce_pas_que" },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "δέκα", "gloss": "dix" },
-          { "greek": "ἐκαθαρίσθησαν;", "gloss": "furent_purifiés", "analyse": "Jésus utilise volontairement le terme clinique et rituel *katharizo*. La purification de l'enveloppe extérieure a bien eu lieu pour la totalité. L'Incréé a dispensé son énergie sans discrimination." },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐννέα", "gloss": "neuf" },
-          { "greek": "ποῦ;", "gloss": "où", "analyse": "Question topographique glaçante. 'Où sont-ils ?' Ils sont perdus dans l'horizontalité. Ils ont consommé l'Énergie divine pour réintégrer la matrice sociale du Monde duel (aller voir les prêtres, reprendre leurs affaires). Ils ont récupéré un corps sain, mais ils ont raté la Présence." }
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "Ayant_répondu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Οὐχὶ",
+            "gloss": "N'est-ce_pas_que"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δέκα",
+            "gloss": "dix"
+          },
+          {
+            "greek": "ἐκαθαρίσθησαν;",
+            "gloss": "furent_purifiés",
+            "analyse": "Jésus utilise volontairement le terme clinique et rituel *katharizo*. La purification de l'enveloppe extérieure a bien eu lieu pour la totalité. L'Incréé a dispensé son énergie sans discrimination."
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐννέα",
+            "gloss": "neuf"
+          },
+          {
+            "greek": "ποῦ;",
+            "gloss": "où",
+            "analyse": "Question topographique glaçante. 'Où sont-ils ?' Ils sont perdus dans l'horizontalité. Ils ont consommé l'Énergie divine pour réintégrer la matrice sociale du Monde duel (aller voir les prêtres, reprendre leurs affaires). Ils ont récupéré un corps sain, mais ils ont raté la Présence."
+          }
         ]
       },
       {
@@ -143,18 +398,56 @@
           "darby": "Il ne s'en est point trouvé qui soient revenus pour donner gloire à Dieu, si ce n'est cet étranger !"
         },
         "interlinear": [
-          { "greek": "οὐχ", "gloss": "Ne...pas" },
-          { "greek": "εὑρέθησαν", "gloss": "se_sont-ils_trouvés" },
-          { "greek": "ὑποστρέψαντες", "gloss": "ayant_fait_demi-tour", "analyse": "Le rappel de l'*hypo-strepho*. La seule action qui distingue le Sujet de la masse égotique : la capacité à briser la trajectoire mécanique par un acte de retournement conscient." },
-          { "greek": "δοῦναι", "gloss": "de_donner" },
-          { "greek": "δόξαν", "gloss": "gloire" },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "θεῷ", "gloss": "Dieu" },
-          { "greek": "εἰ", "gloss": "si" },
-          { "greek": "μὴ", "gloss": "ce_n'est" },
-          { "greek": "ὁ", "gloss": "l'" },
-          { "greek": "ἀλλογενὴς", "gloss": "étranger", "analyse": "Le mot *allogenes* (d'une autre race, d'une autre naissance). Celui qui est né 'autrement'. Paul dira que l'Homme Nouveau est une Nouvelle Création. Le Samaritain n'est pas sauvé parce qu'il est poli, mais parce qu'il a accepté de renaître comme un Sujet radicalement 'autre' par rapport au système." },
-          { "greek": "οὗτος;", "gloss": "celui-ci" }
+          {
+            "greek": "οὐχ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "εὑρέθησαν",
+            "gloss": "se_sont-ils_trouvés"
+          },
+          {
+            "greek": "ὑποστρέψαντες",
+            "gloss": "ayant_fait_demi-tour",
+            "analyse": "Le rappel de l'*hypo-strepho*. La seule action qui distingue le Sujet de la masse égotique : la capacité à briser la trajectoire mécanique par un acte de retournement conscient."
+          },
+          {
+            "greek": "δοῦναι",
+            "gloss": "de_donner"
+          },
+          {
+            "greek": "δόξαν",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "θεῷ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ce_n'est"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἀλλογενὴς",
+            "gloss": "étranger",
+            "analyse": "Le mot *allogenes* (d'une autre race, d'une autre naissance). Celui qui est né 'autrement'. Paul dira que l'Homme Nouveau est une Nouvelle Création. Le Samaritain n'est pas sauvé parce qu'il est poli, mais parce qu'il a accepté de renaître comme un Sujet radicalement 'autre' par rapport au système."
+          },
+          {
+            "greek": "οὗτος;",
+            "gloss": "celui-ci"
+          }
         ]
       },
       {
@@ -164,22 +457,139 @@
           "darby": "Et il lui dit : Lève-toi, et t'en va ; ta foi t'a guéri."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "εἶπεν", "gloss": "il_dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Ἀναστὰς", "gloss": "T'étant_levé/Ressuscité", "analyse": "Le verbe *anistemi* (se lever, ressusciter). L'injonction absolue de la verticalité. Après la kénose (la chute face contre terre du verset 16), l'Incréé ordonne le redressement. Le Sujet s'érige sur l'Axe." },
-          { "greek": "πορεύου·", "gloss": "fais_route/va", "analyse": "L'envoi dans le Monde duel. Le Samaritain ne doit pas rester prosterné indéfiniment. Une fois la connexion verticale établie, il doit retourner arpenter l'horizontalité (*poreuou*), mais cette fois en tant qu'Être unifié." },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "πίστις", "gloss": "foi" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "σέσωκέν", "gloss": "t'a_sauvé", "analyse": "Le verbe ultime : *sozo* (sauver, rendre entier), au parfait. Le Christ ne dit plus *katharizo* (purifié). Les neuf ont été purifiés de la lèpre, mais seul le Samaritain a été *sauvé*, c'est-à-dire restauré dans son intégrité non-duelle éternelle." },
-          { "greek": "σε.", "gloss": "toi" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἀναστὰς",
+            "gloss": "T'étant_levé/Ressuscité",
+            "analyse": "Le verbe *anistemi* (se lever, ressusciter). L'injonction absolue de la verticalité. Après la kénose (la chute face contre terre du verset 16), l'Incréé ordonne le redressement. Le Sujet s'érige sur l'Axe."
+          },
+          {
+            "greek": "πορεύου·",
+            "gloss": "fais_route/va",
+            "analyse": "L'envoi dans le Monde duel. Le Samaritain ne doit pas rester prosterné indéfiniment. Une fois la connexion verticale établie, il doit retourner arpenter l'horizontalité (*poreuou*), mais cette fois en tant qu'Être unifié."
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστις",
+            "gloss": "foi"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "σέσωκέν",
+            "gloss": "t'a_sauvé",
+            "analyse": "Le verbe ultime : *sozo* (sauver, rendre entier), au parfait. Le Christ ne dit plus *katharizo* (purifié). Les neuf ont été purifiés de la lèpre, mais seul le Samaritain a été *sauvé*, c'est-à-dire restauré dans son intégrité non-duelle éternelle."
+          },
+          {
+            "greek": "σε.",
+            "gloss": "toi"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 19 - σέσωκέν : Traduit par 't'a sauvé' (Segond) ou 't'a guéri' (Darby). Le choix de Darby est ici malheureux. Jésus emploie spécifiquement le verbe *sozo* (le salut ontologique de l'Être) en contraste absolu avec le verbe *katharizo* (la purification corporelle) utilisé pour les neuf autres au verset 14 et 17. Le Samaritain obtient infiniment plus qu'une guérison : il obtient la Vie.\n• Verset 15/18 - ὑπέστρεψεν : Le 'demi-tour' est souvent traduit par 'revenir'. C'est le même concept que la *Metanoia* : une inversion brutale de la trajectoire du Sujet, qui s'arrache à l'inertie du monde.\n\nAnalyse spirituelle :\nL'histoire des dix lépreux dévoile l'écart abyssal entre le consumérisme spirituel de l'Ego et l'Éveil foudroyant du Sujet.\n\nAu départ, les dix partagent la même détresse entropique (la lèpre) et la même topographie (l'exclusion à distance, *porrothen*). Face à leur appel vibratoire, le Christ envoie une Grâce guérissante, mais il l'assortit d'une consigne : 'Allez vous montrer aux prêtres'. Cette consigne est un piège révélateur : elle dirige les dix hommes vers le système religieux et social du Monde duel. \n\nLes neuf Juifs consomment le miracle mécaniquement. Leur chair est réparée (*ekatharisthesan*), et ils poursuivent leur trajectoire aveugle pour réintégrer la matrice sociétale. Ils utilisent la Grâce divine pour consolider leur Ego horizontal. Jésus pose alors la question terrible : 'Où sont-ils ?'. C'est le drame de l'humanité : remplie des dons de Dieu, mais absente à la Présence.\n\nUn seul, le Samaritain (l'étranger *allogenes*, qui n'a rien à attendre des prêtres du temple), perçoit la vraie nature de l'événement. Le voyant, il opère l'*hypo-strepho* (la conversion/le demi-tour). Il sacrifie sa réintégration sociale pour s'effondrer aux pieds de la Source (*epesen*). C'est la kénose parfaite : il offre sa guérison en Eucharistie (*euchariston*).\n\nEn réponse à cet anéantissement de l'Ego, le Christ prononce les mots de la nouvelle Création : 'Relève-toi' (*Anastas*, le verbe de la résurrection) et 'Ta foi t'a sauvé' (*sesoken*). Le miracle charnel n'était que le brouillon ; la véritable œuvre de Dieu, c'est l'unification (*sozo*) de l'Homme qui a choisi l'Axe vertical plutôt que la réintégration horizontale."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 19 - σέσωκέν : Traduit par 't'a sauvé' (Segond) ou 't'a guéri' (Darby). Le choix de Darby est ici malheureux. Jésus emploie spécifiquement le verbe *sozo* (le salut ontologique de l'Être) en contraste absolu avec le verbe *katharizo* (la purification corporelle) utilisé pour les neuf autres au verset 14 et 17. Le Samaritain obtient infiniment plus qu'une guérison : il obtient la Vie.\n• Verset 15/18 - ὑπέστρεψεν : Le 'demi-tour' est souvent traduit par 'revenir'. C'est le même concept que la *Metanoia* : une inversion brutale de la trajectoire du Sujet, qui s'arrache à l'inertie du monde.\n\nAnalyse spirituelle :\nL'histoire des dix lépreux dévoile l'écart abyssal entre le consumérisme spirituel de l'Ego et l'Éveil foudroyant du Sujet.\n\nAu départ, les dix partagent la même détresse entropique (la lèpre) et la même topographie (l'exclusion à distance, *porrothen*). Face à leur appel vibratoire, le Christ envoie une Grâce guérissante, mais il l'assortit d'une consigne : 'Allez vous montrer aux prêtres'. Cette consigne est un piège révélateur : elle dirige les dix hommes vers le système religieux et social du Monde duel. \n\nLes neuf Juifs consomment le miracle mécaniquement. Leur chair est réparée (*ekatharisthesan*), et ils poursuivent leur trajectoire aveugle pour réintégrer la matrice sociétale. Ils utilisent la Grâce divine pour consolider leur Ego horizontal. Jésus pose alors la question terrible : 'Où sont-ils ?'. C'est le drame de l'humanité : remplie des dons de Dieu, mais absente à la Présence.\n\nUn seul, le Samaritain (l'étranger *allogenes*, qui n'a rien à attendre des prêtres du temple), perçoit la vraie nature de l'événement. Le voyant, il opère l'*hypo-strepho* (la conversion/le demi-tour). Il sacrifie sa réintégration sociale pour s'effondrer aux pieds de la Source (*epesen*). C'est la kénose parfaite : il offre sa guérison en Eucharistie (*euchariston*).\n\nEn réponse à cet anéantissement de l'Ego, le Christ prononce les mots de la nouvelle Création : 'Relève-toi' (*Anastas*, le verbe de la résurrection) et 'Ta foi t'a sauvé' (*sesoken*). Le miracle charnel n'était que le brouillon ; la véritable œuvre de Dieu, c'est l'unification (*sozo*) de l'Homme qui a choisi l'Axe vertical plutôt que la réintégration horizontale.",
+    "homiletic_axes": [
+      {
+        "title": "De la purification au salut",
+        "content": "Les dix sont purifiés en chemin, mais un seul entend dans la rencontre avec le Christ : « ta foi t’a sauvé ». L’Évangile distingue ainsi le don reçu et la relation retrouvée ; l’Apôtre décrit cette relation comme une vie nouvelle manifestée avec le Christ.",
+        "keywords": [
+          "καθαρίζω — purifier",
+          "σῴζω — sauver",
+          "ζωή — vie"
+        ]
+      },
+      {
+        "title": "Revenir pour rendre grâce",
+        "content": "Le Samaritain revient en glorifiant Dieu et tombe aux pieds de Jésus. Son retour transforme la guérison en action de grâce : le mouvement du corps devient une orientation du cœur.",
+        "keywords": [
+          "ὑποστρέφω — revenir",
+          "εὐχαριστέω — rendre grâce",
+          "πίπτω — tomber"
+        ]
+      },
+      {
+        "title": "Se relever et revêtir l’homme nouveau",
+        "content": "Jésus dit au Samaritain de se relever ; Paul demande de dépouiller le vieil homme et de revêtir le nouveau, continuellement renouvelé selon l’image du Créateur. Le relèvement reçu ouvre une manière nouvelle de vivre.",
+        "keywords": [
+          "ἀνίστημι — se relever",
+          "ἀπεκδύομαι — se dépouiller",
+          "ἀνακαινόω — renouveler"
+        ]
+      },
+      {
+        "title": "L’étranger et l’humanité réconciliée",
+        "content": "Celui qui revient est désigné comme étranger. En Colossiens, les séparations ethniques, religieuses et sociales sont dépassées parce que le Christ est tout et en tous : la gratitude rend visible cette communion.",
+        "keywords": [
+          "ἀλλογενής — étranger",
+          "εἰκών — image",
+          "πάντα καὶ ἐν πᾶσιν Χριστός — Christ tout et en tous"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Du don reçu à la communion retrouvée",
+        "reference": "Luc 17, 12-19 ; Colossiens 3, 4-11",
+        "content": "Le Samaritain ne s’arrête pas à la purification : il revient vers le Christ. Paul nomme la profondeur de ce retour comme dépouillement du vieil homme, renouvellement selon l’image du Créateur et communion où le Christ est tout en tous.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Les dix lépreux » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, les déplacements et les oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que le Christ donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   },
- "apostle": {
+  "apostle": {
     "reference": "Colossiens 3, 4-11",
     "title": "La Kénose des Membres Terrestres : Dés-identification de l'Ego et Émergence du Sujet",
     "interlinear": [
@@ -190,21 +600,70 @@
           "darby": "Quand le Christ qui est notre vie, sera manifesté, alors vous aussi, vous serez manifestés avec lui en gloire."
         },
         "interlinear": [
-          { "greek": "ὅταν", "gloss": "Quand" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Χριστὸς", "gloss": "Christ" },
-          { "greek": "φανερωθῇ,", "gloss": "sera_manifesté", "analyse": "Du verbe *phaneroo* (amener à la lumière, rendre visible ce qui était caché). Au verset 3, Paul expliquait que notre vie est 'cachée' avec le Christ. L'Éveil n'est pas la création d'un état nouveau, c'est la manifestation brutale (le dévoilement) d'une Réalité préexistante mais invisible pour l'Ego." },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "ζωὴ", "gloss": "vie", "analyse": "La *Zoe*. Paul n'utilise pas *bios* (la vie biologique, limitée, horizontale). Le Christ n'est pas un exemple moral à imiter dans le *bios* ; Il est la *Zoe*, l'Énergie vitale absolue et incréée qui constitue la véritable substance du Sujet éveillé." },
-          { "greek": "ὑμῶν,", "gloss": "de_vous/votre" },
-          { "greek": "τότε", "gloss": "alors" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "σὺν", "gloss": "avec", "analyse": "Le préfixe de co-inclusion : *syn-*. La destinée du Sujet est inséparable de celle de l'Axe. L'illumination est un phénomène de résonance conjointe." },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "φανερωθήσεσθε", "gloss": "vous_serez_manifestés" },
-          { "greek": "ἐν", "gloss": "dans/en" },
-          { "greek": "δόξῃ.", "gloss": "gloire", "analyse": "La *doxa*. Loin d'être la célébrité mondaine, la *doxa* est le rayonnement pur de la Présence. C'est l'état du Sujet devenu entièrement transparent, laissant irradier la Lumière qu'il ne bloque plus par ses opacités égotiques." }
+          {
+            "greek": "ὅταν",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "φανερωθῇ,",
+            "gloss": "sera_manifesté",
+            "analyse": "Du verbe *phaneroo* (amener à la lumière, rendre visible ce qui était caché). Au verset 3, Paul expliquait que notre vie est 'cachée' avec le Christ. L'Éveil n'est pas la création d'un état nouveau, c'est la manifestation brutale (le dévoilement) d'une Réalité préexistante mais invisible pour l'Ego."
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ζωὴ",
+            "gloss": "vie",
+            "analyse": "La *Zoe*. Paul n'utilise pas *bios* (la vie biologique, limitée, horizontale). Le Christ n'est pas un exemple moral à imiter dans le *bios* ; Il est la *Zoe*, l'Énergie vitale absolue et incréée qui constitue la véritable substance du Sujet éveillé."
+          },
+          {
+            "greek": "ὑμῶν,",
+            "gloss": "de_vous/votre"
+          },
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec",
+            "analyse": "Le préfixe de co-inclusion : *syn-*. La destinée du Sujet est inséparable de celle de l'Axe. L'illumination est un phénomène de résonance conjointe."
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "φανερωθήσεσθε",
+            "gloss": "vous_serez_manifestés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/en"
+          },
+          {
+            "greek": "δόξῃ.",
+            "gloss": "gloire",
+            "analyse": "La *doxa*. Loin d'être la célébrité mondaine, la *doxa* est le rayonnement pur de la Présence. C'est l'état du Sujet devenu entièrement transparent, laissant irradier la Lumière qu'il ne bloque plus par ses opacités égotiques."
+          }
         ]
       },
       {
@@ -214,25 +673,90 @@
           "darby": "Mortifiez donc vos membres qui sont sur la terre, la fornication, l'impureté, les affections déréglées, la mauvaise convoitise, et la cupidité, qui est de l'idolâtrie ;"
         },
         "interlinear": [
-          { "greek": "Νεκρώσατε", "gloss": "Mettez_à_mort/Mortifiez", "analyse": "Un impératif aoriste foudroyant : *nekroo*. Ne 'gérez' pas, ne 'négociez' pas avec l'Ego : exécutez-le. Il s'agit de déconnecter définitivement l'énergie vitale (*Zoe*) des structures parasitaires qui la pompent." },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "μέλη", "gloss": "membres", "analyse": "Les *mele* (membres/organes). Il ne s'agit pas d'automutilation physique (couper un bras). Ces 'membres' sont les extensions psychiques et énergétiques par lesquelles l'Ego s'agrippe au Monde duel pour tenter d'exister." },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ἐπὶ", "gloss": "sur" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "γῆς,", "gloss": "terre", "analyse": "Topographie de l'horizontalité. Ce qui est 'sur la terre' s'oppose à ce qui est 'Caché en Dieu'. C'est la fréquence vibratoire la plus basse, soumise à la gravité et à l'entropie." },
-          { "greek": "πορνείαν,", "gloss": "fornication/prostitution" },
-          { "greek": "ἀκαθαρσίαν,", "gloss": "impureté", "analyse": "Le préfixe privatif *a-* + *katharos* (pur). C'est le mélange toxique, la dispersion de l'énergie dans la multiplicité du monde, empêchant l'unification." },
-          { "greek": "πάθος,", "gloss": "passion", "analyse": "Le *pathos*. Ce que l'on subit (qui a donné 'pathologie'). La passion n'est pas l'amour intense, c'est un état de passivité vibratoire où l'être est téléguidé par des pulsions extérieures, perdant sa souveraineté." },
-          { "greek": "ἐπιθυμίαν", "gloss": "désir", "analyse": "Composé de *epi-* (sur/vers) et *thymos* (souffle/élan). Un souffle vital projeté frénétiquement *vers* des objets extérieurs pour combler un vide intérieur." },
-          { "greek": "κακήν,", "gloss": "mauvais" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "πλεονεξίαν", "gloss": "cupidité", "analyse": "Composé de *pleon* (plus) et *echo* (avoir). 'Avoir toujours plus'. C'est le mécanisme central de l'Ego : l'accumulation sans fin pour conjurer l'angoisse de la mort." },
-          { "greek": "ἥτις", "gloss": "laquelle" },
-          { "greek": "ἐστὶν", "gloss": "est" },
-          { "greek": "εἰδωλολατρία,", "gloss": "idolâtrie", "analyse": "Composé de *eidolon* (image, illusion, spectre) et *latreia* (culte). Paul identifie la racine du problème : vouloir 'avoir plus' (la cupidité matérielle) est métaphysiquement de l'idolâtrie, car c'est demander à la matière fragmentée de fournir la Plénitude absolue (*Pleroma*) qui n'appartient qu'à l'Incréé. C'est adorer une illusion." }
+          {
+            "greek": "Νεκρώσατε",
+            "gloss": "Mettez_à_mort/Mortifiez",
+            "analyse": "Un impératif aoriste foudroyant : *nekroo*. Ne 'gérez' pas, ne 'négociez' pas avec l'Ego : exécutez-le. Il s'agit de déconnecter définitivement l'énergie vitale (*Zoe*) des structures parasitaires qui la pompent."
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μέλη",
+            "gloss": "membres",
+            "analyse": "Les *mele* (membres/organes). Il ne s'agit pas d'automutilation physique (couper un bras). Ces 'membres' sont les extensions psychiques et énergétiques par lesquelles l'Ego s'agrippe au Monde duel pour tenter d'exister."
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆς,",
+            "gloss": "terre",
+            "analyse": "Topographie de l'horizontalité. Ce qui est 'sur la terre' s'oppose à ce qui est 'Caché en Dieu'. C'est la fréquence vibratoire la plus basse, soumise à la gravité et à l'entropie."
+          },
+          {
+            "greek": "πορνείαν,",
+            "gloss": "fornication/prostitution"
+          },
+          {
+            "greek": "ἀκαθαρσίαν,",
+            "gloss": "impureté",
+            "analyse": "Le préfixe privatif *a-* + *katharos* (pur). C'est le mélange toxique, la dispersion de l'énergie dans la multiplicité du monde, empêchant l'unification."
+          },
+          {
+            "greek": "πάθος,",
+            "gloss": "passion",
+            "analyse": "Le *pathos*. Ce que l'on subit (qui a donné 'pathologie'). La passion n'est pas l'amour intense, c'est un état de passivité vibratoire où l'être est téléguidé par des pulsions extérieures, perdant sa souveraineté."
+          },
+          {
+            "greek": "ἐπιθυμίαν",
+            "gloss": "désir",
+            "analyse": "Composé de *epi-* (sur/vers) et *thymos* (souffle/élan). Un souffle vital projeté frénétiquement *vers* des objets extérieurs pour combler un vide intérieur."
+          },
+          {
+            "greek": "κακήν,",
+            "gloss": "mauvais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλεονεξίαν",
+            "gloss": "cupidité",
+            "analyse": "Composé de *pleon* (plus) et *echo* (avoir). 'Avoir toujours plus'. C'est le mécanisme central de l'Ego : l'accumulation sans fin pour conjurer l'angoisse de la mort."
+          },
+          {
+            "greek": "ἥτις",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est"
+          },
+          {
+            "greek": "εἰδωλολατρία,",
+            "gloss": "idolâtrie",
+            "analyse": "Composé de *eidolon* (image, illusion, spectre) et *latreia* (culte). Paul identifie la racine du problème : vouloir 'avoir plus' (la cupidité matérielle) est métaphysiquement de l'idolâtrie, car c'est demander à la matière fragmentée de fournir la Plénitude absolue (*Pleroma*) qui n'appartient qu'à l'Incréé. C'est adorer une illusion."
+          }
         ]
       },
       {
@@ -242,18 +766,57 @@
           "darby": "à cause desquelles la colère de Dieu vient sur les fils de la désobéissance ;"
         },
         "interlinear": [
-          { "greek": "δι’", "gloss": "À_cause_de" },
-          { "greek": "ἃ", "gloss": "lesquelles_choses" },
-          { "greek": "ἔρχεται", "gloss": "vient" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "ὀργὴ", "gloss": "colère", "analyse": "L'*orge*. Dieu n'a pas d'humeur psychologique. La 'colère' est la métaphore de la friction métaphysique implacable : quand l'Incréé (la Lumière absolue) rencontre l'Ego (l'opacité absolue), cette dernière est brûlée. Ce qui est une illumination pour le Sujet aligné est vécu comme un feu destructeur ('colère') par l'Ego qui refuse de lâcher prise." },
-          { "greek": "τοῦ", "gloss": "de_le" },
-          { "greek": "θεοῦ", "gloss": "Dieu" },
-          { "greek": "ἐπὶ", "gloss": "sur", "analyse": "Le mouvement descendant (*epi*) de l'Axe qui vient percuter l'horizontalité." },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "υἱοὺς", "gloss": "fils" },
-          { "greek": "τῆς", "gloss": "de_la" },
-          { "greek": "ἀπειθείας·", "gloss": "désobéissance/incrédulité", "analyse": "Composé du préfixe privatif *a-* et de *peitho* (se laisser persuader, faire confiance). La désobéissance n'est pas une simple infraction au code pénal divin. C'est le refus structurel de se laisser persuader par l'Axe, c'est le verrouillage volontaire du système de l'Ego dans sa propre illusion." }
+          {
+            "greek": "δι’",
+            "gloss": "À_cause_de"
+          },
+          {
+            "greek": "ἃ",
+            "gloss": "lesquelles_choses"
+          },
+          {
+            "greek": "ἔρχεται",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὀργὴ",
+            "gloss": "colère",
+            "analyse": "L'*orge*. Dieu n'a pas d'humeur psychologique. La 'colère' est la métaphore de la friction métaphysique implacable : quand l'Incréé (la Lumière absolue) rencontre l'Ego (l'opacité absolue), cette dernière est brûlée. Ce qui est une illumination pour le Sujet aligné est vécu comme un feu destructeur ('colère') par l'Ego qui refuse de lâcher prise."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur",
+            "analyse": "Le mouvement descendant (*epi*) de l'Axe qui vient percuter l'horizontalité."
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "υἱοὺς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἀπειθείας·",
+            "gloss": "désobéissance/incrédulité",
+            "analyse": "Composé du préfixe privatif *a-* et de *peitho* (se laisser persuader, faire confiance). La désobéissance n'est pas une simple infraction au code pénal divin. C'est le refus structurel de se laisser persuader par l'Axe, c'est le verrouillage volontaire du système de l'Ego dans sa propre illusion."
+          }
         ]
       },
       {
@@ -263,41 +826,125 @@
           "darby": "parmi lesquels vous aussi vous avez marché autrefois, quand vous viviez dans ces choses."
         },
         "interlinear": [
-          { "greek": "ἐν", "gloss": "Parmi/dans" },
-          { "greek": "οἷς", "gloss": "lesquelles" },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "περιεπατήσατέ", "gloss": "avez_marché_autour", "analyse": "Le verbe *peri-pateo*. Le mouvement giratoire de l'errance horizontale. Tourner en rond dans la matrice du Monde duel, sans jamais s'élever sur l'Axe." },
-          { "greek": "ποτε,", "gloss": "autrefois" },
-          { "greek": "ὅτε", "gloss": "quand" },
-          { "greek": "ἐζῆτε", "gloss": "vous_viviez", "analyse": "Imparfait du verbe *zao* (vivre). Le drame est là : l'être confondait cette errance hypnotique avec la 'vie'. L'Ego vampirisait l'énergie vitale pour animer ses propres illusions, jusqu'à ce que la Kénose vienne interrompre ce cycle." },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τούτοις·", "gloss": "ces_choses" }
+          {
+            "greek": "ἐν",
+            "gloss": "Parmi/dans"
+          },
+          {
+            "greek": "οἷς",
+            "gloss": "lesquelles"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "περιεπατήσατέ",
+            "gloss": "avez_marché_autour",
+            "analyse": "Le verbe *peri-pateo*. Le mouvement giratoire de l'errance horizontale. Tourner en rond dans la matrice du Monde duel, sans jamais s'élever sur l'Axe."
+          },
+          {
+            "greek": "ποτε,",
+            "gloss": "autrefois"
+          },
+          {
+            "greek": "ὅτε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "ἐζῆτε",
+            "gloss": "vous_viviez",
+            "analyse": "Imparfait du verbe *zao* (vivre). Le drame est là : l'être confondait cette errance hypnotique avec la 'vie'. L'Ego vampirisait l'énergie vitale pour animer ses propres illusions, jusqu'à ce que la Kénose vienne interrompre ce cycle."
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τούτοις·",
+            "gloss": "ces_choses"
+          }
         ]
       },
-    {
+      {
         "verse_number": 8,
         "translations": {
           "segond": "Mais maintenant, renoncez à toutes ces choses, à la colère, à l'animosité, à la méchanceté, à la calomnie, aux paroles déshonnêtes qui pourraient sortir de votre bouche.",
           "darby": "mais maintenant, rejetez, vous aussi, toutes ces choses : colère, courroux, malice, calomnie, paroles honteuses, de votre bouche."
         },
         "interlinear": [
-          { "greek": "νυνὶ", "gloss": "Maintenant" },
-          { "greek": "δὲ", "gloss": "mais" },
-          { "greek": "ἀπόθεσθε", "gloss": "déposez/rejetez", "analyse": "Composé de *apo-* (loin de) et *tithemi* (poser). Le mouvement de dé-saisissement volontaire. Le Sujet refuse de porter plus longtemps les charges vibratoires basses de l'Ego." },
-          { "greek": "καὶ", "gloss": "aussi" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πάντα,", "gloss": "toutes_choses" },
-          { "greek": "ὀργήν,", "gloss": "colère/irritation" },
-          { "greek": "θυμόν,", "gloss": "animosité/bouillonnement", "analyse": "Le *thymos*. C'est l'impulsion réactive brute, le bouillonnement sanguin face aux contrariétés du Monde duel. L'Ego s'embrase pour défendre son territoire illusoire." },
-          { "greek": "κακίαν,", "gloss": "méchanceté/malice" },
-          { "greek": "βλασφημίαν,", "gloss": "calomnie/blasphème", "analyse": "La parole qui détruit (littéralement : *blapto* = nuire, *pheme* = réputation/parole). Le langage, qui devrait être le véhicule du *Logos* divin, est utilisé pour fragmenter et rabaisser l'autre." },
-          { "greek": "αἰσχρολογίαν", "gloss": "paroles_honteuses", "analyse": "Composé de *aischros* (laid/honteux) et *logos* (parole). La laideur vibratoire du verbe. L'Ego pollue l'espace acoustique pour étouffer le silence de l'Incréé." },
-          { "greek": "ἐκ", "gloss": "hors_de" },
-          { "greek": "τοῦ", "gloss": "la" },
-          { "greek": "στόματος", "gloss": "bouche" },
-          { "greek": "ὑμῶν·", "gloss": "de_vous" }
+          {
+            "greek": "νυνὶ",
+            "gloss": "Maintenant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "ἀπόθεσθε",
+            "gloss": "déposez/rejetez",
+            "analyse": "Composé de *apo-* (loin de) et *tithemi* (poser). Le mouvement de dé-saisissement volontaire. Le Sujet refuse de porter plus longtemps les charges vibratoires basses de l'Ego."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πάντα,",
+            "gloss": "toutes_choses"
+          },
+          {
+            "greek": "ὀργήν,",
+            "gloss": "colère/irritation"
+          },
+          {
+            "greek": "θυμόν,",
+            "gloss": "animosité/bouillonnement",
+            "analyse": "Le *thymos*. C'est l'impulsion réactive brute, le bouillonnement sanguin face aux contrariétés du Monde duel. L'Ego s'embrase pour défendre son territoire illusoire."
+          },
+          {
+            "greek": "κακίαν,",
+            "gloss": "méchanceté/malice"
+          },
+          {
+            "greek": "βλασφημίαν,",
+            "gloss": "calomnie/blasphème",
+            "analyse": "La parole qui détruit (littéralement : *blapto* = nuire, *pheme* = réputation/parole). Le langage, qui devrait être le véhicule du *Logos* divin, est utilisé pour fragmenter et rabaisser l'autre."
+          },
+          {
+            "greek": "αἰσχρολογίαν",
+            "gloss": "paroles_honteuses",
+            "analyse": "Composé de *aischros* (laid/honteux) et *logos* (parole). La laideur vibratoire du verbe. L'Ego pollue l'espace acoustique pour étouffer le silence de l'Incréé."
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "hors_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "στόματος",
+            "gloss": "bouche"
+          },
+          {
+            "greek": "ὑμῶν·",
+            "gloss": "de_vous"
+          }
         ]
       },
       {
@@ -307,18 +954,58 @@
           "darby": "Ne mentez point l'un à l'autre, ayant dépouillé le vieil homme avec ses actions,"
         },
         "interlinear": [
-          { "greek": "μὴ", "gloss": "Ne...pas" },
-          { "greek": "ψεύδεσθε", "gloss": "mentez" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "ἀλλήλους,", "gloss": "les_uns_les_autres", "analyse": "Le mensonge (*pseudos*) est la colle qui maintient l'architecture du Monde duel. L'Ego est, par essence, une construction artificielle ; il a vitalement besoin du mensonge social pour valider son existence." },
-          { "greek": "ἀπεκδυσάμενοι", "gloss": "vous_étant_dépouillés", "analyse": "Un triple composé vertigineux : *apo-* (séparation/arrachement), *ek-* (vers l'extérieur), et *dyo* (plonger/vêtir). Littéralement : 'S'extraire en arrachant le vêtement de soi'. C'est le retrait total de la peau morte de l'Ego." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "παλαιὸν", "gloss": "vieil", "analyse": "Le *palaios*. Ce n'est pas 'vieux' au sens de sage ou antique, c'est ce qui est chronologiquement usé, périmé, soumis à l'entropie et voué à la mort." },
-          { "greek": "ἄνθρωπον", "gloss": "homme", "analyse": "Le 'vieil homme' n'est pas un concept moral, c'est l'identité d'emprunt, le faux-Moi fabriqué par les traumatismes, les conditionnements et la survie biologique." },
-          { "greek": "σὺν", "gloss": "avec" },
-          { "greek": "ταῖς", "gloss": "les" },
-          { "greek": "πράξεσιν", "gloss": "pratiques/actions" },
-          { "greek": "αὐτοῦ,", "gloss": "de_lui" }
+          {
+            "greek": "μὴ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "ψεύδεσθε",
+            "gloss": "mentez"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ἀλλήλους,",
+            "gloss": "les_uns_les_autres",
+            "analyse": "Le mensonge (*pseudos*) est la colle qui maintient l'architecture du Monde duel. L'Ego est, par essence, une construction artificielle ; il a vitalement besoin du mensonge social pour valider son existence."
+          },
+          {
+            "greek": "ἀπεκδυσάμενοι",
+            "gloss": "vous_étant_dépouillés",
+            "analyse": "Un triple composé vertigineux : *apo-* (séparation/arrachement), *ek-* (vers l'extérieur), et *dyo* (plonger/vêtir). Littéralement : 'S'extraire en arrachant le vêtement de soi'. C'est le retrait total de la peau morte de l'Ego."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "παλαιὸν",
+            "gloss": "vieil",
+            "analyse": "Le *palaios*. Ce n'est pas 'vieux' au sens de sage ou antique, c'est ce qui est chronologiquement usé, périmé, soumis à l'entropie et voué à la mort."
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "homme",
+            "analyse": "Le 'vieil homme' n'est pas un concept moral, c'est l'identité d'emprunt, le faux-Moi fabriqué par les traumatismes, les conditionnements et la survie biologique."
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πράξεσιν",
+            "gloss": "pratiques/actions"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          }
         ]
       },
       {
@@ -328,19 +1015,63 @@
           "darby": "et ayant revêtu le nouvel homme qui est renouvelé en connaissance, selon l'image de celui qui l'a créé,"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐνδυσάμενοι", "gloss": "ayant_revêtu", "analyse": "Le mouvement inverse : *en-dyo* (pénétrer à l'intérieur d'un vêtement). Après la kénose (l'arrachement), le Sujet est recouvert par l'Énergie divine." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "νέον,", "gloss": "nouveau", "analyse": "Le *neos* (récent/nouveau). C'est l'état de l'être fraîchement émergé de la matrice divine, vierge de tout conditionnement égotique." },
-          { "greek": "τὸν", "gloss": "celui_qui" },
-          { "greek": "ἀνακαινούμενον", "gloss": "se_renouvelle", "analyse": "Composé de *ana-* (vers le haut) et *kainos* (nouveau qualitativement, inédit). L'Éveil n'est pas un état statique, c'est une ascension perpétuelle (*ana*). Le Sujet devient 'de plus en plus' Inédit à mesure qu'il se rapproche de la Source." },
-          { "greek": "εἰς", "gloss": "vers/pour" },
-          { "greek": "ἐπίγνωσιν", "gloss": "connaissance_supérieure", "analyse": "Composé de *epi-* (sur/par-dessus) et *gnosis* (connaissance). Ce n'est pas l'intellect rationnel (*gnosis*), c'est l'épignose, la connaissance par fusion métaphysique, l'illumination directe qui vient d'en haut." },
-          { "greek": "κατ’", "gloss": "selon" },
-          { "greek": "εἰκόνα", "gloss": "l'image", "analyse": "L'*Eikon*. Retour foudroyant à Genèse 1. L'Ego est une caricature, l'Homme Nouveau est la restauration du fractal originel parfait, reflétant la Gloire divine." },
-          { "greek": "τοῦ", "gloss": "de_celui" },
-          { "greek": "κτίσαντος", "gloss": "ayant_créé/fondé" },
-          { "greek": "αὐτόν,", "gloss": "lui" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐνδυσάμενοι",
+            "gloss": "ayant_revêtu",
+            "analyse": "Le mouvement inverse : *en-dyo* (pénétrer à l'intérieur d'un vêtement). Après la kénose (l'arrachement), le Sujet est recouvert par l'Énergie divine."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "νέον,",
+            "gloss": "nouveau",
+            "analyse": "Le *neos* (récent/nouveau). C'est l'état de l'être fraîchement émergé de la matrice divine, vierge de tout conditionnement égotique."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "ἀνακαινούμενον",
+            "gloss": "se_renouvelle",
+            "analyse": "Composé de *ana-* (vers le haut) et *kainos* (nouveau qualitativement, inédit). L'Éveil n'est pas un état statique, c'est une ascension perpétuelle (*ana*). Le Sujet devient 'de plus en plus' Inédit à mesure qu'il se rapproche de la Source."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/pour"
+          },
+          {
+            "greek": "ἐπίγνωσιν",
+            "gloss": "connaissance_supérieure",
+            "analyse": "Composé de *epi-* (sur/par-dessus) et *gnosis* (connaissance). Ce n'est pas l'intellect rationnel (*gnosis*), c'est l'épignose, la connaissance par fusion métaphysique, l'illumination directe qui vient d'en haut."
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "selon"
+          },
+          {
+            "greek": "εἰκόνα",
+            "gloss": "l'image",
+            "analyse": "L'*Eikon*. Retour foudroyant à Genèse 1. L'Ego est une caricature, l'Homme Nouveau est la restauration du fractal originel parfait, reflétant la Gloire divine."
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_celui"
+          },
+          {
+            "greek": "κτίσαντος",
+            "gloss": "ayant_créé/fondé"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -350,29 +1081,179 @@
           "darby": "où il n'y a pas Grec et Juif, circoncision et incirconcision, barbare, Scythe, esclave, homme libre ; mais Christ est tout et en tous."
         },
         "interlinear": [
-          { "greek": "ὅπου", "gloss": "Où/là_où" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἔνι", "gloss": "il_y_a", "analyse": "Contraction de *en-estin* (il n'y a pas à l'intérieur). Dans le domaine spatial du Nouvel Homme, ces catégories n'ont littéralement aucune existence vibratoire." },
-          { "greek": "Ἕλλην", "gloss": "Grec" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Ἰουδαῖος,", "gloss": "Juif", "analyse": "Abolition de la polarité culturelle, intellectuelle et religieuse." },
-          { "greek": "περιτομὴ", "gloss": "circoncision" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀκροβυστία,", "gloss": "incirconcision", "analyse": "Abolition de la polarité rituelle et charnelle de la Loi." },
-          { "greek": "βάρβαρος,", "gloss": "barbare" },
-          { "greek": "Σκύθης,", "gloss": "Scythe", "analyse": "Abolition de la polarité civilisationnelle (le Scythe était considéré comme l'extrême sauvage). Le Royaume UN englobe les opposés absolus." },
-          { "greek": "δοῦλος,", "gloss": "esclave" },
-          { "greek": "ἐλεύθερος,", "gloss": "libre", "analyse": "Abolition de la polarité sociale et économique. Toutes les classifications du Monde duel sont reconnues comme de pures fictions de surface." },
-          { "greek": "ἀλλὰ", "gloss": "mais" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πάντα", "gloss": "toutes_choses/tout" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "πᾶσιν", "gloss": "tous" },
-          { "greek": "Χριστός.", "gloss": "Christ", "analyse": "La formule non-duelle définitive du christianisme. 'Le Tout et dans le Tout, Christ'. Il n'y a plus aucune séparation entre le Contenant et le Contenu. L'Incréé est l'Essence unique qui sature chaque fractal de la Création." }
+          {
+            "greek": "ὅπου",
+            "gloss": "Où/là_où"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἔνι",
+            "gloss": "il_y_a",
+            "analyse": "Contraction de *en-estin* (il n'y a pas à l'intérieur). Dans le domaine spatial du Nouvel Homme, ces catégories n'ont littéralement aucune existence vibratoire."
+          },
+          {
+            "greek": "Ἕλλην",
+            "gloss": "Grec"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰουδαῖος,",
+            "gloss": "Juif",
+            "analyse": "Abolition de la polarité culturelle, intellectuelle et religieuse."
+          },
+          {
+            "greek": "περιτομὴ",
+            "gloss": "circoncision"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀκροβυστία,",
+            "gloss": "incirconcision",
+            "analyse": "Abolition de la polarité rituelle et charnelle de la Loi."
+          },
+          {
+            "greek": "βάρβαρος,",
+            "gloss": "barbare"
+          },
+          {
+            "greek": "Σκύθης,",
+            "gloss": "Scythe",
+            "analyse": "Abolition de la polarité civilisationnelle (le Scythe était considéré comme l'extrême sauvage). Le Royaume UN englobe les opposés absolus."
+          },
+          {
+            "greek": "δοῦλος,",
+            "gloss": "esclave"
+          },
+          {
+            "greek": "ἐλεύθερος,",
+            "gloss": "libre",
+            "analyse": "Abolition de la polarité sociale et économique. Toutes les classifications du Monde duel sont reconnues comme de pures fictions de surface."
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes_choses/tout"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πᾶσιν",
+            "gloss": "tous"
+          },
+          {
+            "greek": "Χριστός.",
+            "gloss": "Christ",
+            "analyse": "La formule non-duelle définitive du christianisme. 'Le Tout et dans le Tout, Christ'. Il n'y a plus aucune séparation entre le Contenant et le Contenu. L'Incréé est l'Essence unique qui sature chaque fractal de la Création."
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 9 - ἀπεκδυσάμενοι : 'Vous étant dépouillés'. La traduction adoucit la violence clinique du terme grec. *Apo-ek-dyo* c'est littéralement arracher de soi et jeter au loin. Ce n'est pas une simple réforme morale où l'on changerait de chemise, c'est un écorchement de la fausse identité (le vieil homme).\n• Verset 10 - ἀνακαινούμενον : Traduit par 'qui se renouvelle'. Le mouvement ascendant de l'*ana-* est perdu. Le Sujet ne tourne pas en rond en se 'rafraîchissant', il est aspiré vers le haut, vers la forme inédite (*kainos*) de l'Esprit.\n\nAnalyse spirituelle :\nCette péricope orchestre le grand dépouillement et dévoile le sommet métaphysique de la Non-Dualité paulinienne.\n\nAprès avoir ordonné l'exécution des 'membres terrestres' (l'impureté, la cupidité), Paul s'attaque ici à l'émission vibratoire de l'Ego : la parole. La colère, la calomnie et le mensonge (*pseudos*) ne sont pas de simples défauts éthiques ; ce sont les outils dont se sert la fausse identité ('le Vieil Homme') pour baliser son territoire duel et écraser l'autre. Le mensonge maintient la matrice en place.\n\nPour atteindre la libération, il faut opérer la grande kénose spatiale : arracher la peau morte de cette identité de survie (*apekdysamenoi*) pour revêtir instantanément l'Homme Nouveau (*endysamenoi*). Cet Homme Nouveau n'est pas un Ego amélioré, c'est l'Émergence du Sujet divin. Il ne fonctionne plus selon la logique de l'accumulation horizontale, mais par l'élévation vibratoire (*ana-kainoo*), recevant l'illumination directe (*epi-gnosis*) qui le reconnecte au fractal originel de la Création (l'*Eikon*, l'Image de Dieu).\n\nLe vertige s'empare du texte au verset 11. Dès lors que l'illusion de l'Ego est arrachée, toutes les catégories de séparation qui structurent l'humanité s'effondrent d'elles-mêmes. Religieuses (Juif/Grec), rituelles (circoncis/incirconcis), ethniques (Barbare/Scythe), ou sociales (esclave/libre) : ce ne sont que des murs porteurs du Monde duel. Dans le Royaume UN, ces murs n'existent tout simplement plus (*ouk eni*). \n\nPaul clôture par un mantra métaphysique absolu : *Panta kai en pasin Christos*. Christ n'est pas une entité religieuse parmi d'autres ; Il est le Champ Unifié. Il est 'Tout', et Il palpite 'à l'intérieur de tous'. C'est la disparition totale de la frontière entre le Moi et l'Autre dans l'Océan de la Présence."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 9 - ἀπεκδυσάμενοι : 'Vous étant dépouillés'. La traduction adoucit la violence clinique du terme grec. *Apo-ek-dyo* c'est littéralement arracher de soi et jeter au loin. Ce n'est pas une simple réforme morale où l'on changerait de chemise, c'est un écorchement de la fausse identité (le vieil homme).\n• Verset 10 - ἀνακαινούμενον : Traduit par 'qui se renouvelle'. Le mouvement ascendant de l'*ana-* est perdu. Le Sujet ne tourne pas en rond en se 'rafraîchissant', il est aspiré vers le haut, vers la forme inédite (*kainos*) de l'Esprit.\n\nAnalyse spirituelle :\nCette péricope orchestre le grand dépouillement et dévoile le sommet métaphysique de la Non-Dualité paulinienne.\n\nAprès avoir ordonné l'exécution des 'membres terrestres' (l'impureté, la cupidité), Paul s'attaque ici à l'émission vibratoire de l'Ego : la parole. La colère, la calomnie et le mensonge (*pseudos*) ne sont pas de simples défauts éthiques ; ce sont les outils dont se sert la fausse identité ('le Vieil Homme') pour baliser son territoire duel et écraser l'autre. Le mensonge maintient la matrice en place.\n\nPour atteindre la libération, il faut opérer la grande kénose spatiale : arracher la peau morte de cette identité de survie (*apekdysamenoi*) pour revêtir instantanément l'Homme Nouveau (*endysamenoi*). Cet Homme Nouveau n'est pas un Ego amélioré, c'est l'Émergence du Sujet divin. Il ne fonctionne plus selon la logique de l'accumulation horizontale, mais par l'élévation vibratoire (*ana-kainoo*), recevant l'illumination directe (*epi-gnosis*) qui le reconnecte au fractal originel de la Création (l'*Eikon*, l'Image de Dieu).\n\nLe vertige s'empare du texte au verset 11. Dès lors que l'illusion de l'Ego est arrachée, toutes les catégories de séparation qui structurent l'humanité s'effondrent d'elles-mêmes. Religieuses (Juif/Grec), rituelles (circoncis/incirconcis), ethniques (Barbare/Scythe), ou sociales (esclave/libre) : ce ne sont que des murs porteurs du Monde duel. Dans le Royaume UN, ces murs n'existent tout simplement plus (*ouk eni*). \n\nPaul clôture par un mantra métaphysique absolu : *Panta kai en pasin Christos*. Christ n'est pas une entité religieuse parmi d'autres ; Il est le Champ Unifié. Il est 'Tout', et Il palpite 'à l'intérieur de tous'. C'est la disparition totale de la frontière entre le Moi et l'Autre dans l'Océan de la Présence.",
+    "homiletic_axes": [
+      {
+        "title": "De la purification au salut",
+        "content": "Les dix sont purifiés en chemin, mais un seul entend dans la rencontre avec le Christ : « ta foi t’a sauvé ». L’Évangile distingue ainsi le don reçu et la relation retrouvée ; l’Apôtre décrit cette relation comme une vie nouvelle manifestée avec le Christ.",
+        "keywords": [
+          "καθαρίζω — purifier",
+          "σῴζω — sauver",
+          "ζωή — vie"
+        ]
+      },
+      {
+        "title": "Revenir pour rendre grâce",
+        "content": "Le Samaritain revient en glorifiant Dieu et tombe aux pieds de Jésus. Son retour transforme la guérison en action de grâce : le mouvement du corps devient une orientation du cœur.",
+        "keywords": [
+          "ὑποστρέφω — revenir",
+          "εὐχαριστέω — rendre grâce",
+          "πίπτω — tomber"
+        ]
+      },
+      {
+        "title": "Se relever et revêtir l’homme nouveau",
+        "content": "Jésus dit au Samaritain de se relever ; Paul demande de dépouiller le vieil homme et de revêtir le nouveau, continuellement renouvelé selon l’image du Créateur. Le relèvement reçu ouvre une manière nouvelle de vivre.",
+        "keywords": [
+          "ἀνίστημι — se relever",
+          "ἀπεκδύομαι — se dépouiller",
+          "ἀνακαινόω — renouveler"
+        ]
+      },
+      {
+        "title": "L’étranger et l’humanité réconciliée",
+        "content": "Celui qui revient est désigné comme étranger. En Colossiens, les séparations ethniques, religieuses et sociales sont dépassées parce que le Christ est tout et en tous : la gratitude rend visible cette communion.",
+        "keywords": [
+          "ἀλλογενής — étranger",
+          "εἰκών — image",
+          "πάντα καὶ ἐν πᾶσιν Χριστός — Christ tout et en tous"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Du don reçu à la communion retrouvée",
+        "reference": "Luc 17, 12-19 ; Colossiens 3, 4-11",
+        "content": "Le Samaritain ne s’arrête pas à la purification : il revient vers le Christ. Paul nomme la profondeur de ce retour comme dépouillement du vieil homme, renouvellement selon l’image du Créateur et communion où le Christ est tout en tous.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Les dix lépreux » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, les déplacements et les oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que le Christ donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
   }
 }

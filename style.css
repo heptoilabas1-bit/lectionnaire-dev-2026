@@ -45,7 +45,7 @@ main {
 }
 
 #main-content {
-    max-width: 100%; 
+    max-width: 100%;
     width: 100%;
 }
 
@@ -208,57 +208,57 @@ main {
     border-top: 4px solid var(--primary-color);
 }
 
-#my-notes { 
-    font-family: var(--font-serif); 
-    line-height: 1.6; 
+#my-notes {
+    font-family: var(--font-serif);
+    line-height: 1.6;
 }
 
 /* ------------------------------------------- */
 /* 5. PANNEAUX LATÉRAUX                        */
 /* ------------------------------------------- */
 
-#side-panels { 
-    position: fixed; 
-    top: 0; 
-    left: 0; 
-    width: 0; 
-    height: 0; 
-    z-index: 100; 
+#side-panels {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+    z-index: 100;
 }
 
 .side-panel {
-    position: fixed; 
-    top: 0; 
-    right: 0; 
-    width: 450px; 
-    max-width: 90%; 
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 450px;
+    max-width: 90%;
     height: 100%;
-    background: white; 
-    box-shadow: -5px 0 15px rgba(0,0,0,0.2); 
+    background: white;
+    box-shadow: -5px 0 15px rgba(0,0,0,0.2);
     padding: 25px;
-    overflow-y: auto; 
-    z-index: 110; 
+    overflow-y: auto;
+    z-index: 110;
     transition: transform 0.3s ease-in-out;
 }
 
-.side-panel.hidden { 
-    transform: translateX(100%); 
+.side-panel.hidden {
+    transform: translateX(100%);
 }
 
-.side-panel pre { 
-    white-space: pre-wrap; 
-    font-family: var(--font-serif); 
-    line-height: 1.8; 
+.side-panel pre {
+    white-space: pre-wrap;
+    font-family: var(--font-serif);
+    line-height: 1.8;
 }
 
 .close-btn {
-    position: absolute; 
-    top: 15px; 
-    right: 15px; 
-    background: none; 
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: none;
     border: none;
-    font-size: 1.5em; 
-    cursor: pointer; 
+    font-size: 1.5em;
+    cursor: pointer;
     color: #888;
 }
 
@@ -270,6 +270,550 @@ main {
 .mot-info:hover {
     background-color: #ffeaa7; /* Jaune pâle au survol */
     cursor: pointer;
+}
+
+#controls {
+    width: min(100%, 650px);
+}
+.selection-title { margin: 0 0 5px; font-size: .9rem; font-weight: 700; }
+.selection-modes {
+    display: inline-flex;
+    padding: 3px;
+    border: 1px solid rgba(255, 255, 255, .55);
+    border-radius: 999px;
+    background: rgba(28, 54, 88, .2);
+}
+.selection-mode {
+    min-height: 34px;
+    padding: 6px 14px;
+    border: 0;
+    border-radius: 999px;
+    background: transparent;
+    color: #fff;
+    font: 700 .84rem Arial, sans-serif;
+    cursor: pointer;
+}
+.selection-mode.active { background: #fff; color: #263c5a; }
+.selection-mode:focus-visible { outline: 3px solid #f5d37a; outline-offset: 2px; }
+.selection-panel {
+    display: grid;
+    grid-template-columns: minmax(190px, 250px) minmax(250px, 390px);
+    gap: 5px 10px;
+    align-items: center;
+    margin-top: 9px;
+}
+.selection-panel[hidden] { display: none; }
+.theme-panel { margin-top: 9px; }
+.theme-panel[hidden] { display: none; }
+.theme-panel > label { display: block; margin-bottom: 5px; font-size: .82rem; font-weight: 700; }
+.selection-panel > label:first-child { grid-column: 1 / -1; font-size: .82rem; font-weight: 700; }
+#sunday-search,
+#theme-search,
+#sunday-select,
+#calendar-select, #calendar-year-select {
+    min-height: 40px;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, .6);
+    border-radius: 5px;
+    background: #fff;
+    color: #263c5a;
+    font: .92rem Arial, sans-serif;
+}
+#sunday-search { padding: 8px 11px; }
+#theme-search { width: 100%; padding: 8px 11px; }
+#sunday-select,
+#calendar-select, #calendar-year-select { padding: 7px 9px; }
+.theme-filters {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    margin-top: 8px;
+}
+.theme-filters label {
+    display: grid;
+    gap: 4px;
+    color: #fff;
+    font-size: .78rem;
+    font-weight: 700;
+}
+.theme-filters select {
+    width: 100%;
+    min-height: 40px;
+    box-sizing: border-box;
+    padding: 7px 9px;
+    border: 1px solid rgba(255, 255, 255, .72);
+    border-radius: 5px;
+    background: #fff;
+    color: #263c5a;
+    font: .9rem Arial, sans-serif;
+}
+.search-status { grid-column: 1 / -1; min-height: 1.2em; font-size: .76rem; opacity: .9; }
+.theme-suggestions { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.theme-suggestions button {
+    min-height: 34px;
+    padding: 6px 11px;
+    border: 1px solid #9d8244;
+    border-radius: 999px;
+    background: #f3ead4;
+    color: #43141b;
+    font-weight: 700;
+    cursor: pointer;
+}
+.theme-suggestions button:hover, .theme-suggestions button:focus-visible {
+    border-color: #4b1018;
+    background: #4b1018;
+    color: #fff;
+    outline: 2px solid #d2b76f;
+    outline-offset: 2px;
+}
+.theme-panel .search-status { display: block; margin: 7px 0 4px; }
+.theme-results { display: grid; gap: 8px; max-height: 380px; overflow: auto; padding-right: 5px; }
+.theme-result {
+    padding: 11px 12px;
+    border-radius: 6px;
+    background: #fff;
+    color: #302b25;
+    box-shadow: 0 2px 6px rgba(20, 34, 50, .16);
+}
+.theme-result h4 { margin: 2px 0; color: #671717; font: 700 1rem Georgia, serif; }
+.theme-result p { margin: 4px 0; font-size: .84rem; line-height: 1.42; }
+.theme-result-context { color: #496b94; font-weight: 700; }
+.theme-result-sunday { color: #625c53; font-style: italic; }
+.theme-result-keywords { color: #6b511f; }
+.theme-result button { margin-top: 6px; padding: 7px 11px; border: 0; border-radius: 4px; background: #496b94; color: #fff; font-weight: 700; cursor: pointer; }
+.theme-results-limit { margin: 0; padding: 8px; color: #4b1018; font-size: .82rem; font-weight: 700; }
+#calendar-select { grid-column: 1 / -1; }
+.calendar-year-control {
+    grid-column: 1 / -1;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 7px 10px;
+}
+.calendar-year-control label { color: #4b1018; font-size: .8rem; font-weight: 800; }
+#calendar-year-select { min-width: 15rem; max-width: 100%; border-color: #b9a26b; background: #fff; color: #28231d; font-weight: 700; }
+.calendar-status { grid-column: 1 / -1; min-height: 1.2em; font-size: .76rem; opacity: .9; }
+.calendar-status a { color: inherit; }
+.calendar-legend {
+    grid-column: 1 / -1;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px 16px;
+    font-size: .78rem;
+    font-weight: 700;
+}
+.calendar-legend[hidden] { display: none; }
+.calendar-state-linked { color: #dff3d9; }
+.calendar-state-pending { color: #ffe0ad; }
+#calendar-select .calendar-option-linked { color: #245c38; }
+#calendar-select .calendar-option-pending { color: #7a3d18; }
+.calendar-reading-note {
+    grid-column: 1 / -1;
+    margin: 2px 0 0;
+    padding: 8px 10px;
+    border-left: 3px solid #e5c06b;
+    background: rgba(255, 255, 255, .12);
+    font-size: .78rem;
+    line-height: 1.35;
+}
+.calendar-pending {
+    padding: 18px;
+    border: 1px solid #e7d6ab;
+    border-radius: 6px;
+    background: #fffaf0;
+    color: #62543a;
+}
+.visually-hidden {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+}
+
+.mot-racine { color: #7b3fa1 !important; border-bottom-color: #7b3fa1 !important; }
+.mot-repetition { color: #1c718a !important; border-bottom-color: #1c718a !important; }
+.mot-traduction { color: #b05d16 !important; border-bottom-color: #b05d16 !important; }
+.mot-theologie { color: #8b1e1e !important; border-bottom-color: #8b1e1e !important; }
+
+.annotation-help {
+    margin: 14px 0 18px;
+    padding: 12px 14px;
+    border-left: 3px solid #8b6b2f;
+    background: #fffaf0;
+}
+.annotation-help > strong { color: #263c5a; }
+.annotation-help > p { margin: 3px 0 9px; color: #625c53; font-size: .9rem; }
+.annotation-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 15px;
+    margin: 0;
+    color: #625c53;
+    font-size: .78rem;
+}
+.annotation-legend span { display: inline-flex; align-items: center; gap: 5px; }
+.legend-dot { width: 9px; height: 9px; border-radius: 50%; background: #d35400; }
+.legend-dot.root { background: #7b3fa1; }
+.legend-dot.repetition { background: #1c718a; }
+.legend-dot.translation { background: #b05d16; }
+.legend-dot.theology { background: #8b1e1e; }
+.legend-dot.analysis { background: #d35400; }
+
+.homiletic-axes {
+    margin-top: 24px;
+    padding-top: 18px;
+    border-top: 1px solid #d8caa8;
+}
+.homiletic-axes[hidden] { display: none; }
+.homiletic-axes h4 { margin: 0 0 12px; color: #671717; }
+#homiletic-axes-list { display: grid; gap: 12px; }
+.homiletic-axis {
+    padding: 14px 16px;
+    border-left: 4px solid #8b6b2f;
+    border-radius: 4px;
+    background: #fffaf0;
+}
+.homiletic-axis h5 { margin: 0 0 7px; color: #263c5a; font-size: 1rem; }
+.homiletic-axis p { margin: 0; line-height: 1.55; }
+.homiletic-axis .axis-keywords {
+    margin-top: 8px;
+    color: #8b1e1e;
+    font-size: .84rem;
+    font-weight: 600;
+}
+.liturgical-echoes {
+    margin-top: 24px;
+    padding-top: 18px;
+    border-top: 1px solid #b9c8d8;
+}
+.liturgical-echoes[hidden] { display: none; }
+.liturgical-echoes h4 { margin: 0 0 5px; color: #263c5a; }
+.liturgical-echoes-intro { margin: 0 0 12px; color: #625c53; font-size: .9rem; }
+#liturgical-echoes-list { display: grid; gap: 12px; }
+.liturgical-echo {
+    padding: 14px 16px;
+    border-left: 4px solid #496b94;
+    border-radius: 4px;
+    background: #f4f8fc;
+}
+.liturgical-echo h5 { margin: 0 0 5px; color: #263c5a; font-size: 1rem; }
+.liturgical-echo p { margin: 0; line-height: 1.55; }
+.liturgical-echo-reference { margin-bottom: 8px !important; color: #671717; font-size: .84rem; font-weight: 600; }
+.liturgical-echo ul { margin: 10px 0 0; padding-left: 20px; line-height: 1.55; }
+.liturgical-echo li + li { margin-top: 6px; }
+.axis-add-button,
+.dialog-add-button {
+    margin-top: 12px;
+    padding: 8px 12px;
+    border: 1px solid #8b6b2f;
+    border-radius: 5px;
+    background: #fff;
+    color: #5f451b;
+    font: inherit;
+    font-size: .88rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+.axis-add-button:hover,
+.axis-add-button:focus-visible,
+.dialog-add-button:hover,
+.dialog-add-button:focus-visible {
+    background: #fff4d8;
+    outline: 2px solid transparent;
+}
+.dialog-add-button { margin-top: 18px; }
+
+.analysis-dialog {
+    width: min(620px, calc(100vw - 32px));
+    max-height: min(78vh, 720px);
+    box-sizing: border-box;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding: 26px;
+    border: 1px solid #bda978;
+    border-radius: 10px;
+    background: #fffdf7;
+    color: #27231d;
+    box-shadow: 0 18px 60px rgba(0, 0, 0, .28);
+}
+
+.analysis-dialog::backdrop { background: rgba(24, 20, 16, .62); }
+.analysis-dialog h3 { margin: 4px 35px 14px 0; color: #671717; }
+.analysis-dialog-type {
+    margin: 0;
+    color: #8b6b2f;
+    font-size: .78rem;
+    font-weight: bold;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+.analysis-dialog-content { white-space: pre-line; line-height: 1.65; }
+.analysis-dialog-related, .analysis-dialog-source {
+    margin-top: 16px;
+    padding-top: 12px;
+    border-top: 1px solid #e0d8c7;
+    color: #5c554a;
+    font-size: .9rem;
+}
+.analysis-dialog-close {
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    width: 44px;
+    height: 44px;
+    border: 0;
+    background: transparent;
+    color: #671717;
+    font-size: 1.8rem;
+    cursor: pointer;
+}
+
+.homily-workspace {
+    margin-top: 28px;
+    padding: 24px;
+    border: 1px solid #cdbd98;
+    border-radius: 8px;
+    background: #fffdf7;
+    box-shadow: 0 5px 20px rgba(64, 48, 24, .09);
+}
+.homily-workspace[hidden] { display: none; }
+.homily-workspace-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 18px;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+.homily-workspace-header h3 { margin: 3px 0; color: #671717; }
+.homily-reading-context {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+    margin: 0 0 22px;
+}
+.homily-reading-card {
+    padding: 15px;
+    border: 1px solid #d7c9aa;
+    border-top: 4px solid #496b94;
+    border-radius: 7px;
+    background: #fff;
+}
+.homily-reading-card-apostle { border-top-color: #8b6b2f; }
+.homily-reading-label { margin: 0 0 4px; color: #75644b; font-size: .78rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+.homily-reading-card h4 { margin: 0 0 10px; color: #263c5a; font-size: 1rem; }
+.homily-reading-card summary { color: #671717; cursor: pointer; font-weight: 700; }
+.homily-reading-card details + details { margin-top: 10px; }
+.homily-reading-text { max-height: 230px; overflow: auto; color: #38322b; line-height: 1.55; }
+.homily-interlinear {
+    max-height: 430px;
+    margin-top: 10px;
+    padding: 10px;
+    overflow: auto;
+    border: 1px solid #e1d8c7;
+    border-radius: 5px;
+    background: #fffdf8;
+}
+.homily-interlinear-verse { display: grid; grid-template-columns: 30px minmax(0, 1fr); gap: 6px; padding: 10px 0; border-bottom: 1px solid #ebe4d8; }
+.homily-interlinear-verse:last-child { border-bottom: 0; }
+.homily-interlinear-number { color: #8b6b2f; font-weight: 700; }
+.homily-interlinear-words { display: flex; flex-wrap: wrap; gap: 10px 8px; align-items: flex-start; }
+.homily-interlinear-word { display: inline-flex; flex-direction: column; align-items: center; line-height: 1.2; }
+.homily-interlinear-word .greek-word { font-size: 1rem; }
+.homily-interlinear-word .inter-gloss { max-width: 120px; font-size: .76rem; text-align: center; }
+.homily-reading-use { margin-top: 8px; border: 0; background: transparent; color: #496b94; font-weight: 700; cursor: pointer; }
+.workspace-kicker {
+    margin: 0;
+    color: #8b6b2f;
+    font-size: .78rem;
+    font-weight: 700;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+.homily-save-status { margin: 6px 0 0; color: #696157; font-size: .85rem; }
+.homily-progress { margin-top: 12px; max-width: 390px; color: #5d5549; font-size: .82rem; }
+.homily-progress > span { display: block; }
+.homily-oral-length { margin-top: 3px; color: #756d62; }
+.homily-progress-bar {
+    height: 7px;
+    margin-top: 5px;
+    overflow: hidden;
+    border-radius: 999px;
+    background: #e7dfcf;
+}
+.homily-progress-bar span {
+    display: block;
+    width: 0;
+    height: 100%;
+    border-radius: inherit;
+    background: #8b6b2f;
+    transition: width .2s ease;
+}
+.close-homily {
+    border: 0;
+    background: transparent;
+    color: #671717;
+    font-size: 1.8rem;
+    cursor: pointer;
+}
+.homily-fields { display: grid; gap: 24px; }
+.homily-draft-manager {
+    display: grid;
+    grid-template-columns: auto minmax(180px, 1fr) repeat(4, auto);
+    gap: 8px;
+    align-items: center;
+    margin: 0 0 20px;
+    padding: 12px;
+    border: 1px solid #d8cfbe;
+    border-radius: 7px;
+    background: rgba(255, 255, 255, .72);
+}
+.homily-draft-manager label { color: #625c53; font-size: .86rem; font-weight: 700; }
+.homily-draft-manager select,
+.homily-draft-manager button { min-height: 38px; border: 1px solid #cfc6b4; border-radius: 5px; background: #fff; color: #263c5a; }
+.homily-draft-manager select { width: 100%; padding: 7px 9px; font-weight: 700; }
+.homily-draft-manager button { padding: 7px 10px; cursor: pointer; }
+.homily-draft-manager button:disabled { opacity: .45; cursor: not-allowed; }
+.homily-library-dialog { width: min(760px, calc(100% - 32px)); max-height: 82vh; padding: 26px; border: 0; border-radius: 10px; box-shadow: 0 18px 55px rgba(32, 26, 20, .28); }
+.homily-library-dialog::backdrop { background: rgba(32, 26, 20, .52); }
+.homily-library-dialog h3 { margin: 2px 42px 6px 0; color: #671717; font-size: 1.55rem; }
+.homily-library-intro { margin: 0 0 18px; color: #625c53; }
+.homily-library-tools { display: grid; grid-template-columns: minmax(0, 1fr) minmax(150px, .45fr); gap: 12px; margin-bottom: 6px; }
+.homily-library-tools label { display: grid; gap: 5px; color: #625c53; font-size: .86rem; font-weight: 700; }
+.homily-library-tools input,
+.homily-library-tools select { min-height: 42px; width: 100%; box-sizing: border-box; padding: 8px 10px; border: 1px solid #cfc6b4; border-radius: 5px; background: #fff; color: #263c5a; font: inherit; }
+.homily-library-tools input:focus,
+.homily-library-tools select:focus { border-color: #8b6b2f; outline: 3px solid rgba(139, 107, 47, .14); }
+.homily-library-count { margin: 8px 0 12px; color: #756d62; font-size: .86rem; }
+.homily-library-list { display: grid; gap: 10px; overflow: auto; max-height: 58vh; padding-right: 3px; }
+.homily-library-card { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px; align-items: center; padding: 14px 16px; border: 1px solid #ded5c3; border-left: 4px solid #8b6b2f; border-radius: 7px; background: #fffdf8; }
+.homily-library-card h4 { margin: 0 0 3px; color: #263c5a; }
+.homily-library-pericope { margin: 0; color: #3e3932; }
+.homily-library-meta { margin: 5px 0 0; color: #756d62; font-size: .82rem; }
+.homily-library-empty { padding: 22px; border: 1px dashed #cfc6b4; border-radius: 7px; color: #625c53; text-align: center; }
+.proclamation-dialog { width: min(980px, 100%); max-width: none; height: 100%; max-height: none; margin: 0; padding: 0; border: 0; background: #f7f3e9; color: #26221d; }
+.proclamation-dialog::backdrop { background: #f7f3e9; }
+.proclamation-toolbar { position: sticky; top: 0; z-index: 2; display: grid; grid-template-columns: auto 1fr auto auto; gap: 14px; align-items: center; padding: 10px 18px; border-bottom: 1px solid #d8cfbe; background: rgba(255, 253, 248, .97); }
+.proclamation-font-tools,
+.proclamation-timer { display: flex; gap: 8px; align-items: center; }
+.proclamation-timer { justify-self: center; }
+.proclamation-toolbar button { min-height: 38px; padding: 7px 11px; border: 1px solid #cfc6b4; border-radius: 5px; background: #fff; color: #263c5a; cursor: pointer; }
+.proclamation-time,
+#proclamation-time { min-width: 4.7em; color: #671717; font: 700 1.1rem/1.2 ui-monospace, monospace; text-align: center; }
+.proclamation-close { border: 0 !important; background: transparent !important; color: #671717 !important; font-size: 1.7rem; }
+.proclamation-page { width: min(780px, calc(100% - 40px)); margin: 0 auto; padding: 42px 0 16vh; }
+.proclamation-page h3 { margin: 4px 0 6px; color: #671717; font-size: clamp(1.45rem, 4vw, 2.1rem); }
+.proclamation-reference { margin: 0 0 34px; color: #625c53; }
+.proclamation-text { font-family: Georgia, serif; line-height: 1.78; white-space: pre-wrap; overflow-wrap: anywhere; }
+.homily-phase {
+    padding: 18px;
+    border: 1px solid #ded5c3;
+    border-radius: 7px;
+    background: rgba(255, 255, 255, .62);
+}
+.homily-phase h4 { margin: 0; color: #671717; font-size: 1.05rem; }
+.homily-phase-description { margin: 4px 0 16px; color: #625c53; font-size: .9rem; }
+.homily-phase-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.homily-phase-inspiration { border-left: 4px solid #496b94; }
+.homily-phase-gestation { border-left: 4px solid #8b6b2f; }
+.homily-phase-expiration { border-left: 4px solid #8b1e1e; }
+.homily-phase-expiration .homily-phase-grid { grid-template-columns: 1fr; }
+.homily-field-final {
+    grid-column: 1 / -1;
+}
+.homily-field-final label { color: #671717; font-size: 1.08rem; }
+.homily-field-final textarea { min-height: 320px; }
+.oral-review {
+    margin-top: 22px;
+    padding: 14px 16px;
+    border: 1px solid #d8cfbe;
+    border-radius: 7px;
+    background: #fff;
+}
+.oral-review summary { color: #263c5a; font-weight: 700; cursor: pointer; }
+.oral-review summary span { color: #756d62; font-size: .85rem; font-weight: 400; }
+.oral-review > p { margin: 10px 0; color: #625c53; font-size: .9rem; }
+.oral-review-list { display: grid; gap: 9px; }
+.oral-review-list label { display: flex; gap: 9px; align-items: flex-start; line-height: 1.4; }
+.oral-review-list input { margin-top: .22em; accent-color: #8b6b2f; }
+.homily-field label {
+    display: block;
+    margin-bottom: 4px;
+    color: #263c5a;
+    font-weight: 700;
+}
+.homily-step-toolbar { display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; gap: 8px; align-items: center; margin-bottom: 8px; }
+.homily-step-choice { display: flex !important; gap: 6px; align-items: center; margin: 0 !important; color: #625c53 !important; font-size: .86rem; }
+.homily-step-choice input { accent-color: #8b6b2f; }
+.homily-step-title { width: 100%; padding: 7px 9px; border: 1px solid #cfc6b4; border-radius: 4px; color: #263c5a; background: #fff; font-weight: 700; }
+.homily-step-move { width: 34px; height: 34px; border: 1px solid #cfc6b4; border-radius: 4px; background: #fff; color: #5b5144; cursor: pointer; }
+.homily-step-disabled { opacity: .62; }
+.homily-step-disabled textarea, .homily-step-disabled .homily-prompt { display: none; }
+.add-homily-step { margin-top: 14px; padding: 10px 14px; border: 1px dashed #8b6b2f; border-radius: 5px; background: transparent; color: #6b511f; font-weight: 700; cursor: pointer; }
+.homily-prompt { margin: 0 0 8px; color: #625c53; font-size: .9rem; white-space: pre-line; }
+.homily-field textarea {
+    width: 100%;
+    min-height: 110px;
+    padding: 12px;
+    box-sizing: border-box;
+    resize: vertical;
+    border: 1px solid #cfc6b4;
+    border-radius: 5px;
+    background: #fff;
+    color: #26221d;
+    font: 1rem/1.55 Georgia, serif;
+}
+.homily-field textarea:focus {
+    border-color: #8b6b2f;
+    outline: 3px solid rgba(139, 107, 47, .14);
+}
+.homily-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 22px;
+    padding-top: 18px;
+    border-top: 1px solid #ddd2ba;
+}
+.tool-btn.secondary { background: #5b6572; }
+.tool-btn.outline-btn { background: #8b6b2f; }
+.tool-btn.danger { margin-left: auto; background: #8b1e1e; }
+
+@media (max-width: 640px) {
+    .theme-filters { grid-template-columns: 1fr; }
+    .analysis-dialog {
+        width: calc(100vw - 16px);
+        max-height: calc(100vh - 16px);
+        max-height: calc(100dvh - 16px);
+        padding: 22px 18px 18px;
+        border-radius: 8px;
+    }
+    .analysis-dialog h3 {
+        margin-right: 42px;
+        font-size: 1.15rem;
+        line-height: 1.3;
+    }
+    .analysis-dialog-content { font-size: 1rem; line-height: 1.6; }
+    .dialog-add-button { width: 100%; min-height: 44px; }
+    .homily-workspace { padding: 17px; }
+    .homily-reading-context { grid-template-columns: 1fr; }
+    .homily-step-toolbar { grid-template-columns: auto minmax(0, 1fr) auto auto; }
+    .tool-btn.danger { margin-left: 0; }
+    .homily-draft-manager { grid-template-columns: 1fr 1fr; }
+    .homily-draft-manager label, .homily-draft-manager select { grid-column: 1 / -1; }
+    .homily-library-card { grid-template-columns: 1fr; }
+    .homily-library-card .tool-btn { width: 100%; }
+    .homily-library-tools { grid-template-columns: 1fr; }
+    .proclamation-toolbar { grid-template-columns: auto 1fr auto auto; gap: 7px; padding: 8px 10px; }
+    .proclamation-timer { justify-self: end; }
+    .proclamation-timer button { font-size: 0; }
+    #proclamation-timer-toggle::after { content: '▶/Ⅱ'; font-size: .9rem; }
+    #proclamation-timer-reset::after { content: '↺'; font-size: 1.1rem; }
+    .proclamation-page { width: min(100% - 28px, 780px); padding-top: 30px; }
 }
 
 #bulle-info {
@@ -284,13 +828,94 @@ main {
 /* Nouvelle catégorie : Racine ou bout de mot encadré (injecté via le JSON) */
 .encadre {
     border: 1px solid #555; /* Un cadre gris fin */
-    border-radius: 3px; 
-    padding: 0 2px; 
-    background-color: rgba(0, 0, 0, 0.03); 
-    display: inline-block; 
+    border-radius: 3px;
+    padding: 0 2px;
+    background-color: rgba(0, 0, 0, 0.03);
+    display: inline-block;
 }
 /* Responsive Mobile */
 @media (max-width: 768px) {
+    .homily-phase-grid { grid-template-columns: 1fr; }
     header { flex-direction: column; text-align: center; }
-    .side-panel { width: 100%; }
+    #controls { width: 100%; margin-top: 12px; text-align: left; }
+    .selection-panel { grid-template-columns: 1fr; }
+    .selection-panel > label:first-child,
+    .search-status { grid-column: 1; }
+.side-panel { width: 100%; }
+}
+
+
+/* Refonte visuelle finale — identité byzantine orthodoxe */
+:root {
+    --primary-color: #4b1018;
+    --secondary-color: #c7a75b;
+    --accent-color: #8a1f2c;
+    --background-color: #f3efe5;
+    --text-color: #28231d;
+    --ink-blue: #1f3048;
+    --gold: #c7a75b;
+    --gold-pale: #eadcae;
+    --ivory: #fffdf7;
+    --font-serif: Georgia, 'Times New Roman', serif;
+    --font-sans: Inter, 'Segoe UI', Arial, sans-serif;
+}
+body { background: linear-gradient(180deg, #ece5d5 0, #f7f4ec 340px, #f3efe5 100%); }
+header {
+    position: relative;
+    align-items: stretch;
+    gap: 36px;
+    padding: 24px clamp(20px, 4vw, 54px);
+    overflow: hidden;
+    background: linear-gradient(135deg, #220910 0%, #4b1018 52%, #1f3048 100%);
+    border-bottom: 3px solid var(--gold);
+    box-shadow: 0 8px 30px rgba(32, 14, 16, .22);
+}
+header::after { content: ''; position: absolute; inset: 0; pointer-events: none; opacity: .18; background: radial-gradient(circle at 18% 30%, #d8bb6a 0 1px, transparent 2px) 0 0 / 26px 26px; }
+.app-brand { position: relative; z-index: 1; display: flex; align-items: center; min-width: min(500px, 44vw); }
+.app-cross { width: 92px; height: 92px; object-fit: contain; flex: 0 0 auto; filter: drop-shadow(0 4px 9px rgba(0,0,0,.34)); }
+#app-title { color: #fffdf7; font-size: clamp(1.55rem, 3vw, 2.35rem); line-height: 1.08; letter-spacing: .01em; text-shadow: 0 2px 3px rgba(0,0,0,.25); }
+#controls { position: relative; z-index: 1; width: min(680px, 52vw); }
+.selection-title { color: #eadcae; letter-spacing: .08em; text-transform: uppercase; }
+.selection-modes { padding: 4px; border: 1px solid rgba(234,220,174,.35); border-radius: 10px; background: rgba(18,11,16,.28); }
+.selection-mode { min-height: 40px; border-radius: 7px; color: #f7efd5; font-weight: 700; }
+.selection-mode.active { color: #3b1118; background: linear-gradient(#fffdf7, #eadcae); box-shadow: 0 3px 10px rgba(0,0,0,.24); }
+.selection-panel, .theme-panel { border-color: rgba(234,220,174,.46); background: rgba(255,253,247,.97); color: #28231d; box-shadow: 0 5px 18px rgba(0,0,0,.14); }
+main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
+#main-content { max-width: 1180px; }
+.version-tools, .text-tools { padding: 10px 12px; border: 1px solid #d8ccb0; border-radius: 10px; background: rgba(255,253,247,.88); box-shadow: 0 3px 12px rgba(55,40,28,.06); }
+.tool-btn, .pdf-btn, .version-btn { min-height: 40px; border-radius: 7px; font-weight: 700; }
+.tool-btn { border-color: #bda665; color: #4b1018; background: linear-gradient(#fffefa, #f5edd7); box-shadow: 0 2px 5px rgba(47,31,20,.08); }
+.tool-btn:hover { border-color: #8a6b29; color: #fff; background: #4b1018; transform: translateY(-1px); }
+.tool-btn.secondary { border-color: #48566a; color: #fff; background: #39495f; }
+.tool-btn.secondary:hover { background: #1f3048; }
+.tool-btn.outline-btn { border-color: #a88332; color: #fff; background: #80621f; }
+.tool-btn.outline-btn:hover { background: #624817; }
+.tool-btn.danger { color: #fff; background: #7e2029; border-color: #68151e; }
+.version-btn.active { background: #4b1018; border-color: #4b1018; }
+#text-selector { display: grid; grid-template-columns: 1fr 1fr; width: min(520px, 100%); margin: 18px auto; padding: 5px; border: 1px solid #cdbb91; border-radius: 12px; background: #e6ddc8; box-shadow: inset 0 1px 3px rgba(53,36,21,.12); }
+#text-selector button { min-height: 48px; border: 0; border-radius: 8px; color: #5d5142; background: transparent; font-size: 1rem; font-weight: 800; letter-spacing: .04em; cursor: pointer; }
+#text-selector button.active { color: #fff; box-shadow: 0 4px 12px rgba(31,24,20,.18); }
+#select-gospel.active { background: linear-gradient(135deg, #243c5b, #17283f); }
+#select-apostle.active { background: linear-gradient(135deg, #8b6b2f, #6d4e17); }
+.interlinear-container, .analysis-panel, .homily-workspace { border: 1px solid #ded2b8; border-radius: 11px; box-shadow: 0 9px 28px rgba(57,39,23,.08); }
+.analysis-panel { border-top: 5px solid #4b1018; }
+#verse-title { color: #4b1018; font-family: var(--font-serif); text-align: center; }
+.homily-actions { display: grid; grid-template-columns: 1.35fr .9fr 1fr auto; gap: 12px; align-items: stretch; }
+.homily-action-group { padding: 12px; border: 1px solid #d8ccb0; border-radius: 8px; background: #fffdf7; }
+.homily-action-group > span { display: block; margin-bottom: 8px; color: #7a632d; font-size: .72rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.homily-action-group > div { display: flex; flex-wrap: wrap; gap: 7px; }
+.homily-action-group .tool-btn { flex: 1 1 auto; padding: 8px 11px; white-space: nowrap; }
+.homily-actions > .danger { align-self: end; margin: 0; white-space: nowrap; }
+footer { padding: 22px; color: #eadcae; text-align: center; background: #281018; border-top: 2px solid #b59546; }
+@media (max-width: 980px) {
+    header { flex-direction: column; gap: 18px; }
+    .app-brand, #controls { width: 100%; min-width: 0; }
+    .homily-actions { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 640px) {
+    header { padding: 18px 14px; }
+    .app-cross { width: 72px; height: 72px; }
+    .selection-modes { display: grid; grid-template-columns: 1fr; }
+    .homily-actions { grid-template-columns: 1fr; }
+    .homily-actions > .danger { width: 100%; }
 }

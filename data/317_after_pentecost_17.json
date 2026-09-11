@@ -10,18 +10,55 @@
           "darby": "Et Jésus, étant parti de là, se retira dans les quartiers de Tyr et de Sidon."
         },
         "interlinear": [
-          { "greek": "Καὶ", "gloss": "Et" },
-          { "greek": "ἐξελθὼν", "gloss": "étant_sorti" },
-          { "greek": "ἐκεῖθεν", "gloss": "de_là" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ἀνεχώρησεν", "gloss": "se_retira/s'éloigna", "analyse": "Composé du préfixe *ana-* (mouvement vers le haut, retour à la source, intensification) et du verbe *choreo* (se déplacer, faire de la place). Spirituellement, ce retrait n'est pas une fuite horizontale, mais une 'anachorèse' : une élévation verticale hors des débats conflictuels de la Galilée pour ouvrir un espace de Grâce aux confins du monde païen." },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "μέρη", "gloss": "quartiers/régions" },
-          { "greek": "Τύρου", "gloss": "de_Tyr" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "Σιδῶνος.", "gloss": "de_Sidon" }
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐξελθὼν",
+            "gloss": "étant_sorti"
+          },
+          {
+            "greek": "ἐκεῖθεν",
+            "gloss": "de_là"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἀνεχώρησεν",
+            "gloss": "se_retira/s'éloigna",
+            "analyse": "Composé du préfixe *ana-* (mouvement vers le haut, retour à la source, intensification) et du verbe *choreo* (se déplacer, faire de la place). Spirituellement, ce retrait n'est pas une fuite horizontale, mais une 'anachorèse' : une élévation verticale hors des débats conflictuels de la Galilée pour ouvrir un espace de Grâce aux confins du monde païen."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μέρη",
+            "gloss": "quartiers/régions"
+          },
+          {
+            "greek": "Τύρου",
+            "gloss": "de_Tyr"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Σιδῶνος.",
+            "gloss": "de_Sidon"
+          }
         ]
       },
       {
@@ -31,27 +68,92 @@
           "darby": "Et voici, une femme cananéenne, sortie de ces contrées-là, s'écria, lui disant : Aie pitié de moi, Seigneur, Fils de David ! ma fille est misérablement tourmentée par un démon."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἰδοὺ", "gloss": "voici" },
-          { "greek": "γυνὴ", "gloss": "une_femme" },
-          { "greek": "Χαναναία", "gloss": "cananéenne" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ὁρίων", "gloss": "frontières/limites" },
-          { "greek": "ἐκείνων", "gloss": "ces...-là" },
-          { "greek": "ἐξελθοῦσα", "gloss": "étant_sortie" },
-          { "greek": "ἐκραύγαζεν", "gloss": "cria/poussa_des_cris" },
-          { "greek": "λέγουσα·", "gloss": "disant" },
-          { "greek": "Ἐλέησόν", "gloss": "Aie_pitié", "analyse": "Du verbe *eleeo*. La racine renvoie à l'huile d'olive qui adoucit, console et guérit. Demander l'*eleos*, ce n'est pas plaider coupable devant un tribunal juridique du Monde duel, mais appeler l'effusion d'une Énergie lénifiante capable de restaurer l'intégrité ontologique de l'être brisé." },
-          { "greek": "με,", "gloss": "moi" },
-          { "greek": "κύριε", "gloss": "Seigneur" },
-          { "greek": "υἱὸς", "gloss": "fils" },
-          { "greek": "Δαυίδ·", "gloss": "de_David" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "θυγάτηρ", "gloss": "fille" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "κακῶς", "gloss": "mal/cruellement" },
-          { "greek": "δαιμονίζεται.", "gloss": "est_tourmentée_par_le_démon", "analyse": "Littéralement 'est démonisée'. C'est le paroxysme de l'objectivation de l'être humain. La conscience de la jeune fille n'est plus un Sujet libre orienté vers l'Incréé, elle est squattée et fragmentée par une force de division passive." }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "γυνὴ",
+            "gloss": "une_femme"
+          },
+          {
+            "greek": "Χαναναία",
+            "gloss": "cananéenne"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὁρίων",
+            "gloss": "frontières/limites"
+          },
+          {
+            "greek": "ἐκείνων",
+            "gloss": "ces...-là"
+          },
+          {
+            "greek": "ἐξελθοῦσα",
+            "gloss": "étant_sortie"
+          },
+          {
+            "greek": "ἐκραύγαζεν",
+            "gloss": "cria/poussa_des_cris"
+          },
+          {
+            "greek": "λέγουσα·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἐλέησόν",
+            "gloss": "Aie_pitié",
+            "analyse": "Du verbe *eleeo*. La racine renvoie à l'huile d'olive qui adoucit, console et guérit. Demander l'*eleos*, ce n'est pas plaider coupable devant un tribunal juridique du Monde duel, mais appeler l'effusion d'une Énergie lénifiante capable de restaurer l'intégrité ontologique de l'être brisé."
+          },
+          {
+            "greek": "με,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "κύριε",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "Δαυίδ·",
+            "gloss": "de_David"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "θυγάτηρ",
+            "gloss": "fille"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "κακῶς",
+            "gloss": "mal/cruellement"
+          },
+          {
+            "greek": "δαιμονίζεται.",
+            "gloss": "est_tourmentée_par_le_démon",
+            "analyse": "Littéralement 'est démonisée'. C'est le paroxysme de l'objectivation de l'être humain. La conscience de la jeune fille n'est plus un Sujet libre orienté vers l'Incréé, elle est squattée et fragmentée par une force de division passive."
+          }
         ]
       },
       {
@@ -61,26 +163,87 @@
           "darby": "Mais il ne lui répondit pas une parole. Et ses disciples, s'approchant, prièrent, disant : Renvoie-la, car elle crie après nous."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Il" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "οὐκ", "gloss": "ne...pas" },
-          { "greek": "ἀπεκρίθη", "gloss": "répondit" },
-          { "greek": "αὐτῇ", "gloss": "à_elle" },
-          { "greek": "λόγον.", "gloss": "une_parole" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "προσελθόντες", "gloss": "s'étant_approchés", "analyse": "Composé du préfixe *pros-* (direction vers, mouvement d'approche, intimité) et du verbe *erchomai* (venir). Les disciples effectuent un mouvement vers Jésus, mais leur intention reste horizontale : ils veulent éliminer le dérangement sonore, non pas communier à la détresse de la femme." },
-          { "greek": "οἱ", "gloss": "les" },
-          { "greek": "μαθηταὶ", "gloss": "disciples" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἠρώτουν", "gloss": "prièrent/demandèrent" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "λέγοντες·", "gloss": "disant" },
-          { "greek": "Ἀπόλυσον", "gloss": "Renvoie/Délivre" },
-          { "greek": "αὐτήν,", "gloss": "elle" },
-          { "greek": "ὅτι", "gloss": "car" },
-          { "greek": "κράζει", "gloss": "elle_crie" },
-          { "greek": "ὄπισθεν", "gloss": "derrière" },
-          { "greek": "ἡμῶν.", "gloss": "nous" }
+          {
+            "greek": "ὁ",
+            "gloss": "Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἀπεκρίθη",
+            "gloss": "répondit"
+          },
+          {
+            "greek": "αὐτῇ",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "λόγον.",
+            "gloss": "une_parole"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "προσελθόντες",
+            "gloss": "s'étant_approchés",
+            "analyse": "Composé du préfixe *pros-* (direction vers, mouvement d'approche, intimité) et du verbe *erchomai* (venir). Les disciples effectuent un mouvement vers Jésus, mais leur intention reste horizontale : ils veulent éliminer le dérangement sonore, non pas communier à la détresse de la femme."
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταὶ",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἠρώτουν",
+            "gloss": "prièrent/demandèrent"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἀπόλυσον",
+            "gloss": "Renvoie/Délivre"
+          },
+          {
+            "greek": "αὐτήν,",
+            "gloss": "elle"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "κράζει",
+            "gloss": "elle_crie"
+          },
+          {
+            "greek": "ὄπισθεν",
+            "gloss": "derrière"
+          },
+          {
+            "greek": "ἡμῶν.",
+            "gloss": "nous"
+          }
         ]
       },
       {
@@ -90,20 +253,62 @@
           "darby": "Et lui, répondant, dit : Je n'ai été envoyé qu'aux brebis perdues de la maison d'Israël."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Il" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἀποκριθεὶς", "gloss": "ayant_répondu" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Οὐκ", "gloss": "Non" },
-          { "greek": "ἀπεστάλην", "gloss": "j'ai_été_envoyé" },
-          { "greek": "εἰ μὴ", "gloss": "si_ce_n'est" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "πρόβατα", "gloss": "brebis" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "ἀπολωλότα", "gloss": "perdues" },
-          { "greek": "οἴκου", "gloss": "de_la_maison" },
-          { "greek": "Ἰσραήλ.", "gloss": "d'Israël" }
+          {
+            "greek": "ὁ",
+            "gloss": "Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "ayant_répondu"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Οὐκ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "ἀπεστάλην",
+            "gloss": "j'ai_été_envoyé"
+          },
+          {
+            "greek": "εἰ μὴ",
+            "gloss": "si_ce_n'est"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πρόβατα",
+            "gloss": "brebis"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀπολωλότα",
+            "gloss": "perdues"
+          },
+          {
+            "greek": "οἴκου",
+            "gloss": "de_la_maison"
+          },
+          {
+            "greek": "Ἰσραήλ.",
+            "gloss": "d'Israël"
+          }
         ]
       },
       {
@@ -113,15 +318,43 @@
           "darby": "Mais elle vint et se prosterna devant lui, disant : Seigneur, viens-moi en aide !"
         },
         "interlinear": [
-          { "greek": "ἡ", "gloss": "Elle" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐλθοῦσα", "gloss": "étant_venue" },
-          { "greek": "προσεκύνει", "gloss": "se_prosterna/adora", "analyse": "Formé de *pros-* (vers, tout contre) et *kyneo* (embrasser, faire le geste d'adoration). Ce mot décrit une orientation absolue : le Sujet se jette tout contre la Source. La Cananéenne brise la distance protocolaire et légale du Monde duel pour s'agripper verticalement au Christ." },
-          { "greek": "αὐτῷ", "gloss": "devant_lui" },
-          { "greek": "λέγουσα·", "gloss": "disant" },
-          { "greek": "Κύριε,", "gloss": "Seigneur" },
-          { "greek": "βοήθει", "gloss": "secours" },
-          { "greek": "μοι.", "gloss": "moi" }
+          {
+            "greek": "ἡ",
+            "gloss": "Elle"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐλθοῦσα",
+            "gloss": "étant_venue"
+          },
+          {
+            "greek": "προσεκύνει",
+            "gloss": "se_prosterna/adora",
+            "analyse": "Formé de *pros-* (vers, tout contre) et *kyneo* (embrasser, faire le geste d'adoration). Ce mot décrit une orientation absolue : le Sujet se jette tout contre la Source. La Cananéenne brise la distance protocolaire et légale du Monde duel pour s'agripper verticalement au Christ."
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "devant_lui"
+          },
+          {
+            "greek": "λέγουσα·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "βοήθει",
+            "gloss": "secours"
+          },
+          {
+            "greek": "μοι.",
+            "gloss": "moi"
+          }
         ]
       },
       {
@@ -131,22 +364,71 @@
           "darby": "Et lui, répondant, dit : Il n'est pas bon de prendre le pain des enfants et de le jeter aux chiens."
         },
         "interlinear": [
-          { "greek": "ὁ", "gloss": "Il" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἀποκριθεὶς", "gloss": "ayant_répondu" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Οὐκ", "gloss": "Non" },
-          { "greek": "ἔστιν", "gloss": "il_est" },
-          { "greek": "καλὸν", "gloss": "beau/bon" },
-          { "greek": "λαβεῖν", "gloss": "de_prendre" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "ἄρτον", "gloss": "pain" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "τέκνων", "gloss": "enfants" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "βαλεῖν", "gloss": "de_jeter" },
-          { "greek": "τοῖς", "gloss": "aux" },
-          { "greek": "κυναρίοις.", "gloss": "petits_chiens/chiots", "analyse": "Le diminutif *kynariois* désigne les chiens familiers du logis. Le Christ n'utilise pas une insulte d'exclusion, il emploie une métaphore pédagogique pour tester la nature de l'approche de la femme : cherche-t-elle à faire valoir des droits (Ego blessé) ou s'en remet-elle entièrement à la pure Grâce ?" }
+          {
+            "greek": "ὁ",
+            "gloss": "Il"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "ayant_répondu"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Οὐκ",
+            "gloss": "Non"
+          },
+          {
+            "greek": "ἔστιν",
+            "gloss": "il_est"
+          },
+          {
+            "greek": "καλὸν",
+            "gloss": "beau/bon"
+          },
+          {
+            "greek": "λαβεῖν",
+            "gloss": "de_prendre"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἄρτον",
+            "gloss": "pain"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "τέκνων",
+            "gloss": "enfants"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "βαλεῖν",
+            "gloss": "de_jeter"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "κυναρίοις.",
+            "gloss": "petits_chiens/chiots",
+            "analyse": "Le diminutif *kynariois* désigne les chiens familiers du logis. Le Christ n'utilise pas une insulte d'exclusion, il emploie une métaphore pédagogique pour tester la nature de l'approche de la femme : cherche-t-elle à faire valoir des droits (Ego blessé) ou s'en remet-elle entièrement à la pure Grâce ?"
+          }
         ]
       },
       {
@@ -156,27 +438,91 @@
           "darby": "Et elle dit : Oui, Seigneur ; car les chiens aussi mangent des miettes qui tombent de la table de leurs maîtres."
         },
         "interlinear": [
-          { "greek": "ἡ", "gloss": "Elle" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Ναί,", "gloss": "Oui" },
-          { "greek": "κύριε,", "gloss": "Seigneur" },
-          { "greek": "καὶ", "gloss": "car/pourtant" },
-          { "greek": "γὰρ", "gloss": "en_effet" },
-          { "greek": "τὰ", "gloss": "les" },
-          { "greek": "κυνάρια", "gloss": "petits_chiens" },
-          { "greek": "ἐσθίει", "gloss": "mangent" },
-          { "greek": "ἀπὸ", "gloss": "de/à_partir_de" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "ψιχίων", "gloss": "miettes" },
-          { "greek": "τῶν", "gloss": "les" },
-          { "greek": "πιπτόντων", "gloss": "tombant", "analyse": "Du verbe *pipto* (tomber). Ce mouvement descendant évoque la kénose de la Grâce qui s'abaisse librement jusqu'aux zones les plus périphériques de la création. La femme accepte cette condition descendante : elle sait qu'une seule miette de l'Incréé porte en elle la plénitude de la Puissance restauratrice." },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "τῆς", "gloss": "la" },
-          { "greek": "τραπέζης", "gloss": "table" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "κυρίων", "gloss": "maîtres" },
-          { "greek": "αὐτῶν.", "gloss": "de_eux" }
+          {
+            "greek": "ἡ",
+            "gloss": "Elle"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ναί,",
+            "gloss": "Oui"
+          },
+          {
+            "greek": "κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "car/pourtant"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "en_effet"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "κυνάρια",
+            "gloss": "petits_chiens"
+          },
+          {
+            "greek": "ἐσθίει",
+            "gloss": "mangent"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de/à_partir_de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ψιχίων",
+            "gloss": "miettes"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "πιπτόντων",
+            "gloss": "tombant",
+            "analyse": "Du verbe *pipto* (tomber). Ce mouvement descendant évoque la kénose de la Grâce qui s'abaisse librement jusqu'aux zones les plus périphériques de la création. La femme accepte cette condition descendante : elle sait qu'une seule miette de l'Incréé porte en elle la plénitude de la Puissance restauratrice."
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "τραπέζης",
+            "gloss": "table"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "κυρίων",
+            "gloss": "maîtres"
+          },
+          {
+            "greek": "αὐτῶν.",
+            "gloss": "de_eux"
+          }
         ]
       },
       {
@@ -186,35 +532,195 @@
           "darby": "Alors Jésus, répondant, lui dit : Ô femme, ta foi est grande ; qu'il te soit fait comme tu veux. Et sa fille fut guérie dès cette heure-là."
         },
         "interlinear": [
-          { "greek": "τότε", "gloss": "Alors" },
-          { "greek": "ἀποκριθεὶς", "gloss": "ayant_répondu" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῇ·", "gloss": "à_elle" },
-          { "greek": "Ὦ", "gloss": "Ô" },
-          { "greek": "γύναι,", "gloss": "femme" },
-          { "greek": "μεγάλη", "gloss": "grande" },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "πίστις·", "gloss": "foi", "analyse": "La *pistis* (la foi, l'adhésion ontologique). Sa foi est déclarée 'grande' parce qu'elle s'est affranchie des calculs juridiques ou identitaires. Elle n'est pas membre de l'enclos religieux d'Israël, mais par son humilité absolue, elle s'est connectée directement au Flux de l'Incréé." },
-          { "greek": "γενηθήτω", "gloss": "qu'il_soit_fait" },
-          { "greek": "σοι", "gloss": "à_toi" },
-          { "greek": "ὡς", "gloss": "comme" },
-          { "greek": "θέλεις.", "gloss": "tu_veux" },
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἰάθη", "gloss": "fut_guérie" },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "θυγάτηρ", "gloss": "fille" },
-          { "greek": "αὐτῆς", "gloss": "de_elle" },
-          { "greek": "ἀπὸ", "gloss": "depuis" },
-          { "greek": "τῆς", "gloss": "l'" },
-          { "greek": "ὥρας", "gloss": "heure" },
-          { "greek": "ἐκείνης.", "gloss": "cette...-là" }
+          {
+            "greek": "τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "ayant_répondu"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῇ·",
+            "gloss": "à_elle"
+          },
+          {
+            "greek": "Ὦ",
+            "gloss": "Ô"
+          },
+          {
+            "greek": "γύναι,",
+            "gloss": "femme"
+          },
+          {
+            "greek": "μεγάλη",
+            "gloss": "grande"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστις·",
+            "gloss": "foi",
+            "analyse": "La *pistis* (la foi, l'adhésion ontologique). Sa foi est déclarée 'grande' parce qu'elle s'est affranchie des calculs juridiques ou identitaires. Elle n'est pas membre de l'enclos religieux d'Israël, mais par son humilité absolue, elle s'est connectée directement au Flux de l'Incréé."
+          },
+          {
+            "greek": "γενηθήτω",
+            "gloss": "qu'il_soit_fait"
+          },
+          {
+            "greek": "σοι",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "θέλεις.",
+            "gloss": "tu_veux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰάθη",
+            "gloss": "fut_guérie"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "θυγάτηρ",
+            "gloss": "fille"
+          },
+          {
+            "greek": "αὐτῆς",
+            "gloss": "de_elle"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ὥρας",
+            "gloss": "heure"
+          },
+          {
+            "greek": "ἐκείνης.",
+            "gloss": "cette...-là"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 21 - ἀνεχώρησεν : Segond et Darby traduisent platement par 'se retira'. L'usage du préfixe *ana-* marque pourtant une rupture verticale, un mouvement ascendant ou un retour à l'écart. Le Christ ne fait pas qu'aller ailleurs, il pose un acte mystagogique d'anachorèse, déplaçant le centre de l'action spirituelle hors des frontières visibles.\n• Verset 26 - κυναρίοις : Souvent rendu par 'chiens' (Darby), ce qui durcit inutilement le propos. Le choix du diminutif par Matthieu est une nuance capitale. Il ne s'agit pas des chiens impurs errant dehors (*kynes*), mais des petits animaux domestiques (*kynaria*) qui vivent sous le toit. Le Christ maintient l'ordre de la maison tout en laissant la porte entrouverte.\n\nAnalyse spirituelle :\nCe récit met en lumière la transmutation d'une conscience s'arrachant aux conditionnements du 'Monde duel' pour naître à la liberté du Sujet.\n\nAu départ, la Cananéenne se présente avec les catégories de l'Ego religieux et national. Bien que païenne, elle appelle Jésus 'Fils de David', une formule politique et horizontale. Face à cette approche maladroite, le Christ oppose un silence de mort. Ce silence n'est pas un refus cruel, mais un outil thérapeutique : il brise l'attente magique et force la femme à approfondir sa démarche.\n\nLe dialogue culmine lors de la mise à l'épreuve identitaire. Quand Jésus mentionne la préséance des enfants d'Israël sur les 'petits chiens', n'importe quel Ego blessé aurait réagi par la colère, la vexation ou le sentiment d'injustice. Mais la Cananéenne a opéré sa métanoïa. Elle a laissé mourir son image propre. Elle accepte avec joie et humour la place la plus basse, car elle a saisi la nature même de la Grâce. Par le mouvement descendant de la miette qui tombe (*piptonton*), elle comprend que la moindre étincelle de l'Incréé suffit à transfigurer le chaos. Sa foi est qualifiée de 'grande' car elle ne négocie rien, elle s'oriente tout contre (*pros-*) le Réel dans un abandon ontologique absolu. Sa fille est guérie parce que le canal est devenu parfaitement transparent."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 21 - ἀνεχώρησεν : Segond et Darby traduisent platement par 'se retira'. L'usage du préfixe *ana-* marque pourtant une rupture verticale, un mouvement ascendant ou un retour à l'écart. Le Christ ne fait pas qu'aller ailleurs, il pose un acte mystagogique d'anachorèse, déplaçant le centre de l'action spirituelle hors des frontières visibles.\n• Verset 26 - κυναρίοις : Souvent rendu par 'chiens' (Darby), ce qui durcit inutilement le propos. Le choix du diminutif par Matthieu est une nuance capitale. Il ne s'agit pas des chiens impurs errant dehors (*kynes*), mais des petits animaux domestiques (*kynaria*) qui vivent sous le toit. Le Christ maintient l'ordre de la maison tout en laissant la porte entrouverte.\n\nAnalyse spirituelle :\nCe récit met en lumière la transmutation d'une conscience s'arrachant aux conditionnements du 'Monde duel' pour naître à la liberté du Sujet.\n\nAu départ, la Cananéenne se présente avec les catégories de l'Ego religieux et national. Bien que païenne, elle appelle Jésus 'Fils de David', une formule politique et horizontale. Face à cette approche maladroite, le Christ oppose un silence de mort. Ce silence n'est pas un refus cruel, mais un outil thérapeutique : il brise l'attente magique et force la femme à approfondir sa démarche.\n\nLe dialogue culmine lors de la mise à l'épreuve identitaire. Quand Jésus mentionne la préséance des enfants d'Israël sur les 'petits chiens', n'importe quel Ego blessé aurait réagi par la colère, la vexation ou le sentiment d'injustice. Mais la Cananéenne a opéré sa métanoïa. Elle a laissé mourir son image propre. Elle accepte avec joie et humour la place la plus basse, car elle a saisi la nature même de la Grâce. Par le mouvement descendant de la miette qui tombe (*piptonton*), elle comprend que la moindre étincelle de l'Incréé suffit à transfigurer le chaos. Sa foi est qualifiée de 'grande' car elle ne négocie rien, elle s'oriente tout contre (*pros-*) le Réel dans un abandon ontologique absolu. Sa fille est guérie parce que le canal est devenu parfaitement transparent.",
+    "homiletic_axes": [
+      {
+        "title": "De la frontière extérieure à la proximité de la foi",
+        "content": "La femme vient d’un territoire et d’un peuple perçus comme extérieurs. Sa foi et sa parole font apparaître une proximité que les catégories sociales ne voyaient pas. L’Apôtre parle d’un Dieu qui habite et marche au milieu de son peuple.",
+        "keywords": [
+          "ὅρια — frontières",
+          "πίστις — foi",
+          "ἐνοικέω — habiter"
+        ]
+      },
+      {
+        "title": "Le cri qui traverse le silence",
+        "content": "La Cananéenne crie, tandis que Jésus garde d’abord le silence et que les disciples veulent l’éloigner. Sa persévérance transforme l’obstacle en dialogue et conduit jusqu’à la parole de guérison.",
+        "keywords": [
+          "κραυγάζω — crier",
+          "ἀποκρίνομαι — répondre",
+          "ὑπομονή — persévérance"
+        ]
+      },
+      {
+        "title": "Humilité et sainte audace",
+        "content": "La femme ne revendique pas une place par domination ; elle reprend l’image des miettes et l’ouvre de l’intérieur. Son humilité n’est pas passivité : elle devient une parole audacieuse entièrement tournée vers la miséricorde.",
+        "keywords": [
+          "κυνάριον — petit chien",
+          "ψιχίον — miette",
+          "ἔλεος — miséricorde"
+        ]
+      },
+      {
+        "title": "Devenir le temple du Dieu vivant",
+        "content": "La guérison demandée pour la fille rencontre l’appel de Paul à purifier toute souillure de la chair et de l’esprit. La séparation dont parle l’Apôtre n’est pas mépris des personnes : elle vise ce qui empêche la communion avec le Dieu vivant.",
+        "keywords": [
+          "ναός — temple",
+          "καθαρίζω — purifier",
+          "ἐπιτελέω — mener à l’accomplissement"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « La Cananéenne » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les frontières, le cri, le silence, la demeure et la purification, sans confondre séparation du mal et rejet des personnes."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La demeure de Dieu franchit les frontières",
+        "reference": "Matthieu 15, 21-28 ; 2 Corinthiens 6, 16 - 7, 1",
+        "content": "La foi de la Cananéenne révèle une proximité inattendue ; l’Apôtre rappelle que Dieu veut habiter et marcher au milieu de son peuple rendu disponible à sa présence.",
+        "connections": []
+      }
+    ]
   },
   "apostle": {
     "reference": "2 Corinthiens 6, 16 - 7, 1",
@@ -227,38 +733,136 @@
           "darby": "Et quelle convenance y a-t-il entre le temple de Dieu et les idoles ? Car vous êtes le temple du Dieu vivant, selon ce que Dieu a dit : « J'habiterai au milieu d'eux, et j'y marcherai, et je serai leur Dieu, et ils seront mon peuple »."
         },
         "interlinear": [
-          { "greek": "τίς", "gloss": "Quel" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "συγκατάθεσις", "gloss": "rapport/accord", "analyse": "Composé de *syn-* (avec) + *kata-* (vers le bas) + *thesis* (position). Littéralement : 'poser ensemble vers le bas'. L'apôtre montre que pactiser avec le Monde duel (l'idole), c'est accepter un compromis dégradant qui tire le Sujet vers le bas, vers la matière et la mort. L'Incréé ne peut cohabiter dans ce nivellement par le bas." },
-          { "greek": "ναῷ", "gloss": "au_temple" },
-          { "greek": "θεοῦ", "gloss": "de_Dieu" },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "εἰδώλων;", "gloss": "les_idoles" },
-          { "greek": "ἡμεῖς", "gloss": "nous" },
-          { "greek": "γὰρ", "gloss": "car" },
-          { "greek": "ναὸς", "gloss": "temple/sanctuaire" },
-          { "greek": "θεοῦ", "gloss": "de_Dieu" },
-          { "greek": "ἐσμεν", "gloss": "sommes" },
-          { "greek": "ζῶντος·", "gloss": "vivant" },
-          { "greek": "καθὼς", "gloss": "comme" },
-          { "greek": "εἶπεν", "gloss": "a_dit" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "θεὸς", "gloss": "Dieu" },
-          { "greek": "ὅτι", "gloss": "—" },
-          { "greek": "Ἐνοικήσω", "gloss": "J'habiterai_dans", "analyse": "Composé de *en-* (à l'intérieur) et *oikeo* (habiter). La promesse ne concerne pas un lieu géographique. Dieu implante son Énergie à l'intérieur même (*en-*) de la structure du Sujet. Le cœur humain devient l'*oikos* (la maison) de l'Incréé." },
-          { "greek": "ἐν", "gloss": "parmi/en" },
-          { "greek": "αὐτοῖς", "gloss": "eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐμπεριπατήσω,", "gloss": "je_marcherai_au_milieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔσομαι", "gloss": "je_serai" },
-          { "greek": "αὐτῶν", "gloss": "d'eux" },
-          { "greek": "θεός,", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "αὐτοὶ", "gloss": "eux" },
-          { "greek": "ἔσονταί", "gloss": "seront" },
-          { "greek": "μου", "gloss": "de_moi" },
-          { "greek": "λαός.", "gloss": "peuple" }
+          {
+            "greek": "τίς",
+            "gloss": "Quel"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "συγκατάθεσις",
+            "gloss": "rapport/accord",
+            "analyse": "Composé de *syn-* (avec) + *kata-* (vers le bas) + *thesis* (position). Littéralement : 'poser ensemble vers le bas'. L'apôtre montre que pactiser avec le Monde duel (l'idole), c'est accepter un compromis dégradant qui tire le Sujet vers le bas, vers la matière et la mort. L'Incréé ne peut cohabiter dans ce nivellement par le bas."
+          },
+          {
+            "greek": "ναῷ",
+            "gloss": "au_temple"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "εἰδώλων;",
+            "gloss": "les_idoles"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ναὸς",
+            "gloss": "temple/sanctuaire"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "de_Dieu"
+          },
+          {
+            "greek": "ἐσμεν",
+            "gloss": "sommes"
+          },
+          {
+            "greek": "ζῶντος·",
+            "gloss": "vivant"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "a_dit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "—"
+          },
+          {
+            "greek": "Ἐνοικήσω",
+            "gloss": "J'habiterai_dans",
+            "analyse": "Composé de *en-* (à l'intérieur) et *oikeo* (habiter). La promesse ne concerne pas un lieu géographique. Dieu implante son Énergie à l'intérieur même (*en-*) de la structure du Sujet. Le cœur humain devient l'*oikos* (la maison) de l'Incréé."
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "parmi/en"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐμπεριπατήσω,",
+            "gloss": "je_marcherai_au_milieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔσομαι",
+            "gloss": "je_serai"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "θεός,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἔσονταί",
+            "gloss": "seront"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "λαός.",
+            "gloss": "peuple"
+          }
         ]
       },
       {
@@ -268,22 +872,73 @@
           "darby": "C'est pourquoi sortez du milieu d'eux, et soyez séparés, dit le Seigneur, et ne touchez à rien d'impur, et moi, je vous recevrai ;"
         },
         "interlinear": [
-          { "greek": "διὸ", "gloss": "C'est_pourquoi" },
-          { "greek": "ἐξέλθατε", "gloss": "sortez", "analyse": "Composé de *ex-* (hors de) + *erchomai* (venir). C'est le mouvement de l'Exode spirituel. Il faut s'extraire de la matrice du Monde duel." },
-          { "greek": "ἐκ", "gloss": "du" },
-          { "greek": "μέσου", "gloss": "milieu" },
-          { "greek": "αὐτῶν,", "gloss": "d'eux" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀφορίσθητε,", "gloss": "séparez-vous", "analyse": "Composé de *apo-* (mouvement d'éloignement, de séparation) + *horizo* (délimiter, fixer des frontières, d'où vient 'horizon'). Paul demande de s'arracher (*apo*) aux frontières psychologiques et identitaires de l'Ego. C'est l'inverse de la logique mondaine qui cherche toujours à se sécuriser derrière ses limites." },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "κύριος,", "gloss": "le_Seigneur" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἀκαθάρτου", "gloss": "d'impur" },
-          { "greek": "μὴ", "gloss": "ne...pas" },
-          { "greek": "ἅπτεσθε·", "gloss": "touchez" },
-          { "greek": "κἀγὼ", "gloss": "et_moi" },
-          { "greek": "εἰσδέξομαι", "gloss": "j'accueillerai", "analyse": "Composé de *eis-* (mouvement vers l'intérieur) + *dechomai* (recevoir/accueillir). Superbe inversion : l'homme accepte de se séparer (*apo-*) des frontières rassurantes du monde, et en retour, Dieu l'attire vers l'intérieur (*eis-*) de sa propre Présence. Le vide laissé par la kénose est rempli par l'accueil divin." },
-          { "greek": "ὑμᾶς,", "gloss": "vous" }
+          {
+            "greek": "διὸ",
+            "gloss": "C'est_pourquoi"
+          },
+          {
+            "greek": "ἐξέλθατε",
+            "gloss": "sortez",
+            "analyse": "Composé de *ex-* (hors de) + *erchomai* (venir). C'est le mouvement de l'Exode spirituel. Il faut s'extraire de la matrice du Monde duel."
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "du"
+          },
+          {
+            "greek": "μέσου",
+            "gloss": "milieu"
+          },
+          {
+            "greek": "αὐτῶν,",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀφορίσθητε,",
+            "gloss": "séparez-vous",
+            "analyse": "Composé de *apo-* (mouvement d'éloignement, de séparation) + *horizo* (délimiter, fixer des frontières, d'où vient 'horizon'). Paul demande de s'arracher (*apo*) aux frontières psychologiques et identitaires de l'Ego. C'est l'inverse de la logique mondaine qui cherche toujours à se sécuriser derrière ses limites."
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "κύριος,",
+            "gloss": "le_Seigneur"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀκαθάρτου",
+            "gloss": "d'impur"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἅπτεσθε·",
+            "gloss": "touchez"
+          },
+          {
+            "greek": "κἀγὼ",
+            "gloss": "et_moi"
+          },
+          {
+            "greek": "εἰσδέξομαι",
+            "gloss": "j'accueillerai",
+            "analyse": "Composé de *eis-* (mouvement vers l'intérieur) + *dechomai* (recevoir/accueillir). Superbe inversion : l'homme accepte de se séparer (*apo-*) des frontières rassurantes du monde, et en retour, Dieu l'attire vers l'intérieur (*eis-*) de sa propre Présence. Le vide laissé par la kénose est rempli par l'accueil divin."
+          },
+          {
+            "greek": "ὑμᾶς,",
+            "gloss": "vous"
+          }
         ]
       },
       {
@@ -293,22 +948,70 @@
           "darby": "et je vous serai pour père, et vous, vous me serez pour fils et pour filles, dit le Seigneur, le Tout-puissant."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἔσομαι", "gloss": "je_serai" },
-          { "greek": "ὑμῖν", "gloss": "pour_vous" },
-          { "greek": "εἰς", "gloss": "en/pour" },
-          { "greek": "πατέρα,", "gloss": "père" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὑμεῖς", "gloss": "vous" },
-          { "greek": "ἔσεσθέ", "gloss": "serez" },
-          { "greek": "μοι", "gloss": "à_moi" },
-          { "greek": "εἰς", "gloss": "en/pour" },
-          { "greek": "υἱοὺς", "gloss": "fils" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "θυγατέρας,", "gloss": "filles" },
-          { "greek": "λέγει", "gloss": "dit" },
-          { "greek": "κύριος", "gloss": "le_Seigneur" },
-          { "greek": "παντοκράτωρ.", "gloss": "tout-puissant" }
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔσομαι",
+            "gloss": "je_serai"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "pour_vous"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en/pour"
+          },
+          {
+            "greek": "πατέρα,",
+            "gloss": "père"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἔσεσθέ",
+            "gloss": "serez"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en/pour"
+          },
+          {
+            "greek": "υἱοὺς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "θυγατέρας,",
+            "gloss": "filles"
+          },
+          {
+            "greek": "λέγει",
+            "gloss": "dit"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "le_Seigneur"
+          },
+          {
+            "greek": "παντοκράτωρ.",
+            "gloss": "tout-puissant"
+          }
         ]
       },
       {
@@ -318,28 +1021,170 @@
           "darby": "Ayant donc ces promesses, bien-aimés, purifions-nous nous-mêmes de toute souillure de chair et d'esprit, achevant la sainteté dans la crainte de Dieu."
         },
         "interlinear": [
-          { "greek": "Ταύτας", "gloss": "Ces" },
-          { "greek": "οὖν", "gloss": "donc" },
-          { "greek": "ἔχοντες", "gloss": "ayant" },
-          { "greek": "τὰς", "gloss": "les" },
-          { "greek": "ἐπαγγελίας,", "gloss": "promesses" },
-          { "greek": "ἀγαπητοί,", "gloss": "bien-aimés" },
-          { "greek": "καθαρίσωμεν", "gloss": "purifions" },
-          { "greek": "ἑαυτοὺς", "gloss": "nous-mêmes" },
-          { "greek": "ἀπὸ", "gloss": "de" },
-          { "greek": "παντὸς", "gloss": "toute" },
-          { "greek": "μολυσμοῦ", "gloss": "souillure" },
-          { "greek": "σαρκὸς", "gloss": "de_chair" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πνεύματος,", "gloss": "d'esprit" },
-          { "greek": "ἐπιτελοῦντες", "gloss": "achevant/accomplissant", "analyse": "Composé de *epi-* (mouvement sur, direction vers, insistance) + *teleo* (porter à sa fin, accomplir le but). La sanctification n'est pas un état figé acquis une fois pour toutes, c'est un dynamisme permanent. Le Sujet se tend (*epi-*) vers la plénitude (*telos*) de l'union à Dieu." },
-          { "greek": "ἁγιωσύνην", "gloss": "sainteté/sanctification" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "φόβῳ", "gloss": "la_crainte" },
-          { "greek": "θεοῦ.", "gloss": "de_Dieu" }
+          {
+            "greek": "Ταύτας",
+            "gloss": "Ces"
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ἔχοντες",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐπαγγελίας,",
+            "gloss": "promesses"
+          },
+          {
+            "greek": "ἀγαπητοί,",
+            "gloss": "bien-aimés"
+          },
+          {
+            "greek": "καθαρίσωμεν",
+            "gloss": "purifions"
+          },
+          {
+            "greek": "ἑαυτοὺς",
+            "gloss": "nous-mêmes"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "παντὸς",
+            "gloss": "toute"
+          },
+          {
+            "greek": "μολυσμοῦ",
+            "gloss": "souillure"
+          },
+          {
+            "greek": "σαρκὸς",
+            "gloss": "de_chair"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πνεύματος,",
+            "gloss": "d'esprit"
+          },
+          {
+            "greek": "ἐπιτελοῦντες",
+            "gloss": "achevant/accomplissant",
+            "analyse": "Composé de *epi-* (mouvement sur, direction vers, insistance) + *teleo* (porter à sa fin, accomplir le but). La sanctification n'est pas un état figé acquis une fois pour toutes, c'est un dynamisme permanent. Le Sujet se tend (*epi-*) vers la plénitude (*telos*) de l'union à Dieu."
+          },
+          {
+            "greek": "ἁγιωσύνην",
+            "gloss": "sainteté/sanctification"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "φόβῳ",
+            "gloss": "la_crainte"
+          },
+          {
+            "greek": "θεοῦ.",
+            "gloss": "de_Dieu"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6:16 - συγκατάθεσις : Segond et Darby traduisent par 'rapport' ou 'convenance'. Le terme grec va beaucoup plus loin. Le verbe *tithemi* (poser) couplé à *syn* (avec) et *kata* (vers le bas) évoque une reddition, un pacte qui nivelle vers le bas. S'associer aux idoles, c'est littéralement accepter de chuter avec elles dans le monde objectivé.\n• Verset 6:17 - ἀφορίσθητε : 'Séparez-vous'. La racine *horos* (frontière) est essentielle. Il ne s'agit pas d'une séparation sectaire ou puritaine, mais d'une rupture ontologique avec l'horizon limité du 'Monde duel' pour s'ouvrir à l'infini.\n\nAnalyse spirituelle :\nCe passage de l'Épître résonne magistralement avec l'Évangile de la Cananéenne. L'Apôtre et l'Évangile décrivent tous deux la mécanique de la Grâce : pour être accueilli par l'Incréé (*eis-dexomai*), il faut accepter de sortir de ses frontières mentales et identitaires (*apo-horizo*).\n\nDans l'Évangile, la Cananéenne quitte les 'frontières' (*horia*) de Tyr et Sidon pour crier vers le Christ. Elle accepte de briser l'image de son Ego (en acceptant d'être comparée à un 'petit chien') pour se connecter à l'Axe vertical. C'est exactement ce que Paul demande aux Corinthiens : arrachez-vous à la logique horizontale et idolâtre du monde (*exelthate*, sortez !) pour devenir le sanctuaire vivant (*naos*) de Dieu.\n\nLe miracle de la vie spirituelle se trouve dans cette promesse du verset 16 : 'J'habiterai à l'intérieur' (*en-oikeso*). Le but de l'homme n'est pas d'adorer Dieu de loin, comme une réalité extérieure, mais de vider son propre être de ses pollutions égotiques (la purification de la chair et de l'esprit, v. 7:1) pour que la Grâce y fixe sa demeure. Dès lors, le croyant ne vit plus selon le monde, il est 'accueilli vers l'intérieur' et accompli en Dieu (*epi-teleo*)."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6:16 - συγκατάθεσις : Segond et Darby traduisent par 'rapport' ou 'convenance'. Le terme grec va beaucoup plus loin. Le verbe *tithemi* (poser) couplé à *syn* (avec) et *kata* (vers le bas) évoque une reddition, un pacte qui nivelle vers le bas. S'associer aux idoles, c'est littéralement accepter de chuter avec elles dans le monde objectivé.\n• Verset 6:17 - ἀφορίσθητε : 'Séparez-vous'. La racine *horos* (frontière) est essentielle. Il ne s'agit pas d'une séparation sectaire ou puritaine, mais d'une rupture ontologique avec l'horizon limité du 'Monde duel' pour s'ouvrir à l'infini.\n\nAnalyse spirituelle :\nCe passage de l'Épître résonne magistralement avec l'Évangile de la Cananéenne. L'Apôtre et l'Évangile décrivent tous deux la mécanique de la Grâce : pour être accueilli par l'Incréé (*eis-dexomai*), il faut accepter de sortir de ses frontières mentales et identitaires (*apo-horizo*).\n\nDans l'Évangile, la Cananéenne quitte les 'frontières' (*horia*) de Tyr et Sidon pour crier vers le Christ. Elle accepte de briser l'image de son Ego (en acceptant d'être comparée à un 'petit chien') pour se connecter à l'Axe vertical. C'est exactement ce que Paul demande aux Corinthiens : arrachez-vous à la logique horizontale et idolâtre du monde (*exelthate*, sortez !) pour devenir le sanctuaire vivant (*naos*) de Dieu.\n\nLe miracle de la vie spirituelle se trouve dans cette promesse du verset 16 : 'J'habiterai à l'intérieur' (*en-oikeso*). Le but de l'homme n'est pas d'adorer Dieu de loin, comme une réalité extérieure, mais de vider son propre être de ses pollutions égotiques (la purification de la chair et de l'esprit, v. 7:1) pour que la Grâce y fixe sa demeure. Dès lors, le croyant ne vit plus selon le monde, il est 'accueilli vers l'intérieur' et accompli en Dieu (*epi-teleo*).",
+    "homiletic_axes": [
+      {
+        "title": "De la frontière extérieure à la proximité de la foi",
+        "content": "La femme vient d’un territoire et d’un peuple perçus comme extérieurs. Sa foi et sa parole font apparaître une proximité que les catégories sociales ne voyaient pas. L’Apôtre parle d’un Dieu qui habite et marche au milieu de son peuple.",
+        "keywords": [
+          "ὅρια — frontières",
+          "πίστις — foi",
+          "ἐνοικέω — habiter"
+        ]
+      },
+      {
+        "title": "Le cri qui traverse le silence",
+        "content": "La Cananéenne crie, tandis que Jésus garde d’abord le silence et que les disciples veulent l’éloigner. Sa persévérance transforme l’obstacle en dialogue et conduit jusqu’à la parole de guérison.",
+        "keywords": [
+          "κραυγάζω — crier",
+          "ἀποκρίνομαι — répondre",
+          "ὑπομονή — persévérance"
+        ]
+      },
+      {
+        "title": "Humilité et sainte audace",
+        "content": "La femme ne revendique pas une place par domination ; elle reprend l’image des miettes et l’ouvre de l’intérieur. Son humilité n’est pas passivité : elle devient une parole audacieuse entièrement tournée vers la miséricorde.",
+        "keywords": [
+          "κυνάριον — petit chien",
+          "ψιχίον — miette",
+          "ἔλεος — miséricorde"
+        ]
+      },
+      {
+        "title": "Devenir le temple du Dieu vivant",
+        "content": "La guérison demandée pour la fille rencontre l’appel de Paul à purifier toute souillure de la chair et de l’esprit. La séparation dont parle l’Apôtre n’est pas mépris des personnes : elle vise ce qui empêche la communion avec le Dieu vivant.",
+        "keywords": [
+          "ναός — temple",
+          "καθαρίζω — purifier",
+          "ἐπιτελέω — mener à l’accomplissement"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « La Cananéenne » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les frontières, le cri, le silence, la demeure et la purification, sans confondre séparation du mal et rejet des personnes."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La demeure de Dieu franchit les frontières",
+        "reference": "Matthieu 15, 21-28 ; 2 Corinthiens 6, 16 - 7, 1",
+        "content": "La foi de la Cananéenne révèle une proximité inattendue ; l’Apôtre rappelle que Dieu veut habiter et marcher au milieu de son peuple rendu disponible à sa présence.",
+        "connections": []
+      }
+    ]
   }
 }

@@ -10,21 +10,71 @@
           "darby": "Et il arriva, comme il approchait de Jéricho, qu'un aveugle était assis sur le bord du chemin, mendiant ;"
         },
         "interlinear": [
-          { "greek": "Ἐγένετο", "gloss": "Il_arriva" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "τῷ", "gloss": "le" },
-          { "greek": "ἐγγίζειν", "gloss": "approcher", "analyse": "Le verbe *eggizo*. La dynamique de l'Incréé. L'Axe vertical se déplace et vient créer une perturbation dans l'espace-temps horizontal de la ville (Jéricho)." },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "Ἰεριχώ,", "gloss": "Jéricho" },
-          { "greek": "τυφλός", "gloss": "un_aveugle", "analyse": "Le *typhlos*. L'opacité absolue. L'Ego est incapable de capter les fréquences de la Lumière. Il vit dans la prison de sa propre obscurité." },
-          { "greek": "τις", "gloss": "certain" },
-          { "greek": "ἐκάθητο", "gloss": "était_assis", "analyse": "L'immobilité entropique. Contrairement à l'Axe qui est en mouvement, l'aveugle est statique. L'Ego non éveillé ne voyage pas, il stagne." },
-          { "greek": "παρὰ", "gloss": "à_côté_de/au_bord_de" },
-          { "greek": "τὴν", "gloss": "le" },
-          { "greek": "ὁδὸν", "gloss": "chemin/la_voie", "analyse": "La topographie de l'exclusion (*para ten hodon*). Il n'est pas 'sur' la Voie, il est 'à côté'. L'Ego est toujours relégué à la périphérie du Réel." },
-          { "greek": "ἐπαιτῶν.", "gloss": "mendiant", "analyse": "Le verbe *epaiteo*. C'est le mode de survie exclusif du Monde duel : vampiriser l'énergie de l'extérieur. Faute de connexion à la Source intérieure, l'Ego 'mendie' de l'attention, de la reconnaissance et de l'énergie horizontale aux passants." }
+          {
+            "greek": "Ἐγένετο",
+            "gloss": "Il_arriva"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐγγίζειν",
+            "gloss": "approcher",
+            "analyse": "Le verbe *eggizo*. La dynamique de l'Incréé. L'Axe vertical se déplace et vient créer une perturbation dans l'espace-temps horizontal de la ville (Jéricho)."
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "Ἰεριχώ,",
+            "gloss": "Jéricho"
+          },
+          {
+            "greek": "τυφλός",
+            "gloss": "un_aveugle",
+            "analyse": "Le *typhlos*. L'opacité absolue. L'Ego est incapable de capter les fréquences de la Lumière. Il vit dans la prison de sa propre obscurité."
+          },
+          {
+            "greek": "τις",
+            "gloss": "certain"
+          },
+          {
+            "greek": "ἐκάθητο",
+            "gloss": "était_assis",
+            "analyse": "L'immobilité entropique. Contrairement à l'Axe qui est en mouvement, l'aveugle est statique. L'Ego non éveillé ne voyage pas, il stagne."
+          },
+          {
+            "greek": "παρὰ",
+            "gloss": "à_côté_de/au_bord_de"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὁδὸν",
+            "gloss": "chemin/la_voie",
+            "analyse": "La topographie de l'exclusion (*para ten hodon*). Il n'est pas 'sur' la Voie, il est 'à côté'. L'Ego est toujours relégué à la périphérie du Réel."
+          },
+          {
+            "greek": "ἐπαιτῶν.",
+            "gloss": "mendiant",
+            "analyse": "Le verbe *epaiteo*. C'est le mode de survie exclusif du Monde duel : vampiriser l'énergie de l'extérieur. Faute de connexion à la Source intérieure, l'Ego 'mendie' de l'attention, de la reconnaissance et de l'énergie horizontale aux passants."
+          }
         ]
       },
       {
@@ -34,14 +84,40 @@
           "darby": "et entendant la foule qui passait, il s'enquit de ce que ce pouvait être."
         },
         "interlinear": [
-          { "greek": "ἀκούσας", "gloss": "Ayant_entendu" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὄχλου", "gloss": "une_foule", "analyse": "L'*ochlos*. La masse grégaire, informe, qui vibre à basse fréquence. L'aveugle ne 'voit' pas la Grâce approcher, il n'entend d'abord que le bruit de fond de la Matrice." },
-          { "greek": "διαπορευομένου", "gloss": "faisant_route_à_travers/passant" },
-          { "greek": "ἐπυνθάνετο", "gloss": "il_s'informait", "analyse": "L'éveil de la conscience commence par une question. L'Ego réalise soudain que la routine entropique est perturbée." },
-          { "greek": "τί", "gloss": "ce_que" },
-          { "greek": "εἴη", "gloss": "pouvait_être" },
-          { "greek": "τοῦτο.", "gloss": "cela" }
+          {
+            "greek": "ἀκούσας",
+            "gloss": "Ayant_entendu"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὄχλου",
+            "gloss": "une_foule",
+            "analyse": "L'*ochlos*. La masse grégaire, informe, qui vibre à basse fréquence. L'aveugle ne 'voit' pas la Grâce approcher, il n'entend d'abord que le bruit de fond de la Matrice."
+          },
+          {
+            "greek": "διαπορευομένου",
+            "gloss": "faisant_route_à_travers/passant"
+          },
+          {
+            "greek": "ἐπυνθάνετο",
+            "gloss": "il_s'informait",
+            "analyse": "L'éveil de la conscience commence par une question. L'Ego réalise soudain que la routine entropique est perturbée."
+          },
+          {
+            "greek": "τί",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "εἴη",
+            "gloss": "pouvait_être"
+          },
+          {
+            "greek": "τοῦτο.",
+            "gloss": "cela"
+          }
         ]
       },
       {
@@ -51,14 +127,39 @@
           "darby": "Et on lui rapporta que Jésus le Nazaréen passait."
         },
         "interlinear": [
-          { "greek": "ἀπήγγειλαν", "gloss": "Ils_rapportèrent" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτῷ", "gloss": "à_lui" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ναζωραῖος", "gloss": "Nazaréen" },
-          { "greek": "παρέρχεται.", "gloss": "passe", "analyse": "Le verbe *par-erchomai* (passer le long de). C'est la loi du *Kairos* (le moment opportun). La Grâce est fulgurante : elle ne s'installe pas dans l'horizontalité pour s'y encroûter, elle 'passe'. L'opportunité d'Éveil est transitoire." }
+          {
+            "greek": "ἀπήγγειλαν",
+            "gloss": "Ils_rapportèrent"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ναζωραῖος",
+            "gloss": "Nazaréen"
+          },
+          {
+            "greek": "παρέρχεται.",
+            "gloss": "passe",
+            "analyse": "Le verbe *par-erchomai* (passer le long de). C'est la loi du *Kairos* (le moment opportun). La Grâce est fulgurante : elle ne s'installe pas dans l'horizontalité pour s'y encroûter, elle 'passe'. L'opportunité d'Éveil est transitoire."
+          }
         ]
       },
       {
@@ -68,14 +169,40 @@
           "darby": "Et il s'écria, disant : Jésus, Fils de David, aie pitié de moi !"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ἐβόησεν", "gloss": "il_cria/hurla", "analyse": "Le verbe *boao*. Ce n'est pas une prière intellectuelle ou un discours religieux. C'est le hurlement viscéral de l'être qui refuse de mourir dans la matrice. C'est l'émission vibratoire de survie." },
-          { "greek": "λέγων·", "gloss": "disant" },
-          { "greek": "Ἰησοῦ,", "gloss": "Jésus" },
-          { "greek": "υἱὲ", "gloss": "Fils" },
-          { "greek": "Δαυίδ,", "gloss": "de_David" },
-          { "greek": "ἐλέησόν", "gloss": "fais_miséricorde/aie_pitié", "analyse": "Le *eleeson*. Il ne demande pas de l'argent (comme il le faisait avec les passants). Il exige l'effusion de l'Énergie divine pour combler sa faille ontologique." },
-          { "greek": "με.", "gloss": "de_moi" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐβόησεν",
+            "gloss": "il_cria/hurla",
+            "analyse": "Le verbe *boao*. Ce n'est pas une prière intellectuelle ou un discours religieux. C'est le hurlement viscéral de l'être qui refuse de mourir dans la matrice. C'est l'émission vibratoire de survie."
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἰησοῦ,",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "υἱὲ",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "Δαυίδ,",
+            "gloss": "de_David"
+          },
+          {
+            "greek": "ἐλέησόν",
+            "gloss": "fais_miséricorde/aie_pitié",
+            "analyse": "Le *eleeson*. Il ne demande pas de l'argent (comme il le faisait avec les passants). Il exige l'effusion de l'Énergie divine pour combler sa faille ontologique."
+          },
+          {
+            "greek": "με.",
+            "gloss": "de_moi"
+          }
         ]
       },
       {
@@ -85,45 +212,142 @@
           "darby": "Et ceux qui allaient devant le reprenaient, afin qu'il se tût ; mais il criait d'autant plus : Fils de David, aie pitié de moi !"
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "οἱ", "gloss": "ceux" },
-          { "greek": "προάγοντες", "gloss": "allant_devant/précédant", "analyse": "L'avant-garde de la foule. La matrice sociale possède ses propres gardiens. Le système horizontal déteste l'anomalie vibratoire." },
-          { "greek": "ἐπετίμων", "gloss": "reprochaient/rabrouaient", "analyse": "Le verbe *epitimao*. Le même verbe utilisé par Jésus pour exorciser les démons. Le Monde duel tente littéralement d'exorciser le désir d'Éveil du mendiant en le réprimant." },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "ἵνα", "gloss": "afin_qu'" },
-          { "greek": "σιγήσῃ·", "gloss": "il_se_taise/garde_le_silence", "analyse": "Le but du système est le silence métaphysique. L'Ego doit rester engourdi. Si le Sujet cède à la pression de la foule, son élan vertical est avorté." },
-          { "greek": "αὐτὸς", "gloss": "lui" },
-          { "greek": "δὲ", "gloss": "or/mais" },
-          { "greek": "πολλῷ", "gloss": "beaucoup" },
-          { "greek": "μᾶλλον", "gloss": "plus/davantage" },
-          { "greek": "ἔκραζεν·", "gloss": "criait/coassait", "analyse": "Le verbe change : *krazo*. Ce n'est plus l'appel humain (*boao*), c'est le cri primitif (comme le croassement du corbeau). L'opposition de la Matrice n'a pas étouffé l'aveugle, elle a décuplé sa fréquence vibratoire. L'Éveil exige cette violence." },
-          { "greek": "Υἱὲ", "gloss": "Fils" },
-          { "greek": "Δαυίδ,", "gloss": "de_David" },
-          { "greek": "ἐλέησόν", "gloss": "fais_miséricorde" },
-          { "greek": "με.", "gloss": "de_moi" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "προάγοντες",
+            "gloss": "allant_devant/précédant",
+            "analyse": "L'avant-garde de la foule. La matrice sociale possède ses propres gardiens. Le système horizontal déteste l'anomalie vibratoire."
+          },
+          {
+            "greek": "ἐπετίμων",
+            "gloss": "reprochaient/rabrouaient",
+            "analyse": "Le verbe *epitimao*. Le même verbe utilisé par Jésus pour exorciser les démons. Le Monde duel tente littéralement d'exorciser le désir d'Éveil du mendiant en le réprimant."
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_qu'"
+          },
+          {
+            "greek": "σιγήσῃ·",
+            "gloss": "il_se_taise/garde_le_silence",
+            "analyse": "Le but du système est le silence métaphysique. L'Ego doit rester engourdi. Si le Sujet cède à la pression de la foule, son élan vertical est avorté."
+          },
+          {
+            "greek": "αὐτὸς",
+            "gloss": "lui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "πολλῷ",
+            "gloss": "beaucoup"
+          },
+          {
+            "greek": "μᾶλλον",
+            "gloss": "plus/davantage"
+          },
+          {
+            "greek": "ἔκραζεν·",
+            "gloss": "criait/coassait",
+            "analyse": "Le verbe change : *krazo*. Ce n'est plus l'appel humain (*boao*), c'est le cri primitif (comme le croassement du corbeau). L'opposition de la Matrice n'a pas étouffé l'aveugle, elle a décuplé sa fréquence vibratoire. L'Éveil exige cette violence."
+          },
+          {
+            "greek": "Υἱὲ",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "Δαυίδ,",
+            "gloss": "de_David"
+          },
+          {
+            "greek": "ἐλέησόν",
+            "gloss": "fais_miséricorde"
+          },
+          {
+            "greek": "με.",
+            "gloss": "de_moi"
+          }
         ]
       },
-  {
+      {
         "verse_number": 40,
         "translations": {
           "segond": "Jésus, s'étant arrêté, ordonna qu'on le lui amène ; et, quand il se fut approché,",
           "darby": "Et Jésus, s'arrêtant, commanda qu'on le lui amenât ; et comme il s'approchait, il l'interrogea, disant :"
         },
         "interlinear": [
-          { "greek": "σταθεὶς", "gloss": "S'étant_arrêté/Se_tenant_debout", "analyse": "Le participe aoriste de *histemi* (se tenir droit, dresser l'Axe). Le cri primitif du Sujet a percé le bruit de la Matrice. L'Incréé réagit instantanément à cette fréquence : Il stoppe Son mouvement horizontal pour s'ériger comme l'Axe absolu autour duquel tout va s'ordonner." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ἐκέλευσεν", "gloss": "ordonna" },
-          { "greek": "αὐτὸν", "gloss": "lui" },
-          { "greek": "ἀχθῆναι", "gloss": "d'être_amené" },
-          { "greek": "πρὸς", "gloss": "vers" },
-          { "greek": "αὐτόν.", "gloss": "lui", "analyse": "L'inversion gravitaire. L'aveugle était relégué à la périphérie, le Christ devient le Centre magnétique (*pros auton*) qui aspire le Sujet." },
-          { "greek": "ἐγγίσαντος", "gloss": "S'étant_approché", "analyse": "Le même verbe *eggizo* (approcher) utilisé pour Jésus au verset 35. L'Incréé s'est approché de la ville ; maintenant, c'est le Sujet qui s'approche de la Lumière. La rencontre métaphysique est imminente." },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "αὐτοῦ", "gloss": "de_lui" },
-          { "greek": "ἐπηρώτησεν", "gloss": "il_interrogea" },
-          { "greek": "αὐτόν·", "gloss": "lui" }
+          {
+            "greek": "σταθεὶς",
+            "gloss": "S'étant_arrêté/Se_tenant_debout",
+            "analyse": "Le participe aoriste de *histemi* (se tenir droit, dresser l'Axe). Le cri primitif du Sujet a percé le bruit de la Matrice. L'Incréé réagit instantanément à cette fréquence : Il stoppe Son mouvement horizontal pour s'ériger comme l'Axe absolu autour duquel tout va s'ordonner."
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐκέλευσεν",
+            "gloss": "ordonna"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἀχθῆναι",
+            "gloss": "d'être_amené"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτόν.",
+            "gloss": "lui",
+            "analyse": "L'inversion gravitaire. L'aveugle était relégué à la périphérie, le Christ devient le Centre magnétique (*pros auton*) qui aspire le Sujet."
+          },
+          {
+            "greek": "ἐγγίσαντος",
+            "gloss": "S'étant_approché",
+            "analyse": "Le même verbe *eggizo* (approcher) utilisé pour Jésus au verset 35. L'Incréé s'est approché de la ville ; maintenant, c'est le Sujet qui s'approche de la Lumière. La rencontre métaphysique est imminente."
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐπηρώτησεν",
+            "gloss": "il_interrogea"
+          },
+          {
+            "greek": "αὐτόν·",
+            "gloss": "lui"
+          }
         ]
       },
       {
@@ -133,16 +357,49 @@
           "darby": "Que veux-tu que je te fasse ? Et il dit : Seigneur, que je recouvre la vue."
         },
         "interlinear": [
-          { "greek": "Τί", "gloss": "Que" },
-          { "greek": "σοι", "gloss": "à_toi" },
-          { "greek": "θέλεις", "gloss": "veux-tu" },
-          { "greek": "ποιήσω;", "gloss": "que_je_fasse", "analyse": "La question vertigineuse du Libre Arbitre. Dieu connaît sa cécité, mais l'Incréé ne viole jamais la volonté de la créature. Le Sujet doit formuler consciemment son désir de Lumière, cesser d'être passif pour devenir acteur de son propre éveil." },
-          { "greek": "ὁ", "gloss": "le/lui" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "εἶπεν·", "gloss": "dit" },
-          { "greek": "Κύριε,", "gloss": "Seigneur", "analyse": "Le titre change. De 'Fils de David' (titre messianique et temporel de la lignée humaine), il passe à 'Kyrios' (le Maître absolu, la reconnaissance de l'Axe divin)." },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἀναβλέψω.", "gloss": "je_regarde_vers_le_haut/recouvre_la_vue", "analyse": "Le verbe décisif : *ana-blepo*. Composé de *ana-* (mouvement ascendant, vers le haut) et *blepo* (voir). L'aveugle ne demande pas simplement une réparation ophtalmologique pour regarder le trottoir ; il demande le redressement de sa perception. Voir, c'est regarder vers le Haut." }
+          {
+            "greek": "Τί",
+            "gloss": "Que"
+          },
+          {
+            "greek": "σοι",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "θέλεις",
+            "gloss": "veux-tu"
+          },
+          {
+            "greek": "ποιήσω;",
+            "gloss": "que_je_fasse",
+            "analyse": "La question vertigineuse du Libre Arbitre. Dieu connaît sa cécité, mais l'Incréé ne viole jamais la volonté de la créature. Le Sujet doit formuler consciemment son désir de Lumière, cesser d'être passif pour devenir acteur de son propre éveil."
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le/lui"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur",
+            "analyse": "Le titre change. De 'Fils de David' (titre messianique et temporel de la lignée humaine), il passe à 'Kyrios' (le Maître absolu, la reconnaissance de l'Axe divin)."
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἀναβλέψω.",
+            "gloss": "je_regarde_vers_le_haut/recouvre_la_vue",
+            "analyse": "Le verbe décisif : *ana-blepo*. Composé de *ana-* (mouvement ascendant, vers le haut) et *blepo* (voir). L'aveugle ne demande pas simplement une réparation ophtalmologique pour regarder le trottoir ; il demande le redressement de sa perception. Voir, c'est regarder vers le Haut."
+          }
         ]
       },
       {
@@ -152,17 +409,53 @@
           "darby": "Et Jésus lui dit : Recouvre la vue ; ta foi t'a guéri."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "εἶπεν", "gloss": "dit" },
-          { "greek": "αὐτῷ·", "gloss": "à_lui" },
-          { "greek": "Ἀνάβλεψον·", "gloss": "Regarde_vers_le_haut/Recouvre_la_vue", "analyse": "L'impératif aoriste de l'Incréé. La fréquence du verbe créateur (*Logos*) déchire l'opacité. L'Axe ordonne la verticalité." },
-          { "greek": "ἡ", "gloss": "la" },
-          { "greek": "πίστις", "gloss": "foi", "analyse": "L'abandon inconditionnel à l'Énergie divine. La foi n'est pas une croyance intellectuelle, c'est ce hurlement viscéral qui a refusé de céder aux intimidations du système." },
-          { "greek": "σου", "gloss": "de_toi" },
-          { "greek": "σέσωκέν", "gloss": "t'a_sauvé", "analyse": "Le verbe *sozo* au parfait. Comme pour le lépreux, Jésus ne dit pas 't'a guéri'. L'intégrité ontologique de l'être est définitivement restaurée. Le Salut est l'unification." },
-          { "greek": "σε.", "gloss": "toi" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἀνάβλεψον·",
+            "gloss": "Regarde_vers_le_haut/Recouvre_la_vue",
+            "analyse": "L'impératif aoriste de l'Incréé. La fréquence du verbe créateur (*Logos*) déchire l'opacité. L'Axe ordonne la verticalité."
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "πίστις",
+            "gloss": "foi",
+            "analyse": "L'abandon inconditionnel à l'Énergie divine. La foi n'est pas une croyance intellectuelle, c'est ce hurlement viscéral qui a refusé de céder aux intimidations du système."
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "σέσωκέν",
+            "gloss": "t'a_sauvé",
+            "analyse": "Le verbe *sozo* au parfait. Comme pour le lépreux, Jésus ne dit pas 't'a guéri'. L'intégrité ontologique de l'être est définitivement restaurée. Le Salut est l'unification."
+          },
+          {
+            "greek": "σε.",
+            "gloss": "toi"
+          }
         ]
       },
       {
@@ -172,30 +465,181 @@
           "darby": "Et à l'instant il recouvra la vue, et il le suivait, glorifiant Dieu. Et tout le peuple, voyant cela, donna louange à Dieu."
         },
         "interlinear": [
-          { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "παραχρῆμα", "gloss": "à_l'instant_même", "analyse": "L'immédiateté de la Grâce. L'illumination ne nécessite pas un processus temporel (*Chronos*), elle advient dans la fulgurance du *Kairos*." },
-          { "greek": "ἀνέβλεψεν,", "gloss": "il_regarda_vers_le_haut" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἠκολούθει", "gloss": "il_suivait/faisait_route_avec", "analyse": "Le verbe *akoloutheo*. Le renversement topographique total. Il était statique et exclu sur le bas-côté (*para ten hodon* au v.35) ; il est maintenant en marche, aligné derrière l'Axe christique sur la Voie. L'Ego est mort, le Sujet marche." },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "δοξάζων", "gloss": "glorifiant", "analyse": "L'émission vibratoire de l'Éveillé. Il ne mendie plus l'énergie du monde, il rayonne la *Doxa* (la Gloire) vers la Source." },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "θεόν.", "gloss": "Dieu" },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πᾶς", "gloss": "tout" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λαὸς", "gloss": "peuple" },
-          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
-          { "greek": "ἔδωκεν", "gloss": "donna" },
-          { "greek": "αἶνον", "gloss": "louange", "analyse": "La victoire métaphysique sur la Matrice. La foule (le système duel) qui tentait de l'étouffer au verset 39 est maintenant forcée d'assister à l'Éveil et de s'aligner sur la fréquence de la louange." },
-          { "greek": "τῷ", "gloss": "à_le" },
-          { "greek": "θεῷ.", "gloss": "Dieu" }
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "παραχρῆμα",
+            "gloss": "à_l'instant_même",
+            "analyse": "L'immédiateté de la Grâce. L'illumination ne nécessite pas un processus temporel (*Chronos*), elle advient dans la fulgurance du *Kairos*."
+          },
+          {
+            "greek": "ἀνέβλεψεν,",
+            "gloss": "il_regarda_vers_le_haut"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἠκολούθει",
+            "gloss": "il_suivait/faisait_route_avec",
+            "analyse": "Le verbe *akoloutheo*. Le renversement topographique total. Il était statique et exclu sur le bas-côté (*para ten hodon* au v.35) ; il est maintenant en marche, aligné derrière l'Axe christique sur la Voie. L'Ego est mort, le Sujet marche."
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "δοξάζων",
+            "gloss": "glorifiant",
+            "analyse": "L'émission vibratoire de l'Éveillé. Il ne mendie plus l'énergie du monde, il rayonne la *Doxa* (la Gloire) vers la Source."
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεόν.",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πᾶς",
+            "gloss": "tout"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λαὸς",
+            "gloss": "peuple"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "donna"
+          },
+          {
+            "greek": "αἶνον",
+            "gloss": "louange",
+            "analyse": "La victoire métaphysique sur la Matrice. La foule (le système duel) qui tentait de l'étouffer au verset 39 est maintenant forcée d'assister à l'Éveil et de s'aligner sur la fréquence de la louange."
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_le"
+          },
+          {
+            "greek": "θεῷ.",
+            "gloss": "Dieu"
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 41/42 - ἀναβλέψω / Ἀνάβλεψον : Traduit par 'que je recouvre la vue'. Si le sens clinique est correct, l'étymologie grecque (*ana* = vers le haut, *blepo* = regarder) est occultée. C'est dommage, car toute la scène joue sur la géométrie. La cécité est l'enfermement dans les ténèbres horizontales ; la guérison est littéralement la capacité à 'regarder vers le Haut', vers la Lumière Incréée.\n• Verset 42 - σέσωκέν : Darby traduit encore une fois *sozo* par 't'a guéri', tandis que Segond utilise avec justesse 't'a sauvé'. L'acte du Christ n'est pas un miracle médical, c'est la reconnexion du Sujet à son intégrité éternelle.\n\nAnalyse spirituelle :\nCet épisode est le manuel pratique de l'extraction hors du Monde duel.\n\nAu début de la péricope, l'aveugle rassemble tous les stigmates de l'Ego : il est dans les ténèbres (*typhlos*), statique (assis), exclu de l'Axe de la Vie (au bord du chemin) et vampirise l'énergie environnante pour survivre (la mendicité). Il est englué dans le bruit de la Matrice (la foule/l'*ochlos*). \n\nL'annonce du passage de Jésus (*parerchomai*) déclenche la bascule. L'aveugle tente de se connecter à la verticalité en appelant le Christ (*boao*), mais le système duel réagit immédiatement avec violence. L'avant-garde de la foule tente de le réprimer (*epitimao*) pour le forcer au silence. La Matrice déteste qu'une de ses 'piles' se réveille.\n\nMais le Sujet refuse de céder. Il passe de l'appel poli au cri viscéral, presque animal (*krazo*). C'est cette violence vibratoire du désir d'Être qui force l'Axe à s'arrêter (*statheis*). L'Incréé se dresse face à lui et le convoque.\n\nL'échange qui suit est la quintessence du Libre Arbitre. Jésus ne présume de rien. Il demande 'Que veux-tu ?'. L'Ego aurait pu demander un sac d'or, une aumône monumentale. Mais la souffrance a creusé en lui l'espace nécessaire (*Kénose*). Il ne demande plus rien d'horizontal, il veut la Lumière (*ana-blepo*, le regard vertical). En réponse, l'Incréé valide cette fréquence (*ta foi t'a sauvé*). \n\nL'épilogue révèle le retournement total de la Création : le mendiant statique et aveugle devient le Sujet clairvoyant qui marche activement sur la Voie (*akolouthei*). Et la Matrice, qui voulait le faire taire, est pulvérisée par l'irruption de la Grâce, obligée à son tour de chanter la Gloire de l'Incréé."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 41/42 - ἀναβλέψω / Ἀνάβλεψον : Traduit par 'que je recouvre la vue'. Si le sens clinique est correct, l'étymologie grecque (*ana* = vers le haut, *blepo* = regarder) est occultée. C'est dommage, car toute la scène joue sur la géométrie. La cécité est l'enfermement dans les ténèbres horizontales ; la guérison est littéralement la capacité à 'regarder vers le Haut', vers la Lumière Incréée.\n• Verset 42 - σέσωκέν : Darby traduit encore une fois *sozo* par 't'a guéri', tandis que Segond utilise avec justesse 't'a sauvé'. L'acte du Christ n'est pas un miracle médical, c'est la reconnexion du Sujet à son intégrité éternelle.\n\nAnalyse spirituelle :\nCet épisode est le manuel pratique de l'extraction hors du Monde duel.\n\nAu début de la péricope, l'aveugle rassemble tous les stigmates de l'Ego : il est dans les ténèbres (*typhlos*), statique (assis), exclu de l'Axe de la Vie (au bord du chemin) et vampirise l'énergie environnante pour survivre (la mendicité). Il est englué dans le bruit de la Matrice (la foule/l'*ochlos*). \n\nL'annonce du passage de Jésus (*parerchomai*) déclenche la bascule. L'aveugle tente de se connecter à la verticalité en appelant le Christ (*boao*), mais le système duel réagit immédiatement avec violence. L'avant-garde de la foule tente de le réprimer (*epitimao*) pour le forcer au silence. La Matrice déteste qu'une de ses 'piles' se réveille.\n\nMais le Sujet refuse de céder. Il passe de l'appel poli au cri viscéral, presque animal (*krazo*). C'est cette violence vibratoire du désir d'Être qui force l'Axe à s'arrêter (*statheis*). L'Incréé se dresse face à lui et le convoque.\n\nL'échange qui suit est la quintessence du Libre Arbitre. Jésus ne présume de rien. Il demande 'Que veux-tu ?'. L'Ego aurait pu demander un sac d'or, une aumône monumentale. Mais la souffrance a creusé en lui l'espace nécessaire (*Kénose*). Il ne demande plus rien d'horizontal, il veut la Lumière (*ana-blepo*, le regard vertical). En réponse, l'Incréé valide cette fréquence (*ta foi t'a sauvé*). \n\nL'épilogue révèle le retournement total de la Création : le mendiant statique et aveugle devient le Sujet clairvoyant qui marche activement sur la Voie (*akolouthei*). Et la Matrice, qui voulait le faire taire, est pulvérisée par l'irruption de la Grâce, obligée à son tour de chanter la Gloire de l'Incréé.",
+    "homiletic_axes": [
+      {
+        "title": "Le cri rencontre la miséricorde",
+        "content": "L’aveugle appelle Jésus « Fils de David » et demande pitié. Paul confesse avoir lui-même reçu miséricorde. Dans les deux lectures, la rencontre commence non par la revendication d’un mérite, mais par l’accueil de la compassion du Christ.",
+        "keywords": [
+          "ἐλεέω — faire miséricorde",
+          "κραυγάζω — crier",
+          "Χριστὸς Ἰησοῦς — Christ Jésus"
+        ]
+      },
+      {
+        "title": "Une parole digne de confiance",
+        "content": "Paul introduit son témoignage par « cette parole est certaine ». L’aveugle, sans voir encore, reconnaît déjà en Jésus le Fils de David. La foi s’appuie sur une parole reçue avant de devenir vision.",
+        "keywords": [
+          "πιστός — digne de confiance",
+          "πίστις — foi",
+          "ἀναβλέπω — recouvrer la vue"
+        ]
+      },
+      {
+        "title": "Du bord du chemin à la suite du Christ",
+        "content": "Assis au bord de la route, l’aveugle se lève après sa guérison et suit Jésus. La miséricorde ne le ramène pas seulement à une capacité perdue : elle le fait entrer sur le chemin du disciple.",
+        "keywords": [
+          "ὁδός — chemin",
+          "ἀκολουθέω — suivre",
+          "σῴζω — sauver/guérir"
+        ]
+      },
+      {
+        "title": "Le premier des pécheurs devient témoin",
+        "content": "Paul ne cache pas son passé ; la patience du Christ en fait un exemple pour ceux qui croiront. De même, la guérison de l’aveugle devient louange publique et entraîne le peuple à glorifier Dieu.",
+        "keywords": [
+          "πρῶτος — premier",
+          "μακροθυμία — patience",
+          "δοξάζω — glorifier"
+        ]
+      },
+      {
+        "title": "De la supplication à la doxologie",
+        "content": "Le récit commence par un cri de détresse et s’achève dans la glorification de Dieu. L’Apôtre suit le même mouvement : après la confession de la miséricorde reçue vient la bénédiction du Roi éternel.",
+        "keywords": [
+          "δέησις — supplication",
+          "αἶνος — louange",
+          "δόξα — gloire"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « L’Aveugle de Jéricho » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Suivez le déplacement du cri vers la vision, de la miséricorde vers la marche, puis du témoignage vers la doxologie."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La miséricorde rend voyant et témoin",
+        "reference": "Luc 18, 35-43 ; 1 Timothée 1, 15-17",
+        "content": "L’aveugle reçoit la vue et glorifie Dieu ; Paul reçoit miséricorde et devient un exemple vivant de la patience du Christ.",
+        "connections": []
+      }
+    ]
   },
- "apostle": {
+  "apostle": {
     "reference": "1 Timothée 1, 15-17",
     "title": "Le Fractal de l'Éveil : De l'Ego Désaxé au Roi de la Non-Dualité",
     "interlinear": [
@@ -206,26 +650,94 @@
           "darby": "C'est une parole certaine et digne de toute acceptation, que le Christ Jésus est venu dans le monde pour sauver les pécheurs, dont moi je suis le premier."
         },
         "interlinear": [
-          { "greek": "Πιστὸς", "gloss": "Fidèle/Certaine", "analyse": "Le mot *pistos*. Ce qui est ontologiquement stable, qui ne fluctue pas selon les turbulences de la Matrice. La vérité de l'Incréé est une constante absolue." },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "λόγος", "gloss": "Logos/Parole", "analyse": "La fréquence émise par l'Axe divin, le principe structurant du Réel." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "πάσης", "gloss": "de_toute" },
-          { "greek": "ἀποδοχῆς", "gloss": "réception/acceptation", "analyse": "Le verbe racine est *apo-dechomai* (accueillir de l'extérieur vers l'intérieur). Le Logos n'est pas un concept à analyser intellectuellement, c'est une onde vibratoire qui exige d'être accueillie (*kénose*) par le Sujet." },
-          { "greek": "ἄξιος,", "gloss": "digne" },
-          { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Χριστὸς", "gloss": "Christ" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "ἦλθεν", "gloss": "vint", "analyse": "L'irruption de la Verticalité dans l'Horizontalité." },
-          { "greek": "εἰς", "gloss": "dans" },
-          { "greek": "τὸν", "gloss": "le" },
-          { "greek": "κόσμον", "gloss": "monde", "analyse": "Le *Kosmos* : l'ordre illusoire, la Matrice duelle organisée par et pour l'Ego, soumise à la loi de la fragmentation et du temps." },
-          { "greek": "ἁμαρτωλοὺς", "gloss": "pécheurs", "analyse": "Les *hamartolous*. Étymologiquement : 'ceux qui manquent la cible'. Le pécheur n'est pas d'abord un criminel moral, c'est un être dont la trajectoire géométrique est désalignée de l'Axe. Son énergie se perd dans l'entropie." },
-          { "greek": "σῶσαι,", "gloss": "pour_sauver", "analyse": "Le verbe *sozo* : préserver de la destruction, rendre entier et intact. L'Incréé ne vient pas distribuer des bons points moraux, il vient remembrer et unifier ce qui s'était fragmenté." },
-          { "greek": "ὧν", "gloss": "desquels" },
-          { "greek": "πρῶτός", "gloss": "le_premier", "analyse": "Le *Protos*. Paul ne fait pas de la fausse humilité psychologique. En tant qu'ancien pharisien persécuteur (Saul), il était l'architecture la plus sophistiquée et la plus dense de l'Ego religieux : il représente le sommet de l'illusion horizontale." },
-          { "greek": "εἰμι", "gloss": "suis" },
-          { "greek": "ἐγώ.", "gloss": "moi/je" }
+          {
+            "greek": "Πιστὸς",
+            "gloss": "Fidèle/Certaine",
+            "analyse": "Le mot *pistos*. Ce qui est ontologiquement stable, qui ne fluctue pas selon les turbulences de la Matrice. La vérité de l'Incréé est une constante absolue."
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "λόγος",
+            "gloss": "Logos/Parole",
+            "analyse": "La fréquence émise par l'Axe divin, le principe structurant du Réel."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάσης",
+            "gloss": "de_toute"
+          },
+          {
+            "greek": "ἀποδοχῆς",
+            "gloss": "réception/acceptation",
+            "analyse": "Le verbe racine est *apo-dechomai* (accueillir de l'extérieur vers l'intérieur). Le Logos n'est pas un concept à analyser intellectuellement, c'est une onde vibratoire qui exige d'être accueillie (*kénose*) par le Sujet."
+          },
+          {
+            "greek": "ἄξιος,",
+            "gloss": "digne"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "vint",
+            "analyse": "L'irruption de la Verticalité dans l'Horizontalité."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμον",
+            "gloss": "monde",
+            "analyse": "Le *Kosmos* : l'ordre illusoire, la Matrice duelle organisée par et pour l'Ego, soumise à la loi de la fragmentation et du temps."
+          },
+          {
+            "greek": "ἁμαρτωλοὺς",
+            "gloss": "pécheurs",
+            "analyse": "Les *hamartolous*. Étymologiquement : 'ceux qui manquent la cible'. Le pécheur n'est pas d'abord un criminel moral, c'est un être dont la trajectoire géométrique est désalignée de l'Axe. Son énergie se perd dans l'entropie."
+          },
+          {
+            "greek": "σῶσαι,",
+            "gloss": "pour_sauver",
+            "analyse": "Le verbe *sozo* : préserver de la destruction, rendre entier et intact. L'Incréé ne vient pas distribuer des bons points moraux, il vient remembrer et unifier ce qui s'était fragmenté."
+          },
+          {
+            "greek": "ὧν",
+            "gloss": "desquels"
+          },
+          {
+            "greek": "πρῶτός",
+            "gloss": "le_premier",
+            "analyse": "Le *Protos*. Paul ne fait pas de la fausse humilité psychologique. En tant qu'ancien pharisien persécuteur (Saul), il était l'architecture la plus sophistiquée et la plus dense de l'Ego religieux : il représente le sommet de l'illusion horizontale."
+          },
+          {
+            "greek": "εἰμι",
+            "gloss": "suis"
+          },
+          {
+            "greek": "ἐγώ.",
+            "gloss": "moi/je"
+          }
         ]
       },
       {
@@ -235,60 +747,292 @@
           "darby": "Mais miséricorde m'a été faite à cause de ceci, savoir afin qu'en moi, le premier, Jésus Christ montrât toute sa parfaite patience, pour servir de modèle à ceux qui croiront en lui pour la vie éternelle."
         },
         "interlinear": [
-          { "greek": "ἀλλὰ", "gloss": "Mais" },
-          { "greek": "διὰ", "gloss": "à_cause_de" },
-          { "greek": "τοῦτο", "gloss": "cela" },
-          { "greek": "ἠλεήθην,", "gloss": "j'ai_obtenu_miséricorde", "analyse": "Le verbe *eleeo* au passif. Le Sujet a été traversé par l'effusion de l'Énergie divine (*Eleos*), qui a comblé la faille ontologique que ses œuvres religieuses égotiques ne pouvaient réparer." },
-          { "greek": "ἵνα", "gloss": "afin_que" },
-          { "greek": "ἐν", "gloss": "en" },
-          { "greek": "ἐμοὶ", "gloss": "moi" },
-          { "greek": "πρώτῳ", "gloss": "le_premier" },
-          { "greek": "ἐνδείξηται", "gloss": "il_démontre/fasse_voir", "analyse": "Le verbe *en-deiknymi* (manifester à l'intérieur, produire une preuve tangible). Le Christ utilise la matière dense de Paul comme écran de projection pour y faire éclater la Lumière." },
-          { "greek": "Χριστὸς", "gloss": "Christ" },
-          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
-          { "greek": "τὴν", "gloss": "la" },
-          { "greek": "ἅπασαν", "gloss": "toute/absolue" },
-          { "greek": "μακροθυμίαν,", "gloss": "longanimité/patience", "analyse": "La *Makro-thymia*. Composé de *makros* (long/vaste) et *thymos* (souffle/feu). C'est le 'Souffle long' de Dieu. Face à l'Ego (Saul) qui s'agitait frénétiquement dans la persécution (le souffle court, l'entropie), l'Incréé a opposé une dilatation de l'espace-temps, refusant la friction jusqu'à ce que l'Ego s'épuise et s'effondre (sur le chemin de Damas)." },
-          { "greek": "πρὸς", "gloss": "vers/pour" },
-          { "greek": "ὑποτύπωσιν", "gloss": "un_modèle/esquisse", "analyse": "Le mot magnifique *hypo-typosis* (l'empreinte, l'esquisse modèle). Paul est le fractal témoin. Son cas clinique de désintégration de l'Ego et de résurrection du Sujet sert de gabarit géométrique pour tous les réveils à venir." },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "μελλόντων", "gloss": "devant/allant" },
-          { "greek": "πιστεύειν", "gloss": "croire/s'abandonner" },
-          { "greek": "ἐπ’", "gloss": "sur" },
-          { "greek": "αὐτῷ", "gloss": "lui" },
-          { "greek": "εἰς", "gloss": "vers" },
-          { "greek": "ζωὴν", "gloss": "vie" },
-          { "greek": "αἰώνιον.", "gloss": "éternelle", "analyse": "La *Zoe aionios*. La vie qui jaillit hors de la compression du temps horizontal pour rejoindre la fréquence inaltérable de l'Incréé." }
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "Mais"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "ἠλεήθην,",
+            "gloss": "j'ai_obtenu_miséricorde",
+            "analyse": "Le verbe *eleeo* au passif. Le Sujet a été traversé par l'effusion de l'Énergie divine (*Eleos*), qui a comblé la faille ontologique que ses œuvres religieuses égotiques ne pouvaient réparer."
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "πρώτῳ",
+            "gloss": "le_premier"
+          },
+          {
+            "greek": "ἐνδείξηται",
+            "gloss": "il_démontre/fasse_voir",
+            "analyse": "Le verbe *en-deiknymi* (manifester à l'intérieur, produire une preuve tangible). Le Christ utilise la matière dense de Paul comme écran de projection pour y faire éclater la Lumière."
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἅπασαν",
+            "gloss": "toute/absolue"
+          },
+          {
+            "greek": "μακροθυμίαν,",
+            "gloss": "longanimité/patience",
+            "analyse": "La *Makro-thymia*. Composé de *makros* (long/vaste) et *thymos* (souffle/feu). C'est le 'Souffle long' de Dieu. Face à l'Ego (Saul) qui s'agitait frénétiquement dans la persécution (le souffle court, l'entropie), l'Incréé a opposé une dilatation de l'espace-temps, refusant la friction jusqu'à ce que l'Ego s'épuise et s'effondre (sur le chemin de Damas)."
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers/pour"
+          },
+          {
+            "greek": "ὑποτύπωσιν",
+            "gloss": "un_modèle/esquisse",
+            "analyse": "Le mot magnifique *hypo-typosis* (l'empreinte, l'esquisse modèle). Paul est le fractal témoin. Son cas clinique de désintégration de l'Ego et de résurrection du Sujet sert de gabarit géométrique pour tous les réveils à venir."
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "μελλόντων",
+            "gloss": "devant/allant"
+          },
+          {
+            "greek": "πιστεύειν",
+            "gloss": "croire/s'abandonner"
+          },
+          {
+            "greek": "ἐπ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "vie"
+          },
+          {
+            "greek": "αἰώνιον.",
+            "gloss": "éternelle",
+            "analyse": "La *Zoe aionios*. La vie qui jaillit hors de la compression du temps horizontal pour rejoindre la fréquence inaltérable de l'Incréé."
+          }
         ]
       },
-       {
+      {
         "verse_number": 17,
         "translations": {
           "segond": "Au roi des siècles, immortel, invisible, seul Dieu, soient honneur et gloire, aux siècles des siècles ! Amen !",
           "darby": "Or, au Roi des siècles, l'incorruptible, l'invisible, seul Dieu, honneur et gloire aux siècles des siècles ! Amen."
         },
         "interlinear": [
-          { "greek": "Τῷ", "gloss": "Au" },
-          { "greek": "δὲ", "gloss": "or" },
-          { "greek": "βασιλεῖ", "gloss": "roi/souverain", "analyse": "Le *Basileus*. Le Principe directeur absolu, le Centre de gravité autour duquel tout l'univers est ordonné." },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "αἰώνων,", "gloss": "siècles/éons", "analyse": "Les *Aiones*. Il ne s'agit pas seulement du temps chronologique, mais des cycles cosmiques, des dimensions et des âges de l'univers. Le Christ est le souverain de la trame même de l'espace-temps." },
-          { "greek": "ἀφθάρτῳ,", "gloss": "incorruptible", "analyse": "L'*aphthartos* (privé de corruption). La caractéristique première de l'Incréé : l'immunité totale à l'entropie. Dans le Monde duel, toute forme finit par se dégrader et pourrir (*phthora*). L'Axe divin, lui, est inaltérable." },
-          { "greek": "ἀοράτῳ,", "gloss": "invisible", "analyse": "L'*aoratos* (non-saisissable par la vue). La fréquence de l'Incréé est trop haute pour être captée par les sens organiques de l'Ego. Il échappe à toute tentative de capture conceptuelle ou matérielle." },
-          { "greek": "μόνῳ", "gloss": "seul/unique", "analyse": "Le *monos*. La déclaration suprême de la Non-Dualité. Il n'y a pas Dieu d'un côté et le monde de l'autre. Il n'y a qu'UN seul Principe, une seule Réalité ultime au-delà des illusions séparatrices." },
-          { "greek": "θεῷ,", "gloss": "Dieu" },
-          { "greek": "τιμὴ", "gloss": "honneur/valeur", "analyse": "La *time* (le poids, l'estimation). Reconnaître que la seule 'Valeur' réelle dans tout l'univers est la Présence." },
-          { "greek": "καὶ", "gloss": "et" },
-          { "greek": "δόξα", "gloss": "gloire", "analyse": "La *doxa*. L'irradiation lumineuse, le rayonnement pur de cette Présence absolue." },
-          { "greek": "εἰς", "gloss": "vers/dans" },
-          { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "αἰῶνας", "gloss": "siècles" },
-          { "greek": "τῶν", "gloss": "des" },
-          { "greek": "αἰώνων·", "gloss": "siècles" },
-          { "greek": "ἀμήν.", "gloss": "amen", "analyse": "L'adhésion vibratoire totale. Le sceau qui verrouille l'alignement du Sujet sur l'Axe de l'Incréé." }
+          {
+            "greek": "Τῷ",
+            "gloss": "Au"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "βασιλεῖ",
+            "gloss": "roi/souverain",
+            "analyse": "Le *Basileus*. Le Principe directeur absolu, le Centre de gravité autour duquel tout l'univers est ordonné."
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "αἰώνων,",
+            "gloss": "siècles/éons",
+            "analyse": "Les *Aiones*. Il ne s'agit pas seulement du temps chronologique, mais des cycles cosmiques, des dimensions et des âges de l'univers. Le Christ est le souverain de la trame même de l'espace-temps."
+          },
+          {
+            "greek": "ἀφθάρτῳ,",
+            "gloss": "incorruptible",
+            "analyse": "L'*aphthartos* (privé de corruption). La caractéristique première de l'Incréé : l'immunité totale à l'entropie. Dans le Monde duel, toute forme finit par se dégrader et pourrir (*phthora*). L'Axe divin, lui, est inaltérable."
+          },
+          {
+            "greek": "ἀοράτῳ,",
+            "gloss": "invisible",
+            "analyse": "L'*aoratos* (non-saisissable par la vue). La fréquence de l'Incréé est trop haute pour être captée par les sens organiques de l'Ego. Il échappe à toute tentative de capture conceptuelle ou matérielle."
+          },
+          {
+            "greek": "μόνῳ",
+            "gloss": "seul/unique",
+            "analyse": "Le *monos*. La déclaration suprême de la Non-Dualité. Il n'y a pas Dieu d'un côté et le monde de l'autre. Il n'y a qu'UN seul Principe, une seule Réalité ultime au-delà des illusions séparatrices."
+          },
+          {
+            "greek": "θεῷ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "τιμὴ",
+            "gloss": "honneur/valeur",
+            "analyse": "La *time* (le poids, l'estimation). Reconnaître que la seule 'Valeur' réelle dans tout l'univers est la Présence."
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "δόξα",
+            "gloss": "gloire",
+            "analyse": "La *doxa*. L'irradiation lumineuse, le rayonnement pur de cette Présence absolue."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/dans"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "αἰῶνας",
+            "gloss": "siècles"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "αἰώνων·",
+            "gloss": "siècles"
+          },
+          {
+            "greek": "ἀμήν.",
+            "gloss": "amen",
+            "analyse": "L'adhésion vibratoire totale. Le sceau qui verrouille l'alignement du Sujet sur l'Axe de l'Incréé."
+          }
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 17 - ἀφθάρτῳ : Segond traduit par 'immortel', ce qui est une réduction biologique. Darby, plus précis, traduit par 'incorruptible'. L'*aphtharsia* grecque désigne l'absence totale de dégradation et d'usure. C'est l'anti-entropie par excellence, la qualité d'une Énergie qui ne s'épuise jamais et ne connaît aucune friction.\n• Verset 17 - μόνῳ θεῷ : La formule 'seul Dieu' (ou 'Dieu unique') est souvent lue comme un simple monothéisme dogmatique (un seul Dieu au lieu de plusieurs). Dans la mystique paulinienne, *monos Theos* est le cri de la Non-Dualité : Dieu est la seule chose qui *soit* véritablement. Tout le reste n'est qu'illusion ou reflet.\n\nAnalyse spirituelle :\nCette courte péricope condense toute l'architecture du Salut selon l'Apôtre, en passant de l'abîme de l'Ego au sommet de la contemplation non-duelle.\n\nPaul pose d'abord (v.15) le postulat de base : l'irruption du Logos dans la Matrice (*Kosmos*) n'a qu'un seul but, 'sauver les pécheurs', c'est-à-dire redresser ceux dont la géométrie ontologique est brisée et qui s'épuisent dans l'horizontalité. L'Apôtre s'auto-désigne comme le *Protos* (le premier/le chef) de ces pécheurs. Non par misérabilisme moral, mais parce que son ancien Ego (Saul le pharisien) était la construction mentale et religieuse la plus dense et la plus hermétique à la Grâce.\n\nLe verset 16 dévoile la méthode de l'Incréé : la *Makrothymia* (le souffle long, la patience cosmique). Dieu ne combat pas l'Ego de Paul par une force destructrice équivalente, Il l'enveloppe dans une dilatation vibratoire qui finit par dissoudre ses résistances. Paul devient alors une *hypotyposis*, un 'fractal de référence'. Son éveil fulgurant sert de modèle géométrique permanent pour prouver que l'Énergie divine peut transpercer n'importe quelle opacité.\n\nCe témoignage clinique aboutit logiquement (v.17) à une explosion doxologique. Une fois que l'Ego a été désintégré par l'expérience de la Miséricorde, le Sujet n'a plus rien à dire sur lui-même. Sa conscience est entièrement absorbée par la contemplation du Centre (*Basileus*), qui règne sur les cycles du temps (*Aiones*) tout en étant absolument inaltérable (*aphthartos*) et au-delà de toute perception sensorielle (*aoratos*). La péricope s'achève dans le silence de l'Unité (*monos Theos*), où la seule action possible est de réfléchir la Gloire (*Doxa*) de la Source. L'Amen final signe l'extinction de la dualité."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 17 - ἀφθάρτῳ : Segond traduit par 'immortel', ce qui est une réduction biologique. Darby, plus précis, traduit par 'incorruptible'. L'*aphtharsia* grecque désigne l'absence totale de dégradation et d'usure. C'est l'anti-entropie par excellence, la qualité d'une Énergie qui ne s'épuise jamais et ne connaît aucune friction.\n• Verset 17 - μόνῳ θεῷ : La formule 'seul Dieu' (ou 'Dieu unique') est souvent lue comme un simple monothéisme dogmatique (un seul Dieu au lieu de plusieurs). Dans la mystique paulinienne, *monos Theos* est le cri de la Non-Dualité : Dieu est la seule chose qui *soit* véritablement. Tout le reste n'est qu'illusion ou reflet.\n\nAnalyse spirituelle :\nCette courte péricope condense toute l'architecture du Salut selon l'Apôtre, en passant de l'abîme de l'Ego au sommet de la contemplation non-duelle.\n\nPaul pose d'abord (v.15) le postulat de base : l'irruption du Logos dans la Matrice (*Kosmos*) n'a qu'un seul but, 'sauver les pécheurs', c'est-à-dire redresser ceux dont la géométrie ontologique est brisée et qui s'épuisent dans l'horizontalité. L'Apôtre s'auto-désigne comme le *Protos* (le premier/le chef) de ces pécheurs. Non par misérabilisme moral, mais parce que son ancien Ego (Saul le pharisien) était la construction mentale et religieuse la plus dense et la plus hermétique à la Grâce.\n\nLe verset 16 dévoile la méthode de l'Incréé : la *Makrothymia* (le souffle long, la patience cosmique). Dieu ne combat pas l'Ego de Paul par une force destructrice équivalente, Il l'enveloppe dans une dilatation vibratoire qui finit par dissoudre ses résistances. Paul devient alors une *hypotyposis*, un 'fractal de référence'. Son éveil fulgurant sert de modèle géométrique permanent pour prouver que l'Énergie divine peut transpercer n'importe quelle opacité.\n\nCe témoignage clinique aboutit logiquement (v.17) à une explosion doxologique. Une fois que l'Ego a été désintégré par l'expérience de la Miséricorde, le Sujet n'a plus rien à dire sur lui-même. Sa conscience est entièrement absorbée par la contemplation du Centre (*Basileus*), qui règne sur les cycles du temps (*Aiones*) tout en étant absolument inaltérable (*aphthartos*) et au-delà de toute perception sensorielle (*aoratos*). La péricope s'achève dans le silence de l'Unité (*monos Theos*), où la seule action possible est de réfléchir la Gloire (*Doxa*) de la Source. L'Amen final signe l'extinction de la dualité.",
+    "homiletic_axes": [
+      {
+        "title": "Le cri rencontre la miséricorde",
+        "content": "L’aveugle appelle Jésus « Fils de David » et demande pitié. Paul confesse avoir lui-même reçu miséricorde. Dans les deux lectures, la rencontre commence non par la revendication d’un mérite, mais par l’accueil de la compassion du Christ.",
+        "keywords": [
+          "ἐλεέω — faire miséricorde",
+          "κραυγάζω — crier",
+          "Χριστὸς Ἰησοῦς — Christ Jésus"
+        ]
+      },
+      {
+        "title": "Une parole digne de confiance",
+        "content": "Paul introduit son témoignage par « cette parole est certaine ». L’aveugle, sans voir encore, reconnaît déjà en Jésus le Fils de David. La foi s’appuie sur une parole reçue avant de devenir vision.",
+        "keywords": [
+          "πιστός — digne de confiance",
+          "πίστις — foi",
+          "ἀναβλέπω — recouvrer la vue"
+        ]
+      },
+      {
+        "title": "Du bord du chemin à la suite du Christ",
+        "content": "Assis au bord de la route, l’aveugle se lève après sa guérison et suit Jésus. La miséricorde ne le ramène pas seulement à une capacité perdue : elle le fait entrer sur le chemin du disciple.",
+        "keywords": [
+          "ὁδός — chemin",
+          "ἀκολουθέω — suivre",
+          "σῴζω — sauver/guérir"
+        ]
+      },
+      {
+        "title": "Le premier des pécheurs devient témoin",
+        "content": "Paul ne cache pas son passé ; la patience du Christ en fait un exemple pour ceux qui croiront. De même, la guérison de l’aveugle devient louange publique et entraîne le peuple à glorifier Dieu.",
+        "keywords": [
+          "πρῶτος — premier",
+          "μακροθυμία — patience",
+          "δοξάζω — glorifier"
+        ]
+      },
+      {
+        "title": "De la supplication à la doxologie",
+        "content": "Le récit commence par un cri de détresse et s’achève dans la glorification de Dieu. L’Apôtre suit le même mouvement : après la confession de la miséricorde reçue vient la bénédiction du Roi éternel.",
+        "keywords": [
+          "δέησις — supplication",
+          "αἶνος — louange",
+          "δόξα — gloire"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « L’Aveugle de Jéricho » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Suivez le déplacement du cri vers la vision, de la miséricorde vers la marche, puis du témoignage vers la doxologie."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La miséricorde rend voyant et témoin",
+        "reference": "Luc 18, 35-43 ; 1 Timothée 1, 15-17",
+        "content": "L’aveugle reçoit la vue et glorifie Dieu ; Paul reçoit miséricorde et devient un exemple vivant de la patience du Christ.",
+        "connections": []
+      }
+    ]
   }
 }

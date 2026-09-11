@@ -5,648 +5,2101 @@
     "reference": "Matthieu 25, 31-46",
     "title": "Le Jugement Dernier : La Brebis et les Boucs",
     "interlinear": [
-   {
-    "verse_number": 31,
-    "translations": {
-      "segond": "Lorsque le Fils de l'homme viendra dans sa gloire, avec tous les anges, il s'assiéra sur le trône de sa gloire.",
-      "darby": "Or, quand le fils de l'homme viendra dans sa gloire, et tous les anges avec lui, alors il s'assiéra sur le trône de sa gloire,"
-    },
-    "interlinear": [
-      { "greek": "Ὅταν", "gloss": "Quand" },
-      { "greek": "δὲ", "gloss": "or/mais" },
-      { "greek": "ἔλθῃ", "gloss": "viendra" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "υἱὸς", "gloss": "fils" },
-      { "greek": "τοῦ", "gloss": "de_l'" },
-      { "greek": "ἀνθρώπου", "gloss": "homme" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "δόξῃ", "gloss": "gloire", "analyse": "Le mot *doxa* ne désigne pas ici une simple renommée humaine, mais les énergies divines incréées, la lumière éternelle de Dieu. Au moment du jugement, cette gloire n'est plus voilée : elle devient la réalité aveuglante qui éclaire l'état intérieur de chaque être." },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "πάντες", "gloss": "tous" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "ἄγγελοι", "gloss": "anges" },
-      { "greek": "μετ’", "gloss": "avec" },
-      { "greek": "αὐτοῦ,", "gloss": "lui" },
-      { "greek": "τότε", "gloss": "alors" },
-      { "greek": "καθίσει", "gloss": "il_s'assiéra" },
-      { "greek": "ἐπὶ", "gloss": "sur" },
-      { "greek": "θρόνου", "gloss": "trône" },
-      { "greek": "δόξης", "gloss": "de_gloire" },
-      { "greek": "αὐτοῦ·", "gloss": "de_lui" }
+      {
+        "verse_number": 31,
+        "translations": {
+          "segond": "Lorsque le Fils de l'homme viendra dans sa gloire, avec tous les anges, il s'assiéra sur le trône de sa gloire.",
+          "darby": "Or, quand le fils de l'homme viendra dans sa gloire, et tous les anges avec lui, alors il s'assiéra sur le trône de sa gloire,"
+        },
+        "interlinear": [
+          {
+            "greek": "Ὅταν",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἔλθῃ",
+            "gloss": "viendra"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "homme"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δόξῃ",
+            "gloss": "gloire",
+            "analyse": "Le mot *doxa* ne désigne pas ici une simple renommée humaine, mais les énergies divines incréées, la lumière éternelle de Dieu. Au moment du jugement, cette gloire n'est plus voilée : elle devient la réalité aveuglante qui éclaire l'état intérieur de chaque être."
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἄγγελοι",
+            "gloss": "anges"
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "καθίσει",
+            "gloss": "il_s'assiéra"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "θρόνου",
+            "gloss": "trône"
+          },
+          {
+            "greek": "δόξης",
+            "gloss": "de_gloire"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 32,
+        "translations": {
+          "segond": "Toutes les nations seront assemblées devant lui. Il séparera les uns d'avec les autres, comme le berger sépare les brebis d'avec les boucs;",
+          "darby": "et toutes les nations seront assemblées devant lui ; et il séparera les uns d'avec les autres, comme un berger sépare les brebis d'avec les chèvres ;"
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συναχθήσονται",
+            "gloss": "seront_assemblées"
+          },
+          {
+            "greek": "ἔμπροσθεν",
+            "gloss": "devant"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "toutes"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἔθνη,",
+            "gloss": "nations"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀφορίσει",
+            "gloss": "il_séparera",
+            "analyse": "Ce verbe (qui a donné le mot 'horizon') signifie marquer une limite. Dans la pensée des Pères, Dieu ne 'punit' pas arbitrairement. C'est la présence même de Sa lumière qui sépare naturellement ceux qui ont appris à aimer de ceux qui se sont enfermés dans l'égoïsme."
+          },
+          {
+            "greek": "αὐτοὺς",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "de"
+          },
+          {
+            "greek": "ἀλλήλων,",
+            "gloss": "les_uns_les_autres"
+          },
+          {
+            "greek": "ὥσπερ",
+            "gloss": "comme"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ποιμὴν",
+            "gloss": "berger"
+          },
+          {
+            "greek": "ἀφορίζει",
+            "gloss": "sépare"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πρόβατα",
+            "gloss": "brebis"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "de"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐρίφων,",
+            "gloss": "chevreaux/boucs"
+          }
+        ]
+      },
+      {
+        "verse_number": 33,
+        "translations": {
+          "segond": "et il mettra les brebis à sa droite, et les boucs à sa gauche.",
+          "darby": "et il mettra les brebis à sa droite et les chèvres à sa gauche."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "στήσει",
+            "gloss": "il_placera"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μὲν",
+            "gloss": "d'une_part"
+          },
+          {
+            "greek": "πρόβατα",
+            "gloss": "brebis"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "à"
+          },
+          {
+            "greek": "δεξιῶν",
+            "gloss": "droite"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "d'autre_part/et"
+          },
+          {
+            "greek": "ἐρίφια",
+            "gloss": "chevreaux"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "à"
+          },
+          {
+            "greek": "εὐωνύμων.",
+            "gloss": "gauche"
+          }
+        ]
+      },
+      {
+        "verse_number": 34,
+        "translations": {
+          "segond": "Alors le roi dira à ceux qui seront à sa droite : Venez, vous qui êtes bénis de mon Père; prenez possession du royaume qui vous a été préparé dès la fondation du monde.",
+          "darby": "Alors le roi dira à ceux qui seront à sa droite : Venez, les bénis de mon Père, héritez du royaume qui vous est préparé dès la fondation du monde :"
+        },
+        "interlinear": [
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "ἐρεῖ",
+            "gloss": "dira"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλεὺς",
+            "gloss": "roi"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "à_ceux"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "à"
+          },
+          {
+            "greek": "δεξιῶν",
+            "gloss": "droite"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Δεῦτε,",
+            "gloss": "Venez"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "εὐλογημένοι",
+            "gloss": "bénis"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "πατρός",
+            "gloss": "père"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "κληρονομήσατε",
+            "gloss": "héritez",
+            "analyse": "Un écho direct au Dimanche précédent. Les justes ne sont pas des 'mercenaires' recevant un salaire, ils sont appelés à 'hériter' en tant que fils. Le Royaume n'est pas une récompense qu'on gagne, mais un héritage filial auquel on participe."
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἡτοιμασμένην",
+            "gloss": "ayant_été_préparé"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "pour_vous"
+          },
+          {
+            "greek": "βασιλείαν",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis"
+          },
+          {
+            "greek": "καταβολῆς",
+            "gloss": "fondation"
+          },
+          {
+            "greek": "κόσμου·",
+            "gloss": "du_monde"
+          }
+        ]
+      },
+      {
+        "verse_number": 35,
+        "translations": {
+          "segond": "Car j'ai eu faim, et vous m'avez donné à manger; j'ai eu soif, et vous m'avez donné à boire; j'étais étranger, et vous m'avez recueilli;",
+          "darby": "car j'ai eu faim, et vous m'avez donné à manger ; j'ai eu soif, et vous m'avez donné à boire ; j'étais étranger, et vous m'avez recueilli ;"
+        },
+        "interlinear": [
+          {
+            "greek": "ἐπείνασα",
+            "gloss": "j'ai_eu_faim"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐδώκατέ",
+            "gloss": "vous_avez_donné"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "φαγεῖν,",
+            "gloss": "à_manger"
+          },
+          {
+            "greek": "ἐδίψησα",
+            "gloss": "j'ai_eu_soif"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐποτίσατέ",
+            "gloss": "vous_avez_donné_à_boire"
+          },
+          {
+            "greek": "με,",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ξένος",
+            "gloss": "étranger"
+          },
+          {
+            "greek": "ἤμην",
+            "gloss": "j'étais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συνηγάγετέ",
+            "gloss": "vous_m'avez_recueilli",
+            "analyse": "Du verbe *synago* (qui a donné 'synagogue' ou 'synaxe'). Cela signifie littéralement 'vous m'avez rassemblé avec vous'. Accueillir l'étranger n'est pas seulement lui offrir un toit matériel, c'est l'intégrer dans la communion, briser sa solitude pour faire 'assemblée' avec lui."
+          },
+          {
+            "greek": "με,",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 36,
+        "translations": {
+          "segond": "j'étais nu, et vous m'avez vêtu; j'étais malade, et vous m'avez visité; j'étais en prison, et vous êtes venus vers moi.",
+          "darby": "j'étais nu, et vous m'avez vêtu ; j'étais malade, et vous m'avez visité ; j'étais en prison, et vous êtes venus vers moi."
+        },
+        "interlinear": [
+          {
+            "greek": "γυμνὸς",
+            "gloss": "nu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "περιεβάλετέ",
+            "gloss": "vous_avez_vêtu"
+          },
+          {
+            "greek": "με,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἠσθένησα",
+            "gloss": "j'ai_été_faible/malade"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπεσκέψασθέ",
+            "gloss": "vous_avez_visité"
+          },
+          {
+            "greek": "με,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "φυλακῇ",
+            "gloss": "prison/garde"
+          },
+          {
+            "greek": "ἤμην",
+            "gloss": "j'étais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἤλθατε",
+            "gloss": "vous_êtes_venus"
+          },
+          {
+            "greek": "πρός",
+            "gloss": "vers"
+          },
+          {
+            "greek": "με.",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 37,
+        "translations": {
+          "segond": "Les justes lui répondront : Seigneur, quand t'avons-nous vu avoir faim, et t'avons-nous donné à manger; ou avoir soif, et t'avons-nous donné à boire?",
+          "darby": "Alors les justes lui répondront, disant : Seigneur, quand est-ce que nous t'avons vu avoir faim, et que nous t'avons nourri ; ou avoir soif, et que nous t'avons donné à boire ?"
+        },
+        "interlinear": [
+          {
+            "greek": "τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "ἀποκριθήσονται",
+            "gloss": "répondront"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δίκαιοι",
+            "gloss": "justes",
+            "analyse": "L'étonnement des justes est la clé du passage. La véritable charité orthodoxe ignore sa propre valeur. Le Pharisien du dimanche précédent comptait ses mérites ('je jeûne, je donne ma dîme'). Les vrais justes, eux, ont un amour si naturel et si pur qu'ils ne se rendent même pas compte qu'ils servent le Christ."
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "πότε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "εἴδομεν",
+            "gloss": "avons-nous_vu"
+          },
+          {
+            "greek": "πεινῶντα",
+            "gloss": "ayant_faim"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐθρέψαμεν,",
+            "gloss": "avons_nourri"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "διψῶντα",
+            "gloss": "ayant_soif"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐποτίσαμεν;",
+            "gloss": "avons_donné_à_boire"
+          }
+        ]
+      },
+      {
+        "verse_number": 38,
+        "translations": {
+          "segond": "Quand t'avons-nous vu étranger, et t'avons-nous recueilli; ou nu, et t'avons-nous vêtu?",
+          "darby": "Et quand est-ce que nous t'avons vu étranger, et que nous t'avons recueilli ; ou nu, et que nous t'avons vêtu ?"
+        },
+        "interlinear": [
+          {
+            "greek": "πότε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "εἴδομεν",
+            "gloss": "avons-nous_vu"
+          },
+          {
+            "greek": "ξένον",
+            "gloss": "étranger"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "συνηγάγομεν,",
+            "gloss": "avons_recueilli"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "γυμνὸν",
+            "gloss": "nu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "περιεβάλομεν;",
+            "gloss": "avons_vêtu"
+          }
+        ]
+      },
+      {
+        "verse_number": 39,
+        "translations": {
+          "segond": "Quand t'avons-nous vu malade, ou en prison, et sommes-nous allés vers toi?",
+          "darby": "Et quand est-ce que nous t'avons vu malade, ou en prison, et que nous sommes venus vers toi ?"
+        },
+        "interlinear": [
+          {
+            "greek": "πότε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or/et"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "εἴδομεν",
+            "gloss": "avons-nous_vu"
+          },
+          {
+            "greek": "ἀσθενοῦντα",
+            "gloss": "étant_malade"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "φυλακῇ",
+            "gloss": "prison"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἤλθομεν",
+            "gloss": "sommes_venus"
+          },
+          {
+            "greek": "πρός",
+            "gloss": "vers"
+          },
+          {
+            "greek": "σε;",
+            "gloss": "toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 40,
+        "translations": {
+          "segond": "Et le roi leur répondra : Je vous le dis en vérité, toutes les fois que vous avez fait ces choses à l'un de ces plus petits de mes frères, c'est à moi que vous les avez faites.",
+          "darby": "Et le roi, répondant, leur dira : En vérité, je vous dis : En tant que vous l'avez fait à l'un des plus petits de ceux-ci qui sont mes frères, vous me l'avez fait à moi."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "répondant"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "βασιλεὺς",
+            "gloss": "roi"
+          },
+          {
+            "greek": "ἐρεῖ",
+            "gloss": "dira"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Ἀμὴν",
+            "gloss": "En_vérité"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ἐφ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ὅσον",
+            "gloss": "autant_que"
+          },
+          {
+            "greek": "ἐποιήσατε",
+            "gloss": "vous_avez_fait"
+          },
+          {
+            "greek": "ἑνὶ",
+            "gloss": "à_un"
+          },
+          {
+            "greek": "τούτων",
+            "gloss": "de_ceux-ci"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀδελφῶν",
+            "gloss": "frères"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐλαχίστων,",
+            "gloss": "plus_petits",
+            "analyse": "Le mot *elachistos* (superlatif de petit : le tout dernier, le plus misérable). Les Pères de l'Église parlent du 'sacrement de l'autel' (l'Eucharistie) et du 'sacrement du frère'. Le Christ s'identifie ontologiquement au pauvre. Toucher le rejeté, c'est toucher la chair même du Christ. Il n'y a pas d'amour de Dieu sans cet amour incarné."
+          },
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ἐποιήσατε.",
+            "gloss": "vous_avez_fait"
+          }
+        ]
+      },
+      {
+        "verse_number": 41,
+        "translations": {
+          "segond": "Ensuite il dira à ceux qui seront à sa gauche: Retirez-vous de moi, maudits; allez dans le feu éternel qui a été préparé pour le diable et pour ses anges.",
+          "darby": "Alors il dira aussi à ceux qui seront à sa gauche : Allez-vous-en loin de moi, maudits, dans le feu éternel qui est préparé pour le diable et ses anges ;"
+        },
+        "interlinear": [
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "ἐρεῖ",
+            "gloss": "il_dira"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "à_ceux"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "à"
+          },
+          {
+            "greek": "εὐωνύμων·",
+            "gloss": "gauche"
+          },
+          {
+            "greek": "Πορεύεσθε",
+            "gloss": "Allez-vous-en"
+          },
+          {
+            "greek": "ἀπ’",
+            "gloss": "loin_de"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "κατηραμένοι",
+            "gloss": "maudits",
+            "analyse": "Le participe parfait 'maudits' n'a pas d'agent explicite. Le Christ ne dit pas 'maudits par mon Père' (contrairement aux justes qui sont 'bénis de mon Père'). Dieu ne maudit pas. C'est l'homme qui, par son refus d'aimer, s'enferme lui-même dans l'état de malédiction et de coupure."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "πῦρ",
+            "gloss": "feu"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "αἰώνιον",
+            "gloss": "éternel"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἡτοιμασμένον",
+            "gloss": "ayant_été_préparé",
+            "analyse": "Attention à la grammaire théologique : le Royaume a été préparé POUR VOUS (v.34), mais le feu éternel a été préparé POUR LE DIABLE et ses anges (v.41). L'enfer n'a jamais été créé pour l'être humain. L'homme n'y entre que s'il choisit volontairement de suivre la voie de l'isolement démoniaque."
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "pour_le"
+          },
+          {
+            "greek": "διαβόλῳ",
+            "gloss": "diable"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀγγέλοις",
+            "gloss": "anges"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 42,
+        "translations": {
+          "segond": "Car j'ai eu faim, et vous ne m'avez pas donné à manger; j'ai eu soif, et vous ne m'avez pas donné à boire;",
+          "darby": "car j'ai eu faim, et vous ne m'avez pas donné à manger ; j'ai eu soif, et vous ne m'avez pas donné à boire ;"
+        },
+        "interlinear": [
+          {
+            "greek": "ἐπείνασα",
+            "gloss": "j'ai_eu_faim"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐδώκατέ",
+            "gloss": "vous_avez_donné"
+          },
+          {
+            "greek": "μοι",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "φαγεῖν,",
+            "gloss": "à_manger"
+          },
+          {
+            "greek": "ἐδίψησα",
+            "gloss": "j'ai_eu_soif"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐποτίσατέ",
+            "gloss": "vous_avez_donné_à_boire"
+          },
+          {
+            "greek": "με,",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 43,
+        "translations": {
+          "segond": "j'étais étranger, et vous ne m'avez pas recueilli; j'étais nu, et vous ne m'avez pas vêtu; j'étais malade et en prison, et vous ne m'avez pas visité.",
+          "darby": "j'étais étranger, et vous ne m'avez pas recueilli ; nu, et vous ne m'avez pas vêtu ; malade et en prison, et vous ne m'avez pas visité."
+        },
+        "interlinear": [
+          {
+            "greek": "ξένος",
+            "gloss": "étranger"
+          },
+          {
+            "greek": "ἤμην",
+            "gloss": "j'étais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "συνηγάγετέ",
+            "gloss": "vous_avez_recueilli"
+          },
+          {
+            "greek": "με,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "γυμνὸς",
+            "gloss": "nu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "περιεβάλετέ",
+            "gloss": "vous_avez_vêtu"
+          },
+          {
+            "greek": "με,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἀσθενὴς",
+            "gloss": "malade"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "φυλακῇ",
+            "gloss": "prison"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐπεσκέψασθέ",
+            "gloss": "vous_avez_visité"
+          },
+          {
+            "greek": "με.",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 44,
+        "translations": {
+          "segond": "Ils répondront aussi: Seigneur, quand t'avons-nous vu ayant faim, ou ayant soif, ou étranger, ou nu, ou malade, ou en prison, et ne t'avons-nous pas assisté?",
+          "darby": "Alors eux aussi répondront, disant : Seigneur, quand est-ce que nous t'avons vu avoir faim, ou avoir soif, ou étranger, ou nu, ou malade, ou en prison, et que nous ne t'avons pas servi ?"
+        },
+        "interlinear": [
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "ἀποκριθήσονται",
+            "gloss": "répondront"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "eux"
+          },
+          {
+            "greek": "λέγοντες·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "πότε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "σε",
+            "gloss": "toi"
+          },
+          {
+            "greek": "εἴδομεν",
+            "gloss": "avons-nous_vu"
+          },
+          {
+            "greek": "πεινῶντα",
+            "gloss": "ayant_faim"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "διψῶντα",
+            "gloss": "ayant_soif"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ξένον",
+            "gloss": "étranger"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "γυμνὸν",
+            "gloss": "nu"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἀσθενοῦντα",
+            "gloss": "étant_malade"
+          },
+          {
+            "greek": "ἢ",
+            "gloss": "ou"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "φυλακῇ",
+            "gloss": "prison"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "διηκονήσαμέν",
+            "gloss": "avons_servi"
+          },
+          {
+            "greek": "σοι;",
+            "gloss": "à_toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 45,
+        "translations": {
+          "segond": "Et il leur répondra: Je vous le dis en vérité, toutes les fois que vous n'avez pas fait ces choses à l'un de ces plus petits, c'est à moi que vous ne les avez pas faites.",
+          "darby": "Alors il leur répondra, disant : En vérité, je vous dis : En tant que vous ne l'avez pas fait à l'un des plus petits de ceux-ci, vous ne me l'avez pas fait à moi non plus."
+        },
+        "interlinear": [
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "ἀποκριθήσεται",
+            "gloss": "il_répondra"
+          },
+          {
+            "greek": "αὐτοῖς",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Ἀμὴν",
+            "gloss": "En_vérité"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν,",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ἐφ’",
+            "gloss": "sur"
+          },
+          {
+            "greek": "ὅσον",
+            "gloss": "autant_que"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ἐποιήσατε",
+            "gloss": "vous_avez_fait"
+          },
+          {
+            "greek": "ἑνὶ",
+            "gloss": "à_un"
+          },
+          {
+            "greek": "τούτων",
+            "gloss": "de_ceux-ci"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐλαχίστων,",
+            "gloss": "plus_petits"
+          },
+          {
+            "greek": "οὐδὲ",
+            "gloss": "ni/non_plus"
+          },
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "à_moi"
+          },
+          {
+            "greek": "ἐποιήσατε.",
+            "gloss": "vous_avez_fait"
+          }
+        ]
+      },
+      {
+        "verse_number": 46,
+        "translations": {
+          "segond": "Et ceux-ci iront au châtiment éternel, mais les justes à la vie éternelle.",
+          "darby": "Et ceux-ci s'en iront dans les tourments éternels, et les justes dans la vie éternelle."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀπελεύσονται",
+            "gloss": "ils_iront"
+          },
+          {
+            "greek": "οὗτοι",
+            "gloss": "ceux-ci"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κόλασιν",
+            "gloss": "châtiment/amputation",
+            "analyse": "Très important : le mot grec *kolasin* vient de l'agriculture et signifie originellement 'élaguer', 'amputer' ou 'couper une branche'. Le châtiment infernal n'est pas une torture infligée par Dieu, c'est l'état tragique de l'âme qui s'est elle-même 'amputée' de l'Arbre de Vie par son refus d'aimer l'autre."
+          },
+          {
+            "greek": "αἰώνιον,",
+            "gloss": "éternel"
+          },
+          {
+            "greek": "οἱ",
+            "gloss": "les"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "mais/or"
+          },
+          {
+            "greek": "δίκαιοι",
+            "gloss": "justes"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "vie"
+          },
+          {
+            "greek": "αἰώνιον.",
+            "gloss": "éternelle"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 32 - ἀφορίσει : Souvent traduit par 'il séparera', ce verbe porte l'idée de marquer un horizon (une frontière). Le jugement n'est pas un tribunal, c'est la révélation d'une limite intérieure que chaque homme a creusée durant sa vie.\n• Verset 41 - κατηραμένοι / ἡτοιμασμένον : Les traductions masquent parfois la passivité de ces participes. Le texte grec prend grand soin de ne jamais faire de Dieu le sujet actif de la damnation. Le feu est préparé pour le diable, pas pour l'homme.\n• Verset 46 - κόλασιν : Segond traduit par 'châtiment' et Darby par 'tourments'. Ces mots ont une forte charge punitive en français, alors que la racine grecque (*kolazo*) évoque plutôt la taille d'un arbre, l'amputation. C'est la coupure relationnelle définitive.\n\nAnalyse spirituelle :\nLe Jugement Dernier (Dimanche du Carnaval) nous offre le critère absolu de notre salut. Le Christ ne nous interrogera ni sur nos jeûnes, ni sur nos dogmes, ni sur nos extases spirituelles. La seule question sera : 'As-tu su me reconnaître dans l'autre ?'\n\nLa tragédie de ceux de 'la gauche' n'est pas d'avoir été de grands criminels. Leur péché est l'omission ('vous ne l'avez pas fait'). Ils ont cru pouvoir aimer Dieu de manière désincarnée, tout en ignorant le pauvre, l'étranger et le prisonnier devant leur porte. L'Orthodoxie nous enseigne ici que l'enfer n'est pas un lieu où Dieu nous enferme par vengeance, mais l'incapacité de l'âme à supporter l'Amour divin, parce qu'elle s'est volontairement 'amputée' (*kolasin*) de toute communion avec le prochain.",
+    "homiletic_axes": [
+      {
+        "title": "Le Christ se rend présent dans le plus petit",
+        "content": "Le Roi identifie à lui-même ceux qui ont faim, soif, sont étrangers, nus, malades ou prisonniers. Le jugement dévoile ainsi une présence du Christ souvent méconnue au cœur de la relation concrète au prochain.",
+        "keywords": [
+          "ἐλάχιστος — le plus petit",
+          "ποιέω — faire",
+          "ἀδελφός — frère"
+        ]
+      },
+      {
+        "title": "Ce qui est fait au petit atteint le Seigneur",
+        "content": "Le résumé S2 formule le principe : « Ce que le grand fait au petit, Dieu le fait au grand ». La responsabilité verticale devant Dieu se vérifie horizontalement dans la manière de traiter celui qui dépend de notre attention.",
+        "keywords": [
+          "Κύριος — Seigneur",
+          "ἔλεος — miséricorde",
+          "διακονέω — servir"
+        ]
+      },
+      {
+        "title": "La charité règle l’usage de la liberté",
+        "content": "Paul ne condamne pas la connaissance vraie sur les aliments ; il demande qu’elle ne devienne pas une pierre d’achoppement pour le faible. La liberté chrétienne trouve sa mesure dans le salut du frère pour lequel le Christ est mort.",
+        "keywords": [
+          "ἐξουσία — liberté/droit",
+          "πρόσκομμα — obstacle",
+          "ἀσθενής — faible"
+        ]
+      },
+      {
+        "title": "Voir celui que l’habitude rend invisible",
+        "content": "Dans l’Évangile, justes et injustes demandent : « Quand t’avons-nous vu ? » Dans l’Épître, le frère faible risque pareillement d’être réduit à un problème secondaire. Les deux lectures appellent un regard éveillé à la présence personnelle de l’autre.",
+        "keywords": [
+          "ὁράω — voir",
+          "συνείδησις — conscience",
+          "γινώσκω — connaître"
+        ]
+      },
+      {
+        "title": "Le seuil du Carême s’élargit vers le frère",
+        "content": "Après l’humilité du Publicain et le retour du Prodigue vers le Père, le résumé S2 présente le Jugement comme le déploiement horizontal vers les autres. Le chemin vers Pâques ne sépare donc jamais ascèse, communion et miséricorde concrète.",
+        "keywords": [
+          "κρίσις — jugement",
+          "ἀγάπη — amour",
+          "πλησίον — prochain"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La connaissance devient amour du frère",
+        "reference": "Matthieu 25, 31-46 ; 1 Corinthiens 8, 8 - 9, 2",
+        "content": "Le Christ se laisse rencontrer dans le plus petit ; Paul demande de renoncer à l’exercice d’un droit lorsqu’il blesse le faible. Le jugement révèle si notre connaissance de Dieu est devenue attention et service.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le Jugement dernier » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez comment la liberté chrétienne, la connaissance, la faiblesse du frère et la rencontre du Christ dans le petit se répondent."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
   },
-  {
-    "verse_number": 32,
-    "translations": {
-      "segond": "Toutes les nations seront assemblées devant lui. Il séparera les uns d'avec les autres, comme le berger sépare les brebis d'avec les boucs;",
-      "darby": "et toutes les nations seront assemblées devant lui ; et il séparera les uns d'avec les autres, comme un berger sépare les brebis d'avec les chèvres ;"
-    },
+  "apostle": {
+    "reference": "1 Corinthiens 8, 8 - 9, 2",
+    "title": "La Charité au-dessus de la Connaissance",
     "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "συναχθήσονται", "gloss": "seront_assemblées" },
-      { "greek": "ἔμπροσθεν", "gloss": "devant" },
-      { "greek": "αὐτοῦ", "gloss": "lui" },
-      { "greek": "πάντα", "gloss": "toutes" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "ἔθνη,", "gloss": "nations" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἀφορίσει", "gloss": "il_séparera", "analyse": "Ce verbe (qui a donné le mot 'horizon') signifie marquer une limite. Dans la pensée des Pères, Dieu ne 'punit' pas arbitrairement. C'est la présence même de Sa lumière qui sépare naturellement ceux qui ont appris à aimer de ceux qui se sont enfermés dans l'égoïsme." },
-      { "greek": "αὐτοὺς", "gloss": "eux" },
-      { "greek": "ἀπ’", "gloss": "de" },
-      { "greek": "ἀλλήλων,", "gloss": "les_uns_les_autres" },
-      { "greek": "ὥσπερ", "gloss": "comme" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "ποιμὴν", "gloss": "berger" },
-      { "greek": "ἀφορίζει", "gloss": "sépare" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "πρόβατα", "gloss": "brebis" },
-      { "greek": "ἀπὸ", "gloss": "de" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "ἐρίφων,", "gloss": "chevreaux/boucs" }
-    ]
-  },
-  {
-    "verse_number": 33,
-    "translations": {
-      "segond": "et il mettra les brebis à sa droite, et les boucs à sa gauche.",
-      "darby": "et il mettra les brebis à sa droite et les chèvres à sa gauche."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "στήσει", "gloss": "il_placera" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "μὲν", "gloss": "d'une_part" },
-      { "greek": "πρόβατα", "gloss": "brebis" },
-      { "greek": "ἐκ", "gloss": "à" },
-      { "greek": "δεξιῶν", "gloss": "droite" },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "δὲ", "gloss": "d'autre_part/et" },
-      { "greek": "ἐρίφια", "gloss": "chevreaux" },
-      { "greek": "ἐξ", "gloss": "à" },
-      { "greek": "εὐωνύμων.", "gloss": "gauche" }
-    ]
-  },
-  {
-    "verse_number": 34,
-    "translations": {
-      "segond": "Alors le roi dira à ceux qui seront à sa droite : Venez, vous qui êtes bénis de mon Père; prenez possession du royaume qui vous a été préparé dès la fondation du monde.",
-      "darby": "Alors le roi dira à ceux qui seront à sa droite : Venez, les bénis de mon Père, héritez du royaume qui vous est préparé dès la fondation du monde :"
-    },
-    "interlinear": [
-      { "greek": "τότε", "gloss": "alors" },
-      { "greek": "ἐρεῖ", "gloss": "dira" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "βασιλεὺς", "gloss": "roi" },
-      { "greek": "τοῖς", "gloss": "à_ceux" },
-      { "greek": "ἐκ", "gloss": "à" },
-      { "greek": "δεξιῶν", "gloss": "droite" },
-      { "greek": "αὐτοῦ·", "gloss": "de_lui" },
-      { "greek": "Δεῦτε,", "gloss": "Venez" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "εὐλογημένοι", "gloss": "bénis" },
-      { "greek": "τοῦ", "gloss": "du" },
-      { "greek": "πατρός", "gloss": "père" },
-      { "greek": "μου,", "gloss": "de_moi" },
-      { "greek": "κληρονομήσατε", "gloss": "héritez", "analyse": "Un écho direct au Dimanche précédent. Les justes ne sont pas des 'mercenaires' recevant un salaire, ils sont appelés à 'hériter' en tant que fils. Le Royaume n'est pas une récompense qu'on gagne, mais un héritage filial auquel on participe." },
-      { "greek": "τὴν", "gloss": "le" },
-      { "greek": "ἡτοιμασμένην", "gloss": "ayant_été_préparé" },
-      { "greek": "ὑμῖν", "gloss": "pour_vous" },
-      { "greek": "βασιλείαν", "gloss": "royaume" },
-      { "greek": "ἀπὸ", "gloss": "depuis" },
-      { "greek": "καταβολῆς", "gloss": "fondation" },
-      { "greek": "κόσμου·", "gloss": "du_monde" }
-    ]
-  },
-  {
-    "verse_number": 35,
-    "translations": {
-      "segond": "Car j'ai eu faim, et vous m'avez donné à manger; j'ai eu soif, et vous m'avez donné à boire; j'étais étranger, et vous m'avez recueilli;",
-      "darby": "car j'ai eu faim, et vous m'avez donné à manger ; j'ai eu soif, et vous m'avez donné à boire ; j'étais étranger, et vous m'avez recueilli ;"
-    },
-    "interlinear": [
-      { "greek": "ἐπείνασα", "gloss": "j'ai_eu_faim" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐδώκατέ", "gloss": "vous_avez_donné" },
-      { "greek": "μοι", "gloss": "à_moi" },
-      { "greek": "φαγεῖν,", "gloss": "à_manger" },
-      { "greek": "ἐδίψησα", "gloss": "j'ai_eu_soif" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐποτίσατέ", "gloss": "vous_avez_donné_à_boire" },
-      { "greek": "με,", "gloss": "à_moi" },
-      { "greek": "ξένος", "gloss": "étranger" },
-      { "greek": "ἤμην", "gloss": "j'étais" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "συνηγάγετέ", "gloss": "vous_m'avez_recueilli", "analyse": "Du verbe *synago* (qui a donné 'synagogue' ou 'synaxe'). Cela signifie littéralement 'vous m'avez rassemblé avec vous'. Accueillir l'étranger n'est pas seulement lui offrir un toit matériel, c'est l'intégrer dans la communion, briser sa solitude pour faire 'assemblée' avec lui." },
-      { "greek": "με,", "gloss": "moi" }
-    ]
-  },
-  {
-    "verse_number": 36,
-    "translations": {
-      "segond": "j'étais nu, et vous m'avez vêtu; j'étais malade, et vous m'avez visité; j'étais en prison, et vous êtes venus vers moi.",
-      "darby": "j'étais nu, et vous m'avez vêtu ; j'étais malade, et vous m'avez visité ; j'étais en prison, et vous êtes venus vers moi."
-    },
-    "interlinear": [
-      { "greek": "γυμνὸς", "gloss": "nu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "περιεβάλετέ", "gloss": "vous_avez_vêtu" },
-      { "greek": "με,", "gloss": "moi" },
-      { "greek": "ἠσθένησα", "gloss": "j'ai_été_faible/malade" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐπεσκέψασθέ", "gloss": "vous_avez_visité" },
-      { "greek": "με,", "gloss": "moi" },
-      { "greek": "ἐν", "gloss": "en" },
-      { "greek": "φυλακῇ", "gloss": "prison/garde" },
-      { "greek": "ἤμην", "gloss": "j'étais" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἤλθατε", "gloss": "vous_êtes_venus" },
-      { "greek": "πρός", "gloss": "vers" },
-      { "greek": "με.", "gloss": "moi" }  
-       ]
-  },
-  {
-    "verse_number": 37,
-    "translations": {
-      "segond": "Les justes lui répondront : Seigneur, quand t'avons-nous vu avoir faim, et t'avons-nous donné à manger; ou avoir soif, et t'avons-nous donné à boire?",
-      "darby": "Alors les justes lui répondront, disant : Seigneur, quand est-ce que nous t'avons vu avoir faim, et que nous t'avons nourri ; ou avoir soif, et que nous t'avons donné à boire ?"
-    },
-    "interlinear": [
-      { "greek": "τότε", "gloss": "Alors" },
-      { "greek": "ἀποκριθήσονται", "gloss": "répondront" },
-      { "greek": "αὐτῷ", "gloss": "à_lui" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "δίκαιοι", "gloss": "justes", "analyse": "L'étonnement des justes est la clé du passage. La véritable charité orthodoxe ignore sa propre valeur. Le Pharisien du dimanche précédent comptait ses mérites ('je jeûne, je donne ma dîme'). Les vrais justes, eux, ont un amour si naturel et si pur qu'ils ne se rendent même pas compte qu'ils servent le Christ." },
-      { "greek": "λέγοντες·", "gloss": "disant" },
-      { "greek": "Κύριε,", "gloss": "Seigneur" },
-      { "greek": "πότε", "gloss": "quand" },
-      { "greek": "σε", "gloss": "toi" },
-      { "greek": "εἴδομεν", "gloss": "avons-nous_vu" },
-      { "greek": "πεινῶντα", "gloss": "ayant_faim" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐθρέψαμεν,", "gloss": "avons_nourri" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "διψῶντα", "gloss": "ayant_soif" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐποτίσαμεν;", "gloss": "avons_donné_à_boire" }
-    ]
-  },
-  {
-    "verse_number": 38,
-    "translations": {
-      "segond": "Quand t'avons-nous vu étranger, et t'avons-nous recueilli; ou nu, et t'avons-nous vêtu?",
-      "darby": "Et quand est-ce que nous t'avons vu étranger, et que nous t'avons recueilli ; ou nu, et que nous t'avons vêtu ?"
-    },
-    "interlinear": [
-      { "greek": "πότε", "gloss": "quand" },
-      { "greek": "δέ", "gloss": "or/et" },
-      { "greek": "σε", "gloss": "toi" },
-      { "greek": "εἴδομεν", "gloss": "avons-nous_vu" },
-      { "greek": "ξένον", "gloss": "étranger" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "συνηγάγομεν,", "gloss": "avons_recueilli" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "γυμνὸν", "gloss": "nu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "περιεβάλομεν;", "gloss": "avons_vêtu" }
-    ]
-  },
-  {
-    "verse_number": 39,
-    "translations": {
-      "segond": "Quand t'avons-nous vu malade, ou en prison, et sommes-nous allés vers toi?",
-      "darby": "Et quand est-ce que nous t'avons vu malade, ou en prison, et que nous sommes venus vers toi ?"
-    },
-    "interlinear": [
-      { "greek": "πότε", "gloss": "quand" },
-      { "greek": "δέ", "gloss": "or/et" },
-      { "greek": "σε", "gloss": "toi" },
-      { "greek": "εἴδομεν", "gloss": "avons-nous_vu" },
-      { "greek": "ἀσθενοῦντα", "gloss": "étant_malade" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "ἐν", "gloss": "en" },
-      { "greek": "φυλακῇ", "gloss": "prison" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἤλθομεν", "gloss": "sommes_venus" },
-      { "greek": "πρός", "gloss": "vers" },
-      { "greek": "σε;", "gloss": "toi" }
-    ]
-  },
-  {
-    "verse_number": 40,
-    "translations": {
-      "segond": "Et le roi leur répondra : Je vous le dis en vérité, toutes les fois que vous avez fait ces choses à l'un de ces plus petits de mes frères, c'est à moi que vous les avez faites.",
-      "darby": "Et le roi, répondant, leur dira : En vérité, je vous dis : En tant que vous l'avez fait à l'un des plus petits de ceux-ci qui sont mes frères, vous me l'avez fait à moi."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἀποκριθεὶς", "gloss": "répondant" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "βασιλεὺς", "gloss": "roi" },
-      { "greek": "ἐρεῖ", "gloss": "dira" },
-      { "greek": "αὐτοῖς·", "gloss": "à_eux" },
-      { "greek": "Ἀμὴν", "gloss": "En_vérité" },
-      { "greek": "λέγω", "gloss": "je_dis" },
-      { "greek": "ὑμῖν,", "gloss": "à_vous" },
-      { "greek": "ἐφ’", "gloss": "sur" },
-      { "greek": "ὅσον", "gloss": "autant_que" },
-      { "greek": "ἐποιήσατε", "gloss": "vous_avez_fait" },
-      { "greek": "ἑνὶ", "gloss": "à_un" },
-      { "greek": "τούτων", "gloss": "de_ceux-ci" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "ἀδελφῶν", "gloss": "frères" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "ἐλαχίστων,", "gloss": "plus_petits", "analyse": "Le mot *elachistos* (superlatif de petit : le tout dernier, le plus misérable). Les Pères de l'Église parlent du 'sacrement de l'autel' (l'Eucharistie) et du 'sacrement du frère'. Le Christ s'identifie ontologiquement au pauvre. Toucher le rejeté, c'est toucher la chair même du Christ. Il n'y a pas d'amour de Dieu sans cet amour incarné." },
-      { "greek": "ἐμοὶ", "gloss": "à_moi" },
-      { "greek": "ἐποιήσατε.", "gloss": "vous_avez_fait" }
-      ]
-  },
-  {
-    "verse_number": 41,
-    "translations": {
-      "segond": "Ensuite il dira à ceux qui seront à sa gauche: Retirez-vous de moi, maudits; allez dans le feu éternel qui a été préparé pour le diable et pour ses anges.",
-      "darby": "Alors il dira aussi à ceux qui seront à sa gauche : Allez-vous-en loin de moi, maudits, dans le feu éternel qui est préparé pour le diable et ses anges ;"
-    },
-    "interlinear": [
-      { "greek": "τότε", "gloss": "alors" },
-      { "greek": "ἐρεῖ", "gloss": "il_dira" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "τοῖς", "gloss": "à_ceux" },
-      { "greek": "ἐξ", "gloss": "à" },
-      { "greek": "εὐωνύμων·", "gloss": "gauche" },
-      { "greek": "Πορεύεσθε", "gloss": "Allez-vous-en" },
-      { "greek": "ἀπ’", "gloss": "loin_de" },
-      { "greek": "ἐμοῦ", "gloss": "moi" },
-      { "greek": "κατηραμένοι", "gloss": "maudits", "analyse": "Le participe parfait 'maudits' n'a pas d'agent explicite. Le Christ ne dit pas 'maudits par mon Père' (contrairement aux justes qui sont 'bénis de mon Père'). Dieu ne maudit pas. C'est l'homme qui, par son refus d'aimer, s'enferme lui-même dans l'état de malédiction et de coupure." },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "πῦρ", "gloss": "feu" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "αἰώνιον", "gloss": "éternel" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "ἡτοιμασμένον", "gloss": "ayant_été_préparé", "analyse": "Attention à la grammaire théologique : le Royaume a été préparé POUR VOUS (v.34), mais le feu éternel a été préparé POUR LE DIABLE et ses anges (v.41). L'enfer n'a jamais été créé pour l'être humain. L'homme n'y entre que s'il choisit volontairement de suivre la voie de l'isolement démoniaque." },
-      { "greek": "τῷ", "gloss": "pour_le" },
-      { "greek": "διαβόλῳ", "gloss": "diable" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τοῖς", "gloss": "les" },
-      { "greek": "ἀγγέλοις", "gloss": "anges" },
-      { "greek": "αὐτοῦ.", "gloss": "de_lui" }
-    ]
-  },
-  {
-    "verse_number": 42,
-    "translations": {
-      "segond": "Car j'ai eu faim, et vous ne m'avez pas donné à manger; j'ai eu soif, et vous ne m'avez pas donné à boire;",
-      "darby": "car j'ai eu faim, et vous ne m'avez pas donné à manger ; j'ai eu soif, et vous ne m'avez pas donné à boire ;"
-    },
-    "interlinear": [
-      { "greek": "ἐπείνασα", "gloss": "j'ai_eu_faim" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἐδώκατέ", "gloss": "vous_avez_donné" },
-      { "greek": "μοι", "gloss": "à_moi" },
-      { "greek": "φαγεῖν,", "gloss": "à_manger" },
-      { "greek": "ἐδίψησα", "gloss": "j'ai_eu_soif" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἐποτίσατέ", "gloss": "vous_avez_donné_à_boire" },
-      { "greek": "με,", "gloss": "moi" }
-    ]
-  },
-  {
-    "verse_number": 43,
-    "translations": {
-      "segond": "j'étais étranger, et vous ne m'avez pas recueilli; j'étais nu, et vous ne m'avez pas vêtu; j'étais malade et en prison, et vous ne m'avez pas visité.",
-      "darby": "j'étais étranger, et vous ne m'avez pas recueilli ; nu, et vous ne m'avez pas vêtu ; malade et en prison, et vous ne m'avez pas visité."
-    },
-    "interlinear": [
-      { "greek": "ξένος", "gloss": "étranger" },
-      { "greek": "ἤμην", "gloss": "j'étais" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐ", "gloss": "non" },
-      { "greek": "συνηγάγετέ", "gloss": "vous_avez_recueilli" },
-      { "greek": "με,", "gloss": "moi" },
-      { "greek": "γυμνὸς", "gloss": "nu" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐ", "gloss": "non" },
-      { "greek": "περιεβάλετέ", "gloss": "vous_avez_vêtu" },
-      { "greek": "με,", "gloss": "moi" },
-      { "greek": "ἀσθενὴς", "gloss": "malade" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "ἐν", "gloss": "en" },
-      { "greek": "φυλακῇ", "gloss": "prison" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἐπεσκέψασθέ", "gloss": "vous_avez_visité" },
-      { "greek": "με.", "gloss": "moi" }
-    ]
-  },
-  {
-    "verse_number": 44,
-    "translations": {
-      "segond": "Ils répondront aussi: Seigneur, quand t'avons-nous vu ayant faim, ou ayant soif, ou étranger, ou nu, ou malade, ou en prison, et ne t'avons-nous pas assisté?",
-      "darby": "Alors eux aussi répondront, disant : Seigneur, quand est-ce que nous t'avons vu avoir faim, ou avoir soif, ou étranger, ou nu, ou malade, ou en prison, et que nous ne t'avons pas servi ?"
-    },
-    "interlinear": [
-      { "greek": "τότε", "gloss": "alors" },
-      { "greek": "ἀποκριθήσονται", "gloss": "répondront" },
-      { "greek": "καὶ", "gloss": "aussi" },
-      { "greek": "αὐτοὶ", "gloss": "eux" },
-      { "greek": "λέγοντες·", "gloss": "disant" },
-      { "greek": "Κύριε,", "gloss": "Seigneur" },
-      { "greek": "πότε", "gloss": "quand" },
-      { "greek": "σε", "gloss": "toi" },
-      { "greek": "εἴδομεν", "gloss": "avons-nous_vu" },
-      { "greek": "πεινῶντα", "gloss": "ayant_faim" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "διψῶντα", "gloss": "ayant_soif" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "ξένον", "gloss": "étranger" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "γυμνὸν", "gloss": "nu" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "ἀσθενοῦντα", "gloss": "étant_malade" },
-      { "greek": "ἢ", "gloss": "ou" },
-      { "greek": "ἐν", "gloss": "en" },
-      { "greek": "φυλακῇ", "gloss": "prison" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "οὐ", "gloss": "ne...pas" },
-      { "greek": "διηκονήσαμέν", "gloss": "avons_servi" },
-      { "greek": "σοι;", "gloss": "à_toi" }
-    ]
-  },
-  {
-    "verse_number": 45,
-    "translations": {
-      "segond": "Et il leur répondra: Je vous le dis en vérité, toutes les fois que vous n'avez pas fait ces choses à l'un de ces plus petits, c'est à moi que vous ne les avez pas faites.",
-      "darby": "Alors il leur répondra, disant : En vérité, je vous dis : En tant que vous ne l'avez pas fait à l'un des plus petits de ceux-ci, vous ne me l'avez pas fait à moi non plus."
-    },
-    "interlinear": [
-      { "greek": "τότε", "gloss": "alors" },
-      { "greek": "ἀποκριθήσεται", "gloss": "il_répondra" },
-      { "greek": "αὐτοῖς", "gloss": "à_eux" },
-      { "greek": "λέγων·", "gloss": "disant" },
-      { "greek": "Ἀμὴν", "gloss": "En_vérité" },
-      { "greek": "λέγω", "gloss": "je_dis" },
-      { "greek": "ὑμῖν,", "gloss": "à_vous" },
-      { "greek": "ἐφ’", "gloss": "sur" },
-      { "greek": "ὅσον", "gloss": "autant_que" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "ἐποιήσατε", "gloss": "vous_avez_fait" },
-      { "greek": "ἑνὶ", "gloss": "à_un" },
-      { "greek": "τούτων", "gloss": "de_ceux-ci" },
-      { "greek": "τῶν", "gloss": "les" },
-      { "greek": "ἐλαχίστων,", "gloss": "plus_petits" },
-      { "greek": "οὐδὲ", "gloss": "ni/non_plus" },
-      { "greek": "ἐμοὶ", "gloss": "à_moi" },
-      { "greek": "ἐποιήσατε.", "gloss": "vous_avez_fait" }
-    ]
-  },
-  {
-    "verse_number": 46,
-    "translations": {
-      "segond": "Et ceux-ci iront au châtiment éternel, mais les justes à la vie éternelle.",
-      "darby": "Et ceux-ci s'en iront dans les tourments éternels, et les justes dans la vie éternelle."
-    },
-    "interlinear": [
-      { "greek": "καὶ", "gloss": "Et" },
-      { "greek": "ἀπελεύσονται", "gloss": "ils_iront" },
-      { "greek": "οὗτοι", "gloss": "ceux-ci" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "κόλασιν", "gloss": "châtiment/amputation", "analyse": "Très important : le mot grec *kolasin* vient de l'agriculture et signifie originellement 'élaguer', 'amputer' ou 'couper une branche'. Le châtiment infernal n'est pas une torture infligée par Dieu, c'est l'état tragique de l'âme qui s'est elle-même 'amputée' de l'Arbre de Vie par son refus d'aimer l'autre." },
-      { "greek": "αἰώνιον,", "gloss": "éternel" },
-      { "greek": "οἱ", "gloss": "les" },
-      { "greek": "δὲ", "gloss": "mais/or" },
-      { "greek": "δίκαιοι", "gloss": "justes" },
-      { "greek": "εἰς", "gloss": "dans" },
-      { "greek": "ζωὴν", "gloss": "vie" },
-      { "greek": "αἰώνιον.", "gloss": "éternelle" }
+      {
+        "verse_number": 8,
+        "translations": {
+          "segond": "L'aliment ne nous rapproche pas de Dieu : si nous en mangeons, nous n'avons rien de plus; si nous n'en mangeons pas, nous n'avons rien de moins.",
+          "darby": "Or la viande ne nous recommande pas à Dieu ; car nous n'avons rien de moins si nous ne mangeons pas, et nous n'avons rien de plus si nous mangeons."
+        },
+        "interlinear": [
+          {
+            "greek": "Βρῶμα",
+            "gloss": "L'aliment"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἡμᾶς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "παραστήσει",
+            "gloss": "rapprochera/présentera",
+            "analyse": "Le verbe *paristemi* signifie se tenir devant quelqu'un, être présenté à un roi ou à un juge. Saint Paul pose une règle d'or pour le début du Carême : aucune pratique alimentaire en elle-même ne nous justifie au tribunal de Dieu. Le jeûne est un outil médical pour l'âme, pas un mérite juridique."
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à"
+          },
+          {
+            "greek": "θεῷ·",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "οὔτε",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "φάγωμεν",
+            "gloss": "nous_mangeons"
+          },
+          {
+            "greek": "ὑστερούμεθα,",
+            "gloss": "nous_manquons"
+          },
+          {
+            "greek": "οὔτε",
+            "gloss": "ni"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "φάγωμεν",
+            "gloss": "nous_mangeons"
+          },
+          {
+            "greek": "περισσεύομεν.",
+            "gloss": "nous_abondons"
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "translations": {
+          "segond": "Prenez garde, toutefois, que votre liberté ne devienne une pierre d'achoppement pour les faibles.",
+          "darby": "Mais prenez garde que cette liberté que vous avez ne devienne une pierre d'achoppement pour les faibles."
+        },
+        "interlinear": [
+          {
+            "greek": "Βλέπετε",
+            "gloss": "Prenez_garde"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/cependant"
+          },
+          {
+            "greek": "μή",
+            "gloss": "que_ne"
+          },
+          {
+            "greek": "πως",
+            "gloss": "d'une_manière"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἐξουσία",
+            "gloss": "liberté/droit"
+          },
+          {
+            "greek": "ὑμῶν",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "αὕτη",
+            "gloss": "cette"
+          },
+          {
+            "greek": "πρόσκομμα",
+            "gloss": "pierre_d'achoppement"
+          },
+          {
+            "greek": "γένηται",
+            "gloss": "devienne"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "pour_les"
+          },
+          {
+            "greek": "ἀσθενέσιν.",
+            "gloss": "faibles"
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "Car, si quelqu'un te voit, toi qui as de la connaissance, assis à table dans un temple d'idoles, sa conscience, à lui qui est faible, ne le portera-t-elle pas à manger des viandes sacrifiées aux idoles?",
+          "darby": "Car si quelqu'un te voit, toi qui as de la connaissance, assis à table dans un temple d'idoles, sa conscience à lui qui est faible, ne sera-t-elle pas enhardie à manger des choses sacrifiées aux idoles ?"
+        },
+        "interlinear": [
+          {
+            "greek": "ἐὰν",
+            "gloss": "Si"
+          },
+          {
+            "greek": "γάρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "ἴδῃ",
+            "gloss": "voit"
+          },
+          {
+            "greek": "σὲ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἔχοντα",
+            "gloss": "ayant"
+          },
+          {
+            "greek": "γνῶσιν",
+            "gloss": "connaissance"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "εἰδωλείῳ",
+            "gloss": "temple_d'idoles"
+          },
+          {
+            "greek": "κατακείμενον,",
+            "gloss": "étant_à_table"
+          },
+          {
+            "greek": "οὐχὶ",
+            "gloss": "est-ce_que_non"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "συνείδησις",
+            "gloss": "conscience",
+            "analyse": "Le mot *syneidesis* (co-connaissance) désigne l'œil intérieur de l'âme. Pour l'Apôtre, la connaissance théologique pure (savoir qu'une idole n'est rien) est mortifère si elle écrase la conscience fragile d'un frère. La vérité sans l'amour est une idolâtrie pire que le paganisme."
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἀσθενοῦς",
+            "gloss": "étant_faible"
+          },
+          {
+            "greek": "ὄντος",
+            "gloss": "étant"
+          },
+          {
+            "greek": "οἰκοδομηθήσεται",
+            "gloss": "sera_édifiée/poussée"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "le"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "εἰδωλόθυτα",
+            "gloss": "sacrifiés_aux_idoles"
+          },
+          {
+            "greek": "ἐσθίειν;",
+            "gloss": "manger"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Et ainsi le faible périra par ta connaissance, le frère pour lequel Christ est mort !",
+          "darby": "Et le faible périra par ta connaissance, le frère pour lequel Christ est mort !"
+        },
+        "interlinear": [
+          {
+            "greek": "ἀπόλλυται",
+            "gloss": "Périt"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀσθενῶν",
+            "gloss": "faible"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "par"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "σῇ",
+            "gloss": "tienne"
+          },
+          {
+            "greek": "γνώσει,",
+            "gloss": "connaissance"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀδελφὸς",
+            "gloss": "frère"
+          },
+          {
+            "greek": "δι’",
+            "gloss": "pour"
+          },
+          {
+            "greek": "ὃν",
+            "gloss": "lequel"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ἀπέθανεν.",
+            "gloss": "est_mort"
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "translations": {
+          "segond": "En péchant de la sorte contre les frères, et en blessant leur conscience faible, vous péchez contre Christ.",
+          "darby": "Or en péchant ainsi contre les frères, et en blessant leur conscience qui est faible, vous péchez contre Christ."
+        },
+        "interlinear": [
+          {
+            "greek": "οὕτως",
+            "gloss": "Ainsi"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἁμαρτάνοντες",
+            "gloss": "péchant"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "contre"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀδελφοὺς",
+            "gloss": "frères"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τύπτοντες",
+            "gloss": "frappant/blessant"
+          },
+          {
+            "greek": "αὐτῶν",
+            "gloss": "d'eux"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "συνείδησιν",
+            "gloss": "conscience"
+          },
+          {
+            "greek": "ἀσθενοῦσαν",
+            "gloss": "étant_faible"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "contre"
+          },
+          {
+            "greek": "Χριστὸν",
+            "gloss": "Christ",
+            "analyse": "C'est l'axe central de ce dimanche : l'identification absolue du Christ avec notre prochain. Comme dans la parabole du Jugement (ce que vous avez fait au plus petit, c'est à moi que vous l'avez fait), pécher contre le frère, c'est frapper le Christ Lui-même."
+          },
+          {
+            "greek": "ἁμαρτάνετε.",
+            "gloss": "vous_péchez"
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "translations": {
+          "segond": "C'est pourquoi, si un aliment scandalise mon frère, je ne mangerai jamais de viande, afin de ne pas scandaliser mon frère.",
+          "darby": "C'est pourquoi, si la viande scandalise mon frère, je ne mangerai jamais de chair, pour ne pas scandaliser mon frère."
+        },
+        "interlinear": [
+          {
+            "greek": "διόπερ",
+            "gloss": "C'est_pourquoi"
+          },
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "βρῶμα",
+            "gloss": "un_aliment"
+          },
+          {
+            "greek": "σκανδαλίζει",
+            "gloss": "scandalise/fait_chuter"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀδελφόν",
+            "gloss": "frère"
+          },
+          {
+            "greek": "μου,",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "φάγω",
+            "gloss": "je_mangerai"
+          },
+          {
+            "greek": "κρέα",
+            "gloss": "viandes",
+            "analyse": "Le mot *kréa* (viande) a donné le nom de ce dimanche en grec : Apokreō (Apo = loin de, Kreo = viande), le 'Carnaval' (Carne Vale = adieu la chair). L'apôtre montre ici l'essence du jeûne orthodoxe : on s'abstient de viande non pas parce qu'elle est impure, mais par amour, pour ne pas choquer ni écraser l'autre."
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "pour"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "αἰῶνα,",
+            "gloss": "siècle/éternité"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἀδελφόν",
+            "gloss": "frère"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "σκανδαλίσω.",
+            "gloss": "je_scandalise"
+          }
+        ]
+      },
+      {
+        "verse_number": "9, 1",
+        "translations": {
+          "segond": "Ne suis-je pas libre ? Ne suis-je pas apôtre ? N'ai-je pas vu Jésus notre Seigneur ? N'êtes-vous pas mon oeuvre dans le Seigneur ?",
+          "darby": "Ne suis-je pas libre ? ne suis-je pas apôtre ? n'ai-je pas vu Jésus notre Seigneur ? n'êtes-vous pas mon oeuvre dans le Seigneur ?"
+        },
+        "interlinear": [
+          {
+            "greek": "Οὐκ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "suis-je"
+          },
+          {
+            "greek": "ἐλεύθερος;",
+            "gloss": "libre"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "suis-je"
+          },
+          {
+            "greek": "ἀπόστολος;",
+            "gloss": "apôtre"
+          },
+          {
+            "greek": "οὐχὶ",
+            "gloss": "N'est-ce_pas_que"
+          },
+          {
+            "greek": "Ἰησοῦν",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριον",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "ἑώρακα;",
+            "gloss": "j'ai_vu"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "Ne...pas"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἔργον",
+            "gloss": "œuvre"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐστε",
+            "gloss": "êtes"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κυρίῳ;",
+            "gloss": "le_Seigneur"
+          }
+        ]
+      },
+      {
+        "verse_number": "9, 2",
+        "translations": {
+          "segond": "Si pour d'autres je ne suis pas apôtre, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur.",
+          "darby": "Si pour d'autres je ne suis pas apôtre, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur."
+        },
+        "interlinear": [
+          {
+            "greek": "εἰ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "ἄλλοις",
+            "gloss": "pour_d'autres"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "εἰμὶ",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ἀπόστολος,",
+            "gloss": "apôtre"
+          },
+          {
+            "greek": "ἀλλά",
+            "gloss": "mais"
+          },
+          {
+            "greek": "γε",
+            "gloss": "au_moins"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "pour_vous"
+          },
+          {
+            "greek": "εἰμι·",
+            "gloss": "je_suis"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "le"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "σφραγίς",
+            "gloss": "sceau"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀποστολῆς",
+            "gloss": "apostolat"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐστε",
+            "gloss": "êtes"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κυρίῳ.",
+            "gloss": "le_Seigneur"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 10 - εἰδωλόθυτα : Mot technique grec signifiant 'viandes sacrifiées aux idoles'. Segond garde cette explicitation, Darby traduit par 'choses sacrifiées' pour rester plus proche de la racine large.\n• Verset 13 - σκανδαλίζει : Le verbe *skandalizō* (scandaliser) ne veut pas dire 'choquer les bonnes mœurs', mais littéralement 'placer un piège sur la route de quelqu'un' pour le faire tomber. Traduire par 'fait chuter mon frère' serait plus exact spirituellement.\n• Verset 13 - κρέα : Le pluriel grec indique 'les viandes'. Darby traduit singulièrement par 'la chair' (terme souvent spirituel chez Paul), là où Segond reste concret avec 'de la viande'.\n\nAnalyse spirituelle :\nCette épître pose les fondations du Grand Carême. L'apôtre Paul adresse un avertissement sévère à ceux qui se croiraient 'spirituellement supérieurs'. On peut avoir une théologie parfaite (la 'connaissance') et pourtant détruire son âme si cette connaissance n'est pas au service de l'amour du prochain.\n\nCe dimanche s'appelle l'Apokréo (Carnaval), le jour où l'on prend congé de la viande. Saint Paul nous en donne le sens profond : le but de la privation (le jeûne) n'est pas d'atteindre une pureté rituelle ou de punir son corps. L'ascèse orthodoxe est toujours relationnelle. Je renonce à mon 'droit' légitime, je renonce à ma 'viande' (v. 13) pour me solidariser avec la fragilité de mon frère. Le jeûne qui vient de Dieu est une école de délicatesse, car frapper la conscience d'un homme, c'est 'pécher contre Christ' (v. 12). C'est la réplique exacte de l'Évangile du Jugement Dernier lu ce même jour.",
+    "homiletic_axes": [
+      {
+        "title": "Le Christ se rend présent dans le plus petit",
+        "content": "Le Roi identifie à lui-même ceux qui ont faim, soif, sont étrangers, nus, malades ou prisonniers. Le jugement dévoile ainsi une présence du Christ souvent méconnue au cœur de la relation concrète au prochain.",
+        "keywords": [
+          "ἐλάχιστος — le plus petit",
+          "ποιέω — faire",
+          "ἀδελφός — frère"
+        ]
+      },
+      {
+        "title": "Ce qui est fait au petit atteint le Seigneur",
+        "content": "Le résumé S2 formule le principe : « Ce que le grand fait au petit, Dieu le fait au grand ». La responsabilité verticale devant Dieu se vérifie horizontalement dans la manière de traiter celui qui dépend de notre attention.",
+        "keywords": [
+          "Κύριος — Seigneur",
+          "ἔλεος — miséricorde",
+          "διακονέω — servir"
+        ]
+      },
+      {
+        "title": "La charité règle l’usage de la liberté",
+        "content": "Paul ne condamne pas la connaissance vraie sur les aliments ; il demande qu’elle ne devienne pas une pierre d’achoppement pour le faible. La liberté chrétienne trouve sa mesure dans le salut du frère pour lequel le Christ est mort.",
+        "keywords": [
+          "ἐξουσία — liberté/droit",
+          "πρόσκομμα — obstacle",
+          "ἀσθενής — faible"
+        ]
+      },
+      {
+        "title": "Voir celui que l’habitude rend invisible",
+        "content": "Dans l’Évangile, justes et injustes demandent : « Quand t’avons-nous vu ? » Dans l’Épître, le frère faible risque pareillement d’être réduit à un problème secondaire. Les deux lectures appellent un regard éveillé à la présence personnelle de l’autre.",
+        "keywords": [
+          "ὁράω — voir",
+          "συνείδησις — conscience",
+          "γινώσκω — connaître"
+        ]
+      },
+      {
+        "title": "Le seuil du Carême s’élargit vers le frère",
+        "content": "Après l’humilité du Publicain et le retour du Prodigue vers le Père, le résumé S2 présente le Jugement comme le déploiement horizontal vers les autres. Le chemin vers Pâques ne sépare donc jamais ascèse, communion et miséricorde concrète.",
+        "keywords": [
+          "κρίσις — jugement",
+          "ἀγάπη — amour",
+          "πλησίον — prochain"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "La connaissance devient amour du frère",
+        "reference": "Matthieu 25, 31-46 ; 1 Corinthiens 8, 8 - 9, 2",
+        "content": "Le Christ se laisse rencontrer dans le plus petit ; Paul demande de renoncer à l’exercice d’un droit lorsqu’il blesse le faible. Le jugement révèle si notre connaissance de Dieu est devenue attention et service.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le Jugement dernier » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez comment la liberté chrétienne, la connaissance, la faiblesse du frère et la rencontre du Christ dans le petit se répondent."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que Dieu donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
     ]
   }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 32 - ἀφορίσει : Souvent traduit par 'il séparera', ce verbe porte l'idée de marquer un horizon (une frontière). Le jugement n'est pas un tribunal, c'est la révélation d'une limite intérieure que chaque homme a creusée durant sa vie.\n• Verset 41 - κατηραμένοι / ἡτοιμασμένον : Les traductions masquent parfois la passivité de ces participes. Le texte grec prend grand soin de ne jamais faire de Dieu le sujet actif de la damnation. Le feu est préparé pour le diable, pas pour l'homme.\n• Verset 46 - κόλασιν : Segond traduit par 'châtiment' et Darby par 'tourments'. Ces mots ont une forte charge punitive en français, alors que la racine grecque (*kolazo*) évoque plutôt la taille d'un arbre, l'amputation. C'est la coupure relationnelle définitive.\n\nAnalyse spirituelle :\nLe Jugement Dernier (Dimanche du Carnaval) nous offre le critère absolu de notre salut. Le Christ ne nous interrogera ni sur nos jeûnes, ni sur nos dogmes, ni sur nos extases spirituelles. La seule question sera : 'As-tu su me reconnaître dans l'autre ?'\n\nLa tragédie de ceux de 'la gauche' n'est pas d'avoir été de grands criminels. Leur péché est l'omission ('vous ne l'avez pas fait'). Ils ont cru pouvoir aimer Dieu de manière désincarnée, tout en ignorant le pauvre, l'étranger et le prisonnier devant leur porte. L'Orthodoxie nous enseigne ici que l'enfer n'est pas un lieu où Dieu nous enferme par vengeance, mais l'incapacité de l'âme à supporter l'Amour divin, parce qu'elle s'est volontairement 'amputée' (*kolasin*) de toute communion avec le prochain."
-  },
-    "apostle": {
-  "reference": "1 Corinthiens 8, 8 - 9, 2",
-  "title": "La Charité au-dessus de la Connaissance",
-  "interlinear": [
-   {
-    "verse_number": 8,
-    "translations": {
-      "segond": "L'aliment ne nous rapproche pas de Dieu : si nous en mangeons, nous n'avons rien de plus; si nous n'en mangeons pas, nous n'avons rien de moins.",
-      "darby": "Or la viande ne nous recommande pas à Dieu ; car nous n'avons rien de moins si nous ne mangeons pas, et nous n'avons rien de plus si nous mangeons."
-    },
-    "interlinear": [
-      { "greek": "Βρῶμα", "gloss": "L'aliment" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ἡμᾶς", "gloss": "nous" },
-      { "greek": "οὐ", "gloss": "ne...pas" },
-      { "greek": "παραστήσει", "gloss": "rapprochera/présentera", "analyse": "Le verbe *paristemi* signifie se tenir devant quelqu'un, être présenté à un roi ou à un juge. Saint Paul pose une règle d'or pour le début du Carême : aucune pratique alimentaire en elle-même ne nous justifie au tribunal de Dieu. Le jeûne est un outil médical pour l'âme, pas un mérite juridique." },
-      { "greek": "τῷ", "gloss": "à" },
-      { "greek": "θεῷ·", "gloss": "Dieu" },
-      { "greek": "οὔτε", "gloss": "ni" },
-      { "greek": "ἐὰν", "gloss": "si" },
-      { "greek": "μὴ", "gloss": "ne...pas" },
-      { "greek": "φάγωμεν", "gloss": "nous_mangeons" },
-      { "greek": "ὑστερούμεθα,", "gloss": "nous_manquons" },
-      { "greek": "οὔτε", "gloss": "ni" },
-      { "greek": "ἐὰν", "gloss": "si" },
-      { "greek": "φάγωμεν", "gloss": "nous_mangeons" },
-      { "greek": "περισσεύομεν.", "gloss": "nous_abondons" }
-    ]
-  },
-  {
-    "verse_number": 9,
-    "translations": {
-      "segond": "Prenez garde, toutefois, que votre liberté ne devienne une pierre d'achoppement pour les faibles.",
-      "darby": "Mais prenez garde que cette liberté que vous avez ne devienne une pierre d'achoppement pour les faibles."
-    },
-    "interlinear": [
-      { "greek": "Βλέπετε", "gloss": "Prenez_garde" },
-      { "greek": "δὲ", "gloss": "or/cependant" },
-      { "greek": "μή", "gloss": "que_ne" },
-      { "greek": "πως", "gloss": "d'une_manière" },
-      { "greek": "ἡ", "gloss": "la" },
-      { "greek": "ἐξουσία", "gloss": "liberté/droit" },
-      { "greek": "ὑμῶν", "gloss": "de_vous" },
-      { "greek": "αὕτη", "gloss": "cette" },
-      { "greek": "πρόσκομμα", "gloss": "pierre_d'achoppement" },
-      { "greek": "γένηται", "gloss": "devienne" },
-      { "greek": "τοῖς", "gloss": "pour_les" },
-      { "greek": "ἀσθενέσιν.", "gloss": "faibles" }
-    ]
-  },
-  {
-    "verse_number": 10,
-    "translations": {
-      "segond": "Car, si quelqu'un te voit, toi qui as de la connaissance, assis à table dans un temple d'idoles, sa conscience, à lui qui est faible, ne le portera-t-elle pas à manger des viandes sacrifiées aux idoles?",
-      "darby": "Car si quelqu'un te voit, toi qui as de la connaissance, assis à table dans un temple d'idoles, sa conscience à lui qui est faible, ne sera-t-elle pas enhardie à manger des choses sacrifiées aux idoles ?"
-    },
-    "interlinear": [
-      { "greek": "ἐὰν", "gloss": "Si" },
-      { "greek": "γάρ", "gloss": "car" },
-      { "greek": "τις", "gloss": "quelqu'un" },
-      { "greek": "ἴδῃ", "gloss": "voit" },
-      { "greek": "σὲ", "gloss": "toi" },
-      { "greek": "τὸν", "gloss": "celui" },
-      { "greek": "ἔχοντα", "gloss": "ayant" },
-      { "greek": "γνῶσιν", "gloss": "connaissance" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "εἰδωλείῳ", "gloss": "temple_d'idoles" },
-      { "greek": "κατακείμενον,", "gloss": "étant_à_table" },
-      { "greek": "οὐχὶ", "gloss": "est-ce_que_non" },
-      { "greek": "ἡ", "gloss": "la" },
-      { "greek": "συνείδησις", "gloss": "conscience", "analyse": "Le mot *syneidesis* (co-connaissance) désigne l'œil intérieur de l'âme. Pour l'Apôtre, la connaissance théologique pure (savoir qu'une idole n'est rien) est mortifère si elle écrase la conscience fragile d'un frère. La vérité sans l'amour est une idolâtrie pire que le paganisme." },
-      { "greek": "αὐτοῦ", "gloss": "de_lui" },
-      { "greek": "ἀσθενοῦς", "gloss": "étant_faible" },
-      { "greek": "ὄντος", "gloss": "étant" },
-      { "greek": "οἰκοδομηθήσεται", "gloss": "sera_édifiée/poussée" },
-      { "greek": "εἰς", "gloss": "pour" },
-      { "greek": "τὸ", "gloss": "le" },
-      { "greek": "τὰ", "gloss": "les" },
-      { "greek": "εἰδωλόθυτα", "gloss": "sacrifiés_aux_idoles" },
-      { "greek": "ἐσθίειν;", "gloss": "manger" }
-    ]
-  },
-  {
-    "verse_number": 11,
-    "translations": {
-      "segond": "Et ainsi le faible périra par ta connaissance, le frère pour lequel Christ est mort !",
-      "darby": "Et le faible périra par ta connaissance, le frère pour lequel Christ est mort !"
-    },
-    "interlinear": [
-      { "greek": "ἀπόλλυται", "gloss": "Périt" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "ἀσθενῶν", "gloss": "faible" },
-      { "greek": "ἐν", "gloss": "par" },
-      { "greek": "τῇ", "gloss": "la" },
-      { "greek": "σῇ", "gloss": "tienne" },
-      { "greek": "γνώσει,", "gloss": "connaissance" },
-      { "greek": "ὁ", "gloss": "le" },
-      { "greek": "ἀδελφὸς", "gloss": "frère" },
-      { "greek": "δι’", "gloss": "pour" },
-      { "greek": "ὃν", "gloss": "lequel" },
-      { "greek": "Χριστὸς", "gloss": "Christ" },
-      { "greek": "ἀπέθανεν.", "gloss": "est_mort" }
-    ]
-  },
-  {
-    "verse_number": 12,
-    "translations": {
-      "segond": "En péchant de la sorte contre les frères, et en blessant leur conscience faible, vous péchez contre Christ.",
-      "darby": "Or en péchant ainsi contre les frères, et en blessant leur conscience qui est faible, vous péchez contre Christ."
-    },
-    "interlinear": [
-      { "greek": "οὕτως", "gloss": "Ainsi" },
-      { "greek": "δὲ", "gloss": "or" },
-      { "greek": "ἁμαρτάνοντες", "gloss": "péchant" },
-      { "greek": "εἰς", "gloss": "contre" },
-      { "greek": "τοὺς", "gloss": "les" },
-      { "greek": "ἀδελφοὺς", "gloss": "frères" },
-      { "greek": "καὶ", "gloss": "et" },
-      { "greek": "τύπτοντες", "gloss": "frappant/blessant" },
-      { "greek": "αὐτῶν", "gloss": "d'eux" },
-      { "greek": "τὴν", "gloss": "la" },
-      { "greek": "συνείδησιν", "gloss": "conscience" },
-      { "greek": "ἀσθενοῦσαν", "gloss": "étant_faible" },
-      { "greek": "εἰς", "gloss": "contre" },
-      { "greek": "Χριστὸν", "gloss": "Christ", "analyse": "C'est l'axe central de ce dimanche : l'identification absolue du Christ avec notre prochain. Comme dans la parabole du Jugement (ce que vous avez fait au plus petit, c'est à moi que vous l'avez fait), pécher contre le frère, c'est frapper le Christ Lui-même." },
-      { "greek": "ἁμαρτάνετε.", "gloss": "vous_péchez" }
-    ]
-  },
-  {
-    "verse_number": 13,
-    "translations": {
-      "segond": "C'est pourquoi, si un aliment scandalise mon frère, je ne mangerai jamais de viande, afin de ne pas scandaliser mon frère.",
-      "darby": "C'est pourquoi, si la viande scandalise mon frère, je ne mangerai jamais de chair, pour ne pas scandaliser mon frère."
-    },
-    "interlinear": [
-      { "greek": "διόπερ", "gloss": "C'est_pourquoi" },
-      { "greek": "εἰ", "gloss": "si" },
-      { "greek": "βρῶμα", "gloss": "un_aliment" },
-      { "greek": "σκανδαλίζει", "gloss": "scandalise/fait_chuter" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "ἀδελφόν", "gloss": "frère" },
-      { "greek": "μου,", "gloss": "de_moi" },
-      { "greek": "οὐ", "gloss": "non" },
-      { "greek": "μὴ", "gloss": "ne...pas" },
-      { "greek": "φάγω", "gloss": "je_mangerai" },
-      { "greek": "κρέα", "gloss": "viandes", "analyse": "Le mot *kréa* (viande) a donné le nom de ce dimanche en grec : Apokreō (Apo = loin de, Kreo = viande), le 'Carnaval' (Carne Vale = adieu la chair). L'apôtre montre ici l'essence du jeûne orthodoxe : on s'abstient de viande non pas parce qu'elle est impure, mais par amour, pour ne pas choquer ni écraser l'autre." },
-      { "greek": "εἰς", "gloss": "pour" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "αἰῶνα,", "gloss": "siècle/éternité" },
-      { "greek": "ἵνα", "gloss": "afin_que" },
-      { "greek": "μὴ", "gloss": "ne...pas" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "ἀδελφόν", "gloss": "frère" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "σκανδαλίσω.", "gloss": "je_scandalise" }
-    ]
-  },
-  {
-    "verse_number": "9, 1",
-    "translations": {
-      "segond": "Ne suis-je pas libre ? Ne suis-je pas apôtre ? N'ai-je pas vu Jésus notre Seigneur ? N'êtes-vous pas mon oeuvre dans le Seigneur ?",
-      "darby": "Ne suis-je pas libre ? ne suis-je pas apôtre ? n'ai-je pas vu Jésus notre Seigneur ? n'êtes-vous pas mon oeuvre dans le Seigneur ?"
-    },
-    "interlinear": [
-      { "greek": "Οὐκ", "gloss": "Ne...pas" },
-      { "greek": "εἰμὶ", "gloss": "suis-je" },
-      { "greek": "ἐλεύθερος;", "gloss": "libre" },
-      { "greek": "οὐκ", "gloss": "Ne...pas" },
-      { "greek": "εἰμὶ", "gloss": "suis-je" },
-      { "greek": "ἀπόστολος;", "gloss": "apôtre" },
-      { "greek": "οὐχὶ", "gloss": "N'est-ce_pas_que" },
-      { "greek": "Ἰησοῦν", "gloss": "Jésus" },
-      { "greek": "τὸν", "gloss": "le" },
-      { "greek": "κύριον", "gloss": "Seigneur" },
-      { "greek": "ἡμῶν", "gloss": "de_nous" },
-      { "greek": "ἑώρακα;", "gloss": "j'ai_vu" },
-      { "greek": "οὐ", "gloss": "Ne...pas" },
-      { "greek": "τὸ", "gloss": "l'" },
-      { "greek": "ἔργον", "gloss": "œuvre" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "ὑμεῖς", "gloss": "vous" },
-      { "greek": "ἐστε", "gloss": "êtes" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "κυρίῳ;", "gloss": "le_Seigneur" }
-    ]
-  },
-  {
-    "verse_number": "9, 2",
-    "translations": {
-      "segond": "Si pour d'autres je ne suis pas apôtre, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur.",
-      "darby": "Si pour d'autres je ne suis pas apôtre, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur."
-    },
-    "interlinear": [
-      { "greek": "εἰ", "gloss": "Si" },
-      { "greek": "ἄλλοις", "gloss": "pour_d'autres" },
-      { "greek": "οὐκ", "gloss": "ne...pas" },
-      { "greek": "εἰμὶ", "gloss": "je_suis" },
-      { "greek": "ἀπόστολος,", "gloss": "apôtre" },
-      { "greek": "ἀλλά", "gloss": "mais" },
-      { "greek": "γε", "gloss": "au_moins" },
-      { "greek": "ὑμῖν", "gloss": "pour_vous" },
-      { "greek": "εἰμι·", "gloss": "je_suis" },
-      { "greek": "ἡ", "gloss": "le" },
-      { "greek": "γὰρ", "gloss": "car" },
-      { "greek": "σφραγίς", "gloss": "sceau" },
-      { "greek": "μου", "gloss": "de_moi" },
-      { "greek": "τῆς", "gloss": "de_l'" },
-      { "greek": "ἀποστολῆς", "gloss": "apostolat" },
-      { "greek": "ὑμεῖς", "gloss": "vous" },
-      { "greek": "ἐστε", "gloss": "êtes" },
-      { "greek": "ἐν", "gloss": "dans" },
-      { "greek": "κυρίῳ.", "gloss": "le_Seigneur" }
-    ]
-  }
-],
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 10 - εἰδωλόθυτα : Mot technique grec signifiant 'viandes sacrifiées aux idoles'. Segond garde cette explicitation, Darby traduit par 'choses sacrifiées' pour rester plus proche de la racine large.\n• Verset 13 - σκανδαλίζει : Le verbe *skandalizō* (scandaliser) ne veut pas dire 'choquer les bonnes mœurs', mais littéralement 'placer un piège sur la route de quelqu'un' pour le faire tomber. Traduire par 'fait chuter mon frère' serait plus exact spirituellement.\n• Verset 13 - κρέα : Le pluriel grec indique 'les viandes'. Darby traduit singulièrement par 'la chair' (terme souvent spirituel chez Paul), là où Segond reste concret avec 'de la viande'.\n\nAnalyse spirituelle :\nCette épître pose les fondations du Grand Carême. L'apôtre Paul adresse un avertissement sévère à ceux qui se croiraient 'spirituellement supérieurs'. On peut avoir une théologie parfaite (la 'connaissance') et pourtant détruire son âme si cette connaissance n'est pas au service de l'amour du prochain.\n\nCe dimanche s'appelle l'Apokréo (Carnaval), le jour où l'on prend congé de la viande. Saint Paul nous en donne le sens profond : le but de la privation (le jeûne) n'est pas d'atteindre une pureté rituelle ou de punir son corps. L'ascèse orthodoxe est toujours relationnelle. Je renonce à mon 'droit' légitime, je renonce à ma 'viande' (v. 13) pour me solidariser avec la fragilité de mon frère. Le jeûne qui vient de Dieu est une école de délicatesse, car frapper la conscience d'un homme, c'est 'pécher contre Christ' (v. 12). C'est la réplique exacte de l'Évangile du Jugement Dernier lu ce même jour."
- }
-  } 
+}
