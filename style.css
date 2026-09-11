@@ -966,6 +966,10 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .comparison-homiletic-use { max-width: 900px; margin: 14px auto 0; padding: 12px 14px; border-left: 4px solid #7e2430; border-radius: 0 7px 7px 0; background: #fbf1ef; }
 .comparison-homiletic-use strong { display: block; margin-bottom: 4px; color: #6a1722; font-size: .76rem; letter-spacing: .065em; text-transform: uppercase; }
 .comparison-homiletic-use p { margin: 0; color: #453b35; font-size: .91rem; line-height: 1.55; }
+.comparison-use-action { display: flex; justify-content: flex-end; padding: 0 18px 15px; border-bottom: 1px solid #dfd4bd; background: #fffdf8; }
+.comparison-use-button { min-height: 40px; padding: 8px 13px; border: 1px solid #7e2430; border-radius: 7px; color: #6a1722; background: #fff; font-weight: 800; cursor: pointer; }
+.comparison-use-button:hover { color: #fff; background: #7e2430; }
+.comparison-use-button:focus-visible { outline: 3px solid #c7a75b; outline-offset: 2px; }
 .comparison-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .comparison-reading { min-width: 0; padding: 17px 18px 20px; }
 .comparison-reading + .comparison-reading { border-left: 1px solid #ddd2ba; }
@@ -1046,5 +1050,7 @@ footer { padding: 22px; color: #eadcae; text-align: center; background: #281018;
     .comparison-word-unit .greek-word { font-size: 1.02rem; }
     .comparison-display-toggle { display: grid; grid-template-columns: 1fr 1fr; width: 100%; box-sizing: border-box; }
     .comparison-display-toggle button { padding-inline: 8px; }
+    .comparison-use-action { justify-content: stretch; }
+    .comparison-use-button { width: 100%; }
     .comparison-term-fields { grid-template-columns: 1fr; }
 }

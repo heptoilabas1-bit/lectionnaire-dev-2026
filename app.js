@@ -711,6 +711,40 @@ document.addEventListener('DOMContentLoaded', () => {
         same_root: 'Racine grecque commune'
     };
 
+    const buildComparisonHomilyMaterial = connection => {
+        const bridge = connection?.bridge || {};
+        const linkType = connectionLinkTypeLabels[connection?.link_type]
+            || connectionKindLabels[connection?.kind]
+            || 'Rapprochement';
+        const greekBasis = connectionGreekBasisLabels[connection?.kind] || 'Mots grecs différents';
+        const lemmas = ['gospel', 'apostle'].flatMap(side =>
+            (connection?.term_details?.[side] || []).map(term => term.lemma)
+        ).filter(Boolean);
+        return {
+            title: `Évangile ↔ Apôtre — ${connection?.title || 'Rapprochement'}`,
+            content: [
+                `Nature du lien : ${linkType} (${greekBasis.toLowerCase()}).`,
+                bridge.gospel ? `Évangile : ${bridge.gospel}` : '',
+                bridge.apostle ? `Apôtre : ${bridge.apostle}` : '',
+                bridge.relation ? `Relation : ${bridge.relation}` : '',
+                connection?.homiletic_use ? `Piste homilétique : ${connection.homiletic_use}` : ''
+            ].filter(Boolean).join('\n'),
+            keywords: [...new Set(lemmas)]
+        };
+    };
+
+    const buildComparisonUseAction = connection => {
+        const action = document.createElement('div');
+        action.className = 'comparison-use-action';
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'comparison-use-button';
+        button.textContent = 'Ajouter cette piste à mon brouillon';
+        button.addEventListener('click', () => addMaterialToHomily(buildComparisonHomilyMaterial(connection)));
+        action.appendChild(button);
+        return action;
+    };
+
     const normalizeGreekToken = value => String(value || '')
         .normalize('NFD')
         .replace(/[\u0300-\u036f]/g, '')
@@ -984,7 +1018,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 buildComparisonReading('Évangile', data.gospel, 'gospel', connection, { connectionIndex: index }),
                 buildComparisonReading('Apôtre', data.apostle, 'apostle', connection, { connectionIndex: index })
             );
-            article.append(buildComparisonHeader(connection, index), buildComparisonBridge(connection, index), grid);
+            article.append(
+                buildComparisonHeader(connection, index),
+                buildComparisonBridge(connection, index),
+                buildComparisonUseAction(connection),
+                grid
+            );
             linksContainer.appendChild(article);
         });
     };
@@ -1028,7 +1067,11 @@ document.addEventListener('DOMContentLoaded', () => {
             article.className = 'comparison-full-explanation';
             article.dataset.connectionIndex = String(index);
             article.hidden = true;
-            article.append(buildComparisonHeader(connection, index), buildComparisonBridge(connection, index, false));
+            article.append(
+                buildComparisonHeader(connection, index),
+                buildComparisonBridge(connection, index, false),
+                buildComparisonUseAction(connection)
+            );
             explanations.appendChild(article);
         });
         linksContainer.append(focusNav, fullView, explanations);
@@ -2522,7 +2565,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const addAnnotationToHomily = document.getElementById('add-annotation-to-homily');
     const comparisonTermDialog = document.getElementById('comparison-term-dialog');
     const comparisonTermClose = document.getElementById('comparison-term-close');
+    const addComparisonToHomily = document.getElementById('add-comparison-to-homily');
     let currentAnnotationMaterial = null;
+    let currentComparisonMaterial = null;
 
     const decodeTargetAnnotation = target => {
         const encoded = target?.getAttribute('data-annotation');
@@ -2570,6 +2615,7 @@ document.addEventListener('DOMContentLoaded', () => {
             : 'Rapprochement de sens sans racine grecque commune.');
         document.getElementById('comparison-term-homily').textContent = connection.homiletic_use
             || 'Ce rapprochement demande encore une formulation homilétique.';
+        currentComparisonMaterial = buildComparisonHomilyMaterial(connection);
         applyComparisonFocus(connectionIndex);
         if (typeof comparisonTermDialog.showModal === 'function') comparisonTermDialog.showModal();
         else comparisonTermDialog.setAttribute('open', '');
@@ -2654,6 +2700,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     if (comparisonTermClose) {
         comparisonTermClose.addEventListener('click', () => comparisonTermDialog.close());
+    }
+    if (addComparisonToHomily) {
+        addComparisonToHomily.addEventListener('click', () => {
+            if (!currentComparisonMaterial) return;
+            addMaterialToHomily(currentComparisonMaterial);
+            comparisonTermDialog.close();
+        });
     }
     if (comparisonTermDialog) {
         comparisonTermDialog.addEventListener('click', event => {
