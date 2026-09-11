@@ -718,11 +718,14 @@ document.addEventListener('DOMContentLoaded', () => {
             && data.reading_connections.links.length
             && data.gospel
             && data.apostle);
-        button.disabled = !available;
+        button.disabled = false;
+        button.classList.toggle('comparison-pending', !available);
         button.title = available
             ? 'Comparer les passages grecs directement ou indirectement liés'
-            : 'Comparaison en préparation pour cette péricope';
-        button.setAttribute('aria-disabled', String(!available));
+            : 'Cette comparaison est encore en préparation';
+        button.setAttribute('aria-label', available
+            ? 'Comparer l’Évangile et l’Apôtre'
+            : 'Comparer l’Évangile et l’Apôtre — comparaison en préparation');
     };
 
     const buildComparisonInterlinear = (reading, side, connection) => {
@@ -795,23 +798,36 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const renderComparisonView = data => {
         const connections = data?.reading_connections;
-        if (!connections || !Array.isArray(connections.links) || !connections.links.length) return;
         currentReadingView = 'compare';
         const comparisonView = document.getElementById('comparison-view');
         const comparisonTitle = document.getElementById('comparison-title');
         const summary = document.getElementById('comparison-summary');
         const linksContainer = document.getElementById('comparison-links');
+        const legend = document.querySelector('.comparison-legend');
         const verseTitle = document.getElementById('verse-title');
         const mainText = document.getElementById('gospel-text');
         const notesView = document.getElementById('notes-view');
         const annotationHelp = document.querySelector('.annotation-help');
         if (!comparisonView || !linksContainer) return;
 
-        if (comparisonTitle) comparisonTitle.textContent = connections.title || 'Unité des lectures';
-        if (summary) summary.textContent = connections.summary || '';
-        linksContainer.innerHTML = '';
+        const links = Array.isArray(connections?.links) ? connections.links : [];
 
-        connections.links.forEach((connection, index) => {
+        if (!links.length) {
+            if (comparisonTitle) comparisonTitle.textContent = 'Comparaison en préparation';
+            if (summary) summary.textContent = 'Cette péricope ne possède pas encore de rapprochements validés entre l’Évangile et l’Apôtre.';
+            if (legend) legend.hidden = true;
+            linksContainer.innerHTML = '';
+            const notice = document.createElement('p');
+            notice.className = 'comparison-empty';
+            notice.textContent = 'Le mode Comparer est déjà disponible pour la Pentecôte, le dimanche des Saints Pères du premier Concile et le dimanche du Pardon.';
+            linksContainer.appendChild(notice);
+        } else {
+            if (comparisonTitle) comparisonTitle.textContent = connections.title || 'Unité des lectures';
+            if (summary) summary.textContent = connections.summary || '';
+            if (legend) legend.hidden = false;
+            linksContainer.innerHTML = '';
+
+        links.forEach((connection, index) => {
             const article = document.createElement('article');
             article.className = `comparison-link comparison-link-${connection.directness || 'indirect'}`;
             const header = document.createElement('div');
@@ -840,6 +856,7 @@ document.addEventListener('DOMContentLoaded', () => {
             article.append(header, grid);
             linksContainer.appendChild(article);
         });
+        }
 
         if (verseTitle) verseTitle.hidden = true;
         if (mainText) mainText.hidden = true;
@@ -1624,7 +1641,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnCompare = document.getElementById('select-compare');
     if (btnCompare) {
         btnCompare.addEventListener('click', () => {
-            if (!btnCompare.disabled && currentLectionaryData) renderComparisonView(currentLectionaryData);
+            if (currentLectionaryData) renderComparisonView(currentLectionaryData);
         });
     }
 
