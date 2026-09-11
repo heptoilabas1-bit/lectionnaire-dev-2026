@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260911-compare-clarity';
+    const DATA_VERSION = '20260911-compare-bridge';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -799,6 +799,58 @@ document.addEventListener('DOMContentLoaded', () => {
         return column;
     };
 
+    const buildComparisonBridge = connection => {
+        const bridgeData = connection.bridge || {};
+        const bridge = document.createElement('section');
+        bridge.className = `comparison-bridge comparison-bridge-${connection.directness || 'indirect'}`;
+        bridge.setAttribute('aria-label', 'Explication du rapprochement');
+
+        const evidence = document.createElement('p');
+        evidence.className = 'comparison-bridge-evidence';
+        evidence.textContent = bridgeData.evidence || (connection.directness === 'direct'
+            ? 'Correspondance grecque attestée dans les deux passages.'
+            : 'Pas de racine grecque commune : rapprochement fondé sur le sens.');
+
+        const map = document.createElement('div');
+        map.className = 'comparison-bridge-map';
+
+        const gospelSide = document.createElement('div');
+        gospelSide.className = 'comparison-bridge-side comparison-bridge-gospel';
+        const gospelLabel = document.createElement('span');
+        gospelLabel.textContent = 'Dans l’Évangile';
+        const gospelMeaning = document.createElement('strong');
+        gospelMeaning.textContent = bridgeData.gospel || 'Les mots encadrés portent le premier mouvement.';
+        gospelSide.append(gospelLabel, gospelMeaning);
+
+        const core = document.createElement('div');
+        core.className = 'comparison-bridge-core';
+        const connector = document.createElement('span');
+        connector.className = 'comparison-bridge-symbol';
+        connector.setAttribute('aria-hidden', 'true');
+        connector.textContent = '↔';
+        const relation = document.createElement('strong');
+        relation.textContent = bridgeData.relation || connection.title || 'Rapprochement';
+        core.append(connector, relation);
+
+        const apostleSide = document.createElement('div');
+        apostleSide.className = 'comparison-bridge-side comparison-bridge-apostle';
+        const apostleLabel = document.createElement('span');
+        apostleLabel.textContent = 'Dans l’Apôtre';
+        const apostleMeaning = document.createElement('strong');
+        apostleMeaning.textContent = bridgeData.apostle || 'Les mots encadrés prolongent ce mouvement.';
+        apostleSide.append(apostleLabel, apostleMeaning);
+
+        map.append(gospelSide, core, apostleSide);
+        bridge.append(evidence, map);
+        if (bridgeData.detail) {
+            const detail = document.createElement('p');
+            detail.className = 'comparison-bridge-detail';
+            detail.textContent = bridgeData.detail;
+            bridge.appendChild(detail);
+        }
+        return bridge;
+    };
+
     const renderComparisonView = data => {
         const connections = data?.reading_connections;
         currentReadingView = 'compare';
@@ -858,7 +910,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 buildComparisonReading('Évangile', data.gospel, 'gospel', connection),
                 buildComparisonReading('Apôtre', data.apostle, 'apostle', connection)
             );
-            article.append(header, grid);
+            article.append(header, buildComparisonBridge(connection), grid);
             linksContainer.appendChild(article);
         });
         }

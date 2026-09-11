@@ -8,6 +8,13 @@
         "kind": "same_lemma",
         "title": "πνεῦμα — l’Esprit",
         "explanation": "Le même lemme πνεῦμα apparaît dans les deux lectures : Jean annonce l’Esprit à recevoir, tandis que les Actes montrent les disciples remplis de l’Esprit Saint.",
+        "bridge": {
+          "evidence": "Même lemme grec dans les deux lectures : πνεῦμα",
+          "gospel": "πνεύματος / πνεῦμα : l’Esprit que les croyants doivent recevoir",
+          "relation": "L’Esprit annoncé devient l’Esprit répandu",
+          "apostle": "πνεύματος / πνεῦμα : tous sont remplis de l’Esprit Saint",
+          "detail": "Les formes fléchies varient selon leur fonction dans la phrase, mais elles renvoient au même lemme πνεῦμα : c’est ici une véritable correspondance lexicale grecque."
+        },
         "gospel": { "verses": ["7, 39"], "terms": ["πνεύματος", "πνεῦμα"] },
         "apostle": { "verses": ["2, 4"], "terms": ["πνεύματος", "πνεῦμα"] }
       },
@@ -16,6 +23,13 @@
         "kind": "structure",
         "title": "De la soif à l’accomplissement",
         "explanation": "Le Christ appelle l’homme assoiffé et annonce l’Esprit à recevoir. Dans les Actes, le souffle remplit la maison puis les disciples : la promesse devient événement.",
+        "bridge": {
+          "evidence": "Pas de racine grecque commune — passage de la promesse à l’événement",
+          "gospel": "διψάω / πίνω / ὕδωρ / λαμβάνω : avoir soif, boire et recevoir",
+          "relation": "Ce qui était promis remplit désormais la maison et les disciples",
+          "apostle": "πνοή / πληρόω : le souffle survient et remplit",
+          "detail": "Jean emploie les images de la soif et de l’eau pour annoncer le don ; les Actes racontent l’irruption du souffle et l’accomplissement de cette promesse."
+        },
         "gospel": { "verses": ["7, 37", "7, 38", "7, 39"], "terms": ["διψᾷ", "πινέτω", "ὕδατος", "λαμβάνειν"] },
         "apostle": { "verses": ["2, 2", "2, 4"], "terms": ["πνοῆς", "ἐπλήρωσεν", "ἐπλήσθησαν"] }
       },
@@ -24,6 +38,13 @@
         "kind": "theology",
         "title": "De la division à la communion des langues",
         "explanation": "Jean constate la division de la foule autour du Christ. À la Pentecôte, tous sont rassemblés et chacun entend dans sa propre langue : l’unité donnée par l’Esprit ne supprime pas la diversité.",
+        "bridge": {
+          "evidence": "Pas de racine grecque commune — renversement théologique",
+          "gospel": "σχίσμα : la foule se divise à cause du Christ",
+          "relation": "L’Esprit transforme la division en communion sans uniformité",
+          "apostle": "ὁμοῦ / γλῶσσα / διάλεκτος : ensemble, en plusieurs langues",
+          "detail": "Le lien repose sur un renversement : à la division constatée dans l’Évangile répond, dans les Actes, une unité où chacun entend pourtant dans sa propre langue."
+        },
         "gospel": { "verses": ["7, 43"], "terms": ["σχίσμα"] },
         "apostle": { "verses": ["2, 1", "2, 3", "2, 4", "2, 6"], "terms": ["ὁμοῦ", "γλῶσσαι", "γλώσσαις", "διαλέκτῳ"] }
       }

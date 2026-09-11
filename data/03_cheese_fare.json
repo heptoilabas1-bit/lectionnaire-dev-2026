@@ -8,6 +8,13 @@
         "kind": "theology",
         "title": "Pardonner et ne pas juger",
         "explanation": "Matthieu présente le pardon comme un laisser-aller de la faute. Paul déplace le regard : celui que Dieu a accueilli ne doit être ni méprisé ni jugé par son frère.",
+        "bridge": {
+          "evidence": "Pas de racine grecque commune — rapprochement théologique et relationnel",
+          "gospel": "ἀφίημι : laisser aller la faute",
+          "relation": "Libérer le frère au lieu de l’enfermer dans sa faute",
+          "apostle": "κρίνω / προσλαμβάνομαι : juger ou accueillir",
+          "detail": "Dans l’Évangile, pardonner délie la faute ; dans l’Apôtre, ne pas juger et accueillir empêchent de réduire le frère à cette faute. Les vocabulaires diffèrent, mais le même mouvement restaure la communion."
+        },
         "gospel": { "verses": ["14", "15"], "terms": ["ἀφῆτε", "ἀφήσει", "παραπτώματα"] },
         "apostle": { "verses": ["14, 3", "14, 4"], "terms": ["ἐξουθενείτω", "κρινέτω", "κρίνων", "προσελάβετο"] }
       },
@@ -16,6 +23,13 @@
         "kind": "theology",
         "title": "Le secret n’est pas la ténèbre",
         "explanation": "Le jeûne caché se soustrait au regard des hommes mais demeure sous le regard du Père. Il ne relève donc pas des œuvres des ténèbres : il appartient à la lumière reçue de Dieu.",
+        "bridge": {
+          "evidence": "Pas de racine grecque commune — rapprochement par contraste",
+          "gospel": "κρυφαῖος / βλέπω : caché aux hommes, vu du Père",
+          "relation": "Le secret évangélique appartient à la lumière, non aux ténèbres",
+          "apostle": "σκότος / φῶς : quitter les ténèbres pour la lumière",
+          "detail": "Le rapprochement ne vient pas d’un même mot. Il repose sur un paradoxe : l’ascèse cachée n’est pas obscure, puisqu’elle se tient sous le regard du Père ; elle relève de la lumière intérieure."
+        },
         "gospel": { "verses": ["18"], "terms": ["κρυφαίῳ", "βλέπων"] },
         "apostle": { "verses": ["13, 12"], "terms": ["σκότους", "φωτός"] }
       },
@@ -24,6 +38,13 @@
         "kind": "structure",
         "title": "Du trésor au revêtement",
         "explanation": "Là où se trouve le trésor se tient aussi le cœur. Paul donne à cette orientation une forme personnelle : déposer les œuvres anciennes et revêtir le Seigneur Jésus Christ.",
+        "bridge": {
+          "evidence": "Pas de racine grecque commune — même mouvement d’orientation",
+          "gospel": "θησαυρός / καρδία : là où le cœur se fixe",
+          "relation": "Déplacer le centre de la vie vers le Christ",
+          "apostle": "ἀποτίθημι / ἐνδύω : se dépouiller et revêtir le Christ",
+          "detail": "Matthieu décrit le lieu du désir : le cœur suit son trésor. Paul décrit l’acte correspondant : déposer les œuvres des ténèbres et recevoir le Christ comme vêtement et identité."
+        },
         "gospel": { "verses": ["20", "21"], "terms": ["θησαυρίζετε", "θησαυροὺς", "θησαυρός", "καρδία"] },
         "apostle": { "verses": ["13, 12", "13, 14"], "terms": ["ἀποθώμεθα", "ἐνδυσώμεθα", "ἐνδύσασθε", "Χριστόν"] }
       }

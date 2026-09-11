@@ -934,6 +934,22 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .comparison-badge-kind { color: #4b1018; background: #eadcae; }
 .comparison-link-header h3 { margin: 9px 0 5px; color: #4b1018; font: 700 1.22rem/1.3 var(--font-serif); }
 .comparison-link-header p { margin: 0; color: #514a40; line-height: 1.55; }
+.comparison-bridge { padding: 14px 18px 16px; border-bottom: 1px solid #dfd4bd; background: #fffdf8; }
+.comparison-bridge-evidence { width: fit-content; margin: 0 auto 13px; padding: 5px 10px; border-radius: 999px; color: #694b18; background: #f5e8c9; font-size: .8rem; font-weight: 800; text-align: center; }
+.comparison-bridge-direct .comparison-bridge-evidence { color: #234b70; background: #dfebf5; }
+.comparison-bridge-map { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) minmax(180px, .8fr) minmax(0, 1fr); gap: 18px; align-items: stretch; }
+.comparison-bridge-map::before { position: absolute; z-index: 0; top: 50%; right: 12%; left: 12%; height: 2px; background: #b89a58; content: ''; }
+.comparison-bridge-direct .comparison-bridge-map::before { background: #5d8bb5; }
+.comparison-bridge-side, .comparison-bridge-core { position: relative; z-index: 1; display: flex; flex-direction: column; justify-content: center; min-width: 0; border-radius: 8px; text-align: center; }
+.comparison-bridge-side { padding: 10px 12px; border: 2px solid #c9ae70; background: #fffaf0; }
+.comparison-bridge-direct .comparison-bridge-side { border-color: #78a2c7; background: #f3f8fc; }
+.comparison-bridge-side span { margin-bottom: 3px; color: #7a632d; font-size: .7rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.comparison-bridge-side strong { color: #3e3429; font: 700 .95rem/1.35 var(--font-serif); }
+.comparison-bridge-core { padding: 8px 12px; color: #fffdf7; background: #76561c; box-shadow: 0 3px 10px rgba(61, 42, 25, .16); }
+.comparison-bridge-direct .comparison-bridge-core { background: #315d89; }
+.comparison-bridge-symbol { font-size: 1.25rem; line-height: 1; }
+.comparison-bridge-core strong { margin-top: 4px; font-size: .84rem; line-height: 1.35; }
+.comparison-bridge-detail { max-width: 900px; margin: 13px auto 0; color: #514a40; font-size: .9rem; line-height: 1.55; text-align: center; }
 .comparison-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .comparison-reading { min-width: 0; padding: 17px 18px 20px; }
 .comparison-reading + .comparison-reading { border-left: 1px solid #ddd2ba; }
@@ -950,11 +966,11 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .comparison-word-unit { display: inline-flex; flex-direction: column; align-items: center; max-width: 100%; }
 .comparison-word-unit .greek-word { padding: 2px 3px; border-radius: 4px; font-size: 1.08rem; line-height: 1.3; }
 .comparison-word-unit .inter-gloss { max-width: 120px; overflow-wrap: anywhere; font-size: .7rem; line-height: 1.15; text-align: center; }
-.connection-highlight { color: #1c2530 !important; border-bottom: 0 !important; box-shadow: inset 0 -0.52em rgba(223, 185, 77, .48); font-weight: 800; }
-.connection-same_form, .connection-same_lemma, .connection-same_root { box-shadow: inset 0 -0.52em rgba(79, 135, 184, .4); }
-.connection-notion { box-shadow: inset 0 -0.52em rgba(66, 151, 134, .38); }
-.connection-structure { box-shadow: inset 0 -0.52em rgba(223, 185, 77, .48); }
-.connection-theology { box-shadow: inset 0 -0.52em rgba(151, 67, 83, .34); }
+.connection-highlight { color: #1c2530 !important; border: 2px solid #b28c36 !important; background: #fff3cf; box-shadow: 0 2px 5px rgba(61, 42, 25, .12); font-weight: 800; }
+.connection-same_form, .connection-same_lemma, .connection-same_root { border-color: #4f87b8 !important; background: #e5f0f8; }
+.connection-notion { border-color: #429786 !important; background: #e4f4ef; }
+.connection-structure { border-color: #b28c36 !important; background: #fff3cf; }
+.connection-theology { border-color: #975063 !important; background: #f7e7eb; }
 .interlinear-container, .analysis-panel, .homily-workspace { border: 1px solid #ded2b8; border-radius: 11px; box-shadow: 0 9px 28px rgba(57,39,23,.08); }
 .analysis-panel { border-top: 5px solid #4b1018; }
 #verse-title { color: #4b1018; font-family: var(--font-serif); text-align: center; }
@@ -978,6 +994,10 @@ footer { padding: 22px; color: #eadcae; text-align: center; background: #281018;
     .homily-actions > .danger { width: 100%; }
     #text-selector button { padding-inline: 7px; font-size: .9rem; }
     .comparison-grid { grid-template-columns: 1fr; }
+    .comparison-bridge-map { grid-template-columns: 1fr; gap: 12px; }
+    .comparison-bridge-map::before { top: 12%; bottom: 12%; left: 50%; width: 2px; height: auto; }
+    .comparison-bridge-core { order: 2; }
+    .comparison-bridge-apostle { order: 3; }
     .comparison-reading + .comparison-reading { border-top: 1px solid #ddd2ba; border-left: 0; }
     .comparison-word-unit .greek-word { font-size: 1.02rem; }
 }
