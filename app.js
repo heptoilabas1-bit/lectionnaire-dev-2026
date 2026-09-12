@@ -702,7 +702,10 @@ document.addEventListener('DOMContentLoaded', () => {
         semantic_echo: 'Écho de sens',
         ecclesial_fulfillment: 'Accomplissement ecclésial',
         promise_fulfillment: 'Promesse → accomplissement',
-        theological_reversal: 'Renversement théologique'
+        theological_reversal: 'Renversement théologique',
+        embodied_service: 'Soin concret',
+        witness: 'Témoignage transmis',
+        discipleship_path: 'Même chemin de fidélité'
     };
 
     const connectionGreekBasisLabels = {
@@ -727,6 +730,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 bridge.gospel ? `Évangile : ${bridge.gospel}` : '',
                 bridge.apostle ? `Apôtre : ${bridge.apostle}` : '',
                 bridge.relation ? `Relation : ${bridge.relation}` : '',
+                connection?.bridge_sentence ? `Phrase-pont : « ${connection.bridge_sentence} »` : '',
                 connection?.homiletic_use ? `Piste homilétique : ${connection.homiletic_use}` : ''
             ].filter(Boolean).join('\n'),
             keywords: [...new Set(lemmas)]
@@ -958,6 +962,16 @@ document.addEventListener('DOMContentLoaded', () => {
             detail.className = 'comparison-bridge-detail';
             detail.textContent = bridgeData.detail;
             bridge.appendChild(detail);
+        }
+        if (connection.bridge_sentence) {
+            const sentence = document.createElement('blockquote');
+            sentence.className = 'comparison-bridge-sentence';
+            const sentenceLabel = document.createElement('span');
+            sentenceLabel.textContent = 'Phrase-pont';
+            const sentenceText = document.createElement('p');
+            sentenceText.textContent = connection.bridge_sentence;
+            sentence.append(sentenceLabel, sentenceText);
+            bridge.appendChild(sentence);
         }
         if (connection.homiletic_use) {
             const homily = document.createElement('aside');
@@ -2613,6 +2627,8 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('comparison-term-evidence').textContent = bridge.evidence || (connection.directness === 'direct'
             ? 'Correspondance lexicale grecque.'
             : 'Rapprochement de sens sans racine grecque commune.');
+        document.getElementById('comparison-term-sentence').textContent = connection.bridge_sentence
+            || 'La phrase-pont n’est pas encore formulée pour ce rapprochement.';
         document.getElementById('comparison-term-homily').textContent = connection.homiletic_use
             || 'Ce rapprochement demande encore une formulation homilétique.';
         currentComparisonMaterial = buildComparisonHomilyMaterial(connection);

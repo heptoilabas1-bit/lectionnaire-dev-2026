@@ -1,4 +1,91 @@
 {
+  "reading_connections": {
+    "title": "Des portes closes au témoignage vivant",
+    "summary": "Le Ressuscité rejoint les disciples derrière les portes closes, donne à Thomas de passer du signe à la foi et envoie ses témoins ; dans les Actes, les portes de la prison s’ouvrent et les signes accomplis par les apôtres conduisent de nouveaux croyants à la communauté.",
+    "links": [
+      {
+        "directness": "direct",
+        "kind": "same_lemma",
+        "link_type": "theological_reversal",
+        "title": "θύρα — des portes closes aux portes ouvertes",
+        "explanation": "Le même lemme θύρα apparaît dans les deux lectures. Dans l’Évangile, les portes sont fermées par peur ; dans les Actes, l’ange ouvre les portes de la prison.",
+        "bridge_sentence": "Les portes que la peur ferme ne peuvent retenir ni le Ressuscité ni sa Parole.",
+        "homiletic_use": "Suivre le renversement des portes : le Christ rejoint d’abord les disciples dans leur enfermement, puis la mission reçue traverse les portes que le monde referme sur les apôtres.",
+        "bridge": {
+          "evidence": "Même lemme grec dans les deux lectures : θύρα",
+          "gospel": "θυρῶν : les portes fermées par peur",
+          "relation": "La présence du Ressuscité transforme l’enfermement en envoi",
+          "apostle": "θύρας : les portes de la prison ouvertes pendant la nuit",
+          "detail": "Jean emploie le génitif pluriel θυρῶν et Luc l’accusatif pluriel θύρας. Les formes diffèrent par leur fonction grammaticale, mais renvoient au même nom θύρα, « porte »."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["θυρῶν"], "lemma": "θύρα", "root": "θυρ- : porte", "literal": "portes", "role": "Les portes fermées rendent visible la peur qui tient encore les disciples à l’écart." }
+          ],
+          "apostle": [
+            { "forms": ["θύρας"], "lemma": "θύρα", "root": "θυρ- : porte", "literal": "portes", "role": "L’ouverture des portes manifeste que l’envoi reçu ne peut être enfermé." }
+          ]
+        },
+        "gospel": { "verses": ["19", "26"], "terms": ["θυρῶν"] },
+        "apostle": { "verses": ["5, 19"], "terms": ["θύρας"] }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_lemma",
+        "link_type": "witness",
+        "title": "χεῖρες / σημεῖα — du toucher au témoignage",
+        "explanation": "Les deux lectures partagent les lemmes χείρ, « main », et σημεῖον, « signe ». Thomas demande un signe accessible à ses mains ; les signes sont ensuite accomplis par les mains des apôtres.",
+        "bridge_sentence": "Les mains qui cherchent la marque du Ressuscité deviennent, dans l’Église, les mains par lesquelles ses signes sont donnés.",
+        "homiletic_use": "Préserver la pédagogie du toucher : le Christ ne méprise pas la demande de Thomas, mais conduit le contact recherché vers la confession de foi puis vers un témoignage ecclésial visible.",
+        "bridge": {
+          "evidence": "Deux lemmes grecs communs : χείρ et σημεῖον",
+          "gospel": "χεῖρας / χεῖρα / σημεῖα : les mains, les plaies et les signes écrits",
+          "relation": "Le signe reçu par un disciple devient témoignage confié à l’Église",
+          "apostle": "χειρῶν / σημεῖα : des signes accomplis par les mains des apôtres",
+          "detail": "La correspondance lexicale est double. Jean relie les mains au corps blessé et les signes à la foi du lecteur ; les Actes relient les mains apostoliques aux signes accomplis au milieu du peuple."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["χεῖρας", "χεῖρα", "χεῖράς", "χεῖρά"], "lemma": "χείρ", "root": "χειρ-/χερ- : main", "literal": "main", "role": "Les mains portent la demande concrète de Thomas et la rencontre avec les marques de la Passion." },
+            { "forms": ["σημεῖα"], "lemma": "σημεῖον", "root": "σημ- : signe, marque", "literal": "signes", "role": "Les signes sont consignés afin de conduire le lecteur à la foi en Jésus Christ." }
+          ],
+          "apostle": [
+            { "forms": ["χειρῶν"], "lemma": "χείρ", "root": "χειρ-/χερ- : main", "literal": "des mains", "role": "Les mains des apôtres deviennent le lieu concret d’un service rendu au témoignage du Ressuscité." },
+            { "forms": ["σημεῖα"], "lemma": "σημεῖον", "root": "σημ- : signe, marque", "literal": "signes", "role": "Les signes rendent publiquement visible l’action de Dieu au sein de la communauté apostolique." }
+          ]
+        },
+        "gospel": { "verses": ["20", "25", "27", "30"], "terms": ["χεῖρας", "χεῖρα", "χεῖράς", "χεῖρά", "σημεῖα"] },
+        "apostle": { "verses": ["5, 12"], "terms": ["χειρῶν", "σημεῖα"] }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_lemma",
+        "link_type": "lexical_identity",
+        "title": "πιστεύω — croire et devenir croyant",
+        "explanation": "Le vocabulaire de la foi traverse les deux lectures. Jean décrit le passage de Thomas et du lecteur vers la foi ; les Actes montrent des hommes et des femmes croyants ajoutés au Seigneur.",
+        "bridge_sentence": "La foi confessée par Thomas devient une communion de croyants rassemblés dans le Seigneur.",
+        "homiletic_use": "Ne pas opposer trop vite Thomas aux autres croyants : son chemin personnel vers la confession « Mon Seigneur et mon Dieu » ouvre sur la foi ecclésiale que les Actes montrent en croissance.",
+        "bridge": {
+          "evidence": "Même famille lexicale grecque : πιστεύω / πιστός",
+          "gospel": "πιστεύσω / πιστός / πιστεύσαντες / πιστεύητε : le chemin vers la foi",
+          "relation": "La rencontre personnelle avec le Ressuscité ouvre à la communion croyante",
+          "apostle": "πιστεύοντες : des croyants ajoutés au Seigneur",
+          "detail": "Jean déploie le verbe πιστεύω et les adjectifs πιστός / ἄπιστος autour de Thomas et du lecteur. Luc emploie le participe πιστεύοντες pour ceux qui rejoignent la communauté."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["πιστεύσω", "πιστεύσαντες", "πιστεύητε", "πιστεύοντες"], "lemma": "πιστεύω", "root": "πιστ- : confiance, foi", "literal": "croire, faire confiance", "role": "Le verbe décrit le passage attendu du signe reçu à la relation de foi." },
+            { "forms": ["ἄπιστος", "πιστός"], "lemma": "πιστός", "root": "πιστ- ; ἄπιστος avec ἀ- privatif", "literal": "croyant, fidèle ; non-croyant", "role": "L’opposition formulée par Jésus appelle Thomas à ne pas demeurer sans foi, mais à devenir croyant." }
+          ],
+          "apostle": [
+            { "forms": ["πιστεύοντες"], "lemma": "πιστεύω", "root": "πιστ- : confiance, foi", "literal": "ceux qui croient", "role": "La foi apparaît comme une appartenance vivante au Seigneur et à la communauté." }
+          ]
+        },
+        "gospel": { "verses": ["25", "27", "29", "31"], "terms": ["πιστεύσω", "ἄπιστος", "πιστός", "πιστεύσαντες", "πιστεύητε", "πιστεύοντες"] },
+        "apostle": { "verses": ["5, 14"], "terms": ["πιστεύοντες"] }
+      }
+    ]
+  },
   "gospel": {
     "reference": "Jean 20, 19-31",
     "title": "Les portes closes, le souffle et la foi de Thomas",

@@ -1,4 +1,94 @@
 {
+  "reading_connections": {
+    "title": "Du soin silencieux à la Parole qui grandit",
+    "summary": "Joseph et les Myrophores prennent soin du corps du Crucifié avant de recevoir l’annonce pascale ; les Actes montrent l’Église organiser un service concret afin que personne ne soit négligé et que la Parole continue de croître.",
+    "links": [
+      {
+        "directness": "indirect",
+        "kind": "structure",
+        "link_type": "embodied_service",
+        "title": "Prendre soin afin que personne ne soit négligé",
+        "explanation": "Joseph prend soin du corps de Jésus et les femmes apportent des aromates. Dans les Actes, la communauté institue un service pour que les veuves ne soient plus négligées.",
+        "bridge_sentence": "La Résurrection n’écarte pas le soin des corps : elle fait de ce soin une responsabilité de toute l’Église.",
+        "homiletic_use": "Relier le parfum et les gestes des Myrophores au service des veuves : la foi pascale ne contourne pas la fragilité corporelle, elle apprend à voir qui risque d’être oublié.",
+        "bridge": {
+          "evidence": "Mots grecs différents — même mouvement de soin concret",
+          "gospel": "σῶμα / πτῶμα / ἀρώματα : honorer le corps jusque dans la mort",
+          "relation": "L’amour du Ressuscité devient attention concrète aux corps vulnérables",
+          "apostle": "παραθεωρέω / διακονία : ne plus négliger, organiser le service",
+          "detail": "Il n’existe pas ici de racine commune. Le lien vient des gestes : Joseph et les femmes honorent le corps de Jésus ; la communauté apostolique discerne une organisation qui rend le service réellement attentif aux veuves."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["σῶμα"], "lemma": "σῶμα", "root": "σωματ- : corps", "literal": "corps", "role": "Joseph demande et reçoit le corps de Jésus afin de lui rendre les soins funéraires." },
+            { "forms": ["πτῶμα"], "lemma": "πτῶμα", "root": "πίπτω : tomber", "literal": "dépouille, corps mort", "role": "Le terme employé dans la réponse de Pilate rappelle sans détour la réalité de la mort." },
+            { "forms": ["ἀρώματα"], "lemma": "ἄρωμα", "root": "ἀρωματ- : substance aromatique", "literal": "aromates, parfums", "role": "Les aromates engagent l’odorat et rendent concret l’amour porté au corps du Crucifié." }
+          ],
+          "apostle": [
+            { "forms": ["παρεθεωροῦντο"], "lemma": "παραθεωρέω", "root": "παρά + θεωρέω", "literal": "être laissé de côté, être négligé", "role": "Le verbe nomme la blessure concrète que l’organisation du service doit corriger." },
+            { "forms": ["διακονίᾳ"], "lemma": "διακονία", "root": "διακον- : service", "literal": "service, distribution", "role": "La diaconie donne une forme communautaire et durable au soin des personnes." },
+            { "forms": ["διακονεῖν"], "lemma": "διακονέω", "root": "διακον- : service", "literal": "servir", "role": "Servir désigne ici une tâche matérielle réelle, intégrée au discernement de l’Église." }
+          ]
+        },
+        "gospel": { "verses": ["15, 43", "15, 45", "16, 1"], "terms": ["σῶμα", "πτῶμα", "ἀρώματα"] },
+        "apostle": { "verses": ["6, 1", "6, 2", "6, 4"], "terms": ["παρεθεωροῦντο", "διακονίᾳ", "διακονεῖν"] }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_root",
+        "link_type": "contrast",
+        "title": "θεωρέω — voir ou laisser hors du regard",
+        "explanation": "Les femmes voient que la pierre a été roulée ; les veuves hellénistes étaient, littéralement, laissées à côté du regard dans le service quotidien. Les deux formes partagent la famille de θεωρέω.",
+        "bridge_sentence": "La foi pascale lève les yeux vers l’œuvre de Dieu et apprend aussi à voir celui que la communauté laissait de côté.",
+        "homiletic_use": "Faire du regard un acte spirituel concret : les femmes découvrent l’obstacle déjà déplacé ; l’Église, elle, doit reconnaître l’oubli réel des veuves et y répondre.",
+        "bridge": {
+          "evidence": "Racine grecque commune : θεωρέω",
+          "gospel": "θεωροῦσιν : elles voient que la pierre est déjà roulée",
+          "relation": "Voir l’action de Dieu conduit à voir la personne qui risquait d’être oubliée",
+          "apostle": "παρεθεωροῦντο : elles étaient laissées à côté du regard, négligées",
+          "detail": "Le verbe θεωρέω signifie regarder, observer. Avec le préfixe παρά, παραθεωρέω peut exprimer le fait de passer à côté ou de négliger : la proximité lexicale fait apparaître deux manières opposées de regarder."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["θεωροῦσιν"], "lemma": "θεωρέω", "root": "θεωρ- : regarder, observer", "literal": "elles voient, elles observent", "role": "Le regard des femmes découvre que la pierre, très grande, est déjà roulée." }
+          ],
+          "apostle": [
+            { "forms": ["παρεθεωροῦντο"], "lemma": "παραθεωρέω", "root": "παρά + θεωρέω", "literal": "elles étaient négligées, laissées de côté", "role": "Le préfixe παρά transforme le regard en passage à côté : certaines veuves échappaient au soin quotidien." }
+          ]
+        },
+        "gospel": { "verses": ["16, 4"], "terms": ["θεωροῦσιν"] },
+        "apostle": { "verses": ["6, 1"], "terms": ["παρεθεωροῦντο"] }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_root",
+        "link_type": "mission_continuity",
+        "title": "λέγω / λόγος — de l’annonce à la croissance",
+        "explanation": "Au tombeau, le jeune homme parle et ordonne aux femmes de dire que Jésus précède les disciples en Galilée. Dans les Actes, la Parole de Dieu grandit lorsque le service est justement ordonné.",
+        "bridge_sentence": "La parole reçue au tombeau devient, dans l’Église servante, une Parole qui grandit.",
+        "homiletic_use": "Ne pas effacer le tremblement final des femmes : l’annonce pascale excède d’abord leurs forces, mais cette parole confiée est appelée à traverser la peur et à grandir dans une communauté fidèle.",
+        "bridge": {
+          "evidence": "Famille lexicale grecque : λέγω / λόγος",
+          "gospel": "λέγει / εἴπατε : la parole reçue et la mission de dire",
+          "relation": "L’annonce confiée au tombeau devient Parole vivante dans l’Église",
+          "apostle": "λόγος / ηὔξανεν : la Parole de Dieu croissait",
+          "detail": "Le verbe λέγω et le nom λόγος appartiennent à la même famille lexicale. Le récit passe d’une parole adressée à quelques femmes à la croissance publique de la Parole au sein de la communauté."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["λέγει"], "lemma": "λέγω", "root": "λεγ-/λογ- : dire", "literal": "il dit", "role": "La parole du jeune homme interprète le tombeau vide et nomme Jésus comme le Crucifié relevé." },
+            { "forms": ["εἴπατε"], "lemma": "λέγω", "root": "aoriste εἶπον du verbe λέγω", "literal": "dites", "role": "L’annonce reçue devient immédiatement une parole à transmettre aux disciples et à Pierre." }
+          ],
+          "apostle": [
+            { "forms": ["λόγος"], "lemma": "λόγος", "root": "λεγ-/λογ- : dire, parole", "literal": "parole", "role": "La Parole de Dieu est présentée comme une réalité vivante dont la croissance accompagne celle de l’Église." },
+            { "forms": ["ηὔξανεν"], "lemma": "αὐξάνω", "root": "αὐξ-/αὐξαν- : croître", "literal": "croissait", "role": "Le verbe décrit l’expansion de la Parole après le discernement du service." }
+          ]
+        },
+        "gospel": { "verses": ["16, 6", "16, 7"], "terms": ["λέγει", "εἴπατε"] },
+        "apostle": { "verses": ["6, 7"], "terms": ["λόγος", "ηὔξανεν"] }
+      }
+    ]
+  },
   "going_further": [
     {
       "type": "podcast",

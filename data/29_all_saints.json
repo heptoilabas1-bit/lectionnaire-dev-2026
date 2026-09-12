@@ -1,4 +1,91 @@
 {
+  "reading_connections": {
+    "title": "Confesser, porter la croix et courir vers le Christ",
+    "summary": "L’Évangile appelle à confesser le Christ, prendre sa croix et le suivre ; l’Apôtre montre la nuée des témoins, leur persévérance et Jésus lui-même endurant la croix.",
+    "links": [
+      {
+        "directness": "direct",
+        "kind": "same_lemma",
+        "link_type": "discipleship_path",
+        "title": "σταυρός — prendre la croix et regarder le Crucifié",
+        "explanation": "Le même lemme σταυρός apparaît dans les deux lectures. Jésus demande au disciple de prendre sa croix ; l’épître invite à fixer les yeux sur Jésus qui a enduré la croix.",
+        "bridge_sentence": "Le disciple ne porte pas une croix abstraite : il marche les yeux fixés sur le Christ qui l’a portée avant lui.",
+        "homiletic_use": "Éviter de présenter la croix comme une souffrance recherchée ou solitaire : elle est reçue à la suite de Jésus et comprise en regardant celui qui l’a traversée dans la fidélité.",
+        "bridge": {
+          "evidence": "Même lemme grec dans les deux lectures : σταυρός",
+          "gospel": "σταυρόν : prendre sa croix pour être digne du Christ",
+          "relation": "La croix du disciple reçoit son sens de la croix endurée par Jésus",
+          "apostle": "σταυρόν : Jésus a enduré la croix en vue de la joie",
+          "detail": "La forme σταυρόν est identique dans les deux textes. L’Évangile la place dans l’appel du disciple ; l’épître en donne le centre christologique en orientant le regard vers Jésus."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["σταυρὸν"], "lemma": "σταυρός", "root": "σταυρ- : croix", "literal": "croix", "role": "Prendre sa croix appartient au mouvement concret de la suite du Christ." }
+          ],
+          "apostle": [
+            { "forms": ["σταυρὸν"], "lemma": "σταυρός", "root": "σταυρ- : croix", "literal": "croix", "role": "La croix endurée par Jésus devient le point de référence de la persévérance chrétienne." }
+          ]
+        },
+        "gospel": { "verses": ["10, 38"], "terms": ["σταυρὸν"] },
+        "apostle": { "verses": ["12, 2"], "terms": ["σταυρὸν"] }
+      },
+      {
+        "directness": "indirect",
+        "kind": "notion",
+        "link_type": "witness",
+        "title": "Confesser le Christ au milieu des témoins",
+        "explanation": "Matthieu emploie ὁμολογέω pour la confession publique du Christ ; l’épître emploie μαρτυρέω et μαρτύρων pour le témoignage rendu aux anciens et la nuée des témoins.",
+        "bridge_sentence": "Confesser le Christ aujourd’hui, c’est entrer dans la parole vivante de la nuée des témoins.",
+        "homiletic_use": "Présenter la sainteté comme un témoignage personnel qui n’isole pas : la confession de chacun rejoint celle d’un peuple immense et reçoit elle-même le témoignage du Christ devant le Père.",
+        "bridge": {
+          "evidence": "Mots grecs différents — même réalité du témoignage public",
+          "gospel": "ὁμολογήσει / ὁμολογήσω : confesser devant les hommes et devant le Père",
+          "relation": "La confession personnelle prend place dans la communion des témoins",
+          "apostle": "μαρτυρηθέντες / μαρτύρων : recevoir témoignage et entourer la course de l’Église",
+          "detail": "Ὁμολογέω et μαρτυρέω ne partagent pas de racine. Le rapprochement porte sur leur fonction : rendre visible et dicible une fidélité qui traverse les générations."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["ὁμολογήσει", "ὁμολογήσω"], "lemma": "ὁμολογέω", "root": "ὁμός + λέγω", "literal": "reconnaître, confesser publiquement", "role": "La relation au Christ se rend visible devant les hommes et reçoit une réponse devant le Père." }
+          ],
+          "apostle": [
+            { "forms": ["μαρτυρηθέντες"], "lemma": "μαρτυρέω", "root": "μαρτυρ- : témoin, témoignage", "literal": "ayant reçu témoignage", "role": "Les anciens sont reconnus pour leur foi sans avoir encore reçu l’accomplissement entier de la promesse." },
+            { "forms": ["μαρτύρων"], "lemma": "μάρτυς", "root": "μαρτυρ- : témoin", "literal": "témoins", "role": "La nuée des témoins entoure la course présente des croyants sans se substituer au regard fixé sur Jésus." }
+          ]
+        },
+        "gospel": { "verses": ["10, 32"], "terms": ["ὁμολογήσει", "ὁμολογήσω"] },
+        "apostle": { "verses": ["11, 39", "12, 1"], "terms": ["μαρτυρηθέντες", "μαρτύρων"] }
+      },
+      {
+        "directness": "indirect",
+        "kind": "structure",
+        "link_type": "discipleship_path",
+        "title": "Suivre et courir avec persévérance",
+        "explanation": "Dans l’Évangile, le disciple suit le Christ après avoir réordonné ses attachements. Dans l’épître, cette suite devient une course persévérante, le regard fixé sur Jésus.",
+        "bridge_sentence": "Suivre le Christ, c’est laisser toute entrave et courir vers lui avec persévérance.",
+        "homiletic_use": "Décrire la sainteté comme un chemin plutôt que comme un état inaccessible : quitter ce qui entrave, suivre, courir et regarder Jésus sont les verbes d’une fidélité vécue dans le temps.",
+        "bridge": {
+          "evidence": "Pas de racine grecque commune — même mouvement de la suite",
+          "gospel": "ἀκολουθεῖ / ἀκολουθήσαντες : suivre le Christ",
+          "relation": "La suite personnelle devient une course persévérante avec toute l’Église",
+          "apostle": "ὑπομονῆς / τρέχωμεν / ἀφορῶντες : persévérer, courir et regarder Jésus",
+          "detail": "Les vocabulaires diffèrent, mais la structure est continue : l’appel à suivre reçoit dans l’épître une durée, une direction et un centre — la persévérance, la course et le regard fixé sur Jésus."
+        },
+        "term_details": {
+          "gospel": [
+            { "forms": ["ἀκολουθεῖ", "ἀκολουθήσαντές"], "lemma": "ἀκολουθέω", "root": "ἀ- copulatif + κέλευθος : chemin", "literal": "suivre, aller sur le même chemin", "role": "Le verbe fait de la sainteté une marche à la suite du Christ, non une qualité immobile." }
+          ],
+          "apostle": [
+            { "forms": ["ὑπομονῆς"], "lemma": "ὑπομονή", "root": "ὑπό + μένω", "literal": "demeurer sous, persévérance", "role": "La persévérance inscrit la course chrétienne dans la durée de l’épreuve." },
+            { "forms": ["τρέχωμεν"], "lemma": "τρέχω", "root": "τρεχ-/δραμ- : courir", "literal": "courons", "role": "La course exprime un engagement actif, partagé et orienté." },
+            { "forms": ["ἀφορῶντες"], "lemma": "ἀφοράω", "root": "ἀπό + ὁράω", "literal": "détourner le regard vers, fixer les yeux", "role": "Le regard se détourne des entraves pour recevoir Jésus comme origine et accomplissement de la foi." }
+          ]
+        },
+        "gospel": { "verses": ["10, 38", "19, 28"], "terms": ["ἀκολουθεῖ", "ἀκολουθήσαντές"] },
+        "apostle": { "verses": ["12, 1", "12, 2"], "terms": ["ὑπομονῆς", "τρέχωμεν", "ἀφορῶντες"] }
+      }
+    ]
+  },
   "going_further": [
     {
       "type": "podcast",
