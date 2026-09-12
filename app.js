@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260912-liturgical-path';
+    const DATA_VERSION = '20260912-liturgical-path-2';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1247,20 +1247,98 @@ document.addEventListener('DOMContentLoaded', () => {
         detail.append(heading, readings, links);
     };
 
+    const renderLiturgicalJourney = journey => {
+        const selectors = document.getElementById('liturgical-path-selectors');
+        const fixedEncounters = document.getElementById('liturgical-fixed-encounters');
+        const track = document.getElementById('paschal-path-track');
+        const detail = document.getElementById('liturgical-stage-detail');
+        const title = document.getElementById('paschal-prototype-title');
+        const introduction = document.getElementById('paschal-prototype-introduction');
+        if (!journey || !track || !detail || !title || !introduction) return;
+
+        title.textContent = journey.title;
+        introduction.textContent = journey.introduction;
+        track.setAttribute('aria-label', `Étapes — ${journey.title}`);
+        track.style.setProperty('--stage-count', String(Math.max((journey.stages || []).length, 1)));
+        if (selectors) {
+            selectors.querySelectorAll('button').forEach(button => {
+                const selected = button.dataset.journeyId === journey.id;
+                button.classList.toggle('active', selected);
+                button.setAttribute('aria-selected', String(selected));
+                button.tabIndex = selected ? 0 : -1;
+            });
+        }
+
+        if (fixedEncounters) {
+            fixedEncounters.innerHTML = '';
+            const encounters = journey.fixed_encounters || [];
+            fixedEncounters.hidden = !encounters.length;
+            if (encounters.length) {
+                const encounterTitle = document.createElement('h4');
+                encounterTitle.textContent = 'Fêtes fixes qui traversent ce parcours';
+                const encounterNote = document.createElement('p');
+                encounterNote.className = 'fixed-encounters-note';
+                encounterNote.textContent = 'Leur date demeure fixe ; le dimanche du cycle mobile qu’elles rencontrent varie avec la date de Pâques.';
+                const encounterGrid = document.createElement('div');
+                encounterGrid.className = 'fixed-encounters-grid';
+                encounters.forEach(encounter => {
+                    const card = document.createElement('article');
+                    const date = document.createElement('span');
+                    date.textContent = encounter.date;
+                    const name = document.createElement('strong');
+                    name.textContent = encounter.title;
+                    const echo = document.createElement('p');
+                    echo.textContent = encounter.echo;
+                    card.append(date, name, echo);
+                    encounterGrid.appendChild(card);
+                });
+                fixedEncounters.append(encounterTitle, encounterNote, encounterGrid);
+            }
+        }
+
+        track.innerHTML = '';
+        (journey.stages || []).forEach((stage, index) => {
+            const step = document.createElement('div');
+            step.className = 'paschal-path-step';
+            step.setAttribute('role', 'listitem');
+            const button = document.createElement('button');
+            button.type = 'button';
+            button.className = 'paschal-stage-button';
+            button.dataset.stageId = stage.id;
+            button.setAttribute('aria-pressed', String(index === 0));
+            const number = document.createElement('span');
+            number.textContent = String(index + 1).padStart(2, '0');
+            const label = document.createElement('strong');
+            label.textContent = stage.short_label;
+            const sense = document.createElement('small');
+            sense.textContent = stage.sense;
+            button.append(number, label, sense);
+            button.addEventListener('click', () => {
+                track.querySelectorAll('.paschal-stage-button').forEach(item => {
+                    item.setAttribute('aria-pressed', String(item === button));
+                });
+                renderLiturgicalStage(stage);
+                if (window.matchMedia('(max-width: 700px)').matches) {
+                    detail.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            });
+            step.appendChild(button);
+            track.appendChild(step);
+        });
+        if (journey.stages?.length) renderLiturgicalStage(journey.stages[0]);
+    };
+
     const renderLiturgicalPath = async () => {
         const view = document.getElementById('liturgical-path-view');
         const overview = document.getElementById('liturgical-year-overview');
-        const track = document.getElementById('paschal-path-track');
+        const selectors = document.getElementById('liturgical-path-selectors');
         const detail = document.getElementById('liturgical-stage-detail');
-        if (!view || !overview || !track || !detail) return;
+        if (!view || !overview || !selectors || !detail) return;
         detail.innerHTML = '<p class="liturgical-path-loading">Chargement du parcours…</p>';
         try {
             const data = await loadLiturgicalPathData();
             document.getElementById('liturgical-path-title').textContent = data.title;
             document.getElementById('liturgical-path-introduction').textContent = data.introduction;
-            document.getElementById('paschal-prototype-title').textContent = data.prototype.title;
-            document.getElementById('paschal-prototype-introduction').textContent = data.prototype.introduction;
-
             overview.innerHTML = '';
             (data.overview || []).forEach(period => {
                 const card = document.createElement('article');
@@ -1279,36 +1357,21 @@ document.addEventListener('DOMContentLoaded', () => {
                 overview.appendChild(card);
             });
 
-            track.innerHTML = '';
-            (data.prototype.stages || []).forEach((stage, index) => {
-                const step = document.createElement('div');
-                step.className = 'paschal-path-step';
-                step.setAttribute('role', 'listitem');
+            const journeys = [data.prototype, ...(data.additional_paths || [])].filter(Boolean);
+            selectors.innerHTML = '';
+            journeys.forEach((journey, index) => {
                 const button = document.createElement('button');
                 button.type = 'button';
-                button.className = 'paschal-stage-button';
-                button.dataset.stageId = stage.id;
-                button.setAttribute('aria-pressed', String(index === 0));
-                const number = document.createElement('span');
-                number.textContent = String(index + 1).padStart(2, '0');
-                const label = document.createElement('strong');
-                label.textContent = stage.short_label;
-                const sense = document.createElement('small');
-                sense.textContent = stage.sense;
-                button.append(number, label, sense);
-                button.addEventListener('click', () => {
-                    track.querySelectorAll('.paschal-stage-button').forEach(item => {
-                        item.setAttribute('aria-pressed', String(item === button));
-                    });
-                    renderLiturgicalStage(stage);
-                    if (window.matchMedia('(max-width: 700px)').matches) {
-                        detail.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                    }
-                });
-                step.appendChild(button);
-                track.appendChild(step);
+                button.className = `liturgical-path-selector${index === 0 ? ' active' : ''}`;
+                button.dataset.journeyId = journey.id;
+                button.setAttribute('role', 'tab');
+                button.setAttribute('aria-selected', String(index === 0));
+                button.tabIndex = index === 0 ? 0 : -1;
+                button.textContent = journey.selector_label || journey.title;
+                button.addEventListener('click', () => renderLiturgicalJourney(journey));
+                selectors.appendChild(button);
             });
-            renderLiturgicalStage(data.prototype.stages[0]);
+            if (journeys.length) renderLiturgicalJourney(journeys[0]);
         } catch {
             detail.innerHTML = '<p class="comparison-empty">Le parcours liturgique est momentanément indisponible.</p>';
         }

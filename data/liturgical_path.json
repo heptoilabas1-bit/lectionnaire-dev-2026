@@ -24,6 +24,8 @@
     }
   ],
   "prototype": {
+    "id": "paschal",
+    "selector_label": "Thomas → Pentecôte",
     "title": "De Thomas à la Pentecôte",
     "introduction": "Le temps pascal conduit la personne entière de la rencontre sensible avec le Ressuscité à l’écoute de l’Esprit dans l’Église. Le toucher, le parfum, le relèvement, l’eau, la vue et l’écoute ne s’excluent pas : ils forment une pédagogie progressive sans réduire chaque dimanche à un seul sens.",
     "stages": [
@@ -156,5 +158,192 @@
         ]
       }
     ]
-  }
+  },
+  "additional_paths": [
+    {
+      "id": "matthew-beginning",
+      "selector_label": "Tous les Saints → 10e de Matthieu",
+      "title": "Des Tous les Saints au dixième dimanche de Matthieu",
+      "introduction": "Après la Pentecôte, l’Esprit reçu devient une manière de vivre. La sainteté confessée se traduit en appel, regard unifié, confiance, libération, pardon, guérison, partage et responsabilité ecclésiale. Ce parcours suit le cycle mobile ; les fêtes fixes qui le traversent sont indiquées séparément.",
+      "fixed_encounters": [
+        {
+          "date": "29 juin",
+          "title": "Saints Apôtres Pierre et Paul",
+          "echo": "Leur fête éclaire l’appel, la mission et la faiblesse apostolique sans se confondre avec le dimanche mobile qu’elle rencontre cette année-là."
+        },
+        {
+          "date": "6 août",
+          "title": "Transfiguration du Seigneur",
+          "echo": "La lumière du Christ donne sa profondeur aux dimanches du regard, de la foi et de la peur traversée ; sa position exacte dans la suite dépend de Pâques."
+        },
+        {
+          "date": "15 août",
+          "title": "Dormition de la Mère de Dieu",
+          "echo": "La Dormition inscrit la destinée du corps et l’espérance de la Résurrection au cœur du chemin ecclésial après la Pentecôte."
+        }
+      ],
+      "stages": [
+        {
+          "id": "all-saints",
+          "key": "29_all_saints",
+          "short_label": "Tous les Saints",
+          "title": "Dimanche de Tous les Saints",
+          "position": "Premier dimanche après la Pentecôte — premier fruit visible du don de l’Esprit",
+          "sense": "Confession et témoignage",
+          "summary": "La Pentecôte ne s’achève pas avec le récit d’Actes 2 : elle porte du fruit dans une multitude de personnes qui confessent le Christ et courent les yeux fixés sur lui.",
+          "readings": { "gospel": "Matthieu 10, 32-33 ; 37-38 ; 19, 27-30", "apostle": "Hébreux 11, 33 - 12, 2" },
+          "comparison": true,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Juste après la Pentecôte, l’Église montre ce que produit l’Esprit : non une idée abstraite, mais la sainteté vécue dans des personnes innombrables." },
+            { "type": "greek", "label": "Lien grec direct", "text": "ἄξιος, « digne », apparaît dans les deux lectures : être digne du Christ dans l’Évangile répond au monde qui n’était pas digne des témoins dans l’Apôtre." },
+            { "type": "homiletic", "label": "Vers l’appel des disciples", "text": "Ceux qui ont tout laissé et suivi le Christ préparent l’appel concret des pêcheurs : la sainteté commence par une parole entendue qui met la vie en mouvement." }
+          ]
+        },
+        {
+          "id": "disciples-call",
+          "key": "302_after_pentecost_2",
+          "short_label": "Appel",
+          "title": "L’appel des premiers disciples",
+          "position": "Deuxième dimanche après la Pentecôte — commencement du cycle de Matthieu",
+          "sense": "Écoute et mouvement",
+          "summary": "Le Christ appelle des hommes au milieu de leur travail. Ils laissent leurs filets et découvrent que suivre ne consiste pas seulement à changer de lieu, mais à recevoir une transformation.",
+          "readings": { "gospel": "Matthieu 4, 18-23", "apostle": "Romains 2, 10-16" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après avoir contemplé tous les saints, l’Église revient au premier geste du disciple : entendre l’appel et marcher derrière le Christ." },
+            { "type": "greek", "label": "Fil grec", "text": "ἀφίημι et ἀκολουθέω prolongent les verbes du dimanche précédent : les saints ont laissé et suivi ; Pierre et André laissent leurs filets et suivent aussitôt." },
+            { "type": "homiletic", "label": "Vers le regard unifié", "text": "La réponse immédiate des disciples pose la question suivante : quelle orientation intérieure permet de ne pas servir deux maîtres ?" }
+          ]
+        },
+        {
+          "id": "single-eye",
+          "key": "303_after_pentecost_3",
+          "short_label": "Œil-lampe",
+          "title": "La lampe du corps et le Royaume d’abord",
+          "position": "Troisième dimanche après la Pentecôte — l’appel devient orientation de toute l’existence",
+          "sense": "Regard et unité intérieure",
+          "summary": "L’œil simple unifie la personne. Le disciple apprend à regarder les créatures sous le regard du Père et à chercher d’abord le Royaume plutôt qu’à se laisser diviser par l’inquiétude.",
+          "readings": { "gospel": "Matthieu 6, 22-33", "apostle": "Romains 5, 1-10" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Le temps après Pentecôte forme le regard du disciple : la vie dans l’Esprit ordonne les désirs et libère progressivement de la peur du manque." },
+            { "type": "greek", "label": "Lien de sens grec", "text": "Il n’y a pas ici d’identité lexicale centrale : ἁπλοῦς, l’œil simple et unifié, dialogue avec εἰρήνη et ἀγάπη, la paix et l’amour reçus. Le rapprochement est sémantique, non étymologique." },
+            { "type": "homiletic", "label": "Vers le centurion", "text": "Le regard désencombré apprend la confiance. Le centurion montrera cette confiance sous une forme brève : une seule parole du Christ lui suffit." }
+          ]
+        },
+        {
+          "id": "centurion",
+          "key": "304_after_pentecost_4",
+          "short_label": "Centurion",
+          "title": "La foi du centurion",
+          "position": "Quatrième dimanche après la Pentecôte — la foi venue d’ailleurs est accueillie",
+          "sense": "Parole et confiance",
+          "summary": "Le centurion porte devant Jésus la souffrance d’un autre et reconnaît l’autorité de sa parole. Sa foi ouvre déjà l’horizon du Royaume au-delà des appartenances visibles.",
+          "readings": { "gospel": "Matthieu 8, 5-13", "apostle": "Romains 6, 18-23" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "L’appel des disciples s’élargit : le Christ reconnaît une foi authentique chez un païen et annonce le rassemblement venu de l’Orient et de l’Occident." },
+            { "type": "greek", "label": "Racine commune", "text": "δοῦλος dans la parole du centurion et δουλόω dans l’Apôtre appartiennent à la même famille. L’autorité humaine décrite par l’un est déplacée par Paul vers le service de la justice." },
+            { "type": "homiletic", "label": "Vers la libération", "text": "L’autorité du Christ guérit au lieu d’asservir. Ce contraste prépare les démoniaques : que devient une personne lorsque des puissances l’empêchent d’être sujet de sa propre parole ?" }
+          ]
+        },
+        {
+          "id": "gadarenes",
+          "key": "305_after_pentecost_5",
+          "short_label": "Gadaréniens",
+          "title": "Les deux démoniaques gadaréniens",
+          "position": "Cinquième dimanche après la Pentecôte — le Christ franchit la frontière et affronte les puissances de division",
+          "sense": "Libération et parole retrouvée",
+          "summary": "Le Christ rejoint ceux que tous évitent. La libération révèle aussi la résistance d’une ville qui préfère son ordre ancien au retour de personnes délivrées.",
+          "readings": { "gospel": "Matthieu 8, 28 - 9, 1", "apostle": "Romains 10, 1-10" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Le temps de l’Église est aussi celui du combat contre ce qui divise la personne et transforme l’autre en menace ou en objet à éloigner." },
+            { "type": "greek", "label": "Structure grecque", "text": "ἀναβαίνω et καταβαίνω, monter et descendre, structurent l’Apôtre ; ils ne répètent pas le vocabulaire de l’Évangile mais éclairent le Christ qui franchit lui-même la distance vers l’homme captif." },
+            { "type": "homiletic", "label": "Vers le pardon", "text": "La parole confessée du cœur à la bouche prépare le paralytique : le Christ ne se contente pas de déplacer un corps, il rejoint le lieu intérieur où l’homme a besoin d’être pardonné et relevé." }
+          ]
+        },
+        {
+          "id": "matthew-paralytic",
+          "key": "306_after_pentecost_6",
+          "short_label": "Paralytique",
+          "title": "Le paralytique : pardon et relèvement",
+          "position": "Sixième dimanche après la Pentecôte — l’autorité du Fils remet l’homme debout",
+          "sense": "Pardon, portage et relèvement",
+          "summary": "Une foi collective porte le paralytique jusqu’au Christ. Le pardon invisible devient visible dans le corps relevé, tandis que l’Apôtre décrit une communauté où les dons servent un seul corps.",
+          "readings": { "gospel": "Matthieu 9, 1-8", "apostle": "Romains 12, 6-14" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après la délivrance des puissances de division, la grâce restaure la relation : des hommes en portent un autre et rendent son relèvement possible." },
+            { "type": "greek", "label": "Fil grec", "text": "ἀφίημι revient avec un sens approfondi : après « laisser » les filets, il signifie ici « remettre, pardonner ». Le même geste de desserrement ouvre un chemin nouveau." },
+            { "type": "homiletic", "label": "Vers les deux aveugles", "text": "L’homme porté se lève ; les aveugles, eux, suivent avant même de voir. La guérison corporelle conduit ainsi à interroger la foi qui avance dans l’obscurité." }
+          ]
+        },
+        {
+          "id": "two-blind-men",
+          "key": "307_after_pentecost_7",
+          "short_label": "Deux aveugles",
+          "title": "Les deux aveugles et le muet",
+          "position": "Septième dimanche après la Pentecôte — les sens blessés sont rendus à la relation",
+          "sense": "Cri, toucher, vue et parole",
+          "summary": "Les aveugles crient, suivent, entrent dans la maison et répondent à la question du Christ. Le muet retrouve ensuite la parole : la guérison réouvre la personne à Dieu et aux autres.",
+          "readings": { "gospel": "Matthieu 9, 27-35", "apostle": "Romains 15, 1-7" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Le cycle de Matthieu montre maintenant la restauration des sens : voir et parler deviennent des formes de communion, non des performances individuelles." },
+            { "type": "greek", "label": "Écho grec", "text": "πιστεύω place la foi au cœur de la guérison ; ὑπομονή, dans l’Apôtre, reprend l’endurance déjà rencontrée dans la course de Tous les Saints. Le lien entre les deux mots est spirituel, non lexical." },
+            { "type": "homiletic", "label": "Vers les pains partagés", "text": "Recevoir la vue ne suffit pas : il faut apprendre à voir la foule. Le dimanche suivant, le regard du Christ devient compassion et transforme le manque en partage." }
+          ]
+        },
+        {
+          "id": "feeding-multitude",
+          "key": "308_after_pentecost_8",
+          "short_label": "Pains partagés",
+          "title": "La multiplication des pains",
+          "position": "Huitième dimanche de Matthieu — de la compassion à la communion",
+          "sense": "Regard, bénédiction et partage",
+          "summary": "Jésus voit la foule et en est remué aux entrailles. Il reçoit la pauvreté offerte, bénit, rompt et donne ; Paul appelle de son côté une communauté divisée à être réparée.",
+          "readings": { "gospel": "Matthieu 14, 14-22", "apostle": "1 Corinthiens 1, 10-18" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "La vie après Pentecôte prend une forme eucharistique : ce qui est reçu du Christ devient nourriture partagée et rassemblement du peuple." },
+            { "type": "greek", "label": "Racine retrouvée", "text": "καταρτίζω relie ce dimanche à l’appel des pêcheurs : les filets « réparés » deviennent ici l’image d’une Église « réaccordée » et délivrée des divisions." },
+            { "type": "homiletic", "label": "Vers la barque", "text": "Après avoir nourri la foule, Jésus oblige les disciples à monter dans la barque. La communion reçue doit maintenant traverser la peur et l’instabilité." }
+          ]
+        },
+        {
+          "id": "walking-water",
+          "key": "309_after_pentecost_9",
+          "short_label": "Sur les eaux",
+          "title": "Jésus et Pierre sur les eaux",
+          "position": "Neuvième dimanche de Matthieu — la communauté éprouve son fondement dans la tempête",
+          "sense": "Peur, marche et main saisie",
+          "summary": "Pierre sort, marche, s’enfonce et est saisi par le Christ. L’Apôtre déplace la même question vers l’Église : sur quel fondement et avec quels matériaux bâtissons-nous ?",
+          "readings": { "gospel": "Matthieu 14, 22-34", "apostle": "1 Corinthiens 3, 9-17" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après le repas partagé vient l’épreuve de la traversée. Le don reçu n’abolit pas la peur, mais rend possible l’appel : « Seigneur, sauve-moi. »" },
+            { "type": "greek", "label": "Double écho grec", "text": "περιπατέω rappelle Jésus marchant au début de l’appel des disciples ; οἰκοδομή prolonge l’édification du prochain rencontrée au dimanche des deux aveugles." },
+            { "type": "homiletic", "label": "Vers l’enfant éprouvé", "text": "Pierre découvre sa faiblesse au milieu des eaux ; le père du dimanche suivant apporte au Christ une impuissance plus douloureuse encore. Dans les deux cas, la foi devient un appel au secours." }
+          ]
+        },
+        {
+          "id": "lunatic-child",
+          "key": "310_after_pentecost_10",
+          "short_label": "Enfant éprouvé",
+          "title": "La guérison de l’enfant éprouvé",
+          "position": "Dixième dimanche de Matthieu — la foi est purifiée de l’illusion de toute-puissance",
+          "sense": "Intercession, faiblesse et relèvement",
+          "summary": "Un père apporte au Christ ce que les disciples n’ont pu guérir. La foi comme un grain de moutarde ne glorifie pas la performance : elle demeure orientée vers le Christ dans l’aveu de sa faiblesse.",
+          "readings": { "gospel": "Matthieu 17, 14-23", "apostle": "1 Corinthiens 4, 9-16" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Le parcours ne s’achève pas par une maîtrise acquise. L’Église est renvoyée à une foi humble, à l’intercession et à la paternité spirituelle." },
+            { "type": "greek", "label": "Famille grecque", "text": "Dans l’Évangile, ἠδυνήθησαν et ἀδυνατήσει appartiennent à la famille de δύναμις, déjà rencontrée dans l’Apôtre des pains partagés. L’Apôtre de ce dimanche en donne le contrepoint théologique : la puissance évangélique peut prendre la forme de la faiblesse." },
+            { "type": "homiletic", "label": "Ouverture du parcours", "text": "Le Christ relève l’enfant et annonce sa Passion. La suite du cycle approfondira ce paradoxe : perdre pour recevoir, servir pour être libre, mourir avec le Christ pour vivre en lui." }
+          ]
+        }
+      ]
+    }
+  ]
 }

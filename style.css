@@ -1062,7 +1062,20 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .liturgical-period-fixed { background: #fbf4e4; }
 .liturgical-period-fixed strong { color: #76561c; }
 .paschal-prototype { padding-top: 27px; border-top: 1px solid #d8ccb0; }
-.paschal-path-track { display: grid; grid-template-columns: repeat(8, minmax(118px, 1fr)); gap: 0; margin: 20px 0 22px; overflow-x: auto; padding: 7px 3px 15px; scrollbar-color: #b69b5d #eee5d1; }
+.liturgical-path-selectors { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 22px; padding: 4px; border: 1px solid #d2c39f; border-radius: 10px; background: #eee5d1; }
+.liturgical-path-selector { flex: 1 1 240px; min-height: 43px; padding: 8px 13px; border: 0; border-radius: 7px; color: #5c5142; background: transparent; font-weight: 800; cursor: pointer; }
+.liturgical-path-selector.active { color: #fff; background: linear-gradient(135deg, #243c5b, #4b1018); box-shadow: 0 3px 10px rgba(54,31,28,.18); }
+.liturgical-path-selector:focus-visible { outline: 3px solid #b59546; outline-offset: 2px; }
+.liturgical-fixed-encounters { margin: 17px 0 7px; padding: 16px; border: 1px solid #d5c394; border-radius: 10px; background: #fff8e8; }
+.liturgical-fixed-encounters[hidden] { display: none; }
+.liturgical-fixed-encounters h4 { margin: 0; color: #76561c; font: 700 1.05rem/1.3 var(--font-serif); }
+.fixed-encounters-note { margin: 5px 0 12px; color: #655a48; font-size: .88rem; line-height: 1.5; }
+.fixed-encounters-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.fixed-encounters-grid article { padding: 12px 13px; border: 1px solid #ddc990; border-top: 4px solid #b28c36; border-radius: 8px; background: #fffdf7; }
+.fixed-encounters-grid span { display: block; margin-bottom: 3px; color: #76561c; font-size: .72rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; }
+.fixed-encounters-grid strong { color: #4b1018; font: 700 .95rem/1.3 var(--font-serif); }
+.fixed-encounters-grid p { margin: 7px 0 0; color: #514a40; font-size: .86rem; line-height: 1.5; }
+.paschal-path-track { display: grid; grid-template-columns: repeat(var(--stage-count, 8), minmax(118px, 1fr)); gap: 0; margin: 20px 0 22px; overflow-x: auto; padding: 7px 3px 15px; scrollbar-color: #b69b5d #eee5d1; }
 .paschal-path-step { position: relative; min-width: 118px; padding-right: 9px; }
 .paschal-path-step::after { position: absolute; z-index: 0; top: 27px; right: -3px; left: 0; height: 3px; background: #c5aa69; content: ''; }
 .paschal-path-step:last-child::after { display: none; }
@@ -1114,6 +1127,7 @@ footer { padding: 22px; color: #eadcae; text-align: center; background: #281018;
     .app-brand, #controls { width: 100%; min-width: 0; }
     .homily-actions { grid-template-columns: 1fr 1fr; }
     .liturgical-stage-links-grid { grid-template-columns: 1fr; }
+    .fixed-encounters-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
     header { padding: 18px 14px; }
@@ -1121,7 +1135,7 @@ footer { padding: 22px; color: #eadcae; text-align: center; background: #281018;
     .selection-modes { display: grid; grid-template-columns: 1fr; }
     .liturgical-year-overview { grid-template-columns: 1fr; }
     .liturgical-period-card p { grid-template-columns: 1fr; gap: 3px; }
-    .paschal-path-track { grid-template-columns: repeat(8, 138px); margin-right: -3px; }
+    .paschal-path-track { grid-template-columns: repeat(var(--stage-count, 8), 138px); margin-right: -3px; }
     .paschal-path-step { min-width: 138px; }
     .liturgical-stage-actions { display: grid; }
     .liturgical-stage-actions button { width: 100%; }
