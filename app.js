@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260912-liturgical-path-5';
+    const DATA_VERSION = '20260912-liturgical-path-6';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1162,6 +1162,218 @@ document.addEventListener('DOMContentLoaded', () => {
         return liturgicalPathDataPromise;
     };
 
+    const CYCLE_AXIS_MIN = -140;
+    const CYCLE_AXIS_MAX = 280;
+    const CYCLE_AXIS_SPAN = CYCLE_AXIS_MAX - CYCLE_AXIS_MIN;
+    const fixedCycleFeasts = [
+        { id: 'theophany', month: 0, day: 6, short: 'Théophanie', title: 'Théophanie du Seigneur' },
+        { id: 'meeting', month: 1, day: 2, short: 'Rencontre', title: 'Sainte Rencontre' },
+        { id: 'annunciation', month: 2, day: 25, short: 'Annonciation', title: 'Annonciation à la Mère de Dieu' },
+        { id: 'apostles', month: 5, day: 29, short: 'Pierre et Paul', title: 'Saints Apôtres Pierre et Paul' },
+        { id: 'transfiguration', month: 7, day: 6, short: 'Transfiguration', title: 'Transfiguration du Seigneur' },
+        { id: 'dormition', month: 7, day: 15, short: 'Dormition', title: 'Dormition de la Mère de Dieu' },
+        { id: 'new-year', month: 8, day: 1, short: 'Nouvel an', title: 'Commencement de l’année liturgique' },
+        { id: 'theotokos-nativity', month: 8, day: 8, short: 'Nativité M.D.D.', title: 'Nativité de la Mère de Dieu' },
+        { id: 'cross', month: 8, day: 14, short: 'Sainte-Croix', title: 'Exaltation de la Sainte-Croix' },
+        { id: 'entry-theotokos', month: 10, day: 21, short: 'Entrée M.D.D.', title: 'Entrée au Temple de la Mère de Dieu' },
+        { id: 'nativity', month: 11, day: 25, short: 'Nativité', title: 'Nativité du Seigneur' }
+    ];
+    const mobileCycleSegments = [
+        { start: -70, end: -50, label: 'Triode', tone: 'triodion' },
+        { start: -49, end: -8, label: 'Grand Carême', tone: 'lent' },
+        { start: -7, end: -1, label: 'Semaine sainte', tone: 'holy-week' },
+        { start: 0, end: 0, label: 'Pâques', tone: 'pascha' },
+        { start: 1, end: 49, label: 'Pentecostaire', tone: 'pentecostarion' },
+        { start: 50, end: 122, label: '1er–10e après Pentecôte', tone: 'matthew' },
+        { start: 123, end: 206, label: '11e–22e après Pentecôte', tone: 'after-pentecost' },
+        { start: 207, end: 280, label: 'Suite du cycle mobile', tone: 'luke' }
+    ];
+    const mobileCycleLandmarks = [
+        { day: -70, label: 'Publicain' },
+        { day: -49, label: 'Pardon' },
+        { day: -42, label: 'Orthodoxie' },
+        { day: -28, label: 'Croix' },
+        { day: -7, label: 'Rameaux' },
+        { day: 0, label: 'Pâques', main: true },
+        { day: 49, label: 'Pentecôte' },
+        { day: 56, label: 'Tous les Saints' },
+        { day: 119, label: '10e Matthieu' },
+        { day: 203, label: '22e après Pentecôte' }
+    ];
+    let selectedFixedFeastId = 'annunciation';
+
+    const cyclePercent = day => ((day - CYCLE_AXIS_MIN) / CYCLE_AXIS_SPAN) * 100;
+    const utcDate = (year, month, day) => new Date(Date.UTC(year, month, day));
+    const cycleDayDifference = (date, origin) => Math.round((date.getTime() - origin.getTime()) / 86400000);
+    const formatLiturgicalDate = date => new Intl.DateTimeFormat('fr-FR', {
+        day: 'numeric', month: 'long', timeZone: 'UTC'
+    }).format(date);
+    const formatLiturgicalWeekday = date => new Intl.DateTimeFormat('fr-FR', {
+        weekday: 'long', timeZone: 'UTC'
+    }).format(date);
+
+    const orthodoxPaschaDate = year => {
+        const a = year % 4;
+        const b = year % 7;
+        const c = year % 19;
+        const d = (19 * c + 15) % 30;
+        const e = (2 * a + 4 * b - d + 34) % 7;
+        const julianMonth = Math.floor((d + e + 114) / 31) - 1;
+        const julianDay = ((d + e + 114) % 31) + 1;
+        const julianGregorianDifference = Math.floor(year / 100) - Math.floor(year / 400) - 2;
+        return utcDate(year, julianMonth, julianDay + julianGregorianDifference);
+    };
+
+    const describeMobilePosition = offset => {
+        if (offset === 0) return 'le jour de Pâques';
+        if (offset < -70) return 'avant l’ouverture du Triode';
+        if (offset < -49) return 'pendant les dimanches préparatoires du Triode';
+        if (offset < -7) {
+            const sunday = Math.max(1, Math.min(5, Math.round((offset + 49) / 7) + 1));
+            return `vers le ${sunday}${sunday === 1 ? 'er' : 'e'} dimanche du Grand Carême`;
+        }
+        if (offset < 0) return 'pendant la Semaine sainte';
+        if (offset <= 49) {
+            const week = Math.max(1, Math.round(offset / 7) + 1);
+            return `pendant la ${week}e semaine de Pâques`;
+        }
+        const afterPentecost = Math.max(1, Math.round((offset - 49) / 7));
+        return `vers le ${afterPentecost}${afterPentecost === 1 ? 'er' : 'e'} dimanche après Pentecôte`;
+    };
+
+    const renderMobileCycleRibbon = () => {
+        const ribbon = document.getElementById('mobile-calendar-ribbon');
+        if (!ribbon || ribbon.dataset.ready === 'true') return;
+        mobileCycleSegments.forEach(segment => {
+            const block = document.createElement('div');
+            block.className = `mobile-cycle-segment segment-${segment.tone}`;
+            const start = cyclePercent(segment.start);
+            const end = cyclePercent(segment.end + (segment.end === segment.start ? 5 : 1));
+            block.style.left = `${start}%`;
+            block.style.width = `${Math.max(end - start, 1.4)}%`;
+            block.textContent = segment.label;
+            ribbon.appendChild(block);
+        });
+        mobileCycleLandmarks.forEach(landmark => {
+            const marker = document.createElement('span');
+            marker.className = `mobile-cycle-landmark${landmark.main ? ' is-pascha' : ''}`;
+            marker.style.left = `${cyclePercent(landmark.day)}%`;
+            marker.textContent = landmark.label;
+            ribbon.appendChild(marker);
+        });
+        ribbon.dataset.ready = 'true';
+    };
+
+    const buildFeastPlacement = (feast, year, pascha) => {
+        const date = utcDate(year, feast.month, feast.day);
+        return { ...feast, date, offset: cycleDayDifference(date, pascha) };
+    };
+
+    const renderCycleEncounterDetail = placement => {
+        const detail = document.getElementById('cycle-encounter-detail');
+        if (!detail || !placement) return;
+        const relative = placement.offset === 0
+            ? 'J 0'
+            : `J ${placement.offset > 0 ? '+' : '−'} ${Math.abs(placement.offset)}`;
+        detail.innerHTML = '';
+        const date = document.createElement('span');
+        date.className = 'cycle-encounter-date';
+        date.textContent = `${formatLiturgicalDate(placement.date)} · ${formatLiturgicalWeekday(placement.date)}`;
+        const title = document.createElement('strong');
+        title.textContent = placement.title;
+        const position = document.createElement('p');
+        position.textContent = `${relative} par rapport à Pâques : cette fête se place ${describeMobilePosition(placement.offset)}.`;
+        const note = document.createElement('small');
+        note.textContent = 'Sa date civile ne change pas ; seule sa rencontre avec le cycle mobile varie.';
+        detail.append(date, title, position, note);
+    };
+
+    const updateCycleAlignment = year => {
+        const timeline = document.getElementById('cycle-timeline');
+        const ribbon = document.getElementById('fixed-calendar-ribbon');
+        const yearOutput = document.getElementById('cycle-year-output');
+        const paschaOutput = document.getElementById('cycle-pascha-output');
+        const keyEncounters = document.getElementById('cycle-key-encounters');
+        if (!timeline || !ribbon || !yearOutput || !paschaOutput || !keyEncounters) return;
+
+        const pascha = orthodoxPaschaDate(year);
+        const yearStart = utcDate(year, 0, 1);
+        const nextYearStart = utcDate(year + 1, 0, 1);
+        const yearDays = cycleDayDifference(nextYearStart, yearStart);
+        const startOffset = cycleDayDifference(yearStart, pascha);
+        yearOutput.textContent = String(year);
+        paschaOutput.textContent = `Pâques : ${formatLiturgicalDate(pascha)}`;
+        ribbon.style.left = `${cyclePercent(startOffset)}%`;
+        ribbon.style.width = `${(yearDays / CYCLE_AXIS_SPAN) * 100}%`;
+        ribbon.innerHTML = '';
+        timeline.querySelectorAll('.fixed-feast-guide').forEach(guide => guide.remove());
+
+        const monthFormatter = new Intl.DateTimeFormat('fr-FR', { month: 'short', timeZone: 'UTC' });
+        for (let month = 0; month < 12; month += 1) {
+            const tick = document.createElement('span');
+            tick.className = 'fixed-month-tick';
+            const monthStart = utcDate(year, month, 1);
+            tick.style.left = `${(cycleDayDifference(monthStart, yearStart) / yearDays) * 100}%`;
+            tick.textContent = monthFormatter.format(monthStart).replace('.', '');
+            ribbon.appendChild(tick);
+        }
+
+        const placements = fixedCycleFeasts.map(feast => buildFeastPlacement(feast, year, pascha));
+        placements.forEach((placement, index) => {
+            const dayInYear = cycleDayDifference(placement.date, yearStart);
+            const marker = document.createElement('button');
+            marker.type = 'button';
+            marker.className = `fixed-feast-marker${placement.id === selectedFixedFeastId ? ' active' : ''}`;
+            marker.style.left = `${(dayInYear / yearDays) * 100}%`;
+            marker.style.setProperty('--label-row', String(index % 3));
+            marker.setAttribute('aria-label', `${placement.title}, ${formatLiturgicalDate(placement.date)}`);
+            marker.setAttribute('aria-pressed', String(placement.id === selectedFixedFeastId));
+            marker.innerHTML = `<span>${placement.day}</span><strong>${placement.short}</strong>`;
+            marker.addEventListener('click', () => {
+                selectedFixedFeastId = placement.id;
+                updateCycleAlignment(year);
+            });
+            ribbon.appendChild(marker);
+
+            const guide = document.createElement('span');
+            guide.className = `fixed-feast-guide${placement.id === selectedFixedFeastId ? ' active' : ''}`;
+            guide.style.left = `${cyclePercent(placement.offset)}%`;
+            guide.setAttribute('aria-hidden', 'true');
+            timeline.appendChild(guide);
+        });
+
+        const selected = placements.find(item => item.id === selectedFixedFeastId) || placements[0];
+        renderCycleEncounterDetail(selected);
+        keyEncounters.innerHTML = '';
+        ['annunciation', 'cross', 'nativity'].forEach(id => {
+            const placement = placements.find(item => item.id === id);
+            if (!placement) return;
+            const card = document.createElement('button');
+            card.type = 'button';
+            card.className = 'cycle-key-encounter';
+            const relative = placement.offset === 0 ? 'J 0' : `J ${placement.offset > 0 ? '+' : '−'} ${Math.abs(placement.offset)}`;
+            card.innerHTML = `<span>${placement.short}</span><strong>${relative}</strong><small>${describeMobilePosition(placement.offset)}</small>`;
+            card.addEventListener('click', () => {
+                selectedFixedFeastId = placement.id;
+                updateCycleAlignment(year);
+            });
+            keyEncounters.appendChild(card);
+        });
+    };
+
+    const renderCycleAlignment = () => {
+        const slider = document.getElementById('cycle-year-slider');
+        if (!slider) return;
+        renderMobileCycleRibbon();
+        if (slider.dataset.ready !== 'true') {
+            const currentYear = Math.min(Number(slider.max), Math.max(Number(slider.min), new Date().getFullYear()));
+            slider.value = String(currentYear);
+            slider.addEventListener('input', event => updateCycleAlignment(Number(event.target.value)));
+            slider.dataset.ready = 'true';
+        }
+        updateCycleAlignment(Number(slider.value));
+    };
+
     const openLiturgicalStageReading = async (stage, readingType, compare = false) => {
         if (!stage?.key) return;
         setSelectionMode('pericope');
@@ -1343,6 +1555,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const data = await loadLiturgicalPathData();
             document.getElementById('liturgical-path-title').textContent = data.title;
             document.getElementById('liturgical-path-introduction').textContent = data.introduction;
+            renderCycleAlignment();
             overview.innerHTML = '';
             (data.overview || []).forEach(period => {
                 const card = document.createElement('article');

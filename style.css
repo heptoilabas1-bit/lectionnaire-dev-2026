@@ -1053,6 +1053,61 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .liturgical-path-content { display: grid; gap: 30px; padding: clamp(18px, 3vw, 32px); }
 .liturgical-path-content h3 { margin: 0 0 5px; color: #4b1018; font: 700 1.35rem/1.3 var(--font-serif); }
 .path-section-intro { max-width: 900px; margin: 0 0 18px; color: #5c5449; line-height: 1.6; }
+.cycle-alignment { padding: clamp(17px, 3vw, 25px); overflow: hidden; border: 1px solid #c8b57f; border-radius: 12px; background: linear-gradient(180deg, #fffdf8, #f8f2e5); box-shadow: 0 8px 24px rgba(56,39,24,.08); }
+.cycle-alignment-heading { display: flex; justify-content: space-between; gap: 24px; align-items: flex-start; }
+.cycle-alignment-heading .path-section-intro { margin-bottom: 0; }
+.cycle-alignment-kicker { margin: 0 0 5px; color: #315d89; font-size: .75rem; font-weight: 800; letter-spacing: .09em; text-transform: uppercase; }
+.cycle-pascha-readout { flex: 0 0 190px; display: grid; padding: 11px 14px; border: 1px solid #c6a958; border-radius: 9px; color: #fff; background: linear-gradient(145deg, #6b1c29, #401019); text-align: center; box-shadow: 0 5px 14px rgba(70,20,28,.18); }
+.cycle-pascha-readout span { color: #e8d7a9; font-size: .68rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.cycle-pascha-readout strong { margin-top: 2px; font: 700 1.45rem/1.2 var(--font-serif); }
+.cycle-pascha-readout small { margin-top: 3px; color: #fff8e8; font-size: .82rem; }
+.cycle-year-control { display: grid; grid-template-columns: minmax(180px, .35fr) minmax(260px, 1fr); gap: 8px 18px; align-items: center; margin-top: 20px; color: #4b1018; font-size: .88rem; font-weight: 800; }
+.cycle-year-control input { width: 100%; accent-color: #6b1c29; cursor: ew-resize; }
+.cycle-year-control input:focus-visible { outline: 3px solid #315d89; outline-offset: 4px; }
+.cycle-year-limits { grid-column: 2; display: flex; justify-content: space-between; color: #756b5c; font-weight: 700; }
+.cycle-timeline-scroll { margin-top: 16px; overflow-x: auto; border: 1px solid #d7c9aa; border-radius: 10px; background: #fffdf8; scrollbar-color: #b69b5d #eee5d1; }
+.cycle-timeline-scroll:focus-visible { outline: 3px solid #315d89; outline-offset: 3px; }
+.cycle-timeline { position: relative; min-width: 1080px; height: 350px; overflow: hidden; background: repeating-linear-gradient(90deg, transparent 0, transparent calc(8.333% - 1px), rgba(84,72,54,.07) calc(8.333% - 1px), rgba(84,72,54,.07) 8.333%); }
+.cycle-axis-caption { position: absolute; left: 16px; z-index: 5; padding: 4px 9px; border-radius: 999px; font-size: .72rem; font-weight: 800; letter-spacing: .045em; text-transform: uppercase; }
+.cycle-axis-fixed { top: 12px; color: #6e511f; background: #f2e4bd; }
+.cycle-axis-mobile { top: 211px; color: #234b70; background: #dfebf5; }
+.fixed-calendar-ribbon { position: absolute; top: 174px; z-index: 3; height: 13px; border: 1px solid #a67f2a; border-radius: 999px; background: linear-gradient(90deg, #d4b45e, #f0d789 50%, #c89d3f); box-shadow: 0 3px 8px rgba(98,69,21,.2); transition: left .35s ease, width .35s ease; }
+.fixed-month-tick { position: absolute; top: 18px; padding-top: 6px; transform: translateX(-50%); border-left: 1px solid #b99a59; color: #766343; font-size: .62rem; font-weight: 800; text-transform: uppercase; }
+.fixed-feast-marker { position: absolute; bottom: calc(20px + (var(--label-row, 0) * 46px)); display: grid; justify-items: center; width: 92px; min-height: 39px; padding: 3px 5px 5px; transform: translateX(-50%); border: 1px solid #c4aa6d; border-radius: 7px; color: #4f3a17; background: #fffaf0; box-shadow: 0 3px 8px rgba(76,55,22,.12); cursor: pointer; transition: color .16s ease, border-color .16s ease, background .16s ease, transform .16s ease; }
+.fixed-feast-marker::after { position: absolute; top: 100%; left: 50%; width: 1px; height: calc(20px + (var(--label-row, 0) * 46px)); background: #b28c36; content: ''; }
+.fixed-feast-marker span { position: relative; z-index: 1; min-width: 24px; padding: 1px 5px; border-radius: 999px; color: #fff; background: #9b7425; font-size: .63rem; font-weight: 900; }
+.fixed-feast-marker strong { position: relative; z-index: 1; margin-top: 2px; font-size: .66rem; line-height: 1.12; text-align: center; }
+.fixed-feast-marker:hover { transform: translateX(-50%) translateY(-2px); border-color: #6b1c29; }
+.fixed-feast-marker.active { color: #fff; border-color: #4b1018; background: #6b1c29; box-shadow: 0 5px 13px rgba(70,20,28,.22); }
+.fixed-feast-marker.active span { color: #4b1018; background: #f0d789; }
+.fixed-feast-marker:focus-visible { outline: 3px solid #315d89; outline-offset: 2px; }
+.fixed-feast-guide { position: absolute; top: 174px; bottom: 76px; z-index: 1; width: 1px; border-left: 1px dashed rgba(164,123,33,.35); transition: left .35s ease; }
+.fixed-feast-guide.active { z-index: 2; width: 3px; border-left: 0; background: rgba(107,28,41,.62); }
+.mobile-calendar-ribbon { position: absolute; top: 253px; right: 0; left: 0; height: 54px; }
+.mobile-calendar-ribbon::before { position: absolute; top: 16px; right: 0; left: 0; height: 22px; border-radius: 7px; background: #dfeaf3; content: ''; }
+.mobile-cycle-segment { position: absolute; top: 16px; z-index: 1; display: grid; place-items: center; height: 22px; overflow: hidden; border-right: 1px solid rgba(255,255,255,.72); color: #fff; font-size: .6rem; font-weight: 800; letter-spacing: .02em; text-align: center; white-space: nowrap; }
+.segment-triodion { background: #6c7890; }
+.segment-lent { background: #5c3465; }
+.segment-holy-week { background: #3c2745; }
+.segment-pascha { z-index: 2; min-width: 12px; transform: translateX(-50%); background: #d6a72d; }
+.segment-pentecostarion { background: #336d99; }
+.segment-matthew { background: #426e77; }
+.segment-after-pentecost { background: #315d89; }
+.segment-luke { background: #4b536d; }
+.mobile-cycle-landmark { position: absolute; top: 43px; z-index: 3; padding-top: 4px; transform: translateX(-50%); border-left: 1px solid #315d89; color: #364657; font-size: .58rem; font-weight: 800; white-space: nowrap; }
+.mobile-cycle-landmark.is-pascha { top: 0; padding: 1px 6px; transform: translateX(-50%); border: 0; border-radius: 999px; color: #fff; background: #6b1c29; font-size: .68rem; }
+.cycle-encounter-detail { display: grid; grid-template-columns: minmax(150px, .25fr) minmax(180px, .35fr) minmax(250px, 1fr); gap: 7px 18px; align-items: center; margin-top: 14px; padding: 13px 15px; border-left: 5px solid #6b1c29; border-radius: 7px; background: #fff9eb; }
+.cycle-encounter-detail .cycle-encounter-date { color: #76561c; font-size: .75rem; font-weight: 800; letter-spacing: .03em; text-transform: uppercase; }
+.cycle-encounter-detail strong { color: #4b1018; font: 700 1rem/1.3 var(--font-serif); }
+.cycle-encounter-detail p { margin: 0; color: #433d35; font-size: .9rem; line-height: 1.45; }
+.cycle-encounter-detail small { grid-column: 3; color: #6a6257; font-size: .76rem; }
+.cycle-key-encounters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 9px; margin-top: 10px; }
+.cycle-key-encounter { display: grid; grid-template-columns: 1fr auto; gap: 3px 10px; padding: 10px 12px; border: 1px solid #d8c89e; border-radius: 8px; color: #473d32; background: #fffdf8; text-align: left; cursor: pointer; }
+.cycle-key-encounter span { color: #76561c; font-size: .72rem; font-weight: 800; text-transform: uppercase; }
+.cycle-key-encounter strong { color: #4b1018; font-size: .8rem; }
+.cycle-key-encounter small { grid-column: 1 / -1; color: #5c554b; font-size: .76rem; line-height: 1.3; }
+.cycle-key-encounter:hover { border-color: #6b1c29; background: #fff8e8; }
+.cycle-key-encounter:focus-visible { outline: 3px solid #315d89; outline-offset: 2px; }
 .liturgical-year-overview { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 13px; }
 .liturgical-period-card { overflow: hidden; border: 1px solid #dbd0b8; border-radius: 9px; background: #fffdf8; }
 .liturgical-period-card h4 { margin: 0; padding: 12px 15px; color: #fff; background: #4b1018; font: 700 1rem/1.3 var(--font-serif); }
@@ -1134,6 +1189,8 @@ footer { padding: 22px; color: #eadcae; text-align: center; background: #281018;
     .homily-actions { grid-template-columns: 1fr 1fr; }
     .liturgical-stage-links-grid { grid-template-columns: 1fr; }
     .fixed-encounters-grid { grid-template-columns: 1fr; }
+    .cycle-encounter-detail { grid-template-columns: 1fr 1fr; }
+    .cycle-encounter-detail p, .cycle-encounter-detail small { grid-column: 1 / -1; }
 }
 @media (max-width: 640px) {
     header { padding: 18px 14px; }
@@ -1141,6 +1198,13 @@ footer { padding: 22px; color: #eadcae; text-align: center; background: #281018;
     .selection-modes { display: grid; grid-template-columns: 1fr; }
     .liturgical-year-overview { grid-template-columns: 1fr; }
     .liturgical-period-card p { grid-template-columns: 1fr; gap: 3px; }
+    .cycle-alignment-heading { display: grid; }
+    .cycle-pascha-readout { width: auto; }
+    .cycle-year-control { grid-template-columns: 1fr; }
+    .cycle-year-limits { grid-column: 1; }
+    .cycle-key-encounters { grid-template-columns: 1fr; }
+    .cycle-encounter-detail { grid-template-columns: 1fr; }
+    .cycle-encounter-detail p, .cycle-encounter-detail small { grid-column: 1; }
     .paschal-path-track { grid-template-columns: repeat(var(--stage-count, 8), 138px); margin-right: -3px; }
     .paschal-path-step { min-width: 138px; }
     .paschal-path-track.is-long { grid-template-columns: repeat(var(--stage-count, 8), 138px); gap: 0; overflow-x: auto; }
