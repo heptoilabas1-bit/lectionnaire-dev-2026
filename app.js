@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260912-liturgical-path-11';
+    const DATA_VERSION = '20260912-comparisons-triode-1';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -706,7 +706,12 @@ document.addEventListener('DOMContentLoaded', () => {
         theological_reversal: 'Renversement théologique',
         embodied_service: 'Soin concret',
         witness: 'Témoignage transmis',
-        discipleship_path: 'Même chemin de fidélité'
+        discipleship_path: 'Même chemin de fidélité',
+        shared_root: 'Racine grecque commune',
+        shared_lemma: 'Même lemme grec',
+        shared_word: 'Mot grec commun',
+        divine_gift: 'Don reçu de Dieu',
+        resurrection: 'Mort → relèvement'
     };
 
     const connectionGreekBasisLabels = {
@@ -1125,7 +1130,7 @@ document.addEventListener('DOMContentLoaded', () => {
             linksContainer.innerHTML = '';
             const notice = document.createElement('p');
             notice.className = 'comparison-empty';
-            notice.textContent = 'Le mode Comparer est déjà disponible pour la Pentecôte, le dimanche des Saints Pères du premier Concile et le dimanche du Pardon.';
+            notice.textContent = 'Le mode Comparer est progressivement complété dans l’ordre du parcours liturgique.';
             linksContainer.appendChild(notice);
         } else {
             if (comparisonTitle) comparisonTitle.textContent = connections.title || 'Unité des lectures';
