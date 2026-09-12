@@ -344,6 +344,154 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cross-transition",
+      "selector_label": "11e Matthieu → 2e de Luc",
+      "title": "Du pardon reçu à l’amour sans retour",
+      "introduction": "Ce parcours suit quatre dimanches de Matthieu, traverse les dimanches ordonnés autour de l’Exaltation de la Sainte-Croix, puis entre dans le cycle de Luc. Le fil va d’une dette remise à la gratuité de l’amour des ennemis : ce qui a été reçu de Dieu apprend à circuler sans possession ni calcul.",
+      "fixed_encounters": [
+        {
+          "date": "8 septembre",
+          "title": "Nativité de la Mère de Dieu",
+          "echo": "Au commencement de l’année liturgique, la naissance de la Mère de Dieu annonce que le salut prend corps dans une histoire reçue et offerte. Le dimanche mobile rencontré varie selon l’année."
+        },
+        {
+          "date": "14 septembre",
+          "title": "Exaltation de la Sainte-Croix",
+          "echo": "Cette fête fixe organise ses propres dimanches avant et après la Croix. Elle interrompt la simple numérotation du cycle et en révèle l’axe pascal : descente, élévation, renoncement et vie dans le Christ."
+        }
+      ],
+      "stages": [
+        {
+          "id": "unforgiving-servant",
+          "key": "311_after_pentecost_11",
+          "short_label": "Dette remise",
+          "title": "Le serviteur impitoyable",
+          "position": "Onzième dimanche de Matthieu — le pardon reçu doit devenir une relation nouvelle",
+          "sense": "Dette, souffle et circulation",
+          "summary": "Une dette impossible à rembourser est remise par compassion, mais le bénéficiaire transforme aussitôt une dette minime en instrument d’étranglement. Le pardon reçu demeure stérile s’il ne traverse pas le cœur.",
+          "readings": { "gospel": "Matthieu 18, 23-35", "apostle": "1 Corinthiens 9, 2-12" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après les guérisons et les signes de puissance, le cycle revient au cœur de la vie communautaire : recevoir la miséricorde de Dieu et renoncer à utiliser son droit contre l’autre." },
+            { "type": "greek", "label": "Fil grec", "text": "ἀφίημι revient encore : laisser les filets, remettre les péchés, puis remettre une dette. ἐξουσία, dans l’Apôtre, reprend le vocabulaire de l’autorité rencontré chez le centurion et le paralytique, mais sous la forme d’un droit librement déposé." },
+            { "type": "homiletic", "label": "Vers le jeune homme riche", "text": "Le débiteur veut tout rendre par lui-même ; le jeune homme demandera ce qu’il doit encore faire. Les deux récits mettent en crise l’idée que le salut puisse être acquis ou possédé." }
+          ]
+        },
+        {
+          "id": "rich-young-man",
+          "key": "312_after_pentecost_12",
+          "short_label": "Jeune homme riche",
+          "title": "Le jeune homme riche",
+          "position": "Douzième dimanche de Matthieu — du salut possédé au salut reçu",
+          "sense": "Manque, tristesse et grâce",
+          "summary": "Le jeune homme a beaucoup et observe beaucoup, mais il découvre un manque que ses possessions ne peuvent combler. L’impossible humain ouvre la parole décisive : à Dieu, tout est possible.",
+          "readings": { "gospel": "Matthieu 19, 16-26", "apostle": "1 Corinthiens 15, 1-11" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Le disciple est conduit de la comptabilité morale vers le kérygme : le salut repose sur la mort et la Résurrection du Christ, reçues et transmises dans l’Église." },
+            { "type": "greek", "label": "Racine retrouvée", "text": "ἀδύνατον et δυνατά reprennent la famille de δύναμις rencontrée peu auparavant, au dixième dimanche de Matthieu. L’impuissance reconnue n’est plus un échec final : elle devient l’espace du possible de Dieu." },
+            { "type": "homiletic", "label": "Vers les vignerons", "text": "Le jeune homme ne parvient pas à se dessaisir de ses biens ; les vignerons voudront saisir l’héritage. La possession devient progressivement visible comme obstacle à la relation avec le Donateur." }
+          ]
+        },
+        {
+          "id": "wicked-tenants",
+          "key": "313_after_pentecost_13",
+          "short_label": "Vignerons",
+          "title": "Les vignerons homicides",
+          "position": "Treizième dimanche de Matthieu — le don confié est détourné en propriété",
+          "sense": "Fruit, héritage et pierre",
+          "summary": "La vigne est confiée pour porter du fruit. En voulant devenir propriétaires du don, les vignerons rejettent les envoyés puis le Fils ; pourtant, la pierre rejetée devient pierre d’angle.",
+          "readings": { "gospel": "Matthieu 21, 33-44", "apostle": "1 Corinthiens 16, 13-24" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "À l’approche de la Croix, la parabole fait apparaître le rejet du Fils. L’Église entend simultanément l’appel à veiller, tenir ferme et soumettre toute force au critère de l’amour." },
+            { "type": "greek", "label": "Lien grec vers les noces", "text": "ἀπέκτειναν, « ils tuèrent », apparaît dans cette parabole et dans celle des noces au dimanche suivant. La même violence refuse successivement l’héritier et l’invitation du roi." },
+            { "type": "homiletic", "label": "Vers les noces", "text": "Après avoir voulu posséder la vigne, certains refusent maintenant le banquet. Le problème n’est pas l’absence du don, mais la manière dont l’homme ferme sa relation à celui qui donne et appelle." }
+          ]
+        },
+        {
+          "id": "wedding-feast",
+          "key": "314_after_pentecost_14",
+          "short_label": "Noces",
+          "title": "La parabole des noces",
+          "position": "Quatorzième dimanche de Matthieu — l’invitation s’étend aux débouchés des chemins",
+          "sense": "Appel, vêtement et joie",
+          "summary": "L’invitation refusée est portée au-dehors et rassemble ceux que personne n’attendait. Entrer au banquet demande toutefois de revêtir réellement le don reçu et de devenir coopérateur de la joie.",
+          "readings": { "gospel": "Matthieu 22, 1-14", "apostle": "2 Corinthiens 1, 21 - 2, 4" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Ce dimanche clôt ici la suite régulière de Matthieu avant que les lectures propres à la Croix ne réorientent le calendrier autour de la fête du 14 septembre." },
+            { "type": "greek", "label": "Racine et image", "text": "ἀγαθός rappelle la question du jeune homme sur le bien ; ἔνδυμα, le vêtement, dialogue sans identité de racine avec χρίσας et ἀρραβών : Dieu oint, marque et donne les arrhes de l’Esprit pour rendre possible la réponse." },
+            { "type": "homiletic", "label": "Vers la Croix", "text": "L’habit des noces ne sert pas à paraître : il manifeste une existence transformée. La Croix révélera précisément la différence entre l’apparence religieuse et la création nouvelle." }
+          ]
+        },
+        {
+          "id": "before-cross",
+          "key": "96_cross_before",
+          "short_label": "Avant la Croix",
+          "title": "Dimanche avant l’Exaltation de la Croix",
+          "position": "Dimanche propre précédant le 14 septembre — préparation à la fête fixe",
+          "sense": "Descente, élévation et don",
+          "summary": "Le Fils descend et doit être élevé afin que le monde soit sauvé. Paul refuse toute gloire religieuse extérieure : seule la Croix ouvre la création nouvelle.",
+          "readings": { "gospel": "Jean 3, 13-17", "apostle": "Galates 6, 11-18" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Cette péricope ne dépend pas du numéro courant après Pentecôte : elle est définie par sa relation au 14 septembre et prépare directement l’assemblée à l’Exaltation." },
+            { "type": "greek", "label": "Structure verticale retrouvée", "text": "ἀναβαίνω et καταβαίνω, monter et descendre, réapparaissent après Romains 10. Ici, le mouvement n’est plus une question humaine impossible : il décrit le Fils descendu et élevé pour sauver." },
+            { "type": "homiletic", "label": "Vers le dimanche après la Croix", "text": "Le dimanche avant contemple ce que le Fils accomplit ; le dimanche après demandera comment le disciple entre personnellement dans ce mouvement en prenant sa croix." }
+          ]
+        },
+        {
+          "id": "after-cross",
+          "key": "97_cross_after",
+          "short_label": "Après la Croix",
+          "title": "Dimanche après l’Exaltation de la Croix",
+          "position": "Dimanche propre suivant le 14 septembre — réception personnelle du mystère célébré",
+          "sense": "Renoncement, suite et vie",
+          "summary": "Prendre sa croix ne signifie pas rechercher la souffrance, mais suivre le Christ et recevoir sa vie. Paul exprime cette union sans disparition de la personne : le Christ vit en moi.",
+          "readings": { "gospel": "Marc 8, 34 - 9, 1", "apostle": "Galates 2, 16-20" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après l’élévation liturgique de la Croix, l’Église entend son implication baptismale et quotidienne : renoncer à l’autosuffisance pour marcher derrière le Christ." },
+            { "type": "greek", "label": "Lien grec direct", "text": "σταυρός dans l’Évangile et συνεσταύρωμαι dans l’Apôtre partagent directement la racine de la Croix : porter sa croix est éclairé par « j’ai été crucifié avec le Christ »." },
+            { "type": "homiletic", "label": "Vers la pêche de Luc", "text": "Renoncer à soi prépare un nouveau commencement. Lorsque Luc reprend le récit de l’appel, Pierre lâche sa maîtrise, avance en profondeur sur une parole et laisse finalement tout pour suivre." }
+          ]
+        },
+        {
+          "id": "miraculous-catch",
+          "key": "318_after_pentecost_18",
+          "short_label": "Pêche",
+          "title": "La pêche miraculeuse",
+          "position": "Premier dimanche de Luc — reprise automnale du récit de l’appel",
+          "sense": "Profondeur, abondance et don",
+          "summary": "Après une nuit sans résultat, Pierre accepte d’avancer en profondeur sur la parole du Christ. L’abondance reçue appelle les compagnons et transforme le pêcheur en serviteur de la vie.",
+          "readings": { "gospel": "Luc 5, 1-11", "apostle": "2 Corinthiens 9, 6-11" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Le cycle de Luc recommence par un appel déjà entendu chez Matthieu, mais approfondi : l’échec, l’obéissance, l’abondance et la conscience de son indignité transforment Pierre." },
+            { "type": "greek", "label": "Boucle grecque", "text": "ἀφέντες et le motif de la suite rejoignent l’appel des premiers disciples ; le cycle ne répète pas simplement la scène, il fait entendre ce que « laisser » signifie après le passage par la Croix." },
+            { "type": "homiletic", "label": "Vers l’amour sans retour", "text": "Le filet déborde et le don de Dieu fait abonder la générosité. Le dimanche suivant poussera cette logique jusqu’à aimer sans calculer ce qui reviendra en échange." }
+          ]
+        },
+        {
+          "id": "love-enemies",
+          "key": "319_after_pentecost_19",
+          "short_label": "Amour des ennemis",
+          "title": "L’amour des ennemis",
+          "position": "Deuxième dimanche de Luc — la grâce rompt la logique de réciprocité",
+          "sense": "Gratuité, compassion et faiblesse",
+          "summary": "Le Christ ne propose pas seulement une réciprocité équitable : il appelle à aimer, faire du bien et prêter sans attendre en retour. Paul découvre que la grâce suffit précisément là où sa propre puissance ne suffit plus.",
+          "readings": { "gospel": "Luc 6, 31-36", "apostle": "2 Corinthiens 11, 31 - 12, 9" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après l’abondance de la pêche, le cycle de Luc révèle la forme la plus exigeante de cette abondance : donner sans faire du retour de l’autre la condition de l’amour." },
+            { "type": "greek", "label": "Deux liens grecs", "text": "χάρις traverse la question évangélique — « quelle grâce vous en revient ? » — et la réponse donnée à Paul : « ma grâce te suffit ». χαλάω relie aussi les filets descendus du dimanche précédent à Paul descendu dans une corbeille, même verbe dans deux récits de dépouillement." },
+            { "type": "homiletic", "label": "Accomplissement du parcours", "text": "La dette remise au début du parcours atteint ici sa forme mûre : la miséricorde reçue devient compassion à l’image du Père, sans étranglement, possession, mérite ni exigence de retour." }
+          ]
+        }
+      ]
     }
   ]
 }
