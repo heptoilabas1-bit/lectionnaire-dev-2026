@@ -492,6 +492,94 @@
           ]
         }
       ]
+    },
+    {
+      "id": "luke-life-restored",
+      "selector_label": "3e → 7e de Luc",
+      "title": "De Naïn à Jaïre : la vie rendue à la relation",
+      "introduction": "Ces cinq dimanches font entendre une même Parole qui relève et recrée : elle arrête un cortège funèbre, cherche une terre où porter du fruit, rend visible le pauvre oublié, restaure l’homme fragmenté et rejoint deux femmes au milieu de la foule. Le lien n’est pas une répétition mécanique, mais un approfondissement de la vie reçue.",
+      "stages": [
+        {
+          "id": "widow-nain",
+          "key": "320_after_pentecost_20",
+          "short_label": "Veuve de Naïn",
+          "title": "Le fils de la veuve de Naïn",
+          "position": "Troisième dimanche de Luc — deux cortèges se rencontrent aux portes de la ville",
+          "sense": "Regard, compassion et relèvement",
+          "summary": "Le Christ voit la mère avant qu’elle ne formule aucune demande. Saisi aux entrailles, il touche le cercueil, appelle le jeune homme et le rend à sa mère : la grâce interrompt une trajectoire de mort.",
+          "readings": { "gospel": "Luc 7, 11-16", "apostle": "Galates 1, 11-19" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après l’appel à la compassion du Père, le cycle de Luc montre cette compassion à l’œuvre dans le Christ : elle voit une douleur singulière et restaure une relation brisée." },
+            { "type": "greek", "label": "Racine retrouvée", "text": "σπλαγχνίζομαι, être saisi aux entrailles, rejoint la compassion déjà rencontrée dans la dette remise et les pains partagés. ἐγείρω, relever, reprend le fil pascal traversant plusieurs guérisons." },
+            { "type": "homiletic", "label": "Vers le Semeur", "text": "La parole « Jeune homme, lève-toi » rend la vie ; la parabole suivante demandera comment cette même parole est reçue, conservée ou étouffée dans le cœur humain." }
+          ]
+        },
+        {
+          "id": "sower",
+          "key": "321_after_pentecost_21",
+          "short_label": "Semeur",
+          "title": "La parabole du Semeur",
+          "position": "Quatrième dimanche de Luc — une même semence rencontre plusieurs terres",
+          "sense": "Écoute, profondeur et fruit",
+          "summary": "La différence ne vient ni du semeur ni de la semence, mais de l’accueil. Entendre devient fécond lorsque la parole est retenue dans un cœur beau et bon et porte du fruit dans l’endurance.",
+          "readings": { "gospel": "Luc 8, 5-15", "apostle": "Tite 3, 8-15" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après une parole qui relève immédiatement un mort, l’Église contemple le travail plus lent de cette parole dans la liberté, la mémoire, les épreuves et les œuvres concrètes." },
+            { "type": "greek", "label": "Lien grec direct", "text": "καρποφοροῦσιν dans l’Évangile et ἄκαρποι dans l’Apôtre appartiennent directement à la famille de καρπός, le fruit : la parole reçue doit devenir une existence féconde." },
+            { "type": "homiletic", "label": "Vers le riche et Lazare", "text": "La semence peut être étouffée sans disparaître extérieurement. Le riche du dimanche suivant entend la Loi, mais son abondance et sa porte fermée rendent Lazare invisible et sa vie sans fruit." }
+          ]
+        },
+        {
+          "id": "rich-man-lazarus",
+          "key": "322_after_pentecost_22",
+          "short_label": "Riche et Lazare",
+          "title": "Le riche et Lazare",
+          "position": "Cinquième dimanche de Luc — la proximité refusée devient un gouffre",
+          "sense": "Regard, écoute et frontière",
+          "summary": "Lazare possède un nom mais demeure jeté au portail, sous les yeux d’un homme vêtu de luxe. Le gouffre final révèle une distance quotidiennement construite par le refus de voir et d’écouter.",
+          "readings": { "gospel": "Luc 16, 19-31", "apostle": "Galates 6, 11-18" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Le cycle de Luc déplace la fécondité vers la relation au prochain : écouter Moïse et les prophètes devrait rendre capable de reconnaître celui qui souffre à sa porte." },
+            { "type": "greek", "label": "Mot-pont vers Gérasa", "text": "ἐνεδιδύσκετο, « il se vêtait », apparaît ici pour le luxe du riche puis au dimanche suivant pour la nudité ancienne du démoniaque. Le même verbe oppose apparence sociale et restauration de la personne." },
+            { "type": "homiletic", "label": "Vers le Gérasénien", "text": "Lazare est maintenu hors de la maison ; le Gérasénien vit hors de la ville parmi les tombeaux. Dans les deux récits, le Christ révèle ce qu’une communauté accepte de laisser à sa marge." }
+          ]
+        },
+        {
+          "id": "gerasene",
+          "key": "323_after_pentecost_23",
+          "short_label": "Gérasénien",
+          "title": "Le démoniaque de Gérasa",
+          "position": "Sixième dimanche de Luc — de la légion au retour dans sa maison",
+          "sense": "Nom, vêtement et unité retrouvée",
+          "summary": "L’homme sans vêtement ni demeure est devenu le lieu d’une multitude anonyme. Le Christ le restaure assis, vêtu et dans son bon sens, puis lui rend une maison et une parole de témoin.",
+          "readings": { "gospel": "Luc 8, 26-39", "apostle": "Éphésiens 2, 4-10" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après l’homme riche qui ne voit pas celui de sa porte, l’Église regarde celui que toute une région avait relégué. Le salut personnel devient aussi critique d’un ordre collectif habitué à l’exclusion." },
+            { "type": "greek", "label": "Lien grec direct", "text": "ἐσώθη dans l’Évangile et σεσωσμένοι dans l’Apôtre viennent directement de σώζω : la guérison du Gérasénien est un salut intégral, et ce salut est reçu par grâce." },
+            { "type": "homiletic", "label": "Vers Jaïre et l’hémorroïsse", "text": "L’homme restauré retrouve sa maison ; au dimanche suivant, le Christ entre dans la maison de Jaïre tout en faisant surgir de la foule une femme jusque-là anonyme. Le salut rend chacun à une relation personnelle." }
+          ]
+        },
+        {
+          "id": "jairus-woman",
+          "key": "324_after_pentecost_24",
+          "short_label": "Jaïre et la femme",
+          "title": "La fille de Jaïre et la femme hémorroïsse",
+          "position": "Septième dimanche de Luc — deux filles et douze années se répondent",
+          "sense": "Toucher, foi et paix",
+          "summary": "La demande publique d’un père et le geste secret d’une femme se croisent. Le Christ ne laisse ni la foule ni la mort effacer une personne : il appelle l’une « ma fille » et relève l’autre par la main.",
+          "readings": { "gospel": "Luc 8, 41-56", "apostle": "Éphésiens 2, 14-22" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Le mouvement commencé à Naïn s’accomplit ici sous une forme plus complexe : la compassion traverse l’attente, la foule, la peur et l’annonce de la mort pour rejoindre deux personnes singulières." },
+            { "type": "greek", "label": "Lien grec direct", "text": "εἰρήνη relie directement les lectures : « va en paix » dit Jésus à la femme ; « il est notre paix » proclame l’Apôtre. La guérison personnelle et la destruction du mur de séparation procèdent du même Christ." },
+            { "type": "homiletic", "label": "Accomplissement du parcours", "text": "Le cortège de mort arrêté à Naïn devient ici une marche patiente vers la maison de Jaïre. Entre les deux, la Parole a enseigné à écouter, voir le pauvre, restaurer l’exclu et appeler chacun par une relation nouvelle." }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1076,7 +1076,10 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .fixed-encounters-grid strong { color: #4b1018; font: 700 .95rem/1.3 var(--font-serif); }
 .fixed-encounters-grid p { margin: 7px 0 0; color: #514a40; font-size: .86rem; line-height: 1.5; }
 .paschal-path-track { display: grid; grid-template-columns: repeat(var(--stage-count, 8), minmax(118px, 1fr)); gap: 0; margin: 20px 0 22px; overflow-x: auto; padding: 7px 3px 15px; scrollbar-color: #b69b5d #eee5d1; }
-.paschal-path-step { position: relative; min-width: 118px; padding-right: 9px; }
+.paschal-path-track.is-long { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 10px; overflow-x: visible; }
+.paschal-path-step { position: relative; box-sizing: border-box; min-width: 118px; padding-right: 9px; }
+.paschal-path-track.is-long .paschal-path-step { min-width: 0; padding-right: 0; }
+.paschal-path-track.is-long .paschal-path-step::after { display: none; }
 .paschal-path-step::after { position: absolute; z-index: 0; top: 27px; right: -3px; left: 0; height: 3px; background: #c5aa69; content: ''; }
 .paschal-path-step:last-child::after { display: none; }
 .paschal-stage-button { position: relative; z-index: 1; display: grid; width: 100%; min-height: 108px; padding: 8px 7px 9px; border: 1px solid #cbb98e; border-radius: 9px; color: #473d32; background: #fffdf8; box-shadow: 0 3px 10px rgba(56,39,24,.08); text-align: left; cursor: pointer; transition: transform .16s ease, border-color .16s ease, background .16s ease; }
@@ -1137,6 +1140,10 @@ footer { padding: 22px; color: #eadcae; text-align: center; background: #281018;
     .liturgical-period-card p { grid-template-columns: 1fr; gap: 3px; }
     .paschal-path-track { grid-template-columns: repeat(var(--stage-count, 8), 138px); margin-right: -3px; }
     .paschal-path-step { min-width: 138px; }
+    .paschal-path-track.is-long { grid-template-columns: repeat(var(--stage-count, 8), 138px); gap: 0; overflow-x: auto; }
+    .paschal-path-track.is-long .paschal-path-step { min-width: 138px; padding-right: 9px; }
+    .paschal-path-track.is-long .paschal-path-step::after { display: block; }
+    .paschal-path-track.is-long .paschal-path-step:last-child::after { display: none; }
     .liturgical-stage-actions { display: grid; }
     .liturgical-stage-actions button { width: 100%; }
     .homily-actions { grid-template-columns: 1fr; }

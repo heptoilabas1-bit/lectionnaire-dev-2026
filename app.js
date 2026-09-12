@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260912-liturgical-path-3';
+    const DATA_VERSION = '20260912-liturgical-path-4';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1258,8 +1258,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         title.textContent = journey.title;
         introduction.textContent = journey.introduction;
+        const stageCount = Math.max((journey.stages || []).length, 1);
         track.setAttribute('aria-label', `Étapes — ${journey.title}`);
-        track.style.setProperty('--stage-count', String(Math.max((journey.stages || []).length, 1)));
+        track.style.setProperty('--stage-count', String(stageCount));
+        track.classList.toggle('is-long', stageCount > 8);
         if (selectors) {
             selectors.querySelectorAll('button').forEach(button => {
                 const selected = button.dataset.journeyId === journey.id;
