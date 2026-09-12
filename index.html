@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lectionnaire Interlinéaire Orthodoxe</title>
-    <link rel="stylesheet" href="style.css?v=20260912-compare-generalize1">
+    <link rel="stylesheet" href="style.css?v=20260912-liturgical-path">
 </head>
 <body>
 
@@ -21,6 +21,7 @@
                 <button id="mode-calendar" class="selection-mode active" type="button" role="tab" aria-selected="true" aria-controls="calendar-panel">Par calendrier</button>
                 <button id="mode-pericope" class="selection-mode" type="button" role="tab" aria-selected="false" aria-controls="pericope-panel">Par péricope</button>
                 <button id="mode-theme" class="selection-mode" type="button" role="tab" aria-selected="false" aria-controls="theme-panel">Par thème</button>
+                <button id="mode-path" class="selection-mode" type="button" role="tab" aria-selected="false" aria-controls="path-panel">Parcours liturgique</button>
             </div>
             <div id="calendar-panel" class="selection-panel" role="tabpanel" aria-labelledby="mode-calendar">
                 <label for="calendar-select">Dimanches du calendrier liturgique</label>
@@ -71,11 +72,41 @@
                 <p id="theme-search-status" class="search-status" aria-live="polite"></p>
                 <div id="theme-results" class="theme-results"></div>
             </div>
+            <div id="path-panel" class="selection-panel path-panel" role="tabpanel" aria-labelledby="mode-path" hidden>
+                <p><strong>Carte intemporelle :</strong> cycle mobile, fêtes fixes et liens entre les péricopes.</p>
+                <span>Prototype détaillé : de Thomas à la Pentecôte.</span>
+            </div>
         </div>
     </header>
 
     <main>
         <div id="main-content">
+
+            <section id="liturgical-path-view" class="liturgical-path-view" aria-labelledby="liturgical-path-title" hidden>
+                <div class="liturgical-path-heading">
+                    <p class="comparison-kicker">Cycle mobile ↔ Cycle fixe</p>
+                    <h2 id="liturgical-path-title">Le fil de l’année liturgique</h2>
+                    <p id="liturgical-path-introduction"></p>
+                    <div class="liturgical-path-legend" aria-label="Nature des liens">
+                        <span class="path-legend-liturgical">Placement liturgique</span>
+                        <span class="path-legend-greek">Lien grec</span>
+                        <span class="path-legend-homiletic">Piste homilétique</span>
+                    </div>
+                </div>
+                <div class="liturgical-path-content">
+                    <section aria-labelledby="liturgical-overview-title">
+                        <h3 id="liturgical-overview-title">Les deux cycles au fil de l’année</h3>
+                        <p class="path-section-intro">Le cycle mobile avance autour de Pâques ; les fêtes fixes gardent leur date. Leur rencontre exacte change d’une année à l’autre.</p>
+                        <div id="liturgical-year-overview" class="liturgical-year-overview"></div>
+                    </section>
+                    <section class="paschal-prototype" aria-labelledby="paschal-prototype-title">
+                        <h3 id="paschal-prototype-title">De Thomas à la Pentecôte</h3>
+                        <p id="paschal-prototype-introduction" class="path-section-intro"></p>
+                        <div id="paschal-path-track" class="paschal-path-track" role="list" aria-label="Étapes du parcours pascal"></div>
+                        <article id="liturgical-stage-detail" class="liturgical-stage-detail" aria-live="polite"></article>
+                    </section>
+                </div>
+            </section>
 
             <div id="translation-selector" class="version-tools">
                 <span>Traduction latérale : </span>
@@ -324,7 +355,7 @@
         </div>
     </dialog>
 
-    <script src="app.js?v=20260912-compare-generalize1"></script>
+    <script src="app.js?v=20260912-liturgical-path"></script>
 
 </body>
 </html>

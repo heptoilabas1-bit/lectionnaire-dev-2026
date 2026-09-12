@@ -1024,6 +1024,81 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .comparison-term-sentence { border-left-color: #315d89; background: #f0f6fb; }
 .comparison-term-sentence p { font-family: var(--font-serif); font-weight: 700; }
 .comparison-term-homily { border-left-color: #7e2430; background: #fbf1ef; }
+.path-panel { display: grid; gap: 4px; }
+.path-panel[hidden] { display: none; }
+.path-panel p, .path-panel span { margin: 0; line-height: 1.45; }
+.path-panel span { color: #665f55; font-size: .9rem; }
+.liturgical-path-view {
+    margin: 22px 0 30px;
+    overflow: hidden;
+    border: 1px solid #cdbb91;
+    border-radius: 13px;
+    background: rgba(255, 253, 247, .96);
+    box-shadow: 0 12px 34px rgba(57, 39, 23, .12);
+}
+.liturgical-path-view[hidden] { display: none; }
+.liturgical-path-heading {
+    padding: 26px clamp(18px, 4vw, 38px);
+    color: #fffdf7;
+    background: linear-gradient(125deg, #243c5b, #4b1018 72%, #361018);
+    border-bottom: 4px solid #c7a75b;
+}
+.liturgical-path-heading h2 { margin: 0; color: #fffdf7; font: 700 clamp(1.55rem, 3vw, 2.15rem)/1.2 var(--font-serif); }
+.liturgical-path-heading > p:not(.comparison-kicker) { max-width: 900px; margin: 10px 0 0; color: #fff8e8; font: 400 1.04rem/1.62 var(--font-serif); }
+.liturgical-path-legend { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
+.liturgical-path-legend span { padding: 5px 10px; border: 1px solid rgba(255,255,255,.36); border-radius: 999px; font-size: .78rem; font-weight: 800; }
+.path-legend-liturgical { background: rgba(185,145,54,.34); }
+.path-legend-greek { background: rgba(64,111,156,.48); }
+.path-legend-homiletic { background: rgba(142,50,64,.55); }
+.liturgical-path-content { display: grid; gap: 30px; padding: clamp(18px, 3vw, 32px); }
+.liturgical-path-content h3 { margin: 0 0 5px; color: #4b1018; font: 700 1.35rem/1.3 var(--font-serif); }
+.path-section-intro { max-width: 900px; margin: 0 0 18px; color: #5c5449; line-height: 1.6; }
+.liturgical-year-overview { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 13px; }
+.liturgical-period-card { overflow: hidden; border: 1px solid #dbd0b8; border-radius: 9px; background: #fffdf8; }
+.liturgical-period-card h4 { margin: 0; padding: 12px 15px; color: #fff; background: #4b1018; font: 700 1rem/1.3 var(--font-serif); }
+.liturgical-period-card p { display: grid; grid-template-columns: minmax(110px, .42fr) minmax(0, 1fr); gap: 10px; margin: 0; padding: 11px 14px; color: #433d35; font-size: .9rem; line-height: 1.45; }
+.liturgical-period-card p + p { border-top: 1px solid #e4dbc7; }
+.liturgical-period-card strong { color: #243c5b; font-size: .75rem; letter-spacing: .055em; text-transform: uppercase; }
+.liturgical-period-fixed { background: #fbf4e4; }
+.liturgical-period-fixed strong { color: #76561c; }
+.paschal-prototype { padding-top: 27px; border-top: 1px solid #d8ccb0; }
+.paschal-path-track { display: grid; grid-template-columns: repeat(8, minmax(118px, 1fr)); gap: 0; margin: 20px 0 22px; overflow-x: auto; padding: 7px 3px 15px; scrollbar-color: #b69b5d #eee5d1; }
+.paschal-path-step { position: relative; min-width: 118px; padding-right: 9px; }
+.paschal-path-step::after { position: absolute; z-index: 0; top: 27px; right: -3px; left: 0; height: 3px; background: #c5aa69; content: ''; }
+.paschal-path-step:last-child::after { display: none; }
+.paschal-stage-button { position: relative; z-index: 1; display: grid; width: 100%; min-height: 108px; padding: 8px 7px 9px; border: 1px solid #cbb98e; border-radius: 9px; color: #473d32; background: #fffdf8; box-shadow: 0 3px 10px rgba(56,39,24,.08); text-align: left; cursor: pointer; transition: transform .16s ease, border-color .16s ease, background .16s ease; }
+.paschal-stage-button:hover { transform: translateY(-2px); border-color: #8f7438; }
+.paschal-stage-button[aria-pressed="true"] { color: #fff; border-color: #4b1018; background: linear-gradient(145deg, #6b1c29, #401019); box-shadow: 0 6px 16px rgba(70,20,28,.22); }
+.paschal-stage-button:focus-visible { outline: 3px solid #315d89; outline-offset: 3px; }
+.paschal-stage-button span { align-self: start; justify-self: start; min-width: 29px; padding: 3px 6px; border-radius: 999px; color: #fff; background: #315d89; font-size: .7rem; font-weight: 800; text-align: center; }
+.paschal-stage-button strong { align-self: end; margin-top: 8px; color: inherit; font: 700 .93rem/1.25 var(--font-serif); }
+.paschal-stage-button small { margin-top: 4px; color: #6f6455; font-size: .72rem; line-height: 1.25; }
+.paschal-stage-button[aria-pressed="true"] small { color: #eadcae; }
+.liturgical-stage-detail { overflow: hidden; border: 1px solid #cfbf9b; border-radius: 11px; background: #fffdf8; box-shadow: 0 7px 22px rgba(56,39,24,.08); }
+.liturgical-stage-heading { padding: 21px clamp(16px, 3vw, 26px); border-bottom: 1px solid #ddd1b8; background: linear-gradient(180deg, #f8f1e0, #fffdf8); }
+.liturgical-stage-meta { margin: 0 0 5px; color: #76561c; font-size: .78rem; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; }
+.liturgical-stage-heading h4 { margin: 0; color: #4b1018; font: 700 clamp(1.25rem, 2.5vw, 1.65rem)/1.25 var(--font-serif); }
+.liturgical-stage-sense { display: inline-block; margin-top: 9px; padding: 4px 9px; border-radius: 999px; color: #234b70; background: #e2edf6; font-size: .78rem; font-weight: 800; }
+.liturgical-stage-summary { max-width: 900px; margin: 12px 0 0; color: #433d35; font: 400 1rem/1.62 var(--font-serif); }
+.liturgical-stage-readings, .liturgical-stage-links { padding: 19px clamp(16px, 3vw, 26px); }
+.liturgical-stage-readings { border-bottom: 1px solid #ddd1b8; }
+.liturgical-stage-readings h5, .liturgical-stage-links h5 { margin: 0 0 8px; color: #4b1018; font-size: .78rem; letter-spacing: .09em; text-transform: uppercase; }
+.liturgical-stage-readings > p { margin: 0; color: #514a40; line-height: 1.5; }
+.liturgical-stage-actions { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 13px; }
+.liturgical-stage-actions button { min-height: 41px; padding: 8px 13px; border: 1px solid #315d89; border-radius: 7px; color: #234b70; background: #f3f8fc; font-weight: 800; cursor: pointer; }
+.liturgical-stage-actions button:hover { color: #fff; background: #315d89; }
+.liturgical-stage-actions .path-compare-button { color: #fff; border-color: #6a1722; background: #6a1722; }
+.liturgical-stage-actions .path-compare-button:hover { background: #451019; }
+.liturgical-stage-actions button:focus-visible { outline: 3px solid #c7a75b; outline-offset: 2px; }
+.liturgical-stage-pending { margin: 0; padding: 10px 12px; border-left: 4px solid #b59546; color: #5d4b29; background: #fff7df; font-size: .9rem; line-height: 1.5; }
+.liturgical-stage-links-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.liturgical-stage-link { padding: 14px 15px; border: 1px solid #ddd2ba; border-left-width: 5px; border-radius: 8px; background: #fff; }
+.liturgical-stage-link strong { color: #4b1018; font-size: .88rem; }
+.liturgical-stage-link p { margin: 7px 0 0; color: #4d463d; font-size: .9rem; line-height: 1.55; }
+.path-link-liturgical { border-left-color: #b28c36; background: #fffaf0; }
+.path-link-greek { border-left-color: #4f87b8; background: #f3f8fc; }
+.path-link-homiletic { border-left-color: #975063; background: #fbf1ef; }
+.liturgical-path-loading { margin: 0; padding: 24px; color: #665f55; text-align: center; }
 .interlinear-container, .analysis-panel, .homily-workspace { border: 1px solid #ded2b8; border-radius: 11px; box-shadow: 0 9px 28px rgba(57,39,23,.08); }
 .analysis-panel { border-top: 5px solid #4b1018; }
 #verse-title { color: #4b1018; font-family: var(--font-serif); text-align: center; }
@@ -1038,11 +1113,18 @@ footer { padding: 22px; color: #eadcae; text-align: center; background: #281018;
     header { flex-direction: column; gap: 18px; }
     .app-brand, #controls { width: 100%; min-width: 0; }
     .homily-actions { grid-template-columns: 1fr 1fr; }
+    .liturgical-stage-links-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
     header { padding: 18px 14px; }
     .app-cross { width: 72px; height: 72px; }
     .selection-modes { display: grid; grid-template-columns: 1fr; }
+    .liturgical-year-overview { grid-template-columns: 1fr; }
+    .liturgical-period-card p { grid-template-columns: 1fr; gap: 3px; }
+    .paschal-path-track { grid-template-columns: repeat(8, 138px); margin-right: -3px; }
+    .paschal-path-step { min-width: 138px; }
+    .liturgical-stage-actions { display: grid; }
+    .liturgical-stage-actions button { width: 100%; }
     .homily-actions { grid-template-columns: 1fr; }
     .homily-actions > .danger { width: 100%; }
     #text-selector button { padding-inline: 7px; font-size: .9rem; }

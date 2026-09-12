@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260911-compare-explore';
+    const DATA_VERSION = '20260912-liturgical-path';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -97,6 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentReadingView = 'reading';
     let comparisonDisplayMode = 'related';
     let focusedComparisonIndex = null;
+    let liturgicalPathDataPromise = null;
 
     const defaultHomilyTemplate = [
         {
@@ -757,16 +758,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const showStandardReadingView = readingType => {
         currentReadingView = 'reading';
+        const pathView = document.getElementById('liturgical-path-view');
         const comparisonView = document.getElementById('comparison-view');
         const verseTitle = document.getElementById('verse-title');
         const mainText = document.getElementById('gospel-text');
         const notesView = document.getElementById('notes-view');
         const annotationHelp = document.querySelector('.annotation-help');
+        const translationSelector = document.getElementById('translation-selector');
+        const panelToggles = document.getElementById('panel-toggles');
+        const textSelector = document.getElementById('text-selector');
+        if (pathView) pathView.hidden = true;
         if (comparisonView) comparisonView.hidden = true;
         if (verseTitle) verseTitle.hidden = false;
         if (mainText) mainText.hidden = false;
         if (notesView) notesView.hidden = false;
         if (annotationHelp) annotationHelp.hidden = false;
+        if (translationSelector) translationSelector.hidden = false;
+        if (panelToggles) panelToggles.hidden = false;
+        if (textSelector) textSelector.hidden = false;
         document.querySelectorAll('#text-selector button').forEach(button => button.classList.remove('active'));
         const activeButton = document.getElementById(`select-${readingType}`);
         if (activeButton) activeButton.classList.add('active');
@@ -1143,6 +1152,184 @@ document.addEventListener('DOMContentLoaded', () => {
         comparisonView.scrollIntoView({ behavior: 'smooth', block: 'start' });
     };
 
+    const loadLiturgicalPathData = () => {
+        if (!liturgicalPathDataPromise) {
+            liturgicalPathDataPromise = fetch(versionedDataPath('data/liturgical_path.json')).then(response => {
+                if (!response.ok) throw new Error('Parcours liturgique indisponible');
+                return response.json();
+            });
+        }
+        return liturgicalPathDataPromise;
+    };
+
+    const openLiturgicalStageReading = async (stage, readingType, compare = false) => {
+        if (!stage?.key) return;
+        setSelectionMode('pericope');
+        const sundaySelect = document.getElementById('sunday-select');
+        if (sundaySelect) sundaySelect.value = stage.key;
+        await loadTextContext(stage.key, readingType);
+        if (compare && currentLectionaryData?.reading_connections?.links?.length) {
+            renderComparisonView(currentLectionaryData);
+        }
+    };
+
+    const renderLiturgicalStage = stage => {
+        const detail = document.getElementById('liturgical-stage-detail');
+        if (!detail || !stage) return;
+        detail.innerHTML = '';
+
+        const heading = document.createElement('div');
+        heading.className = 'liturgical-stage-heading';
+        const meta = document.createElement('p');
+        meta.className = 'liturgical-stage-meta';
+        meta.textContent = stage.position;
+        const title = document.createElement('h4');
+        title.textContent = stage.title;
+        const sense = document.createElement('span');
+        sense.className = 'liturgical-stage-sense';
+        sense.textContent = stage.sense;
+        const summary = document.createElement('p');
+        summary.className = 'liturgical-stage-summary';
+        summary.textContent = stage.summary;
+        heading.append(meta, title, sense, summary);
+
+        const readings = document.createElement('section');
+        readings.className = 'liturgical-stage-readings';
+        const readingsTitle = document.createElement('h5');
+        readingsTitle.textContent = 'Ouvrir la péricope';
+        const references = document.createElement('p');
+        references.textContent = `Évangile : ${stage.readings.gospel} · Apôtre : ${stage.readings.apostle}`;
+        const actions = document.createElement('div');
+        actions.className = 'liturgical-stage-actions';
+        if (stage.key) {
+            const gospelButton = document.createElement('button');
+            gospelButton.type = 'button';
+            gospelButton.textContent = 'Évangile interlinéaire';
+            gospelButton.addEventListener('click', () => openLiturgicalStageReading(stage, 'gospel'));
+            const apostleButton = document.createElement('button');
+            apostleButton.type = 'button';
+            apostleButton.textContent = 'Apôtre interlinéaire';
+            apostleButton.addEventListener('click', () => openLiturgicalStageReading(stage, 'apostle'));
+            actions.append(gospelButton, apostleButton);
+            if (stage.comparison) {
+                const compareButton = document.createElement('button');
+                compareButton.type = 'button';
+                compareButton.className = 'path-compare-button';
+                compareButton.textContent = 'Comparer les deux';
+                compareButton.addEventListener('click', () => openLiturgicalStageReading(stage, 'gospel', true));
+                actions.appendChild(compareButton);
+            }
+        } else {
+            const pending = document.createElement('p');
+            pending.className = 'liturgical-stage-pending';
+            pending.textContent = 'La place liturgique est décrite ; la fiche interlinéaire de cette fête reste à intégrer.';
+            actions.appendChild(pending);
+        }
+        readings.append(readingsTitle, references, actions);
+
+        const links = document.createElement('section');
+        links.className = 'liturgical-stage-links';
+        const linksTitle = document.createElement('h5');
+        linksTitle.textContent = 'Liens intrinsèques';
+        const linksGrid = document.createElement('div');
+        linksGrid.className = 'liturgical-stage-links-grid';
+        (stage.links || []).forEach(link => {
+            const card = document.createElement('article');
+            card.className = `liturgical-stage-link path-link-${link.type}`;
+            const label = document.createElement('strong');
+            label.textContent = link.label;
+            const text = document.createElement('p');
+            text.textContent = link.text;
+            card.append(label, text);
+            linksGrid.appendChild(card);
+        });
+        links.append(linksTitle, linksGrid);
+        detail.append(heading, readings, links);
+    };
+
+    const renderLiturgicalPath = async () => {
+        const view = document.getElementById('liturgical-path-view');
+        const overview = document.getElementById('liturgical-year-overview');
+        const track = document.getElementById('paschal-path-track');
+        const detail = document.getElementById('liturgical-stage-detail');
+        if (!view || !overview || !track || !detail) return;
+        detail.innerHTML = '<p class="liturgical-path-loading">Chargement du parcours…</p>';
+        try {
+            const data = await loadLiturgicalPathData();
+            document.getElementById('liturgical-path-title').textContent = data.title;
+            document.getElementById('liturgical-path-introduction').textContent = data.introduction;
+            document.getElementById('paschal-prototype-title').textContent = data.prototype.title;
+            document.getElementById('paschal-prototype-introduction').textContent = data.prototype.introduction;
+
+            overview.innerHTML = '';
+            (data.overview || []).forEach(period => {
+                const card = document.createElement('article');
+                card.className = 'liturgical-period-card';
+                const title = document.createElement('h4');
+                title.textContent = period.title;
+                const mobile = document.createElement('p');
+                mobile.className = 'liturgical-period-mobile';
+                mobile.innerHTML = '<strong>Cycle mobile</strong>';
+                mobile.appendChild(document.createTextNode(period.mobile));
+                const fixed = document.createElement('p');
+                fixed.className = 'liturgical-period-fixed';
+                fixed.innerHTML = '<strong>Cycle fixe</strong>';
+                fixed.appendChild(document.createTextNode(period.fixed.join(' · ')));
+                card.append(title, mobile, fixed);
+                overview.appendChild(card);
+            });
+
+            track.innerHTML = '';
+            (data.prototype.stages || []).forEach((stage, index) => {
+                const step = document.createElement('div');
+                step.className = 'paschal-path-step';
+                step.setAttribute('role', 'listitem');
+                const button = document.createElement('button');
+                button.type = 'button';
+                button.className = 'paschal-stage-button';
+                button.dataset.stageId = stage.id;
+                button.setAttribute('aria-pressed', String(index === 0));
+                const number = document.createElement('span');
+                number.textContent = String(index + 1).padStart(2, '0');
+                const label = document.createElement('strong');
+                label.textContent = stage.short_label;
+                const sense = document.createElement('small');
+                sense.textContent = stage.sense;
+                button.append(number, label, sense);
+                button.addEventListener('click', () => {
+                    track.querySelectorAll('.paschal-stage-button').forEach(item => {
+                        item.setAttribute('aria-pressed', String(item === button));
+                    });
+                    renderLiturgicalStage(stage);
+                    if (window.matchMedia('(max-width: 700px)').matches) {
+                        detail.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                });
+                step.appendChild(button);
+                track.appendChild(step);
+            });
+            renderLiturgicalStage(data.prototype.stages[0]);
+        } catch {
+            detail.innerHTML = '<p class="comparison-empty">Le parcours liturgique est momentanément indisponible.</p>';
+        }
+    };
+
+    const showLiturgicalPathView = () => {
+        currentReadingView = 'path';
+        const pathView = document.getElementById('liturgical-path-view');
+        if (!pathView) return;
+        ['comparison-view', 'verse-title', 'gospel-text', 'notes-view', 'translation-selector', 'panel-toggles', 'text-selector', 'homily-workspace']
+            .forEach(id => {
+                const element = document.getElementById(id);
+                if (element) element.hidden = true;
+            });
+        const annotationHelp = document.querySelector('.annotation-help');
+        if (annotationHelp) annotationHelp.hidden = true;
+        pathView.hidden = false;
+        renderLiturgicalPath();
+        pathView.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    };
+
     // --- 2. FONCTION DE BASCULEMENT ---
     const changeTranslation = (version) => {
         const restoreComparison = currentReadingView === 'compare';
@@ -1450,19 +1637,24 @@ document.addEventListener('DOMContentLoaded', () => {
         const showCalendar = mode === 'calendar';
         const showPericope = mode === 'pericope';
         const showTheme = mode === 'theme';
+        const showPath = mode === 'path';
         const calendarPanel = document.getElementById('calendar-panel');
         const pericopePanel = document.getElementById('pericope-panel');
         const themePanel = document.getElementById('theme-panel');
+        const pathPanel = document.getElementById('path-panel');
         const calendarButton = document.getElementById('mode-calendar');
         const pericopeButton = document.getElementById('mode-pericope');
         const themeButton = document.getElementById('mode-theme');
+        const pathButton = document.getElementById('mode-path');
         if (calendarPanel) calendarPanel.hidden = !showCalendar;
         if (pericopePanel) pericopePanel.hidden = !showPericope;
         if (themePanel) themePanel.hidden = !showTheme;
+        if (pathPanel) pathPanel.hidden = !showPath;
         [
             [calendarButton, showCalendar],
             [pericopeButton, showPericope],
-            [themeButton, showTheme]
+            [themeButton, showTheme],
+            [pathButton, showPath]
         ].forEach(([button, active]) => {
             if (!button) return;
             button.classList.toggle('active', active);
@@ -1470,6 +1662,8 @@ document.addEventListener('DOMContentLoaded', () => {
             button.tabIndex = active ? 0 : -1;
         });
         if (showTheme) prepareThemeSearch();
+        if (showPath) showLiturgicalPathView();
+        else if (currentReadingView === 'path') showStandardReadingView(currentReadingType);
     };
 
     const themeDisplayLabel = keyword => {
@@ -1843,12 +2037,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const calendarYearSelect = document.getElementById('calendar-year-select');
     const pericopeModeButton = document.getElementById('mode-pericope');
     const themeModeButton = document.getElementById('mode-theme');
+    const pathModeButton = document.getElementById('mode-path');
     if (calendarModeButton) calendarModeButton.addEventListener('click', () => setSelectionMode('calendar'));
     if (calendarYearSelect) calendarYearSelect.addEventListener('change', event => {
         populateCalendarSelect(Number(event.target.value));
     });
     if (pericopeModeButton) pericopeModeButton.addEventListener('click', () => setSelectionMode('pericope'));
     if (themeModeButton) themeModeButton.addEventListener('click', () => setSelectionMode('theme'));
+    if (pathModeButton) pathModeButton.addEventListener('click', () => setSelectionMode('path'));
 
     const themeSearch = document.getElementById('theme-search');
     if (themeSearch) {

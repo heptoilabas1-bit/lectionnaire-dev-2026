@@ -1,0 +1,160 @@
+{
+  "title": "Le fil de l’année liturgique",
+  "introduction": "Cette carte ne dépend d’aucune année civile. Elle montre comment le cycle mobile, ordonné autour de Pâques, chemine avec le cycle fixe des fêtes datées. Les rencontres exactes varient selon la date de Pâques ; les continuités liturgiques et spirituelles demeurent.",
+  "overview": [
+    {
+      "title": "Automne liturgique",
+      "mobile": "Dimanches après Pentecôte 11 à 22",
+      "fixed": ["Nativité de la Mère de Dieu", "Exaltation de la Sainte-Croix", "Entrée au Temple de la Mère de Dieu"]
+    },
+    {
+      "title": "Nativité et Théophanie",
+      "mobile": "Dimanches après Pentecôte 23 à 33 et dimanches avant/après les fêtes",
+      "fixed": ["Nativité du Seigneur", "Théophanie", "Sainte Rencontre"]
+    },
+    {
+      "title": "Triode, Carême et Pentecostaire",
+      "mobile": "Triode, Grand Carême, Rameaux, Pâques, Ascension et Pentecôte",
+      "fixed": ["Annonciation — sa rencontre exacte avec le cycle mobile varie selon l’année"]
+    },
+    {
+      "title": "Premiers dimanches après Pentecôte",
+      "mobile": "Dimanches après Pentecôte 1 à 10",
+      "fixed": ["Saints Apôtres Pierre et Paul", "Transfiguration", "Dormition de la Mère de Dieu"]
+    }
+  ],
+  "prototype": {
+    "title": "De Thomas à la Pentecôte",
+    "introduction": "Le temps pascal conduit la personne entière de la rencontre sensible avec le Ressuscité à l’écoute de l’Esprit dans l’Église. Le toucher, le parfum, le relèvement, l’eau, la vue et l’écoute ne s’excluent pas : ils forment une pédagogie progressive sans réduire chaque dimanche à un seul sens.",
+    "stages": [
+      {
+        "id": "thomas",
+        "key": "22_thomas_sunday",
+        "short_label": "Thomas",
+        "title": "Dimanche de Saint Thomas",
+        "position": "Deuxième dimanche de Pâques — première station après l’octave pascale",
+        "sense": "Toucher et souffle",
+        "summary": "Le Ressuscité rejoint les disciples derrière les portes closes. La demande tactile de Thomas est accueillie et conduite jusqu’à la confession : « Mon Seigneur et mon Dieu ».",
+        "readings": { "gospel": "Jean 20, 19-31", "apostle": "Actes 5, 12-20" },
+        "comparison": true,
+        "links": [
+          { "type": "liturgical", "label": "Placement liturgique", "text": "Après l’annonce de Pâques, l’Église demeure avec la question de la rencontre : comment le Ressuscité devient-il personnellement reconnaissable ?" },
+          { "type": "greek", "label": "Lien grec", "text": "θύρα, χείρ et πιστεύω relient les portes, les mains et la foi dans l’Évangile et l’Apôtre." },
+          { "type": "homiletic", "label": "Vers les Myrophores", "text": "Le toucher demandé par Thomas ouvre une pédagogie des sens que le parfum et le soin du corps prolongent au dimanche suivant." }
+        ]
+      },
+      {
+        "id": "myrrhbearers",
+        "key": "23_myrrhbearers",
+        "short_label": "Myrophores",
+        "title": "Dimanche des Myrophores",
+        "position": "Troisième dimanche de Pâques — fidélité au tombeau et annonce à transmettre",
+        "sense": "Parfum et soin du corps",
+        "summary": "Joseph et les femmes prennent soin du corps avant tout signe visible de victoire. Les aromates destinés au mort deviennent le parfum d’un amour surpris par la Résurrection.",
+        "readings": { "gospel": "Marc 15, 43 - 16, 8", "apostle": "Actes 6, 1-7" },
+        "comparison": true,
+        "links": [
+          { "type": "liturgical", "label": "Placement liturgique", "text": "La joie pascale passe par le tombeau réel : la Résurrection ne méprise ni le corps mort ni les gestes silencieux de ceux qui l’honorent." },
+          { "type": "greek", "label": "Lien grec", "text": "θεωροῦσιν et παρεθεωροῦντο rapprochent le regard des femmes et les veuves laissées hors du regard ; λέγω et λόγος conduisent de l’annonce à la croissance de la Parole." },
+          { "type": "homiletic", "label": "De Thomas au relèvement", "text": "Après le toucher vient le parfum ; après le corps honoré viendra le corps relevé du Paralytique. La Pâque rééduque les sens et remet la personne debout." }
+        ]
+      },
+      {
+        "id": "paralytic",
+        "key": "24_paralytic",
+        "short_label": "Paralytique",
+        "title": "Dimanche du Paralytique",
+        "position": "Quatrième dimanche de Pâques — la vie pascale atteint l’homme immobilisé",
+        "sense": "Relèvement et mouvement",
+        "summary": "Le Christ distingue une personne au milieu de la multitude et lui rend la capacité de se lever. Le grabat autrefois subi devient le signe porté d’une vie remise en mouvement.",
+        "readings": { "gospel": "Jean 5, 1-15", "apostle": "Actes 9, 32-42" },
+        "comparison": false,
+        "links": [
+          { "type": "liturgical", "label": "Placement liturgique", "text": "La Résurrection célébrée à Pâques devient relèvement concret : elle rejoint la volonté blessée, le corps immobilisé et la durée de l’attente." },
+          { "type": "greek", "label": "Vers la Samaritaine", "text": "Le même lemme ὕδωρ, « eau », passe de la piscine que le malade ne peut atteindre à l’eau vive que le Christ promet à la Samaritaine." },
+          { "type": "homiletic", "label": "Mouvement intérieur", "text": "« Veux-tu devenir sain ? » prépare le dialogue avec la Samaritaine : le Christ ne traite pas une catégorie, il fait émerger une personne capable de répondre." }
+        ]
+      },
+      {
+        "id": "samaritan",
+        "key": "25_samaritan",
+        "short_label": "Samaritaine",
+        "title": "Dimanche de la Samaritaine",
+        "position": "Cinquième dimanche de Pâques — de l’eau cherchée à la source intérieure",
+        "sense": "Soif, eau et parole",
+        "summary": "La demande du Christ ouvre un dialogue qui traverse les frontières et révèle la soif profonde. Celle qui venait puiser laisse sa cruche et devient témoin auprès de sa ville.",
+        "readings": { "gospel": "Jean 4, 5-42", "apostle": "Actes 11, 19-26 ; 29-30" },
+        "comparison": false,
+        "links": [
+          { "type": "liturgical", "label": "Placement liturgique", "text": "À mi-chemin du Pentecostaire, l’eau vive oriente déjà vers le don de l’Esprit proclamé à la Pentecôte." },
+          { "type": "greek", "label": "Lien grec", "text": "ὕδωρ prolonge l’eau du dimanche du Paralytique ; πιστεύω relie ensuite la foi des Samaritains à celle de l’Aveugle-né et à la croissance de l’Église." },
+          { "type": "homiletic", "label": "Vers l’Aveugle-né", "text": "La soif reconnue devient témoignage ; au dimanche suivant, la vue reçue deviendra confession. Le don sensible conduit à une parole personnelle." }
+        ]
+      },
+      {
+        "id": "blind-man",
+        "key": "26_blind_man",
+        "short_label": "Aveugle-né",
+        "title": "Dimanche de l’Aveugle-né",
+        "position": "Sixième dimanche de Pâques — dernière grande guérison dominicale avant l’Ascension",
+        "sense": "Vue, écoute et confession",
+        "summary": "L’homme passe progressivement de la vue reçue à la reconnaissance du Christ. Face aux certitudes du groupe, il demeure dans la vérité simple de ce qu’il a reçu.",
+        "readings": { "gospel": "Jean 9, 1-38", "apostle": "Actes 16, 16-34" },
+        "comparison": false,
+        "links": [
+          { "type": "liturgical", "label": "Placement liturgique", "text": "La lumière pascale guérit le regard avant que l’Ascension n’oriente les yeux de l’Église vers le Christ élevé." },
+          { "type": "greek", "label": "Lien grec", "text": "βλέπω et πιστεύω conduisent de « je vois » à « je crois » ; dans l’Apôtre, la foi naît au cœur de la nuit lorsque la parole est entendue." },
+          { "type": "homiletic", "label": "Vers l’Ascension", "text": "L’Aveugle-né voit, croit et se prosterne ; après l’Ascension, les disciples se prosternent et retournent dans la joie. Le regard guéri devient adoration et chemin." }
+        ]
+      },
+      {
+        "id": "ascension",
+        "key": null,
+        "short_label": "Ascension",
+        "title": "Ascension du Seigneur",
+        "position": "Quarantième jour après Pâques — jeudi entre l’Aveugle-né et les Saints Pères",
+        "sense": "Regard élevé et attente",
+        "summary": "Le Christ élevé ne s’absente pas de son Église : il inaugure une nouvelle manière de présence et confie aux disciples l’attente de la puissance venue d’en haut.",
+        "readings": { "gospel": "Luc 24, 36-53", "apostle": "Actes 1, 1-12" },
+        "comparison": false,
+        "links": [
+          { "type": "liturgical", "label": "Placement liturgique", "text": "L’Ascension est une fête mobile fixée au quarantième jour de Pâques. Elle ouvre les dix jours d’attente qui conduisent à la Pentecôte." },
+          { "type": "greek", "label": "Lien grec à développer", "text": "ἀναλαμβάνω et ἀναβαίνω portent le mouvement d’élévation ; leur articulation précise sera ajoutée lorsque la fiche interlinéaire de la fête sera intégrée." },
+          { "type": "homiletic", "label": "Vers les Saints Pères", "text": "Le départ visible du Christ ne disperse pas les disciples : il les rassemble dans l’attente. La prière de Jean 17 éclaire alors leur unité confiée au Père." }
+        ]
+      },
+      {
+        "id": "holy-fathers",
+        "key": "27_holy_fathers_1",
+        "short_label": "Saints Pères",
+        "title": "Dimanche des Saints Pères du premier Concile",
+        "position": "Septième dimanche de Pâques — dimanche entre l’Ascension et la Pentecôte",
+        "sense": "Unité, garde et attente",
+        "summary": "Le Christ prie pour ceux qui demeurent dans le monde et les confie à la garde du Père. L’Apôtre donne à cette garde une forme pastorale dans l’Église.",
+        "readings": { "gospel": "Jean 17, 1-13", "apostle": "Actes 20, 16-18 ; 28-36" },
+        "comparison": true,
+        "links": [
+          { "type": "liturgical", "label": "Placement liturgique", "text": "Entre Ascension et Pentecôte, ce dimanche empêche de comprendre l’attente comme un vide : l’Église est gardée dans le nom, la parole, l’unité et la joie du Christ." },
+          { "type": "greek", "label": "Lien grec", "text": "τηρέω et φυλάσσω nomment la garde dans l’Évangile ; προσέχω et ποιμαίνω en manifestent la responsabilité pastorale dans les Actes." },
+          { "type": "homiletic", "label": "Vers la Pentecôte", "text": "L’unité priée n’est pas encore uniformité réalisée par l’homme : elle prépare la communion que l’Esprit donnera sans effacer les langues ni les personnes." }
+        ]
+      },
+      {
+        "id": "pentecost",
+        "key": "28_pentecost",
+        "short_label": "Pentecôte",
+        "title": "Sainte Pentecôte",
+        "position": "Cinquantième jour après Pâques — accomplissement du Pentecostaire",
+        "sense": "Souffle, écoute et langues",
+        "summary": "L’Esprit promis est répandu sur l’assemblée. Chacun entend dans sa propre langue : la communion reçue n’abolit pas l’unicité des personnes.",
+        "readings": { "gospel": "Jean 7, 37-52 ; 8, 12", "apostle": "Actes 2, 1-11" },
+        "comparison": true,
+        "links": [
+          { "type": "liturgical", "label": "Placement liturgique", "text": "La Pentecôte accomplit la promesse pascale et ouvre le temps de la vie de l’Église dans l’Esprit." },
+          { "type": "greek", "label": "Lien grec", "text": "πνεῦμα relie directement la promesse de l’Évangile à son accomplissement dans les Actes ; γλῶσσα et διάλεκτος font entendre l’unité dans la diversité." },
+          { "type": "homiletic", "label": "Accomplissement du parcours", "text": "Le toucher, le parfum, le relèvement, la soif et la vue convergent vers l’écoute : la personne entière devient capable de recevoir et de proclamer les merveilles de Dieu." }
+        ]
+      }
+    ]
+  }
+}
