@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260912-liturgical-table-1';
+    const DATA_VERSION = '20260912-liturgical-ribbon-rows-1';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1322,7 +1322,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const renderMobileCycleRibbon = () => {
         const ribbon = document.getElementById('mobile-calendar-ribbon');
-        if (!ribbon || ribbon.dataset.ready === 'true') return;
+        if (!ribbon) return;
+        ribbon.innerHTML = '';
+        const scale = document.createElement('div');
+        scale.className = 'mobile-ribbon-scale';
+        scale.setAttribute('aria-label', 'Position des grandes périodes autour de Pâques');
         mobileCycleSegments.forEach(segment => {
             const block = document.createElement('div');
             block.className = `mobile-cycle-segment segment-${segment.tone}`;
@@ -1332,17 +1336,49 @@ document.addEventListener('DOMContentLoaded', () => {
             block.style.width = `${Math.max(end - start, 1.4)}%`;
             block.setAttribute('aria-label', segment.label);
             block.textContent = segment.compact ? '' : segment.label;
-            ribbon.appendChild(block);
+            scale.appendChild(block);
         });
-        mobileCycleLandmarks.forEach(landmark => {
-            const marker = document.createElement('span');
-            marker.className = `mobile-cycle-landmark${landmark.main ? ' is-pascha' : ''}`;
-            marker.style.left = `${cyclePercent(landmark.day)}%`;
-            marker.style.setProperty('--landmark-row', String(landmark.row || 0));
-            marker.textContent = landmark.label;
-            ribbon.appendChild(marker);
+        const paschaLabel = document.createElement('span');
+        paschaLabel.className = 'mobile-ribbon-pascha-label';
+        paschaLabel.style.left = `${cyclePercent(0)}%`;
+        paschaLabel.textContent = 'Pâques';
+        scale.appendChild(paschaLabel);
+        ribbon.appendChild(scale);
+        liturgicalSundayRows.forEach(row => {
+            const lane = document.createElement('section');
+            lane.className = `mobile-ribbon-row mobile-ribbon-row-${row.tone}`;
+            lane.setAttribute('aria-label', `${row.eyebrow} — ${row.title}`);
+
+            const heading = document.createElement('div');
+            heading.className = 'mobile-ribbon-row-heading';
+            const eyebrow = document.createElement('span');
+            eyebrow.textContent = row.eyebrow;
+            const title = document.createElement('strong');
+            title.textContent = row.title;
+            heading.append(eyebrow, title);
+
+            const cells = document.createElement('div');
+            cells.className = 'mobile-ribbon-cells';
+            cells.style.setProperty('--ribbon-sunday-count', String(row.keys.length));
+            row.keys.forEach(key => {
+                const fullLabel = liturgicalList[key] || key;
+                const button = document.createElement('button');
+                button.type = 'button';
+                button.className = `mobile-ribbon-sunday${key === currentSundayKey ? ' active' : ''}`;
+                button.dataset.sundayKey = key;
+                button.setAttribute('aria-label', `Ouvrir la péricope : ${fullLabel}`);
+                const label = document.createElement('strong');
+                label.textContent = cleanLiturgicalSundayLabel(fullLabel);
+                const action = document.createElement('small');
+                action.textContent = 'Ouvrir';
+                button.append(label, action);
+                button.addEventListener('click', () => openLiturgicalStageReading({ key }, 'gospel'));
+                cells.appendChild(button);
+            });
+
+            lane.append(heading, cells);
+            ribbon.appendChild(lane);
         });
-        ribbon.dataset.ready = 'true';
     };
 
     const buildFeastPlacement = (feast, year, pascha) => {
