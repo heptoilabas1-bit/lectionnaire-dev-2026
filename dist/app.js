@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260912-comparisons-triode-1';
+    const DATA_VERSION = '20260912-liturgical-table-1';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -66,6 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '326_after_pentecost_26': 'Le Riche insensé (9e de Luc)',
         '327_after_pentecost_27': 'La Femme courbée (10e de Luc)',
         '328_after_pentecost_28': 'Les Dix Lépreux (12e de Luc)',
+        '329_after_pentecost_29': 'Le Grand Souper (11e de Luc)',
         '330_after_pentecost_30': 'Le Jeune Homme Riche (13e de Luc)',
         '331_after_pentecost_31': 'L\'Aveugle de Jéricho (14e de Luc)',
         '332_after_pentecost_32': 'Zachée (15e de Luc)',
@@ -1167,31 +1168,31 @@ document.addEventListener('DOMContentLoaded', () => {
         return liturgicalPathDataPromise;
     };
 
-    const CYCLE_AXIS_MIN = -140;
-    const CYCLE_AXIS_MAX = 280;
+    const CYCLE_AXIS_MIN = -260;
+    const CYCLE_AXIS_MAX = 175;
     const CYCLE_AXIS_SPAN = CYCLE_AXIS_MAX - CYCLE_AXIS_MIN;
     const fixedCycleFeasts = [
+        { id: 'new-year', month: 8, day: 1, short: 'Nouvel an', title: 'Commencement de l’année liturgique' },
+        { id: 'theotokos-nativity', month: 8, day: 8, short: 'Nativité M.D.D.', title: 'Nativité de la Mère de Dieu' },
+        { id: 'cross', month: 8, day: 14, short: 'Sainte-Croix', title: 'Exaltation de la Sainte-Croix' },
+        { id: 'entry-theotokos', month: 10, day: 21, short: 'Entrée M.D.D.', title: 'Entrée au Temple de la Mère de Dieu' },
+        { id: 'nativity', month: 11, day: 25, short: 'Nativité', title: 'Nativité du Seigneur' },
         { id: 'theophany', month: 0, day: 6, short: 'Théophanie', title: 'Théophanie du Seigneur' },
         { id: 'meeting', month: 1, day: 2, short: 'Rencontre', title: 'Sainte Rencontre' },
         { id: 'annunciation', month: 2, day: 25, short: 'Annonciation', title: 'Annonciation à la Mère de Dieu' },
         { id: 'apostles', month: 5, day: 29, short: 'Pierre et Paul', title: 'Saints Apôtres Pierre et Paul' },
         { id: 'transfiguration', month: 7, day: 6, short: 'Transfiguration', title: 'Transfiguration du Seigneur' },
-        { id: 'dormition', month: 7, day: 15, short: 'Dormition', title: 'Dormition de la Mère de Dieu' },
-        { id: 'new-year', month: 8, day: 1, short: 'Nouvel an', title: 'Commencement de l’année liturgique' },
-        { id: 'theotokos-nativity', month: 8, day: 8, short: 'Nativité M.D.D.', title: 'Nativité de la Mère de Dieu' },
-        { id: 'cross', month: 8, day: 14, short: 'Sainte-Croix', title: 'Exaltation de la Sainte-Croix' },
-        { id: 'entry-theotokos', month: 10, day: 21, short: 'Entrée M.D.D.', title: 'Entrée au Temple de la Mère de Dieu' },
-        { id: 'nativity', month: 11, day: 25, short: 'Nativité', title: 'Nativité du Seigneur' }
+        { id: 'dormition', month: 7, day: 15, short: 'Dormition', title: 'Dormition de la Mère de Dieu' }
     ];
     const mobileCycleSegments = [
+        { start: -260, end: -71, label: 'Après Pentecôte · cycle de Luc', tone: 'luke' },
         { start: -70, end: -50, label: 'Triode', tone: 'triodion' },
         { start: -49, end: -8, label: 'Grand Carême', tone: 'lent' },
         { start: -7, end: -1, label: 'Semaine sainte', tone: 'holy-week', compact: true },
         { start: 0, end: 0, label: 'Pâques', tone: 'pascha', compact: true },
         { start: 1, end: 49, label: 'Pentecostaire', tone: 'pentecostarion' },
         { start: 50, end: 122, label: '1er–10e après Pentecôte', tone: 'matthew' },
-        { start: 123, end: 206, label: '11e–22e après Pentecôte', tone: 'after-pentecost' },
-        { start: 207, end: 280, label: 'Suite du cycle mobile', tone: 'luke' }
+        { start: 123, end: 175, label: '11e–17e après Pentecôte', tone: 'after-pentecost' }
     ];
     const mobileCycleLandmarks = [
         { day: -70, label: 'Publicain', row: 0 },
@@ -1202,8 +1203,81 @@ document.addEventListener('DOMContentLoaded', () => {
         { day: 0, label: 'Pâques', main: true },
         { day: 49, label: 'Pentecôte', row: 0 },
         { day: 56, label: 'Tous les Saints', row: 1 },
-        { day: 119, label: '10e Matthieu', row: 0 },
-        { day: 203, label: '22e après Pentecôte', row: 0 }
+        { day: 119, label: '10e Matthieu', row: 0 }
+    ];
+    const liturgicalSundayRows = [
+        {
+            id: 'ecclesial-new-year',
+            eyebrow: '1er septembre · Nouvel an ecclésial',
+            title: 'De Matthieu à l’Exaltation de la Croix',
+            tone: 'matthew',
+            keys: [
+                '311_after_pentecost_11', '312_after_pentecost_12', '313_after_pentecost_13',
+                '314_after_pentecost_14', '315_after_pentecost_15', '316_after_pentecost_16',
+                '317_after_pentecost_17', '96_cross_before', '97_cross_after'
+            ]
+        },
+        {
+            id: 'luke-autumn',
+            eyebrow: 'Automne · Cycle de Luc',
+            title: 'De la pêche miraculeuse au Bon Samaritain',
+            tone: 'luke',
+            keys: [
+                '318_after_pentecost_18', '319_after_pentecost_19', '320_after_pentecost_20',
+                '321_after_pentecost_21', '322_after_pentecost_22', '323_after_pentecost_23',
+                '324_after_pentecost_24', '325_after_pentecost_25'
+            ]
+        },
+        {
+            id: 'luke-winter',
+            eyebrow: 'Fin de l’automne et hiver · Cycle de Luc',
+            title: 'Du Riche insensé à Zachée',
+            tone: 'luke',
+            keys: [
+                '326_after_pentecost_26', '327_after_pentecost_27', '329_after_pentecost_29',
+                '328_after_pentecost_28', '330_after_pentecost_30', '331_after_pentecost_31',
+                '332_after_pentecost_32'
+            ]
+        },
+        {
+            id: 'nativity-theophany',
+            eyebrow: 'Fêtes fixes · Nativité et Théophanie',
+            title: 'Les dimanches qui entourent les fêtes du Seigneur',
+            tone: 'nativity',
+            keys: ['90_advent_2', '91_advent_1', '92_nativity_after', '93_theophany_before', '94_theophany_after']
+        },
+        {
+            id: 'triodion-lent',
+            eyebrow: 'Triode et Grand Carême',
+            title: 'Du Publicain aux Rameaux',
+            tone: 'lent',
+            keys: [
+                '00_publican_pharisee', '01_prodigal_son', '02_meatfare', '03_cheese_fare',
+                '10_great_lent_1', '11_great_lent_2', '12_great_lent_3',
+                '13_great_lent_4', '14_great_lent_5', '15_palm_sunday'
+            ]
+        },
+        {
+            id: 'pascha-pentecost',
+            eyebrow: 'Pâques et Pentecostaire',
+            title: 'De la Résurrection à Tous les Saints',
+            tone: 'pascha',
+            keys: [
+                '21_pascha', '22_thomas_sunday', '23_myrrhbearers', '24_paralytic',
+                '25_samaritan', '26_blind_man', '27_holy_fathers_1', '28_pentecost', '29_all_saints'
+            ]
+        },
+        {
+            id: 'matthew-summer',
+            eyebrow: 'Été · Cycle après la Pentecôte',
+            title: 'Du deuxième au dixième dimanche de Matthieu',
+            tone: 'summer',
+            keys: [
+                '302_after_pentecost_2', '303_after_pentecost_3', '304_after_pentecost_4',
+                '305_after_pentecost_5', '306_after_pentecost_6', '307_after_pentecost_7',
+                '308_after_pentecost_8', '309_after_pentecost_9', '310_after_pentecost_10'
+            ]
+        }
     ];
     let selectedFixedFeastId = 'annunciation';
 
@@ -1272,7 +1346,8 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const buildFeastPlacement = (feast, year, pascha) => {
-        const date = utcDate(year, feast.month, feast.day);
+        const feastYear = feast.month >= 8 ? year : year + 1;
+        const date = utcDate(feastYear, feast.month, feast.day);
         return { ...feast, date, offset: cycleDayDifference(date, pascha) };
     };
 
@@ -1303,12 +1378,12 @@ document.addEventListener('DOMContentLoaded', () => {
         const keyEncounters = document.getElementById('cycle-key-encounters');
         if (!timeline || !ribbon || !yearOutput || !paschaOutput || !keyEncounters) return;
 
-        const pascha = orthodoxPaschaDate(year);
-        const yearStart = utcDate(year, 0, 1);
-        const nextYearStart = utcDate(year + 1, 0, 1);
+        const pascha = orthodoxPaschaDate(year + 1);
+        const yearStart = utcDate(year, 8, 1);
+        const nextYearStart = utcDate(year + 1, 8, 1);
         const yearDays = cycleDayDifference(nextYearStart, yearStart);
         const startOffset = cycleDayDifference(yearStart, pascha);
-        yearOutput.textContent = String(year);
+        yearOutput.textContent = `${year}–${year + 1}`;
         paschaOutput.textContent = `Pâques : ${formatLiturgicalDate(pascha)}`;
         ribbon.style.left = `${cyclePercent(startOffset)}%`;
         ribbon.style.width = `${(yearDays / CYCLE_AXIS_SPAN) * 100}%`;
@@ -1319,7 +1394,7 @@ document.addEventListener('DOMContentLoaded', () => {
         for (let month = 0; month < 12; month += 1) {
             const tick = document.createElement('span');
             tick.className = 'fixed-month-tick';
-            const monthStart = utcDate(year, month, 1);
+            const monthStart = utcDate(year, 8 + month, 1);
             tick.style.left = `${(cycleDayDifference(monthStart, yearStart) / yearDays) * 100}%`;
             tick.textContent = monthFormatter.format(monthStart).replace('.', '');
             ribbon.appendChild(tick);
@@ -1373,12 +1448,71 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!slider) return;
         renderMobileCycleRibbon();
         if (slider.dataset.ready !== 'true') {
-            const currentYear = Math.min(Number(slider.max), Math.max(Number(slider.min), new Date().getFullYear()));
+            const now = new Date();
+            const liturgicalYear = now.getMonth() >= 8 ? now.getFullYear() : now.getFullYear() - 1;
+            const currentYear = Math.min(Number(slider.max), Math.max(Number(slider.min), liturgicalYear));
             slider.value = String(currentYear);
             slider.addEventListener('input', event => updateCycleAlignment(Number(event.target.value)));
             slider.dataset.ready = 'true';
         }
         updateCycleAlignment(Number(slider.value));
+    };
+
+    const cleanLiturgicalSundayLabel = label => String(label || '')
+        .replace(/^[A-D]\.\s*/, '')
+        .replace(/^\d+\.\s*/, '')
+        .trim();
+
+    const renderLiturgicalSundayRows = () => {
+        const container = document.getElementById('liturgical-sunday-rows');
+        if (!container) return;
+        container.innerHTML = '';
+        liturgicalSundayRows.forEach(row => {
+            const section = document.createElement('section');
+            section.className = `liturgical-sunday-row sunday-row-${row.tone}`;
+            section.setAttribute('aria-labelledby', `sunday-row-title-${row.id}`);
+
+            const heading = document.createElement('div');
+            heading.className = 'liturgical-sunday-row-heading';
+            const eyebrow = document.createElement('p');
+            eyebrow.textContent = row.eyebrow;
+            const title = document.createElement('h5');
+            title.id = `sunday-row-title-${row.id}`;
+            title.textContent = row.title;
+            const count = document.createElement('span');
+            count.textContent = `${row.keys.length} accès`;
+            heading.append(eyebrow, title, count);
+
+            const scroll = document.createElement('div');
+            scroll.className = 'liturgical-sunday-row-scroll';
+            scroll.tabIndex = 0;
+            scroll.setAttribute('aria-label', `${row.title} — faire défiler les dimanches`);
+            const grid = document.createElement('div');
+            grid.className = 'liturgical-sunday-grid';
+            grid.style.setProperty('--sunday-count', String(row.keys.length));
+
+            row.keys.forEach((key, index) => {
+                const fullLabel = liturgicalList[key] || key;
+                const button = document.createElement('button');
+                button.type = 'button';
+                button.className = `liturgical-sunday-card${key === currentSundayKey ? ' active' : ''}`;
+                button.dataset.sundayKey = key;
+                button.setAttribute('aria-label', `Ouvrir la péricope : ${fullLabel}`);
+                const number = document.createElement('span');
+                number.textContent = String(index + 1).padStart(2, '0');
+                const label = document.createElement('strong');
+                label.textContent = cleanLiturgicalSundayLabel(fullLabel);
+                const action = document.createElement('small');
+                action.textContent = 'Évangile · Apôtre';
+                button.append(number, label, action);
+                button.addEventListener('click', () => openLiturgicalStageReading({ key }, 'gospel'));
+                grid.appendChild(button);
+            });
+
+            scroll.appendChild(grid);
+            section.append(heading, scroll);
+            container.appendChild(section);
+        });
     };
 
     const openLiturgicalStageReading = async (stage, readingType, compare = false) => {
@@ -1563,6 +1697,7 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('liturgical-path-title').textContent = data.title;
             document.getElementById('liturgical-path-introduction').textContent = data.introduction;
             renderCycleAlignment();
+            renderLiturgicalSundayRows();
             overview.innerHTML = '';
             (data.overview || []).forEach(period => {
                 const card = document.createElement('article');

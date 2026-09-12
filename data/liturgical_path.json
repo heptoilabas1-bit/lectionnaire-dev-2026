@@ -894,7 +894,7 @@
           "sense": "Place, regard et justification",
           "summary": "Deux hommes montent prier, mais l’un utilise sa prière pour se séparer tandis que l’autre n’ose pas lever les yeux. Celui qui s’abaisse repart justifié : le Carême commence par recevoir plutôt que se comparer.",
           "readings": { "gospel": "Luc 18, 10-14", "apostle": "2 Timothée 3, 10-15" },
-          "comparison": false,
+          "comparison": true,
           "links": [
             { "type": "liturgical", "label": "Placement liturgique", "text": "Le Triode s’ouvre avant le jeûne lui-même. L’Église commence par purifier la manière de se tenir devant Dieu afin que l’ascèse ne devienne pas un motif de supériorité." },
             { "type": "greek", "label": "Mouvement grec", "text": "ὑψόω et ταπεινόω dessinent le renversement : s’élever soi-même conduit à l’abaissement, tandis que s’abaisser ouvre à la justification. Le lien avec Zachée est spirituel : tous deux doivent descendre de leur position." },
@@ -910,7 +910,7 @@
           "sense": "Faim, relèvement et étreinte",
           "summary": "Le fils quitte la maison, disperse le don et connaît la faim. Revenu en lui-même, il se lève et marche vers le Père qui court à sa rencontre ; le frère aîné doit encore consentir à entrer dans la joie.",
           "readings": { "gospel": "Luc 15, 11-32", "apostle": "1 Corinthiens 6, 12-20" },
-          "comparison": false,
+          "comparison": true,
           "links": [
             { "type": "liturgical", "label": "Placement liturgique", "text": "Après la prière humble, le Triode révèle le visage de celui vers qui l’homme revient : un Père qui restaure la filiation et invite aussi le frère resté dehors." },
             { "type": "greek", "label": "Fil grec", "text": "ἀναστάς, « s’étant levé », donne au retour une tonalité pascale. σῶμα et ναός dans l’Apôtre rappellent que ce retour engage le corps entier, appelé à devenir demeure de l’Esprit." },
@@ -926,7 +926,7 @@
           "sense": "Visage, faim et responsabilité",
           "summary": "Le Roi s’identifie aux plus petits. Le jugement révèle moins une connaissance cachée qu’une relation concrète : voir, nourrir, accueillir, vêtir et visiter celui en qui le Christ vient à nous.",
           "readings": { "gospel": "Matthieu 25, 31-46", "apostle": "1 Corinthiens 8, 8 - 9, 2" },
-          "comparison": false,
+          "comparison": true,
           "links": [
             { "type": "liturgical", "label": "Placement liturgique", "text": "Au seuil de l’abstinence alimentaire, l’Église empêche de séparer le jeûne du frère : la nourriture devient un lieu de liberté réglée par l’amour." },
             { "type": "greek", "label": "Lien grec direct", "text": "ἀδελφός relie le « plus petit de mes frères » dans l’Évangile au frère dont la conscience peut être blessée dans l’Apôtre. Le visage du Christ et la liberté chrétienne se rencontrent dans le même prochain." },

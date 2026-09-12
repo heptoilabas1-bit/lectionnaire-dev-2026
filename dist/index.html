@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lectionnaire Interlinéaire Orthodoxe</title>
-    <link rel="stylesheet" href="style.css?v=20260912-comparisons-triode-1">
+    <link rel="stylesheet" href="style.css?v=20260912-liturgical-table-1">
 </head>
 <body>
 
@@ -97,18 +97,18 @@
                     <section class="cycle-alignment" aria-labelledby="cycle-alignment-title">
                         <div class="cycle-alignment-heading">
                             <div>
-                                <p class="cycle-alignment-kicker">Pâques reste le point d’ancrage</p>
+                                <p class="cycle-alignment-kicker">Du 1er septembre au 31 août</p>
                                 <h3 id="cycle-alignment-title">Déplacer le ruban des fêtes fixes</h3>
-                                <p class="path-section-intro">Faites glisser l’année : les fêtes gardent leur date, mais changent de place par rapport au cycle pascal.</p>
+                                <p class="path-section-intro">Faites glisser l’année ecclésiale : les fêtes gardent leur date, mais changent de place par rapport au cycle pascal.</p>
                             </div>
                             <div class="cycle-pascha-readout" aria-live="polite">
-                                <span>Année observée</span>
-                                <strong id="cycle-year-output">2026</strong>
-                                <small id="cycle-pascha-output">Pâques : 12 avril</small>
+                                <span>Année ecclésiale</span>
+                                <strong id="cycle-year-output">2026–2027</strong>
+                                <small id="cycle-pascha-output">Pâques : 2 mai</small>
                             </div>
                         </div>
                         <label class="cycle-year-control" for="cycle-year-slider">
-                            <span>Faire glisser le calendrier fixe</span>
+                            <span>Faire glisser le calendrier fixe, de septembre à août</span>
                             <input id="cycle-year-slider" type="range" min="2020" max="2040" value="2026" step="1">
                             <span class="cycle-year-limits" aria-hidden="true"><small>2020</small><small>2040</small></span>
                         </label>
@@ -122,6 +122,14 @@
                         </div>
                         <div id="cycle-encounter-detail" class="cycle-encounter-detail" aria-live="polite"></div>
                         <div id="cycle-key-encounters" class="cycle-key-encounters" aria-label="Repères immédiats"></div>
+                        <section class="liturgical-sundays" aria-labelledby="liturgical-sundays-title">
+                            <div class="liturgical-sundays-heading">
+                                <p>1er septembre · Commencement de l’année ecclésiale</p>
+                                <h4 id="liturgical-sundays-title">Tous les dimanches du parcours</h4>
+                                <span>Chaque case ouvre la péricope interlinéaire correspondante.</span>
+                            </div>
+                            <div id="liturgical-sunday-rows" class="liturgical-sunday-rows"></div>
+                        </section>
                     </section>
                     <section aria-labelledby="liturgical-overview-title">
                         <h3 id="liturgical-overview-title">Les deux cycles au fil de l’année</h3>
@@ -386,7 +394,7 @@
         </div>
     </dialog>
 
-    <script src="app.js?v=20260912-comparisons-triode-1"></script>
+    <script src="app.js?v=20260912-liturgical-table-1"></script>
 
 </body>
 </html>
