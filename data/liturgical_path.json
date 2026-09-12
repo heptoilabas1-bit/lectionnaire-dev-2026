@@ -347,9 +347,9 @@
     },
     {
       "id": "cross-transition",
-      "selector_label": "11e Matthieu → 2e de Luc",
+      "selector_label": "11e–17e Matthieu → 2e de Luc",
       "title": "Du pardon reçu à l’amour sans retour",
-      "introduction": "Ce parcours suit quatre dimanches de Matthieu, traverse les dimanches ordonnés autour de l’Exaltation de la Sainte-Croix, puis entre dans le cycle de Luc. Le fil va d’une dette remise à la gratuité de l’amour des ennemis : ce qui a été reçu de Dieu apprend à circuler sans possession ni calcul.",
+      "introduction": "Ce parcours suit sept dimanches de Matthieu, traverse les dimanches ordonnés autour de l’Exaltation de la Sainte-Croix, puis entre dans le cycle de Luc. Le fil va d’une dette remise à la gratuité de l’amour des ennemis : ce qui a été reçu de Dieu apprend à circuler sans possession ni calcul.",
       "fixed_encounters": [
         {
           "date": "8 septembre",
@@ -425,6 +425,54 @@
             { "type": "liturgical", "label": "Placement liturgique", "text": "Ce dimanche clôt ici la suite régulière de Matthieu avant que les lectures propres à la Croix ne réorientent le calendrier autour de la fête du 14 septembre." },
             { "type": "greek", "label": "Racine et image", "text": "ἀγαθός rappelle la question du jeune homme sur le bien ; ἔνδυμα, le vêtement, dialogue sans identité de racine avec χρίσας et ἀρραβών : Dieu oint, marque et donne les arrhes de l’Esprit pour rendre possible la réponse." },
             { "type": "homiletic", "label": "Vers la Croix", "text": "L’habit des noces ne sert pas à paraître : il manifeste une existence transformée. La Croix révélera précisément la différence entre l’apparence religieuse et la création nouvelle." }
+          ]
+        },
+        {
+          "id": "great-commandment",
+          "key": "315_after_pentecost_15",
+          "short_label": "Grand commandement",
+          "title": "Le plus grand commandement",
+          "position": "Quinzième dimanche de Matthieu — tout l’être est rassemblé dans l’amour de Dieu et du prochain",
+          "sense": "Cœur, lumière et totalité",
+          "summary": "Jésus ne choisit pas une prescription isolée : il rassemble la Loi dans l’amour de Dieu et du prochain. Paul montre où cette unité devient possible : la lumière de Dieu resplendit dans des cœurs fragiles qui portent le trésor du Christ.",
+          "readings": { "gospel": "Matthieu 22, 35-46", "apostle": "2 Corinthiens 4, 6-15" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après l’invitation aux noces, la question se déplace de l’entrée au banquet vers la forme concrète d’une vie revêtue : aimer Dieu de tout son être et le prochain comme soi-même." },
+            { "type": "greek", "label": "Lien grec direct", "text": "καρδία relie précisément les deux lectures : l’Évangile commande d’aimer Dieu de tout son cœur, et l’Apôtre affirme que Dieu a fait briller sa lumière dans nos cœurs. Le même lieu intérieur devient à la fois capacité d’aimer et lieu d’illumination." },
+            { "type": "homiletic", "label": "Vers les talents", "text": "Le cœur unifié ne conserve pas le trésor reçu comme une possession. La parabole suivante demandera comment le don confié peut fructifier au lieu d’être immobilisé par la peur." }
+          ]
+        },
+        {
+          "id": "talents",
+          "key": "316_after_pentecost_16",
+          "short_label": "Talents",
+          "title": "La parabole des talents",
+          "position": "Seizième dimanche de Matthieu — le don confié appelle une réponse libre et féconde",
+          "sense": "Dépôt, temps et confiance",
+          "summary": "Le maître confie ses biens et laisse à chacun l’espace d’une réponse. Deux serviteurs font circuler le dépôt ; le troisième, enfermé dans la peur, l’enterre. Paul appelle à ne pas recevoir la grâce de Dieu en vain : le temps favorable est maintenant.",
+          "readings": { "gospel": "Matthieu 25, 14-30", "apostle": "2 Corinthiens 6, 1-10" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Ce dimanche prolonge le trésor porté dans des vases de terre : la fragilité du dépositaire n’annule pas le don, mais rend visible la confiance du Donateur et la responsabilité de celui qui reçoit." },
+            { "type": "greek", "label": "Rapprochement de sens", "text": "τάλαντον, le bien confié dans l’Évangile, et χάρις, la grâce reçue dans l’Apôtre, ne partagent pas une racine grecque. Leur rapprochement est théologique : dans les deux textes, un don peut être accueilli activement ou rendu κενός, vain et sans fruit." },
+            { "type": "homiletic", "label": "Vers la Cananéenne", "text": "Le serviteur se retire dans la peur et prête au maître un visage dur. La Cananéenne, au contraire, traverse l’apparence du refus : son humilité devient confiance persévérante et parole audacieuse." }
+          ]
+        },
+        {
+          "id": "canaanite-woman",
+          "key": "317_after_pentecost_17",
+          "short_label": "Cananéenne",
+          "title": "La foi de la Cananéenne",
+          "position": "Dix-septième dimanche de Matthieu — une foi venue des frontières ouvre un espace de communion",
+          "sense": "Frontière, cri et demeure",
+          "summary": "Venue d’un territoire extérieur, la femme traverse le silence, reprend humblement l’image des miettes et reçoit la guérison de sa fille. Paul décrit l’accomplissement vers lequel tend cette proximité : Dieu habite et marche au milieu de son peuple.",
+          "readings": { "gospel": "Matthieu 15, 21-28", "apostle": "2 Corinthiens 6, 16 - 7, 1" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après le don paralysé par la peur, l’Église contemple une femme qui ne possède aucun titre mais s’avance avec une foi active. La frontière extérieure devient le lieu où se révèle une proximité véritable." },
+            { "type": "greek", "label": "Rapprochement sans racine commune", "text": "τέκνα et κυνάρια organisent dans l’Évangile l’image de la maison et de ses limites ; ἐνοικέω et ναός décrivent dans l’Apôtre la demeure du Dieu vivant. Il ne s’agit pas d’une identité lexicale, mais d’un déplacement commun : de la séparation apparente vers une présence accueillie." },
+            { "type": "homiletic", "label": "Vers la Croix", "text": "Le silence du Christ n’est pas le dernier mot : il conduit la foi jusqu’à une communion qui déborde les frontières. Les dimanches de la Croix montreront que ce passage s’accomplit par le Fils élevé et par le disciple appelé à perdre sa vie pour la recevoir." }
           ]
         },
         {
@@ -577,6 +625,440 @@
             { "type": "liturgical", "label": "Placement liturgique", "text": "Le mouvement commencé à Naïn s’accomplit ici sous une forme plus complexe : la compassion traverse l’attente, la foule, la peur et l’annonce de la mort pour rejoindre deux personnes singulières." },
             { "type": "greek", "label": "Lien grec direct", "text": "εἰρήνη relie directement les lectures : « va en paix » dit Jésus à la femme ; « il est notre paix » proclame l’Apôtre. La guérison personnelle et la destruction du mur de séparation procèdent du même Christ." },
             { "type": "homiletic", "label": "Accomplissement du parcours", "text": "Le cortège de mort arrêté à Naïn devient ici une marche patiente vers la maison de Jaïre. Entre les deux, la Parole a enseigné à écouter, voir le pauvre, restaurer l’exclu et appeler chacun par une relation nouvelle." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "late-luke",
+      "selector_label": "8e de Luc → Zachée",
+      "title": "Les derniers repères du cycle de Luc",
+      "sequence_type": "variable",
+      "introduction": "Cette partie est volontairement présentée sans ligne continue : selon la date de Pâques, la coupure de Luc et les fêtes fixes, l’ordre calendaire concret peut varier. Les numéros liturgiques demeurent des repères ; les liens grecs et homilétiques permettent de percevoir leur cohérence sans fabriquer une chronologie universelle.",
+      "fixed_encounters": [
+        {
+          "date": "21 novembre",
+          "title": "Entrée au Temple de la Mère de Dieu",
+          "echo": "Cette fête fixe traverse la période du cycle de Luc. Elle donne une profondeur ecclésiale aux thèmes de l’accueil, de la demeure et de la consécration."
+        },
+        {
+          "date": "25 décembre",
+          "title": "Nativité du Seigneur",
+          "echo": "Les dimanches propres de la Nativité interrompent la suite ordinaire de Luc. Leur parcours détaillé constitue le bloc suivant."
+        },
+        {
+          "date": "6 janvier",
+          "title": "Sainte Théophanie",
+          "echo": "Autour de la Théophanie, des lectures propres prennent le relais. Après elles, le cycle de Luc conduit progressivement vers Zachée et l’ouverture du Triode."
+        }
+      ],
+      "stages": [
+        {
+          "id": "good-samaritan",
+          "key": "325_after_pentecost_25",
+          "short_label": "Bon Samaritain",
+          "title": "Le Bon Samaritain",
+          "position": "Huitième dimanche de Luc — de la définition du prochain à l’acte de proximité",
+          "sense": "Descente, compassion et soin",
+          "summary": "La question « qui est mon prochain ? » devient une autre question : de qui vais-je me faire proche ? Le Samaritain voit, s’approche, soigne et confie l’homme blessé à une demeure d’accueil.",
+          "readings": { "gospel": "Luc 10, 25-37", "apostle": "Éphésiens 4, 1-7" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après les guérisons où le Christ rejoint une personne dans la foule, l’Église entend l’ordre de reproduire ce mouvement : ne pas passer à distance, mais devenir soi-même prochain." },
+            { "type": "greek", "label": "Lien de sens grec", "text": "πλησίον, le prochain, et ἑνότης, l’unité, ne partagent pas de racine. Ils forment cependant un lien sémantique précis : l’unité de l’Esprit devient visible lorsque quelqu’un s’approche et porte l’autre avec patience." },
+            { "type": "homiletic", "label": "Vers le riche insensé", "text": "Le Samaritain dépense pour sauver une vie ; le riche du repère suivant accumule pour sécuriser la sienne. Les deux récits opposent une richesse qui circule à une richesse enfermée." }
+          ]
+        },
+        {
+          "id": "rich-fool",
+          "key": "326_after_pentecost_26",
+          "short_label": "Riche insensé",
+          "title": "Le riche insensé",
+          "position": "Neuvième dimanche de Luc — l’abondance enfermée devient solitude",
+          "sense": "Accumulation, nuit et éveil",
+          "summary": "Le riche ne dialogue qu’avec lui-même et construit de plus grands greniers. La nuit révèle la fragilité de ce faux repos, tandis que l’Apôtre appelle à marcher comme des enfants de lumière.",
+          "readings": { "gospel": "Luc 12, 16-21", "apostle": "Éphésiens 5, 8-19" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Dans la période qui conduit vers la Nativité, cette péricope interroge la manière de recevoir l’abondance : comme réserve refermée sur soi ou comme don capable de circuler." },
+            { "type": "greek", "label": "Lien grec direct", "text": "ἄφρων dans l’Évangile et ἄφρονες dans l’Apôtre sont deux formes du même mot : l’insensé accumule sans discerner sa nuit ; Paul appelle au contraire à comprendre le temps et la volonté du Seigneur." },
+            { "type": "homiletic", "label": "Vers la femme courbée", "text": "Le riche est intérieurement replié autour de ses biens ; la femme courbée porte ce repli dans son corps. Le Christ délivre d’une existence incapable de regarder au-delà d’elle-même." }
+          ]
+        },
+        {
+          "id": "bent-woman",
+          "key": "327_after_pentecost_27",
+          "short_label": "Femme courbée",
+          "title": "La femme courbée",
+          "position": "Dixième dimanche de Luc — le sabbat retrouve sa finalité de libération",
+          "sense": "Lien défait et stature retrouvée",
+          "summary": "Jésus voit, appelle et délie une femme tenue courbée depuis dix-huit ans. Redressée, elle glorifie Dieu ; l’Apôtre apprend à tenir debout contre ce qui asservit sans transformer les personnes en ennemis.",
+          "readings": { "gospel": "Luc 13, 10-17", "apostle": "Éphésiens 6, 10-17" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Le cycle de Luc replace la Loi dans son accomplissement : le jour consacré à Dieu ne peut devenir un prétexte pour différer la délivrance d’une fille d’Abraham." },
+            { "type": "greek", "label": "Structure grecque", "text": "λύω et ses formes nomment dans l’Évangile le fait de délier ; ἵστημι et ses formes ordonnent l’Apôtre autour du fait de tenir debout. Les racines diffèrent, mais la progression corporelle est explicite : déliée, puis redressée." },
+            { "type": "homiletic", "label": "Vers les dix lépreux", "text": "La femme glorifie Dieu dès son redressement. Parmi dix hommes purifiés, un seul fera demi-tour pour glorifier et rendre grâce : la guérison appelle une réponse personnelle." }
+          ]
+        },
+        {
+          "id": "ten-lepers",
+          "key": "328_after_pentecost_28",
+          "short_label": "Dix lépreux",
+          "title": "Les dix lépreux",
+          "position": "Douzième dimanche de Luc — de la purification reçue au salut reconnu",
+          "sense": "Demi-tour, gratitude et vêtement nouveau",
+          "summary": "Dix sont purifiés en chemin, mais un seul revient rendre grâce. Le Christ distingue la guérison reçue du salut accueilli dans une relation ; l’Apôtre décrit le dépouillement du vieil homme et le vêtement nouveau.",
+          "readings": { "gospel": "Luc 17, 12-19", "apostle": "Colossiens 3, 4-11" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Ce repère de Luc met au centre l’eucharistie au sens premier d’action de grâce : le don de Dieu ne devient pleinement relationnel que lorsqu’il reconduit vers sa source." },
+            { "type": "greek", "label": "Deux fils grecs", "text": "εὐχαριστέω nomme le retour reconnaissant et σέσωκέν le salut. ἐνδυσάμενοι, « ayant revêtu », ouvre aussi le passage vers l’Apôtre du jeune homme riche, qui commandera de revêtir la compassion." },
+            { "type": "homiletic", "label": "Vers le jeune homme riche", "text": "L’étranger revient librement après avoir reçu ; le chef riche demandera comment recevoir la vie tout en restant retenu par ses biens. La gratitude prépare le dessaisissement." }
+          ]
+        },
+        {
+          "id": "luke-rich-ruler",
+          "key": "330_after_pentecost_30",
+          "short_label": "Chef riche",
+          "title": "Le chef riche",
+          "position": "Treizième dimanche de Luc — une reprise lucanienne de la question du salut",
+          "sense": "Dépouillement, vêtement et possibilité",
+          "summary": "Le chef demande ce qu’il doit faire pour hériter de la vie. Jésus dévoile ce qui le retient ; l’Apôtre montre que le dépouillement chrétien n’est pas une nudité, mais le revêtement de la compassion et de l’amour.",
+          "readings": { "gospel": "Luc 18, 18-27", "apostle": "Colossiens 3, 12-16" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "La reprise par Luc d’une péricope déjà entendue chez Matthieu fait percevoir un approfondissement : garder les commandements ne suffit pas si le cœur demeure encerclé par ce qu’il possède." },
+            { "type": "greek", "label": "Racines reprises", "text": "ἀδύνατα et δυνατά reprennent encore la famille de δύναμις. Ἐνδύσασθε répond directement à ἐνδυσάμενοι du repère précédent : l’homme nouveau se revêt de compassion, d’humilité et de patience." },
+            { "type": "homiletic", "label": "Vers l’aveugle de Jéricho", "text": "Le chef voit Jésus mais repart triste ; l’aveugle ne le voit pas encore mais crie et le suit. L’absence de vue physique peut cacher une orientation plus juste du désir." }
+          ]
+        },
+        {
+          "id": "blind-jericho",
+          "key": "331_after_pentecost_31",
+          "short_label": "Aveugle de Jéricho",
+          "title": "L’aveugle de Jéricho",
+          "position": "Quatorzième dimanche de Luc — du bord du chemin à la suite du Christ",
+          "sense": "Cri, miséricorde et vue",
+          "summary": "La foule cherche à faire taire l’aveugle, mais son cri atteint le Christ. Interrogé personnellement, il demande la vue ; sauvé par la foi, il se met à suivre Jésus en glorifiant Dieu.",
+          "readings": { "gospel": "Luc 18, 35-43", "apostle": "1 Timothée 1, 15-17" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "À l’approche de Zachée et du Triode, la péricope recentre la vie spirituelle sur une supplication personnelle : reconnaître son besoin et appeler le Christ malgré le bruit du groupe." },
+            { "type": "greek", "label": "Lien grec direct", "text": "ἐλέησόν, « prends pitié », dans l’Évangile et ἠλεήθην, « j’ai obtenu miséricorde », dans l’Apôtre appartiennent à la même famille : le cri du pauvre répond au témoignage de Paul sauvé le premier parmi les pécheurs." },
+            { "type": "homiletic", "label": "Vers Zachée", "text": "L’aveugle cherche à voir et finit par suivre ; Zachée cherchera lui aussi à voir Jésus, mais devra descendre de la position qu’il s’est construite pour l’observer." }
+          ]
+        },
+        {
+          "id": "zacchaeus",
+          "key": "332_after_pentecost_32",
+          "short_label": "Zachée",
+          "title": "Zachée",
+          "position": "Quinzième dimanche de Luc — seuil traditionnel du temps préparatoire au Triode",
+          "sense": "Voir, descendre et accueillir",
+          "summary": "Zachée cherche à voir Jésus depuis un arbre, mais découvre qu’il est déjà vu et appelé. Sa descente ouvre sa maison, sa joie et ses biens ; le salut advient aujourd’hui dans une relation restaurée.",
+          "readings": { "gospel": "Luc 19, 1-10", "apostle": "1 Timothée 4, 9-15" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Zachée forme la charnière entre le cycle de Luc et le Triode. Avant les grandes paraboles de conversion, l’Église contemple un publicain que le regard et la présence du Christ mettent en mouvement." },
+            { "type": "greek", "label": "Mot et mouvement grecs", "text": "σήμερον affirme que le salut n’est pas différé ; κατάβηθι ordonne la descente concrète. Le lien avec le Triode est homilétique plutôt qu’étymologique : l’abaissement rend possible l’accueil." },
+            { "type": "homiletic", "label": "Vers le Publicain et le Pharisien", "text": "Zachée descend pour recevoir le Christ ; bientôt, un autre publicain n’osera pas lever les yeux et descendra justifié. Le cycle se referme sur une même conversion du regard, de la place et de la relation à Dieu." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nativity-theophany",
+      "selector_label": "Nativité → Théophanie",
+      "title": "De l’attente des Ancêtres à la lumière de la Théophanie",
+      "introduction": "Ce parcours est ordonné par deux fêtes fixes, la Nativité et la Théophanie, entourées de dimanches propres. L’histoire des générations, la fuite, le désert et la prédication dans les marges montrent que l’Incarnation entre dans une histoire réelle pour l’ouvrir à la lumière du Royaume.",
+      "fixed_encounters": [
+        {
+          "date": "25 décembre",
+          "title": "Nativité selon la chair de notre Seigneur",
+          "echo": "La fête fixe accomplit l’attente des Ancêtres et donne son centre aux dimanches avant et après la Nativité."
+        },
+        {
+          "date": "6 janvier",
+          "title": "Sainte Théophanie",
+          "echo": "Le baptême du Seigneur manifeste la Trinité et donne leur orientation aux dimanches avant et après la fête."
+        },
+        {
+          "date": "2 février",
+          "title": "Sainte Rencontre",
+          "echo": "Quarante jours après la Nativité, la rencontre de Syméon reçoit dans le Temple la lumière venue dans le monde et prépare la transition vers le temps mobile du Triode."
+        }
+      ],
+      "stages": [
+        {
+          "id": "holy-ancestors",
+          "key": "90_advent_2",
+          "short_label": "Saints Ancêtres",
+          "title": "Dimanche des Saints Ancêtres",
+          "position": "Deuxième dimanche avant la Nativité — l’invitation adressée à travers l’histoire",
+          "sense": "Appel, refus et maison remplie",
+          "summary": "Le grand repas est préparé, mais les premiers invités s’enferment dans leurs acquisitions et leurs occupations. L’appel rejoint alors les pauvres et les exclus afin que la maison soit remplie.",
+          "readings": { "gospel": "Luc 14, 16-24", "apostle": "Colossiens 3, 4-11" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "En commémorant les Ancêtres, l’Église ne célèbre pas une noblesse du passé : elle entend l’invitation de Dieu parcourir l’histoire et appeler un peuple disponible à l’Incarnation." },
+            { "type": "greek", "label": "Fil grec repris", "text": "ἀπεκδυσάμενοι et ἐνδυσάμενοι, se dépouiller et se revêtir, reprennent l’Apôtre des dix lépreux. L’invitation au banquet demande de quitter les identités qui enferment pour revêtir l’homme nouveau." },
+            { "type": "homiletic", "label": "Vers la généalogie", "text": "La maison doit se remplir ; la généalogie montrera comment Dieu accueille une histoire humaine concrète, irrégulière et blessée pour y faire demeurer l’Emmanuel." }
+          ]
+        },
+        {
+          "id": "genealogy",
+          "key": "91_advent_1",
+          "short_label": "Généalogie",
+          "title": "Dimanche avant la Nativité : la généalogie du Seigneur",
+          "position": "Dimanche précédant le 25 décembre — mémoire de l’attente et entrée de Dieu dans les générations",
+          "sense": "Noms, histoire et accomplissement",
+          "summary": "La généalogie ne présente pas une lignée idéale : elle reçoit des fidélités, des ruptures et des recommencements. L’Emmanuel assume cette histoire pour accomplir la promesse sans effacer les personnes.",
+          "readings": { "gospel": "Matthieu 1, 1-25", "apostle": "Hébreux 11, 9-10 ; 32-40" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "À la veille de la Nativité, l’Église rassemble les générations et les témoins de la foi : la naissance du Christ accomplit une attente ancienne et ouvre cette histoire jusqu’à nous." },
+            { "type": "greek", "label": "Lien de structure", "text": "γεννάω rythme la généalogie par les engendrements ; πίστις rythme l’Apôtre par la foi. Les racines ne sont pas communes : le lien tient à une histoire transmise charnellement et reçue dans la confiance." },
+            { "type": "homiletic", "label": "Vers la fuite en Égypte", "text": "L’Emmanuel entre dans l’histoire sans être protégé de sa violence. Après la fête, l’enfant promis devra être porté, caché et conduit sur les chemins de l’exil." }
+          ]
+        },
+        {
+          "id": "flight-egypt",
+          "key": "92_nativity_after",
+          "short_label": "Fuite en Égypte",
+          "title": "Dimanche après la Nativité : la fuite en Égypte",
+          "position": "Dimanche suivant le 25 décembre — le Verbe incarné rejoint l’exil et la menace",
+          "sense": "Veille, retrait et révélation",
+          "summary": "Joseph reçoit dans la nuit la mission de préserver l’enfant. La violence d’Hérode ne détruit pas le dessein de Dieu, mais l’Incarnation se révèle d’emblée solidaire des familles déplacées et menacées.",
+          "readings": { "gospel": "Matthieu 2, 13-23", "apostle": "Galates 1, 11-19" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "L’après-fête empêche de réduire Noël à une image paisible : celui qui vient sauver le monde entre dans une histoire où il faut discerner, se lever de nuit et protéger la vie." },
+            { "type": "greek", "label": "Mot commun essentiel", "text": "υἱός, le Fils, unit le mouvement des lectures : l’Évangile montre le Fils appelé hors d’Égypte ; l’Apôtre témoigne du Fils révélé en Paul. Le lien est christologique avant d’être biographique." },
+            { "type": "homiletic", "label": "Vers le désert", "text": "Après les déplacements imposés par la menace, le dimanche avant la Théophanie conduit volontairement au désert : non pour fuir l’histoire, mais pour préparer le chemin du Seigneur." }
+          ]
+        },
+        {
+          "id": "before-theophany",
+          "key": "93_theophany_before",
+          "short_label": "Avant Théophanie",
+          "title": "Dimanche avant la Théophanie",
+          "position": "Dimanche précédant le 6 janvier — le désert prépare la manifestation",
+          "sense": "Chemin, eau et attente de l’Esprit",
+          "summary": "Jean appelle à préparer le chemin et baptise dans l’eau en annonçant celui qui baptisera dans l’Esprit Saint. Paul, au terme de sa course, attend la manifestation du Seigneur.",
+          "readings": { "gospel": "Marc 1, 1-8", "apostle": "2 Timothée 4, 5-8" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Ce dimanche ouvre directement la fête du baptême du Seigneur : l’eau, la conversion et la voix du Précurseur disposent l’assemblée à la manifestation trinitaire." },
+            { "type": "greek", "label": "Contraste grec", "text": "ἀρχή, « commencement », ouvre l’Évangile ; ἀνάλυσις et ἐπιφάνεια orientent l’Apôtre vers le départ et la manifestation attendue. Il s’agit d’une structure de seuil, non d’une racine commune." },
+            { "type": "homiletic", "label": "Vers la lumière après la fête", "text": "Préparer le chemin ne s’achève pas au Jourdain. Après la Théophanie, la lumière reçue commencera à rayonner dans les régions considérées comme périphériques." }
+          ]
+        },
+        {
+          "id": "after-theophany",
+          "key": "94_theophany_after",
+          "short_label": "Après Théophanie",
+          "title": "Dimanche après la Théophanie",
+          "position": "Dimanche suivant le 6 janvier — la manifestation devient prédication du Royaume",
+          "sense": "Lumière, métanoïa et dons",
+          "summary": "Jésus se retire en Galilée et la lumière se lève dans les marges. Sa première proclamation appelle à la métanoïa, tandis que l’Apôtre décrit le Christ descendu et monté qui distribue ses dons pour édifier son Corps.",
+          "readings": { "gospel": "Matthieu 4, 12-17", "apostle": "Éphésiens 4, 7-13" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "L’après-fête transforme la manifestation contemplée en mission : la lumière du Jourdain se porte vers les marges et la proximité du Royaume demande une réponse." },
+            { "type": "greek", "label": "Structure verticale", "text": "καταβαίνω et ἀναβαίνω reviennent explicitement dans l’Apôtre : le Christ descend, monte et remplit toutes choses. Ce mouvement rejoint les dimanches de la Croix sans réduire le mystère à un simple schéma spatial." },
+            { "type": "homiletic", "label": "Vers le Triode", "text": "La proclamation « convertissez-vous » ouvre déjà le prochain cycle. Le Triode montrera concrètement la métanoïa dans la prière du publicain, le retour du fils et le pardon offert." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "triodion-pascha",
+      "selector_label": "Triode → Pâques",
+      "title": "Du Publicain à la lumière de Pâques",
+      "introduction": "Le cycle mobile se referme et recommence ici. Le Triode prépare la conversion, le Grand Carême en éprouve la vérité dans la foi, la Croix, la prière et le service, puis les Rameaux conduisent vers la Pâque. Chaque dimanche n’est pas une leçon isolée, mais une étape de la descente avec le Christ et du relèvement en lui.",
+      "fixed_encounters": [
+        {
+          "date": "25 mars",
+          "title": "Annonciation à la Mère de Dieu",
+          "echo": "Cette fête fixe peut rencontrer le Grand Carême, les Rameaux ou même la période pascale selon les années. Elle ne quitte jamais son annonce centrale : le Verbe assume librement notre chair."
+        }
+      ],
+      "stages": [
+        {
+          "id": "publican-pharisee",
+          "key": "00_publican_pharisee",
+          "short_label": "Publicain",
+          "title": "Le Publicain et le Pharisien",
+          "position": "Premier dimanche du Triode — la préparation commence par la vérité de la prière",
+          "sense": "Place, regard et justification",
+          "summary": "Deux hommes montent prier, mais l’un utilise sa prière pour se séparer tandis que l’autre n’ose pas lever les yeux. Celui qui s’abaisse repart justifié : le Carême commence par recevoir plutôt que se comparer.",
+          "readings": { "gospel": "Luc 18, 10-14", "apostle": "2 Timothée 3, 10-15" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Le Triode s’ouvre avant le jeûne lui-même. L’Église commence par purifier la manière de se tenir devant Dieu afin que l’ascèse ne devienne pas un motif de supériorité." },
+            { "type": "greek", "label": "Mouvement grec", "text": "ὑψόω et ταπεινόω dessinent le renversement : s’élever soi-même conduit à l’abaissement, tandis que s’abaisser ouvre à la justification. Le lien avec Zachée est spirituel : tous deux doivent descendre de leur position." },
+            { "type": "homiletic", "label": "Vers le fils prodigue", "text": "Le publicain revient chez lui justifié ; le fils prodigue rentrera en lui-même avant de revenir vers son père. La conversion passe d’une place vraie à un chemin de retour." }
+          ]
+        },
+        {
+          "id": "prodigal-son",
+          "key": "01_prodigal_son",
+          "short_label": "Fils prodigue",
+          "title": "Le fils prodigue et le Père miséricordieux",
+          "position": "Deuxième dimanche du Triode — retour de la dispersion à la maison du Père",
+          "sense": "Faim, relèvement et étreinte",
+          "summary": "Le fils quitte la maison, disperse le don et connaît la faim. Revenu en lui-même, il se lève et marche vers le Père qui court à sa rencontre ; le frère aîné doit encore consentir à entrer dans la joie.",
+          "readings": { "gospel": "Luc 15, 11-32", "apostle": "1 Corinthiens 6, 12-20" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après la prière humble, le Triode révèle le visage de celui vers qui l’homme revient : un Père qui restaure la filiation et invite aussi le frère resté dehors." },
+            { "type": "greek", "label": "Fil grec", "text": "ἀναστάς, « s’étant levé », donne au retour une tonalité pascale. σῶμα et ναός dans l’Apôtre rappellent que ce retour engage le corps entier, appelé à devenir demeure de l’Esprit." },
+            { "type": "homiletic", "label": "Vers le Jugement", "text": "Le Père accueille sans humilier ; le dimanche suivant montrera que cette miséricorde reçue se vérifie dans la manière d’accueillir le frère affamé, étranger, malade ou prisonnier." }
+          ]
+        },
+        {
+          "id": "last-judgment",
+          "key": "02_meatfare",
+          "short_label": "Jugement",
+          "title": "Le Jugement dernier",
+          "position": "Dimanche du Carnaval — dernier jour de consommation de viande avant Pâques",
+          "sense": "Visage, faim et responsabilité",
+          "summary": "Le Roi s’identifie aux plus petits. Le jugement révèle moins une connaissance cachée qu’une relation concrète : voir, nourrir, accueillir, vêtir et visiter celui en qui le Christ vient à nous.",
+          "readings": { "gospel": "Matthieu 25, 31-46", "apostle": "1 Corinthiens 8, 8 - 9, 2" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Au seuil de l’abstinence alimentaire, l’Église empêche de séparer le jeûne du frère : la nourriture devient un lieu de liberté réglée par l’amour." },
+            { "type": "greek", "label": "Lien grec direct", "text": "ἀδελφός relie le « plus petit de mes frères » dans l’Évangile au frère dont la conscience peut être blessée dans l’Apôtre. Le visage du Christ et la liberté chrétienne se rencontrent dans le même prochain." },
+            { "type": "homiletic", "label": "Vers le Pardon", "text": "Reconnaître le Christ dans le frère prépare le geste décisif qui ouvre le Carême : demander et offrir le pardon afin d’entrer ensemble dans le jeûne." }
+          ]
+        },
+        {
+          "id": "forgiveness-sunday",
+          "key": "03_cheese_fare",
+          "short_label": "Pardon",
+          "title": "Dimanche du Pardon",
+          "position": "Dernier dimanche avant le Grand Carême — entrée commune dans le jeûne",
+          "sense": "Pardon, visage et trésor",
+          "summary": "Le pardon, le jeûne et le trésor appartiennent à un seul mouvement du cœur. L’Apôtre appelle à sortir du sommeil, à revêtir le Christ et à accueillir le frère sans jugement.",
+          "readings": { "gospel": "Matthieu 6, 14-21", "apostle": "Romains 13, 11 - 14, 4" },
+          "comparison": true,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Les vêpres du Pardon font passer l’enseignement à l’acte. Le Carême ne commence pas comme un exploit individuel, mais par une communion restaurée." },
+            { "type": "greek", "label": "Trois racines structurantes", "text": "ἀφίημι nomme le pardon qui délie ; ἐνδύω le revêtement du Christ ; ἵστημι la grâce par laquelle le frère tient debout. Ces mots relient l’intériorité, le corps et la communauté." },
+            { "type": "homiletic", "label": "Vers l’Orthodoxie", "text": "Le regard purifié du jugement et de l’apparence sera invité à « venir et voir ». La restauration de la relation prépare la contemplation de l’image du Christ dans l’homme." }
+          ]
+        },
+        {
+          "id": "orthodoxy-sunday",
+          "key": "10_great_lent_1",
+          "short_label": "Orthodoxie",
+          "title": "Premier dimanche du Grand Carême : Triomphe de l’Orthodoxie",
+          "position": "Premier dimanche du Carême — confession du Verbe incarné et restauration de l’image",
+          "sense": "Voir, confesser et suivre",
+          "summary": "Philippe transmet une invitation simple : « viens et vois ». Nathanaël découvre qu’il était déjà vu par le Christ ; sa confession ouvre la promesse d’un ciel ouvert.",
+          "readings": { "gospel": "Jean 1, 43-51", "apostle": "Hébreux 11, 24-26 ; 32 - 12, 2" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après la première semaine de jeûne, l’Église confesse que le Verbe s’est réellement fait chair et peut être représenté : l’ascèse vise la restauration de l’image, non le mépris du corps." },
+            { "type": "greek", "label": "Regard et foi", "text": "ὁράω structure l’invitation à voir, tandis que πίστις et ἀφορῶντες orientent l’Apôtre vers Jésus. Les racines diffèrent : le lien unit l’expérience de la rencontre et la persévérance de la foi." },
+            { "type": "homiletic", "label": "Vers le paralytique", "text": "Nathanaël est rejoint sous le figuier et appelé au chemin ; le paralytique sera rejoint dans une maison parce que d’autres accepteront de le porter jusqu’au Christ." }
+          ]
+        },
+        {
+          "id": "lent-paralytic",
+          "key": "11_great_lent_2",
+          "short_label": "Paralytique",
+          "title": "Deuxième dimanche du Carême : le paralytique",
+          "position": "Dimanche de saint Grégoire Palamas — la grâce atteint la racine et rend le mouvement",
+          "sense": "Portage, pardon et relèvement",
+          "summary": "Quatre hommes ouvrent le toit pour porter le paralytique devant Jésus. Le Christ commence par remettre les péchés puis rend visible son autorité en relevant le corps.",
+          "readings": { "gospel": "Marc 2, 1-12", "apostle": "Hébreux 1, 10 - 2, 3" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "La commémoration de saint Grégoire Palamas rappelle que la grâce n’est pas une idée extérieure : l’action divine rejoint réellement l’homme, le pardonne et le transforme." },
+            { "type": "greek", "label": "Racines du salut", "text": "ἀφίημι poursuit le fil du Pardon ; ἐγείρω nomme le relèvement ; σωτηρία dans l’Apôtre élargit la guérison visible au salut qu’il ne faut pas négliger." },
+            { "type": "homiletic", "label": "Vers la Croix", "text": "Le paralytique est porté jusqu’au Christ ; au dimanche suivant, chacun sera appelé à prendre sa croix et à suivre. Être porté par la communauté rend possible le portage personnel." }
+          ]
+        },
+        {
+          "id": "lent-cross",
+          "key": "12_great_lent_3",
+          "short_label": "Croix",
+          "title": "Troisième dimanche du Carême : vénération de la Croix",
+          "position": "Milieu du Grand Carême — la Croix est dressée comme force et orientation",
+          "sense": "Renoncement, passage et grâce",
+          "summary": "Le Christ appelle à renoncer à soi, prendre sa croix et le suivre. L’Apôtre invite simultanément à s’approcher avec assurance du trône de la grâce auprès du grand prêtre compatissant.",
+          "readings": { "gospel": "Marc 8, 34 - 9, 1", "apostle": "Hébreux 4, 14 - 5, 6" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Au milieu de l’effort quadragésimal, la Croix ne vient pas accabler mais réorienter : le chemin du jeûne reçoit son centre dans la Pâque du Christ." },
+            { "type": "greek", "label": "Lien de mouvement", "text": "ἀκολουθέω, suivre, reprend l’appel des disciples ; προσέρχομαι, s’approcher, décrit dans l’Apôtre le mouvement confiant vers la grâce. Les deux verbes convergent sans partager leur racine." },
+            { "type": "homiletic", "label": "Vers saint Jean Climaque", "text": "Prendre la Croix n’est pas disposer immédiatement d’une foi parfaite. Le père de l’enfant éprouvé apprendra à suivre au cœur même de son manque de foi." }
+          ]
+        },
+        {
+          "id": "lent-child",
+          "key": "13_great_lent_4",
+          "short_label": "Jean Climaque",
+          "title": "Quatrième dimanche du Carême : saint Jean Climaque",
+          "position": "Quatrième dimanche du Carême — foi éprouvée, prière et persévérance",
+          "sense": "Cri, main et ancre",
+          "summary": "Un père confesse ensemble sa foi et son manque de foi. Jésus prend l’enfant par la main et le relève ; l’Apôtre présente l’espérance comme une ancre pénétrant au-delà du voile.",
+          "readings": { "gospel": "Marc 9, 17-31", "apostle": "Hébreux 6, 13-20" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "La mémoire de saint Jean Climaque situe l’ascèse dans une montée patiente. L’échelle spirituelle n’abolit ni les chutes ni le besoin d’appeler le Christ au secours." },
+            { "type": "greek", "label": "Tension grecque", "text": "πιστεύω et ἀπιστία sont réunis dans la même prière : « je crois, viens au secours de mon manque de foi ». ἐλπίς, l’espérance de l’Apôtre, maintient cette foi ancrée au-delà de ce qu’elle maîtrise." },
+            { "type": "homiletic", "label": "Vers sainte Marie l’Égyptienne", "text": "La foi fragile est relevée par la main du Christ ; le dimanche suivant montrera une longue existence relevée et réorientée, où la grandeur devient service." }
+          ]
+        },
+        {
+          "id": "lent-mary-egypt",
+          "key": "14_great_lent_5",
+          "short_label": "Marie l’Égyptienne",
+          "title": "Cinquième dimanche du Carême : sainte Marie l’Égyptienne",
+          "position": "Dernier dimanche du Grand Carême — montée vers Jérusalem et conversion du pouvoir",
+          "sense": "Coupe, baptême et service",
+          "summary": "Jésus marche devant ses disciples vers Jérusalem et annonce sa Passion. À la demande des premières places, il répond par la coupe, le baptême et le service du Fils venu donner sa vie.",
+          "readings": { "gospel": "Marc 10, 32-45", "apostle": "Hébreux 9, 11-14" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "La mémoire de sainte Marie l’Égyptienne manifeste qu’aucune histoire n’est enfermée dans son passé. Le Carême conduit à une liberté qui ne domine plus mais sert." },
+            { "type": "greek", "label": "Mouvement et ministère", "text": "ἀναβαίνω conduit vers Jérusalem ; διάκονος et δοῦλος redéfinissent la grandeur par le service. L’entrée du grand prêtre dans le sanctuaire éclaire ce mouvement sans identité lexicale directe." },
+            { "type": "homiletic", "label": "Vers les Rameaux", "text": "Les disciples imaginent encore la gloire comme première place ; aux Rameaux, le Roi sera acclamé précisément parce qu’il vient humblement vers sa Passion." }
+          ]
+        },
+        {
+          "id": "palm-sunday",
+          "key": "15_palm_sunday",
+          "short_label": "Rameaux",
+          "title": "Dimanche des Rameaux",
+          "position": "Entrée dans la Grande et Sainte Semaine — le Roi vient humblement",
+          "sense": "Parfum, acclamation et paix",
+          "summary": "Marie répand un parfum précieux qui remplit la maison, tandis que Jésus entre à Jérusalem sur un ânon. La gratuité de l’onction s’oppose au calcul et prépare le don total de la Passion.",
+          "readings": { "gospel": "Jean 12, 1-18", "apostle": "Philippiens 4, 4-9" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Après Lazare samedi, les Rameaux ouvrent la Semaine sainte. La joie de l’entrée royale porte déjà l’ombre de la Passion et demande de suivre le Roi au-delà de l’acclamation." },
+            { "type": "greek", "label": "Mot-pont pascal", "text": "μύρον, le parfum, relie Béthanie aux Myrophores qui viendront au tombeau. χαίρω et εἰρήνη dans l’Apôtre donnent à la joie une profondeur qui ne dépend pas encore du dénouement visible." },
+            { "type": "homiletic", "label": "Vers Pâques", "text": "Le parfum remplit la maison avant que les aromates ne deviennent inutiles au tombeau vide. Le geste gratuit de Marie anticipe l’amour plus fort que la mort." }
+          ]
+        },
+        {
+          "id": "pascha",
+          "key": "21_pascha",
+          "short_label": "Pâques",
+          "title": "La Sainte Résurrection du Christ",
+          "position": "Fête des fêtes — centre du cycle mobile et commencement d’une création nouvelle",
+          "sense": "Parole, lumière et témoignage",
+          "summary": "Au commencement était le Verbe, et la lumière brille dans les ténèbres. La Résurrection accomplit le mouvement du Carême sans le clore sur lui-même : les disciples sont orientés vers la promesse de l’Esprit et la mission.",
+          "readings": { "gospel": "Jean 1, 1-17", "apostle": "Actes 1, 1-8" },
+          "comparison": false,
+          "links": [
+            { "type": "liturgical", "label": "Placement liturgique", "text": "Pâques donne leur sens au Triode, au Carême et à la Semaine sainte. Elle est simultanément accomplissement et nouveau départ vers Thomas, l’Ascension et la Pentecôte." },
+            { "type": "greek", "label": "Mots d’accomplissement", "text": "ἀρχή, λόγος, φῶς et σκοτία ouvrent la proclamation pascale ; πνεῦμα dans les Actes tend déjà vers la Pentecôte. Le lien est une progression du Verbe incarné vers le témoignage dans l’Esprit." },
+            { "type": "homiletic", "label": "La boucle se rouvre", "text": "Le parcours revient à son point de départ sans tourner en rond : la lumière pascale conduit à la rencontre du Ressuscité, puis la Pentecôte renvoie l’Église dans le monde pour que la sainteté y porte du fruit." }
           ]
         }
       ]

@@ -1076,12 +1076,15 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .fixed-encounters-grid strong { color: #4b1018; font: 700 .95rem/1.3 var(--font-serif); }
 .fixed-encounters-grid p { margin: 7px 0 0; color: #514a40; font-size: .86rem; line-height: 1.5; }
 .paschal-path-track { display: grid; grid-template-columns: repeat(var(--stage-count, 8), minmax(118px, 1fr)); gap: 0; margin: 20px 0 22px; overflow-x: auto; padding: 7px 3px 15px; scrollbar-color: #b69b5d #eee5d1; }
-.paschal-path-track.is-long { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 10px; overflow-x: visible; }
+.paschal-path-track.is-long { grid-template-columns: repeat(var(--long-columns, 5), minmax(0, 1fr)); gap: 10px; overflow-x: visible; }
 .paschal-path-step { position: relative; box-sizing: border-box; min-width: 118px; padding-right: 9px; }
 .paschal-path-track.is-long .paschal-path-step { min-width: 0; padding-right: 0; }
 .paschal-path-track.is-long .paschal-path-step::after { display: none; }
 .paschal-path-step::after { position: absolute; z-index: 0; top: 27px; right: -3px; left: 0; height: 3px; background: #c5aa69; content: ''; }
 .paschal-path-step:last-child::after { display: none; }
+.paschal-path-track.is-variable { gap: 10px; }
+.paschal-path-track.is-variable .paschal-path-step { padding-right: 0; }
+.paschal-path-track.is-variable .paschal-path-step::after { display: none; }
 .paschal-stage-button { position: relative; z-index: 1; display: grid; width: 100%; min-height: 108px; padding: 8px 7px 9px; border: 1px solid #cbb98e; border-radius: 9px; color: #473d32; background: #fffdf8; box-shadow: 0 3px 10px rgba(56,39,24,.08); text-align: left; cursor: pointer; transition: transform .16s ease, border-color .16s ease, background .16s ease; }
 .paschal-stage-button:hover { transform: translateY(-2px); border-color: #8f7438; }
 .paschal-stage-button[aria-pressed="true"] { color: #fff; border-color: #4b1018; background: linear-gradient(145deg, #6b1c29, #401019); box-shadow: 0 6px 16px rgba(70,20,28,.22); }
