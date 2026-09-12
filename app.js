@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260912-liturgical-ribbon-rows-1';
+    const DATA_VERSION = '20260912-liturgical-ribbon-visible-2';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1559,7 +1559,9 @@ document.addEventListener('DOMContentLoaded', () => {
         await loadTextContext(stage.key, readingType);
         if (compare && currentLectionaryData?.reading_connections?.links?.length) {
             renderComparisonView(currentLectionaryData);
+            return;
         }
+        document.getElementById('verse-title')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     };
 
     const renderLiturgicalStage = stage => {
