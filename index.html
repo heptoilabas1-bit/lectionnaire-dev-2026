@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lectionnaire Interlinéaire Orthodoxe</title>
-    <link rel="stylesheet" href="style.css?v=20260912-liturgical-ribbon-visible-2">
+    <link rel="stylesheet" href="style.css?v=20260912-liturgical-ribbon-complete-3">
 </head>
 <body>
 
@@ -112,7 +112,10 @@
                             <input id="cycle-year-slider" type="range" min="2020" max="2040" value="2026" step="1">
                             <span class="cycle-year-limits" aria-hidden="true"><small>2020</small><small>2040</small></span>
                         </label>
-                        <div class="cycle-timeline-scroll" tabindex="0" aria-label="Frise comparant le cycle fixe et le cycle mobile">
+                        <div id="cycle-scroll-top" class="cycle-scroll-top" tabindex="0" aria-label="Défilement horizontal supérieur du ruban liturgique">
+                            <div id="cycle-scroll-top-spacer" class="cycle-scroll-top-spacer" aria-hidden="true"></div>
+                        </div>
+                        <div id="cycle-timeline-scroll" class="cycle-timeline-scroll" tabindex="0" aria-label="Frise comparant le cycle fixe et le cycle mobile">
                             <div id="cycle-timeline" class="cycle-timeline">
                                 <div class="cycle-axis-caption cycle-axis-fixed">Cycle fixe — le ruban se déplace</div>
                                 <div id="fixed-calendar-ribbon" class="fixed-calendar-ribbon" aria-label="Fêtes fixes"></div>
@@ -394,7 +397,7 @@
         </div>
     </dialog>
 
-    <script src="app.js?v=20260912-liturgical-ribbon-visible-2"></script>
+    <script src="app.js?v=20260912-liturgical-ribbon-complete-3"></script>
 
 </body>
 </html>

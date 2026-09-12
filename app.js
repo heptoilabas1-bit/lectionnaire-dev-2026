@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260912-liturgical-ribbon-visible-2';
+    const DATA_VERSION = '20260912-liturgical-ribbon-complete-3';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1279,6 +1279,94 @@ document.addEventListener('DOMContentLoaded', () => {
             ]
         }
     ];
+    const liturgicalRibbonBands = [
+        {
+            mobile: {
+                eyebrow: 'Nouvel an ecclésial · DP 11–22',
+                title: 'Du 11e au 22e dimanche après la Pentecôte',
+                tone: 'matthew',
+                keys: [
+                    '311_after_pentecost_11', '312_after_pentecost_12', '313_after_pentecost_13',
+                    '314_after_pentecost_14', '315_after_pentecost_15', '316_after_pentecost_16',
+                    '317_after_pentecost_17', '318_after_pentecost_18', '319_after_pentecost_19',
+                    '320_after_pentecost_20', '321_after_pentecost_21', '322_after_pentecost_22'
+                ]
+            },
+            fixed: {
+                title: 'Fêtes fixes · septembre à novembre',
+                keys: ['96_cross_before', '97_cross_after'],
+                feastIds: ['new-year', 'theotokos-nativity', 'cross', 'entry-theotokos']
+            }
+        },
+        {
+            mobile: {
+                eyebrow: 'DP 23–33 · Cycle de Luc',
+                title: 'Du Bon Samaritain à Zachée',
+                tone: 'luke',
+                keys: [
+                    '323_after_pentecost_23', '324_after_pentecost_24', '325_after_pentecost_25',
+                    '326_after_pentecost_26', '327_after_pentecost_27', '328_after_pentecost_28',
+                    '329_after_pentecost_29', '330_after_pentecost_30', '331_after_pentecost_31',
+                    '332_after_pentecost_32'
+                ]
+            },
+            fixed: {
+                title: 'Fêtes fixes · Nativité et Théophanie',
+                keys: ['90_advent_2', '91_advent_1', '92_nativity_after', '93_theophany_before', '94_theophany_after'],
+                feastIds: ['nativity', 'theophany', 'meeting']
+            }
+        },
+        {
+            mobile: {
+                eyebrow: 'Triode et Grand Carême',
+                title: 'Du Publicain et du Pharisien aux Rameaux',
+                tone: 'lent',
+                keys: [
+                    '00_publican_pharisee', '01_prodigal_son', '02_meatfare', '03_cheese_fare',
+                    '10_great_lent_1', '11_great_lent_2', '12_great_lent_3',
+                    '13_great_lent_4', '14_great_lent_5', '15_palm_sunday'
+                ]
+            },
+            fixed: {
+                title: 'Cycle fixe · rencontre avec le Carême',
+                keys: [],
+                feastIds: ['annunciation']
+            }
+        },
+        {
+            mobile: {
+                eyebrow: 'Pâques et Pentecostaire',
+                title: 'De la Résurrection à Tous les Saints',
+                tone: 'pascha',
+                keys: [
+                    '21_pascha', '22_thomas_sunday', '23_myrrhbearers', '24_paralytic',
+                    '25_samaritan', '26_blind_man', '27_holy_fathers_1', '28_pentecost', '29_all_saints'
+                ]
+            },
+            fixed: {
+                title: 'Cycle fixe · printemps',
+                keys: [],
+                feastIds: []
+            }
+        },
+        {
+            mobile: {
+                eyebrow: 'DP 2–10 · Cycle de Matthieu',
+                title: 'Des Saints de la Terre au 10e dimanche de Matthieu',
+                tone: 'summer',
+                keys: [
+                    '302_after_pentecost_2', '303_after_pentecost_3', '304_after_pentecost_4',
+                    '305_after_pentecost_5', '306_after_pentecost_6', '307_after_pentecost_7',
+                    '308_after_pentecost_8', '309_after_pentecost_9', '310_after_pentecost_10'
+                ]
+            },
+            fixed: {
+                title: 'Fêtes fixes · juin à août',
+                keys: [],
+                feastIds: ['apostles', 'transfiguration', 'dormition']
+            }
+        }
+    ];
     let selectedFixedFeastId = 'annunciation';
 
     const cyclePercent = day => ((day - CYCLE_AXIS_MIN) / CYCLE_AXIS_SPAN) * 100;
@@ -1344,7 +1432,24 @@ document.addEventListener('DOMContentLoaded', () => {
         paschaLabel.textContent = 'Pâques';
         scale.appendChild(paschaLabel);
         ribbon.appendChild(scale);
-        liturgicalSundayRows.forEach(row => {
+        const buildSundayButton = (key, extraClass = '') => {
+            const fullLabel = liturgicalList[key] || key;
+            const button = document.createElement('button');
+            button.type = 'button';
+            button.className = `mobile-ribbon-sunday${extraClass}${key === currentSundayKey ? ' active' : ''}`;
+            button.dataset.sundayKey = key;
+            button.setAttribute('aria-label', `Ouvrir la péricope : ${fullLabel}`);
+            const label = document.createElement('strong');
+            label.textContent = cleanLiturgicalSundayLabel(fullLabel);
+            const action = document.createElement('small');
+            action.textContent = 'Ouvrir';
+            button.append(label, action);
+            button.addEventListener('click', () => openLiturgicalStageReading({ key }, 'gospel'));
+            return button;
+        };
+
+        liturgicalRibbonBands.forEach(band => {
+            const row = band.mobile;
             const lane = document.createElement('section');
             lane.className = `mobile-ribbon-row mobile-ribbon-row-${row.tone}`;
             lane.setAttribute('aria-label', `${row.eyebrow} — ${row.title}`);
@@ -1361,24 +1466,53 @@ document.addEventListener('DOMContentLoaded', () => {
             cells.className = 'mobile-ribbon-cells';
             cells.style.setProperty('--ribbon-sunday-count', String(row.keys.length));
             row.keys.forEach(key => {
-                const fullLabel = liturgicalList[key] || key;
-                const button = document.createElement('button');
-                button.type = 'button';
-                button.className = `mobile-ribbon-sunday${key === currentSundayKey ? ' active' : ''}`;
-                button.dataset.sundayKey = key;
-                button.setAttribute('aria-label', `Ouvrir la péricope : ${fullLabel}`);
-                const label = document.createElement('strong');
-                label.textContent = cleanLiturgicalSundayLabel(fullLabel);
-                const action = document.createElement('small');
-                action.textContent = 'Ouvrir';
-                button.append(label, action);
-                button.addEventListener('click', () => openLiturgicalStageReading({ key }, 'gospel'));
-                cells.appendChild(button);
+                cells.appendChild(buildSundayButton(key));
             });
 
             lane.append(heading, cells);
             ribbon.appendChild(lane);
+
+            const fixedLane = document.createElement('section');
+            fixedLane.className = `fixed-ribbon-row${band.fixed.keys.length ? ' has-sundays' : ''}`;
+            const fixedHeading = document.createElement('strong');
+            fixedHeading.className = 'fixed-ribbon-row-heading';
+            fixedHeading.textContent = band.fixed.title;
+            const fixedContent = document.createElement('div');
+            fixedContent.className = 'fixed-ribbon-row-content';
+            if (band.fixed.keys.length) {
+                const fixedSundays = document.createElement('div');
+                fixedSundays.className = 'fixed-ribbon-sunday-cells';
+                fixedSundays.style.setProperty('--fixed-sunday-count', String(band.fixed.keys.length));
+                band.fixed.keys.forEach(key => fixedSundays.appendChild(buildSundayButton(key, ' fixed-sunday')));
+                fixedContent.appendChild(fixedSundays);
+            }
+            const fixedTrack = document.createElement('div');
+            fixedTrack.className = 'fixed-ribbon-lane-track';
+            fixedTrack.dataset.feastIds = band.fixed.feastIds.join(',');
+            fixedContent.appendChild(fixedTrack);
+            fixedLane.append(fixedHeading, fixedContent);
+            ribbon.appendChild(fixedLane);
         });
+    };
+
+    const setupCycleScrollSync = () => {
+        const top = document.getElementById('cycle-scroll-top');
+        const bottom = document.getElementById('cycle-timeline-scroll');
+        const spacer = document.getElementById('cycle-scroll-top-spacer');
+        const timeline = document.getElementById('cycle-timeline');
+        if (!top || !bottom || !spacer || !timeline) return;
+        spacer.style.width = `${timeline.scrollWidth}px`;
+        if (top.dataset.ready === 'true') return;
+        let syncing = false;
+        const mirror = (source, target) => {
+            if (syncing) return;
+            syncing = true;
+            target.scrollLeft = source.scrollLeft;
+            window.requestAnimationFrame(() => { syncing = false; });
+        };
+        top.addEventListener('scroll', () => mirror(top, bottom));
+        bottom.addEventListener('scroll', () => mirror(bottom, top));
+        top.dataset.ready = 'true';
     };
 
     const buildFeastPlacement = (feast, year, pascha) => {
@@ -1460,6 +1594,26 @@ document.addEventListener('DOMContentLoaded', () => {
             timeline.appendChild(guide);
         });
 
+        timeline.querySelectorAll('.fixed-ribbon-lane-track').forEach(track => {
+            track.innerHTML = '';
+            const feastIds = String(track.dataset.feastIds || '').split(',').filter(Boolean);
+            feastIds.forEach(id => {
+                const placement = placements.find(item => item.id === id);
+                if (!placement) return;
+                const marker = document.createElement('button');
+                marker.type = 'button';
+                marker.className = `fixed-ribbon-lane-feast${placement.id === selectedFixedFeastId ? ' active' : ''}`;
+                marker.style.left = `${cyclePercent(placement.offset)}%`;
+                marker.setAttribute('aria-label', `${placement.title}, ${formatLiturgicalDate(placement.date)}`);
+                marker.innerHTML = `<span>${placement.day}</span><strong>${placement.short}</strong>`;
+                marker.addEventListener('click', () => {
+                    selectedFixedFeastId = placement.id;
+                    updateCycleAlignment(year);
+                });
+                track.appendChild(marker);
+            });
+        });
+
         const selected = placements.find(item => item.id === selectedFixedFeastId) || placements[0];
         renderCycleEncounterDetail(selected);
         keyEncounters.innerHTML = '';
@@ -1483,6 +1637,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const slider = document.getElementById('cycle-year-slider');
         if (!slider) return;
         renderMobileCycleRibbon();
+        setupCycleScrollSync();
         if (slider.dataset.ready !== 'true') {
             const now = new Date();
             const liturgicalYear = now.getMonth() >= 8 ? now.getFullYear() : now.getFullYear() - 1;
