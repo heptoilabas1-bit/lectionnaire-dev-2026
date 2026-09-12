@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260912-liturgical-path-9';
+    const DATA_VERSION = '20260912-liturgical-path-10';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1181,24 +1181,24 @@ document.addEventListener('DOMContentLoaded', () => {
     const mobileCycleSegments = [
         { start: -70, end: -50, label: 'Triode', tone: 'triodion' },
         { start: -49, end: -8, label: 'Grand Carême', tone: 'lent' },
-        { start: -7, end: -1, label: 'Semaine sainte', tone: 'holy-week' },
-        { start: 0, end: 0, label: 'Pâques', tone: 'pascha' },
+        { start: -7, end: -1, label: 'Semaine sainte', tone: 'holy-week', compact: true },
+        { start: 0, end: 0, label: 'Pâques', tone: 'pascha', compact: true },
         { start: 1, end: 49, label: 'Pentecostaire', tone: 'pentecostarion' },
         { start: 50, end: 122, label: '1er–10e après Pentecôte', tone: 'matthew' },
         { start: 123, end: 206, label: '11e–22e après Pentecôte', tone: 'after-pentecost' },
         { start: 207, end: 280, label: 'Suite du cycle mobile', tone: 'luke' }
     ];
     const mobileCycleLandmarks = [
-        { day: -70, label: 'Publicain' },
-        { day: -49, label: 'Pardon' },
-        { day: -42, label: 'Orthodoxie' },
-        { day: -28, label: 'Croix' },
-        { day: -7, label: 'Rameaux' },
+        { day: -70, label: 'Publicain', row: 0 },
+        { day: -49, label: 'Pardon', row: 1 },
+        { day: -42, label: 'Orthodoxie', row: 2 },
+        { day: -28, label: 'Croix', row: 0 },
+        { day: -7, label: 'Rameaux', row: 1 },
         { day: 0, label: 'Pâques', main: true },
-        { day: 49, label: 'Pentecôte' },
-        { day: 56, label: 'Tous les Saints' },
-        { day: 119, label: '10e Matthieu' },
-        { day: 203, label: '22e après Pentecôte' }
+        { day: 49, label: 'Pentecôte', row: 0 },
+        { day: 56, label: 'Tous les Saints', row: 1 },
+        { day: 119, label: '10e Matthieu', row: 0 },
+        { day: 203, label: '22e après Pentecôte', row: 0 }
     ];
     let selectedFixedFeastId = 'annunciation';
 
@@ -1251,13 +1251,15 @@ document.addEventListener('DOMContentLoaded', () => {
             const end = cyclePercent(segment.end + (segment.end === segment.start ? 5 : 1));
             block.style.left = `${start}%`;
             block.style.width = `${Math.max(end - start, 1.4)}%`;
-            block.textContent = segment.label;
+            block.setAttribute('aria-label', segment.label);
+            block.textContent = segment.compact ? '' : segment.label;
             ribbon.appendChild(block);
         });
         mobileCycleLandmarks.forEach(landmark => {
             const marker = document.createElement('span');
             marker.className = `mobile-cycle-landmark${landmark.main ? ' is-pascha' : ''}`;
             marker.style.left = `${cyclePercent(landmark.day)}%`;
+            marker.style.setProperty('--landmark-row', String(landmark.row || 0));
             marker.textContent = landmark.label;
             ribbon.appendChild(marker);
         });

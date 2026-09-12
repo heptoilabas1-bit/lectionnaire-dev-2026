@@ -1067,7 +1067,7 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .cycle-year-limits { grid-column: 2; display: flex; justify-content: space-between; color: #756b5c; font-weight: 700; }
 .cycle-timeline-scroll { margin-top: 16px; overflow-x: auto; border: 1px solid #d7c9aa; border-radius: 10px; background: #fffdf8; scrollbar-color: #b69b5d #eee5d1; }
 .cycle-timeline-scroll:focus-visible { outline: 3px solid #315d89; outline-offset: 3px; }
-.cycle-timeline { position: relative; min-width: 1080px; height: 350px; overflow: hidden; background: repeating-linear-gradient(90deg, transparent 0, transparent calc(8.333% - 1px), rgba(84,72,54,.07) calc(8.333% - 1px), rgba(84,72,54,.07) 8.333%); }
+.cycle-timeline { position: relative; min-width: 1080px; height: 382px; overflow: hidden; background: repeating-linear-gradient(90deg, transparent 0, transparent calc(8.333% - 1px), rgba(84,72,54,.07) calc(8.333% - 1px), rgba(84,72,54,.07) 8.333%); }
 .cycle-axis-caption { position: absolute; left: 16px; z-index: 5; padding: 4px 9px; border-radius: 999px; font-size: .72rem; font-weight: 800; letter-spacing: .045em; text-transform: uppercase; }
 .cycle-axis-fixed { top: 12px; color: #6e511f; background: #f2e4bd; }
 .cycle-axis-mobile { top: 211px; color: #234b70; background: #dfebf5; }
@@ -1083,7 +1083,7 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .fixed-feast-marker:focus-visible { outline: 3px solid #315d89; outline-offset: 2px; }
 .fixed-feast-guide { position: absolute; top: 174px; bottom: 76px; z-index: 1; width: 1px; border-left: 1px dashed rgba(164,123,33,.35); transition: left .35s ease; }
 .fixed-feast-guide.active { z-index: 2; width: 3px; border-left: 0; background: rgba(107,28,41,.62); }
-.mobile-calendar-ribbon { position: absolute; top: 253px; right: 0; left: 0; height: 54px; }
+.mobile-calendar-ribbon { position: absolute; top: 253px; right: 0; left: 0; height: 112px; }
 .mobile-calendar-ribbon::before { position: absolute; top: 16px; right: 0; left: 0; height: 22px; border-radius: 7px; background: #dfeaf3; content: ''; }
 .mobile-cycle-segment { position: absolute; top: 16px; z-index: 1; display: grid; place-items: center; height: 22px; overflow: hidden; border-right: 1px solid rgba(255,255,255,.72); color: #fff; font-size: .6rem; font-weight: 800; letter-spacing: .02em; text-align: center; white-space: nowrap; }
 .segment-triodion { background: #6c7890; }
@@ -1094,7 +1094,7 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .segment-matthew { background: #426e77; }
 .segment-after-pentecost { background: #315d89; }
 .segment-luke { background: #4b536d; }
-.mobile-cycle-landmark { position: absolute; top: 43px; z-index: 3; padding-top: 4px; transform: translateX(-50%); border-left: 1px solid #315d89; color: #364657; font-size: .58rem; font-weight: 800; white-space: nowrap; }
+.mobile-cycle-landmark { position: absolute; top: calc(44px + (var(--landmark-row, 0) * 20px)); z-index: 3; padding: 3px 5px 3px 6px; transform: translateX(-50%); border-left: 1px solid #315d89; border-radius: 0 5px 5px 0; color: #364657; background: rgba(255,253,248,.94); font-size: .62rem; font-weight: 800; white-space: nowrap; }
 .mobile-cycle-landmark.is-pascha { top: 0; padding: 1px 6px; transform: translateX(-50%); border: 0; border-radius: 999px; color: #fff; background: #6b1c29; font-size: .68rem; }
 .cycle-encounter-detail { display: grid; grid-template-columns: minmax(150px, .25fr) minmax(180px, .35fr) minmax(250px, 1fr); gap: 7px 18px; align-items: center; margin-top: 14px; padding: 13px 15px; border-left: 5px solid #6b1c29; border-radius: 7px; background: #fff9eb; }
 .cycle-encounter-detail .cycle-encounter-date { color: #76561c; font-size: .75rem; font-weight: 800; letter-spacing: .03em; text-transform: uppercase; }
