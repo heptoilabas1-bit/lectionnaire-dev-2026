@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lectionnaire Interlinéaire Orthodoxe</title>
+    <link rel="stylesheet" href="style.css?v=20260912-liturgical-path-5">
+</head>
+<body>
+
+    <header>
+        <div class="app-brand">
+            <img class="app-cross" src="orthodox-cross.png" alt="" width="96" height="96">
+            <div>
+                <h1 id="app-title">Lectionnaire Interlinéaire Orthodoxe</h1>
+            </div>
+        </div>
+        <div id="controls">
+            <p class="selection-title">Choisir les lectures</p>
+            <div class="selection-modes" role="tablist" aria-label="Mode de sélection">
+                <button id="mode-calendar" class="selection-mode active" type="button" role="tab" aria-selected="true" aria-controls="calendar-panel">Par calendrier</button>
+                <button id="mode-pericope" class="selection-mode" type="button" role="tab" aria-selected="false" aria-controls="pericope-panel">Par péricope</button>
+                <button id="mode-theme" class="selection-mode" type="button" role="tab" aria-selected="false" aria-controls="theme-panel">Par thème</button>
+                <button id="mode-path" class="selection-mode" type="button" role="tab" aria-selected="false" aria-controls="path-panel">Parcours liturgique</button>
+            </div>
+            <div id="calendar-panel" class="selection-panel" role="tabpanel" aria-labelledby="mode-calendar">
+                <label for="calendar-select">Dimanches du calendrier liturgique</label>
+                <div class="calendar-year-control">
+                    <label for="calendar-year-select">Année liturgique</label>
+                    <select id="calendar-year-select">
+                        <option value="2026">2026 — calendrier officiel</option>
+                        <option value="2027">2027 — préparation</option>
+                    </select>
+                </div>
+                <select id="calendar-select">
+                    <option value="">Chargement du calendrier…</option>
+                </select>
+                <div id="calendar-legend" class="calendar-legend" hidden aria-label="État des dimanches du calendrier">
+                    <span class="calendar-state-linked">● Fiche reliée</span>
+                    <span class="calendar-state-pending">○ À valider</span>
+                </div>
+                <span id="calendar-status" class="calendar-status" aria-live="polite"></span>
+                <p id="calendar-reading-note" class="calendar-reading-note" hidden></p>
+            </div>
+            <div id="pericope-panel" class="selection-panel" role="tabpanel" aria-labelledby="mode-pericope" hidden>
+                <label for="sunday-search">Rechercher une péricope ou une référence</label>
+                <input id="sunday-search" type="search" placeholder="Ex. Pardon, Luc 18, Jn 9, Romains 12…" autocomplete="off">
+                <label class="visually-hidden" for="sunday-select">Choisir le dimanche</label>
+                <select id="sunday-select"></select>
+                <span id="sunday-search-status" class="search-status" aria-live="polite"></span>
+            </div>
+            <div id="theme-panel" class="theme-panel" role="tabpanel" aria-labelledby="mode-theme" hidden>
+                <label for="theme-search">Rechercher dans les axes et les mots grecs</label>
+                <input id="theme-search" type="search" placeholder="Ex. lumière, miséricorde, verticalité, ana, kata…" autocomplete="off">
+                <div class="theme-filters" aria-label="Filtrer les résultats thématiques">
+                    <label for="theme-kind-filter">Contenu
+                        <select id="theme-kind-filter">
+                            <option value="all">Axes et mots grecs</option>
+                            <option value="axis">Axes seulement</option>
+                            <option value="annotation">Mots grecs seulement</option>
+                        </select>
+                    </label>
+                    <label for="theme-reading-filter">Lecture
+                        <select id="theme-reading-filter">
+                            <option value="all">Évangile et Apôtre</option>
+                            <option value="gospel">Évangile seulement</option>
+                            <option value="apostle">Apôtre seulement</option>
+                        </select>
+                    </label>
+                </div>
+                <div id="theme-suggestions" class="theme-suggestions" aria-label="Thèmes fréquents"></div>
+                <p id="theme-search-status" class="search-status" aria-live="polite"></p>
+                <div id="theme-results" class="theme-results"></div>
+            </div>
+            <div id="path-panel" class="selection-panel path-panel" role="tabpanel" aria-labelledby="mode-path" hidden>
+                <p><strong>Carte intemporelle :</strong> cycle mobile, fêtes fixes et liens entre les péricopes.</p>
+                <span>Prototype détaillé : de Thomas à la Pentecôte.</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="main-content">
+
+            <section id="liturgical-path-view" class="liturgical-path-view" aria-labelledby="liturgical-path-title" hidden>
+                <div class="liturgical-path-heading">
+                    <p class="comparison-kicker">Cycle mobile ↔ Cycle fixe</p>
+                    <h2 id="liturgical-path-title">Le fil de l’année liturgique</h2>
+                    <p id="liturgical-path-introduction"></p>
+                    <div class="liturgical-path-legend" aria-label="Nature des liens">
+                        <span class="path-legend-liturgical">Placement liturgique</span>
+                        <span class="path-legend-greek">Lien grec</span>
+                        <span class="path-legend-homiletic">Piste homilétique</span>
+                    </div>
+                </div>
+                <div class="liturgical-path-content">
+                    <section aria-labelledby="liturgical-overview-title">
+                        <h3 id="liturgical-overview-title">Les deux cycles au fil de l’année</h3>
+                        <p class="path-section-intro">Le cycle mobile avance autour de Pâques ; les fêtes fixes gardent leur date. Leur rencontre exacte change d’une année à l’autre.</p>
+                        <div id="liturgical-year-overview" class="liturgical-year-overview"></div>
+                    </section>
+                    <section class="paschal-prototype" aria-labelledby="paschal-prototype-title">
+                        <div id="liturgical-path-selectors" class="liturgical-path-selectors" role="tablist" aria-label="Choisir un parcours détaillé"></div>
+                        <h3 id="paschal-prototype-title">De Thomas à la Pentecôte</h3>
+                        <p id="paschal-prototype-introduction" class="path-section-intro"></p>
+                        <div id="liturgical-fixed-encounters" class="liturgical-fixed-encounters" hidden></div>
+                        <div id="paschal-path-track" class="paschal-path-track" role="list" aria-label="Étapes du parcours pascal"></div>
+                        <article id="liturgical-stage-detail" class="liturgical-stage-detail" aria-live="polite"></article>
+                    </section>
+                </div>
+            </section>
+
+            <div id="translation-selector" class="version-tools">
+                <span>Traduction latérale : </span>
+                <button id="btn-segond" class="version-btn active">Louis Segond</button>
+                <button id="btn-darby" class="version-btn">Darby</button>
+            </div>
+
+            <div id="panel-toggles" class="text-tools">
+
+                <button id="toggle-french" class="tool-btn">Français Intégral</button>
+                <button id="toggle-homily" class="tool-btn">Construire l'homélie</button>
+                <button id="open-homily-library" class="tool-btn">Mes homélies</button>
+                <a id="pdf-button-container" href="#" target="_blank" class="pdf-btn" style="display: none;">📄 Voir le PDF</a>
+            </div>
+
+            <div id="text-selector">
+                <button id="select-gospel" class="active">Évangile</button>
+                <button id="select-apostle">Apôtre</button>
+                <button id="select-compare" type="button" disabled>Comparer</button>
+            </div>
+            <div class="annotation-help">
+                <strong>Mots grecs expliqués</strong>
+                <p>Cliquez sur un mot coloré pour ouvrir son explication.</p>
+                <div class="annotation-legend" aria-label="Signification des couleurs">
+                    <span><i class="legend-dot root"></i>Origine du mot</span>
+                    <span><i class="legend-dot repetition"></i>Mot répété ou structure</span>
+                    <span><i class="legend-dot translation"></i>Différence de traduction</span>
+                    <span><i class="legend-dot theology"></i>Sens théologique</span>
+                    <span><i class="legend-dot analysis"></i>Autre remarque</span>
+                </div>
+            </div>
+
+            <section id="comparison-view" class="comparison-view" aria-labelledby="comparison-title" hidden>
+                <div class="comparison-heading">
+                    <p class="comparison-kicker">Évangile ↔ Apôtre</p>
+                    <h2 id="comparison-title">Unité des lectures</h2>
+                    <p id="comparison-summary" class="comparison-summary"></p>
+                    <p class="comparison-legend">
+                        <strong>Comment lire la comparaison&nbsp;?</strong>
+                        Les mots grecs encadrés sont ceux qui se répondent. Chaque rapprochement indique précisément sa nature,
+                        son appui dans le grec et la piste homilétique qu’il peut ouvrir.
+                    </p>
+                    <div id="comparison-display-toggle" class="comparison-display-toggle" role="group" aria-label="Étendue des lectures" hidden>
+                        <button type="button" data-comparison-mode="related" class="active">Passages liés</button>
+                        <button type="button" data-comparison-mode="full">Lectures intégrales</button>
+                    </div>
+                </div>
+                <div id="comparison-links" class="comparison-links"></div>
+            </section>
+
+            <h2 id="verse-title">Chargement...</h2>
+
+            <div id="gospel-text" class="interlinear-container"></div>
+
+            <section id="notes-view" class="analysis-panel">
+                <h3>Notes / Analyse </h3>
+                <p id="my-notes">Chargement de l'analyse...</p>
+                <section id="homiletic-axes-container" class="homiletic-axes" hidden>
+                    <h4>Axes homilétiques</h4>
+                    <div id="homiletic-axes-list"></div>
+                </section>
+                <section id="liturgical-echoes-container" class="liturgical-echoes" hidden>
+                    <h4>Échos liturgiques</h4>
+                    <p class="liturgical-echoes-intro">Des rapprochements possibles avec d’autres lectures ou fêtes, proposés comme pistes et non comme sens imposé.</p>
+                    <div id="liturgical-echoes-list"></div>
+                </section>
+<div id="going-further-container" style="display: none; margin-top: 25px; padding: 15px; border-left: 4px solid #0056b3; background-color: #f8f9fa;">
+                    <h4 style="margin-top: 0; color: #0056b3;">Pour aller plus loin</h4>
+                    <ul id="going-further-list" style="margin-bottom: 0; padding-left: 20px; line-height: 1.6;"></ul>
+                </div>
+                <h4>Contributions Communautaires</h4>
+                <div id="form-container" style="background-color: #f4f4f4; padding: 15px; border-radius: 5px; margin-top: 10px;">
+                    <p style="font-size: 0.9em; margin-bottom: 10px;">Envoyez une analyse au webmaster :</p>
+                    <form action="https://formspree.io/f/xaqqqanj" method="POST">
+                        <label for="nom" style="display:block; margin-top:10px;">Votre Nom :</label>
+                        <input type="text" name="nom" required style="width: 100%; padding: 8px; box-sizing: border-box;">
+
+                        <label for="email" style="display:block; margin-top:10px;">Votre Email (pour réponse) :</label>
+                        <input type="email" name="email" required style="width: 100%; padding: 8px; box-sizing: border-box;">
+
+                        <label for="reference" style="display:block; margin-top:10px;">Passage biblique :</label>
+                        <input type="text" name="reference" placeholder="Ex: Luc 15 (Fils Prodigue)" style="width: 100%; padding: 8px; box-sizing: border-box;">
+
+                        <label for="message" style="display:block; margin-top:10px;">Votre Contribution :</label>
+                        <textarea name="message" rows="4" required style="width: 100%; padding: 8px; box-sizing: border-box;"></textarea>
+
+                        <button type="submit" style="margin-top: 15px; background-color: #28a745; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer; width: 100%;">Envoyer par mail</button>
+                    </form>
+                </div>
+            </section>
+
+            <section id="homily-workspace" class="homily-workspace" hidden>
+                <div class="homily-workspace-header">
+                    <div>
+                        <p class="workspace-kicker">Atelier homilétique</p>
+                        <h3 id="homily-workspace-title">Construire l'homélie</h3>
+                        <p id="homily-save-status" class="homily-save-status" aria-live="polite"></p>
+                        <div class="homily-progress">
+                            <span id="homily-progress-label">0 étape renseignée</span>
+                            <span id="homily-oral-length" class="homily-oral-length">Rédaction finale encore vide</span>
+                            <div id="homily-progress-bar" class="homily-progress-bar" role="progressbar" aria-label="Avancement de l’homélie" aria-valuemin="0" aria-valuemax="6" aria-valuenow="0"><span></span></div>
+                        </div>
+                    </div>
+                    <button id="close-homily" class="close-homily" type="button" aria-label="Fermer l'atelier">×</button>
+                </div>
+                <div class="homily-draft-manager" aria-label="Choisir une version de l’homélie">
+                    <label for="homily-draft-select">Version de travail</label>
+                    <select id="homily-draft-select"></select>
+                    <button id="new-homily-draft" type="button">Nouvelle</button>
+                    <button id="duplicate-homily-draft" type="button">Dupliquer</button>
+                    <button id="rename-homily-draft" type="button">Renommer</button>
+                    <button id="delete-homily-draft" type="button">Supprimer</button>
+                </div>
+                <section id="homily-reading-context" class="homily-reading-context" aria-label="Lectures du dimanche"></section>
+                <div id="homily-fields" class="homily-fields"></div>
+                <button id="add-homily-step" class="add-homily-step" type="button">+ Ajouter une étape personnelle</button>
+                <details class="oral-review">
+                    <summary>Relire avant de proclamer <span>(facultatif)</span></summary>
+                    <p>Ces repères n’évaluent pas l’homélie et ne modifient pas votre texte.</p>
+                    <div id="oral-review-list" class="oral-review-list">
+                        <label><input type="checkbox" value="central"> Une idée directrice demeure clairement perceptible.</label>
+                        <label><input type="checkbox" value="heard"> Les phrases sont faites pour être entendues, pas seulement lues.</label>
+                        <label><input type="checkbox" value="image"> Une image ou une situation concrète aide l’écoute.</label>
+                        <label><input type="checkbox" value="breath"> Le rythme laisse une place au souffle et au silence.</label>
+                        <label><input type="checkbox" value="pastoral"> Le ton reste pastoral et conduit à une réponse libre.</label>
+                    </div>
+                </details>
+                <div class="homily-actions">
+                    <div class="homily-action-group">
+                        <span>Rédiger et proclamer</span>
+                        <div><button id="prepare-homily-outline" class="tool-btn outline-btn" type="button">Reporter le plan</button><button id="open-proclamation-mode" class="tool-btn outline-btn" type="button">Mode proclamation</button><button id="copy-homily" class="tool-btn" type="button">Copier le texte final</button></div>
+                    </div>
+                    <div class="homily-action-group">
+                        <span>Exporter</span>
+                        <div><button id="print-homily" class="tool-btn" type="button">Imprimer / PDF</button><button id="export-homily-doc" class="tool-btn" type="button">Word</button><button id="export-homily-txt" class="tool-btn secondary" type="button">Texte</button></div>
+                    </div>
+                    <div class="homily-action-group">
+                        <span>Sauvegarder</span>
+                        <div><button id="backup-homily-drafts" class="tool-btn secondary" type="button">Créer une sauvegarde</button><button id="restore-homily-drafts" class="tool-btn secondary" type="button">Restaurer</button></div>
+                    </div>
+                    <input id="restore-homily-file" class="visually-hidden" type="file" accept="application/json,.json">
+                    <button id="clear-homily" class="tool-btn danger" type="button">Effacer le brouillon</button>
+                </div>
+            </section>
+        </div>
+
+        <div id="side-panels">
+
+
+            <section id="french-view" class="side-panel hidden">
+                <button class="close-btn">X</button>
+                <h3>Traduction Française (Intégrale)</h3>
+                <pre id="french-full-text"></pre>
+            </section>
+        </div>
+
+    </main>
+
+    <footer id="footer-info">
+        <p>Inspiration du projet : <strong>Père Pascal</strong></p>
+    </footer>
+
+    <dialog id="analysis-dialog" class="analysis-dialog" aria-labelledby="analysis-dialog-title">
+        <button id="analysis-dialog-close" class="analysis-dialog-close" type="button" aria-label="Fermer">×</button>
+        <p id="analysis-dialog-type" class="analysis-dialog-type"></p>
+        <h3 id="analysis-dialog-title"></h3>
+        <div id="analysis-dialog-content" class="analysis-dialog-content"></div>
+        <div id="analysis-dialog-related" class="analysis-dialog-related" hidden></div>
+        <p id="analysis-dialog-source" class="analysis-dialog-source" hidden></p>
+        <button id="add-annotation-to-homily" class="dialog-add-button" type="button">Ajouter à mon brouillon</button>
+    </dialog>
+
+    <dialog id="comparison-term-dialog" class="analysis-dialog comparison-term-dialog" aria-labelledby="comparison-term-title">
+        <button id="comparison-term-close" class="analysis-dialog-close" type="button" aria-label="Fermer">×</button>
+        <p class="analysis-dialog-type">Fiche grecque dans la comparaison</p>
+        <h3 id="comparison-term-title"></h3>
+        <dl class="comparison-term-fields">
+            <div><dt>Forme rencontrée</dt><dd id="comparison-term-form"></dd></div>
+            <div><dt>Lemme</dt><dd id="comparison-term-lemma"></dd></div>
+            <div><dt>Racine ou composition</dt><dd id="comparison-term-root"></dd></div>
+            <div><dt>Sens littéral</dt><dd id="comparison-term-literal"></dd></div>
+        </dl>
+        <section class="comparison-term-context" aria-labelledby="comparison-term-role-title">
+            <h4 id="comparison-term-role-title">Rôle dans le rapprochement</h4>
+            <p id="comparison-term-role"></p>
+        </section>
+        <section class="comparison-term-context" aria-labelledby="comparison-term-relation-title">
+            <h4 id="comparison-term-relation-title">Relation entre les deux lectures</h4>
+            <p id="comparison-term-relation"></p>
+            <p id="comparison-term-evidence" class="comparison-term-evidence"></p>
+        </section>
+        <section class="comparison-term-context comparison-term-sentence" aria-labelledby="comparison-term-sentence-title">
+            <h4 id="comparison-term-sentence-title">Phrase-pont</h4>
+            <p id="comparison-term-sentence"></p>
+        </section>
+        <section class="comparison-term-context comparison-term-homily" aria-labelledby="comparison-term-homily-title">
+            <h4 id="comparison-term-homily-title">Piste homilétique</h4>
+            <p id="comparison-term-homily"></p>
+        </section>
+        <button id="add-comparison-to-homily" class="dialog-add-button" type="button">Ajouter ce rapprochement à mon brouillon</button>
+    </dialog>
+
+    <dialog id="homily-library-dialog" class="homily-library-dialog" aria-labelledby="homily-library-title">
+        <button id="homily-library-close" class="analysis-dialog-close" type="button" aria-label="Fermer">×</button>
+        <p class="workspace-kicker">Travaux enregistrés sur cet appareil</p>
+        <h3 id="homily-library-title">Mes homélies</h3>
+        <p class="homily-library-intro">Retrouvez chaque version par péricope et date de modification.</p>
+        <div class="homily-library-tools">
+            <label>
+                <span>Rechercher</span>
+                <input id="homily-library-search" type="search" placeholder="Nom ou péricope…" autocomplete="off">
+            </label>
+            <label>
+                <span>Avancement</span>
+                <select id="homily-library-progress-filter">
+                    <option value="all">Toutes</option>
+                    <option value="started">Commencées</option>
+                    <option value="advanced">Bien avancées</option>
+                    <option value="empty">Vides</option>
+                </select>
+            </label>
+        </div>
+        <p id="homily-library-count" class="homily-library-count" aria-live="polite"></p>
+        <div id="homily-library-list" class="homily-library-list"></div>
+    </dialog>
+
+    <dialog id="proclamation-dialog" class="proclamation-dialog" aria-labelledby="proclamation-title">
+        <div class="proclamation-toolbar">
+            <div class="proclamation-font-tools" aria-label="Taille du texte">
+                <button id="proclamation-smaller" type="button" aria-label="Réduire la taille du texte">A−</button>
+                <button id="proclamation-larger" type="button" aria-label="Augmenter la taille du texte">A+</button>
+            </div>
+            <div class="proclamation-timer" aria-label="Chronomètre facultatif">
+                <span id="proclamation-time">00:00</span>
+                <button id="proclamation-timer-toggle" type="button">Démarrer</button>
+                <button id="proclamation-timer-reset" type="button">Remettre à zéro</button>
+            </div>
+            <button id="proclamation-copy" type="button">Copier</button>
+            <button id="proclamation-close" class="proclamation-close" type="button" aria-label="Fermer le mode proclamation">×</button>
+        </div>
+        <div class="proclamation-page">
+            <p class="workspace-kicker">Mode proclamation</p>
+            <h3 id="proclamation-title"></h3>
+            <p id="proclamation-reference" class="proclamation-reference"></p>
+            <div id="proclamation-text" class="proclamation-text"></div>
+        </div>
+    </dialog>
+
+    <script src="app.js?v=20260912-liturgical-path-5"></script>
+
+</body>
+</html>
