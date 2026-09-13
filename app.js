@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260912-liturgical-ribbon-complete-3';
+    const DATA_VERSION = '20260913-liturgical-timeline-4';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1185,14 +1185,15 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 'dormition', month: 7, day: 15, short: 'Dormition', title: 'Dormition de la Mère de Dieu' }
     ];
     const mobileCycleSegments = [
-        { start: -260, end: -71, label: 'Après Pentecôte · cycle de Luc', tone: 'luke' },
+        { start: -260, end: -176, label: 'DP 11–17 · cycle de Matthieu', tone: 'after-pentecost' },
+        { start: -175, end: -71, label: 'DP 18–33 · cycle de Luc', tone: 'luke' },
         { start: -70, end: -50, label: 'Triode', tone: 'triodion' },
         { start: -49, end: -8, label: 'Grand Carême', tone: 'lent' },
         { start: -7, end: -1, label: 'Semaine sainte', tone: 'holy-week', compact: true },
         { start: 0, end: 0, label: 'Pâques', tone: 'pascha', compact: true },
         { start: 1, end: 49, label: 'Pentecostaire', tone: 'pentecostarion' },
         { start: 50, end: 122, label: '1er–10e après Pentecôte', tone: 'matthew' },
-        { start: 123, end: 175, label: '11e–17e après Pentecôte', tone: 'after-pentecost' }
+        { start: 123, end: 175, label: 'Fin de l’année ecclésiale', tone: 'after-pentecost' }
     ];
     const mobileCycleLandmarks = [
         { day: -70, label: 'Publicain', row: 0 },
@@ -1432,67 +1433,50 @@ document.addEventListener('DOMContentLoaded', () => {
         paschaLabel.textContent = 'Pâques';
         scale.appendChild(paschaLabel);
         ribbon.appendChild(scale);
-        const buildSundayButton = (key, extraClass = '') => {
+        const buildSundayButton = (key, offset, variant = 'cycle') => {
             const fullLabel = liturgicalList[key] || key;
             const button = document.createElement('button');
             button.type = 'button';
-            button.className = `mobile-ribbon-sunday${extraClass}${key === currentSundayKey ? ' active' : ''}`;
+            button.className = `timeline-sunday timeline-sunday-${variant}${key === currentSundayKey ? ' active' : ''}`;
             button.dataset.sundayKey = key;
+            button.style.left = `${cyclePercent(offset)}%`;
             button.setAttribute('aria-label', `Ouvrir la péricope : ${fullLabel}`);
             const label = document.createElement('strong');
             label.textContent = cleanLiturgicalSundayLabel(fullLabel);
             const action = document.createElement('small');
-            action.textContent = 'Ouvrir';
+            action.textContent = offset === 0 ? 'Pâques · ouvrir' : 'Dimanche · ouvrir';
             button.append(label, action);
             button.addEventListener('click', () => openLiturgicalStageReading({ key }, 'gospel'));
             return button;
         };
 
-        liturgicalRibbonBands.forEach(band => {
-            const row = band.mobile;
-            const lane = document.createElement('section');
-            lane.className = `mobile-ribbon-row mobile-ribbon-row-${row.tone}`;
-            lane.setAttribute('aria-label', `${row.eyebrow} — ${row.title}`);
+        const coreLane = document.createElement('section');
+        coreLane.className = 'mobile-sunday-lane mobile-sunday-lane-core';
+        coreLane.innerHTML = '<span class="mobile-sunday-lane-label">Dimanches du cycle mobile</span>';
+        const coreTrack = document.createElement('div');
+        coreTrack.className = 'mobile-sunday-track';
+        const weeklyGroups = [
+            { start: -224, keys: ['311_after_pentecost_11', '312_after_pentecost_12', '313_after_pentecost_13', '314_after_pentecost_14', '315_after_pentecost_15', '316_after_pentecost_16', '317_after_pentecost_17'] },
+            { start: -175, keys: ['318_after_pentecost_18', '319_after_pentecost_19', '320_after_pentecost_20', '321_after_pentecost_21', '322_after_pentecost_22', '323_after_pentecost_23', '324_after_pentecost_24', '325_after_pentecost_25', '326_after_pentecost_26', '327_after_pentecost_27', '328_after_pentecost_28', '329_after_pentecost_29', '330_after_pentecost_30', '331_after_pentecost_31', '332_after_pentecost_32'] },
+            { start: -70, keys: ['00_publican_pharisee', '01_prodigal_son', '02_meatfare', '03_cheese_fare'] },
+            { start: -42, keys: ['10_great_lent_1', '11_great_lent_2', '12_great_lent_3', '13_great_lent_4', '14_great_lent_5', '15_palm_sunday'] },
+            { start: 0, keys: ['21_pascha', '22_thomas_sunday', '23_myrrhbearers', '24_paralytic', '25_samaritan', '26_blind_man', '27_holy_fathers_1', '28_pentecost', '29_all_saints'] },
+            { start: 63, keys: ['302_after_pentecost_2', '303_after_pentecost_3', '304_after_pentecost_4', '305_after_pentecost_5', '306_after_pentecost_6', '307_after_pentecost_7', '308_after_pentecost_8', '309_after_pentecost_9', '310_after_pentecost_10'] }
+        ];
+        weeklyGroups.forEach(group => group.keys.forEach((key, index) => {
+            coreTrack.appendChild(buildSundayButton(key, group.start + (index * 7)));
+        }));
+        coreLane.appendChild(coreTrack);
+        ribbon.appendChild(coreLane);
 
-            const heading = document.createElement('div');
-            heading.className = 'mobile-ribbon-row-heading';
-            const eyebrow = document.createElement('span');
-            eyebrow.textContent = row.eyebrow;
-            const title = document.createElement('strong');
-            title.textContent = row.title;
-            heading.append(eyebrow, title);
-
-            const cells = document.createElement('div');
-            cells.className = 'mobile-ribbon-cells';
-            cells.style.setProperty('--ribbon-sunday-count', String(row.keys.length));
-            row.keys.forEach(key => {
-                cells.appendChild(buildSundayButton(key));
-            });
-
-            lane.append(heading, cells);
-            ribbon.appendChild(lane);
-
-            const fixedLane = document.createElement('section');
-            fixedLane.className = `fixed-ribbon-row${band.fixed.keys.length ? ' has-sundays' : ''}`;
-            const fixedHeading = document.createElement('strong');
-            fixedHeading.className = 'fixed-ribbon-row-heading';
-            fixedHeading.textContent = band.fixed.title;
-            const fixedContent = document.createElement('div');
-            fixedContent.className = 'fixed-ribbon-row-content';
-            if (band.fixed.keys.length) {
-                const fixedSundays = document.createElement('div');
-                fixedSundays.className = 'fixed-ribbon-sunday-cells';
-                fixedSundays.style.setProperty('--fixed-sunday-count', String(band.fixed.keys.length));
-                band.fixed.keys.forEach(key => fixedSundays.appendChild(buildSundayButton(key, ' fixed-sunday')));
-                fixedContent.appendChild(fixedSundays);
-            }
-            const fixedTrack = document.createElement('div');
-            fixedTrack.className = 'fixed-ribbon-lane-track';
-            fixedTrack.dataset.feastIds = band.fixed.feastIds.join(',');
-            fixedContent.appendChild(fixedTrack);
-            fixedLane.append(fixedHeading, fixedContent);
-            ribbon.appendChild(fixedLane);
-        });
+        const fixedLane = document.createElement('section');
+        fixedLane.className = 'mobile-sunday-lane mobile-sunday-lane-fixed';
+        fixedLane.innerHTML = '<span class="mobile-sunday-lane-label">Dimanches liés aux fêtes fixes</span>';
+        const fixedTrack = document.createElement('div');
+        fixedTrack.id = 'fixed-sunday-track';
+        fixedTrack.className = 'mobile-sunday-track';
+        fixedLane.appendChild(fixedTrack);
+        ribbon.appendChild(fixedLane);
     };
 
     const setupCycleScrollSync = () => {
@@ -1594,25 +1578,36 @@ document.addEventListener('DOMContentLoaded', () => {
             timeline.appendChild(guide);
         });
 
-        timeline.querySelectorAll('.fixed-ribbon-lane-track').forEach(track => {
-            track.innerHTML = '';
-            const feastIds = String(track.dataset.feastIds || '').split(',').filter(Boolean);
-            feastIds.forEach(id => {
-                const placement = placements.find(item => item.id === id);
-                if (!placement) return;
-                const marker = document.createElement('button');
-                marker.type = 'button';
-                marker.className = `fixed-ribbon-lane-feast${placement.id === selectedFixedFeastId ? ' active' : ''}`;
-                marker.style.left = `${cyclePercent(placement.offset)}%`;
-                marker.setAttribute('aria-label', `${placement.title}, ${formatLiturgicalDate(placement.date)}`);
-                marker.innerHTML = `<span>${placement.day}</span><strong>${placement.short}</strong>`;
-                marker.addEventListener('click', () => {
-                    selectedFixedFeastId = placement.id;
-                    updateCycleAlignment(year);
-                });
-                track.appendChild(marker);
+        const fixedSundayTrack = document.getElementById('fixed-sunday-track');
+        if (fixedSundayTrack) {
+            const sundayBefore = offset => Math.floor((offset - 1) / 7) * 7;
+            const sundayAfter = offset => Math.ceil((offset + 1) / 7) * 7;
+            const cross = placements.find(item => item.id === 'cross');
+            const nativity = placements.find(item => item.id === 'nativity');
+            const theophany = placements.find(item => item.id === 'theophany');
+            const fixedSundays = [
+                { key: '96_cross_before', offset: sundayBefore(cross.offset) },
+                { key: '97_cross_after', offset: sundayAfter(cross.offset) },
+                { key: '90_advent_2', offset: sundayBefore(nativity.offset) - 7 },
+                { key: '91_advent_1', offset: sundayBefore(nativity.offset) },
+                { key: '92_nativity_after', offset: sundayAfter(nativity.offset) },
+                { key: '93_theophany_before', offset: sundayBefore(theophany.offset) },
+                { key: '94_theophany_after', offset: sundayAfter(theophany.offset) }
+            ];
+            fixedSundayTrack.innerHTML = '';
+            fixedSundays.forEach(item => {
+                const fullLabel = liturgicalList[item.key] || item.key;
+                const button = document.createElement('button');
+                button.type = 'button';
+                button.className = `timeline-sunday timeline-sunday-fixed${item.key === currentSundayKey ? ' active' : ''}`;
+                button.dataset.sundayKey = item.key;
+                button.style.left = `${cyclePercent(item.offset)}%`;
+                button.setAttribute('aria-label', `Ouvrir la péricope : ${fullLabel}`);
+                button.innerHTML = `<strong>${cleanLiturgicalSundayLabel(fullLabel)}</strong><small>Dimanche fixe · ouvrir</small>`;
+                button.addEventListener('click', () => openLiturgicalStageReading({ key: item.key }, 'gospel'));
+                fixedSundayTrack.appendChild(button);
             });
-        });
+        }
 
         const selected = placements.find(item => item.id === selectedFixedFeastId) || placements[0];
         renderCycleEncounterDetail(selected);
@@ -1890,7 +1885,6 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('liturgical-path-title').textContent = data.title;
             document.getElementById('liturgical-path-introduction').textContent = data.introduction;
             renderCycleAlignment();
-            renderLiturgicalSundayRows();
             overview.innerHTML = '';
             (data.overview || []).forEach(period => {
                 const card = document.createElement('article');

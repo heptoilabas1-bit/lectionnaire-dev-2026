@@ -1070,7 +1070,7 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .cycle-scroll-top:focus-visible { outline: 3px solid #315d89; outline-offset: 3px; }
 .cycle-timeline-scroll { overflow-x: auto; overflow-y: hidden; border: 1px solid #d7c9aa; border-radius: 0 0 10px 10px; background: #fffdf8; scrollbar-color: #9f7d39 #eee5d1; }
 .cycle-timeline-scroll:focus-visible { outline: 3px solid #315d89; outline-offset: 3px; }
-.cycle-timeline { position: relative; box-sizing: border-box; width: 1900px; min-width: 1900px; overflow: visible; padding-top: 248px; background: repeating-linear-gradient(90deg, transparent 0, transparent calc(8.333% - 1px), rgba(84,72,54,.07) calc(8.333% - 1px), rgba(84,72,54,.07) 8.333%); }
+.cycle-timeline { position: relative; box-sizing: border-box; width: 6400px; min-width: 6400px; overflow: visible; padding-top: 248px; background: repeating-linear-gradient(90deg, transparent 0, transparent calc(8.333% - 1px), rgba(84,72,54,.07) calc(8.333% - 1px), rgba(84,72,54,.07) 8.333%); }
 .cycle-axis-caption { position: absolute; left: 16px; z-index: 5; padding: 4px 9px; border-radius: 999px; font-size: .72rem; font-weight: 800; letter-spacing: .045em; text-transform: uppercase; }
 .cycle-axis-fixed { top: 12px; color: #6e511f; background: #f2e4bd; }
 .cycle-axis-mobile { top: 211px; color: #234b70; background: #dfebf5; }
@@ -1084,11 +1084,11 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .fixed-feast-marker.active { color: #fff; border-color: #4b1018; background: #6b1c29; box-shadow: 0 5px 13px rgba(70,20,28,.22); }
 .fixed-feast-marker.active span { color: #4b1018; background: #f0d789; }
 .fixed-feast-marker:focus-visible { outline: 3px solid #315d89; outline-offset: 2px; }
-.fixed-feast-guide { position: absolute; top: 174px; z-index: 1; width: 1px; height: 112px; border-left: 1px dashed rgba(164,123,33,.35); transition: left .35s ease; }
+.fixed-feast-guide { position: absolute; top: 174px; z-index: 1; width: 1px; height: 405px; border-left: 1px dashed rgba(164,123,33,.35); transition: left .35s ease; }
 .fixed-feast-guide.active { z-index: 2; width: 3px; border-left: 0; background: rgba(107,28,41,.62); }
 .mobile-calendar-ribbon { position: relative; z-index: 4; display: grid; gap: 7px; width: auto; margin: 0 12px 12px; }
 .mobile-calendar-ribbon::before { display: none; }
-.mobile-ribbon-scale { position: relative; height: 52px; margin-left: 190px; overflow: visible; border: 1px solid #d5c9b0; border-radius: 8px; background: rgba(255,253,248,.96); }
+.mobile-ribbon-scale { position: relative; height: 52px; overflow: visible; border: 1px solid #d5c9b0; border-radius: 8px; background: rgba(255,253,248,.96); }
 .mobile-ribbon-scale::before { position: absolute; top: 17px; right: 0; left: 0; height: 22px; border-radius: 7px; background: #dfeaf3; content: ''; }
 .mobile-ribbon-pascha-label { position: absolute; top: 1px; z-index: 4; padding: 1px 6px; transform: translateX(-50%); border-radius: 999px; color: #fff; background: #6b1c29; font-size: .68rem; font-weight: 900; }
 .mobile-ribbon-row { --ribbon-accent: #315d89; display: grid; grid-template-columns: 190px minmax(0, 1fr); min-height: 108px; overflow: hidden; border: 1px solid #d5c9b0; border-radius: 8px; background: #fffdf8; box-shadow: 0 2px 7px rgba(56,39,24,.07); }
@@ -1109,6 +1109,20 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .mobile-ribbon-sunday.active { color: #fff; background: var(--ribbon-accent); }
 .mobile-ribbon-sunday.active small { color: #fff4cf; }
 .mobile-ribbon-sunday:focus-visible { position: relative; z-index: 2; outline: 3px solid #d1aa3b; outline-offset: -3px; }
+.mobile-sunday-lane { position: relative; height: 132px; overflow: visible; border: 1px solid #d5c9b0; border-radius: 8px; background: rgba(255,253,248,.94); }
+.mobile-sunday-lane-fixed { background: rgba(255,249,233,.95); }
+.mobile-sunday-lane-label { position: sticky; top: 8px; left: 10px; z-index: 8; display: inline-block; margin: 8px 0 0 8px; padding: 4px 9px; border-radius: 999px; color: #fff; background: #315d89; font-size: .72rem; font-weight: 900; letter-spacing: .045em; text-transform: uppercase; }
+.mobile-sunday-lane-fixed .mobile-sunday-lane-label { color: #523b15; background: #eedcae; }
+.mobile-sunday-track { position: absolute; inset: 0; }
+.timeline-sunday { position: absolute; top: 30px; z-index: 3; display: grid; grid-template-rows: 1fr auto; width: 98px; height: 94px; padding: 7px 6px 6px; transform: translateX(-50%); border: 1px solid #aebdca; border-radius: 7px; color: #2f3943; background: #f8fcff; text-align: left; cursor: pointer; box-shadow: 0 3px 8px rgba(45,61,75,.13); transition: transform .16s ease, border-color .16s ease, background .16s ease; }
+.timeline-sunday strong { align-self: center; overflow-wrap: anywhere; font: 700 .7rem/1.14 var(--font-serif); }
+.timeline-sunday small { color: #5d7080; font-size: .56rem; font-weight: 900; line-height: 1.15; text-transform: uppercase; }
+.timeline-sunday:hover { z-index: 7; transform: translateX(-50%) translateY(-3px); border-color: #4b1018; background: #fff3d5; }
+.timeline-sunday.active { z-index: 6; color: #fff; border-color: #4b1018; background: #6b1c29; }
+.timeline-sunday.active small { color: #ffe9a9; }
+.timeline-sunday:focus-visible { z-index: 8; outline: 3px solid #d1aa3b; outline-offset: 2px; }
+.timeline-sunday-fixed { border-color: #c2a65d; color: #4f3a17; background: #fffaf0; }
+.timeline-sunday-fixed small { color: #856921; }
 .fixed-ribbon-row { display: grid; grid-template-columns: 190px minmax(0, 1fr); min-height: 56px; overflow: hidden; border: 1px solid #d8c28b; border-radius: 8px; background: #fff9e9; }
 .fixed-ribbon-row.has-sundays { min-height: 148px; }
 .fixed-ribbon-row-heading { display: grid; align-content: center; padding: 10px 14px; border-right: 3px solid #b28c36; color: #553d14; background: #f0dfb5; font: 800 .78rem/1.35 var(--font-serif); }
