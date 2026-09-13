@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260913-liturgical-timeline-4';
+    const DATA_VERSION = '20260913-fixed-sundays-above-5';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1411,8 +1411,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const renderMobileCycleRibbon = () => {
         const ribbon = document.getElementById('mobile-calendar-ribbon');
-        if (!ribbon) return;
+        const fixedRibbon = document.getElementById('fixed-sunday-ribbon');
+        if (!ribbon || !fixedRibbon) return;
         ribbon.innerHTML = '';
+        fixedRibbon.innerHTML = '';
         const scale = document.createElement('div');
         scale.className = 'mobile-ribbon-scale';
         scale.setAttribute('aria-label', 'Position des grandes périodes autour de Pâques');
@@ -1476,7 +1478,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fixedTrack.id = 'fixed-sunday-track';
         fixedTrack.className = 'mobile-sunday-track';
         fixedLane.appendChild(fixedTrack);
-        ribbon.appendChild(fixedLane);
+        fixedRibbon.appendChild(fixedLane);
     };
 
     const setupCycleScrollSync = () => {
