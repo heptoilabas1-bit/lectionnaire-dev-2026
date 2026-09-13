@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260913-liturgical-sunday-tooltips-1';
+    const DATA_VERSION = '20260913-official-liturgical-timeline-1';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1480,6 +1480,17 @@ document.addEventListener('DOMContentLoaded', () => {
         return liturgicalCalendarTooltipData.get(year);
     };
 
+    const fixedSundayKeys = new Set([
+        '90_advent_2', '91_advent_1', '92_nativity_after',
+        '93_theophany_before', '94_theophany_after',
+        '96_cross_before', '97_cross_after'
+    ]);
+
+    const loadLiturgicalYearCalendars = year => Promise.all([
+        loadLiturgicalCalendarTooltipData(year),
+        loadLiturgicalCalendarTooltipData(year + 1)
+    ]);
+
     const resolveLiturgicalSundayCalendarEntry = async (context, liturgicalYear) => {
         const afterPentecost = /_after_pentecost_\d+$/.test(context.key);
         let calendarYear = liturgicalYear + 1;
@@ -1498,6 +1509,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const tooltip = ensureLiturgicalSundayTooltip();
         const sliderYear = Number(document.getElementById('cycle-year-slider')?.value || 2026);
         const pascha = orthodoxPaschaDate(sliderYear + 1);
+        calendarEntry = context.calendarEntry || calendarEntry;
         const officialDate = calendarEntry?.date ? new Date(`${calendarEntry.date}T12:00:00Z`) : null;
         const exactOffset = officialDate ? cycleDayDifference(officialDate, pascha) : context.offset;
         tooltip.innerHTML = '';
@@ -1505,11 +1517,11 @@ document.addEventListener('DOMContentLoaded', () => {
         cycle.className = 'liturgical-tooltip-cycle';
         cycle.textContent = context.variant === 'fixed' ? 'Dimanche du cycle fixe' : 'Dimanche du cycle mobile';
         const title = document.createElement('strong');
-        title.textContent = cleanLiturgicalSundayLabel(liturgicalList[context.key] || context.key);
+        title.textContent = cleanLiturgicalSundayLabel(liturgicalList[context.key] || calendarEntry?.official_title || context.key);
         const exactDate = document.createElement('span');
         exactDate.className = 'liturgical-tooltip-date';
         exactDate.textContent = officialDate
-            ? formatLiturgicalFullDate(officialDate)
+            ? `${formatLiturgicalFullDate(officialDate)}${context.calendarStatus === 'provisional' ? ' · date provisoire' : ''}`
             : (calendarChecked ? 'Date non validée dans le calendrier intégré' : 'Recherche de la date officielle…');
         const position = document.createElement('p');
         position.textContent = calendarEntry?.official_title
@@ -1517,11 +1529,13 @@ document.addEventListener('DOMContentLoaded', () => {
             : `${describeSundayPosition(context.key, context.offset, context.variant)} · ${formatPaschalOffset(context.offset)}.`;
         const readings = document.createElement('div');
         readings.className = 'liturgical-tooltip-readings';
-        if (data?.gospel?.reference || data?.apostle?.reference) {
+        const gospelReference = calendarEntry?.readings?.gospel?.reference || data?.gospel?.reference;
+        const apostleReference = calendarEntry?.readings?.apostle?.reference || data?.apostle?.reference;
+        if (gospelReference || apostleReference) {
             const gospel = document.createElement('span');
-            gospel.innerHTML = `<b>Évangile</b> ${data?.gospel?.reference || 'à préciser'}`;
+            gospel.innerHTML = `<b>Évangile</b> ${gospelReference || 'à préciser'}`;
             const apostle = document.createElement('span');
-            apostle.innerHTML = `<b>Apôtre</b> ${data?.apostle?.reference || 'à préciser'}`;
+            apostle.innerHTML = `<b>Apôtre</b> ${apostleReference || 'à préciser'}`;
             readings.append(gospel, apostle);
         } else {
             readings.textContent = 'Chargement des lectures…';
@@ -1544,7 +1558,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const sliderYear = Number(document.getElementById('cycle-year-slider')?.value || 2026);
         Promise.all([
             loadLiturgicalSundayTooltipData(context.key),
-            resolveLiturgicalSundayCalendarEntry(context, sliderYear)
+            context.calendarEntry ? Promise.resolve(context.calendarEntry) : resolveLiturgicalSundayCalendarEntry(context, sliderYear)
         ]).then(([data, calendarEntry]) => {
             if (activeLiturgicalSundayTooltipButton === button) {
                 renderLiturgicalSundayTooltip(button, context, data, calendarEntry, true);
@@ -1640,39 +1654,12 @@ document.addEventListener('DOMContentLoaded', () => {
         paschaLabel.textContent = 'Pâques';
         scale.appendChild(paschaLabel);
         ribbon.appendChild(scale);
-        const buildSundayButton = (key, offset, variant = 'cycle') => {
-            const fullLabel = liturgicalList[key] || key;
-            const button = document.createElement('button');
-            button.type = 'button';
-            button.className = `timeline-sunday timeline-sunday-${variant}${key === currentSundayKey ? ' active' : ''}`;
-            button.dataset.sundayKey = key;
-            button.style.left = `${cyclePercent(offset)}%`;
-            button.setAttribute('aria-label', `Ouvrir la péricope : ${fullLabel}`);
-            const label = document.createElement('strong');
-            label.textContent = cleanLiturgicalSundayLabel(fullLabel);
-            const action = document.createElement('small');
-            action.textContent = compactSundayPosition(key, offset, variant);
-            button.append(label, action);
-            attachLiturgicalSundayTooltip(button, { key, offset, variant }, () => openLiturgicalStageReading({ key }, 'gospel'));
-            return button;
-        };
-
         const coreLane = document.createElement('section');
         coreLane.className = 'mobile-sunday-lane mobile-sunday-lane-core';
         coreLane.innerHTML = '<span class="mobile-sunday-lane-label">Dimanches du cycle mobile</span>';
         const coreTrack = document.createElement('div');
+        coreTrack.id = 'mobile-sunday-track';
         coreTrack.className = 'mobile-sunday-track';
-        const weeklyGroups = [
-            { start: -224, keys: ['311_after_pentecost_11', '312_after_pentecost_12', '313_after_pentecost_13', '314_after_pentecost_14', '315_after_pentecost_15', '316_after_pentecost_16', '317_after_pentecost_17'] },
-            { start: -175, keys: ['318_after_pentecost_18', '319_after_pentecost_19', '320_after_pentecost_20', '321_after_pentecost_21', '322_after_pentecost_22', '323_after_pentecost_23', '324_after_pentecost_24', '325_after_pentecost_25', '326_after_pentecost_26', '327_after_pentecost_27', '328_after_pentecost_28', '329_after_pentecost_29', '330_after_pentecost_30', '331_after_pentecost_31', '332_after_pentecost_32'] },
-            { start: -70, keys: ['00_publican_pharisee', '01_prodigal_son', '02_meatfare', '03_cheese_fare'] },
-            { start: -42, keys: ['10_great_lent_1', '11_great_lent_2', '12_great_lent_3', '13_great_lent_4', '14_great_lent_5', '15_palm_sunday'] },
-            { start: 0, keys: ['21_pascha', '22_thomas_sunday', '23_myrrhbearers', '24_paralytic', '25_samaritan', '26_blind_man', '27_holy_fathers_1', '28_pentecost', '29_all_saints'] },
-            { start: 63, keys: ['302_after_pentecost_2', '303_after_pentecost_3', '304_after_pentecost_4', '305_after_pentecost_5', '306_after_pentecost_6', '307_after_pentecost_7', '308_after_pentecost_8', '309_after_pentecost_9', '310_after_pentecost_10'] }
-        ];
-        weeklyGroups.forEach(group => group.keys.forEach((key, index) => {
-            coreTrack.appendChild(buildSundayButton(key, group.start + (index * 7)));
-        }));
         coreLane.appendChild(coreTrack);
         ribbon.appendChild(coreLane);
 
@@ -1684,6 +1671,78 @@ document.addEventListener('DOMContentLoaded', () => {
         fixedTrack.className = 'mobile-sunday-track';
         fixedLane.appendChild(fixedTrack);
         fixedRibbon.appendChild(fixedLane);
+    };
+
+    const compactOfficialSundayPosition = (entry, date, variant) => {
+        const rank = entry.official_title?.match(/(\d+)(?:er|e) dimanche après la Pentecôte/i);
+        const position = rank ? `DP ${Number(rank[1])}` : (variant === 'fixed' ? 'cycle fixe' : 'cycle mobile');
+        return `${formatLiturgicalDate(date)} · ${position}`;
+    };
+
+    const renderCalendarSundayTracks = (year, pascha, calendars) => {
+        const mobileTrack = document.getElementById('mobile-sunday-track');
+        const fixedTrack = document.getElementById('fixed-sunday-track');
+        const status = document.getElementById('cycle-calendar-status');
+        if (!mobileTrack || !fixedTrack || !status) return;
+        mobileTrack.innerHTML = '';
+        fixedTrack.innerHTML = '';
+
+        const yearStart = utcDate(year, 8, 1);
+        const nextYearStart = utcDate(year + 1, 8, 1);
+        const availableCalendars = calendars.filter(Boolean);
+        const entries = availableCalendars.flatMap(calendar => (calendar.sundays || []).map(entry => ({
+            ...entry,
+            calendarStatus: calendar.status || 'official',
+            calendarYear: calendar.year
+        }))).filter(entry => {
+            if (!entry.key || !entry.date) return false;
+            const date = new Date(`${entry.date}T12:00:00Z`);
+            return date >= yearStart && date < nextYearStart;
+        }).sort((a, b) => a.date.localeCompare(b.date));
+
+        const officialYears = availableCalendars.filter(calendar => calendar.status !== 'provisional').map(calendar => calendar.year);
+        const provisionalYears = availableCalendars.filter(calendar => calendar.status === 'provisional').map(calendar => calendar.year);
+        status.className = 'cycle-calendar-status';
+        if (!availableCalendars.length) {
+            status.classList.add('is-calculated');
+            status.textContent = 'Repères calculés uniquement : cette année sert à visualiser le déplacement de Pâques et des fêtes fixes. Aucun calendrier détaillé n’est intégré pour lui attribuer des dimanches ou des lectures.';
+        } else if (provisionalYears.length) {
+            status.classList.add('is-provisional');
+            const officialPart = officialYears.length ? `calendrier officiel ${officialYears.join(' et ')}` : '';
+            const provisionalPart = `données ${provisionalYears.join(' et ')} provisoires`;
+            status.textContent = `Frise partielle : ${[officialPart, provisionalPart].filter(Boolean).join(' ; ')}. Les dimanches sans attribution validée ne sont pas affichés.`;
+        } else {
+            status.textContent = `Frise partielle fondée sur le calendrier officiel ${officialYears.join(' et ')}. Les périodes sans calendrier intégré restent volontairement vides.`;
+        }
+
+        entries.forEach(entry => {
+            const date = new Date(`${entry.date}T12:00:00Z`);
+            const offset = cycleDayDifference(date, pascha);
+            if (offset < CYCLE_AXIS_MIN || offset > CYCLE_AXIS_MAX) return;
+            const variant = fixedSundayKeys.has(entry.key) ? 'fixed' : 'cycle';
+            const track = variant === 'fixed' ? fixedTrack : mobileTrack;
+            const fullLabel = liturgicalList[entry.key] || entry.official_title || entry.key;
+            const button = document.createElement('button');
+            button.type = 'button';
+            button.className = `timeline-sunday timeline-sunday-${variant}${entry.key === currentSundayKey ? ' active' : ''}`;
+            button.dataset.sundayKey = entry.key;
+            button.style.left = `${cyclePercent(offset)}%`;
+            const label = document.createElement('strong');
+            label.textContent = cleanLiturgicalSundayLabel(fullLabel);
+            const action = document.createElement('small');
+            action.textContent = compactOfficialSundayPosition(entry, date, variant);
+            button.append(label, action);
+            const context = { key: entry.key, offset, variant, calendarEntry: entry, calendarStatus: entry.calendarStatus };
+            attachLiturgicalSundayTooltip(button, context, () => openLiturgicalStageReading({ key: entry.key }, 'gospel'));
+            track.appendChild(button);
+        });
+
+        if (!entries.length) {
+            const note = document.createElement('span');
+            note.className = 'mobile-sunday-track-note';
+            note.textContent = 'Aucune carte dominicale n’est placée sans calendrier détaillé validé.';
+            mobileTrack.appendChild(note);
+        }
     };
 
     const setupCycleScrollSync = () => {
@@ -1739,7 +1798,9 @@ document.addEventListener('DOMContentLoaded', () => {
         detail.append(date, title, position, note);
     };
 
-    const updateCycleAlignment = year => {
+    let cycleAlignmentRequestId = 0;
+    const updateCycleAlignment = async year => {
+        const requestId = ++cycleAlignmentRequestId;
         const timeline = document.getElementById('cycle-timeline');
         const ribbon = document.getElementById('fixed-calendar-ribbon');
         const yearOutput = document.getElementById('cycle-year-output');
@@ -1795,35 +1856,9 @@ document.addEventListener('DOMContentLoaded', () => {
             timeline.appendChild(guide);
         });
 
-        const fixedSundayTrack = document.getElementById('fixed-sunday-track');
-        if (fixedSundayTrack) {
-            const sundayBefore = offset => Math.floor((offset - 1) / 7) * 7;
-            const sundayAfter = offset => Math.ceil((offset + 1) / 7) * 7;
-            const cross = placements.find(item => item.id === 'cross');
-            const nativity = placements.find(item => item.id === 'nativity');
-            const theophany = placements.find(item => item.id === 'theophany');
-            const fixedSundays = [
-                { key: '96_cross_before', offset: sundayBefore(cross.offset) },
-                { key: '97_cross_after', offset: sundayAfter(cross.offset) },
-                { key: '90_advent_2', offset: sundayBefore(nativity.offset) - 7 },
-                { key: '91_advent_1', offset: sundayBefore(nativity.offset) },
-                { key: '92_nativity_after', offset: sundayAfter(nativity.offset) },
-                { key: '93_theophany_before', offset: sundayBefore(theophany.offset) },
-                { key: '94_theophany_after', offset: sundayAfter(theophany.offset) }
-            ];
-            fixedSundayTrack.innerHTML = '';
-            fixedSundays.forEach(item => {
-                const fullLabel = liturgicalList[item.key] || item.key;
-                const button = document.createElement('button');
-                button.type = 'button';
-                button.className = `timeline-sunday timeline-sunday-fixed${item.key === currentSundayKey ? ' active' : ''}`;
-                button.dataset.sundayKey = item.key;
-                button.style.left = `${cyclePercent(item.offset)}%`;
-                button.innerHTML = `<strong>${cleanLiturgicalSundayLabel(fullLabel)}</strong><small>${compactSundayPosition(item.key, item.offset, 'fixed')}</small>`;
-                attachLiturgicalSundayTooltip(button, { key: item.key, offset: item.offset, variant: 'fixed' }, () => openLiturgicalStageReading({ key: item.key }, 'gospel'));
-                fixedSundayTrack.appendChild(button);
-            });
-        }
+        const calendars = await loadLiturgicalYearCalendars(year);
+        if (requestId !== cycleAlignmentRequestId) return;
+        renderCalendarSundayTracks(year, pascha, calendars);
 
         const selected = placements.find(item => item.id === selectedFixedFeastId) || placements[0];
         renderCycleEncounterDetail(selected);

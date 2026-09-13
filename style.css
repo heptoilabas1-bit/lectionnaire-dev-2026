@@ -1065,6 +1065,9 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .cycle-year-control input { width: 100%; accent-color: #6b1c29; cursor: ew-resize; }
 .cycle-year-control input:focus-visible { outline: 3px solid #315d89; outline-offset: 4px; }
 .cycle-year-limits { grid-column: 2; display: flex; justify-content: space-between; color: #756b5c; font-weight: 700; }
+.cycle-calendar-status { margin: 9px 0 0; padding: 8px 11px; border-left: 4px solid #315d89; border-radius: 5px; color: #4d473e; background: #edf4f8; font-size: .8rem; line-height: 1.42; }
+.cycle-calendar-status.is-provisional { border-left-color: #9b7425; background: #fff7df; }
+.cycle-calendar-status.is-calculated { border-left-color: #756b5c; background: #f1eee8; }
 .cycle-scroll-top { height: 19px; margin-top: 16px; overflow-x: auto; overflow-y: hidden; border: 1px solid #d7c9aa; border-bottom: 0; border-radius: 10px 10px 0 0; background: #f3ead7; scrollbar-color: #9f7d39 #eee5d1; }
 .cycle-scroll-top-spacer { height: 1px; }
 .cycle-scroll-top:focus-visible { outline: 3px solid #315d89; outline-offset: 3px; }
@@ -1116,6 +1119,7 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .mobile-sunday-lane-label { position: sticky; top: 8px; left: 10px; z-index: 8; display: inline-block; margin: 8px 0 0 8px; padding: 4px 9px; border-radius: 999px; color: #fff; background: #315d89; font-size: .72rem; font-weight: 900; letter-spacing: .045em; text-transform: uppercase; }
 .mobile-sunday-lane-fixed .mobile-sunday-lane-label { color: #523b15; background: #eedcae; }
 .mobile-sunday-track { position: absolute; inset: 0; }
+.mobile-sunday-track-note { position: absolute; top: 54px; left: 50%; width: min(620px, 80%); transform: translateX(-50%); color: #6a6257; font-size: .78rem; font-style: italic; line-height: 1.4; text-align: center; }
 .timeline-sunday { position: absolute; top: 30px; z-index: 3; display: grid; grid-template-rows: 1fr auto; width: 98px; height: 94px; padding: 7px 6px 6px; transform: translateX(-50%); border: 1px solid #aebdca; border-radius: 7px; color: #2f3943; background: #f8fcff; text-align: left; cursor: pointer; box-shadow: 0 3px 8px rgba(45,61,75,.13); transition: transform .16s ease, border-color .16s ease, background .16s ease; }
 .timeline-sunday strong { align-self: center; overflow-wrap: anywhere; font: 700 .7rem/1.14 var(--font-serif); }
 .timeline-sunday small { color: #5d7080; font-size: .56rem; font-weight: 900; line-height: 1.15; text-transform: uppercase; }
