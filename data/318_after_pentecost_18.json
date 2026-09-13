@@ -1740,5 +1740,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title": "La parole reçue ouvre une abondance à partager",
+    "summary": "Pierre consent à jeter les filets sur la parole de Jésus, reçoit une pêche surabondante puis laisse tout pour le suivre. Paul décrit pareillement un don de Dieu qui multiplie la semence afin que toute suffisance devienne générosité.",
+    "links": [
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"everything_given",
+        "title":"Toute grâce — ayant tout laissé",
+        "explanation":"Paul accumule les formes de πᾶς pour dire l’ampleur de la grâce et de l’œuvre bonne ; Luc conclut par ἀφέντες πάντα, « ayant tout laissé ». La totalité reçue ne se ferme pas sur elle-même : elle rend libre pour suivre.",
+        "bridge_sentence":"Celui qui reçoit tout de Dieu peut cesser de tout retenir et suivre le Christ.",
+        "homiletic_use":"Ne pas faire de l’abandon une glorification de la perte : l’Évangile le place après le don surabondant, comme une liberté née de la rencontre.",
+        "bridge":{"evidence":"Même adjectif πᾶς : πᾶσαν / παντί / πάντοτε / πᾶν et πάντα","gospel":"ἀφέντες πάντα ἠκολούθησαν αὐτῷ : ayant tout laissé, ils le suivirent","relation":"La totalité du don reçu devient disponibilité totale au Christ","apostle":"πᾶσαν χάριν… εἰς πᾶν ἔργον ἀγαθόν : toute grâce… pour toute œuvre bonne","detail":"πάντα est l’accusatif neutre pluriel du même adjectif πᾶς que Paul décline à plusieurs cas."},
+        "term_details":{"gospel":[{"forms":["πάντα"],"lemma":"πᾶς","root":"παντ- : tout, totalité","literal":"toutes choses, tout","role":"Les pêcheurs ne retiennent plus ce qui définissait leur sécurité."}],"apostle":[{"forms":["πᾶσαν","παντὶ","πάντοτε","πᾶν"],"lemma":"πᾶς","root":"παντ- : tout, totalité","literal":"toute / en tout / toujours / toute","role":"La répétition enveloppe la grâce, les circonstances et l’œuvre bonne."}]},
+        "gospel":{"verses":["11"],"terms":["πάντα"]}, "apostle":{"verses":["8"],"terms":["πᾶσαν","παντὶ","πάντοτε","πᾶν"]}
+      },
+      {
+        "directness":"indirect", "kind":"theology", "link_type":"divine_abundance",
+        "title":"Faire surabonder — les barques remplies",
+        "explanation":"Paul emploie περισσεῦσαι et περισσεύητε pour la grâce qui surabonde et rend fécond. Luc choisit le langage concret de filets qui se déchirent et de deux barques remplies. Le lexique diffère, mais le mouvement est celui d’une abondance que l’homme ne produit pas seul.",
+        "bridge_sentence":"La surabondance divine ne couronne pas l’autosuffisance ; elle rejoint le travail épuisé et le rend fécond.",
+        "homiletic_use":"Partir de la nuit infructueuse de Pierre : la grâce n’abolit ni l’effort ni l’entraide, mais elle les ouvre à une fécondité imprévisible.",
+        "bridge":{"evidence":"Champ sémantique commun, lexèmes distincts : περισσεύω / πλήθω et πίμπλημι","gospel":"συνέκλεισαν πλῆθος ἰχθύων πολύ… ἔπλησαν ἀμφότερα τὰ πλοῖα : ils enfermèrent une grande multitude de poissons… remplirent les deux barques","relation":"Le don de Dieu dépasse la mesure individuelle et appelle le partage","apostle":"πᾶσαν χάριν περισσεῦσαι… περισσεύητε : faire surabonder toute grâce… afin que vous abondiez","detail":"Il s’agit d’une correspondance d’image, non d’une racine grecque identique."},
+        "term_details":{"gospel":[{"forms":["πλῆθος","ἔπλησαν"],"lemma":"πλῆθος / πίμπλημι","root":"vocabulaire de multitude et de remplissement","literal":"multitude / ils remplirent","role":"La pêche excède la capacité d’un seul équipage."}],"apostle":[{"forms":["περισσεῦσαι","περισσεύητε"],"lemma":"περισσεύω","root":"περισσ- : dépasser la mesure, abonder","literal":"faire abonder / que vous abondiez","role":"Dieu donne assez pour rendre possible toute œuvre bonne."}]},
+        "gospel":{"verses":["6","7"],"terms":["πλῆθος","ἔπλησαν"]}, "apostle":{"verses":["8"],"terms":["περισσεῦσαι","περισσεύητε"]}
+      },
+      {
+        "directness":"indirect", "kind":"theology", "link_type":"word_and_fruitfulness",
+        "title":"La semence donnée — sur ta parole",
+        "explanation":"Paul confesse Dieu comme celui qui fournit et multiplie la semence ; Pierre agit ἐπὶ… τῷ ῥήματί σου, « sur ta parole ». Semence et filet sont deux images différentes, unies par une fécondité qui commence dans l’accueil du don divin.",
+        "bridge_sentence":"La parole du Christ transforme l’acte humain en réponse féconde au don qui le précède.",
+        "homiletic_use":"Faire place à la coopération : Dieu fournit, Pierre jette le filet, les compagnons viennent aider, et l’abondance devient communion plutôt qu’exploit solitaire.",
+        "bridge":{"evidence":"Lien narratif et théologique : σπέρμα / ῥήματι, sans parenté lexicale","gospel":"ἐπὶ δὲ τῷ ῥήματί σου χαλάσω τὰ δίκτυα : mais sur ta parole je jetterai les filets","relation":"La fécondité naît d’une action humaine fondée sur l’initiative divine","apostle":"ὁ… ἐπιχορηγῶν σπέρμα… πληθυνεῖ τὸν σπόρον : celui qui fournit la semence… multipliera votre semence","detail":"Le rapprochement respecte la différence des métaphores agricoles et halieutiques."},
+        "term_details":{"gospel":[{"forms":["ῥήματί"],"lemma":"ῥῆμα","root":"ῥη- : parole dite","literal":"sur ta parole","role":"La parole de Jésus devient le fondement de l’acte de Pierre."}],"apostle":[{"forms":["σπέρμα","σπόρον"],"lemma":"σπέρμα / σπόρος","root":"σπερ- : semer","literal":"semence","role":"Dieu fournit et multiplie ce qui pourra porter du fruit."}]},
+        "gospel":{"verses":["5"],"terms":["ῥήματί"]}, "apostle":{"verses":["10"],"terms":["σπέρμα","σπόρον"]}
+      }
+    ]
   }
 }

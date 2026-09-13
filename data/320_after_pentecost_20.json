@@ -1440,5 +1440,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"Le Fils révélé rend la vie et visite son peuple",
+    "summary":"Paul témoigne que Dieu a révélé son Fils en lui afin qu’il l’annonce parmi les nations. À Naïn, le Seigneur voit une mère veuve, rend son fils unique à la vie et conduit la foule à reconnaître que Dieu visite son peuple.",
+    "links":[
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"son_revealed",
+        "title":"Révéler son Fils — le fils unique rendu vivant",
+        "explanation":"Paul parle du υἱός que Dieu révèle en lui ; Luc nomme le mort μονογενὴς υἱός, fils unique de la veuve. Le même mot unit le Fils annoncé et le fils relevé, sans les confondre.",
+        "bridge_sentence":"Le Fils révélé en Paul se manifeste dans l’Évangile comme le Seigneur qui relève le fils perdu.",
+        "homiletic_use":"Respecter la dissymétrie : Jésus est le Fils de Dieu, le jeune homme est le fils de la veuve ; leur rapprochement éclaire l’action vivifiante du Fils, non une identité entre eux.",
+        "bridge":{"evidence":"Même nom υἱός : υἱὸν / υἱὸς","gospel":"μονογενὴς υἱὸς τῇ μητρὶ αὐτοῦ : fils unique de sa mère","relation":"Le Fils que Paul proclame rend à une mère son fils relevé","apostle":"ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοί : révéler son Fils en moi","detail":"L’accusatif et le nominatif viennent du même substantif ; les référents demeurent distincts."},
+        "term_details":{"gospel":[{"forms":["υἱὸς"],"lemma":"υἱός","root":"υἱ- : fils","literal":"fils","role":"Le mort est l’unique fils et l’unique soutien familial de sa mère veuve."}],"apostle":[{"forms":["υἱὸν"],"lemma":"υἱός","root":"υἱ- : fils","literal":"son Fils","role":"Le contenu de la révélation et de l’annonce confiées à Paul est une personne."}]},
+        "gospel":{"verses":["12"],"terms":["υἱὸς"]}, "apostle":{"verses":["16"],"terms":["υἱὸν"]}
+      },
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"mother_and_call",
+        "title":"Dès le sein de ma mère — il le rendit à sa mère",
+        "explanation":"Paul relit son appel depuis la κοιλία de sa μήτηρ ; Jésus remet le jeune homme à sa μήτηρ. Le même mot « mère » encadre deux vies reçues comme vocation et comme restauration.",
+        "bridge_sentence":"Le Dieu qui appelle depuis le sein maternel est aussi celui qui restaure une vie au cœur d’un deuil maternel.",
+        "homiletic_use":"Faire entendre la compassion concrète du récit : Jésus ne réalise pas une démonstration abstraite, il voit la mère et lui rend son fils.",
+        "bridge":{"evidence":"Même nom μήτηρ : μητρός / μητρὶ","gospel":"ἔδωκεν αὐτὸν τῇ μητρὶ αὐτοῦ : il le donna à sa mère","relation":"L’initiative de Dieu rejoint la vie humaine jusque dans son lien maternel","apostle":"ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου : celui qui m’a mis à part dès le sein de ma mère","detail":"Le génitif μητρός et le datif μητρί sont deux formes du même nom."},
+        "term_details":{"gospel":[{"forms":["μητρὶ"],"lemma":"μήτηρ","root":"μητρ- : mère","literal":"à sa mère","role":"La restitution du fils répond directement à la compassion éprouvée pour la veuve."}],"apostle":[{"forms":["μητρός"],"lemma":"μήτηρ","root":"μητρ- : mère","literal":"de ma mère","role":"Paul inscrit l’appel gratuit de Dieu avant toute performance personnelle."}]},
+        "gospel":{"verses":["12","15"],"terms":["μητρὶ"]}, "apostle":{"verses":["15"],"terms":["μητρός"]}
+      },
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"god_reveals_and_visits",
+        "title":"Dieu révèle — Dieu visite",
+        "explanation":"Dans les deux lectures, θεός est sujet de l’initiative : il choisit de révéler son Fils en Paul et, selon l’acclamation de la foule, il visite son peuple à Naïn. Révélation et visitation sont deux formes de la venue première de Dieu.",
+        "bridge_sentence":"L’Évangile ne naît pas d’une invention humaine : il annonce le Dieu qui vient lui-même visiter et relever son peuple.",
+        "homiletic_use":"Relier mission et compassion : l’annonce de Paul porte sur une initiative divine que la scène de Naïn rend visible au milieu d’une douleur publique.",
+        "bridge":{"evidence":"Même nom θεός dans deux propositions où Dieu prend l’initiative","gospel":"Ἐπεσκέψατο ὁ θεὸς τὸν λαὸν αὐτοῦ : Dieu a visité son peuple","relation":"La révélation apostolique annonce une visitation divine qui donne la vie","apostle":"εὐδόκησεν… ἀποκαλύψαι τὸν υἱὸν αὐτοῦ : Dieu a jugé bon de révéler son Fils","detail":"L’identité lexicale porte sur θεός ; les verbes ἀποκαλύπτω et ἐπισκέπτομαι décrivent deux actions distinctes mais convergentes."},
+        "term_details":{"gospel":[{"forms":["θεὸς"],"lemma":"θεός","root":"θε- : Dieu","literal":"Dieu","role":"La foule reconnaît derrière le relèvement une visitation de Dieu."}],"apostle":[{"forms":["θεοῦ"],"lemma":"θεός","root":"θε- : Dieu","literal":"de Dieu","role":"Dieu est la source de l’Église, de la grâce et de la révélation du Fils."}]},
+        "gospel":{"verses":["16"],"terms":["θεὸς"]}, "apostle":{"verses":["13"],"terms":["θεοῦ"]}
+      }
+    ]
   }
 }

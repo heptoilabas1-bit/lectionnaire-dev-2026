@@ -1186,5 +1186,41 @@
         "connections": []
       }
     ]
+  },
+  "reading_connections": {
+    "title": "Sortir vers le Christ pour devenir la demeure de Dieu",
+    "summary": "Paul appelle les baptisés à sortir de ce qui profane l’alliance afin d’être reçus comme fils et filles. La Cananéenne sort elle aussi de son territoire, traverse les frontières et reçoit pour sa fille la guérison demandée dans la foi.",
+    "links": [
+      {
+        "directness": "direct", "kind": "same_word", "link_type": "coming_out",
+        "title": "Sortez — étant sortie",
+        "explanation": "Paul emploie l’impératif ἐξέλθατε, tandis que Matthieu décrit la Cananéenne par le participe ἐξελθοῦσα. Les deux formes viennent de ἐξέρχομαι : la sortie demandée n’est pas un enfermement identitaire, mais un déplacement qui rend possible la rencontre avec Dieu.",
+        "bridge_sentence": "Sortir de ce qui aliène devient, dans l’Évangile, sortir à la rencontre du Christ.",
+        "homiletic_use": "Ne pas identifier la Cananéenne à l’impureté dénoncée par Paul : le rapprochement porte sur le mouvement de sortie, et l’Évangile montre précisément que la frontière ethnique n’arrête pas la foi.",
+        "bridge": {"evidence":"Même lemme ἐξέρχομαι : ἐξέλθατε / ἐξελθοῦσα","gospel":"γυνὴ Χαναναία… ἐξελθοῦσα : une femme cananéenne, étant sortie","relation":"La séparation d’avec l’idole ouvre un mouvement vers le Seigneur","apostle":"ἐξέλθατε ἐκ μέσου αὐτῶν : sortez du milieu d’eux","detail":"L’impératif aoriste et le participe aoriste expriment le même verbe sous deux fonctions différentes."},
+        "term_details": {"gospel":[{"forms":["ἐξελθοῦσα"],"lemma":"ἐξέρχομαι","root":"ἐξ- + ἔρχομαι : sortir, aller hors de","literal":"étant sortie","role":"La femme franchit concrètement une limite pour venir vers Jésus."}],"apostle":[{"forms":["ἐξέλθατε"],"lemma":"ἐξέρχομαι","root":"ἐξ- + ἔρχομαι : sortir, aller hors de","literal":"sortez","role":"Paul appelle à rompre avec ce qui contredit l’appartenance au Dieu vivant."}]},
+        "gospel":{"verses":["22"],"terms":["ἐξελθοῦσα"]}, "apostle":{"verses":["17"],"terms":["ἐξέλθατε"]}
+      },
+      {
+        "directness": "direct", "kind": "same_word", "link_type": "children_received",
+        "title": "Fils et filles — le Fils et la fille",
+        "explanation": "La promesse apostolique nomme des υἱούς et des θυγατέρας accueillis par le Père. Dans l’Évangile, la mère invoque le υἱὸς Δαυίδ pour sa θυγάτηρ. Le vocabulaire familial fait passer de la supplication d’une mère à l’élargissement de la famille de Dieu.",
+        "bridge_sentence": "Le Fils de David guérit la fille étrangère et manifeste l’accueil par lequel Dieu se fait Père.",
+        "homiletic_use": "Faire entendre que l’adoption promise par Paul n’efface pas les liens humains : la foi d’une mère devient le lieu où se révèle l’accueil de Dieu.",
+        "bridge": {"evidence":"Mêmes noms υἱός et θυγάτηρ : υἱοὺς / υἱὸς et θυγατέρας / θυγάτηρ","gospel":"κύριε υἱὸς Δαυίδ… ἡ θυγάτηρ μου : Seigneur, Fils de David… ma fille","relation":"La guérison familiale laisse entrevoir l’accueil filial promis à tout le peuple de Dieu","apostle":"ἔσεσθέ μοι εἰς υἱοὺς καὶ θυγατέρας : vous serez pour moi des fils et des filles","detail":"Les cas grammaticaux diffèrent, mais les deux substantifs sont exactement communs aux lectures."},
+        "term_details": {"gospel":[{"forms":["υἱὸς"],"lemma":"υἱός","root":"υἱ- : fils","literal":"Fils","role":"Titre messianique donné à Jésus par la Cananéenne."},{"forms":["θυγάτηρ"],"lemma":"θυγάτηρ","root":"θυγατρ- : fille","literal":"ma fille","role":"La personne pour laquelle la mère intercède."}],"apostle":[{"forms":["υἱοὺς"],"lemma":"υἱός","root":"υἱ- : fils","literal":"des fils","role":"Nom de la relation offerte par Dieu."},{"forms":["θυγατέρας"],"lemma":"θυγάτηρ","root":"θυγατρ- : fille","literal":"des filles","role":"La promesse inclut explicitement les filles dans l’alliance filiale."}]},
+        "gospel":{"verses":["22"],"terms":["υἱὸς","θυγάτηρ"]}, "apostle":{"verses":["18"],"terms":["υἱοὺς","θυγατέρας"]}
+      },
+      {
+        "directness": "indirect", "kind": "theology", "link_type": "holiness_and_faith",
+        "title": "Achever la sainteté — grande est ta foi",
+        "explanation": "Paul associe la purification à une sainteté en croissance ; Jésus reconnaît la grandeur d’une foi persévérante. Les mots ne sont pas de même racine, mais les deux passages décrivent une relation à Dieu qui engage toute la personne.",
+        "bridge_sentence": "La sainteté n’est pas protection d’une frontière sociale : elle devient disponibilité persévérante à la volonté de Dieu.",
+        "homiletic_use": "Tenir ensemble exigence et accueil : la purification paulinienne ne justifie aucun mépris, puisque Jésus discerne une foi exemplaire au-delà des frontières d’Israël.",
+        "bridge": {"evidence":"Lien théologique, sans identité lexicale : ἁγιωσύνην / πίστις","gospel":"μεγάλη σου ἡ πίστις : grande est ta foi","relation":"Une appartenance réelle à Dieu se reconnaît dans une vie orientée vers lui","apostle":"ἐπιτελοῦντες ἁγιωσύνην : menant la sainteté à son accomplissement","detail":"Le lien unit deux réponses à Dieu — sainteté et foi — sans prétendre que les termes grecs sont synonymes."},
+        "term_details": {"gospel":[{"forms":["πίστις"],"lemma":"πίστις","root":"πιστ- : foi, confiance, fidélité","literal":"foi","role":"Jésus nomme la confiance persévérante de la femme."}],"apostle":[{"forms":["ἁγιωσύνην"],"lemma":"ἁγιωσύνη","root":"ἁγι- : saint, consacré","literal":"sainteté","role":"La promesse reçue appelle une transformation effective."}]},
+        "gospel":{"verses":["28"],"terms":["πίστις"]}, "apostle":{"verses":["1"],"terms":["ἁγιωσύνην"]}
+      }
+    ]
   }
 }

@@ -1854,5 +1854,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"La parole crue devient œuvre bonne et fruit patient",
+    "summary":"La parabole suit la parole depuis l’écoute jusqu’au fruit porté avec persévérance. Tite reprend les mêmes articulations : une parole digne de foi, des croyants appliqués aux œuvres bonnes et une communauté appelée à ne pas rester sans fruit.",
+    "links":[
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"faithful_word",
+        "title":"La parole fidèle — croire la parole",
+        "explanation":"Tite ouvre par Πιστὸς ὁ λόγος, « fidèle est la parole », puis nomme ceux qui ont cru en Dieu. Luc identifie la semence au λόγος τοῦ θεοῦ et décrit ceux qui croient. Les familles λόγος et πιστ- se croisent explicitement dans les deux lectures.",
+        "bridge_sentence":"La parole est fidèle du côté de Dieu ; du côté de l’homme, elle demande une foi qui la reçoit et demeure.",
+        "homiletic_use":"Ne pas réduire la foi à un instant : Luc distingue la foi passagère de l’accueil persévérant, et Tite relie la foi aux œuvres utiles.",
+        "bridge":{"evidence":"Mêmes lexèmes λόγος et famille πιστ- : Πιστὸς / πεπιστευκότες / πίστει et πιστεύσαντες / πιστεύουσιν","gospel":"ὁ σπόρος ἐστὶν ὁ λόγος τοῦ θεοῦ… πιστεύουσιν : la semence est la parole de Dieu… ils croient","relation":"La fidélité de la parole appelle une foi durable et active","apostle":"Πιστὸς ὁ λόγος… οἱ πεπιστευκότες θεῷ : fidèle est la parole… ceux qui ont cru en Dieu","detail":"πιστός, πιστεύω et πίστις appartiennent à la même famille πιστ-, tandis que λόγος est identique dans les deux textes."},
+        "term_details":{"gospel":[{"forms":["λόγος","πιστεύσαντες","πιστεύουσιν"],"lemma":"λόγος / πιστεύω","root":"λογ- : parole ; πιστ- : foi, confiance","literal":"parole / ayant cru / ils croient","role":"La parole semée cherche une foi qui ne cède pas au temps de l’épreuve."}],"apostle":[{"forms":["Πιστὸς","λόγος","πεπιστευκότες","πίστει"],"lemma":"πιστός / λόγος / πιστεύω / πίστις","root":"πιστ- : fidèle, croire, foi ; λογ- : parole","literal":"fidèle / parole / ayant cru / foi","role":"Paul unit la fiabilité de l’enseignement, la foi en Dieu et la communion fraternelle."}]},
+        "gospel":{"verses":["11","12","13"],"terms":["λόγος","πιστεύσαντες","πιστεύουσιν"]}, "apostle":{"verses":["8","15"],"terms":["Πιστὸς","λόγος","πεπιστευκότες","πίστει"]}
+      },
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"good_soil_good_works",
+        "title":"La bonne terre — les œuvres bonnes",
+        "explanation":"Luc qualifie la terre puis le cœur par καλός et ἀγαθός ; Tite insiste sur les καλὰ ἔργα. Le même καλός relie la qualité intérieure de l’accueil à la beauté-bonté des actes qui en procèdent.",
+        "bridge_sentence":"La bonne terre du cœur devient reconnaissable dans des œuvres bonnes et utiles aux hommes.",
+        "homiletic_use":"Éviter d’opposer intériorité et action : l’épître permet de lire les œuvres non comme une performance ajoutée à la foi, mais comme son fruit visible.",
+        "bridge":{"evidence":"Même adjectif καλός : καλῇ / καλῶν / καλὰ","gospel":"ἐν καρδίᾳ καλῇ καὶ ἀγαθῇ : dans un cœur beau-bon et bon","relation":"La qualité de l’accueil intérieur se déploie dans la qualité des actes","apostle":"καλῶν ἔργων… Ταῦτά ἐστιν καλὰ : des œuvres bonnes… ces choses sont bonnes","detail":"καλῇ est le datif féminin ; καλῶν le génitif pluriel ; καλὰ le neutre pluriel du même adjectif."},
+        "term_details":{"gospel":[{"forms":["καλῇ"],"lemma":"καλός","root":"καλ- : beau, bon, noble","literal":"bon, beau","role":"Le cœur accueille, garde et laisse fructifier la parole."}],"apostle":[{"forms":["καλῶν","καλὰ"],"lemma":"καλός","root":"καλ- : beau, bon, noble","literal":"bonnes / bonnes choses","role":"Les œuvres sont la forme concrète et utile de la foi confessée."}]},
+        "gospel":{"verses":["15"],"terms":["καλῇ"]}, "apostle":{"verses":["8","14"],"terms":["καλῶν","καλὰ"]}
+      },
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"fruitfulness",
+        "title":"Porter du fruit — ne pas être sans fruit",
+        "explanation":"Luc emploie καρπός et καρποφορέω pour le fruit de la parole gardée. Tite avertit les croyants de ne pas devenir ἄκαρποι, littéralement « sans fruit ». Le préfixe privatif ἀ- montre ici exactement ce que les œuvres bonnes doivent éviter.",
+        "bridge_sentence":"La parole gardée porte du fruit lorsque la foi apprend à répondre aux besoins réels.",
+        "homiletic_use":"Donner au fruit un contenu concret à partir de Tite : prendre soin des nécessités, aider les envoyés et rendre la foi utile au prochain.",
+        "bridge":{"evidence":"Racine commune καρπ- : καρπὸν / καρποφοροῦσιν / ἄκαρποι","gospel":"ἐποίησεν καρπὸν… καρποφοροῦσιν ἐν ὑπομονῇ : elle produisit du fruit… ils portent du fruit dans la persévérance","relation":"La persévérance de l’écoute devient service fécond","apostle":"ἵνα μὴ ὦσιν ἄκαρποι : afin qu’ils ne soient pas sans fruit","detail":"ἄκαρπος ajoute le préfixe privatif ἀ- à καρπός ; καρποφορέω signifie littéralement porter du fruit."},
+        "term_details":{"gospel":[{"forms":["καρπὸν","καρποφοροῦσιν"],"lemma":"καρπός / καρποφορέω","root":"καρπ- : fruit","literal":"fruit / ils portent du fruit","role":"Le fruit manifeste la durée féconde de la parole reçue."}],"apostle":[{"forms":["ἄκαρποι"],"lemma":"ἄκαρπος","root":"ἀ- privatif + καρπός : sans fruit","literal":"sans fruit, infructueux","role":"Le défaut de service concret rendrait stérile la profession de foi."}]},
+        "gospel":{"verses":["8","15"],"terms":["καρπὸν","καρποφοροῦσιν"]}, "apostle":{"verses":["14"],"terms":["ἄκαρποι"]}
+      }
+    ]
   }
 }

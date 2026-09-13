@@ -1745,5 +1745,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"La grâce reçue devient miséricorde donnée",
+    "summary":"Jésus appelle ses disciples à aimer sans attendre l’équivalent et à devenir miséricordieux comme leur Père. Paul découvre que la grâce du Christ lui suffit et que sa puissance s’accomplit dans la faiblesse.",
+    "links":[
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"grace_beyond_exchange",
+        "title":"Quelle grâce ? — ma grâce te suffit",
+        "explanation":"Luc répète ποία ὑμῖν χάρις ἐστίν, que l’on peut traduire « quelle grâce vous en revient-elle ? » ; Paul reçoit la réponse ἀρκεῖ σοι ἡ χάρις μου. Le même mot χάρις passe du bénéfice attendu à la grâce personnelle du Christ.",
+        "bridge_sentence":"Parce que la grâce du Christ suffit, le disciple peut aimer sans calculer ce qui lui reviendra.",
+        "homiletic_use":"Expliquer la difficulté de traduction de χάρις chez Luc : « mérite », « reconnaissance » ou « grâce » ; le grec permet d’entendre plus nettement le lien avec Paul.",
+        "bridge":{"evidence":"Même nom χάρις : χάρις / χάρις","gospel":"ποία ὑμῖν χάρις ἐστίν; : quelle grâce vous en revient-elle ?","relation":"La grâce reçue gratuitement libère de la réciprocité intéressée","apostle":"ἀρκεῖ σοι ἡ χάρις μου : ma grâce te suffit","detail":"Le même nominatif singulier apparaît dans les deux textes, avec une nuance contextuelle différente."},
+        "term_details":{"gospel":[{"forms":["χάρις"],"lemma":"χάρις","root":"χαρ- : grâce, faveur, reconnaissance","literal":"grâce, faveur","role":"La question de Jésus démasque l’amour limité au retour attendu."}],"apostle":[{"forms":["χάρις"],"lemma":"χάρις","root":"χαρ- : grâce, faveur","literal":"grâce","role":"Le Christ donne à Paul ce qui suffit au cœur de l’épreuve."}]},
+        "gospel":{"verses":["32","33","34"],"terms":["χάρις"]}, "apostle":{"verses":["9"],"terms":["χάρις"]}
+      },
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"father_and_likeness",
+        "title":"Le Père du Seigneur — votre Père",
+        "explanation":"Paul invoque « le Dieu et Père du Seigneur Jésus » ; Jésus demande aux disciples de devenir miséricordieux comme « votre Père ». Le même πατήρ fonde l’imitation non sur une règle abstraite, mais sur une relation reçue.",
+        "bridge_sentence":"Le Père connu en Jésus devient la mesure vivante de la miséricorde des disciples.",
+        "homiletic_use":"Présenter le « comme votre Père » comme une vocation filiale : il ne s’agit pas d’imiter une perfection extérieure, mais de laisser paraître la relation dont on vit.",
+        "bridge":{"evidence":"Même nom πατήρ : πατὴρ / πατὴρ","gospel":"ὁ πατὴρ ὑμῶν οἰκτίρμων ἐστίν : votre Père est miséricordieux","relation":"La connaissance du Père prend corps dans une conduite qui lui ressemble","apostle":"ὁ θεὸς καὶ πατὴρ τοῦ κυρίου Ἰησοῦ : le Dieu et Père du Seigneur Jésus","detail":"La forme est identique ; les compléments précisent la relation au Seigneur puis aux disciples."},
+        "term_details":{"gospel":[{"forms":["πατὴρ"],"lemma":"πατήρ","root":"πατρ- : père","literal":"Père","role":"La miséricorde du Père est le modèle de la vie filiale."}],"apostle":[{"forms":["πατὴρ"],"lemma":"πατήρ","root":"πατρ- : père","literal":"Père","role":"Paul place son témoignage sous le regard du Père du Seigneur Jésus."}]},
+        "gospel":{"verses":["36"],"terms":["πατὴρ"]}, "apostle":{"verses":["31"],"terms":["πατὴρ"]}
+      },
+      {
+        "directness":"indirect", "kind":"theology", "link_type":"mercy_in_weakness",
+        "title":"Devenir miséricordieux — la puissance dans la faiblesse",
+        "explanation":"Luc commande Γίνεσθε οἰκτίρμονες ; Paul entend que la puissance s’accomplit ἐν ἀσθενείᾳ. Sans confondre miséricorde et faiblesse, les lectures déplacent ensemble l’image de la puissance : elle n’est ni domination ni revanche.",
+        "bridge_sentence":"La puissance du Christ accomplie dans la faiblesse rend possible une miséricorde qui renonce à dominer l’autre.",
+        "homiletic_use":"Éviter de sanctifier la souffrance ou l’impuissance subie : Paul parle de la puissance du Christ qui demeure avec lui, non d’une valeur automatique de toute douleur.",
+        "bridge":{"evidence":"Lien théologique, lexèmes distincts : οἰκτίρμονες / δύναμις et ἀσθενείᾳ","gospel":"Γίνεσθε οἰκτίρμονες : devenez miséricordieux","relation":"L’action chrétienne reçoit une forme non dominatrice de la puissance divine","apostle":"ἡ δύναμις ἐν ἀσθενείᾳ τελεῖται : la puissance s’accomplit dans la faiblesse","detail":"Le rapprochement est théologique et ne suppose aucune équivalence lexicale entre miséricorde et faiblesse."},
+        "term_details":{"gospel":[{"forms":["οἰκτίρμονες"],"lemma":"οἰκτίρμων","root":"οἰκτιρ- : compassion, miséricorde","literal":"miséricordieux","role":"Le disciple est appelé à ressembler au Père jusque dans sa relation aux ennemis."}],"apostle":[{"forms":["δύναμις","ἀσθενείᾳ"],"lemma":"δύναμις / ἀσθένεια","root":"δυνα- : puissance ; ἀ- + σθεν- : absence de force","literal":"puissance / faiblesse","role":"Le Christ révèle une puissance qui atteint son accomplissement sans supprimer magiquement la fragilité."}]},
+        "gospel":{"verses":["36"],"terms":["οἰκτίρμονες"]}, "apostle":{"verses":["9"],"terms":["δύναμις","ἀσθενείᾳ"]}
+      }
+    ]
   }
 }
