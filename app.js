@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260913-official-liturgical-timeline-1';
+    const DATA_VERSION = '20260913-official-calendars-2023-2025-1';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1517,7 +1517,7 @@ document.addEventListener('DOMContentLoaded', () => {
         cycle.className = 'liturgical-tooltip-cycle';
         cycle.textContent = context.variant === 'fixed' ? 'Dimanche du cycle fixe' : 'Dimanche du cycle mobile';
         const title = document.createElement('strong');
-        title.textContent = cleanLiturgicalSundayLabel(liturgicalList[context.key] || calendarEntry?.official_title || context.key);
+        title.textContent = cleanLiturgicalSundayLabel(liturgicalList[context.key] || calendarEntry?.official_title || context.key || 'Dimanche');
         const exactDate = document.createElement('span');
         exactDate.className = 'liturgical-tooltip-date';
         exactDate.textContent = officialDate
@@ -1541,12 +1541,15 @@ document.addEventListener('DOMContentLoaded', () => {
             readings.textContent = 'Chargement des lectures…';
         }
         const hint = document.createElement('small');
-        hint.textContent = touchPrimedLiturgicalSundayButton === button
-            ? 'Touchez une seconde fois pour ouvrir les lectures.'
-            : 'Cliquez pour ouvrir les lectures.';
+        hint.textContent = context.referenceOnly
+            ? 'Références officielles disponibles ; fiche interlinéaire détaillée à intégrer.'
+            : (touchPrimedLiturgicalSundayButton === button
+                ? 'Touchez une seconde fois pour ouvrir les lectures.'
+                : 'Cliquez pour ouvrir les lectures.');
         tooltip.append(cycle, title, exactDate, position, readings, hint);
         if (officialDate) {
-            button.setAttribute('aria-label', `${cleanLiturgicalSundayLabel(liturgicalList[context.key] || context.key)}. ${formatLiturgicalFullDate(officialDate)}. ${calendarEntry.official_title || describeSundayPosition(context.key, exactOffset, context.variant)}. Ouvrir la péricope.`);
+            const actionLabel = context.referenceOnly ? 'Références officielles seulement.' : 'Ouvrir la péricope.';
+            button.setAttribute('aria-label', `${cleanLiturgicalSundayLabel(liturgicalList[context.key] || calendarEntry.official_title || context.key || 'Dimanche')}. ${formatLiturgicalFullDate(officialDate)}. ${calendarEntry.official_title || describeSundayPosition(context.key, exactOffset, context.variant)}. ${actionLabel}`);
         }
         tooltip.hidden = false;
         activeLiturgicalSundayTooltipButton = button;
@@ -1557,7 +1560,7 @@ document.addEventListener('DOMContentLoaded', () => {
         renderLiturgicalSundayTooltip(button, context);
         const sliderYear = Number(document.getElementById('cycle-year-slider')?.value || 2026);
         Promise.all([
-            loadLiturgicalSundayTooltipData(context.key),
+            context.key ? loadLiturgicalSundayTooltipData(context.key) : Promise.resolve(null),
             context.calendarEntry ? Promise.resolve(context.calendarEntry) : resolveLiturgicalSundayCalendarEntry(context, sliderYear)
         ]).then(([data, calendarEntry]) => {
             if (activeLiturgicalSundayTooltipButton === button) {
@@ -1575,7 +1578,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const attachLiturgicalSundayTooltip = (button, context, openReading) => {
         button.setAttribute('aria-describedby', 'liturgical-sunday-tooltip');
-        button.setAttribute('aria-label', `${cleanLiturgicalSundayLabel(liturgicalList[context.key] || context.key)}. ${describeSundayPosition(context.key, context.offset, context.variant)}. Ouvrir la péricope.`);
+        const contextTitle = cleanLiturgicalSundayLabel(liturgicalList[context.key] || context.calendarEntry?.official_title || context.key || 'Dimanche');
+        const contextPosition = context.calendarEntry?.official_title || (context.key ? describeSundayPosition(context.key, context.offset, context.variant) : 'Dimanche du calendrier officiel');
+        button.setAttribute('aria-label', `${contextTitle}. ${contextPosition}. ${openReading ? 'Ouvrir la péricope.' : 'Références officielles seulement.'}`);
         let lastPointerType = '';
         button.addEventListener('pointerdown', event => { lastPointerType = event.pointerType; });
         button.addEventListener('mouseenter', () => showLiturgicalSundayTooltip(button, context));
@@ -1589,6 +1594,11 @@ document.addEventListener('DOMContentLoaded', () => {
         button.addEventListener('click', event => {
             const touchActivation = event.detail > 0 && (lastPointerType === 'touch' || window.matchMedia('(hover: none)').matches);
             if (touchActivation && touchPrimedLiturgicalSundayButton !== button) {
+                touchPrimedLiturgicalSundayButton = button;
+                showLiturgicalSundayTooltip(button, context);
+                return;
+            }
+            if (!openReading) {
                 touchPrimedLiturgicalSundayButton = button;
                 showLiturgicalSundayTooltip(button, context);
                 return;
@@ -1674,9 +1684,18 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const compactOfficialSundayPosition = (entry, date, variant) => {
-        const rank = entry.official_title?.match(/(\d+)(?:er|e) dimanche après la Pentecôte/i);
+        const rank = entry.official_title?.match(/(\d+)(?:er|e|ème) dimanche après la Pentecôte/i);
         const position = rank ? `DP ${Number(rank[1])}` : (variant === 'fixed' ? 'cycle fixe' : 'cycle mobile');
         return `${formatLiturgicalDate(date)} · ${position}`;
+    };
+
+    const calendarSundayCardLabel = entry => {
+        if (entry.key && liturgicalList[entry.key]) return cleanLiturgicalSundayLabel(liturgicalList[entry.key]);
+        const title = entry.official_title || entry.key || 'Dimanche';
+        if (/^Transfiguration/i.test(title)) return 'Transfiguration du Seigneur';
+        if (/^Exaltation de la Sainte Croix/i.test(title)) return 'Exaltation de la Sainte Croix';
+        if (/Pères du (?:7ème|VIIe) Concile/i.test(title)) return 'Pères du VIIe Concile';
+        return title.replace(/\s*Ton\s+\d.*$/i, '').trim();
     };
 
     const renderCalendarSundayTracks = (year, pascha, calendars) => {
@@ -1695,7 +1714,7 @@ document.addEventListener('DOMContentLoaded', () => {
             calendarStatus: calendar.status || 'official',
             calendarYear: calendar.year
         }))).filter(entry => {
-            if (!entry.key || !entry.date) return false;
+            if (!entry.date || (!entry.key && !entry.readings?.gospel?.reference && !entry.readings?.apostle?.reference)) return false;
             const date = new Date(`${entry.date}T12:00:00Z`);
             return date >= yearStart && date < nextYearStart;
         }).sort((a, b) => a.date.localeCompare(b.date));
@@ -1712,28 +1731,32 @@ document.addEventListener('DOMContentLoaded', () => {
             const provisionalPart = `données ${provisionalYears.join(' et ')} provisoires`;
             status.textContent = `Frise partielle : ${[officialPart, provisionalPart].filter(Boolean).join(' ; ')}. Les dimanches sans attribution validée ne sont pas affichés.`;
         } else {
-            status.textContent = `Frise partielle fondée sur le calendrier officiel ${officialYears.join(' et ')}. Les périodes sans calendrier intégré restent volontairement vides.`;
+            const complete = officialYears.includes(year) && officialYears.includes(year + 1);
+            status.textContent = complete
+                ? `Frise fondée sur les calendriers officiels ${year} et ${year + 1}.`
+                : `Frise partielle fondée sur le calendrier officiel ${officialYears.join(' et ')}. Les périodes sans calendrier intégré restent volontairement vides.`;
         }
 
         entries.forEach(entry => {
             const date = new Date(`${entry.date}T12:00:00Z`);
             const offset = cycleDayDifference(date, pascha);
             if (offset < CYCLE_AXIS_MIN || offset > CYCLE_AXIS_MAX) return;
-            const variant = fixedSundayKeys.has(entry.key) ? 'fixed' : 'cycle';
+            const fixedFeastWithoutPericope = !entry.key && /Transfiguration|Exaltation de la Sainte Croix|Sainte Rencontre/i.test(entry.official_title || '');
+            const variant = fixedSundayKeys.has(entry.key) || fixedFeastWithoutPericope ? 'fixed' : 'cycle';
             const track = variant === 'fixed' ? fixedTrack : mobileTrack;
-            const fullLabel = liturgicalList[entry.key] || entry.official_title || entry.key;
+            const fullLabel = calendarSundayCardLabel(entry);
             const button = document.createElement('button');
             button.type = 'button';
-            button.className = `timeline-sunday timeline-sunday-${variant}${entry.key === currentSundayKey ? ' active' : ''}`;
-            button.dataset.sundayKey = entry.key;
+            button.className = `timeline-sunday timeline-sunday-${variant}${entry.key === currentSundayKey ? ' active' : ''}${entry.key ? '' : ' timeline-sunday-reference-only'}`;
+            if (entry.key) button.dataset.sundayKey = entry.key;
             button.style.left = `${cyclePercent(offset)}%`;
             const label = document.createElement('strong');
-            label.textContent = cleanLiturgicalSundayLabel(fullLabel);
+            label.textContent = fullLabel;
             const action = document.createElement('small');
             action.textContent = compactOfficialSundayPosition(entry, date, variant);
             button.append(label, action);
-            const context = { key: entry.key, offset, variant, calendarEntry: entry, calendarStatus: entry.calendarStatus };
-            attachLiturgicalSundayTooltip(button, context, () => openLiturgicalStageReading({ key: entry.key }, 'gospel'));
+            const context = { key: entry.key || null, offset, variant, calendarEntry: entry, calendarStatus: entry.calendarStatus, referenceOnly: !entry.key };
+            attachLiturgicalSundayTooltip(button, context, entry.key ? () => openLiturgicalStageReading({ key: entry.key }, 'gospel') : null);
             track.appendChild(button);
         });
 
