@@ -1862,5 +1862,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title": "Du regard vacillant au fondement qui demeure",
+    "summary": "Pierre marche vers Jésus puis s’enfonce lorsque son regard se laisse saisir par le vent ; Paul appelle chaque bâtisseur à veiller sur sa manière de construire, car l’unique fondement est Jésus Christ.",
+    "links": [
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"vigilance",
+        "title":"Regarder le vent, regarder comment on bâtit",
+        "explanation":"Matthieu emploie βλέπων lorsque Pierre regarde le vent ; Paul emploie βλεπέτω pour demander à chacun de veiller à sa manière de bâtir. La même racine fait du regard un lieu de discernement.",
+        "bridge_sentence":"Ce que le disciple regarde oriente aussi la manière dont il construit.",
+        "homiletic_use":"Inviter à discerner non seulement l’œuvre accomplie, mais le regard intérieur qui la guide : peur du vent ou confiance dans le Christ.",
+        "bridge":{"evidence":"Racine directement commune βλεπ- : βλέπων / βλεπέτω","gospel":"βλέπων δὲ τὸν ἄνεμον ἐφοβήθη : regardant le vent, il eut peur","relation":"Le regard détermine la stabilité de l’action","apostle":"ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ : que chacun regarde comment il bâtit","detail":"Le participe décrit le regard qui détourne Pierre ; l’impératif appelle le bâtisseur à une vigilance durable."},
+        "term_details":{"gospel":[{"forms":["βλέπων"],"lemma":"βλέπω","root":"βλεπ- : voir, regarder","literal":"regardant","role":"Le regard de Pierre se fixe sur la menace et la peur surgit."}],"apostle":[{"forms":["βλεπέτω"],"lemma":"βλέπω","root":"βλεπ- : voir, veiller","literal":"qu’il regarde, qu’il veille","role":"Chacun doit discerner la qualité de sa construction."}]},
+        "gospel":{"verses":["30"],"terms":["βλέπων"]}, "apostle":{"verses":["10"],"terms":["βλεπέτω"]}
+      },
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"salvation",
+        "title":"Sauve-moi — lui-même sera sauvé",
+        "explanation":"Le cri de Pierre et l’affirmation de Paul partagent la racine σω- : le disciple menacé appelle le Seigneur, tandis que le bâtisseur dont l’œuvre brûle peut encore être sauvé.",
+        "bridge_sentence":"Quand l’appui humain cède, le salut demeure l’acte du Christ et non la réussite de notre œuvre.",
+        "homiletic_use":"Distinguer le salut de la performance : Pierre ne se sauve pas en marchant mieux, et l’ouvrier n’est pas identifié à la valeur de son ouvrage.",
+        "bridge":{"evidence":"Racine directement commune σω- : σῶσόν / σωθήσεται","gospel":"Κύριε, σῶσόν με : Seigneur, sauve-moi","relation":"Le salut dépasse la défaillance du disciple et de son œuvre","apostle":"αὐτὸς δὲ σωθήσεται : lui-même sera sauvé","detail":"L’impératif adresse une supplication personnelle au Christ ; le passif de Paul indique un salut reçu même lorsque l’œuvre ne demeure pas."},
+        "term_details":{"gospel":[{"forms":["σῶσόν"],"lemma":"σῴζω","root":"σω- : sauver, préserver","literal":"sauve","role":"Pierre reconnaît que son secours vient du Seigneur."}],"apostle":[{"forms":["σωθήσεται"],"lemma":"σῴζω","root":"σω- : sauver, préserver","literal":"il sera sauvé","role":"Le salut de la personne ne se confond pas avec la permanence de son œuvre."}]},
+        "gospel":{"verses":["30"],"terms":["σῶσόν"]}, "apostle":{"verses":["15"],"terms":["σωθήσεται"]}
+      },
+      {
+        "directness":"indirect", "kind":"theology", "link_type":"foundation",
+        "title":"Venir vers Jésus, bâtir sur Jésus Christ",
+        "explanation":"Pierre sort de la barque pour venir vers Jésus ; Paul affirme qu’aucun autre fondement ne peut être posé que Jésus Christ. Le mouvement du disciple ne tient que par celui vers qui il avance.",
+        "bridge_sentence":"La foi n’est pas l’assurance de marcher seul : elle avance vers celui qui est déjà le fondement.",
+        "homiletic_use":"Unir l’image de la marche et celle de l’édifice : la stabilité chrétienne ne vient ni de l’eau ni de nos matériaux, mais de la relation au Christ.",
+        "bridge":{"evidence":"Identité théologique explicite de la direction et du fondement : Jésus","gospel":"ἐλθεῖν πρὸς σὲ… ἦλθεν πρὸς τὸν Ἰησοῦν : venir vers toi… il vint vers Jésus","relation":"Le Christ est à la fois le terme de la marche et le fondement de l’édifice","apostle":"θεμέλιον… ὅς ἐστιν Ἰησοῦς Χριστός : le fondement est Jésus Christ","detail":"Le lien n’est pas fondé sur une racine commune, mais sur la même personne qui rend possibles l’avancée et la construction."},
+        "term_details":{"gospel":[{"forms":["πρὸς","Ἰησοῦν"],"lemma":"πρός / Ἰησοῦς","root":"préposition de direction / nom propre","literal":"vers Jésus","role":"La marche de Pierre reçoit du Christ sa direction et son sens."}],"apostle":[{"forms":["θεμέλιον","Ἰησοῦς","Χριστός"],"lemma":"θεμέλιος / Ἰησοῦς Χριστός","root":"θεμελι- : fondement","literal":"fondement / Jésus Christ","role":"Toute construction ecclésiale repose sur le Christ déjà posé."}]},
+        "gospel":{"verses":["28","29"],"terms":["πρὸς","Ἰησοῦν"]}, "apostle":{"verses":["11"],"terms":["θεμέλιον","Ἰησοῦς","Χριστός"]}
+      }
+    ]
   }
 }

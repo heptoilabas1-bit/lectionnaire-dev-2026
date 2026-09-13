@@ -1771,5 +1771,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title": "Le pain partagé révèle le Christ indivisible",
+    "summary": "Jésus nourrit toute la foule par un pain béni, rompu et donné ; Paul appelle l’Église à dépasser ses divisions pour retrouver dans le Christ crucifié l’unité de sa parole et de sa vie.",
+    "links": [
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"ecclesial_unity",
+        "title":"Tous nourris, tous accordés",
+        "explanation":"Le même πάντες désigne tous ceux qui mangent et tous ceux que Paul appelle à parler d’un même accord. Le don du Christ ne constitue pas des groupes rivaux : il rassemble tous les bénéficiaires.",
+        "bridge_sentence":"Tous mangent du don du Christ afin que tous apprennent à demeurer dans une même communion.",
+        "homiletic_use":"Faire entendre que l’unité n’est pas l’uniformité imposée, mais la réponse commune à un don que personne ne possède seul.",
+        "bridge":{"evidence":"Même forme πάντες dans les deux lectures","gospel":"ἔφαγον πάντες καὶ ἐχορτάσθησαν : tous mangèrent et furent rassasiés","relation":"L’universalité du don appelle l’unité des bénéficiaires","apostle":"τὸ αὐτὸ λέγητε πάντες : que tous vous disiez la même chose","detail":"Le pronom collectif relie la foule rassasiée et la communauté appelée à dépasser ses factions."},
+        "term_details":{"gospel":[{"forms":["πάντες"],"lemma":"πᾶς","root":"παντ- : tout, tous","literal":"tous","role":"Aucun membre de la foule n’est exclu du rassasiement."}],"apostle":[{"forms":["πάντες"],"lemma":"πᾶς","root":"παντ- : tout, tous","literal":"tous","role":"L’appel à l’accord concerne la communauté entière."}]},
+        "gospel":{"verses":["20"],"terms":["πάντες"]}, "apostle":{"verses":["10"],"terms":["πάντες"]}
+      },
+      {
+        "directness":"indirect", "kind":"theology", "link_type":"paradox",
+        "title":"Le pain est rompu, le Christ n’est pas divisé",
+        "explanation":"Jésus rompt les pains pour les multiplier et les donner ; Paul refuse que le Christ soit morcelé par les appartenances rivales. La rupture du pain produit le partage, tandis que le schisme défigure l’unique donateur.",
+        "bridge_sentence":"Le pain peut être rompu pour être partagé ; le Christ, lui, ne peut être divisé entre nos partis.",
+        "homiletic_use":"Distinguer deux gestes opposés : la fraction qui donne à tous et la division qui accapare le Christ au profit d’un groupe.",
+        "bridge":{"evidence":"Contraste lexical explicite : κλάω, rompre le pain / σχίσμα, déchirure communautaire","gospel":"κλάσας ἔδωκεν… τῶν κλασμάτων : ayant rompu, il donna… les morceaux","relation":"La fraction eucharistique rassemble ; le schisme disperse","apostle":"μὴ ᾖ ἐν ὑμῖν σχίσματα· μεμέρισται ὁ Χριστός; : qu’il n’y ait pas de divisions ; le Christ est-il partagé ?","detail":"κλάω et σχίζω ne sont pas de même racine. Leur rapprochement est un contraste théologique, non une étymologie."},
+        "term_details":{"gospel":[{"forms":["κλάσας","κλασμάτων"],"lemma":"κλάω / κλάσμα","root":"κλα- : rompre","literal":"ayant rompu / morceaux","role":"La fraction rend possible la distribution du don."}],"apostle":[{"forms":["σχίσματα","μεμέρισται"],"lemma":"σχίσμα / μερίζω","root":"σχισ- / μερ- : fendre / partager","literal":"divisions / a-t-il été partagé ?","role":"Paul dénonce l’appropriation partisane du Christ."}]},
+        "gospel":{"verses":["19","20"],"terms":["κλάσας","κλασμάτων"]}, "apostle":{"verses":["10","13"],"terms":["σχίσματα","μεμέρισται"]}
+      },
+      {
+        "directness":"indirect", "kind":"structure", "link_type":"christ_centered_mission",
+        "title":"Recevoir du Christ avant de transmettre",
+        "explanation":"Les disciples reçoivent les pains des mains de Jésus avant de les donner aux foules. Paul, envoyé non pour créer une clientèle autour de son nom mais pour évangéliser, refuse de prendre la place de la source.",
+        "bridge_sentence":"Le disciple transmet ce qu’il reçoit ; il ne devient jamais propriétaire du don ni centre de la communion.",
+        "homiletic_use":"Éclairer tout ministère : servir consiste à faire passer le don du Christ, sans attacher les personnes au prestige du serviteur.",
+        "bridge":{"evidence":"Structure commune de médiation effacée devant le Christ","gospel":"ἔδωκεν τοῖς μαθηταῖς… οἱ δὲ μαθηταὶ τοῖς ὄχλοις : il donna aux disciples, puis les disciples aux foules","relation":"Le ministre reçoit, transmet et s’efface","apostle":"οὐκ ἀπέστειλέν με Χριστὸς… ἀλλὰ εὐαγγελίζεσθαι : le Christ m’a envoyé pour évangéliser","detail":"Les verbes diffèrent ; le lien concerne l’ordre de la mission : initiative du Christ, service du disciple, don adressé au peuple."},
+        "term_details":{"gospel":[{"forms":["ἔδωκεν","μαθηταῖς"],"lemma":"δίδωμι / μαθητής","root":"δο-/δω- / μαθη-","literal":"il donna / aux disciples","role":"Les disciples ne distribuent qu’après avoir reçu de Jésus."}],"apostle":[{"forms":["ἀπέστειλέν","εὐαγγελίζεσθαι"],"lemma":"ἀποστέλλω / εὐαγγελίζω","root":"στελ- / ἀγγελ-","literal":"il envoya / annoncer l’Évangile","role":"Paul définit son service par l’envoi reçu du Christ."}]},
+        "gospel":{"verses":["19"],"terms":["ἔδωκεν","μαθηταῖς"]}, "apostle":{"verses":["17"],"terms":["ἀπέστειλέν","εὐαγγελίζεσθαι"]}
+      }
+    ]
   }
 }

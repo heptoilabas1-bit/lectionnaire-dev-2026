@@ -2159,5 +2159,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title": "La dette remise devient liberté de servir",
+    "summary": "La parabole confronte le serviteur à une dette qu’il ne peut acquitter et à la miséricorde qu’il refuse de transmettre ; Paul montre une liberté apostolique qui renonce à ses droits pour ne placer aucun obstacle devant l’Évangile.",
+    "links": [
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"ethical_fulfillment",
+        "title":"Devoir rembourser, devoir espérer",
+        "explanation":"La famille ὀφειλ- nomme dans l’Évangile la dette exigée et, chez Paul, l’obligation de labourer dans l’espérance. La grâce déplace le devoir : de l’enfermement comptable vers une responsabilité féconde.",
+        "bridge_sentence":"Le Royaume ne supprime pas toute obligation : il transforme la dette qui enferme en devoir d’œuvrer dans l’espérance.",
+        "homiletic_use":"Éviter d’opposer grâce et responsabilité : la dette est remise gratuitement, mais cette grâce ouvre une manière nouvelle d’agir envers autrui.",
+        "bridge":{"evidence":"Racine directement commune ὀφειλ- : ὀφειλέτης / ὀφείλεις / ὀφειλόμενον / ὀφείλει","gospel":"εἷς ὀφειλέτης… Ἀπόδος εἴ τι ὀφείλεις : un débiteur… rends ce que tu dois","relation":"La grâce fait passer de la dette impossible à une obligation vécue dans l’espérance","apostle":"ὀφείλει ἐπ’ ἐλπίδι ὁ ἀροτριῶν ἀροτριᾶν : celui qui laboure doit labourer dans l’espérance","detail":"Le même champ lexical exprime d’abord l’endettement, puis ce qui convient ou doit être accompli."},
+        "term_details":{"gospel":[{"forms":["ὀφειλέτης","ὀφείλεις","ὀφειλόμενον"],"lemma":"ὀφειλέτης / ὀφείλω","root":"ὀφειλ- : devoir, être redevable","literal":"débiteur / tu dois / ce qui est dû","role":"La dette structure la logique comptable dont la miséricorde vient libérer."}],"apostle":[{"forms":["ὀφείλει"],"lemma":"ὀφείλω","root":"ὀφειλ- : devoir","literal":"il doit","role":"Le devoir du travailleur est orienté par l’espérance de participer au fruit."}]},
+        "gospel":{"verses":["24","28","30","34"],"terms":["ὀφειλέτης","ὀφείλεις","ὀφειλόμενον"]}, "apostle":{"verses":["10"],"terms":["ὀφείλει"]}
+      },
+      {
+        "directness":"indirect", "kind":"theology", "link_type":"freedom_and_mercy",
+        "title":"Libéré de la dette, libre de renoncer à son droit",
+        "explanation":"Le maître libère le serviteur et lui remet sa dette ; Paul possède une autorité réelle, mais choisit de ne pas en user pour ne pas entraver l’Évangile. La liberté reçue se vérifie dans le renoncement à saisir son dû.",
+        "bridge_sentence":"Celui qui a été libéré par grâce devient libre de ne pas réclamer jusqu’au bout ce qui lui revient.",
+        "homiletic_use":"Présenter le pardon comme une liberté active : non pas nier toute justice, mais refuser que son droit devienne un obstacle à l’Évangile et au frère.",
+        "bridge":{"evidence":"Lien théologique entre la remise du maître et le non-usage volontaire de l’autorité","gospel":"ἀπέλυσεν αὐτόν, καὶ τὸ δάνειον ἀφῆκεν : il le libéra et lui remit la dette","relation":"La grâce reçue rend possible un renoncement libre","apostle":"οὐκ ἐχρησάμεθα τῇ ἐξουσίᾳ ταύτῃ : nous n’avons pas usé de ce droit","detail":"ἀφίημι et ἐξουσία ne partagent pas de racine ; le rapprochement porte sur le fruit concret de la liberté reçue."},
+        "term_details":{"gospel":[{"forms":["ἀπέλυσεν","ἀφῆκεν"],"lemma":"ἀπολύω / ἀφίημι","root":"λυ- / ἑ- : délier / laisser, remettre","literal":"il libéra / il remit","role":"Le maître renonce à recouvrer la dette et rend le serviteur libre."}],"apostle":[{"forms":["ἐξουσίᾳ","ἐχρησάμεθα"],"lemma":"ἐξουσία / χράομαι","root":"ἐξουσι- / χρη-","literal":"droit, autorité / nous avons usé","role":"Paul renonce volontairement à exercer un droit pourtant reconnu."}]},
+        "gospel":{"verses":["27"],"terms":["ἀπέλυσεν","ἀφῆκεν"]}, "apostle":{"verses":["12"],"terms":["ἐξουσίᾳ","ἐχρησάμεθα"]}
+      },
+      {
+        "directness":"indirect", "kind":"structure", "link_type":"received_and_shared_gift",
+        "title":"La miséricorde reçue ne doit pas être arrêtée",
+        "explanation":"Le serviteur condamné reçoit la compassion, mais bloque ensuite cette grâce devant son compagnon. Paul accepte au contraire de tout supporter afin de ne créer aucun obstacle à l’Évangile du Christ.",
+        "bridge_sentence":"La grâce devient jugement lorsqu’elle est retenue ; elle devient Évangile lorsqu’elle peut continuer son chemin vers autrui.",
+        "homiletic_use":"Donner un critère concret du pardon reçu : non le sentiment d’être quitte, mais la disparition des obstacles que nous plaçons devant le frère.",
+        "bridge":{"evidence":"Mouvement narratif opposé : grâce bloquée / obstacle refusé","gospel":"οὐκ ἤθελεν… οὐκ ἔδει καὶ σὲ ἐλεῆσαι; : il ne voulut pas… ne devais-tu pas avoir pitié ?","relation":"Ce qui est reçu du Seigneur est destiné à rejoindre autrui","apostle":"πάντα στέγομεν, ἵνα μή τινα ἐγκοπὴν δῶμεν τῷ εὐαγγελίῳ : nous supportons tout pour ne mettre aucun obstacle à l’Évangile","detail":"Le lien est structurel : le mauvais serviteur interrompt la miséricorde, tandis que l’apôtre renonce à ce qui arrêterait l’annonce."},
+        "term_details":{"gospel":[{"forms":["ἐλεῆσαι","ἠλέησα"],"lemma":"ἐλεέω","root":"ἐλε- : faire miséricorde","literal":"avoir pitié / j’ai eu pitié","role":"La miséricorde reçue devait devenir la mesure de la relation au compagnon."}],"apostle":[{"forms":["στέγομεν","ἐγκοπὴν","εὐαγγελίῳ"],"lemma":"στέγω / ἐγκοπή / εὐαγγέλιον","root":"στεγ- / κοπ- / ἀγγελ-","literal":"nous supportons / obstacle / Évangile","role":"Paul endure afin de garder libre le passage de l’Évangile."}]},
+        "gospel":{"verses":["30","33"],"terms":["ἐλεῆσαι","ἠλέησα"]}, "apostle":{"verses":["12"],"terms":["στέγομεν","ἐγκοπὴν","εὐαγγελίῳ"]}
+      }
+    ]
   }
 }

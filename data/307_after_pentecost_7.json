@@ -1482,5 +1482,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title": "La force du Christ relève et rassemble",
+    "summary": "L’Évangile révèle la puissance miséricordieuse du Christ qui ouvre les yeux et rend la parole ; l’Apôtre montre comment cette puissance reçue devient patience, édification mutuelle et louange commune.",
+    "links": [
+      {
+        "directness": "direct", "kind": "same_root", "link_type": "spiritual_movement",
+        "title": "Pouvoir guérir, pouvoir porter",
+        "explanation": "Jésus demande aux aveugles s’ils croient qu’il peut agir ; Paul appelle les forts à porter les faiblesses de ceux qui sont sans force. La famille δυνα- relie la puissance du Christ à la responsabilité de ceux qu’il fortifie.",
+        "bridge_sentence": "La puissance confessée dans le Christ devient, chez ses disciples, force de porter le faible.",
+        "homiletic_use": "Montrer que la force chrétienne n’est pas domination : reçue du Christ, elle se reconnaît à ce qu’elle soutient autrui.",
+        "bridge": {"evidence":"Racine directement commune δυνα- : δύναμαι / δυνατοὶ / ἀδυνάτων","gospel":"Πιστεύετε ὅτι δύναμαι : croyez-vous que je puisse ?","relation":"La puissance du Christ transforme l’usage humain de la force","apostle":"οἱ δυνατοὶ… τῶν ἀδυνάτων βαστάζειν : les forts doivent porter les faibles","detail":"Dans l’Évangile, δύναμαι désigne la capacité d’agir du Christ ; chez Paul, δυνατός et ἀδύνατος distinguent ceux qui peuvent porter et ceux qui ont besoin d’être portés."},
+        "term_details": {"gospel":[{"forms":["δύναμαι"],"lemma":"δύναμαι","root":"δυνα- : pouvoir, être capable","literal":"je peux","role":"La foi se tourne vers la puissance personnelle du Christ."}],"apostle":[{"forms":["δυνατοὶ","ἀδυνάτων"],"lemma":"δυνατός / ἀδύνατος","root":"δυνα- : pouvoir, force","literal":"forts / sans force","role":"La force reçue oblige à porter la fragilité d’autrui."}]},
+        "gospel":{"verses":["28"],"terms":["δύναμαι"]}, "apostle":{"verses":["1"],"terms":["δυνατοὶ","ἀδυνάτων"]}
+      },
+      {
+        "directness": "direct", "kind": "same_root", "link_type": "word_fulfillment",
+        "title": "L’enseignement écrit devient parole proclamée",
+        "explanation": "Jésus parcourt les villes en enseignant ; Paul rappelle que les Écritures furent écrites pour notre enseignement. La même racine διδασκ- unit la prédication vivante du Christ et la formation patiente de l’Église.",
+        "bridge_sentence": "Celui qui enseigne dans les synagogues continue d’instruire son peuple par les Écritures.",
+        "homiletic_use": "Présenter l’Écriture non comme un dépôt immobile, mais comme la parole par laquelle le Christ forme aujourd’hui l’espérance.",
+        "bridge": {"evidence":"Racine directement commune διδασκ- : διδάσκων / διδασκαλίαν","gospel":"διδάσκων… καὶ κηρύσσων : enseignant et proclamant","relation":"L’enseignement du Christ nourrit l’espérance ecclésiale","apostle":"εἰς τὴν ἡμετέραν διδασκαλίαν ἐγράφη : écrit pour notre instruction","detail":"Le participe διδάσκων décrit l’action de Jésus ; le substantif διδασκαλία nomme le fruit durable de la parole écrite."},
+        "term_details": {"gospel":[{"forms":["διδάσκων"],"lemma":"διδάσκω","root":"διδασκ- : enseigner","literal":"enseignant","role":"Jésus forme les foules en même temps qu’il guérit."}],"apostle":[{"forms":["διδασκαλίαν"],"lemma":"διδασκαλία","root":"διδασκ- : enseigner","literal":"enseignement, instruction","role":"Les Écritures instruisent la communauté dans l’espérance."}]},
+        "gospel":{"verses":["35"],"terms":["διδάσκων"]}, "apostle":{"verses":["4"],"terms":["διδασκαλίαν"]}
+      },
+      {
+        "directness": "indirect", "kind": "theology", "link_type": "ecclesial_fruit",
+        "title": "Une bouche rendue à la louange commune",
+        "explanation": "Dans l’Évangile, le muet se met à parler ; dans l’Apôtre, la communauté reçoit de glorifier Dieu d’un même cœur et d’une seule bouche. La guérison personnelle s’ouvre ainsi sur une communion de parole.",
+        "bridge_sentence": "Le Christ délie une bouche afin que l’humanité puisse retrouver la parole de louange.",
+        "homiletic_use": "Passer de la guérison individuelle à sa finalité ecclésiale : la voix restaurée entre dans une louange qui unit sans effacer les personnes.",
+        "bridge": {"evidence":"Lien thématique entre la parole restaurée et l’unique bouche de la communauté","gospel":"ἐλάλησεν ὁ κωφός : le muet parla","relation":"La parole rendue à chacun devient louange partagée","apostle":"ἐν ἑνὶ στόματι δοξάζητε : glorifier d’une seule bouche","detail":"Les mots ne partagent pas la même racine ; le rapprochement porte sur le mouvement de la guérison vers la doxologie commune."},
+        "term_details": {"gospel":[{"forms":["ἐλάλησεν"],"lemma":"λαλέω","root":"λαλ- : parler","literal":"il parla","role":"La parole humaine est restaurée par l’action du Christ."}],"apostle":[{"forms":["στόματι","δοξάζητε"],"lemma":"στόμα / δοξάζω","root":"στοματ- / δοξ-","literal":"d’une bouche / vous glorifiiez","role":"La pluralité des fidèles s’accorde dans une louange commune."}]},
+        "gospel":{"verses":["33"],"terms":["ἐλάλησεν"]}, "apostle":{"verses":["6"],"terms":["στόματι","δοξάζητε"]}
+      }
+    ]
   }
 }

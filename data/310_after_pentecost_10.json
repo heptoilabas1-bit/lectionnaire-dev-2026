@@ -1633,5 +1633,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title": "La puissance du disciple prend la forme de la Croix",
+    "summary": "L’Évangile dévoile l’impuissance des disciples, la foi reçue dans la prière et l’annonce de la Passion ; l’Apôtre montre cette même puissance sous la forme paradoxale de la faiblesse, de l’endurance et de la paternité spirituelle.",
+    "links": [
+      {
+        "directness":"indirect", "kind":"theology", "link_type":"paradox",
+        "title":"De l’impuissance reconnue à la faiblesse apostolique",
+        "explanation":"Les disciples confessent qu’ils n’ont pas pu chasser le démon ; Paul se présente comme faible pour le Christ. Les familles δυνα- et ἀσθεν- diffèrent, mais les deux textes refusent de confondre mission et puissance possédée.",
+        "bridge_sentence":"L’apôtre devient fécond lorsqu’il cesse de traiter la puissance du Christ comme une capacité qui lui appartiendrait.",
+        "homiletic_use":"Faire de l’échec des disciples un lieu de vérité : la foi, la prière et le jeûne ne sont pas des techniques de maîtrise, mais une dépendance au Christ.",
+        "bridge":{"evidence":"Lien théologique entre οὐκ ἠδυνήθησαν et ἀσθενεῖς ; les racines sont distinctes","gospel":"οὐκ ἠδυνήθησαν… Διὰ τὴν ὀλιγοπιστίαν : ils ne purent… à cause de votre peu de foi","relation":"La mission ne repose pas sur une puissance autonome","apostle":"ἡμεῖς ἀσθενεῖς… διὰ Χριστόν : nous sommes faibles… à cause du Christ","detail":"L’Évangile nomme une incapacité ponctuelle par δυνα- ; Paul assume une faiblesse par ἀσθεν-. Le rapprochement est spirituel, non étymologique."},
+        "term_details":{"gospel":[{"forms":["ἠδυνήθησαν","ὀλιγοπιστίαν"],"lemma":"δύναμαι / ὀλιγοπιστία","root":"δυνα- / πιστ-","literal":"ils purent / peu de foi","role":"L’échec révèle que la puissance ne se possède pas indépendamment de la foi."}],"apostle":[{"forms":["ἀσθενεῖς"],"lemma":"ἀσθενής","root":"ἀ- + σθεν- : sans force","literal":"faibles","role":"Paul assume une faiblesse qui empêche de confondre apostolat et prestige."}]},
+        "gospel":{"verses":["16","19","20"],"terms":["ἠδυνήθησαν","ὀλιγοπιστίαν"]}, "apostle":{"verses":["10"],"terms":["ἀσθενεῖς"]}
+      },
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"paschal_pattern",
+        "title":"Livré aux mains, servant de ses mains",
+        "explanation":"Jésus annonce que le Fils de l’homme sera livré aux mains des hommes ; Paul décrit les apôtres travaillant de leurs propres mains. La même χείρ traverse la Passion du Maître et le labeur humble de ses serviteurs.",
+        "bridge_sentence":"Les mains humaines qui saisissent le Christ sont appelées, à sa suite, à devenir des mains qui travaillent et servent.",
+        "homiletic_use":"Faire apparaître la transformation pascale des mains : capables de violence, elles peuvent être converties en instruments de service.",
+        "bridge":{"evidence":"Même lexème χείρ : χεῖρας / χερσίν","gospel":"παραδίδοσθαι εἰς χεῖρας ἀνθρώπων : être livré aux mains des hommes","relation":"La Passion convertit la puissance de saisir en capacité de servir","apostle":"ἐργαζόμενοι ταῖς ἰδίαις χερσίν : travaillant de nos propres mains","detail":"Le pluriel accusatif χεῖρας et le pluriel datif χερσίν sont deux formes du même nom χείρ."},
+        "term_details":{"gospel":[{"forms":["χεῖρας"],"lemma":"χείρ","root":"χειρ- : main","literal":"aux mains","role":"Le Fils de l’homme se laisse remettre au pouvoir des hommes."}],"apostle":[{"forms":["χερσίν"],"lemma":"χείρ","root":"χειρ- : main","literal":"de nos mains","role":"L’apôtre renonce au prestige et assume le travail concret."}]},
+        "gospel":{"verses":["22"],"terms":["χεῖρας"]}, "apostle":{"verses":["12"],"terms":["χερσίν"]}
+      },
+      {
+        "directness":"indirect", "kind":"structure", "link_type":"spiritual_fatherhood",
+        "title":"Un fils guéri, des enfants engendrés",
+        "explanation":"Un père supplie le Christ pour son fils souffrant ; Paul s’adresse aux Corinthiens comme à ses enfants bien-aimés, engendrés par l’Évangile. La guérison et la paternité spirituelle se rejoignent dans un amour qui conduit vers le Christ.",
+        "bridge_sentence":"La paternité véritable ne retient pas l’enfant : elle le porte jusqu’au Christ et l’engendre à sa vie.",
+        "homiletic_use":"Relier la supplication du père et l’autorité de Paul : l’autorité chrétienne naît d’un amour qui souffre, avertit et donne la vie.",
+        "bridge":{"evidence":"Champ familial convergent : υἱός / παῖς et τέκνα / πατέρας / ἐγέννησα","gospel":"ἐλέησόν μου τὸν υἱόν… ἐθεραπεύθη ὁ παῖς : prends pitié de mon fils… l’enfant fut guéri","relation":"La paternité porte la fragilité vers une vie reçue du Christ","apostle":"ὡς τέκνα μου ἀγαπητά… ἐγὼ ὑμᾶς ἐγέννησα : comme mes enfants bien-aimés… je vous ai engendrés","detail":"Les textes emploient plusieurs mots de la filiation ; le lien est celui d’une relation qui cherche la guérison et la naissance en Christ."},
+        "term_details":{"gospel":[{"forms":["υἱόν","παῖς"],"lemma":"υἱός / παῖς","root":"υἱ- / παιδ- : fils / enfant","literal":"fils / enfant","role":"Le père expose au Christ la souffrance de celui qu’il aime."}],"apostle":[{"forms":["τέκνα","πατέρας","ἐγέννησα"],"lemma":"τέκνον / πατήρ / γεννάω","root":"τεκν- / πατρ- / γενν-","literal":"enfants / pères / j’ai engendré","role":"Paul décrit son ministère comme une paternité reçue dans l’Évangile."}]},
+        "gospel":{"verses":["15","18"],"terms":["υἱόν","παῖς"]}, "apostle":{"verses":["14","15"],"terms":["τέκνα","πατέρας","ἐγέννησα"]}
+      }
+    ]
   }
 }
