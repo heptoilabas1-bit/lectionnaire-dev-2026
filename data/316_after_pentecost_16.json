@@ -2215,5 +2215,41 @@
         "connections": []
       }
     ]
+  },
+  "reading_connections": {
+    "title": "Le don confié devient puissance, joie et fécondité",
+    "summary": "La parabole montre un maître confiant ses biens selon la capacité de chacun et appelant ses serviteurs à les faire fructifier. Paul révèle que la puissance vient de Dieu, que l’épreuve peut devenir joie et que la pauvreté apostolique enrichit beaucoup.",
+    "links": [
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"gift_and_power",
+        "title":"Selon sa capacité — la puissance vient de Dieu",
+        "explanation":"Le même δύναμις désigne la capacité propre de chaque serviteur et, chez Paul, la puissance surabondante qui appartient à Dieu. Le don tient compte de la personne, mais sa fécondité ne devient jamais autosuffisance.",
+        "bridge_sentence":"Dieu confie selon la capacité de chacun, tout en demeurant lui-même la source de la puissance qui fait fructifier.",
+        "homiletic_use":"Éviter la comparaison entre les serviteurs : les quantités diffèrent, mais chacun reçoit une confiance réelle et dépend de la même puissance divine.",
+        "bridge":{"evidence":"Même lexème δύναμις : δύναμιν / δυνάμει","gospel":"ἑκάστῳ κατὰ τὴν ἰδίαν δύναμιν : à chacun selon sa propre capacité","relation":"La capacité personnelle accueille une puissance dont Dieu reste la source","apostle":"ἐν δυνάμει θεοῦ : dans la puissance de Dieu","detail":"L’accusatif δύναμιν et le datif δυνάμει sont deux formes du même nom ; les contextes distinguent capacité créée et puissance divine."},
+        "term_details":{"gospel":[{"forms":["δύναμιν"],"lemma":"δύναμις","root":"δυνα- : puissance, capacité","literal":"capacité","role":"Le maître adapte la responsabilité confiée à chacun."}],"apostle":[{"forms":["δυνάμει"],"lemma":"δύναμις","root":"δυνα- : puissance, capacité","literal":"dans la puissance","role":"La puissance du ministère est attribuée à Dieu."}]},
+        "gospel":{"verses":["15"],"terms":["δύναμιν"]}, "apostle":{"verses":["7"],"terms":["δυνάμει"]}
+      },
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"paschal_joy",
+        "title":"Entrer dans la joie, être attristé mais toujours joyeux",
+        "explanation":"Le maître invite le serviteur fidèle à entrer dans sa joie ; Paul décrit les apôtres comme attristés et pourtant toujours joyeux. La famille χαρ- révèle une joie qui ne dépend pas de l’absence d’épreuve.",
+        "bridge_sentence":"La joie du Seigneur commence déjà dans une fidélité que l’épreuve ne peut abolir.",
+        "homiletic_use":"Distinguer la joie évangélique d’un bien-être obligatoire : elle peut coexister avec la tristesse parce qu’elle vient de la communion au Seigneur.",
+        "bridge":{"evidence":"Racine directement commune χαρ- : χαρὰν / χαίροντες","gospel":"εἴσελθε εἰς τὴν χαρὰν τοῦ κυρίου σου : entre dans la joie de ton maître","relation":"La fidélité introduit dans une joie reçue du Seigneur","apostle":"ὡς λυπούμενοι ἀεὶ δὲ χαίροντες : comme attristés, mais toujours joyeux","detail":"Le nom χαρά et le participe de χαίρω partagent la racine χαρ-. Paul en montre le caractère paradoxal au cœur de l’épreuve."},
+        "term_details":{"gospel":[{"forms":["χαρὰν"],"lemma":"χαρά","root":"χαρ- : joie","literal":"joie","role":"La joie est celle du maître, partagée avec le serviteur fidèle."}],"apostle":[{"forms":["χαίροντες"],"lemma":"χαίρω","root":"χαρ- : se réjouir","literal":"étant joyeux","role":"La joie apostolique demeure au sein même de la tristesse."}]},
+        "gospel":{"verses":["21","23"],"terms":["χαρὰν"]}, "apostle":{"verses":["10"],"terms":["χαίροντες"]}
+      },
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"stewardship",
+        "title":"Avoir comme dépositaire, ne rien avoir et tout posséder",
+        "explanation":"Le maître remet ses biens à ses serviteurs ; celui qui enterre parle comme si le talent était une possession à conserver. Paul décrit au contraire les apôtres comme ne possédant rien et tenant pourtant toutes choses.",
+        "bridge_sentence":"Le disciple possède véritablement lorsqu’il reçoit comme dépositaire et fait circuler ce qui lui a été confié.",
+        "homiletic_use":"Déplacer l’image des talents de la réussite individuelle vers l’intendance : le don enterré est perdu parce qu’il est traité comme une propriété fermée.",
+        "bridge":{"evidence":"Racine directement commune ἐχ- : ἔχεις / ἔχοντι / ἔχοντος et ἔχοντες / κατέχοντες","gospel":"ἴδε ἔχεις τὸ σόν… τῷ ἔχοντι παντὶ δοθήσεται : voici, tu as ce qui est à toi… à celui qui a, il sera donné","relation":"La possession féconde est réception et circulation du don","apostle":"ὡς μηδὲν ἔχοντες καὶ πάντα κατέχοντες : comme n’ayant rien et possédant toutes choses","detail":"Les formes viennent de ἔχω ; κατέχω ajoute κατά et peut signifier tenir fermement. Le paradoxe paulinien empêche de réduire le don à la propriété matérielle."},
+        "term_details":{"gospel":[{"forms":["ἔχεις","ἔχοντι","ἔχοντος"],"lemma":"ἔχω","root":"ἐχ- : avoir, tenir","literal":"tu as / à celui qui a / de celui qui n’a pas","role":"Le langage de l’avoir révèle le rapport du serviteur au bien confié."}],"apostle":[{"forms":["ἔχοντες","κατέχοντες"],"lemma":"ἔχω / κατέχω","root":"ἐχ- : avoir, tenir","literal":"ayant / possédant, tenant","role":"La pauvreté apostolique ouvre une possession non captatrice de toutes choses en Dieu."}]},
+        "gospel":{"verses":["25","28","29"],"terms":["ἔχεις","ἔχοντι","ἔχοντος"]}, "apostle":{"verses":["10"],"terms":["ἔχοντες","κατέχοντες"]}
+      }
+    ]
   }
 }

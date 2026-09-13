@@ -1669,5 +1669,41 @@
         "connections": []
       }
     ]
+  },
+  "reading_connections": {
+    "title": "Le cœur éclairé confesse le Christ dans l’Esprit",
+    "summary": "Jésus rassemble toute la Loi dans l’amour de Dieu et du prochain, puis révèle le mystère du Christ que David appelle Seigneur dans l’Esprit. Paul montre cette lumière de Dieu resplendissant dans les cœurs fragiles et cette même foi devenant parole.",
+    "links": [
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"interior_illumination",
+        "title":"Aimer de tout son cœur, recevoir la lumière dans les cœurs",
+        "explanation":"Le même καρδία désigne le cœur entièrement tourné vers Dieu et les cœurs où Dieu fait resplendir la connaissance de sa gloire dans le visage du Christ.",
+        "bridge_sentence":"Le cœur appelé à aimer Dieu est aussi le lieu que Dieu éclaire par le visage du Christ.",
+        "homiletic_use":"Ne pas présenter le commandement d’amour comme un effort seulement affectif : Dieu illumine lui-même le centre intérieur qu’il appelle à aimer.",
+        "bridge":{"evidence":"Même lexème καρδία : καρδίᾳ / καρδίαις","gospel":"ἐν ὅλῃ τῇ καρδίᾳ σου : de tout ton cœur","relation":"Le cœur répond par l’amour à la lumière que Dieu y fait lever","apostle":"ἔλαμψεν ἐν ταῖς καρδίαις ἡμῶν : il a brillé dans nos cœurs","detail":"Le singulier datif καρδίᾳ et le pluriel datif καρδίαις sont deux formes du même nom."},
+        "term_details":{"gospel":[{"forms":["καρδίᾳ"],"lemma":"καρδία","root":"καρδι- : cœur, centre intérieur","literal":"dans, avec le cœur","role":"Le premier commandement engage la personne dans son centre le plus profond."}],"apostle":[{"forms":["καρδίαις"],"lemma":"καρδία","root":"καρδι- : cœur, centre intérieur","literal":"dans les cœurs","role":"La connaissance de la gloire divine est une illumination intérieure."}]},
+        "gospel":{"verses":["37"],"terms":["καρδίᾳ"]}, "apostle":{"verses":["6"],"terms":["καρδίαις"]}
+      },
+      {
+        "directness":"direct", "kind":"same_word", "link_type":"confession_of_faith",
+        "title":"Dans l’Esprit, appeler Jésus Seigneur et parler",
+        "explanation":"David parle dans l’Esprit et appelle le Messie Seigneur ; Paul décrit le même esprit de foi qui croit et, pour cette raison, parle. L’Esprit ouvre la confession juste du Christ.",
+        "bridge_sentence":"L’Esprit fait passer de la foi intérieure à la parole qui reconnaît Jésus comme Seigneur.",
+        "homiletic_use":"Relier exégèse et confession : comprendre le Christ n’est pas résoudre une énigme généalogique, mais recevoir dans l’Esprit une parole de foi.",
+        "bridge":{"evidence":"Même lexème πνεῦμα : πνεύματι / πνεῦμα, avec un mouvement commun vers la parole","gospel":"Δαυὶδ ἐν πνεύματι καλεῖ αὐτὸν κύριον : David dans l’Esprit l’appelle Seigneur","relation":"L’Esprit suscite la confession du Christ","apostle":"τὸ αὐτὸ πνεῦμα τῆς πίστεως… πιστεύομεν, διὸ καὶ λαλοῦμεν : le même esprit de foi… nous croyons, donc nous parlons","detail":"πνεῦμα est directement commun. Dans Matthieu, le contexte désigne l’Esprit inspirant David ; Paul parle de l’esprit de foi selon l’Écriture."},
+        "term_details":{"gospel":[{"forms":["πνεύματι","καλεῖ","κύριον"],"lemma":"πνεῦμα / καλέω / κύριος","root":"πνευματ- / καλ- / κυρι-","literal":"dans l’Esprit / appelle / Seigneur","role":"L’Esprit inspire à David une confession qui dépasse la seule filiation terrestre."}],"apostle":[{"forms":["πνεῦμα","πίστεως","πιστεύομεν","λαλοῦμεν"],"lemma":"πνεῦμα / πίστις / πιστεύω / λαλέω","root":"πνευματ- / πιστ- / λαλ-","literal":"esprit / foi / nous croyons / nous parlons","role":"La foi reçue devient une parole apostolique partagée."}]},
+        "gospel":{"verses":["43"],"terms":["πνεύματι","καλεῖ","κύριον"]}, "apostle":{"verses":["13"],"terms":["πνεῦμα","πίστεως","πιστεύομεν","λαλοῦμεν"]}
+      },
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"divine_power",
+        "title":"L’homme ne peut répondre, la puissance appartient à Dieu",
+        "explanation":"Face au mystère du Christ, personne ne peut répondre à Jésus ; Paul affirme que la surabondance de la puissance appartient à Dieu et non à nous. La racine δυνα- déplace la connaissance de la maîtrise vers la révélation.",
+        "bridge_sentence":"Là où notre capacité s’arrête, la puissance de Dieu peut faire resplendir le visage du Christ.",
+        "homiletic_use":"Faire de l’impossibilité de répondre non une humiliation intellectuelle, mais l’ouverture à une connaissance reçue dans des vases fragiles.",
+        "bridge":{"evidence":"Racine directement commune δυνα- : ἐδύνατο / δυνάμεως","gospel":"οὐδεὶς ἐδύνατο ἀποκριθῆναι : personne ne pouvait répondre","relation":"La connaissance du Christ ne vient pas d’une maîtrise humaine","apostle":"ἡ ὑπερβολὴ τῆς δυνάμεως ᾖ τοῦ θεοῦ καὶ μὴ ἐξ ἡμῶν : que la surabondance de la puissance soit de Dieu et non de nous","detail":"Le verbe δύναμαι exprime la capacité humaine absente ; le substantif δύναμις attribue à Dieu la puissance véritable."},
+        "term_details":{"gospel":[{"forms":["ἐδύνατο"],"lemma":"δύναμαι","root":"δυνα- : pouvoir","literal":"il pouvait","role":"L’incapacité des interlocuteurs manifeste la profondeur du mystère christologique."}],"apostle":[{"forms":["δυνάμεως"],"lemma":"δύναμις","root":"δυνα- : puissance, capacité","literal":"de la puissance","role":"Le trésor porté par l’apôtre tire son efficacité de Dieu."}]},
+        "gospel":{"verses":["46"],"terms":["ἐδύνατο"]}, "apostle":{"verses":["7"],"terms":["δυνάμεως"]}
+      }
+    ]
   }
 }

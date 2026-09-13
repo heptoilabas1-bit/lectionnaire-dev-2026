@@ -1915,5 +1915,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title": "Le salut impossible à l’homme est donné dans l’Évangile",
+    "summary": "Le jeune homme cherche l’acte qui lui assurerait la vie éternelle ; Jésus dévoile l’impossibilité humaine et l’action de Dieu. Paul annonce ce même salut comme l’Évangile reçu, fondé sur la mort et la Résurrection du Christ, et rendu fécond par la grâce.",
+    "links": [
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"salvation",
+        "title":"Qui peut être sauvé ? — par lui vous êtes sauvés",
+        "explanation":"La question des disciples et l’affirmation de Paul partagent la racine σω- : Matthieu ouvre l’interrogation sur la possibilité du salut ; Paul en désigne la source, l’Évangile du Christ mort et ressuscité.",
+        "bridge_sentence":"La question « qui peut être sauvé ? » reçoit sa réponse dans l’Évangile reçu et gardé.",
+        "homiletic_use":"Déplacer l’attention de la performance morale vers le Christ sans dévaloriser les commandements : le salut est reçu, puis gardé dans une vie fidèle.",
+        "bridge":{"evidence":"Racine directement commune σω- : σωθῆναι / σῴζεσθε","gospel":"Τίς ἄρα δύναται σωθῆναι; : qui donc peut être sauvé ?","relation":"L’interrogation humaine s’ouvre sur l’annonce pascale","apostle":"δι’ οὗ καὶ σῴζεσθε : par lequel aussi vous êtes sauvés","detail":"Les deux formes viennent de σῴζω. L’infinitif passif pose la question ; le présent passif décrit le salut à l’œuvre par l’Évangile."},
+        "term_details":{"gospel":[{"forms":["σωθῆναι"],"lemma":"σῴζω","root":"σω- : sauver, préserver","literal":"être sauvé","role":"Les disciples reconnaissent que le salut dépasse les seules possibilités humaines."}],"apostle":[{"forms":["σῴζεσθε"],"lemma":"σῴζω","root":"σω- : sauver, préserver","literal":"vous êtes sauvés","role":"L’Évangile reçu et gardé est le lieu du salut en acte."}]},
+        "gospel":{"verses":["25"],"terms":["σωθῆναι"]}, "apostle":{"verses":["2"],"terms":["σῴζεσθε"]}
+      },
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"divine_possibility",
+        "title":"L’impossible humain et l’efficacité de la grâce",
+        "explanation":"Jésus oppose l’impossible auprès des hommes au possible auprès de Dieu. Paul confesse que son travail ne vient pas de lui seul, mais de la grâce de Dieu avec lui.",
+        "bridge_sentence":"Ce que l’homme ne peut produire seul, la grâce de Dieu le rend réellement fécond avec lui.",
+        "homiletic_use":"Éviter deux erreurs : croire que l’homme se sauve lui-même, ou croire que la grâce le rend passif. Paul travaille, mais la grâce travaille avec lui.",
+        "bridge":{"evidence":"Racine δυνα- dans l’opposition ἀδύνατον / δυνατά ; accomplissement théologique par χάρις","gospel":"παρὰ ἀνθρώποις… ἀδύνατον, παρὰ δὲ θεῷ πάντα δυνατά : impossible aux hommes, tout est possible à Dieu","relation":"La possibilité divine devient coopération de la grâce","apostle":"οὐκ ἐγὼ… ἀλλὰ ἡ χάρις τοῦ θεοῦ σὺν ἐμοί : non pas moi, mais la grâce de Dieu avec moi","detail":"L’Apôtre ne reprend pas δυνα- ; il montre concrètement comment l’action impossible à l’homme devient féconde sans supprimer sa coopération."},
+        "term_details":{"gospel":[{"forms":["ἀδύνατόν","δυνατά"],"lemma":"ἀδύνατος / δυνατός","root":"δυνα- : pouvoir ; ἀ- privatif","literal":"impossible / possibles","role":"Jésus situe en Dieu la possibilité ultime du salut."}],"apostle":[{"forms":["χάριτι","χάρις","ἐκοπίασα"],"lemma":"χάρις / κοπιάω","root":"χαριτ- / κοπ-","literal":"par grâce / grâce / j’ai travaillé","role":"La grâce divine et le labeur apostolique ne sont pas mis en concurrence."}]},
+        "gospel":{"verses":["26"],"terms":["ἀδύνατόν","δυνατά"]}, "apostle":{"verses":["10"],"terms":["χάριτι","χάρις","ἐκοπίασα"]}
+      },
+      {
+        "directness":"indirect", "kind":"structure", "link_type":"discipleship",
+        "title":"Suis-moi — demeurez dans l’Évangile",
+        "explanation":"Jésus invite le jeune homme à se déprendre de ses sécurités et à le suivre. Paul rappelle aux Corinthiens qu’ils ont reçu l’Évangile et qu’ils y tiennent debout.",
+        "bridge_sentence":"Suivre le Christ n’est pas un élan isolé : c’est recevoir son Évangile et y demeurer debout.",
+        "homiletic_use":"Relier le moment décisif de l’appel à la durée de la fidélité : quitter ne suffit pas sans recevoir, garder et demeurer.",
+        "bridge":{"evidence":"Mouvement spirituel convergent, sans racine commune : suivre / recevoir et tenir","gospel":"δεῦρο ἀκολούθει μοι : viens, suis-moi","relation":"L’appel personnel devient persévérance dans l’Évangile","apostle":"παρελάβετε, ἐν ᾧ καὶ ἑστήκατε : vous l’avez reçu, en lui vous tenez debout","detail":"ἀκολουθέω, παραλαμβάνω et ἵστημι sont distincts ; ils décrivent les étapes complémentaires de la condition du disciple."},
+        "term_details":{"gospel":[{"forms":["ἀκολούθει"],"lemma":"ἀκολουθέω","root":"ἀκολουθ- : suivre","literal":"suis","role":"Le Christ appelle à une relation qui réordonne les possessions."}],"apostle":[{"forms":["παρελάβετε","ἑστήκατε"],"lemma":"παραλαμβάνω / ἵστημι","root":"λαβ- / στα-","literal":"vous avez reçu / vous tenez debout","role":"La foi apostolique est un don reçu et une demeure stable."}]},
+        "gospel":{"verses":["21"],"terms":["ἀκολούθει"]}, "apostle":{"verses":["1"],"terms":["παρελάβετε","ἑστήκατε"]}
+      }
+    ]
   }
 }

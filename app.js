@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260913-pentecost-comparisons-7-11';
+    const DATA_VERSION = '20260913-pentecost-comparisons-12-16';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---

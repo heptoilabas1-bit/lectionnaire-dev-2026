@@ -1936,5 +1936,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title": "Appelés au festin, établis ensemble dans la joie",
+    "summary": "Le Royaume est présenté comme les noces du Fils : l’appel est large, mais il demande une réponse réelle. Paul montre Dieu qui établit, oint et scelle les fidèles, puis décrit le ministère apostolique comme une coopération à leur joie.",
+    "links": [
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"divine_call",
+        "title":"Les appelés et le Dieu pris à témoin",
+        "explanation":"La parabole multiplie les formes de καλέω pour l’invitation aux noces ; Paul emploie ἐπικαλοῦμαι lorsqu’il appelle Dieu comme témoin. La même racine fait entendre un appel qui engage devant Dieu.",
+        "bridge_sentence":"L’appel aux noces n’est pas une information : il place chacun devant Dieu et demande une réponse vraie.",
+        "homiletic_use":"Montrer que l’universalité de l’invitation n’abolit pas la responsabilité personnelle ; être appelé signifie entrer réellement dans la relation offerte.",
+        "bridge":{"evidence":"Racine directement commune καλ- : καλέσαι / κεκλημένους / καλέσατε / κλητοὶ et ἐπικαλοῦμαι","gospel":"καλέσαι τοὺς κεκλημένους… πολλοὶ κλητοί : appeler les invités… beaucoup sont appelés","relation":"L’appel du Royaume engage la personne devant Dieu","apostle":"μάρτυρα τὸν θεὸν ἐπικαλοῦμαι : j’appelle Dieu à témoin","detail":"καλέω signifie appeler ; ἐπικαλέομαι ajoute l’idée d’invoquer ou de prendre à témoin. La racine est commune, l’emploi diffère."},
+        "term_details":{"gospel":[{"forms":["καλέσαι","κεκλημένους","καλέσατε","κλητοὶ"],"lemma":"καλέω / κλητός","root":"καλ- : appeler","literal":"appeler / invités / appelez / appelés","role":"L’invitation royale se déploie jusqu’aux chemins."}],"apostle":[{"forms":["ἐπικαλοῦμαι"],"lemma":"ἐπικαλέομαι","root":"ἐπι- + καλ- : appeler sur, invoquer","literal":"j’appelle à témoin","role":"Paul place la vérité de sa conduite sous le regard de Dieu."}]},
+        "gospel":{"verses":["3","4","9","14"],"terms":["καλέσαι","κεκλημένους","καλέσατε","κλητοὶ"]}, "apostle":{"verses":["23"],"terms":["ἐπικαλοῦμαι"]}
+      },
+      {
+        "directness":"indirect", "kind":"theology", "link_type":"baptismal_identity",
+        "title":"Revêtir la réponse à l’onction reçue",
+        "explanation":"L’homme entré sans vêtement de noces révèle qu’une présence extérieure ne suffit pas. Paul rappelle que Dieu établit dans le Christ, oint, scelle et donne les arrhes de l’Esprit dans les cœurs.",
+        "bridge_sentence":"Le vêtement des noces rend visible une identité que Dieu établit, oint et scelle dans le Christ.",
+        "homiletic_use":"Lire le vêtement sans moralisme vestimentaire : il figure une vie accordée au don baptismal et spirituel reçu de Dieu.",
+        "bridge":{"evidence":"Lien sacramentel et théologique ; aucune racine lexicale commune","gospel":"οὐκ ἐνδεδυμένον ἔνδυμα γάμου : ne portant pas de vêtement de noces","relation":"L’invitation reçue demande une existence rendue conforme au don","apostle":"χρίσας… σφραγισάμενος… δοὺς τὸν ἀρραβῶνα τοῦ πνεύματος : nous ayant oints, scellés et donné les arrhes de l’Esprit","detail":"ἔνδυμα ne dérive ni de χρίω ni de σφραγίζω. Le rapprochement appartient à la lecture baptismale traditionnelle du vêtement."},
+        "term_details":{"gospel":[{"forms":["ἐνδεδυμένον","ἔνδυμα"],"lemma":"ἐνδύω / ἔνδυμα","root":"δυ- : entrer, revêtir","literal":"revêtu / vêtement","role":"Le vêtement manifeste l’accord entre l’entrée au festin et la vie de l’invité."}],"apostle":[{"forms":["χρίσας","σφραγισάμενος","ἀρραβῶνα","καρδίαις"],"lemma":"χρίω / σφραγίζω / ἀρραβών / καρδία","root":"χρι- / σφραγιδ- / sémitisme / καρδι-","literal":"ayant oint / ayant scellé / arrhes / cœurs","role":"Dieu donne dans les cœurs l’identité et le gage d’une vie en Christ."}]},
+        "gospel":{"verses":["11","12"],"terms":["ἐνδεδυμένον","ἔνδυμα"]}, "apostle":{"verses":["21","22"],"terms":["χρίσας","σφραγισάμενος","ἀρραβῶνα","καρδίαις"]}
+      },
+      {
+        "directness":"indirect", "kind":"structure", "link_type":"joy",
+        "title":"Le festin devient coopération à la joie",
+        "explanation":"L’Évangile déploie l’image des noces préparées et remplies de convives ; Paul refuse de dominer la foi et définit les apôtres comme coopérateurs de la joie des fidèles.",
+        "bridge_sentence":"Le ministère ne possède pas la foi d’autrui : il prépare et sert la joie des noces du Fils.",
+        "homiletic_use":"Donner une mesure évangélique de l’autorité : affermir sans dominer et collaborer à la joie que Dieu prépare.",
+        "bridge":{"evidence":"Lien narratif entre γάμος, le festin nuptial, et χαρά, la joie ; racines distinctes","gospel":"πάντα ἕτοιμα· δεῦτε εἰς τοὺς γάμους : tout est prêt, venez aux noces","relation":"La joie du Royaume est préparée par Dieu et servie par ses ministres","apostle":"οὐχ ὅτι κυριεύομεν… ἀλλὰ συνεργοί ἐσμεν τῆς χαρᾶς ὑμῶν : non que nous dominions… nous coopérons à votre joie","detail":"La joie n’est pas nommée dans la parabole, mais elle appartient à la structure du festin nuptial ; Paul en précise la forme ecclésiale."},
+        "term_details":{"gospel":[{"forms":["ἕτοιμα","γάμους"],"lemma":"ἕτοιμος / γάμος","root":"ἑτοιμ- / γαμ-","literal":"prêtes / noces","role":"Le roi a préparé le festin avant d’élargir l’invitation."}],"apostle":[{"forms":["κυριεύομεν","συνεργοί","χαρᾶς"],"lemma":"κυριεύω / συνεργός / χαρά","root":"κυρι- / ἐργ- / χαρ-","literal":"nous dominons / coopérateurs / joie","role":"L’autorité apostolique se définit comme service de la joie, non maîtrise de la foi."}]},
+        "gospel":{"verses":["4","8","10"],"terms":["ἕτοιμα","γάμους"]}, "apostle":{"verses":["24"],"terms":["κυριεύομεν","συνεργοί","χαρᾶς"]}
+      }
+    ]
   }
 }

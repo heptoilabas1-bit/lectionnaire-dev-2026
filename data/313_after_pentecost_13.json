@@ -1894,5 +1894,41 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title": "La vigne confiée devient maison de service et d’amour",
+    "summary": "La parabole dénonce ceux qui s’approprient la vigne et refusent son fruit jusqu’à rejeter le Fils. Paul décrit au contraire une Église vigilante, ferme dans la foi, organisée comme une maison qui se met au service des saints et fait tout dans l’amour.",
+    "links": [
+      {
+        "directness":"direct", "kind":"same_root", "link_type":"ecclesial_household",
+        "title":"Du maître de maison à l’Église dans la maison",
+        "explanation":"La racine οἰκ- désigne le maître qui plante la vigne, puis la maison de Stéphanas et l’Église réunie chez Aquilas et Prisca. Le bien de Dieu est confié à une maison appelée à devenir communion.",
+        "bridge_sentence":"La maison du Maître porte du fruit lorsqu’elle cesse de s’approprier le don et devient Église.",
+        "homiletic_use":"Présenter la paroisse et la famille chrétienne comme des lieux de responsabilité : ce qui est confié doit devenir service et communion.",
+        "bridge":{"evidence":"Racine directement commune οἰκ- : οἰκοδεσπότης / οἰκίαν / οἶκον / ἐκκλησίᾳ","gospel":"ἄνθρωπος ἦν οἰκοδεσπότης : il était un maître de maison","relation":"Le domaine confié par Dieu devient une communauté servante","apostle":"τὴν οἰκίαν Στεφανᾶ… τῇ κατ’ οἶκον αὐτῶν ἐκκλησίᾳ : la maison de Stéphanas… l’Église dans leur maison","detail":"οἰκοδεσπότης, οἰκία et οἶκος appartiennent au champ de la maison ; ἐκκλησία n’est pas de cette racine mais nomme l’assemblée qui l’habite."},
+        "term_details":{"gospel":[{"forms":["οἰκοδεσπότης"],"lemma":"οἰκοδεσπότης","root":"οἰκ- + δεσποτ- : maison + maître","literal":"maître de maison","role":"Le propriétaire prépare entièrement la vigne avant de la confier."}],"apostle":[{"forms":["οἰκίαν","οἶκον","ἐκκλησίᾳ"],"lemma":"οἰκία / οἶκος / ἐκκλησία","root":"οἰκ- : maison ; καλ- : appeler","literal":"maison / maisonnée / Église","role":"La maison devient un lieu concret de service et de communion ecclésiale."}]},
+        "gospel":{"verses":["33"],"terms":["οἰκοδεσπότης"]}, "apostle":{"verses":["15","19"],"terms":["οἰκίαν","οἶκον","ἐκκλησίᾳ"]}
+      },
+      {
+        "directness":"indirect", "kind":"theology", "link_type":"fruit_and_service",
+        "title":"Le fruit attendu devient service offert",
+        "explanation":"Le maître envoie chercher les fruits de sa vigne ; la maison de Stéphanas s’est vouée au service des saints. Le fruit du Royaume n’est pas une possession à retenir, mais une vie offerte.",
+        "bridge_sentence":"Dieu attend de sa vigne non l’appropriation, mais le fruit visible d’un service libre.",
+        "homiletic_use":"Donner un contenu concret au fruit : coopération, fatigue assumée et service des saints, plutôt qu’un rendement religieux abstrait.",
+        "bridge":{"evidence":"Correspondance sémantique entre καρποί et διακονία, sans racine commune","gospel":"λαβεῖν τοὺς καρποὺς αὐτοῦ… ποιοῦντι τοὺς καρπούς : recevoir ses fruits… produire les fruits","relation":"Le fruit rendu au Maître prend la forme du service","apostle":"εἰς διακονίαν τοῖς ἁγίοις ἔταξαν ἑαυτούς : ils se sont voués au service des saints","detail":"καρπός et διακονία sont lexicalement distincts. Le lien est celui de l’accomplissement concret du don confié."},
+        "term_details":{"gospel":[{"forms":["καρποὺς"],"lemma":"καρπός","root":"καρπ- : fruit","literal":"les fruits","role":"Le propriétaire attend le fruit légitime de la vigne préparée."}],"apostle":[{"forms":["διακονίαν","ἔταξαν"],"lemma":"διακονία / τάσσω","root":"διακον- / ταγ-","literal":"service / ils ont disposé, voué","role":"La maison de Stéphanas organise librement sa vie autour du service."}]},
+        "gospel":{"verses":["34","41","43"],"terms":["καρποὺς"]}, "apostle":{"verses":["15"],"terms":["διακονίαν","ἔταξαν"]}
+      },
+      {
+        "directness":"indirect", "kind":"structure", "link_type":"response_to_the_son",
+        "title":"Le Fils rejeté, le Seigneur aimé",
+        "explanation":"Les vignerons reconnaissent le fils pour mieux s’emparer de son héritage et le mettent à mort. Paul clôt sa lettre en faisant de l’amour du Seigneur le critère décisif de l’appartenance ecclésiale.",
+        "bridge_sentence":"Toute la vigne se juge finalement à la manière dont elle reçoit, ou refuse, le Fils devenu Seigneur.",
+        "homiletic_use":"Ramener la fécondité ecclésiale à son centre : non la possession d’un héritage religieux, mais l’amour concret du Christ.",
+        "bridge":{"evidence":"Identité théologique entre le υἱός de la parabole et le κύριος confessé par Paul","gospel":"οὗτός ἐστιν ὁ κληρονόμος… ἀποκτείνωμεν αὐτόν : voici l’héritier… tuons-le","relation":"L’accueil du Royaume se décide devant la personne du Fils","apostle":"εἴ τις οὐ φιλεῖ τὸν κύριον : si quelqu’un n’aime pas le Seigneur","detail":"Le texte paulinien ne reprend pas υἱός ; le lien repose sur l’identité christologique du Fils rejeté et du Seigneur à aimer."},
+        "term_details":{"gospel":[{"forms":["υἱὸν","κληρονόμος","ἀποκτείνωμεν"],"lemma":"υἱός / κληρονόμος / ἀποκτείνω","root":"υἱ- / κληρονομ- / κτεν-","literal":"fils / héritier / tuons","role":"Le don ultime du maître révèle la volonté d’appropriation des vignerons."}],"apostle":[{"forms":["φιλεῖ","κύριον"],"lemma":"φιλέω / κύριος","root":"φιλ- / κυρι-","literal":"aime / Seigneur","role":"La relation au Christ Seigneur devient le critère intérieur de la communauté."}]},
+        "gospel":{"verses":["37","38"],"terms":["υἱὸν","κληρονόμος","ἀποκτείνωμεν"]}, "apostle":{"verses":["22"],"terms":["φιλεῖ","κύριον"]}
+      }
+    ]
   }
 }
