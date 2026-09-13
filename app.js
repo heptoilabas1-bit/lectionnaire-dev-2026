@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260913-pentecost-comparisons-12-16';
+    const DATA_VERSION = '20260913-liturgical-sunday-tooltips-1';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -99,6 +99,10 @@ document.addEventListener('DOMContentLoaded', () => {
     let comparisonDisplayMode = 'related';
     let focusedComparisonIndex = null;
     let liturgicalPathDataPromise = null;
+    let activeLiturgicalSundayTooltipButton = null;
+    let touchPrimedLiturgicalSundayButton = null;
+    const liturgicalSundayTooltipData = new Map();
+    const liturgicalCalendarTooltipData = new Map();
 
     const defaultHomilyTemplate = [
         {
@@ -1379,6 +1383,207 @@ document.addEventListener('DOMContentLoaded', () => {
     const formatLiturgicalWeekday = date => new Intl.DateTimeFormat('fr-FR', {
         weekday: 'long', timeZone: 'UTC'
     }).format(date);
+    const formatLiturgicalFullDate = date => new Intl.DateTimeFormat('fr-FR', {
+        weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC'
+    }).format(date);
+    const formatPaschalOffset = offset => offset === 0
+        ? 'J 0 par rapport à Pâques'
+        : `J ${offset > 0 ? '+' : '−'} ${Math.abs(offset)} par rapport à Pâques`;
+
+    const describeSundayPosition = (key, offset, variant) => {
+        const afterPentecost = key.match(/_after_pentecost_(\d+)$/);
+        if (afterPentecost) {
+            const rank = Number(afterPentecost[1]);
+            return `${rank}${rank === 1 ? 'er' : 'e'} dimanche après la Pentecôte`;
+        }
+        const positions = {
+            '00_publican_pharisee': '1er dimanche du Triode · 10 semaines avant Pâques',
+            '01_prodigal_son': '2e dimanche du Triode · 9 semaines avant Pâques',
+            '02_meatfare': '3e dimanche du Triode · 8 semaines avant Pâques',
+            '03_cheese_fare': '4e dimanche du Triode · veille du Grand Carême',
+            '10_great_lent_1': '1er dimanche du Grand Carême',
+            '11_great_lent_2': '2e dimanche du Grand Carême',
+            '12_great_lent_3': '3e dimanche du Grand Carême',
+            '13_great_lent_4': '4e dimanche du Grand Carême',
+            '14_great_lent_5': '5e dimanche du Grand Carême',
+            '15_palm_sunday': 'Dimanche des Rameaux · entrée dans la Semaine sainte',
+            '21_pascha': 'Pâques · commencement du Pentecostaire',
+            '22_thomas_sunday': '2e dimanche de Pâques · 1 semaine après Pâques',
+            '23_myrrhbearers': '3e dimanche de Pâques · 2 semaines après Pâques',
+            '24_paralytic': '4e dimanche de Pâques · 3 semaines après Pâques',
+            '25_samaritan': '5e dimanche de Pâques · 4 semaines après Pâques',
+            '26_blind_man': '6e dimanche de Pâques · 5 semaines après Pâques',
+            '27_holy_fathers_1': '7e dimanche de Pâques · après l’Ascension',
+            '28_pentecost': 'Pentecôte · 50e jour du cycle pascal',
+            '29_all_saints': '1er dimanche après la Pentecôte',
+            '96_cross_before': 'Cycle fixe · dimanche précédant le 14 septembre',
+            '97_cross_after': 'Cycle fixe · dimanche suivant le 14 septembre',
+            '90_advent_2': 'Cycle fixe · 2e dimanche avant le 25 décembre',
+            '91_advent_1': 'Cycle fixe · dimanche précédant le 25 décembre',
+            '92_nativity_after': 'Cycle fixe · dimanche suivant le 25 décembre',
+            '93_theophany_before': 'Cycle fixe · dimanche précédant le 6 janvier',
+            '94_theophany_after': 'Cycle fixe · dimanche suivant le 6 janvier'
+        };
+        return positions[key] || (variant === 'fixed' ? 'Dimanche lié au cycle fixe' : describeMobilePosition(offset));
+    };
+
+    const compactSundayPosition = (key, offset, variant) => {
+        const afterPentecost = key.match(/_after_pentecost_(\d+)$/);
+        if (afterPentecost) return `DP ${Number(afterPentecost[1])} · ouvrir`;
+        if (variant === 'fixed') return 'Cycle fixe · ouvrir';
+        if (key === '28_pentecost') return 'Pentecôte · ouvrir';
+        if (key === '29_all_saints') return 'DP 1 · ouvrir';
+        return `${offset === 0 ? 'J 0' : `J ${offset > 0 ? '+' : '−'} ${Math.abs(offset)}`} · ouvrir`;
+    };
+
+    const ensureLiturgicalSundayTooltip = () => {
+        let tooltip = document.getElementById('liturgical-sunday-tooltip');
+        if (tooltip) return tooltip;
+        tooltip = document.createElement('div');
+        tooltip.id = 'liturgical-sunday-tooltip';
+        tooltip.className = 'liturgical-sunday-tooltip';
+        tooltip.setAttribute('role', 'tooltip');
+        tooltip.hidden = true;
+        document.body.appendChild(tooltip);
+        return tooltip;
+    };
+
+    const positionLiturgicalSundayTooltip = button => {
+        const tooltip = ensureLiturgicalSundayTooltip();
+        if (tooltip.hidden) return;
+        const anchor = button.getBoundingClientRect();
+        const bounds = tooltip.getBoundingClientRect();
+        const margin = 10;
+        const left = Math.min(window.innerWidth - bounds.width - margin,
+            Math.max(margin, anchor.left + (anchor.width / 2) - (bounds.width / 2)));
+        let top = anchor.top - bounds.height - margin;
+        if (top < margin) top = Math.min(window.innerHeight - bounds.height - margin, anchor.bottom + margin);
+        tooltip.style.left = `${left}px`;
+        tooltip.style.top = `${Math.max(margin, top)}px`;
+    };
+
+    const loadLiturgicalSundayTooltipData = key => {
+        if (!liturgicalSundayTooltipData.has(key)) {
+            liturgicalSundayTooltipData.set(key, fetch(versionedDataPath(`data/${key}.json`))
+                .then(response => response.ok ? response.json() : null)
+                .catch(() => null));
+        }
+        return liturgicalSundayTooltipData.get(key);
+    };
+
+    const loadLiturgicalCalendarTooltipData = year => {
+        if (!liturgicalCalendarTooltipData.has(year)) {
+            liturgicalCalendarTooltipData.set(year, fetch(versionedDataPath(`data/calendar_${year}.json`))
+                .then(response => response.ok ? response.json() : null)
+                .catch(() => null));
+        }
+        return liturgicalCalendarTooltipData.get(year);
+    };
+
+    const resolveLiturgicalSundayCalendarEntry = async (context, liturgicalYear) => {
+        const afterPentecost = /_after_pentecost_\d+$/.test(context.key);
+        let calendarYear = liturgicalYear + 1;
+        if (context.variant === 'fixed') {
+            calendarYear = ['93_theophany_before', '94_theophany_after'].includes(context.key)
+                ? liturgicalYear + 1
+                : liturgicalYear;
+        } else if (afterPentecost && context.offset < 0) {
+            calendarYear = liturgicalYear;
+        }
+        const calendar = await loadLiturgicalCalendarTooltipData(calendarYear);
+        return calendar?.sundays?.find(entry => entry.key === context.key) || null;
+    };
+
+    const renderLiturgicalSundayTooltip = (button, context, data = null, calendarEntry = null, calendarChecked = false) => {
+        const tooltip = ensureLiturgicalSundayTooltip();
+        const sliderYear = Number(document.getElementById('cycle-year-slider')?.value || 2026);
+        const pascha = orthodoxPaschaDate(sliderYear + 1);
+        const officialDate = calendarEntry?.date ? new Date(`${calendarEntry.date}T12:00:00Z`) : null;
+        const exactOffset = officialDate ? cycleDayDifference(officialDate, pascha) : context.offset;
+        tooltip.innerHTML = '';
+        const cycle = document.createElement('span');
+        cycle.className = 'liturgical-tooltip-cycle';
+        cycle.textContent = context.variant === 'fixed' ? 'Dimanche du cycle fixe' : 'Dimanche du cycle mobile';
+        const title = document.createElement('strong');
+        title.textContent = cleanLiturgicalSundayLabel(liturgicalList[context.key] || context.key);
+        const exactDate = document.createElement('span');
+        exactDate.className = 'liturgical-tooltip-date';
+        exactDate.textContent = officialDate
+            ? formatLiturgicalFullDate(officialDate)
+            : (calendarChecked ? 'Date non validée dans le calendrier intégré' : 'Recherche de la date officielle…');
+        const position = document.createElement('p');
+        position.textContent = calendarEntry?.official_title
+            ? `${calendarEntry.official_title} · ${formatPaschalOffset(exactOffset)}.`
+            : `${describeSundayPosition(context.key, context.offset, context.variant)} · ${formatPaschalOffset(context.offset)}.`;
+        const readings = document.createElement('div');
+        readings.className = 'liturgical-tooltip-readings';
+        if (data?.gospel?.reference || data?.apostle?.reference) {
+            const gospel = document.createElement('span');
+            gospel.innerHTML = `<b>Évangile</b> ${data?.gospel?.reference || 'à préciser'}`;
+            const apostle = document.createElement('span');
+            apostle.innerHTML = `<b>Apôtre</b> ${data?.apostle?.reference || 'à préciser'}`;
+            readings.append(gospel, apostle);
+        } else {
+            readings.textContent = 'Chargement des lectures…';
+        }
+        const hint = document.createElement('small');
+        hint.textContent = touchPrimedLiturgicalSundayButton === button
+            ? 'Touchez une seconde fois pour ouvrir les lectures.'
+            : 'Cliquez pour ouvrir les lectures.';
+        tooltip.append(cycle, title, exactDate, position, readings, hint);
+        if (officialDate) {
+            button.setAttribute('aria-label', `${cleanLiturgicalSundayLabel(liturgicalList[context.key] || context.key)}. ${formatLiturgicalFullDate(officialDate)}. ${calendarEntry.official_title || describeSundayPosition(context.key, exactOffset, context.variant)}. Ouvrir la péricope.`);
+        }
+        tooltip.hidden = false;
+        activeLiturgicalSundayTooltipButton = button;
+        window.requestAnimationFrame(() => positionLiturgicalSundayTooltip(button));
+    };
+
+    const showLiturgicalSundayTooltip = (button, context) => {
+        renderLiturgicalSundayTooltip(button, context);
+        const sliderYear = Number(document.getElementById('cycle-year-slider')?.value || 2026);
+        Promise.all([
+            loadLiturgicalSundayTooltipData(context.key),
+            resolveLiturgicalSundayCalendarEntry(context, sliderYear)
+        ]).then(([data, calendarEntry]) => {
+            if (activeLiturgicalSundayTooltipButton === button) {
+                renderLiturgicalSundayTooltip(button, context, data, calendarEntry, true);
+            }
+        });
+    };
+
+    const hideLiturgicalSundayTooltip = button => {
+        if (button && activeLiturgicalSundayTooltipButton !== button) return;
+        const tooltip = document.getElementById('liturgical-sunday-tooltip');
+        if (tooltip) tooltip.hidden = true;
+        activeLiturgicalSundayTooltipButton = null;
+    };
+
+    const attachLiturgicalSundayTooltip = (button, context, openReading) => {
+        button.setAttribute('aria-describedby', 'liturgical-sunday-tooltip');
+        button.setAttribute('aria-label', `${cleanLiturgicalSundayLabel(liturgicalList[context.key] || context.key)}. ${describeSundayPosition(context.key, context.offset, context.variant)}. Ouvrir la péricope.`);
+        let lastPointerType = '';
+        button.addEventListener('pointerdown', event => { lastPointerType = event.pointerType; });
+        button.addEventListener('mouseenter', () => showLiturgicalSundayTooltip(button, context));
+        button.addEventListener('mouseleave', () => {
+            if (touchPrimedLiturgicalSundayButton !== button) hideLiturgicalSundayTooltip(button);
+        });
+        button.addEventListener('focus', () => showLiturgicalSundayTooltip(button, context));
+        button.addEventListener('blur', () => {
+            if (touchPrimedLiturgicalSundayButton !== button) hideLiturgicalSundayTooltip(button);
+        });
+        button.addEventListener('click', event => {
+            const touchActivation = event.detail > 0 && (lastPointerType === 'touch' || window.matchMedia('(hover: none)').matches);
+            if (touchActivation && touchPrimedLiturgicalSundayButton !== button) {
+                touchPrimedLiturgicalSundayButton = button;
+                showLiturgicalSundayTooltip(button, context);
+                return;
+            }
+            touchPrimedLiturgicalSundayButton = null;
+            hideLiturgicalSundayTooltip(button);
+            openReading();
+        });
+    };
 
     const orthodoxPaschaDate = year => {
         const a = year % 4;
@@ -1446,9 +1651,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const label = document.createElement('strong');
             label.textContent = cleanLiturgicalSundayLabel(fullLabel);
             const action = document.createElement('small');
-            action.textContent = offset === 0 ? 'Pâques · ouvrir' : 'Dimanche · ouvrir';
+            action.textContent = compactSundayPosition(key, offset, variant);
             button.append(label, action);
-            button.addEventListener('click', () => openLiturgicalStageReading({ key }, 'gospel'));
+            attachLiturgicalSundayTooltip(button, { key, offset, variant }, () => openLiturgicalStageReading({ key }, 'gospel'));
             return button;
         };
 
@@ -1498,6 +1703,14 @@ document.addEventListener('DOMContentLoaded', () => {
         };
         top.addEventListener('scroll', () => mirror(top, bottom));
         bottom.addEventListener('scroll', () => mirror(bottom, top));
+        top.addEventListener('scroll', () => {
+            touchPrimedLiturgicalSundayButton = null;
+            hideLiturgicalSundayTooltip();
+        });
+        bottom.addEventListener('scroll', () => {
+            touchPrimedLiturgicalSundayButton = null;
+            hideLiturgicalSundayTooltip();
+        });
         top.dataset.ready = 'true';
     };
 
@@ -1533,6 +1746,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const paschaOutput = document.getElementById('cycle-pascha-output');
         const keyEncounters = document.getElementById('cycle-key-encounters');
         if (!timeline || !ribbon || !yearOutput || !paschaOutput || !keyEncounters) return;
+        touchPrimedLiturgicalSundayButton = null;
+        hideLiturgicalSundayTooltip();
 
         const pascha = orthodoxPaschaDate(year + 1);
         const yearStart = utcDate(year, 8, 1);
@@ -1604,9 +1819,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 button.className = `timeline-sunday timeline-sunday-fixed${item.key === currentSundayKey ? ' active' : ''}`;
                 button.dataset.sundayKey = item.key;
                 button.style.left = `${cyclePercent(item.offset)}%`;
-                button.setAttribute('aria-label', `Ouvrir la péricope : ${fullLabel}`);
-                button.innerHTML = `<strong>${cleanLiturgicalSundayLabel(fullLabel)}</strong><small>Dimanche fixe · ouvrir</small>`;
-                button.addEventListener('click', () => openLiturgicalStageReading({ key: item.key }, 'gospel'));
+                button.innerHTML = `<strong>${cleanLiturgicalSundayLabel(fullLabel)}</strong><small>${compactSundayPosition(item.key, item.offset, 'fixed')}</small>`;
+                attachLiturgicalSundayTooltip(button, { key: item.key, offset: item.offset, variant: 'fixed' }, () => openLiturgicalStageReading({ key: item.key }, 'gospel'));
                 fixedSundayTrack.appendChild(button);
             });
         }
@@ -1645,6 +1859,15 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         updateCycleAlignment(Number(slider.value));
     };
+
+    document.addEventListener('pointerdown', event => {
+        if (!touchPrimedLiturgicalSundayButton || touchPrimedLiturgicalSundayButton.contains(event.target)) return;
+        touchPrimedLiturgicalSundayButton = null;
+        hideLiturgicalSundayTooltip();
+    });
+    window.addEventListener('resize', () => {
+        if (activeLiturgicalSundayTooltipButton) positionLiturgicalSundayTooltip(activeLiturgicalSundayTooltipButton);
+    });
 
     const cleanLiturgicalSundayLabel = label => String(label || '')
         .replace(/^[A-D]\.\s*/, '')
