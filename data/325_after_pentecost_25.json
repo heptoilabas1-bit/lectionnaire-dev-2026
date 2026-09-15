@@ -2145,5 +2145,38 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"Marcher selon l’appel en devenant le prochain",
+    "summary":"Paul appelle à marcher d’une manière digne de la vocation, dans l’amour et l’unité, chacun recevant la grâce comme un don du Christ. La parabole montre ce chemin lorsque le Samaritain s’approche, soigne et donne pour l’homme blessé.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_root","link_type":"love_in_action","title":"Se supporter dans l’amour — tu aimeras",
+        "explanation":"Paul situe l’ἀνεχόμενοι ἀλλήλων ἐν ἀγάπῃ au cœur de la vie communautaire ; la Loi répond Ἀγαπήσεις Dieu et le prochain. La famille ἀγαπ- unit le commandement reçu à sa mise en œuvre patiente.",
+        "bridge_sentence":"L’amour du Seigneur devient capacité de porter l’autre et de s’approcher de celui que la route a brisé.",
+        "homiletic_use":"Éviter un amour seulement affectif : chez Paul comme dans la parabole, il prend une forme durable, coûteuse et corporelle.",
+        "bridge":{"evidence":"Même famille ἀγαπ- : ἀγάπῃ / Ἀγαπήσεις","gospel":"Ἀγαπήσεις Κύριον… καὶ τὸν πλησίον σου : tu aimeras le Seigneur… et ton prochain","relation":"Le commandement d’aimer reçoit une forme communautaire et concrète","apostle":"ἀνεχόμενοι ἀλλήλων ἐν ἀγάπῃ : vous supportant les uns les autres dans l’amour","detail":"Le nom ἀγάπη et le futur à valeur impérative ἀγαπήσεις appartiennent à la même famille."},
+        "term_details":{"gospel":[{"forms":["Ἀγαπήσεις"],"lemma":"ἀγαπάω","root":"ἀγαπ- : aimer","literal":"tu aimeras","role":"L’amour de Dieu et du prochain résume l’orientation de la Loi."}],"apostle":[{"forms":["ἀγάπῃ"],"lemma":"ἀγάπη","root":"ἀγαπ- : amour","literal":"dans l’amour","role":"L’amour est le milieu où patience et soutien mutuel deviennent possibles."}]},
+        "gospel":{"verses":["27"],"terms":["Ἀγαπήσεις"]},"apostle":{"verses":["2"],"terms":["ἀγάπῃ"]}
+      },
+      {
+        "directness":"indirect","kind":"theology","link_type":"worthy_walk","title":"Marcher selon l’appel — va et fais de même",
+        "explanation":"Paul commande ἀξίως περιπατῆσαι, « marcher dignement » ; Jésus conclut Πορεύου καὶ σὺ ποίει ὁμοίως. Les verbes de marche diffèrent, mais les deux lectures refusent une connaissance qui ne devient pas chemin et action.",
+        "bridge_sentence":"La vocation chrétienne se vérifie sur la route, lorsque le disciple va et fait à son tour miséricorde.",
+        "homiletic_use":"Faire du déplacement une structure de l’homélie : voir, passer à distance ou s’approcher, prendre soin, puis repartir avec un commandement.",
+        "bridge":{"evidence":"Champ du chemin, lexèmes distincts : περιπατέω / πορεύομαι","gospel":"Πορεύου καὶ σὺ ποίει ὁμοίως : va, et toi aussi fais de même","relation":"L’identité reçue par l’appel devient une conduite concrète","apostle":"ἀξίως περιπατῆσαι τῆς κλήσεως : marcher d’une manière digne de l’appel","detail":"Il s’agit d’une convergence d’action, non d’une racine grecque commune."},
+        "term_details":{"gospel":[{"forms":["Πορεύου","ποίει"],"lemma":"πορεύομαι / ποιέω","root":"πορευ- : aller ; ποι- : faire","literal":"va / fais","role":"Jésus transforme la juste réponse du légiste en mission pratique."}],"apostle":[{"forms":["περιπατῆσαι","κλήσεως"],"lemma":"περιπατέω / κλῆσις","root":"περι- + πατ- : marcher ; κλη- : appel","literal":"marcher / appel","role":"La conduite entière doit correspondre au don de la vocation."}]},
+        "gospel":{"verses":["37"],"terms":["Πορεύου","ποίει"]},"apostle":{"verses":["1"],"terms":["περιπατῆσαι","κλήσεως"]}
+      },
+      {
+        "directness":"direct","kind":"same_root","link_type":"gift_and_care","title":"La grâce donnée à chacun — il donna pour prendre soin",
+        "explanation":"Paul dit Ἑνὶ δὲ ἑκάστῳ… ἐδόθη ἡ χάρις selon la δωρεά du Christ. Le Samaritain ἔδωκεν deux deniers et promet ἀποδώσω. La famille δο-/δω- fait passer du don reçu du Christ au don engagé pour la guérison d’autrui.",
+        "bridge_sentence":"Le don du Christ devient chez le disciple une ressource mise au service du blessé.",
+        "homiletic_use":"Ne pas réduire les deux deniers à un symbole arbitraire : le sens direct suffit déjà, car la compassion accepte une dépense présente et une responsabilité future.",
+        "bridge":{"evidence":"Famille du don δο-/δω- : ἐδόθη / δωρεᾶς et ἔδωκεν / ἀποδώσω","gospel":"ἔδωκεν τῷ πανδοχεῖ… ἀποδώσω σοι : il donna à l’aubergiste… je te rendrai","relation":"La grâce reçue se traduit en don concret et en soin continué","apostle":"ἑκάστῳ ἡμῶν ἐδόθη ἡ χάρις… τῆς δωρεᾶς τοῦ Χριστοῦ : à chacun de nous la grâce a été donnée… selon le don du Christ","detail":"Les formes relèvent de δίδωμι, rendre/donner, et du nom δωρεά, don."},
+        "term_details":{"gospel":[{"forms":["ἔδωκεν","ἀποδώσω"],"lemma":"δίδωμι / ἀποδίδωμι","root":"δο-/δω- : donner, rendre","literal":"il donna / je rendrai","role":"Le soin du Samaritain mobilise ses biens et l’engage au-delà de l’instant."}],"apostle":[{"forms":["ἐδόθη","δωρεᾶς"],"lemma":"δίδωμι / δωρεά","root":"δο-/δω- : donner, don","literal":"fut donnée / don","role":"La diversité des grâces vient d’un même Christ donateur."}]},
+        "gospel":{"verses":["35"],"terms":["ἔδωκεν","ἀποδώσω"]},"apostle":{"verses":["7"],"terms":["ἐδόθη","δωρεᾶς"]}
+      }
+    ]
   }
 }

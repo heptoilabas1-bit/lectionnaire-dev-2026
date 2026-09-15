@@ -2017,5 +2017,38 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"La miséricorde reçue franchit le gouffre",
+    "summary":"Le riche découvre trop tard le pauvre qu’il n’avait jamais regardé et demande la miséricorde. Paul place au centre non l’apparence religieuse, mais la Croix, la création nouvelle, la paix et la miséricorde offertes au peuple de Dieu.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_root","link_type":"mercy_received_and_given","title":"Miséricorde sur eux — aie pitié de moi",
+        "explanation":"Paul associe εἰρήνη et ἔλεος à ceux qui marchent selon la création nouvelle ; le riche appelle ἐλέησόν με. La même famille ἐλε- fait entendre une miséricorde qu’il invoque après avoir refusé de la laisser atteindre Lazare.",
+        "bridge_sentence":"La miséricorde demandée à Dieu doit pouvoir franchir dès maintenant notre porte et rejoindre le pauvre.",
+        "homiletic_use":"Ne pas présenter la parabole comme une simple revanche sociale : son urgence est de recevoir la miséricorde de telle manière qu’elle transforme aujourd’hui le regard et l’action.",
+        "bridge":{"evidence":"Même famille ἐλε- : ἔλεος / ἐλέησόν","gospel":"Πάτερ Ἀβραάμ, ἐλέησόν με : Père Abraham, aie pitié de moi","relation":"La miséricorde divine reçue devient responsabilité envers celui qui demeure à la porte","apostle":"εἰρήνη ἐπ’ αὐτοὺς καὶ ἔλεος : paix sur eux et miséricorde","detail":"Le nom ἔλεος et l’impératif ἐλέησον appartiennent à la même famille lexicale."},
+        "term_details":{"gospel":[{"forms":["ἐλέησόν"],"lemma":"ἐλεέω","root":"ἐλε- : prendre en pitié, faire miséricorde","literal":"aie pitié","role":"Le riche demande pour lui-même ce qu’il n’a pas pratiqué envers Lazare."}],"apostle":[{"forms":["ἔλεος"],"lemma":"ἔλεος","root":"ἐλε- : miséricorde","literal":"miséricorde","role":"La miséricorde accompagne la paix sur ceux qui vivent selon la création nouvelle."}]},
+        "gospel":{"verses":["24"],"terms":["ἐλέησόν"]},"apostle":{"verses":["16"],"terms":["ἔλεος"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"brotherhood","title":"Frères dans le Christ — cinq frères à avertir",
+        "explanation":"Paul conclut en appelant ses destinataires ἀδελφοί ; le riche pense enfin à ses cinq ἀδελφούς. Le même nom révèle le contraste entre une fraternité vécue dans la grâce et une solidarité familiale qui n’a pas encore reconnu Lazare comme frère.",
+        "bridge_sentence":"La Croix élargit le mot frère au-delà du cercle de ceux qui nous ressemblent ou nous appartiennent.",
+        "homiletic_use":"Faire de Lazare le frère oublié sans nier le souci tardif du riche pour sa famille : la parabole élargit ce souci plutôt qu’elle ne le condamne en lui-même.",
+        "bridge":{"evidence":"Même nom ἀδελφός : ἀδελφοί / ἀδελφούς","gospel":"ἔχω γὰρ πέντε ἀδελφούς : car j’ai cinq frères","relation":"La fraternité reçue dans le Christ appelle à reconnaître celui qui reste hors de notre porte","apostle":"μετὰ τοῦ πνεύματος ὑμῶν, ἀδελφοί : avec votre esprit, frères","detail":"Le vocatif pluriel et l’accusatif pluriel viennent du même substantif."},
+        "term_details":{"gospel":[{"forms":["ἀδελφούς"],"lemma":"ἀδελφός","root":"ἀδελφ- : frère","literal":"frères","role":"Le riche souhaite préserver son propre cercle familial."}],"apostle":[{"forms":["ἀδελφοί"],"lemma":"ἀδελφός","root":"ἀδελφ- : frère","literal":"frères","role":"Paul nomme une communauté rassemblée par la grâce du Christ."}]},
+        "gospel":{"verses":["28"],"terms":["ἀδελφούς"]},"apostle":{"verses":["18"],"terms":["ἀδελφοί"]}
+      },
+      {
+        "directness":"indirect","kind":"theology","link_type":"cross_and_hearing","title":"La Croix et la création nouvelle — écouter avant qu’il soit trop tard",
+        "explanation":"Paul refuse de se glorifier ailleurs que dans la Croix et parle de καινὴ κτίσις. Abraham renvoie les vivants à Moïse et aux prophètes : même un ressuscité ne contraindra pas celui qui refuse d’écouter. La nouveauté pascale ne dispense donc jamais de l’écoute et de la conversion.",
+        "bridge_sentence":"Le Crucifié ressuscité ouvre la création nouvelle, mais il ne remplace pas l’écoute libre qui conduit à la conversion.",
+        "homiletic_use":"Éviter une lecture qui opposerait l’Ancien Testament au Christ : Abraham affirme que l’endurcissement devant les Écritures persisterait même devant la résurrection.",
+        "bridge":{"evidence":"Lien théologique, sans identité lexicale : σταυρός et καινὴ κτίσις / ἀκούω et ἀνίστημι","gospel":"οὐκ ἀκούουσιν… οὐδ’ ἐάν τις ἐκ νεκρῶν ἀναστῇ : s’ils n’écoutent pas… même si quelqu’un ressuscite des morts","relation":"La nouveauté pascale appelle une écoute qui transforme la vie présente","apostle":"ἐν τῷ σταυρῷ… καινὴ κτίσις : dans la Croix… une création nouvelle","detail":"Le rapprochement est canonique et théologique ; les mots grecs mis en regard ne sont pas de même racine."},
+        "term_details":{"gospel":[{"forms":["ἀκούουσιν","ἀναστῇ"],"lemma":"ἀκούω / ἀνίστημι","root":"ἀκου- : écouter ; ἀνά- + ἵστημι : se relever","literal":"ils écoutent / il ressuscite","role":"La conversion ne peut être produite mécaniquement par un signe."}],"apostle":[{"forms":["σταυρῷ","καινὴ","κτίσις"],"lemma":"σταυρός / καινός / κτίσις","root":"vocabulaire de la Croix et de la création nouvelle","literal":"Croix / nouvelle création","role":"La Croix reconfigure le rapport de Paul au monde et à la gloire."}]},
+        "gospel":{"verses":["31"],"terms":["ἀκούουσιν","ἀναστῇ"]},"apostle":{"verses":["14","15"],"terms":["σταυρῷ","καινὴ","κτίσις"]}
+      }
+    ]
   }
 }

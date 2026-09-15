@@ -2679,5 +2679,38 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"La paix du Christ fait de la maison une demeure vivante",
+    "summary":"Paul proclame le Christ comme notre paix, celui qui rapproche et bâtit les hommes en une demeure de Dieu dans l’Esprit. Jésus entre dans la maison de Jaïre, donne sa paix à l’hémorroïsse et rappelle à la vie l’esprit de l’enfant.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_word","link_type":"peace_in_christ","title":"Il est notre paix — va en paix",
+        "explanation":"εἰρήνη structure l’épître et devient dans l’Évangile la parole personnelle adressée à la femme : πορεύου εἰς εἰρήνην. La paix créée par le Christ entre les groupes séparés rejoint aussi le corps blessé et la personne tremblante.",
+        "bridge_sentence":"La paix qu’est le Christ devient un chemin concret pour celle que la foi a sauvée.",
+        "homiletic_use":"Ne pas réduire « va en paix » à une formule de congé : εἰς indique un mouvement vers la paix, comme vers un espace nouveau de vie.",
+        "bridge":{"evidence":"Même nom εἰρήνη : εἰρήνη / εἰρήνην","gospel":"πορεύου εἰς εἰρήνην : va vers la paix","relation":"La paix objective accomplie par le Christ devient expérience personnelle et chemin","apostle":"Αὐτὸς γάρ ἐστιν ἡ εἰρήνη ἡμῶν : car lui-même est notre paix","detail":"Le nominatif présente l’identité du Christ ; l’accusatif après εἰς marque la direction donnée à la femme."},
+        "term_details":{"gospel":[{"forms":["εἰρήνην"],"lemma":"εἰρήνη","root":"εἰρην- : paix","literal":"vers la paix","role":"Jésus ouvre à la femme un avenir qui dépasse la seule cessation du flux de sang."}],"apostle":[{"forms":["εἰρήνη"],"lemma":"εἰρήνη","root":"εἰρην- : paix","literal":"paix","role":"Le Christ n’apporte pas seulement la paix : il est lui-même la paix qui réunit."}]},
+        "gospel":{"verses":["48"],"terms":["εἰρήνην"]},"apostle":{"verses":["14","15","17"],"terms":["εἰρήνη"]}
+      },
+      {
+        "directness":"direct","kind":"same_root","link_type":"house_and_dwelling","title":"Entrer dans la maison — être bâtis en demeure de Dieu",
+        "explanation":"Jaïre supplie Jésus d’entrer dans son οἶκος ; Paul déploie la famille οἰκ- : οἰκεῖοι, οἰκοδομή, συνοικοδομεῖσθε. La maison familiale visitée par le Christ devient une image concrète de la communauté bâtie comme demeure de Dieu.",
+        "bridge_sentence":"Lorsque le Christ entre dans la maison menacée par la mort, il révèle la vocation de toute maison ecclésiale : devenir demeure de Dieu.",
+        "homiletic_use":"Présenter ce lien comme une image liturgique, non comme une équivalence : Paul parle de l’Église, Luc de la maison réelle d’une famille éprouvée.",
+        "bridge":{"evidence":"Racine commune οἰκ- : οἶκον / οἰκίαν et οἰκεῖοι / οἰκοδομή / συνοικοδομεῖσθε","gospel":"εἰσελθεῖν εἰς τὸν οἶκον αὐτοῦ : entrer dans sa maison","relation":"La visitation du Christ transforme l’espace humain en lieu de présence et de vie","apostle":"συνοικοδομεῖσθε εἰς κατοικητήριον τοῦ θεοῦ : vous êtes bâtis ensemble pour être une demeure de Dieu","detail":"Les formes appartiennent au vaste champ de οἶκος, la maison, mais gardent leurs fonctions propres."},
+        "term_details":{"gospel":[{"forms":["οἶκον","οἰκίαν"],"lemma":"οἶκος / οἰκία","root":"οἰκ- : maison, demeure","literal":"maison","role":"Jésus accepte d’entrer dans le lieu même où la mort semble avoir pris possession."}],"apostle":[{"forms":["οἰκεῖοι","οἰκοδομὴ","συνοικοδομεῖσθε"],"lemma":"οἰκεῖος / οἰκοδομή / συνοικοδομέω","root":"οἰκ- : maison, bâtir, habiter","literal":"membres de la maison / édifice / bâtis ensemble","role":"Les croyants ne sont plus étrangers : ils deviennent ensemble l’habitation de Dieu."}]},
+        "gospel":{"verses":["41","51"],"terms":["οἶκον","οἰκίαν"]},"apostle":{"verses":["19","21","22"],"terms":["οἰκεῖοι","οἰκοδομὴ","συνοικοδομεῖσθε"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"spirit_and_life","title":"Dans un seul Esprit — son esprit revint",
+        "explanation":"Paul parle de l’accès au Père ἐν ἑνὶ πνεύματι et de la demeure de Dieu ἐν πνεύματι ; Luc dit que τὸ πνεῦμα de l’enfant revint. Le même mot relie la vie rendue et l’Esprit dans lequel la communauté reçoit accès et demeure.",
+        "bridge_sentence":"Le retour de l’esprit de l’enfant rend visible, à l’échelle d’une vie, la victoire du Christ qui édifie une demeure dans l’Esprit.",
+        "homiletic_use":"Distinguer les emplois : πνεῦμα désigne l’esprit vital de l’enfant chez Luc et l’Esprit Saint chez Paul ; le lien est théologique, malgré l’identité du mot.",
+        "bridge":{"evidence":"Même forme πνεῦμα, avec deux référents à distinguer","gospel":"ἐπέστρεψεν τὸ πνεῦμα αὐτῆς : son esprit revint","relation":"La vie rendue par le Christ ouvre vers la communion vivifiante de l’Esprit","apostle":"ἐν ἑνὶ πνεύματι… ἐν πνεύματι : dans un seul Esprit… dans l’Esprit","detail":"L’identité lexicale ne doit pas masquer la différence sémantique entre l’esprit de la personne et l’Esprit Saint."},
+        "term_details":{"gospel":[{"forms":["πνεῦμα"],"lemma":"πνεῦμα","root":"πνευ- : souffle, esprit","literal":"esprit, souffle vital","role":"Son retour manifeste que l’enfant est réellement rappelée à la vie."}],"apostle":[{"forms":["πνεύματι"],"lemma":"πνεῦμα","root":"πνευ- : Esprit","literal":"dans l’Esprit","role":"L’Esprit donne accès au Père et fait de l’Église sa demeure."}]},
+        "gospel":{"verses":["55"],"terms":["πνεῦμα"]},"apostle":{"verses":["18","22"],"terms":["πνεύματι"]}
+      }
+    ]
   }
 }

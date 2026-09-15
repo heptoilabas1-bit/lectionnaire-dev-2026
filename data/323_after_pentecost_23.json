@@ -2391,5 +2391,38 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"Sauvé par grâce, rendu à lui-même et envoyé",
+    "summary":"Paul décrit le passage de la mort à la vie avec le Christ comme un salut reçu par grâce. Le Gérasénien, délivré de la légion, est retrouvé assis et lucide aux pieds de Jésus, puis envoyé raconter ce que Dieu a fait pour lui.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_word","link_type":"salvation_by_grace","title":"Vous êtes sauvés — comment il fut sauvé",
+        "explanation":"Éphésiens répète ἐστε σεσωσμένοι ; Luc rapporte πῶς ἐσώθη. Les formes viennent exactement de σώζω : l’épître dévoile la grâce qui sauve, tandis que le récit en montre la restauration visible.",
+        "bridge_sentence":"Le salut par grâce rejoint une personne défigurée et la rend de nouveau capable de relation, de parole et de mission.",
+        "homiletic_use":"Déployer σώζω au-delà d’une délivrance abstraite : l’homme sauvé retrouve son vêtement, sa lucidité, sa place et une parole adressée aux autres.",
+        "bridge":{"evidence":"Même verbe σώζω : σεσωσμένοι / ἐσώθη","gospel":"πῶς ἐσώθη ὁ δαιμονισθείς : comment le démonisé fut sauvé","relation":"La grâce confessée par Paul prend corps dans une restauration intégrale","apostle":"χάριτί ἐστε σεσωσμένοι : par grâce vous êtes sauvés","detail":"Le parfait passif souligne un état résultant ; l’aoriste passif raconte l’événement de délivrance."},
+        "term_details":{"gospel":[{"forms":["ἐσώθη"],"lemma":"σώζω","root":"σω- : sauver, préserver, rendre sain","literal":"il fut sauvé","role":"Luc interprète la délivrance comme un salut de toute la personne."}],"apostle":[{"forms":["σεσωσμένοι"],"lemma":"σώζω","root":"σω- : sauver, préserver","literal":"ayant été sauvés","role":"Le salut demeure un don de grâce, non le résultat des œuvres."}]},
+        "gospel":{"verses":["36"],"terms":["ἐσώθη"]},"apostle":{"verses":["5","8"],"terms":["σεσωσμένοι"]}
+      },
+      {
+        "directness":"direct","kind":"same_root","link_type":"seated_with_christ","title":"Assis avec le Christ — assis aux pieds de Jésus",
+        "explanation":"Paul écrit συνεκάθισεν, « il nous a fait asseoir avec lui » ; Luc montre l’homme καθήμενον aux pieds de Jésus. La famille καθ- associe le salut à une stabilité retrouvée auprès du Christ.",
+        "bridge_sentence":"Celui que les puissances dispersaient peut enfin demeurer assis auprès du Christ.",
+        "homiletic_use":"Contraster sobrement les mouvements du récit : chaînes brisées, errance au désert, précipitation du troupeau, puis calme de l’homme assis aux pieds de Jésus.",
+        "bridge":{"evidence":"Famille de l’action de s’asseoir : συνεκάθισεν / καθήμενον","gospel":"εὗρον καθήμενον τὸν ἄνθρωπον… παρὰ τοὺς πόδας τοῦ Ἰησοῦ : ils trouvèrent l’homme assis aux pieds de Jésus","relation":"Le salut restaure une demeure et une stabilité auprès du Christ","apostle":"συνεκάθισεν ἐν τοῖς ἐπουρανίοις ἐν Χριστῷ : il nous a fait asseoir ensemble dans les lieux célestes, dans le Christ","detail":"Les verbes ne sont pas identiques, mais partagent le vocabulaire grec de la position assise."},
+        "term_details":{"gospel":[{"forms":["καθήμενον"],"lemma":"κάθημαι","root":"καθ- : être assis","literal":"assis","role":"La posture manifeste extérieurement la paix et la lucidité retrouvées."}],"apostle":[{"forms":["συνεκάθισεν"],"lemma":"συγκαθίζω","root":"συν- + καθίζω : faire asseoir avec","literal":"il fit asseoir avec","role":"Paul inscrit la restauration dans la communion et l’exaltation du Christ."}]},
+        "gospel":{"verses":["35"],"terms":["καθήμενον"]},"apostle":{"verses":["6"],"terms":["συνεκάθισεν"]}
+      },
+      {
+        "directness":"direct","kind":"same_root","link_type":"work_of_god","title":"Œuvre façonnée par Dieu — raconter ce que Dieu a fait",
+        "explanation":"Paul appelle les croyants ποίημα de Dieu, créés pour les œuvres bonnes ; Jésus demande au Gérasénien de raconter ὅσα… ἐποίησεν ὁ θεός. La racine ποι- relie l’œuvre créatrice de Dieu au témoignage d’une vie recréée.",
+        "bridge_sentence":"L’homme restauré devient lui-même l’œuvre qui raconte l’œuvre de Dieu.",
+        "homiletic_use":"Relier grâce et mission sans mérite : le témoignage n’achète pas le salut ; il est l’œuvre bonne préparée pour celui qui vient d’être sauvé.",
+        "bridge":{"evidence":"Racine ποι- : ποίημα / ἐποίησεν","gospel":"διηγοῦ ὅσα σοι ἐποίησεν ὁ θεός : raconte tout ce que Dieu a fait pour toi","relation":"L’œuvre créatrice de Dieu devient une histoire confiée au témoin","apostle":"αὐτοῦ γάρ ἐσμεν ποίημα : car nous sommes son ouvrage","detail":"ποίημα désigne ce qui est fait ou façonné ; ἐποίησεν est l’aoriste de ποιέω, faire."},
+        "term_details":{"gospel":[{"forms":["ἐποίησεν"],"lemma":"ποιέω","root":"ποι- : faire, produire","literal":"il a fait","role":"Le délivré doit attribuer et raconter à Dieu sa restauration."}],"apostle":[{"forms":["ποίημα"],"lemma":"ποίημα","root":"ποι- : œuvre façonnée","literal":"ouvrage, œuvre","role":"La personne sauvée est reçue comme création de Dieu avant ses propres œuvres."}]},
+        "gospel":{"verses":["39"],"terms":["ἐποίησεν"]},"apostle":{"verses":["10"],"terms":["ποίημα"]}
+      }
+    ]
   }
 }

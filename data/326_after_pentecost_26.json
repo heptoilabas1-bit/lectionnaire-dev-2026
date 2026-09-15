@@ -1759,5 +1759,38 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"Du fruit accumulé au fruit de la lumière",
+    "summary":"Le riche confond l’abondance de ses récoltes avec la sécurité de son âme et reçoit le nom d’insensé. Paul appelle au contraire les enfants de lumière à discerner, à quitter les œuvres sans fruit et à comprendre la volonté du Seigneur.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_word","link_type":"two_kinds_of_fruit","title":"Mes fruits — le fruit de la lumière",
+        "explanation":"Luc nomme les récoltes du riche τοὺς καρπούς μου ; Paul parle de ὁ καρπὸς τοῦ φωτός. Le même καρπός distingue ce que l’homme enferme dans ses greniers et ce que la lumière fait croître en bonté, justice et vérité.",
+        "bridge_sentence":"Le véritable fruit n’est pas seulement ce que l’on possède, mais ce que la lumière fait devenir en nous.",
+        "homiletic_use":"Ne pas condamner la récolte ni la prévoyance en elles-mêmes : la parabole vise l’appropriation fermée, le monologue et l’illusion de posséder sa propre vie.",
+        "bridge":{"evidence":"Même nom καρπός : καρπούς / καρπὸς","gospel":"συνάξω τοὺς καρπούς μου : j’amasserai mes fruits","relation":"Le fruit retenu pour soi s’oppose au fruit intérieur et relationnel de la lumière","apostle":"ὁ καρπὸς τοῦ φωτὸς ἐν πάσῃ ἀγαθωσύνῃ : le fruit de la lumière est en toute bonté","detail":"L’accusatif pluriel désigne les récoltes ; le nominatif singulier rassemble les effets de la lumière."},
+        "term_details":{"gospel":[{"forms":["καρπούς"],"lemma":"καρπός","root":"καρπ- : fruit, produit","literal":"fruits, récoltes","role":"Le riche réduit le fruit à un stock désigné comme sien."}],"apostle":[{"forms":["καρπὸς"],"lemma":"καρπός","root":"καρπ- : fruit","literal":"fruit","role":"La lumière porte une fécondité morale faite de bonté, justice et vérité."}]},
+        "gospel":{"verses":["17"],"terms":["καρπούς"]},"apostle":{"verses":["9"],"terms":["καρπὸς"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"folly_and_discernment","title":"Insensé — ne devenez pas insensés",
+        "explanation":"Dieu interpelle le riche par Ἄφρων ; Paul exhorte μὴ γίνεσθε ἄφρονες. Le même ἄφρων ne désigne pas un manque d’intelligence, mais l’incapacité spirituelle à comprendre la réalité de la vie devant Dieu.",
+        "bridge_sentence":"L’insensé calcule ses années sans discerner que le temps, l’âme et les biens restent reçus de Dieu.",
+        "homiletic_use":"Déplacer la critique de la richesse vers le discernement : le problème apparaît dans les possessifs répétés — mes fruits, mes greniers, mes biens, mon âme.",
+        "bridge":{"evidence":"Même adjectif ἄφρων : Ἄφρων / ἄφρονες","gospel":"Ἄφρων, ταύτῃ τῇ νυκτὶ… : Insensé, cette nuit même…","relation":"La sagesse chrétienne mesure la vie à la volonté du Seigneur plutôt qu’à la durée des réserves","apostle":"μὴ γίνεσθε ἄφρονες, ἀλλὰ συνίετε : ne devenez pas insensés, mais comprenez","detail":"Le singulier vocatif devient chez Paul un avertissement communautaire au pluriel."},
+        "term_details":{"gospel":[{"forms":["Ἄφρων"],"lemma":"ἄφρων","root":"ἀ- privatif + φρην- : sans compréhension juste","literal":"insensé","role":"Dieu révèle la fausse sagesse du projet entièrement refermé sur soi."}],"apostle":[{"forms":["ἄφρονες"],"lemma":"ἄφρων","root":"ἀ- privatif + φρην- : insensé","literal":"insensés","role":"Paul oppose l’insensibilité spirituelle à la compréhension de la volonté du Seigneur."}]},
+        "gospel":{"verses":["20"],"terms":["Ἄφρων"]},"apostle":{"verses":["17"],"terms":["ἄφρονες"]}
+      },
+      {
+        "directness":"direct","kind":"same_root","link_type":"goods_and_goodness","title":"Beaucoup de biens — toute bonté",
+        "explanation":"Le riche nomme ses réserves τὰ ἀγαθά puis πολλὰ ἀγαθὰ, « les biens » et « beaucoup de biens » ; Paul situe le fruit de la lumière ἐν πάσῃ ἀγαθωσύνῃ, « en toute bonté ». La racine ἀγαθ- oppose les choses qualifiées de bonnes à la bonté comme qualité de vie.",
+        "bridge_sentence":"Les biens ne deviennent réellement bons que lorsqu’ils participent à la bonté qui vient de la lumière.",
+        "homiletic_use":"Exploiter la différence de traduction : ἀγαθά peut désigner les biens possédés, tandis qu’ἀγαθωσύνη désigne la bonté active et généreuse.",
+        "bridge":{"evidence":"Racine commune ἀγαθ- : ἀγαθά / ἀγαθὰ / ἀγαθωσύνῃ","gospel":"ἔχεις πολλὰ ἀγαθὰ κείμενα : tu as beaucoup de biens en réserve","relation":"La possession de choses bonnes ne garantit pas la bonté de celui qui les détient","apostle":"ἐν πάσῃ ἀγαθωσύνῃ καὶ δικαιοσύνῃ καὶ ἀληθείᾳ : en toute bonté, justice et vérité","detail":"L’adjectif substantivé neutre ἀγαθά ou ἀγαθὰ désigne des biens ; le nom abstrait ἀγαθωσύνη désigne la bonté."},
+        "term_details":{"gospel":[{"forms":["ἀγαθά","ἀγαθὰ"],"lemma":"ἀγαθός","root":"ἀγαθ- : bon","literal":"biens, bonnes choses","role":"Les réserves sont présentées comme capables de garantir repos et joie à l’âme."}],"apostle":[{"forms":["ἀγαθωσύνῃ"],"lemma":"ἀγαθωσύνη","root":"ἀγαθ- : bonté","literal":"bonté","role":"La bonté est un fruit de la lumière associé à la justice et à la vérité."}]},
+        "gospel":{"verses":["18","19"],"terms":["ἀγαθά","ἀγαθὰ"]},"apostle":{"verses":["9"],"terms":["ἀγαθωσύνῃ"]}
+      }
+    ]
   }
 }
