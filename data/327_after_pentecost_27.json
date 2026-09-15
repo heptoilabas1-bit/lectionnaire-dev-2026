@@ -1962,5 +1962,38 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"Fortifiés pour tenir debout dans la liberté",
+    "summary":"Paul appelle les croyants à recevoir la force du Seigneur afin de tenir contre les puissances du mal. Jésus délivre une fille d’Abraham incapable de se redresser et lui rend, au jour du sabbat, la station droite et la louange.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_root","link_type":"divine_ability","title":"Elle ne pouvait se redresser — soyez fortifiés dans le Seigneur",
+        "explanation":"Luc décrit la femme μὴ δυναμένη ἀνακύψαι ; Paul multiplie les formes de δύναμαι et ἐνδυναμόω. La famille δυνα- oppose l’impuissance subie à la capacité reçue dans le Seigneur.",
+        "bridge_sentence":"Ce que la personne ne peut accomplir seule devient possible par la force libératrice du Seigneur.",
+        "homiletic_use":"Éviter toute culpabilisation de la malade : son incapacité n’est pas un défaut de foi ; l’initiative appartient au regard, à l’appel et au geste de Jésus.",
+        "bridge":{"evidence":"Famille δυνα- : δυναμένη / ἐνδυναμοῦσθε / δύνασθαι / δυνηθῆτε / δυνήσεσθε","gospel":"μὴ δυναμένη ἀνακύψαι : ne pouvant pas se redresser","relation":"La force du Seigneur rejoint l’incapacité humaine et rend possible une station nouvelle","apostle":"ἐνδυναμοῦσθε ἐν κυρίῳ : soyez fortifiés dans le Seigneur","detail":"δύναμαι exprime pouvoir ; ἐνδυναμόω signifie rendre fort ou fortifier."},
+        "term_details":{"gospel":[{"forms":["δυναμένη"],"lemma":"δύναμαι","root":"δυνα- : pouvoir, être capable","literal":"pouvant","role":"La négation souligne une incapacité durable et totale à se redresser."}],"apostle":[{"forms":["ἐνδυναμοῦσθε","δύνασθαι","δυνηθῆτε","δυνήσεσθε"],"lemma":"ἐνδυναμόω / δύναμαι","root":"δυνα- : puissance, capacité","literal":"soyez fortifiés / pouvoir","role":"La capacité de résister est reçue dans la force du Seigneur."}]},
+        "gospel":{"verses":["11"],"terms":["δυναμένη"]},"apostle":{"verses":["10","11","13","16"],"terms":["ἐνδυναμοῦσθε","δύνασθαι","δυνηθῆτε","δυνήσεσθε"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"discernment_of_spirits","title":"Esprit d’infirmité — l’épée de l’Esprit",
+        "explanation":"Les deux lectures emploient πνεῦμα, mais avec des référents opposés : un esprit d’infirmité chez Luc, l’Esprit de Dieu chez Paul. L’identité du mot exige ici précisément le discernement du complément qui le qualifie.",
+        "bridge_sentence":"Toute réalité spirituelle n’est pas sainte : l’Esprit de Dieu libère de ce qui courbe et asservit.",
+        "homiletic_use":"Faire de cette différence une leçon de discernement, sans attribuer automatiquement toute maladie à une cause démoniaque ; le récit nomme un cas précis.",
+        "bridge":{"evidence":"Même nom πνεῦμα, référents distincts : πνεῦμα ἀσθενείας / μάχαιραν τοῦ πνεύματος","gospel":"πνεῦμα ἔχουσα ἀσθενείας : ayant un esprit d’infirmité","relation":"L’Esprit de Dieu combat ce qui défigure et emprisonne la personne","apostle":"τὴν μάχαιραν τοῦ πνεύματος : l’épée de l’Esprit","detail":"L’identité lexicale ne signifie pas identité de nature ; les compléments ἀσθενείας et le contexte divin les distinguent."},
+        "term_details":{"gospel":[{"forms":["πνεῦμα"],"lemma":"πνεῦμα","root":"πνευ- : souffle, esprit","literal":"esprit","role":"Le terme est déterminé par ἀσθενείας, “d’infirmité”."}],"apostle":[{"forms":["πνεύματος"],"lemma":"πνεῦμα","root":"πνευ- : Esprit","literal":"de l’Esprit","role":"L’Esprit donne le glaive identifié à la parole de Dieu."}]},
+        "gospel":{"verses":["11"],"terms":["πνεῦμα"]},"apostle":{"verses":["17"],"terms":["πνεύματος"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"day_of_standing","title":"Tenir au jour mauvais — être déliée au jour du sabbat",
+        "explanation":"Paul parle de résister ἐν τῇ ἡμέρᾳ τῇ πονηρᾷ ; Jésus insiste sur la libération τῇ ἡμέρᾳ τοῦ σαββάτου. Le même ἡμέρα reçoit deux qualifications : le jour de l’épreuve devient, dans l’Évangile, jour approprié pour être délié et relevé.",
+        "bridge_sentence":"Le jour où les puissances courbent l’homme peut devenir, dans le Seigneur, le jour où il tient debout.",
+        "homiletic_use":"Relier le sabbat à son accomplissement libérateur : Jésus ne méprise pas le jour saint, il révèle que la délivrance en exprime la vérité.",
+        "bridge":{"evidence":"Même nom ἡμέρα : ἡμέρᾳ / ἡμέρᾳ","gospel":"λυθῆναι… τῇ ἡμέρᾳ τοῦ σαββάτου : être déliée… le jour du sabbat","relation":"Le temps de l’épreuve devient lieu de résistance, de libération et de relèvement","apostle":"ἀντιστῆναι ἐν τῇ ἡμέρᾳ τῇ πονηρᾷ : résister au jour mauvais","detail":"La forme est identique au datif singulier ; les compléments donnent au jour sa qualité."},
+        "term_details":{"gospel":[{"forms":["ἡμέρᾳ"],"lemma":"ἡμέρα","root":"ἡμερ- : jour","literal":"au jour","role":"Jésus affirme que le sabbat est le temps convenable de la délivrance."}],"apostle":[{"forms":["ἡμέρᾳ"],"lemma":"ἡμέρα","root":"ἡμερ- : jour","literal":"au jour","role":"Le croyant reçoit l’armure pour traverser le temps de l’épreuve en tenant ferme."}]},
+        "gospel":{"verses":["14","16"],"terms":["ἡμέρᾳ"]},"apostle":{"verses":["13"],"terms":["ἡμέρᾳ"]}
+      }
+    ]
   }
 }

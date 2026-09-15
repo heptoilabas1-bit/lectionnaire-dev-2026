@@ -1962,5 +1962,38 @@
         "connections": []
       }
     ]
+  },
+  "reading_connections": {
+    "title":"Le Fils appelé traverse l’exil et se révèle aux nations",
+    "summary":"Joseph reçoit l’ordre de prendre l’Enfant et sa mère, de fuir puis de revenir lorsque Dieu l’appelle. Paul témoigne qu’il n’a pas reçu son Évangile d’un homme : Dieu a appelé l’ancien persécuteur et révélé en lui son Fils pour qu’il l’annonce aux nations.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_root","link_type":"divine_call","title":"Appelé par la grâce — d’Égypte j’ai appelé mon Fils",
+        "explanation":"Paul se dit καλέσας par la grâce ; Matthieu cite ἐκάλεσα τὸν υἱόν μου et conclut Ναζωραῖος κληθήσεται. La famille καλε- unit l’appel de l’apôtre, celui du Fils hors d’Égypte et le nom reçu dans l’histoire.",
+        "bridge_sentence":"Celui qui appelle son Fils hors d’Égypte appelle aussi Paul afin que ce Fils soit annoncé parmi les nations.",
+        "homiletic_use":"Distinguer les plans sans les séparer : l’appel unique du Fils dans l’histoire du salut fonde la vocation missionnaire reçue par Paul.",
+        "bridge":{"evidence":"Famille καλε- : καλέσας / ἐκάλεσα / κληθήσεται","gospel":"Ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου : d’Égypte j’ai appelé mon Fils","relation":"L’appel divin conduit le Fils dans l’histoire et l’apôtre vers sa mission","apostle":"καλέσας διὰ τῆς χάριτος αὐτοῦ : m’ayant appelé par sa grâce","detail":"καλέσας et ἐκάλεσα viennent de καλέω ; κληθήσεται en est le futur passif."},
+        "term_details":{"gospel":[{"forms":["ἐκάλεσα","κληθήσεται"],"lemma":"καλέω","root":"καλε- : appeler, nommer","literal":"j’ai appelé / il sera appelé","role":"L’Écriture interprète le retour d’Égypte et le nom de Nazaréen dans le dessein de Dieu."}],"apostle":[{"forms":["καλέσας"],"lemma":"καλέω","root":"καλε- : appeler","literal":"ayant appelé","role":"La vocation de Paul est attribuée à la grâce antérieure de Dieu."}]},
+        "gospel":{"verses":["15","23"],"terms":["ἐκάλεσα","κληθήσεται"]},"apostle":{"verses":["15"],"terms":["καλέσας"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"the_son_preserved_and_revealed","title":"Le Fils protégé — révéler son Fils en moi",
+        "explanation":"Le υἱός que Dieu veut révéler en Paul est le même titre que la prophétie applique à l’Enfant ramené d’Égypte. L’épître donne la portée missionnaire de cette vie préservée au milieu de la violence d’Hérode.",
+        "bridge_sentence":"Le Fils sauvé de la persécution est révélé dans l’apôtre pour devenir Évangile aux nations.",
+        "homiletic_use":"Ne pas laisser la fuite en Égypte isolée comme épisode familial : elle appartient à la conservation historique de Celui que Paul annoncera comme Fils de Dieu.",
+        "bridge":{"evidence":"Même nom υἱός : υἱόν / υἱὸν","gospel":"ἐκάλεσα τὸν υἱόν μου : j’ai appelé mon Fils","relation":"L’identité du Fils préservé dans l’histoire devient le contenu de la révélation apostolique","apostle":"ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοί : révéler son Fils en moi","detail":"Les deux formes sont l’accusatif singulier du même substantif."},
+        "term_details":{"gospel":[{"forms":["υἱόν"],"lemma":"υἱός","root":"υἱ- : fils","literal":"Fils","role":"La citation d’Osée est relue par Matthieu à partir du retour de Jésus hors d’Égypte."}],"apostle":[{"forms":["υἱὸν"],"lemma":"υἱός","root":"υἱ- : fils","literal":"son Fils","role":"Le Fils est le contenu personnel de la révélation et de l’Évangile de Paul."}]},
+        "gospel":{"verses":["15"],"terms":["υἱόν"]},"apostle":{"verses":["16"],"terms":["υἱὸν"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"receiving_from_god","title":"Je ne l’ai pas reçu d’un homme — prends l’Enfant et sa mère",
+        "explanation":"Paul emploie παρέλαβον pour nier une origine seulement humaine de l’Évangile ; l’ange commande παράλαβε, et Joseph παρέλαβεν l’Enfant et sa mère. Le même παραλαμβάνω distingue la source de la révélation et l’obéissance concrète qui reçoit une mission de Dieu.",
+        "bridge_sentence":"Ne pas recevoir l’Évangile d’un homme n’empêche pas de recevoir de Dieu une personne et une responsabilité concrètes.",
+        "homiletic_use":"Faire apparaître Joseph comme véritable répondant à la parole : il se lève, prend avec lui et se met en route, là où Paul reçoit directement la révélation qui réoriente toute sa vie.",
+        "bridge":{"evidence":"Même verbe παραλαμβάνω : παρέλαβον / παράλαβε / παρέλαβεν","gospel":"Ἐγερθεὶς παράλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ : lève-toi, prends avec toi l’Enfant et sa mère","relation":"La révélation divine se reconnaît à une réception qui devient obéissance et déplacement","apostle":"οὐδὲ… παρὰ ἀνθρώπου παρέλαβον αὐτό : je ne l’ai pas reçu d’un homme","detail":"Le composé παρά + λαμβάνω peut signifier recevoir ou prendre avec soi selon le contexte."},
+        "term_details":{"gospel":[{"forms":["παράλαβε","παρέλαβεν"],"lemma":"παραλαμβάνω","root":"παρά- + λαμβάνω : recevoir, prendre avec soi","literal":"prends avec toi / il prit avec lui","role":"Joseph répond à l’avertissement divin en assumant la protection de l’Enfant et de sa mère."}],"apostle":[{"forms":["παρέλαβον"],"lemma":"παραλαμβάνω","root":"παρά- + λαμβάνω : recevoir","literal":"j’ai reçu","role":"Paul exclut une transmission purement humaine comme source ultime de son Évangile."}]},
+        "gospel":{"verses":["13","14","20","21"],"terms":["παράλαβε","παρέλαβεν"]},"apostle":{"verses":["12"],"terms":["παρέλαβον"]}
+      }
+    ]
   }
 }

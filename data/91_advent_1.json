@@ -3022,5 +3022,38 @@
         "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
       }
     ]
+  },
+  "reading_connections": {
+    "title":"La promesse portée par les Pères devient Dieu avec nous",
+    "summary":"Hébreux relit l’histoire des Pères comme une marche dans la foi vers une promesse qu’ils n’ont pas reçue sans nous. Matthieu inscrit Jésus dans cette histoire et en révèle l’accomplissement : le Sauveur, Emmanuel, naît de l’Esprit Saint.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_word","link_type":"named_ancestors","title":"Abraham, Isaac, Jacob, David et les prophètes",
+        "explanation":"Les mêmes noms structurent les deux lectures : Ἀβραάμ, Ἰσαάκ, Ἰακώβ, Δαυίδ et les προφῆται. Hébreux les rassemble comme témoins de la foi ; Matthieu les inscrit dans la généalogie qui conduit au Christ.",
+        "bridge_sentence":"La généalogie donne une chair historique aux témoins de la foi, et leur attente reçoit dans le Christ son accomplissement.",
+        "homiletic_use":"Ne pas lire la liste comme un préambule aride : les noms entendus dans l’épître deviennent les articulations d’une histoire assumée par l’Incarnation.",
+        "bridge":{"evidence":"Noms et titre identiques : Ἀβραάμ, Ἰσαάκ, Ἰακώβ, Δαυίδ, προφῆται","gospel":"Ἰησοῦ Χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ : Jésus Christ, fils de David, fils d’Abraham","relation":"Les témoins de la promesse deviennent la lignée historique du Messie","apostle":"μετὰ Ἰσαὰκ καὶ Ἰακώβ… Δαυίδ… τῶν προφητῶν : avec Isaac et Jacob… David… les prophètes","detail":"Le lien est nominal et historique avant d’être interprétatif."},
+        "term_details":{"gospel":[{"forms":["Ἀβραάμ","Ἰσαάκ","Ἰακώβ","Δαυὶδ","προφήτου"],"lemma":"noms propres / προφήτης","root":"mémoire scripturaire des Pères et des prophètes","literal":"Abraham, Isaac, Jacob, David, prophète","role":"La généalogie fait converger les générations vers Jésus appelé Christ."}],"apostle":[{"forms":["Ἰσαὰκ","Ἰακὼβ","Δαυίδ","προφητῶν"],"lemma":"noms propres / προφήτης","root":"mémoire des témoins","literal":"Isaac, Jacob, David, prophètes","role":"Ils attestent la puissance d’une foi orientée vers la promesse."}]},
+        "gospel":{"verses":["1","2","6","22"],"terms":["Ἀβραάμ","Ἰσαάκ","Ἰακώβ","Δαυὶδ","προφήτου"]},"apostle":{"verses":["9","32"],"terms":["Ἰσαὰκ","Ἰακὼβ","Δαυίδ","προφητῶν"]}
+      },
+      {
+        "directness":"direct","kind":"same_root","link_type":"righteous_faith","title":"Ils pratiquèrent la justice — Joseph était juste",
+        "explanation":"Hébreux dit que les témoins εἰργάσαντο δικαιοσύνην par la foi ; Matthieu présente Joseph comme δίκαιος. La racine δικαι- relie la justice accomplie dans l’histoire au discernement concret de l’homme placé devant le mystère.",
+        "bridge_sentence":"La justice biblique n’est pas immobilité légale : chez Joseph, elle devient disponibilité à corriger son propre projet devant la parole de Dieu.",
+        "homiletic_use":"Montrer le mouvement de Joseph sans le caricaturer : sa justice le pousse d’abord à protéger Marie, puis s’accomplit dans l’obéissance à la révélation.",
+        "bridge":{"evidence":"Racine commune δικαι- : δικαιοσύνην / δίκαιος","gospel":"Ἰωσὴφ… δίκαιος ὢν : Joseph, étant juste","relation":"La justice attestée par la foi devient discernement et obéissance dans une situation concrète","apostle":"διὰ πίστεως… εἰργάσαντο δικαιοσύνην : par la foi… ils pratiquèrent la justice","detail":"Le nom δικαιοσύνη et l’adjectif δίκαιος appartiennent à la même famille."},
+        "term_details":{"gospel":[{"forms":["δίκαιος"],"lemma":"δίκαιος","root":"δικαι- : juste, conforme à la justice","literal":"juste","role":"Joseph cherche à agir sans exposer Marie, puis reçoit une compréhension nouvelle."}],"apostle":[{"forms":["δικαιοσύνην"],"lemma":"δικαιοσύνη","root":"δικαι- : justice","literal":"justice","role":"La foi des témoins produit une action juste au milieu de l’histoire."}]},
+        "gospel":{"verses":["19"],"terms":["δίκαιος"]},"apostle":{"verses":["33"],"terms":["δικαιοσύνην"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"with_us_not_without_us","title":"Ne pas être accomplis sans nous — Dieu avec nous",
+        "explanation":"Hébreux affirme ἵνα μὴ χωρὶς ἡμῶν τελειωθῶσιν ; Matthieu traduit Emmanuel par Μεθ’ ἡμῶν ὁ θεός. Le même ἡμεῖς devient le pivot d’un mystère de communion : les anciens ne sont pas accomplis sans nous, parce que Dieu vient être avec nous.",
+        "bridge_sentence":"L’Emmanuel rassemble les générations : Dieu avec nous empêche que les Pères soient accomplis sans nous.",
+        "homiletic_use":"Faire entendre le “nous” ecclésial : l’histoire du salut n’est ni collection de héros isolés ni privilège de la génération présente.",
+        "bridge":{"evidence":"Même pronom ἡμεῖς : ἡμῶν / ἡμῶν dans deux constructions opposées et complémentaires","gospel":"Μεθ’ ἡμῶν ὁ θεός : Dieu avec nous","relation":"La venue de Dieu crée une communion où les générations atteignent ensemble l’accomplissement","apostle":"μὴ χωρὶς ἡμῶν τελειωθῶσιν : afin qu’ils ne soient pas rendus parfaits sans nous","detail":"L’identité porte sur le génitif ἡμῶν ; les prépositions μετά et χωρίς expriment l’avec et le sans."},
+        "term_details":{"gospel":[{"forms":["ἡμῶν"],"lemma":"ἐγώ / ἡμεῖς","root":"pronom de la première personne du pluriel","literal":"de nous, avec nous","role":"Emmanuel nomme la présence personnelle de Dieu au milieu de son peuple."}],"apostle":[{"forms":["ἡμῶν"],"lemma":"ἐγώ / ἡμεῖς","root":"pronom de la première personne du pluriel","literal":"de nous, sans nous","role":"L’accomplissement des témoins inclut la communauté qui reçoit la promesse."}]},
+        "gospel":{"verses":["23"],"terms":["ἡμῶν"]},"apostle":{"verses":["40"],"terms":["ἡμῶν"]}
+      }
+    ]
   }
 }

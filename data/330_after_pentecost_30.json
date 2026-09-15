@@ -1358,5 +1358,38 @@
         "connections": []
       }
     ]
+  },
+  "reading_connections": {
+    "title":"La richesse déplacée vers le Christ",
+    "summary":"Le chef riche a observé les commandements, mais demeure retenu par ce qu’il possède. Paul décrit la richesse véritable : le Christ habite abondamment dans une communauté revêtue de compassion, de pardon, d’amour et de paix.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_root","link_type":"true_richness","title":"Il était très riche — que la parole habite richement",
+        "explanation":"Luc qualifie le chef de πλούσιος ; Paul demande que la parole du Christ habite πλουσίως. La racine πλουτ- déplace la richesse des biens possédés vers une présence intérieure qui se partage en sagesse et en chant.",
+        "bridge_sentence":"Le disciple n’est pas appelé au vide pour lui-même, mais à laisser la parole du Christ devenir sa richesse.",
+        "homiletic_use":"Éviter de réduire l’appel de Jésus à une morale de privation : Paul montre positivement de quoi l’homme dépouillé doit être revêtu et intérieurement rempli.",
+        "bridge":{"evidence":"Racine commune πλουτ- : πλούσιος / πλουσίως","gospel":"ἦν γὰρ πλούσιος σφόδρα : car il était extrêmement riche","relation":"La richesse extérieure qui retient peut être remplacée par l’abondance intérieure de la parole","apostle":"ὁ λόγος τοῦ Χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως : que la parole du Christ habite en vous richement","detail":"L’adjectif πλούσιος décrit l’homme ; l’adverbe πλουσίως qualifie la manière dont la parole doit habiter."},
+        "term_details":{"gospel":[{"forms":["πλούσιος"],"lemma":"πλούσιος","root":"πλουτ- : richesse, abondance","literal":"riche","role":"La richesse explique la profonde tristesse qui suit l’appel de Jésus."}],"apostle":[{"forms":["πλουσίως"],"lemma":"πλουσίως","root":"πλουτ- : richement, abondamment","literal":"richement","role":"La véritable abondance est la présence féconde de la parole du Christ."}]},
+        "gospel":{"verses":["23","25"],"terms":["πλούσιος","πλούσιον"]},"apostle":{"verses":["16"],"terms":["πλουσίως"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"one_lack_one_body","title":"Une seule chose te manque — appelés en un seul corps",
+        "explanation":"Jésus dit Ἔτι ἕν σοι λείπει ; Paul rappelle l’appel ἐν ἑνὶ σώματι. Le même numéral εἷς ne désigne pas ici une performance supplémentaire : l’unique manque révèle l’impossibilité d’entrer dans l’unité du Corps tout en restant fermé sur ses possessions.",
+        "bridge_sentence":"L’unique chose manquante n’est pas un exploit de plus, mais l’entrée dans une communion où le bien circule.",
+        "homiletic_use":"Ne pas transformer la parole de Jésus en dernière case d’une liste morale : le passage du “tout observé” à l’“un seul manque” met au jour le centre du cœur.",
+        "bridge":{"evidence":"Même numéral εἷς : ἕν / ἑνὶ","gospel":"Ἔτι ἕν σοι λείπει : une seule chose te manque encore","relation":"L’unification de la personne ouvre à l’unité du Corps","apostle":"ἐκλήθητε ἐν ἑνὶ σώματι : vous avez été appelés en un seul corps","detail":"ἕν est l’accusatif neutre ; ἑνί le datif neutre du même numéral."},
+        "term_details":{"gospel":[{"forms":["ἕν"],"lemma":"εἷς, μία, ἕν","root":"ἑν- : un, unité","literal":"une seule chose","role":"Jésus concentre la question sur le lien intérieur qui manque encore."}],"apostle":[{"forms":["ἑνὶ"],"lemma":"εἷς, μία, ἕν","root":"ἑν- : un, unité","literal":"en un seul","role":"L’appel chrétien inscrit chacun dans un corps commun."}]},
+        "gospel":{"verses":["22"],"terms":["ἕν"]},"apostle":{"verses":["15"],"terms":["ἑνὶ"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"possessing_and_releasing","title":"Tout ce que tu as — si quelqu’un a un reproche",
+        "explanation":"Luc emploie ἔχεις pour les biens que l’homme doit vendre ; Paul emploie ἔχῃ pour le reproche que l’un peut garder contre l’autre. Le même ἔχω révèle deux possessions capables d’emprisonner : les biens retenus et la dette morale conservée.",
+        "bridge_sentence":"Suivre le Christ demande de desserrer aussi bien la main qui possède que le cœur qui retient le reproche.",
+        "homiletic_use":"Élargir le dépouillement sans diluer l’exigence économique du texte : Paul ajoute que le disciple doit également renoncer à capitaliser les fautes d’autrui.",
+        "bridge":{"evidence":"Même verbe ἔχω : ἔχεις / ἔχῃ","gospel":"πάντα ὅσα ἔχεις πώλησον : vends tout ce que tu as","relation":"La liberté chrétienne défait les différentes formes de rétention","apostle":"ἐάν τις πρός τινα ἔχῃ μομφήν : si quelqu’un a un reproche contre quelqu’un","detail":"Les deux formes sont au présent de ἔχω, l’une à l’indicatif, l’autre au subjonctif."},
+        "term_details":{"gospel":[{"forms":["ἔχεις"],"lemma":"ἔχω","root":"ἐχ- : avoir, tenir","literal":"tu as","role":"Les possessions forment l’obstacle concret nommé par Jésus."}],"apostle":[{"forms":["ἔχῃ"],"lemma":"ἔχω","root":"ἐχ- : avoir, tenir","literal":"qu’il ait","role":"Le reproche peut être gardé comme une créance contre le frère."}]},
+        "gospel":{"verses":["22"],"terms":["ἔχεις"]},"apostle":{"verses":["13"],"terms":["ἔχῃ"]}
+      }
+    ]
   }
 }
