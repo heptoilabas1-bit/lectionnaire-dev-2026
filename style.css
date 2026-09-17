@@ -1130,11 +1130,13 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .timeline-sunday strong { align-self: center; overflow-wrap: anywhere; font: 700 .7rem/1.14 var(--font-serif); }
 .timeline-sunday small { color: #5d7080; font-size: .56rem; font-weight: 900; line-height: 1.15; text-transform: uppercase; }
 .timeline-sunday:hover { z-index: 7; transform: translateX(-50%) translateY(-3px); border-color: #4b1018; background: #fff3d5; }
-.timeline-sunday.active { z-index: 6; color: #fff; border-color: #4b1018; background: #6b1c29; }
-.timeline-sunday.active small { color: #ffe9a9; }
+.timeline-sunday.active { z-index: 6; color: #2f3943; border-color: #aebdca; background: #f8fcff; box-shadow: 0 0 0 3px #6b1c29, 0 5px 13px rgba(70,20,28,.22); }
+.timeline-sunday.active small { color: #5d7080; }
 .timeline-sunday:focus-visible { z-index: 8; outline: 3px solid #d1aa3b; outline-offset: 2px; }
 .timeline-sunday-fixed { border-color: #c2a65d; color: #4f3a17; background: #fffaf0; }
 .timeline-sunday-fixed small { color: #856921; }
+.timeline-sunday-fixed.active { color: #4f3a17; border-color: #c2a65d; background: #fffaf0; }
+.timeline-sunday-fixed.active small { color: #856921; }
 .timeline-mobile-rank-marker { position: absolute; top: 52px; z-index: 5; display: grid; gap: 2px; justify-items: center; width: 70px; min-height: 48px; padding: 6px 7px; transform: translateX(-50%); border: 1px solid #234b70; border-radius: 8px; color: #fff; background: #315d89; box-shadow: 0 3px 8px rgba(35,75,112,.25); cursor: help; transition: transform .16s ease, background .16s ease; }
 .timeline-mobile-rank-marker strong { font: 900 .78rem/1.1 var(--font-sans); }
 .timeline-mobile-rank-marker small { color: #e8f2fa; font-size: .52rem; font-weight: 800; }
