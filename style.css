@@ -1151,6 +1151,14 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .timeline-sunday-reference-only::after { position: absolute; top: 4px; right: 5px; color: #8a631d; content: 'réf.'; font-size: .48rem; font-weight: 900; letter-spacing: .04em; text-transform: uppercase; }
 .liturgical-sunday-tooltip { position: fixed; z-index: 1000; display: grid; gap: 5px; width: min(340px, calc(100vw - 20px)); box-sizing: border-box; padding: 13px 14px; border: 1px solid #b99a59; border-top: 4px solid #6b1c29; border-radius: 9px; color: #363029; background: #fffdf8; box-shadow: 0 12px 30px rgba(43,28,18,.24); pointer-events: none; }
 .liturgical-sunday-tooltip[hidden] { display: none; }
+.liturgical-sunday-tooltip-fixed { border-color: #b99a59; border-top-color: #b28c36; background: linear-gradient(180deg, #fffdf8, #fff4da); }
+.liturgical-sunday-tooltip-fixed .liturgical-tooltip-cycle,
+.liturgical-sunday-tooltip-fixed .liturgical-tooltip-date { color: #76561c; }
+.liturgical-sunday-tooltip-mobile { border-color: #7193b2; border-top-color: #315d89; background: linear-gradient(180deg, #f5faff, #deebf5); box-shadow: 0 12px 30px rgba(35,75,112,.24); }
+.liturgical-sunday-tooltip-mobile .liturgical-tooltip-cycle,
+.liturgical-sunday-tooltip-mobile > strong,
+.liturgical-sunday-tooltip-mobile .liturgical-tooltip-readings b { color: #234b70; }
+.liturgical-sunday-tooltip-mobile .liturgical-tooltip-readings { border-top-color: #bfd1e0; }
 .liturgical-tooltip-cycle { color: #76561c; font-size: .68rem; font-weight: 900; letter-spacing: .075em; text-transform: uppercase; }
 .liturgical-sunday-tooltip > strong { color: #4b1018; font: 700 1rem/1.28 var(--font-serif); }
 .liturgical-tooltip-date { color: #315d89; font-size: .79rem; font-weight: 900; text-transform: capitalize; }

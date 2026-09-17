@@ -1512,6 +1512,9 @@ document.addEventListener('DOMContentLoaded', () => {
         calendarEntry = context.calendarEntry || calendarEntry;
         const officialDate = calendarEntry?.date ? new Date(`${calendarEntry.date}T12:00:00Z`) : null;
         const exactOffset = officialDate ? cycleDayDifference(officialDate, pascha) : context.offset;
+        const fixedTooltip = context.variant === 'fixed';
+        tooltip.classList.toggle('liturgical-sunday-tooltip-fixed', fixedTooltip);
+        tooltip.classList.toggle('liturgical-sunday-tooltip-mobile', !fixedTooltip);
         tooltip.innerHTML = '';
         const cycle = document.createElement('span');
         cycle.className = 'liturgical-tooltip-cycle';
