@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260915-comparisons-advent-2026-1';
+    const DATA_VERSION = '20260917-fixed-mobile-correspondence-1';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -1428,9 +1428,9 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const compactSundayPosition = (key, offset, variant) => {
+        if (variant === 'fixed') return 'Cycle fixe · ouvrir';
         const afterPentecost = key.match(/_after_pentecost_(\d+)$/);
         if (afterPentecost) return `DP ${Number(afterPentecost[1])} · ouvrir`;
-        if (variant === 'fixed') return 'Cycle fixe · ouvrir';
         if (key === '28_pentecost') return 'Pentecôte · ouvrir';
         if (key === '29_all_saints') return 'DP 1 · ouvrir';
         return `${offset === 0 ? 'J 0' : `J ${offset > 0 ? '+' : '−'} ${Math.abs(offset)}`} · ouvrir`;
@@ -1515,23 +1515,42 @@ document.addEventListener('DOMContentLoaded', () => {
         tooltip.innerHTML = '';
         const cycle = document.createElement('span');
         cycle.className = 'liturgical-tooltip-cycle';
-        cycle.textContent = context.variant === 'fixed' ? 'Dimanche du cycle fixe' : 'Dimanche du cycle mobile';
+        cycle.textContent = context.correspondence
+            ? 'Rang du cycle mobile'
+            : (context.variant === 'fixed' ? 'Dimanche fixe' : 'Dimanche du cycle mobile');
         const title = document.createElement('strong');
-        title.textContent = cleanLiturgicalSundayLabel(liturgicalList[context.key] || calendarEntry?.official_title || context.key || 'Dimanche');
+        const fixedTitle = context.fixedLabel || cleanLiturgicalSundayLabel(liturgicalList[context.key] || calendarEntry?.official_title || context.key || 'Dimanche');
+        title.textContent = context.correspondence
+            ? (context.correspondencePending ? 'DP à valider' : `DP ${context.mobileRank}`)
+            : fixedTitle;
         const exactDate = document.createElement('span');
         exactDate.className = 'liturgical-tooltip-date';
         exactDate.textContent = officialDate
             ? `${formatLiturgicalFullDate(officialDate)}${context.calendarStatus === 'provisional' ? ' · date provisoire' : ''}`
             : (calendarChecked ? 'Date non validée dans le calendrier intégré' : 'Recherche de la date officielle…');
         const position = document.createElement('p');
-        position.textContent = calendarEntry?.official_title
-            ? `${calendarEntry.official_title} · ${formatPaschalOffset(exactOffset)}.`
-            : `${describeSundayPosition(context.key, context.offset, context.variant)} · ${formatPaschalOffset(context.offset)}.`;
+        const liturgicalYearLabel = context.liturgicalYear
+            ? `${context.liturgicalYear}–${context.liturgicalYear + 1}`
+            : `${sliderYear}–${sliderYear + 1}`;
+        if (context.correspondencePending) {
+            position.textContent = `Pour ${liturgicalYearLabel}, la correspondance de « ${fixedTitle} » avec un rang DP reste en attente du calendrier officiel.`;
+        } else if (context.correspondence) {
+            position.textContent = `En ${liturgicalYearLabel}, ce rang mobile rencontre « ${fixedTitle} ». Cette correspondance varie selon la date de Pâques.`;
+        } else if (context.variant === 'fixed' && context.mobileRank) {
+            const rank = Number(context.mobileRank);
+            position.textContent = `En ${liturgicalYearLabel}, ce dimanche fixe rencontre le ${rank}${rank === 1 ? 'er' : 'e'} dimanche après la Pentecôte (DP ${rank}). Cette correspondance varie selon la date de Pâques.`;
+        } else {
+            position.textContent = calendarEntry?.official_title
+                ? `${calendarEntry.official_title} · ${formatPaschalOffset(exactOffset)}.`
+                : `${describeSundayPosition(context.key, context.offset, context.variant)} · ${formatPaschalOffset(context.offset)}.`;
+        }
         const readings = document.createElement('div');
         readings.className = 'liturgical-tooltip-readings';
         const gospelReference = calendarEntry?.readings?.gospel?.reference || data?.gospel?.reference;
         const apostleReference = calendarEntry?.readings?.apostle?.reference || data?.apostle?.reference;
-        if (gospelReference || apostleReference) {
+        if (context.hideReadings) {
+            readings.hidden = true;
+        } else if (gospelReference || apostleReference) {
             const gospel = document.createElement('span');
             gospel.innerHTML = `<b>Évangile</b> ${gospelReference || 'à préciser'}`;
             const apostle = document.createElement('span');
@@ -1541,15 +1560,30 @@ document.addEventListener('DOMContentLoaded', () => {
             readings.textContent = 'Chargement des lectures…';
         }
         const hint = document.createElement('small');
-        hint.textContent = context.referenceOnly
+        hint.textContent = context.correspondencePending
+            ? 'Repère bleu provisoire : aucun rang DP n’est affirmé sans validation.'
+            : context.correspondence
+            ? 'Repère bleu : correspondance valable pour l’année affichée.'
+            : context.referenceOnly
             ? 'Références officielles disponibles ; fiche interlinéaire détaillée à intégrer.'
             : (touchPrimedLiturgicalSundayButton === button
                 ? 'Touchez une seconde fois pour ouvrir les lectures.'
                 : 'Cliquez pour ouvrir les lectures.');
-        tooltip.append(cycle, title, exactDate, position, readings, hint);
+        tooltip.append(cycle, title, exactDate, position);
+        if (!context.hideReadings) tooltip.appendChild(readings);
+        tooltip.appendChild(hint);
         if (officialDate) {
-            const actionLabel = context.referenceOnly ? 'Références officielles seulement.' : 'Ouvrir la péricope.';
-            button.setAttribute('aria-label', `${cleanLiturgicalSundayLabel(liturgicalList[context.key] || calendarEntry.official_title || context.key || 'Dimanche')}. ${formatLiturgicalFullDate(officialDate)}. ${calendarEntry.official_title || describeSundayPosition(context.key, exactOffset, context.variant)}. ${actionLabel}`);
+            if (context.correspondencePending) {
+                button.setAttribute('aria-label', `Correspondance DP à valider pour ${liturgicalYearLabel} avec ${fixedTitle}. ${formatLiturgicalFullDate(officialDate)}.`);
+            } else if (context.correspondence) {
+                button.setAttribute('aria-label', `DP ${context.mobileRank}. Correspondance ${liturgicalYearLabel} avec ${fixedTitle}. ${formatLiturgicalFullDate(officialDate)}.`);
+            } else {
+                const actionLabel = context.referenceOnly ? 'Références officielles seulement.' : 'Ouvrir la péricope.';
+                const annualLink = context.variant === 'fixed' && context.mobileRank
+                    ? ` Correspondance ${liturgicalYearLabel} : DP ${context.mobileRank}.`
+                    : '';
+                button.setAttribute('aria-label', `${fixedTitle}. ${formatLiturgicalFullDate(officialDate)}.${annualLink} ${actionLabel}`);
+            }
         }
         tooltip.hidden = false;
         activeLiturgicalSundayTooltipButton = button;
@@ -1685,8 +1719,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const compactOfficialSundayPosition = (entry, date, variant) => {
         const rank = entry.official_title?.match(/(\d+)(?:er|e|ème) dimanche après la Pentecôte/i);
-        const position = rank ? `DP ${Number(rank[1])}` : (variant === 'fixed' ? 'cycle fixe' : 'cycle mobile');
+        const position = variant === 'fixed'
+            ? 'fixe'
+            : (rank ? `DP ${Number(rank[1])}` : 'cycle mobile');
         return `${formatLiturgicalDate(date)} · ${position}`;
+    };
+
+    const officialSundayRank = entry => {
+        const rank = entry.official_title?.match(/(\d+)(?:er|e|ème) dimanche après la Pentecôte/i);
+        return rank ? Number(rank[1]) : null;
     };
 
     const calendarSundayCardLabel = entry => {
@@ -1705,6 +1746,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!mobileTrack || !fixedTrack || !status) return;
         mobileTrack.innerHTML = '';
         fixedTrack.innerHTML = '';
+        document.querySelectorAll('.fixed-mobile-correspondence-guide').forEach(guide => guide.remove());
 
         const yearStart = utcDate(year, 8, 1);
         const nextYearStart = utcDate(year + 1, 8, 1);
@@ -1743,6 +1785,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (offset < CYCLE_AXIS_MIN || offset > CYCLE_AXIS_MAX) return;
             const fixedFeastWithoutPericope = !entry.key && /Transfiguration|Exaltation de la Sainte Croix|Sainte Rencontre/i.test(entry.official_title || '');
             const variant = fixedSundayKeys.has(entry.key) || fixedFeastWithoutPericope ? 'fixed' : 'cycle';
+            const mobileRank = officialSundayRank(entry);
             const track = variant === 'fixed' ? fixedTrack : mobileTrack;
             const fullLabel = calendarSundayCardLabel(entry);
             const button = document.createElement('button');
@@ -1755,9 +1798,53 @@ document.addEventListener('DOMContentLoaded', () => {
             const action = document.createElement('small');
             action.textContent = compactOfficialSundayPosition(entry, date, variant);
             button.append(label, action);
-            const context = { key: entry.key || null, offset, variant, calendarEntry: entry, calendarStatus: entry.calendarStatus, referenceOnly: !entry.key };
+            const context = {
+                key: entry.key || null,
+                offset,
+                variant,
+                calendarEntry: entry,
+                calendarStatus: entry.calendarStatus,
+                referenceOnly: !entry.key,
+                mobileRank: variant === 'fixed' ? mobileRank : null,
+                fixedLabel: fullLabel,
+                liturgicalYear: year
+            };
             attachLiturgicalSundayTooltip(button, context, entry.key ? () => openLiturgicalStageReading({ key: entry.key }, 'gospel') : null);
             track.appendChild(button);
+
+            const correspondencePending = variant === 'fixed' && !mobileRank && entry.calendarStatus === 'provisional';
+            if (variant === 'fixed' && (mobileRank || correspondencePending)) {
+                const correspondence = document.createElement('button');
+                correspondence.type = 'button';
+                correspondence.className = `timeline-mobile-rank-marker${correspondencePending ? ' is-provisional' : ''}`;
+                correspondence.style.left = `${cyclePercent(offset)}%`;
+                const correspondenceRank = document.createElement('strong');
+                correspondenceRank.textContent = correspondencePending ? 'DP ?' : `DP ${mobileRank}`;
+                const correspondenceYear = document.createElement('small');
+                correspondenceYear.textContent = correspondencePending ? 'à valider' : `${year}–${year + 1}`;
+                correspondence.append(correspondenceRank, correspondenceYear);
+                attachLiturgicalSundayTooltip(correspondence, {
+                    key: null,
+                    offset,
+                    variant: 'correspondence',
+                    correspondence: true,
+                    correspondencePending,
+                    calendarEntry: entry,
+                    calendarStatus: entry.calendarStatus,
+                    referenceOnly: true,
+                    hideReadings: true,
+                    mobileRank,
+                    fixedLabel: fullLabel,
+                    liturgicalYear: year
+                }, null);
+                mobileTrack.appendChild(correspondence);
+
+                const guide = document.createElement('span');
+                guide.className = 'fixed-mobile-correspondence-guide';
+                guide.style.left = `${cyclePercent(offset)}%`;
+                guide.setAttribute('aria-hidden', 'true');
+                document.getElementById('cycle-timeline')?.appendChild(guide);
+            }
         });
 
         if (!entries.length) {
