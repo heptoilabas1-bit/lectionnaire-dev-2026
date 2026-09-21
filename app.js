@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260921-cross-enrichment-1';
+    const DATA_VERSION = '20260921-cross-enrichment-2';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -429,8 +429,15 @@ document.addEventListener('DOMContentLoaded', () => {
                     unit.className = 'homily-interlinear-word';
                     const greek = document.createElement('span');
                     const annotation = word.annotation || word.analyse;
-                    greek.className = `greek-word${annotation ? ` mot-info mot-${inferAnnotationType(annotation)}` : ''}`;
+                    const movement = word.movement;
+                    greek.className = `greek-word${annotation ? ` mot-info mot-${inferAnnotationType(annotation)}` : ''}${movement ? ' mot-movement' : ''}`;
                     greek.textContent = word.greek || '';
+                    if (movement) {
+                        greek.dataset.movementGroup = movement.id || '';
+                        greek.dataset.movementStep = String(movement.step || '');
+                        greek.dataset.movementTotal = String(movement.total || '');
+                        greek.setAttribute('aria-label', `${word.greek || ''}, étape ${movement.step || ''} sur ${movement.total || ''}`);
+                    }
                     if (annotation) {
                         greek.dataset.annotation = encodeURIComponent(JSON.stringify(annotation));
                         greek.tabIndex = 0;
@@ -2387,14 +2394,18 @@ document.addEventListener('DOMContentLoaded', () => {
                             //  Gestion des bulles d'info
                             const annotation = word.annotation || word.analyse;
                             const annotationType = inferAnnotationType(annotation);
-                            const infoClass = annotation ? `mot-info mot-${annotationType}` : '';
+                            const movement = word.movement;
+                            const infoClass = `${annotation ? `mot-info mot-${annotationType}` : ''}${movement ? ' mot-movement' : ''}`.trim();
                             const dataAttr = annotation
                                 ? `data-annotation="${encodeURIComponent(JSON.stringify(annotation))}" tabindex="0" role="button"`
+                                : '';
+                            const movementAttr = movement
+                                ? `data-movement-group="${movement.id || ''}" data-movement-step="${movement.step || ''}" data-movement-total="${movement.total || ''}" aria-label="${word.greek}, étape ${movement.step || ''} sur ${movement.total || ''}"`
                                 : '';
 
                             wordsHtml += `
                             <div class="word-unit">
-                                <span class="greek-word ${infoClass}" ${dataAttr}>${word.greek}</span>
+                                <span class="greek-word ${infoClass}" ${dataAttr} ${movementAttr}>${word.greek}</span>
                                 <span class="inter-gloss">${word.gloss}</span>
                             </div>`;
                         });

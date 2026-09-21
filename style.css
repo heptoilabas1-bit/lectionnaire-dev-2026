@@ -271,6 +271,35 @@ main {
     background-color: #ffeaa7; /* Jaune pâle au survol */
     cursor: pointer;
 }
+.mot-movement {
+    position: relative;
+    display: inline-block;
+    margin-top: 1.05rem;
+    padding: .14rem .34rem .18rem;
+    border-radius: 6px;
+    border-bottom: 3px solid #376f98;
+    background: rgba(55, 111, 152, .09);
+    color: #244f70;
+}
+.mot-movement::before {
+    content: attr(data-movement-step) "/" attr(data-movement-total);
+    position: absolute;
+    left: 50%;
+    bottom: calc(100% + 2px);
+    transform: translateX(-50%);
+    padding: 1px 5px;
+    border-radius: 999px;
+    background: #376f98;
+    color: #fff;
+    font: 700 .62rem/1.35 system-ui, sans-serif;
+    letter-spacing: .02em;
+    white-space: nowrap;
+}
+.mot-movement:hover,
+.mot-movement:focus-visible {
+    background: rgba(55, 111, 152, .18);
+    box-shadow: 0 0 0 3px rgba(55, 111, 152, .12);
+}
 
 #controls {
     width: min(100%, 650px);

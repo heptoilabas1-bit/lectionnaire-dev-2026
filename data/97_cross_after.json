@@ -72,18 +72,39 @@
           },
           {
             "greek": "ἐλθεῖν,",
-            "gloss": "venir"
+            "gloss": "venir",
+            "movement": {
+              "id": "venir-renoncer-prendre-suivre",
+              "step": 1,
+              "total": 4
+            },
+            "annotation": {
+              "type": "grammaire",
+              "title": "Venir derrière le Christ",
+              "content": "L’infinitif ἐλθεῖν dépend du désir libre exprimé par θέλει : Jésus n’impose pas ce chemin. Venir derrière lui ouvre le mouvement que poursuivent renoncer à soi-même, prendre sa croix et suivre.",
+              "related": [
+                "ἀπαρνησάσθω",
+                "ἀράτω",
+                "ἀκολουθείτω"
+              ]
+            }
           },
           {
             "greek": "ἀπαρνησάσθω",
             "gloss": "qu'il_renonce",
+            "movement": {
+              "id": "venir-renoncer-prendre-suivre",
+              "step": 2,
+              "total": 4
+            },
             "annotation": {
               "type": "racine",
               "title": "Qu’il renonce à lui-même",
               "content": "Approfondissement spirituel : Du verbe *aparneomai* (se renier complètement).ce n'est pas une mortification psychologique morbide, mais le refus radical du faux 'moi', de l'Ego fabriqué par le Monde duel (les masques, les rôles, les mécanismes de défense). Renoncer à ce moi illusoire est la condition *sine qua non* pour faire de la place au véritable 'Sujet'.",
               "related": [
                 "ἐλθεῖν,",
-                "ἑαυτὸν"
+                "ἀράτω",
+                "ἀκολουθείτω"
               ]
             }
           },
@@ -98,12 +119,18 @@
           {
             "greek": "ἀράτω",
             "gloss": "qu'il_charge/prenne",
+            "movement": {
+              "id": "venir-renoncer-prendre-suivre",
+              "step": 3,
+              "total": 4
+            },
             "annotation": {
               "type": "racine",
               "title": "Qu’il prenne : une réponse libre",
               "content": "Le verbe αἴρω signifie prendre, soulever, porter. L’impératif ἀράτω n’invite pas à rechercher la souffrance : il appelle chacun à consentir librement au chemin ouvert par le Christ, au lieu de fuir ce que la fidélité à l’Évangile lui demande de traverser.",
               "related": [
-                "σταυρὸν",
+                "ἐλθεῖν,",
+                "ἀπαρνησάσθω",
                 "ἀκολουθείτω"
               ]
             }
@@ -136,13 +163,19 @@
           {
             "greek": "ἀκολουθείτω",
             "gloss": "qu'il_suive",
+            "movement": {
+              "id": "venir-renoncer-prendre-suivre",
+              "step": 4,
+              "total": 4
+            },
             "annotation": {
               "type": "grammaire",
               "title": "Qu’il me suive : un chemin qui dure",
               "content": "Le présent impératif ἀκολουθείτω suggère une marche appelée à se poursuivre. Prendre sa croix n’est pas un geste isolé : la Croix reçoit son sens du fait de marcher derrière le Christ, dans une fidélité recommencée.",
               "related": [
-                "ὀπίσω",
-                "μοι."
+                "ἐλθεῖν,",
+                "ἀπαρνησάσθω",
+                "ἀράτω"
               ]
             }
           },
@@ -680,7 +713,7 @@
         "title": "Derrière le Christ",
         "content": "Jésus appelle la foule avec les disciples. Renoncer à soi et prendre sa croix ne forment pas une ascèse autonome : tout s’ordonne à le suivre.",
         "keywords": [
-          "ὀπίσω",
+          "ἐλθεῖν,",
           "ἀπαρνησάσθω",
           "ἀράτω",
           "ἀκολουθείτω"
