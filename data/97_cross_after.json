@@ -1,7 +1,7 @@
 {
   "gospel": {
     "reference": "Marc 8, 34 - 9, 1",
-    "title": "La Vénération de la Croix : Suivre le Christ",
+    "title": "Après l’Exaltation de la Croix : suivre le Christ",
     "interlinear": [
       {
         "verse_number": 34,
@@ -24,7 +24,7 @@
           },
           {
             "greek": "ὄχλον",
-            "gloss": "foute"
+            "gloss": "foule"
           },
           {
             "greek": "σὺν",
@@ -97,7 +97,16 @@
           },
           {
             "greek": "ἀράτω",
-            "gloss": "qu'il_charge/prenne"
+            "gloss": "qu'il_charge/prenne",
+            "annotation": {
+              "type": "racine",
+              "title": "Qu’il prenne : une réponse libre",
+              "content": "Le verbe αἴρω signifie prendre, soulever, porter. L’impératif ἀράτω n’invite pas à rechercher la souffrance : il appelle chacun à consentir librement au chemin ouvert par le Christ, au lieu de fuir ce que la fidélité à l’Évangile lui demande de traverser.",
+              "related": [
+                "σταυρὸν",
+                "ἀκολουθείτω"
+              ]
+            }
           },
           {
             "greek": "τὸν",
@@ -126,7 +135,16 @@
           },
           {
             "greek": "ἀκολουθείτω",
-            "gloss": "qu'il_suive"
+            "gloss": "qu'il_suive",
+            "annotation": {
+              "type": "grammaire",
+              "title": "Qu’il me suive : un chemin qui dure",
+              "content": "Le présent impératif ἀκολουθείτω suggère une marche appelée à se poursuivre. Prendre sa croix n’est pas un geste isolé : la Croix reçoit son sens du fait de marcher derrière le Christ, dans une fidélité recommencée.",
+              "related": [
+                "ὀπίσω",
+                "μοι."
+              ]
+            }
           },
           {
             "greek": "μοι.",
@@ -400,7 +418,7 @@
             "gloss": "les"
           },
           {
-            "greek": "ἐmoὺς",
+            "greek": "ἐμοὺς",
             "gloss": "miens"
           },
           {
@@ -562,7 +580,7 @@
             "gloss": "à_vous"
           },
           {
-            "greek": "ὅti",
+            "greek": "ὅτι",
             "gloss": "que"
           },
           {
@@ -586,7 +604,7 @@
             "gloss": "étant_présents/debout"
           },
           {
-            "greek": "οἵtiνες",
+            "greek": "οἵτινες",
             "gloss": "lesquels"
           },
           {
@@ -656,7 +674,7 @@
         ]
       }
     ],
-    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 34 - ἀπαρνησάσθω ἑαυτὸν : Traduit par 'renonce à lui-même'. Le préfixe *ap-* renforce l'action : il s'agit d'un désaveu total, d'une rupture définitive avec l'ancienne identité égocentrée. Ce n'est pas une simple privation morale, mais une kénose d'identité.\n• Verset 35 - ψυχὴν : Segond et Darby traduisent indifféremment par 'vie' au verset 35 et 'âme' aux versets 36-37. Ce glissement sémantique occulte le fait que c'est le même principe structurel (la *psyché*) qui est visé : le moi psychologique transitoire doit mourir pour laisser place au Sujet spirituel éternel.\n• Verset 1 (chapitre 9) - ἐληλυθυῖαν ἐν δυνάμει : Littéralement 'étant venu en puissance'. Le participe parfait indique une réalité déjà advenue et dont les effets se prolongent, ce que la formule de Segond ('venir avec puissance') tend à lisser au futur.\n\nAnalyse spirituelle :\nLe Dimanche de la Vénération de la Sainte Croix constitue l'axe et le pivot du Grand Carême. la Croix n'est pas l'exaltation doloriste de la souffrance, mais l'instrument géométrique de la subversion du 'Monde duel'. L'axe horizontal représente la trajectoire de l'humanité déchue : la circularité des conflits, la logique de survie, la peur du manque, l'esclavage de l'avoir et l'accumulation des objets mondains (*kosmon*).\n\nL'irruption du Christ plante au cœur de cette horizontalité un axe vertical absolu : le 'Royaume UN'. Porter sa croix, c'est accepter que notre Ego horizontal soit transpercé et cloué, afin de briser le mécanisme réflexe de conservation de soi ('sauver sa psyché'). C'est consentir à la kénose pour naître comme un véritable 'Sujet dans le Christ'. Le reniement de soi exigé n'est rien d'autre que la chute du masque théâtral pour faire face à Dieu 'sans ruse'. En embrassant la Croix au milieu du Carême, le chrétien refuse de se laisser objectiver par la 'génération adultère' et s'ancre dans l'Énergie incréée (*dynamis*) qui transforme la mort en Pâques et fait de l'existence présente le tabernacle du Ciel ouvert.\n\nComplément pour le dimanche après l’Exaltation : l’ordre des verbes demeure essentiel : vouloir venir, renoncer à soi-même, prendre sa croix et suivre. La croix ne désigne donc ni toute souffrance subie ni une recherche de douleur ; elle reçoit son sens du chemin derrière le Christ et pour l’Évangile.",
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 34 - ἀπαρνησάσθω ἑαυτὸν : Traduit par 'renonce à lui-même'. Le préfixe *ap-* renforce l'action : il s'agit d'un désaveu total, d'une rupture définitive avec l'ancienne identité égocentrée. Ce n'est pas une simple privation morale, mais une kénose d'identité.\n• Verset 35 - ψυχὴν : Segond et Darby traduisent indifféremment par 'vie' au verset 35 et 'âme' aux versets 36-37. Ce glissement sémantique occulte le fait que c'est le même principe structurel (la *psyché*) qui est visé : le moi psychologique transitoire doit mourir pour laisser place au Sujet spirituel éternel.\n• Verset 1 (chapitre 9) - ἐληλυθυῖαν ἐν δυνάμει : Littéralement 'étant venu en puissance'. Le participe parfait indique une réalité déjà advenue et dont les effets se prolongent, ce que la formule de Segond ('venir avec puissance') tend à lisser au futur.\n\nAnalyse spirituelle :\nLe dimanche après l’Exaltation prolonge la contemplation de la Croix en appel concret à suivre le Christ. La Croix n'est pas l'exaltation doloriste de la souffrance, mais l'instrument géométrique de la subversion du 'Monde duel'. L'axe horizontal représente la trajectoire de l'humanité déchue : la circularité des conflits, la logique de survie, la peur du manque, l'esclavage de l'avoir et l'accumulation des objets mondains (*kosmon*).\n\nL'irruption du Christ plante au cœur de cette horizontalité un axe vertical absolu : le 'Royaume UN'. Porter sa croix, c'est accepter que notre Ego horizontal soit transpercé et cloué, afin de briser le mécanisme réflexe de conservation de soi ('sauver sa psyché'). C'est consentir à la kénose pour naître comme un véritable 'Sujet dans le Christ'. Le reniement de soi exigé n'est rien d'autre que la chute du masque théâtral pour faire face à Dieu 'sans ruse'. Après avoir exalté la Croix, le chrétien refuse de se laisser objectiver par la 'génération adultère' et s'ancre dans l'Énergie incréée (*dynamis*) qui transforme la mort en Pâques et fait de l'existence présente le tabernacle du Ciel ouvert.\n\nL’ordre des verbes demeure essentiel : vouloir venir, renoncer à soi-même, prendre sa croix et suivre. La croix ne désigne donc ni toute souffrance subie ni une recherche de douleur ; elle reçoit son sens du chemin derrière le Christ et pour l’Évangile.\n\nLa Croix visible renvoie ainsi à un passage intérieur : le Christ descend dans notre faiblesse afin de nous relever et de nous rendre participants de sa vie. Le dépouillement du disciple ne produit pas la grâce et ne mérite pas le salut ; il ouvre les mains pour recevoir le don qui le précède. La Croix devient alors arbre de vie : non parce que la douleur serait bonne en elle-même, mais parce que l’amour du Christ ouvre, jusque dans l’épreuve et la mort, un chemin vers la communion et la résurrection.\n\nCette lecture est également liturgique. Le signe de la Croix rappelle l’appartenance baptismale au Christ ; l’Eucharistie donne de communier à Celui qui s’est livré. Le mouvement ne s’arrête donc pas au renoncement : reçu du Christ, il porte des fruits de liberté, de fraternité et d’attention aux personnes blessées.",
     "homiletic_axes": [
       {
         "title": "Derrière le Christ",
@@ -697,6 +715,24 @@
           "ἑαυτὸν",
           "ἐμοῦ."
         ]
+      },
+      {
+        "title": "La Croix, arbre de vie",
+        "content": "La Croix ne rend pas la souffrance désirable. Elle devient arbre de vie parce que l’amour du Christ ouvre un passage au cœur de ce qui semblait sans issue : la vie donnée n’est pas anéantie, elle est sauvée et reçue du Christ.",
+        "keywords": [
+          "σταυρὸν",
+          "σώσει",
+          "ζῇ"
+        ]
+      },
+      {
+        "title": "La puissance du Royaume dans la faiblesse",
+        "content": "Marc annonce le Royaume venu ἐν δυνάμει, tandis que Paul contemple le Fils qui s’est livré et qui vit en lui. La puissance divine ne supprime pas la faiblesse humaine : elle la traverse et y manifeste une vie que l’homme ne peut se donner seul.",
+        "keywords": [
+          "δυνάμει.",
+          "παραδόντος",
+          "ζῇ"
+        ]
       }
     ],
     "homily_template": [
@@ -728,7 +764,7 @@
         "id": "response",
         "phase": "gestation",
         "title": "5. Passage proposé",
-        "prompt": "Ouvrez une réponse libre et praticable : accueillir l’appel, revêtir le Christ, avancer en profondeur, jeter de nouveau le filet, suivre, donner ou se laisser saisir par la Croix."
+        "prompt": "Ouvrez une réponse libre et praticable : cesser de tout porter seul, recevoir l’aide du Christ et de l’Église, poser un acte de fidélité, soutenir celui qui faiblit ou consentir à suivre sans rechercher la souffrance."
       },
       {
         "id": "oral",
@@ -742,6 +778,18 @@
         "title": "Prendre sa croix et vivre du Christ",
         "reference": "Marc 8, 34 – 9, 1 ; Galates 2, 16-20",
         "content": "L’Évangile appelle à suivre le Christ en prenant sa croix ; Paul témoigne de l’accomplissement intérieur de ce chemin : crucifié avec le Christ, il vit désormais de sa vie et de son amour.",
+        "connections": []
+      },
+      {
+        "title": "De la Croix à l’Eucharistie",
+        "reference": "Galates 2, 20 ; anamnèse et communion",
+        "content": "Celui qui s’est livré pour nous se donne à son Église. La communion ne célèbre pas la souffrance : elle unit les fidèles à la vie du Crucifié-Ressuscité et les envoie porter des fruits de liberté, de fraternité et de soin.",
+        "connections": []
+      },
+      {
+        "title": "Le signe baptismal de la Croix",
+        "reference": "Marc 8, 34 ; Romains 6, 3-11",
+        "content": "Prendre sa croix réveille la vocation reçue au baptême : mourir au péché avec le Christ afin de marcher dans une vie nouvelle. Le signe tracé sur le corps rend visible cette appartenance et appelle une réponse quotidienne.",
         "connections": []
       }
     ]
@@ -1252,7 +1300,17 @@
           },
           {
             "greek": "ὑπὲρ",
-            "gloss": "pour"
+            "gloss": "pour",
+            "annotation": {
+              "type": "theologie",
+              "title": "Pour moi : le don qui précède",
+              "content": "Ὑπὲρ ἐμοῦ signifie ici « pour moi », « en ma faveur ». Avant que le disciple prenne sa croix, le Fils s’est livré librement pour lui : la réponse chrétienne naît d’un amour déjà donné.",
+              "related": [
+                "παραδόντος",
+                "ἑαυτὸν",
+                "ἐμοῦ."
+              ]
+            }
           },
           {
             "greek": "ἐμοῦ.",
@@ -1262,7 +1320,7 @@
       }
     ],
     "notes_translators": [],
-    "personal_analysis": "Notes sur le texte grec :\n• πίστις Χριστοῦ peut être entendue comme foi en Christ ou fidélité du Christ ; la construction ouvre un horizon plus large qu’une performance psychologique du croyant.\n• συνεσταύρωμαι est un parfait : « j’ai été crucifié avec » et cette union demeure.\n• οὐκέτι ἐγώ… Χριστός : Paul ne décrit pas l’anéantissement de la personne, mais une vie personnelle désormais reçue dans la communion au Christ.\n\nAnalyse spirituelle : après l’appel à prendre sa croix, l’Apôtre en révèle l’intériorisation baptismale : être crucifié avec le Christ afin que sa vie habite en nous. La kénose ne détruit pas le sujet ; elle délivre du moi autosuffisant et ouvre une existence relationnelle, vécue dans la foi au Fils qui « m’a aimé et s’est livré pour moi ».",
+    "personal_analysis": "Notes sur le texte grec :\n• πίστις Χριστοῦ peut être entendue comme foi en Christ ou fidélité du Christ ; la construction ouvre un horizon plus large qu’une performance psychologique du croyant.\n• συνεσταύρωμαι est un parfait : « j’ai été crucifié avec » et cette union demeure.\n• οὐκέτι ἐγώ… Χριστός : Paul ne décrit pas l’anéantissement de la personne, mais une vie personnelle désormais reçue dans la communion au Christ.\n\nAnalyse spirituelle : après l’appel à prendre sa croix, l’Apôtre en révèle l’intériorisation baptismale : être crucifié avec le Christ afin que sa vie habite en nous. La kénose ne détruit pas le sujet ; elle délivre du moi autosuffisant et ouvre une existence relationnelle, vécue dans la foi au Fils qui « m’a aimé et s’est livré pour moi ».\n\nLe mouvement part donc du Christ et non de l’effort humain : « il m’a aimé » puis « il s’est livré pour moi ». La foi accueille ce don ; elle ne cherche pas à fabriquer la grâce. L’ancienne autosuffisance descend de son trône, mais la personne n’est ni effacée ni absorbée : elle devient pleinement vivante dans une communion où le Christ agit en elle.\n\nCette vie reçue possède une forme ecclésiale et eucharistique. Le « en moi » de Paul ne referme pas le croyant dans une expérience privée : uni au Corps livré, il apprend à se donner à son tour, à porter avec les autres leurs fardeaux et à manifester dans le monde la vie du Crucifié-Ressuscité.",
     "homiletic_axes": [
       {
         "title": "La justification comme don reçu dans le Christ",
@@ -1278,6 +1336,11 @@
         "title": "Vivre de l’amour du Fils qui se livre",
         "content": "La Croix n’est ni recherche de souffrance ni mépris de soi. Elle devient chemin de vie parce qu’elle est d’abord le don personnel du Fils de Dieu qui aime et se livre.",
         "keywords": ["ἀγαπήσαντός", "παραδόντος", "ἑαυτὸν"]
+      },
+      {
+        "title": "Le don précède la réponse",
+        "content": "Le disciple ne produit pas la vie nouvelle par sa propre kénose. Il répond dans la foi au Fils qui l’a aimé et s’est livré pour lui ; le dépouillement devient disponibilité à une grâce déjà offerte.",
+        "keywords": ["πίστει", "ἀγαπήσαντός", "ὑπὲρ", "ἐμοῦ."]
       }
     ],
     "homily_template": [
@@ -1309,7 +1372,7 @@
         "id": "response",
         "phase": "gestation",
         "title": "5. Passage proposé",
-        "prompt": "Ouvrez une réponse libre et praticable : accueillir l’appel, revêtir le Christ, avancer en profondeur, jeter de nouveau le filet, suivre, donner ou se laisser saisir par la Croix."
+        "prompt": "Ouvrez une réponse libre et praticable : cesser de tout porter seul, recevoir l’aide du Christ et de l’Église, poser un acte de fidélité, soutenir celui qui faiblit ou consentir à suivre sans rechercher la souffrance."
       },
       {
         "id": "oral",
@@ -1318,7 +1381,14 @@
         "prompt": "Gardez une image dominante et une progression sobre. Présentez les interprétations symboliques comme une lecture spirituelle et non comme une traduction littérale des racines."
       }
     ],
-    "liturgical_echoes": []
+    "liturgical_echoes": [
+      {
+        "title": "Communier à la vie du Crucifié-Ressuscité",
+        "reference": "Galates 2, 20 ; Divine Liturgie",
+        "content": "« Le Christ vit en moi » trouve un accomplissement ecclésial dans la communion : le fidèle reçoit Celui qui s’est livré pour lui afin que cette vie porte des fruits de charité, de service et de témoignage.",
+        "connections": []
+      }
+    ]
   },
   "reading_connections": {
     "title":"Porter la Croix et laisser le Christ vivre en soi",
