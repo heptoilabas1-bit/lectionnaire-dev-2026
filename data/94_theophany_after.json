@@ -1137,5 +1137,38 @@
         "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
       }
     ]
+  },
+  "reading_connections": {
+    "title":"La lumière se lève et construit le Corps",
+    "summary":"La prédication de Jésus accomplit la parole prophétique et fait lever la lumière ; l’épître montre comment le Christ élevé donne des ministères pour conduire tout son Corps à la plénitude.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_word","link_type":"prophecy_and_prophets","title":"La parole du prophète — les prophètes donnés à l’Église",
+        "explanation":"Matthieu cite Isaïe τοῦ προφήτου ; Paul nomme parmi les dons du Christ τοὺς προφήτας. Le même nom προφήτης relie l’accomplissement scripturaire et le ministère qui continue d’édifier le peuple.",
+        "bridge_sentence":"Le Christ accomplit la parole prophétique et donne encore des prophètes pour édifier son Corps.",
+        "homiletic_use":"Ne pas mettre sur le même plan Isaïe et toute parole contemporaine ; l’épître situe les ministères sous le don et la mesure du Christ.",
+        "bridge":{"evidence":"Même nom προφήτης : προφήτου / προφήτας","gospel":"τὸ ῥηθὲν διὰ Ἠσαΐου τοῦ προφήτου : ce qui fut dit par Isaïe le prophète","relation":"L’accomplissement en Jésus fonde le service prophétique dans son Corps","apostle":"ἔδωκεν… τοὺς δὲ προφήτας : il a donné… les prophètes","detail":"Les formes diffèrent seulement par leur cas et leur nombre."},
+        "term_details":{"gospel":[{"forms":["προφήτου"],"lemma":"προφήτης","root":"προφητ- : prophète","literal":"du prophète","role":"Isaïe interprète d’avance la lumière qui se lève avec Jésus."}],"apostle":[{"forms":["προφήτας"],"lemma":"προφήτης","root":"προφητ- : prophète","literal":"des prophètes","role":"Le Christ les donne avec d’autres ministères en vue de l’édification."}]},
+        "gospel":{"verses":["14"],"terms":["προφήτου"]},"apostle":{"verses":["11"],"terms":["προφήτας"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"kingdom_of_heavens","title":"Le Royaume des cieux — le Christ au-dessus de tous les cieux",
+        "explanation":"Jésus annonce la βασιλεία τῶν οὐρανῶν ; Paul confesse celui qui est monté ὑπεράνω πάντων τῶν οὐρανῶν. Le pluriel οὐρανοί relie le Royaume proche à la seigneurie universelle du Christ.",
+        "bridge_sentence":"Le Royaume des cieux s’approche parce que le Christ descendu et élevé remplit toutes choses.",
+        "homiletic_use":"Ne pas réduire les « cieux » à un lieu lointain : chez Matthieu le Royaume s’est approché, et chez Paul le Christ remplit tout.",
+        "bridge":{"evidence":"Même nom οὐρανός au génitif pluriel : οὐρανῶν","gospel":"ἤγγικεν… ἡ βασιλεία τῶν οὐρανῶν : le Royaume des cieux s’est approché","relation":"La proximité du Royaume procède de la souveraineté du Christ qui remplit tout","apostle":"ὑπεράνω πάντων τῶν οὐρανῶν : au-dessus de tous les cieux","detail":"La forme οὐρανῶν est identique dans les deux lectures."},
+        "term_details":{"gospel":[{"forms":["οὐρανῶν"],"lemma":"οὐρανός","root":"οὐραν- : ciel","literal":"des cieux","role":"Le Royaume annoncé par Jésus est déclaré proche."}],"apostle":[{"forms":["οὐρανῶν"],"lemma":"οὐρανός","root":"οὐραν- : ciel","literal":"des cieux","role":"L’ascension exprime la portée universelle de l’œuvre du Christ."}]},
+        "gospel":{"verses":["17"],"terms":["οὐρανῶν"]},"apostle":{"verses":["10"],"terms":["οὐρανῶν"]}
+      },
+      {
+        "directness":"indirect","kind":"thematic","link_type":"light_and_fullness","title":"La lumière se lève — l’humanité atteint la plénitude",
+        "explanation":"Un grand φῶς se lève pour le peuple assis dans les ténèbres. Paul décrit le but des dons du Christ : l’unité, la connaissance du Fils et la mesure de sa plénitude. La lumière inaugurale devient croissance commune du Corps.",
+        "bridge_sentence":"La lumière du Christ ne se contente pas d’éclairer de loin : elle fait grandir un peuple jusqu’à sa plénitude.",
+        "homiletic_use":"Passer de l’image individuelle de l’illumination à la visée ecclésiale de l’épître : l’édification concerne tout le Corps.",
+        "bridge":{"evidence":"Progression thématique de φῶς vers πλήρωμα","gospel":"φῶς εἶδεν μέγα… φῶς ἀνέτειλεν : il a vu une grande lumière… une lumière s’est levée","relation":"L’irruption de la lumière inaugure la maturation du peuple dans le Christ","apostle":"εἰς… τὸ πλήρωμα τοῦ Χριστοῦ : jusqu’à la plénitude du Christ","detail":"Le lien est théologique et progressif, non lexical."},
+        "term_details":{"gospel":[{"forms":["φῶς","ἀνέτειλεν"],"lemma":"φῶς / ἀνατέλλω","root":"lumière / se lever","literal":"lumière / s’est levée","role":"La présence et la prédication de Jésus accomplissent la promesse d’Isaïe."}],"apostle":[{"forms":["οἰκοδομὴν","ἑνότητα","πληρώματος"],"lemma":"οἰκοδομή / ἑνότης / πλήρωμα","root":"édification / unité / plénitude","literal":"construction / unité / plénitude","role":"Les dons convergent vers la croissance commune du Corps du Christ."}]},
+        "gospel":{"verses":["16"],"terms":["φῶς","ἀνέτειλεν"]},"apostle":{"verses":["12","13"],"terms":["οἰκοδομὴν","ἑνότητα","πληρώματος"]}
+      }
+    ]
   }
 }

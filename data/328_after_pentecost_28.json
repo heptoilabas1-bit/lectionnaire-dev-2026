@@ -1255,5 +1255,50 @@
         "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
       }
     ]
+  },
+  "reading_connections": {
+    "title": "De la guérison reçue à l’homme renouvelé",
+    "summary": "Le Samaritain guéri revient glorifier Dieu ; Paul décrit la même nouveauté comme le dépouillement du vieil homme et une communion où les anciennes séparations ne commandent plus.",
+    "links": [
+      {
+        "directness": "direct",
+        "kind": "same_word",
+        "link_type": "glory_returned_to_god",
+        "title": "Donner gloire à Dieu — paraître dans la gloire",
+        "explanation": "Le lépreux revient δοξάζων Dieu et lui donne δόξαν ; Paul annonce que les croyants paraîtront avec le Christ ἐν δόξῃ. La gloire reçue avec le Christ devient dès maintenant action de grâce rendue à Dieu.",
+        "bridge_sentence": "Celui qui reconnaît l’œuvre de Dieu retourne vers lui la gloire dans laquelle le Christ veut le faire entrer.",
+        "homiletic_use": "Distinguer la guérison constatée par les dix de la relation restaurée chez celui qui revient glorifier Dieu.",
+        "bridge": {"evidence":"Même nom δόξα et même famille δοξ- : δοξάζων, δόξαν / δόξῃ","gospel":"δοξάζων τὸν θεόν… δοῦναι δόξαν : glorifiant Dieu… donner gloire","relation":"La gloire reconnue dans la guérison répond à la gloire promise avec le Christ","apostle":"φανερωθήσεσθε ἐν δόξῃ : vous serez manifestés dans la gloire","detail":"δοξάζω est le verbe formé sur le nom δόξα."},
+        "term_details": {"gospel":[{"forms":["δοξάζων","δόξαν"],"lemma":"δοξάζω / δόξα","root":"δοξ- : gloire, glorifier","literal":"glorifiant / gloire","role":"Le Samaritain rend publiquement à Dieu la gloire de sa guérison."}],"apostle":[{"forms":["δόξῃ"],"lemma":"δόξα","root":"δοξ- : gloire","literal":"dans la gloire","role":"La vie cachée des croyants sera manifestée avec le Christ."}]},
+        "gospel":{"verses":["15","18"],"terms":["δοξάζων","δόξαν"]},
+        "apostle":{"verses":["4"],"terms":["δόξῃ"]}
+      },
+      {
+        "directness": "indirect",
+        "kind": "thematic",
+        "link_type": "cleansed_and_renewed",
+        "title": "Purifiés en chemin — renouvelés intérieurement",
+        "explanation": "Les dix sont ἐκαθαρίσθησαν, purifiés en allant vers les prêtres. Paul demande de quitter l’ἀκαθαρσία et de revêtir l’homme nouveau ἀνακαινούμενον. La guérison visible ouvre ainsi sur une purification de toute la conduite.",
+        "bridge_sentence": "Le Christ ne restaure pas seulement la peau : il renouvelle l’homme jusque dans ses actes.",
+        "homiletic_use": "Ne pas identifier maladie et péché ; rapprocher les textes par leur mouvement commun de restauration et de nouveauté.",
+        "bridge": {"evidence":"Antithèse lexicale autour de καθαρ- et thème du renouvellement","gospel":"ἐκαθαρίσθησαν : ils furent purifiés","relation":"La purification corporelle devient signe d’une existence à dépouiller et à renouveler","apostle":"ἀκαθαρσίαν… τὸν ἀνακαινούμενον : l’impureté… l’homme renouvelé","detail":"καθαρίζω et ἀκαθαρσία partagent la base καθαρ- avec le préfixe privatif ἀ-."},
+        "term_details": {"gospel":[{"forms":["ἐκαθαρίσθησαν"],"lemma":"καθαρίζω","root":"καθαρ- : pur, purifier","literal":"ils furent purifiés","role":"La purification survient pendant leur marche obéissante."}],"apostle":[{"forms":["ἀκαθαρσίαν","ἀνακαινούμενον"],"lemma":"ἀκαθαρσία / ἀνακαινόω","root":"καθαρ- / καιν- : impureté / nouveauté","literal":"impureté / étant renouvelé","role":"Paul décrit le passage des pratiques anciennes à l’homme nouveau."}]},
+        "gospel":{"verses":["14","17"],"terms":["ἐκαθαρίσθησαν"]},
+        "apostle":{"verses":["5","10"],"terms":["ἀκαθαρσίαν","ἀνακαινούμενον"]}
+      },
+      {
+        "directness": "indirect",
+        "kind": "thematic",
+        "link_type": "foreigner_beyond_divisions",
+        "title": "L’étranger revient — les frontières tombent dans le Christ",
+        "explanation": "Jésus souligne que celui qui revient est ἀλλογενής, étranger, et l’évangéliste précise qu’il est Samaritain. Paul énumère Grec, Juif, barbare, Scythe, esclave et homme libre pour proclamer que le Christ est tout et en tous.",
+        "bridge_sentence": "Celui que la frontière religieuse tenait à distance devient le témoin d’une humanité où le Christ est en tous.",
+        "homiletic_use": "Faire porter le rapprochement sur l’accueil et la reconnaissance, non sur l’effacement abstrait des différences culturelles.",
+        "bridge": {"evidence":"Correspondance thématique explicite entre l’étranger et la liste des identités séparatrices","gospel":"Σαμαρίτης… ὁ ἀλλογενής : Samaritain… cet étranger","relation":"L’étranger reconnaissant anticipe la communion qui n’est plus réglée par l’origine ou le statut","apostle":"οὐκ ἔνι Ἕλλην καὶ Ἰουδαῖος… ἀλλὰ… Χριστός : il n’y a plus Grec et Juif… mais le Christ","detail":"Les mots diffèrent ; le lien est ecclésial et thématique, clairement signalé comme indirect."},
+        "term_details": {"gospel":[{"forms":["Σαμαρίτης","ἀλλογενὴς"],"lemma":"Σαμαρίτης / ἀλλογενής","root":"Samaritain / d’une autre origine","literal":"Samaritain / étranger","role":"Le seul qui revient appartenait au groupe tenu pour extérieur."}],"apostle":[{"forms":["Ἕλλην","Ἰουδαῖος","βάρβαρος","Σκύθης","δοῦλος","ἐλεύθερος"],"lemma":"identités d’origine et de statut","root":"énumération sociale et culturelle","literal":"Grec, Juif, barbare, Scythe, esclave, libre","role":"Ces catégories ne déterminent plus l’accès à la vie en Christ."}]},
+        "gospel":{"verses":["16","18"],"terms":["Σαμαρίτης","ἀλλογενὴς"]},
+        "apostle":{"verses":["11"],"terms":["Ἕλλην","Ἰουδαῖος","βάρβαρος","Σκύθης","δοῦλος","ἐλεύθερος"]}
+      }
+    ]
   }
 }

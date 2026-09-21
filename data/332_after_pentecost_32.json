@@ -1326,5 +1326,38 @@
         "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
       }
     ]
+  },
+  "reading_connections": {
+    "title": "Le salut entre dans la maison et devient visible",
+    "summary": "Zachée reçoit le Sauveur et transforme concrètement sa conduite ; Paul décrit le Dieu vivant comme Sauveur de tous et demande que la foi devienne un exemple visible.",
+    "links": [
+      {
+        "directness":"direct","kind":"same_root","link_type":"savior_and_salvation","title":"Le Fils vient sauver — Dieu est Sauveur de tous",
+        "explanation":"Jésus proclame σωτηρία pour la maison et dit que le Fils de l’homme est venu σῶσαι ce qui était perdu. Paul nomme le Dieu vivant σωτήρ πάντων ἀνθρώπων. Le même radical σω- unit l’événement chez Zachée et sa portée pour tous.",
+        "bridge_sentence":"Le salut qui rejoint une maison particulière révèle le Dieu vivant, Sauveur de tous les hommes.",
+        "homiletic_use":"Tenir ensemble l’universalité de l’offre et la rencontre personnelle : « tous » ne rend pas abstrait le « aujourd’hui » de Zachée.",
+        "bridge":{"evidence":"Même famille σω- : σωτηρία, σῶσαι / σωτήρ","gospel":"Σήμερον σωτηρία… ζητῆσαι καὶ σῶσαι : aujourd’hui le salut… chercher et sauver","relation":"La maison sauvée manifeste concrètement l’identité du Dieu Sauveur","apostle":"θεῷ ζῶντι, ὅς ἐστιν σωτὴρ πάντων ἀνθρώπων : le Dieu vivant, Sauveur de tous les hommes","detail":"σωτηρία, σῴζω et σωτήρ appartiennent à la même famille lexicale."},
+        "term_details":{"gospel":[{"forms":["σωτηρία","σῶσαι"],"lemma":"σωτηρία / σῴζω","root":"σω- : salut, sauver","literal":"salut / sauver","role":"La visite du Christ restaure Zachée dans une appartenance et une conduite nouvelles."}],"apostle":[{"forms":["σωτὴρ"],"lemma":"σωτήρ","root":"σω- : sauveur","literal":"Sauveur","role":"Paul confesse la portée universelle de l’espérance placée en Dieu."}]},
+        "gospel":{"verses":["9","10"],"terms":["σωτηρία","σῶσαι"]},"apostle":{"verses":["10"],"terms":["σωτὴρ"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"gift_becomes_giving","title":"Il donne aux pauvres — fais fructifier le don reçu",
+        "explanation":"Zachée dit δίδωμι, « je donne », et Paul rappelle à Timothée le χάρισμα qui ἐδόθη, « fut donné ». Le même verbe δίδωμι relie la grâce reçue à la générosité mise en œuvre.",
+        "bridge_sentence":"Le don de Dieu n’enferme pas son bénéficiaire : reçu, il devient une vie qui donne.",
+        "homiletic_use":"Ne pas présenter le partage de Zachée comme le prix du salut ; c’est le fruit visible de l’accueil du Christ.",
+        "bridge":{"evidence":"Même verbe δίδωμι : δίδωμι / ἐδόθη","gospel":"τοῖς πτωχοῖς δίδωμι : je donne aux pauvres","relation":"La grâce reçue se reconnaît à la capacité renouvelée de donner","apostle":"τοῦ… χαρίσματος, ὃ ἐδόθη σοι : le don de grâce qui t’a été donné","detail":"Le présent actif de Zachée répond à l’aoriste passif employé pour le charisme de Timothée."},
+        "term_details":{"gospel":[{"forms":["δίδωμι"],"lemma":"δίδωμι","root":"δο-/δω- : donner","literal":"je donne","role":"La conversion atteint immédiatement le rapport de Zachée à ses biens."}],"apostle":[{"forms":["ἐδόθη"],"lemma":"δίδωμι","root":"δο-/δω- : donner","literal":"fut donné","role":"Le ministère repose sur un don à ne pas négliger."}]},
+        "gospel":{"verses":["8"],"terms":["δίδωμι"]},"apostle":{"verses":["14"],"terms":["ἐδόθη"]}
+      },
+      {
+        "directness":"indirect","kind":"thematic","link_type":"visible_conversion","title":"Une conversion visible — un progrès manifeste à tous",
+        "explanation":"Zachée rend visible son retournement par le partage et la restitution. Paul demande à Timothée d’être τύπος et de laisser son progrès devenir φανερὰ πᾶσιν. Dans les deux textes, la grâce reçue prend une forme vérifiable dans la conduite.",
+        "bridge_sentence":"La rencontre avec le Christ devient crédible lorsqu’elle transforme une manière de vivre que tous peuvent voir.",
+        "homiletic_use":"Éviter le moralisme : l’exemple chrétien n’est pas une mise en scène parfaite, mais la visibilité progressive d’une grâce accueillie.",
+        "bridge":{"evidence":"Correspondance narrative entre les actes publics de Zachée et l’exemple manifeste demandé à Timothée","gospel":"δίδωμι… ἀποδίδωμι τετραπλοῦν : je donne… je rends au quadruple","relation":"Le changement intérieur se traduit dans des actes observables","apostle":"τύπος γίνου… ἡ προκοπὴ φανερὰ ᾖ πᾶσιν : deviens un exemple… que ton progrès soit manifeste à tous","detail":"Le lien est thématique ; aucun faux lien lexical n’est revendiqué."},
+        "term_details":{"gospel":[{"forms":["δίδωμι","ἀποδίδωμι"],"lemma":"δίδωμι / ἀποδίδωμι","root":"δο-/δω- : donner, rendre","literal":"je donne / je restitue","role":"Zachée formule publiquement les fruits concrets de sa conversion."}],"apostle":[{"forms":["τύπος","προκοπὴ","φανερὰ"],"lemma":"τύπος / προκοπή / φανερός","root":"exemple / progrès / visible","literal":"modèle / progrès / manifeste","role":"Timothée doit laisser son ministère et sa croissance devenir lisibles."}]},
+        "gospel":{"verses":["8"],"terms":["δίδωμι","ἀποδίδωμι"]},"apostle":{"verses":["12","15"],"terms":["τύπος","προκοπὴ","φανερὰ"]}
+      }
+    ]
   }
 }

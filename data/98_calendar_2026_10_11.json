@@ -1710,5 +1710,38 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"Recevoir la Parole et vivre dans la foi du Christ",
+    "summary":"La parabole montre comment la Parole reçue conduit à croire, être sauvé et porter du fruit ; Paul précise que cette vie ne vient pas des œuvres de la Loi, mais de la foi et du Christ vivant en nous.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_root","link_type":"believing_and_faith","title":"Croire pour être sauvé — vivre dans la foi du Christ",
+        "explanation":"Jésus parle de ceux qui ne parviennent pas à πιστεύσαντες et de ceux qui πιστεύουσιν pour un temps ; Paul emploie ἐπιστεύσαμεν et répète πίστις. Le même radical πιστ- relie l’accueil de la Parole à la vie reçue du Christ.",
+        "bridge_sentence":"La bonne terre n’est pas une performance : elle est un cœur qui accueille la Parole et demeure dans la foi du Christ.",
+        "homiletic_use":"Distinguer la foi passagère du verset 13 et la fidélité persévérante ; chez Paul, cette foi s’oppose à la prétention de se justifier par les œuvres de la Loi.",
+        "bridge":{"evidence":"Même famille πιστ- : πιστεύσαντες, πιστεύουσιν / πίστεως, ἐπιστεύσαμεν, πίστει","gospel":"ἵνα μὴ πιστεύσαντες σωθῶσιν… πρὸς καιρὸν πιστεύουσιν : afin qu’ils ne croient pas et ne soient sauvés… ils croient pour un temps","relation":"La réception croyante de la Parole trouve sa source et sa durée dans le Christ","apostle":"διὰ πίστεως Ἰησοῦ Χριστοῦ… ἐπιστεύσαμεν : par la foi de Jésus Christ… nous avons cru","detail":"Le verbe πιστεύω et le nom πίστις partagent la racine πιστ-."},
+        "term_details":{"gospel":[{"forms":["πιστεύσαντες","πιστεύουσιν"],"lemma":"πιστεύω","root":"πιστ- : croire, faire confiance","literal":"ayant cru / ils croient","role":"La foi peut être empêchée ou rester sans racine et sans durée."}],"apostle":[{"forms":["πίστεως","ἐπιστεύσαμεν","πίστει"],"lemma":"πίστις / πιστεύω","root":"πιστ- : foi, confiance","literal":"foi / nous avons cru","role":"La justification et la vie présente sont reçues dans la foi du Christ."}]},
+        "gospel":{"verses":["12","13"],"terms":["πιστεύσαντες","πιστεύουσιν"]},"apostle":{"verses":["16","20"],"terms":["πίστεως","ἐπιστεύσαμεν","πίστει"]}
+      },
+      {
+        "directness":"indirect","kind":"thematic","link_type":"fruit_not_self_justification","title":"Porter du fruit — sans se justifier par ses œuvres",
+        "explanation":"La bonne terre καρποφοροῦσιν dans la persévérance, tandis que Paul refuse toute justification ἐξ ἔργων νόμου. Les fruits ne sont donc pas une monnaie qui achète la justice : ils manifestent qu’une Parole reçue travaille déjà le cœur.",
+        "bridge_sentence":"Le fruit ne produit pas la grâce ; il rend visible, dans la durée, la grâce accueillie par la foi.",
+        "homiletic_use":"Cette comparaison permet de distinguer clairement fécondité chrétienne et mérite : Paul critique les œuvres comme fondement de justification, non toute action transformée par la grâce.",
+        "bridge":{"evidence":"Contraste théologique entre καρποφορεῖν et ἔργα νόμου","gospel":"καρποφοροῦσιν ἐν ὑπομονῇ : ils portent du fruit dans la persévérance","relation":"Le fruit suit l’accueil de la Parole ; il ne sert pas à fabriquer sa propre justice","apostle":"οὐ δικαιοῦται ἄνθρωπος ἐξ ἔργων νόμου : l’homme n’est pas justifié par les œuvres de la Loi","detail":"Les mots ne sont pas apparentés ; le lien distingue deux fonctions théologiques souvent confondues."},
+        "term_details":{"gospel":[{"forms":["καρποφοροῦσιν","ὑπομονῇ"],"lemma":"καρποφορέω / ὑπομονή","root":"porter du fruit / persévérance","literal":"portent du fruit / dans la persévérance","role":"Le fruit mûrit chez ceux qui retiennent la Parole dans un cœur bon."}],"apostle":[{"forms":["ἔργων","δικαιοῦται"],"lemma":"ἔργον / δικαιόω","root":"œuvre / justifier","literal":"œuvres / est justifié","role":"Paul retire aux œuvres de la Loi le pouvoir de fonder la justice devant Dieu."}]},
+        "gospel":{"verses":["15"],"terms":["καρποφοροῦσιν","ὑπομονῇ"]},"apostle":{"verses":["16"],"terms":["ἔργων","δικαιοῦται"]}
+      },
+      {
+        "directness":"indirect","kind":"thematic","link_type":"choked_life_christ_lives","title":"Les soucis étouffent la vie — le Christ vit en moi",
+        "explanation":"Les épines étouffent sous les soucis, la richesse et les plaisirs τοῦ βίου ; Paul décrit une autre vie par ζῶ et ζῇ : le Christ vit en lui. Le grec distingue βίος, la vie et ses moyens, de ζάω, le fait de vivre reçu ici du Christ.",
+        "bridge_sentence":"Quand le bios cesse d’occuper tout l’espace, la vie du Christ peut porter son fruit en nous.",
+        "homiletic_use":"Exploiter la différence grecque sans l’absolutiser : Luc avertit contre l’existence accaparée ; Paul confesse le centre nouveau de sa vie.",
+        "bridge":{"evidence":"Contraste sémantique entre βίος et ζάω, deux familles grecques rendues par « vie/vivre »","gospel":"ἡδονῶν τοῦ βίου… συμπνίγονται : les plaisirs de la vie… ils sont étouffés","relation":"Une existence saturée par ses préoccupations laisse place, dans la foi, à une vie centrée sur le Christ","apostle":"ζῶ δὲ οὐκέτι ἐγώ, ζῇ δὲ ἐν ἐμοὶ Χριστός : ce n’est plus moi qui vis, le Christ vit en moi","detail":"βίος et ζάω ne partagent pas la même racine ; la comparaison met précisément leur différence en valeur."},
+        "term_details":{"gospel":[{"forms":["βίου","συμπνίγονται"],"lemma":"βίος / συμπνίγω","root":"vie matérielle / étouffer ensemble","literal":"de la vie / sont étouffés","role":"Les préoccupations et jouissances empêchent la Parole d’arriver à maturité."}],"apostle":[{"forms":["ζῶ","ζῇ"],"lemma":"ζάω","root":"ζη-/ζω- : vivre","literal":"je vis / il vit","role":"La foi déplace le centre du moi vers la présence vivante du Christ."}]},
+        "gospel":{"verses":["14"],"terms":["βίου","συμπνίγονται"]},"apostle":{"verses":["19","20"],"terms":["ζήσω","ζῶ","ζῇ"]}
+      }
+    ]
   }
 }

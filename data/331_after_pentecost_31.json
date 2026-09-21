@@ -1034,5 +1034,38 @@
         "connections": []
       }
     ]
+  },
+  "reading_connections": {
+    "title": "La miséricorde qui sauve ouvre les yeux à la gloire",
+    "summary": "Le cri de l’aveugle et la confession de Paul se répondent mot pour mot : tous deux vivent de la miséricorde du Christ, de son salut et de la gloire rendue à Dieu.",
+    "links": [
+      {
+        "directness":"direct","kind":"same_root","link_type":"mercy_received","title":"Aie pitié de moi — j’ai obtenu miséricorde",
+        "explanation":"L’aveugle crie deux fois ἐλέησόν με ; Paul confesse ἠλεήθην. Le même verbe ἐλεέω relie la demande insistante et le témoignage apostolique : nul ne se sauve lui-même, chacun reçoit miséricorde.",
+        "bridge_sentence":"Le cri « aie pitié » devient, chez celui que le Christ relève, la confession « j’ai obtenu miséricorde ».",
+        "homiletic_use":"Faire entendre que la prière de Jésus n’est pas une formule magique, mais l’ouverture confiante à l’action patiente du Christ.",
+        "bridge":{"evidence":"Même verbe ἐλεέω : ἐλέησόν / ἠλεήθην","gospel":"Υἱὲ Δαυίδ, ἐλέησόν με : Fils de David, aie pitié de moi","relation":"La demande de miséricorde reçoit dans l’épître son témoignage accompli","apostle":"διὰ τοῦτο ἠλεήθην : c’est pour cela que j’ai obtenu miséricorde","detail":"L’évangile emploie l’impératif actif ; Paul le passif, qui souligne la grâce reçue."},
+        "term_details":{"gospel":[{"forms":["ἐλέησόν"],"lemma":"ἐλεέω","root":"ἐλε- : avoir pitié, faire miséricorde","literal":"aie pitié","role":"Le mendiant refuse de laisser la foule étouffer son appel."}],"apostle":[{"forms":["ἠλεήθην"],"lemma":"ἐλεέω","root":"ἐλε- : faire miséricorde","literal":"j’ai obtenu miséricorde","role":"Paul présente sa vie comme la démonstration de la patience du Christ."}]},
+        "gospel":{"verses":["38","39"],"terms":["ἐλέησόν"]},"apostle":{"verses":["16"],"terms":["ἠλεήθην"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"faith_and_salvation","title":"Ta foi t’a sauvé — le Christ est venu sauver",
+        "explanation":"Jésus dit σέσωκέν σε, « elle t’a sauvé », tandis que Paul annonce que le Christ est venu σῶσαι les pécheurs. Les deux formes appartiennent à σῴζω : la guérison de la vue manifeste le salut que le Christ apporte au monde.",
+        "bridge_sentence":"La foi ne produit pas seule le salut : elle reçoit le Christ venu sauver.",
+        "homiletic_use":"Éviter de réduire σῴζω à une guérison physique ou à une récompense morale ; le verbe porte ici la restauration entière de la personne.",
+        "bridge":{"evidence":"Même verbe σῴζω : σέσωκέν / σῶσαι","gospel":"ἡ πίστις σου σέσωκέν σε : ta foi t’a sauvé","relation":"Le salut personnel reçu par l’aveugle révèle la mission universelle du Christ","apostle":"Χριστὸς Ἰησοῦς ἦλθεν… ἁμαρτωλοὺς σῶσαι : le Christ Jésus est venu sauver les pécheurs","detail":"σέσωκεν est un parfait ; σῶσαι, un infinitif aoriste."},
+        "term_details":{"gospel":[{"forms":["σέσωκέν"],"lemma":"σῴζω","root":"σω- : sauver, rendre sain et entier","literal":"a sauvé","role":"Jésus nomme le sens profond de la guérison reçue dans la foi."}],"apostle":[{"forms":["σῶσαι"],"lemma":"σῴζω","root":"σω- : sauver","literal":"sauver","role":"Paul résume ainsi la venue du Christ dans le monde."}]},
+        "gospel":{"verses":["42"],"terms":["σέσωκέν"]},"apostle":{"verses":["15"],"terms":["σῶσαι"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"glory_after_mercy","title":"Il glorifie Dieu — à Dieu honneur et gloire",
+        "explanation":"L’aveugle guéri suit Jésus δοξάζων Dieu ; Paul conclut sa confession par τιμὴ καὶ δόξα au Dieu invisible. La même δόξα est la réponse de celui qui reconnaît la miséricorde reçue.",
+        "bridge_sentence":"Quand les yeux s’ouvrent sur la miséricorde, la marche devient louange et la gloire revient à Dieu.",
+        "homiletic_use":"Suivre le mouvement du récit : voir, suivre, glorifier ; la louange n’est pas ajoutée après la guérison, elle en révèle l’orientation.",
+        "bridge":{"evidence":"Même famille δοξ- : δοξάζων / δόξα","gospel":"ἠκολούθει αὐτῷ δοξάζων τὸν θεόν : il le suivait en glorifiant Dieu","relation":"Le salut reçu s’accomplit en confession publique de la gloire de Dieu","apostle":"τιμὴ καὶ δόξα εἰς τοὺς αἰῶνας : honneur et gloire pour les siècles","detail":"δοξάζω est le verbe correspondant au nom δόξα."},
+        "term_details":{"gospel":[{"forms":["δοξάζων"],"lemma":"δοξάζω","root":"δοξ- : gloire, glorifier","literal":"glorifiant","role":"La guérison met l’homme en marche derrière Jésus et dans la louange."}],"apostle":[{"forms":["δόξα"],"lemma":"δόξα","root":"δοξ- : gloire","literal":"gloire","role":"La doxologie clôt la confession de la miséricorde."}]},
+        "gospel":{"verses":["43"],"terms":["δοξάζων"]},"apostle":{"verses":["17"],"terms":["δόξα"]}
+      }
+    ]
   }
 }

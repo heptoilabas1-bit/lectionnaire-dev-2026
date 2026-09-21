@@ -678,5 +678,38 @@
     "homiletic_axes": [],
     "liturgical_echoes": [],
     "french_darby": "12. rendant grâces au Père qui nous a rendus capables de participer au lot des saints dans la lumière ;\n13. qui nous a délivrés du pouvoir des ténèbres, et nous a transportés dans le royaume du Fils de son amour,\n14. en qui nous avons la rédemption, la rémission des péchés ;\n15. qui est l’image du Dieu invisible, le premier-né de toute la création ;\n16. car par lui ont été créées toutes choses, les choses qui sont dans les cieux, et les choses qui sont sur la terre, les visibles et les invisibles, soit trônes, ou seigneuries, ou principautés, ou autorités : toutes choses ont été créées par lui et pour lui ;\n17. et lui est avant toutes choses, et toutes choses subsistent par lui ;\n18. et il est le chef du corps, de l’assemblée, lui qui est le commencement, le premier-né d’entre les morts, afin qu’en toutes choses il tienne, lui, la première place ;"
+  },
+  "reading_connections": {
+    "title":"Rendre grâce au Christ qui délivre et rassemble",
+    "summary":"Le Samaritain guéri revient dans l’action de grâce et la gloire ; Paul ouvre son hymne au Christ par la même gratitude, puis proclame la délivrance qui fait entrer les saints dans la lumière.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_word","link_type":"thanksgiving_to_the_father","title":"Il rend grâce — rendez grâce au Père",
+        "explanation":"Le Samaritain revient εὐχαριστῶν à Jésus ; Paul commence par Εὐχαριστοῦντες au Père. Le même verbe εὐχαριστέω transforme le bienfait reçu en relation reconnue avec Celui qui sauve.",
+        "bridge_sentence":"La guérison devient salut reconnu lorsqu’elle ramène l’homme vers Dieu dans l’action de grâce.",
+        "homiletic_use":"Faire remarquer que les dix sont purifiés, mais qu’un seul revient : l’eucharistie distingue la reconnaissance du simple bénéfice reçu.",
+        "bridge":{"evidence":"Même verbe εὐχαριστέω : εὐχαριστῶν / Εὐχαριστοῦντες","gospel":"εὐχαριστῶν αὐτῷ : lui rendant grâce","relation":"La gratitude personnelle du Samaritain devient l’attitude de toute la communauté envers le Père","apostle":"Εὐχαριστοῦντες τῷ Πατρὶ : rendant grâce au Père","detail":"Les deux formes sont des participes présents actifs du même verbe."},
+        "term_details":{"gospel":[{"forms":["εὐχαριστῶν"],"lemma":"εὐχαριστέω","root":"εὐχαριστ- : rendre grâce","literal":"rendant grâce","role":"Le Samaritain revient jusqu’aux pieds de Jésus pour reconnaître la source du don."}],"apostle":[{"forms":["Εὐχαριστοῦντες"],"lemma":"εὐχαριστέω","root":"εὐχαριστ- : rendre grâce","literal":"rendant grâce","role":"Paul inscrit les croyants dans une gratitude commune envers le Père."}]},
+        "gospel":{"verses":["16"],"terms":["εὐχαριστῶν"]},"apostle":{"verses":["12"],"terms":["Εὐχαριστοῦντες"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"glory_and_inheritance","title":"Donner gloire à Dieu — participer à l’héritage dans la lumière",
+        "explanation":"L’homme revient δοξάζων Dieu et donne δόξαν ; Paul rend grâce au Père qui rend les fidèles capables d’avoir part à l’héritage des saints ἐν τῷ φωτί. La gloire confessée ouvre sur la communion lumineuse donnée par Dieu.",
+        "bridge_sentence":"Rendre gloire à Dieu, c’est reconnaître qu’il nous fait passer de la distance à la communion des saints dans la lumière.",
+        "homiletic_use":"Le lien principal porte sur la réponse cultuelle et la lumière, sans prétendre que δόξα et φῶς sont synonymes exacts.",
+        "bridge":{"evidence":"δόξα est explicite dans l’Évangile ; l’épître développe son horizon lumineux par φῶς","gospel":"δοξάζων τὸν θεόν… δοῦναι δόξαν : glorifiant Dieu… donner gloire","relation":"La gloire rendue reconnaît le passage accordé par le Père vers son héritage lumineux","apostle":"τοῦ κλήρου τῶν ἁγίων ἐν τῷ φωτί : l’héritage des saints dans la lumière","detail":"Le lien est théologique ; seul δοξάζω/δόξα forme une famille dans l’Évangile."},
+        "term_details":{"gospel":[{"forms":["δοξάζων","δόξαν"],"lemma":"δοξάζω / δόξα","root":"δοξ- : gloire, glorifier","literal":"glorifiant / gloire","role":"Le retour du Samaritain devient louange adressée à Dieu."}],"apostle":[{"forms":["κλήρου","ἁγίων","φωτί"],"lemma":"κλῆρος / ἅγιος / φῶς","root":"héritage / saint / lumière","literal":"héritage des saints dans la lumière","role":"Le Père qualifie les croyants pour une appartenance nouvelle."}]},
+        "gospel":{"verses":["15","18"],"terms":["δοξάζων","δόξαν"]},"apostle":{"verses":["12"],"terms":["κλήρου","ἁγίων","φωτί"]}
+      },
+      {
+        "directness":"indirect","kind":"thematic","link_type":"cleansed_and_delivered","title":"Purifiés en chemin — délivrés du pouvoir des ténèbres",
+        "explanation":"Les lépreux sont purifiés, et la foi du Samaritain le sauve. Paul déploie cette délivrance : le Père nous arrache à l’autorité des ténèbres, nous transfère dans le Royaume du Fils et nous donne la rédemption.",
+        "bridge_sentence":"La purification visible du corps devient signe du passage entier de l’homme vers le Royaume du Fils.",
+        "homiletic_use":"Ne pas associer la maladie à une culpabilité personnelle ; parler de la guérison comme signe de la délivrance et de la réintégration offertes par Dieu.",
+        "bridge":{"evidence":"Progression salvifique : ἐκαθαρίσθησαν, σέσωκεν / ἐρρύσατο, μετέστησεν, ἀπολύτρωσιν","gospel":"ἐκαθαρίσθησαν… ἡ πίστις σου σέσωκέν σε : ils furent purifiés… ta foi t’a sauvé","relation":"La guérison et le salut du Samaritain rendent visible le transfert hors d’un pouvoir d’exclusion","apostle":"ἐρρύσατο… μετέστησεν… ἀπολύτρωσιν : il nous a délivrés… transférés… la rédemption","detail":"Les verbes sont différents ; leur convergence décrit un passage de captivité à restauration."},
+        "term_details":{"gospel":[{"forms":["ἐκαθαρίσθησαν","σέσωκέν"],"lemma":"καθαρίζω / σῴζω","root":"purifier / sauver","literal":"furent purifiés / a sauvé","role":"La guérison s’accomplit dans une parole de salut adressée au Samaritain."}],"apostle":[{"forms":["ἐρρύσατο","μετέστησεν","ἀπολύτρωσιν"],"lemma":"ῥύομαι / μεθίστημι / ἀπολύτρωσις","root":"délivrer / transférer / racheter","literal":"délivra / transféra / rédemption","role":"Paul décrit le salut comme changement de domination et d’appartenance."}]},
+        "gospel":{"verses":["14","17","19"],"terms":["ἐκαθαρίσθησαν","σέσωκέν"]},"apostle":{"verses":["13","14"],"terms":["ἐρρύσατο","μετέστησεν","ἀπολύτρωσιν"]}
+      }
+    ]
   }
 }

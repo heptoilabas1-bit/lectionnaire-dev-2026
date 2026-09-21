@@ -1244,5 +1244,38 @@
       }
     ],
     "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title":"Le Fils élevé, la Croix et la création nouvelle",
+    "summary":"Jean révèle dans l’élévation du Fils l’amour qui sauve le monde ; Paul reconnaît cette élévation dans la Croix du Christ, qui crucifie l’ancien monde et fait surgir une création nouvelle.",
+    "links":[
+      {
+        "directness":"indirect","kind":"thematic","link_type":"lifted_and_cross","title":"Le Fils doit être élevé — se glorifier dans la Croix",
+        "explanation":"Jean emploie ὑψωθῆναι pour l’élévation du Fils de l’homme ; Paul ne se glorifie qu’en τῷ σταυρῷ du Christ. Les mots diffèrent, mais la tradition johannique nomme par l’élévation ce que l’épître contemple comme Croix.",
+        "bridge_sentence":"La Croix est l’élévation paradoxale où le Fils donné révèle l’amour de Dieu.",
+        "homiletic_use":"Signaler explicitement que le lien est théologique, non une identité de vocabulaire ; la Croix éclaire le double sens johannique d’élévation.",
+        "bridge":{"evidence":"Correspondance théologique entre ὑψόω et σταυρός","gospel":"ὑψωθῆναι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου : il faut que le Fils de l’homme soit élevé","relation":"L’élévation salvifique du Fils s’accomplit dans la Croix","apostle":"καυχᾶσθαι… ἐν τῷ σταυρῷ : me glorifier… dans la Croix","detail":"Aucune racine commune n’est affirmée : ὑψόω signifie élever, σταυρός désigne la croix."},
+        "term_details":{"gospel":[{"forms":["ὕψωσεν","ὑψωθῆναι"],"lemma":"ὑψόω","root":"ὑψ- : hauteur, élever","literal":"éleva / être élevé","role":"Le signe du serpent annonce l’élévation salvifique du Fils."}],"apostle":[{"forms":["σταυρῷ"],"lemma":"σταυρός","root":"σταυρ- : croix","literal":"dans la Croix","role":"Paul place toute sa fierté dans la Croix du Seigneur."}]},
+        "gospel":{"verses":["14"],"terms":["ὕψωσεν","ὑψωθῆναι"]},"apostle":{"verses":["12","14"],"terms":["σταυρῷ"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"world_saved_and_crucified","title":"Dieu aime le monde — le monde est crucifié pour Paul",
+        "explanation":"Le κόσμος aimé et sauvé par Dieu est le même mot que le κόσμος crucifié pour Paul. La différence n’est pas contradiction : Dieu sauve sa création en brisant la domination du monde organisé contre lui.",
+        "bridge_sentence":"L’amour de Dieu ne consacre pas l’ordre ancien du monde ; par la Croix, il le délivre de ce qui le tient captif.",
+        "homiletic_use":"Expliquer les deux emplois de κόσμος : création aimée et humanité à sauver chez Jean, système de valeurs devenu impuissant par la Croix chez Paul.",
+        "bridge":{"evidence":"Même nom κόσμος : κόσμον / κόσμος, κόσμῳ","gospel":"ἠγάπησεν ὁ θεὸς τὸν κόσμον… ἵνα σωθῇ ὁ κόσμος : Dieu a aimé le monde… afin que le monde soit sauvé","relation":"Le salut du monde passe par le jugement de sa logique ancienne dans la Croix","apostle":"ἐμοὶ κόσμος ἐσταύρωται κἀγὼ κόσμῳ : le monde est crucifié pour moi et moi pour le monde","detail":"Le mot est identique, mais sa nuance dépend du contexte de chaque auteur."},
+        "term_details":{"gospel":[{"forms":["κόσμον","κόσμος"],"lemma":"κόσμος","root":"κοσμ- : monde, ordre créé","literal":"le monde","role":"Il est l’objet de l’amour et du dessein salvifique de Dieu."}],"apostle":[{"forms":["κόσμος","κόσμῳ"],"lemma":"κόσμος","root":"κοσμ- : monde","literal":"le monde / pour le monde","role":"La Croix rompt l’emprise réciproque entre Paul et l’ordre ancien."}]},
+        "gospel":{"verses":["16","17"],"terms":["κόσμον","κόσμος"]},"apostle":{"verses":["14"],"terms":["κόσμος","κόσμῳ"]}
+      },
+      {
+        "directness":"indirect","kind":"thematic","link_type":"eternal_life_new_creation","title":"La vie éternelle — une création nouvelle",
+        "explanation":"Jean promet ζωὴ αἰώνιος à celui qui croit ; Paul résume l’œuvre de la Croix par καινὴ κτίσις. La vie éternelle n’est donc pas seulement durée sans fin, mais naissance d’une création renouvelée dès maintenant.",
+        "bridge_sentence":"Croire au Fils élevé, c’est entrer dans la vie du monde nouveau que sa Croix inaugure.",
+        "homiletic_use":"Éviter de confondre les expressions : Jean parle de vie éternelle, Paul de création nouvelle ; le rapprochement éclaire leur horizon commun.",
+        "bridge":{"evidence":"Correspondance de nouveauté eschatologique : ζωὴ αἰώνιος / καινὴ κτίσις","gospel":"ἔχῃ ζωὴν αἰώνιον : qu’il ait la vie éternelle","relation":"Le salut donne une qualité de vie appartenant déjà à la création renouvelée","apostle":"ἀλλὰ καινὴ κτίσις : mais une création nouvelle","detail":"Le lien est conceptuel et ne prétend pas à une parenté lexicale."},
+        "term_details":{"gospel":[{"forms":["ζωὴν","αἰώνιον"],"lemma":"ζωή / αἰώνιος","root":"vie / appartenant au siècle","literal":"vie éternelle","role":"Le croyant reçoit la vie par le Fils élevé."}],"apostle":[{"forms":["καινὴ","κτίσις"],"lemma":"καινός / κτίσις","root":"nouveau / création","literal":"création nouvelle","role":"Elle seule compte au-delà des marques identitaires de la chair."}]},
+        "gospel":{"verses":["15","16"],"terms":["ζωὴν","αἰώνιον"]},"apostle":{"verses":["15"],"terms":["καινὴ","κτίσις"]}
+      }
+    ]
   }
 }

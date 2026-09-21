@@ -1506,5 +1506,189 @@
         "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
       }
     ]
+  },
+  "reading_connections": {
+    "title": "Quitter le vieil homme pour entrer au festin",
+    "summary": "Le maître appelle largement, mais les premiers invités se dérobent derrière leurs possessions et leurs occupations. Paul appelle à déposer le vieil homme et à revêtir le nouveau, là où les anciennes séparations s’effacent parce que le Christ est tout et en tous.",
+    "links": [
+      {
+        "directness": "direct",
+        "kind": "same_word",
+        "link_type": "all_invited_all_in_christ",
+        "title": "Tous refusent — le Christ est tout et en tous",
+        "explanation": "Luc écrit πάντες pour l’unanimité du refus initial ; Paul emploie τὰ πάντα καὶ ἐν πᾶσιν pour la totalité récapitulée dans le Christ. La famille de πᾶς oppose un “tous” fermé par l’excuse à un “tout” ouvert dans le Christ.",
+        "bridge_sentence": "Lorsque tous les premiers invités se ferment, le Christ ouvre la totalité à ceux que les frontières tenaient dehors.",
+        "homiletic_use": "Ne pas identifier les premiers invités à un peuple condamné : la parabole met chacun devant sa propre capacité à transformer un bien légitime en refus de l’appel.",
+        "bridge": {
+          "evidence": "Même famille πᾶς : πάντες / πάντα / πᾶσιν",
+          "gospel": "ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι : tous, unanimement, commencèrent à s’excuser",
+          "relation": "La totalité du refus humain est dépassée par la totalité inclusive du Christ",
+          "apostle": "τὰ πάντα καὶ ἐν πᾶσιν Χριστός : le Christ est tout et en tous",
+          "detail": "Les formes appartiennent au même adjectif πᾶς, décliné selon leur fonction."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "πάντες"
+              ],
+              "lemma": "πᾶς",
+              "root": "παντ- : tout, totalité",
+              "literal": "tous",
+              "role": "Le refus prend une forme collective et apparemment unanime."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "πάντα",
+                "πᾶσιν"
+              ],
+              "lemma": "πᾶς",
+              "root": "παντ- : tout, totalité",
+              "literal": "tout / en tous",
+              "role": "Le Christ traverse les catégories qui séparaient les êtres humains."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "18"
+          ],
+          "terms": [
+            "πάντες"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "8",
+            "11"
+          ],
+          "terms": [
+            "πάντα",
+            "πᾶσιν"
+          ]
+        }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_word",
+        "link_type": "servant_and_freedom",
+        "title": "Le serviteur envoyé — ni esclave ni homme libre",
+        "explanation": "Le δοῦλος du maître porte l’invitation dans les rues ; Paul affirme qu’en Christ la distinction δοῦλος, ἐλεύθερος ne définit plus l’appartenance. Le serviteur de la parabole devient ainsi l’instrument par lequel la maison s’ouvre à tous.",
+        "bridge_sentence": "Dans la maison remplie par l’appel, ni la servitude ni le statut social ne déterminent la place : le Christ est en tous.",
+        "homiletic_use": "Conserver le sens narratif du serviteur tout en montrant comment l’épître désamorce l’usage social de la catégorie esclave/libre.",
+        "bridge": {
+          "evidence": "Même nom δοῦλος : δοῦλον / δοῦλος",
+          "gospel": "ἀπέστειλεν τὸν δοῦλον αὐτοῦ : il envoya son serviteur",
+          "relation": "Le service de l’appel prépare une communauté où le statut ne sépare plus",
+          "apostle": "δοῦλος, ἐλεύθερος… ἐν πᾶσιν Χριστός : esclave, homme libre… le Christ en tous",
+          "detail": "Les cas grammaticaux diffèrent, mais le substantif est identique."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "δοῦλον",
+                "δοῦλος",
+                "δούλῳ"
+              ],
+              "lemma": "δοῦλος",
+              "root": "δουλ- : serviteur, esclave",
+              "literal": "serviteur",
+              "role": "Il transmet fidèlement l’appel et conduit ceux qui étaient exclus vers la maison."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "δοῦλος"
+              ],
+              "lemma": "δοῦλος",
+              "root": "δουλ- : esclave, serviteur",
+              "literal": "esclave",
+              "role": "Le statut social cesse d’être un principe de séparation dans le Christ."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "17",
+            "21",
+            "22",
+            "23"
+          ],
+          "terms": [
+            "δοῦλον",
+            "δοῦλος",
+            "δούλῳ"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "11"
+          ],
+          "terms": [
+            "δοῦλος"
+          ]
+        }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_root",
+        "link_type": "come_to_new_life",
+        "title": "Venez, tout est prêt — quand le Christ paraîtra",
+        "explanation": "L’invitation dit Ἔρχεσθε ; Paul annonce ὅταν ὁ Χριστὸς φανερωθῇ et rappelle que la colère ἔρχεται sur l’ancien mode de vie. La famille ἐρχ- place l’existence entre deux venues : l’appel présent et la manifestation du Christ notre vie.",
+        "bridge_sentence": "Venir au festin, c’est déjà orienter sa vie vers la manifestation du Christ qui est notre vie.",
+        "homiletic_use": "Faire entendre le présent de l’appel : les excuses ne sont pas mauvaises par leur objet — champ, travail, mariage — mais parce qu’elles rendent indisponible à Celui qui vient.",
+        "bridge": {
+          "evidence": "Famille ἐρχ- : Ἔρχεσθε / ἔρχεται",
+          "gospel": "Ἔρχεσθε, ὅτι ἤδη ἕτοιμά ἐστιν : venez, car désormais tout est prêt",
+          "relation": "La venue demandée aux invités répond à la venue et à la manifestation du Christ",
+          "apostle": "ἔρχεται ἡ ὀργὴ τοῦ θεοῦ… ὁ Χριστὸς φανερωθῇ : vient la colère de Dieu… lorsque le Christ paraîtra",
+          "detail": "Le lien lexical porte sur ἔρχομαι ; φανερόω ajoute le thème distinct de la manifestation."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "Ἔρχεσθε"
+              ],
+              "lemma": "ἔρχομαι",
+              "root": "ἐρχ- : venir, aller",
+              "literal": "venez",
+              "role": "Le festin est prêt ; il reste aux invités à répondre par leur venue."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "ἔρχεται"
+              ],
+              "lemma": "ἔρχομαι",
+              "root": "ἐρχ- : venir",
+              "literal": "vient",
+              "role": "Paul rappelle que la conduite présente est orientée vers l’intervention de Dieu."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "17"
+          ],
+          "terms": [
+            "Ἔρχεσθε"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "6"
+          ],
+          "terms": [
+            "ἔρχεται"
+          ]
+        }
+      }
+    ]
   }
 }

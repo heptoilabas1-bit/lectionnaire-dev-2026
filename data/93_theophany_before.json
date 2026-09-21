@@ -1117,5 +1117,38 @@
         "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
       }
     ]
+  },
+  "reading_connections": {
+    "title":"Préparer le chemin et achever la course",
+    "summary":"Jean ouvre l’Évangile en préparant la venue du Christ ; Paul, au terme de sa course, confie à Timothée la même œuvre d’évangélisation et l’attente de la manifestation du Seigneur.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_root","link_type":"gospel_and_evangelist","title":"Le commencement de l’Évangile — fais œuvre d’évangéliste",
+        "explanation":"Marc annonce l’ἀρχὴ τοῦ εὐαγγελίου ; Paul demande à Timothée de faire l’œuvre d’un εὐαγγελιστής. Le message proclamé et le ministère qui le transmet partagent la même famille εὐαγγελ-.",
+        "bridge_sentence":"L’Évangile qui commence avec la venue du Christ continue par le service de ceux qui l’annoncent.",
+        "homiletic_use":"Montrer que l’évangéliste n’est pas propriétaire d’un message : il sert l’Évangile de Jésus Christ déjà reçu.",
+        "bridge":{"evidence":"Même famille εὐαγγελ- : εὐαγγελίου / εὐαγγελιστοῦ","gospel":"Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ : commencement de l’Évangile de Jésus Christ","relation":"Le contenu proclamé fonde et règle le ministère qui le transmet","apostle":"ἔργον ποίησον εὐαγγελιστοῦ : fais œuvre d’évangéliste","detail":"εὐαγγελιστής désigne celui qui annonce l’εὐαγγέλιον."},
+        "term_details":{"gospel":[{"forms":["εὐαγγελίου"],"lemma":"εὐαγγέλιον","root":"εὐαγγελ- : bonne nouvelle","literal":"de l’Évangile","role":"Marc nomme d’emblée la Bonne Nouvelle dont Jésus Christ est le centre."}],"apostle":[{"forms":["εὐαγγελιστοῦ"],"lemma":"εὐαγγελιστής","root":"εὐαγγελ- : annoncer la bonne nouvelle","literal":"d’évangéliste","role":"Timothée reçoit la charge de servir et transmettre cette Bonne Nouvelle."}]},
+        "gospel":{"verses":["1"],"terms":["εὐαγγελίου"]},"apostle":{"verses":["5"],"terms":["εὐαγγελιστοῦ"]}
+      },
+      {
+        "directness":"indirect","kind":"thematic","link_type":"way_and_course","title":"Préparez le chemin — j’ai achevé la course",
+        "explanation":"Jean appelle à préparer l’ὁδός du Seigneur ; Paul affirme avoir achevé le δρόμος. Deux mots différents décrivent une même existence orientée : rendre droite la voie pour le Seigneur, puis garder la foi jusqu’au terme.",
+        "bridge_sentence":"La voie préparée pour le Seigneur devient, chez le disciple, une course menée fidèlement jusqu’au bout.",
+        "homiletic_use":"Respecter la différence lexicale : ὁδός est le chemin préparé, δρόμος la course accomplie ; leur relation est symbolique et narrative.",
+        "bridge":{"evidence":"Deux termes de déplacement, distincts mais complémentaires : ὁδός / δρόμος","gospel":"Ἑτοιμάσατε τὴν ὁδὸν κυρίου : préparez le chemin du Seigneur","relation":"L’accueil du Seigneur inaugure un parcours de fidélité","apostle":"τὸν δρόμον τετέλεκα : j’ai achevé la course","detail":"Le lien est thématique, non étymologique."},
+        "term_details":{"gospel":[{"forms":["ὁδόν"],"lemma":"ὁδός","root":"chemin, voie","literal":"le chemin","role":"La conversion prépare un passage droit à la venue du Seigneur."}],"apostle":[{"forms":["δρόμον"],"lemma":"δρόμος","root":"course, parcours","literal":"la course","role":"Paul relit son ministère comme un parcours désormais accompli."}]},
+        "gospel":{"verses":["2","3"],"terms":["ὁδόν"]},"apostle":{"verses":["7"],"terms":["δρόμον"]}
+      },
+      {
+        "directness":"indirect","kind":"thematic","link_type":"coming_and_appearing","title":"Il vient après moi — aimer sa manifestation",
+        "explanation":"Jean proclame Ἔρχεται, « il vient », tandis que Paul parle de ceux qui aiment l’ἐπιφάνεια du Seigneur. L’Avent immédiat du plus fort et l’attente de sa manifestation encadrent toute la vie croyante.",
+        "bridge_sentence":"Celui que Jean annonce comme venant est le Seigneur dont les fidèles aiment et attendent la manifestation.",
+        "homiletic_use":"Relier la préparation à la Théophanie et l’espérance finale sans confondre les deux moments liturgiques.",
+        "bridge":{"evidence":"Correspondance de venue : Ἔρχεται / ἐπιφάνειαν","gospel":"Ἔρχεται ὁ ἰσχυρότερός μου : il vient, celui qui est plus fort que moi","relation":"La première manifestation du Christ éveille l’attente de son plein dévoilement","apostle":"τοῖς ἠγαπηκόσι τὴν ἐπιφάνειαν αὐτοῦ : à ceux qui ont aimé sa manifestation","detail":"Les lexèmes diffèrent ; le rapprochement porte sur la venue et l’apparition du Seigneur."},
+        "term_details":{"gospel":[{"forms":["Ἔρχεται"],"lemma":"ἔρχομαι","root":"ἐρχ- : venir","literal":"il vient","role":"Jean décentre l’attention de lui-même vers le Christ plus fort."}],"apostle":[{"forms":["ἐπιφάνειαν"],"lemma":"ἐπιφάνεια","root":"φαν- : apparaître, manifester","literal":"manifestation","role":"La couronne est promise à ceux qui aiment la venue manifeste du Seigneur."}]},
+        "gospel":{"verses":["7"],"terms":["Ἔρχεται"]},"apostle":{"verses":["8"],"terms":["ἐπιφάνειαν"]}
+      }
+    ]
   }
 }
