@@ -666,7 +666,7 @@
             "annotation": {
               "type": "analyse",
               "title": "Pierre marche sur les eaux",
-              "content": "Approfondissement spirituel : Tant que le regard de Pierre est captivé par l'Axe vertical (le Christ), il participe à la *dynamis* (l'Énergie) divine. Il devient lui-même un Sujet capable de transgresser les lois de la pesanteur mortelle. L'homme unifié à Dieu ne coule pas.",
+              "content": "Pierre ne maîtrise pas la mer : il avance en réponse à l’appel du Christ. La scène ne promet pas au croyant une invulnérabilité ; elle montre que la foi est un mouvement de confiance, orienté vers Jésus et soutenu par lui jusque dans la défaillance.",
               "related": [
                 "ἐπὶ",
                 "τὰ",
@@ -685,7 +685,13 @@
           },
           {
             "greek": "πρὸς",
-            "gloss": "vers"
+            "gloss": "vers",
+            "annotation": {
+              "type": "traduction",
+              "title": "Vers Jésus — πρὸς τὸν Ἰησοῦν",
+              "content": "Πρός suivi de l’accusatif exprime ici la direction : Pierre vient « vers Jésus ». Le texte de Matthieu ne dit pas εἰς Χριστόν ; son mouvement concret permet néanmoins une lecture spirituelle de toute la vie chrétienne comme orientation vers le Christ.",
+              "related": ["Ἐλθέ.", "ἦλθεν", "Ἰησοῦν.", "θεμέλιον"]
+            }
           },
           {
             "greek": "τὸν",
@@ -706,7 +712,13 @@
         "interlinear": [
           {
             "greek": "βλέπων",
-            "gloss": "Voyant"
+            "gloss": "Voyant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Du vent regardé à la peur éprouvée",
+              "content": "Le récit enchaîne βλέπων, « regardant », et ἐφοβήθη, « il eut peur ». La tempête extérieure devient une tempête intérieure lorsque le danger occupe tout le regard. Il ne s’agit pas de nier le vent, mais de ne pas lui abandonner l’orientation profonde de la personne.",
+              "related": ["ἄνεμον", "ἐφοβήθη,", "βλεπέτω", "σῶσόν"]
+            }
           },
           {
             "greek": "δὲ",
@@ -738,7 +750,7 @@
             "annotation": {
               "type": "racine",
               "title": "Commencer à s’enfoncer",
-              "content": "Approfondissement spirituel : Le basculement tragique. Pierre détourne son regard de la Présence incréée pour analyser son environnement (le vent). L'Ego reprend le contrôle : il calcule le danger, se sépare de la Grâce, et instantanément la gravité du Monde duel le rattrape. La peur (*phobos*) le fait couler.",
+              "content": "Καταποντίζεσθαι décrit l’enfoncement de Pierre. Le texte ne condamne pas l’attention au réel : il met en scène un regard désormais dominé par la menace. La peur n’a pourtant pas le dernier mot, puisqu’elle devient immédiatement un cri adressé au Seigneur.",
               "related": [
                 "καὶ",
                 "ἀρξάμενος",
@@ -802,7 +814,13 @@
           },
           {
             "greek": "χεῖρα",
-            "gloss": "main"
+            "gloss": "main",
+            "annotation": {
+              "type": "theologie",
+              "title": "La main qui arrache à l’abîme",
+              "content": "Avant tout reproche, Jésus étend la main et saisit Pierre. Ce geste peut être rapproché de l’icône orthodoxe de la Descente aux enfers, où le Christ relève Adam : le salut n’est pas l’exploit de celui qui ne tombe jamais, mais l’action du Christ qui rejoint et relève.",
+              "related": ["ἐκτείνας", "ἐπελάβετο", "σῶσόν", "ἀναβάντων"]
+            }
           },
           {
             "greek": "ἐπελάβετο",
@@ -1005,7 +1023,7 @@
     "homiletic_axes": [
       {
         "title": "Dans la tempête, une présence qui vient",
-        "content": "La barque est tourmentée par le vent contraire ; Jésus rejoint les disciples en marchant sur la mer et leur dit de ne pas craindre.",
+        "content": "La barque est tourmentée par le vent contraire ; la tempête extérieure rejoint les peurs intérieures des disciples. Jésus vient pourtant à eux au cœur de la nuit et leur dit de ne pas craindre.",
         "keywords": [
           "πλοῖον",
           "βασανιζόμενον",
@@ -1014,13 +1032,13 @@
         ]
       },
       {
-        "title": "Sortir, marcher, s’enfoncer, être saisi",
-        "content": "Pierre ose venir sur la parole de Jésus, puis s’enfonce et crie. La main du Christ le saisit avant toute explication.",
+        "title": "Venir vers Jésus, s’enfoncer, être saisi",
+        "content": "Pierre marche πρὸς τὸν Ἰησοῦν, « vers Jésus ». Quand la peur l’envahit, son cri demeure encore orienté vers le Seigneur, dont la main le saisit avant toute explication.",
         "keywords": [
           "Ἐλθέ.",
-          "ὕδατα",
-          "καταποντίζεσθαι",
-          "ἐπελάβετο"
+          "πρὸς",
+          "σῶσόν",
+          "χεῖρα"
         ]
       },
       {
@@ -1087,6 +1105,18 @@
         "title": "De la mer instable au fondement qui demeure",
         "reference": "Matthieu 14, 22-34 ; 1 Corinthiens 3, 9-17",
         "content": "Pierre ne tient pas par sa propre maîtrise de la mer, et l’Église ne tient pas par ses propres constructeurs. Le Christ saisit celui qui s’enfonce et demeure l’unique fondement de l’édifice habité par l’Esprit.",
+        "connections": []
+      },
+      {
+        "title": "La main du Christ et la Descente aux enfers",
+        "reference": "Matthieu 14, 31 ; icône de l’Anastasis",
+        "content": "La main tendue à Pierre fait écho au Christ qui saisit Adam pour l’arracher au séjour des morts. Dans les deux images, le salut commence par l’initiative du Christ : il descend vers celui qui s’enfonce et le relève.",
+        "connections": []
+      },
+      {
+        "title": "La liturgie, stabilité au milieu de la tourmente",
+        "reference": "Matthieu 14, 22-34 ; 1 Corinthiens 3, 16",
+        "content": "La liturgie ne supprime pas magiquement les tempêtes, mais elle rassemble les personnes dispersées autour du Christ et les révèle comme sanctuaire habité par l’Esprit. La prière personnelle et la prière ecclésiale s’y appellent mutuellement.",
         "connections": []
       }
     ]
@@ -1861,7 +1891,14 @@
         "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
       }
     ],
-    "liturgical_echoes": []
+    "liturgical_echoes": [
+      {
+        "title": "Recevoir le Corps, devenir corps ecclésial",
+        "reference": "1 Corinthiens 3, 16 ; liturgie eucharistique",
+        "content": "Dans le prolongement liturgique du texte, l’Eucharistie ne transforme pas seulement les dons offerts : elle transforme ceux qui communient et les rassemble en Église. Le pluriel de Paul — « vous êtes le sanctuaire de Dieu » — interdit de réduire cette demeure à une expérience seulement individuelle.",
+        "connections": []
+      }
+    ]
   },
   "reading_connections": {
     "title": "Du regard vacillant au fondement qui demeure",
@@ -1896,6 +1933,16 @@
         "bridge":{"evidence":"Identité théologique explicite de la direction et du fondement : Jésus","gospel":"ἐλθεῖν πρὸς σὲ… ἦλθεν πρὸς τὸν Ἰησοῦν : venir vers toi… il vint vers Jésus","relation":"Le Christ est à la fois le terme de la marche et le fondement de l’édifice","apostle":"θεμέλιον… ὅς ἐστιν Ἰησοῦς Χριστός : le fondement est Jésus Christ","detail":"Le lien n’est pas fondé sur une racine commune, mais sur la même personne qui rend possibles l’avancée et la construction."},
         "term_details":{"gospel":[{"forms":["πρὸς","Ἰησοῦν"],"lemma":"πρός / Ἰησοῦς","root":"préposition de direction / nom propre","literal":"vers Jésus","role":"La marche de Pierre reçoit du Christ sa direction et son sens."}],"apostle":[{"forms":["θεμέλιον","Ἰησοῦς","Χριστός"],"lemma":"θεμέλιος / Ἰησοῦς Χριστός","root":"θεμελι- : fondement","literal":"fondement / Jésus Christ","role":"Toute construction ecclésiale repose sur le Christ déjà posé."}]},
         "gospel":{"verses":["28","29"],"terms":["πρὸς","Ἰησοῦν"]}, "apostle":{"verses":["11"],"terms":["θεμέλιον","Ἰησοῦς","Χριστός"]}
+      },
+      {
+        "directness":"indirect", "kind":"theology", "link_type":"church",
+        "title":"Saisi par le Christ, rendu à la communion",
+        "explanation":"Jésus étend la main et saisit Pierre avant de remonter avec lui dans la barque ; Paul s’adresse au pluriel à la communauté : « vous êtes le sanctuaire de Dieu ». Le salut personnel ne se referme pas sur l’individu, il le rend à la communion ecclésiale.",
+        "bridge_sentence":"La main qui relève Pierre le ramène dans la barque ; l’Esprit fait de la communauté une demeure.",
+        "homiletic_use":"Relier sans les confondre le secours personnel et la vie de l’Église : le Christ rejoint chacun, mais le relève au sein d’un peuple habité par l’Esprit.",
+        "bridge":{"evidence":"Correspondance théologique et narrative, sans racine grecque commune","gospel":"ἐκτείνας τὴν χεῖρα ἐπελάβετο αὐτοῦ… ἀναβάντων αὐτῶν εἰς τὸ πλοῖον : étendant la main, il le saisit… ils remontèrent dans la barque","relation":"Du secours accordé à Pierre à la communion restaurée","apostle":"ναὸς θεοῦ ἐστε… τὸ πνεῦμα τοῦ θεοῦ οἰκεῖ ἐν ὑμῖν : vous êtes le sanctuaire de Dieu… l’Esprit de Dieu habite en vous","detail":"Matthieu conduit Pierre saisi par le Christ jusqu’à la barque et à la confession commune ; Paul révèle la communauté comme demeure de l’Esprit."},
+        "term_details":{"gospel":[{"forms":["χεῖρα","ἐπελάβετο","πλοῖον"],"lemma":"χείρ / ἐπιλαμβάνομαι / πλοῖον","root":"geste de secours et retour à la barque","literal":"main / il saisit / barque","role":"Le Christ relève Pierre et remonte avec lui parmi les disciples."}],"apostle":[{"forms":["ναὸς","ἐστε","πνεῦμα","ὑμῖν"],"lemma":"ναός / εἰμί / πνεῦμα / σύ","root":"sanctuaire, être, Esprit, vous","literal":"sanctuaire / vous êtes / Esprit / en vous","role":"Le pluriel désigne la communauté entière comme demeure de l’Esprit."}]},
+        "gospel":{"verses":["31","32"],"terms":["χεῖρα","ἐπελάβετο","πλοῖον"]}, "apostle":{"verses":["16"],"terms":["ναὸς","ἐστε","πνεῦμα","ὑμῖν"]}
       }
     ]
   }
