@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260921-cross-enrichment-2';
+    const DATA_VERSION = '20260923-cross-movement-compare-1';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -703,6 +703,7 @@ document.addEventListener('DOMContentLoaded', () => {
         same_root: 'Même racine',
         notion: 'Notion commune',
         structure: 'Structure',
+        movement: 'Mouvement composé',
         theology: 'Lien théologique'
     };
 
@@ -719,6 +720,7 @@ document.addEventListener('DOMContentLoaded', () => {
         embodied_service: 'Soin concret',
         witness: 'Témoignage transmis',
         discipleship_path: 'Même chemin de fidélité',
+        discipleship_sequence: 'Progression de l’appel et de la réponse',
         shared_root: 'Racine grecque commune',
         shared_lemma: 'Même lemme grec',
         shared_word: 'Mot grec commun',
@@ -729,7 +731,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const connectionGreekBasisLabels = {
         same_form: 'Même forme grecque',
         same_lemma: 'Même lemme grec',
-        same_root: 'Racine grecque commune'
+        same_root: 'Racine grecque commune',
+        movement: 'Correspondance de structure, sans racine commune'
     };
 
     const buildComparisonHomilyMaterial = connection => {
@@ -858,6 +861,16 @@ document.addEventListener('DOMContentLoaded', () => {
                     const matchingIndexes = fullConnections
                         ? fullConnections.map((item, index) => connectionMatchesToken(item, side, token) ? index : -1).filter(index => index >= 0)
                         : (connectionMatchesToken(connection, side, token) ? [options.connectionIndex ?? 0] : []);
+                    const movement = word.movement;
+                    const movementIsCompared = movement && (fullConnections
+                        ? matchingIndexes.some(index => fullConnections[index]?.link_type === 'discipleship_sequence')
+                        : connection?.link_type === 'discipleship_sequence');
+                    if (movementIsCompared) {
+                        greek.classList.add('mot-movement', 'comparison-movement-term');
+                        greek.dataset.movementGroup = movement.id || '';
+                        greek.dataset.movementStep = String(movement.step || '');
+                        greek.dataset.movementTotal = String(movement.total || '');
+                    }
                     if (matchingIndexes.length) {
                         const primaryConnection = fullConnections ? fullConnections[matchingIndexes[0]] : connection;
                         greek.classList.add('connection-highlight', 'comparison-term', `connection-${primaryConnection.kind || 'theology'}`);
@@ -988,6 +1001,49 @@ document.addEventListener('DOMContentLoaded', () => {
             detail.className = 'comparison-bridge-detail';
             detail.textContent = bridgeData.detail;
             bridge.appendChild(detail);
+        }
+        if (Array.isArray(connection.movement_map) && connection.movement_map.length) {
+            const movement = document.createElement('section');
+            movement.className = 'comparison-movement-map';
+            const movementTitle = document.createElement('h4');
+            movementTitle.textContent = connection.movement_title || 'Le mouvement des deux lectures';
+            const movementList = document.createElement('ol');
+            connection.movement_map.forEach((step, stepIndex) => {
+                const item = document.createElement('li');
+                const number = document.createElement('span');
+                number.className = 'comparison-movement-number';
+                number.textContent = String(stepIndex + 1);
+
+                const gospel = document.createElement('div');
+                gospel.className = 'comparison-movement-side comparison-movement-gospel';
+                const gospelGreek = document.createElement('strong');
+                gospelGreek.textContent = step.gospel?.greek || '';
+                const gospelSense = document.createElement('span');
+                gospelSense.textContent = step.gospel?.sense || '';
+                gospel.append(gospelGreek, gospelSense);
+
+                const relation = document.createElement('div');
+                relation.className = 'comparison-movement-relation';
+                const arrow = document.createElement('span');
+                arrow.setAttribute('aria-hidden', 'true');
+                arrow.textContent = '→';
+                const relationText = document.createElement('small');
+                relationText.textContent = step.relation || '';
+                relation.append(arrow, relationText);
+
+                const apostle = document.createElement('div');
+                apostle.className = 'comparison-movement-side comparison-movement-apostle';
+                const apostleGreek = document.createElement('strong');
+                apostleGreek.textContent = step.apostle?.greek || '';
+                const apostleSense = document.createElement('span');
+                apostleSense.textContent = step.apostle?.sense || '';
+                apostle.append(apostleGreek, apostleSense);
+
+                item.append(number, gospel, relation, apostle);
+                movementList.appendChild(item);
+            });
+            movement.append(movementTitle, movementList);
+            bridge.appendChild(movement);
         }
         if (connection.bridge_sentence) {
             const sentence = document.createElement('blockquote');

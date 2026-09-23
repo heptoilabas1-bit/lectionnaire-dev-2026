@@ -1453,6 +1453,36 @@
         "bridge":{"evidence":"Correspondance thématique entre ψυχή à perdre/sauver et ζῶ orienté par le Christ","gospel":"ἀπολέσει τὴν ψυχὴν… σώσει αὐτήν : perdra sa vie… la sauvera","relation":"Le paradoxe de perdre pour sauver devient une existence dont le Christ est le centre vivant","apostle":"ζῶ δὲ οὐκέτι ἐγώ, ζῇ δὲ ἐν ἐμοὶ Χριστός : ce n’est plus moi qui vis, le Christ vit en moi","detail":"ψυχή et ζάω ne partagent pas de racine ; le lien est explicitement thématique."},
         "term_details":{"gospel":[{"forms":["ψυχὴν","ἀπολέσει","σώσει"],"lemma":"ψυχή / ἀπόλλυμι / σῴζω","root":"vie-personne / perdre / sauver","literal":"vie / perdra / sauvera","role":"Jésus renverse la logique de conservation de soi."}],"apostle":[{"forms":["ζῶ","ζῇ"],"lemma":"ζάω","root":"ζη-/ζω- : vivre","literal":"je vis / il vit","role":"Paul reçoit sa vie présente de la présence du Christ en lui."}]},
         "gospel":{"verses":["35"],"terms":["ψυχὴν","ἀπολέσει","σώσει"]},"apostle":{"verses":["19","20"],"terms":["ζήσω","ζῶ","ζῇ"]}
+      },
+      {
+        "directness":"indirect","kind":"movement","link_type":"discipleship_sequence","title":"Venir, renoncer, prendre, suivre — croire, se décentrer, être crucifié, vivre du Christ",
+        "explanation":"Marc déploie en quatre verbes le chemin du disciple. Paul n’en donne pas une traduction mot à mot, mais il en manifeste l’accomplissement intérieur : croire au Christ, ne plus vivre centré sur le moi, être crucifié avec lui et recevoir sa vie.",
+        "bridge_sentence":"Le chemin demandé par Jésus devient chez Paul une existence reçue : venir au Christ, quitter l’autosuffisance, participer à sa Croix et vivre de sa présence.",
+        "homiletic_use":"Faire entendre une progression et non quatre exigences séparées. Préciser que les correspondances avec Paul sont structurelles et théologiques, sans prétendre à une identité de racines grecques.",
+        "bridge":{"evidence":"Deux progressions complémentaires, sans racine grecque commune entre leurs quatre étapes","gospel":"ἐλθεῖν → ἀπαρνησάσθω → ἀράτω → ἀκολουθείτω","relation":"L’appel extérieur à marcher derrière Jésus devient une vie intérieurement unie au Christ","apostle":"ἐπιστεύσαμεν → οὐκέτι ἐγώ → συνεσταύρωμαι → ζῇ ἐν ἐμοὶ Χριστός","detail":"Le rapprochement suit la dynamique des deux textes ; il ne transforme pas ces verbes différents en synonymes."},
+        "movement_title":"De l’appel de Jésus à la vie du Christ en Paul",
+        "movement_map":[
+          {"gospel":{"greek":"ἐλθεῖν","sense":"venir derrière le Christ"},"relation":"répondre à l’appel","apostle":{"greek":"ἐπιστεύσαμεν","sense":"nous avons cru au Christ"}},
+          {"gospel":{"greek":"ἀπαρνησάσθω ἑαυτόν","sense":"renoncer à faire de soi le centre"},"relation":"quitter l’autosuffisance","apostle":{"greek":"οὐκέτι ἐγώ","sense":"ce n’est plus moi qui vis"}},
+          {"gospel":{"greek":"ἀράτω τὸν σταυρόν","sense":"prendre sa croix"},"relation":"participer à la Croix","apostle":{"greek":"Χριστῷ συνεσταύρωμαι","sense":"je suis crucifié avec le Christ"}},
+          {"gospel":{"greek":"ἀκολουθείτω μοι","sense":"qu’il me suive"},"relation":"recevoir une vie nouvelle","apostle":{"greek":"ζῇ ἐν ἐμοὶ Χριστός","sense":"le Christ vit en moi"}}
+        ],
+        "term_details":{
+          "gospel":[
+            {"forms":["ἐλθεῖν"],"lemma":"ἔρχομαι","root":"ἐρχ-/ἐλθ- : venir","literal":"venir","role":"Le désir libre d’aller derrière le Christ ouvre la progression."},
+            {"forms":["ἀπαρνησάσθω"],"lemma":"ἀπαρνέομαι","root":"ἀπ- + ἀρν- : renoncer, désavouer","literal":"qu’il renonce","role":"Le disciple cesse de faire de lui-même le centre."},
+            {"forms":["ἀράτω"],"lemma":"αἴρω","root":"ἀρ-/αἰρ- : lever, prendre, porter","literal":"qu’il prenne","role":"Il consent librement à porter sa croix."},
+            {"forms":["ἀκολουθείτω"],"lemma":"ἀκολουθέω","root":"ἀκολουθ- : suivre","literal":"qu’il suive","role":"Le présent impératif inscrit l’appel dans une marche durable."}
+          ],
+          "apostle":[
+            {"forms":["ἐπιστεύσαμεν"],"lemma":"πιστεύω","root":"πιστ- : foi, confiance, fidélité","literal":"nous avons cru","role":"La réponse commence par la confiance placée dans le Christ."},
+            {"forms":["οὐκέτι","ἐγώ"],"lemma":"οὐκέτι / ἐγώ","root":"négation temporelle / pronom personnel","literal":"ce n’est plus moi","role":"Le moi autosuffisant cesse d’être le centre de l’existence."},
+            {"forms":["συνεσταύρωμαι"],"lemma":"συσταυρόω","root":"συν- + σταυρ- : crucifier avec","literal":"je suis crucifié avec","role":"La croix portée devient participation à la Croix du Christ."},
+            {"forms":["ζῇ","Χριστός"],"lemma":"ζάω / Χριστός","root":"ζη-/ζω- : vivre","literal":"le Christ vit","role":"Suivre trouve son accomplissement dans une vie reçue de la présence du Christ."}
+          ]
+        },
+        "gospel":{"verses":["34"],"terms":["ἐλθεῖν","ἀπαρνησάσθω","ἀράτω","ἀκολουθείτω"]},
+        "apostle":{"verses":["16","20"],"terms":["ἐπιστεύσαμεν","οὐκέτι","ἐγώ","συνεσταύρωμαι","ζῇ","Χριστός"]}
       }
     ]
   }
