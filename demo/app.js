@@ -732,15 +732,14 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const annotationImportanceClass = annotation => {
-        if (!annotation || typeof annotation !== 'object') return '';
-        if (annotation.importance === 'major') return ' mot-keyword-major';
-        if (annotation.importance === 'local') return ' mot-interest-local';
-        return '';
+        if (!annotation) return '';
+        if (typeof annotation === 'object' && annotation.importance === 'major') return ' mot-keyword-major';
+        return ' mot-interest-local';
     };
 
     const connectionKindLabels = {
         same_form: 'Même forme grecque',
-        same_lemma: 'Même lemme',
+        same_lemma: 'Même forme du dictionnaire',
         same_root: 'Même racine',
         notion: 'Notion commune',
         structure: 'Structure',
@@ -763,7 +762,7 @@ document.addEventListener('DOMContentLoaded', () => {
         discipleship_path: 'Même chemin de fidélité',
         discipleship_sequence: 'Progression de l’appel et de la réponse',
         shared_root: 'Racine grecque commune',
-        shared_lemma: 'Même lemme grec',
+        shared_lemma: 'Forme du dictionnaire identique',
         shared_word: 'Mot grec commun',
         divine_gift: 'Don reçu de Dieu',
         resurrection: 'Mort → relèvement'
@@ -771,7 +770,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const connectionGreekBasisLabels = {
         same_form: 'Même forme grecque',
-        same_lemma: 'Même lemme grec',
+        same_lemma: 'Forme du dictionnaire identique',
         same_root: 'Racine grecque commune',
         movement: 'Correspondance de structure, sans racine commune'
     };
@@ -3941,7 +3940,7 @@ document.addEventListener('DOMContentLoaded', () => {
         grammarCard.append(grammarHeading, grammarBadge);
         const grammarFields = document.createElement('dl');
         grammarFields.className = 'word-sheet-fields word-sheet-grammar-fields';
-        addDefinitionField(grammarFields, 'Lemme', grammar.lemma);
+        addDefinitionField(grammarFields, 'Forme du dictionnaire', grammar.lemma);
         addDefinitionField(grammarFields, 'Catégorie', grammar.category);
         addDefinitionField(grammarFields, 'Morphologie', grammar.parsing);
         addDefinitionField(grammarFields, 'Syntaxe', grammar.syntax);
@@ -3957,7 +3956,7 @@ document.addEventListener('DOMContentLoaded', () => {
         lexicalPanel.appendChild(lexicalHeading);
         const lexicalFields = document.createElement('dl');
         lexicalFields.className = 'word-sheet-fields';
-        addDefinitionField(lexicalFields, 'Lemme', grammar.lemma);
+        addDefinitionField(lexicalFields, 'Forme du dictionnaire', grammar.lemma);
         addDefinitionField(lexicalFields, 'Strong', lexical.strong);
         addDefinitionField(lexicalFields, 'Paradigme', lexical.paradigm);
         addDefinitionField(lexicalFields, 'Étymologie', lexical.etymology);
@@ -4073,7 +4072,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         document.getElementById('comparison-term-title').textContent = `${target.textContent.trim()} — ${sideLabel}`;
         document.getElementById('comparison-term-form').textContent = target.textContent.trim();
-        document.getElementById('comparison-term-lemma').textContent = detail.lemma || annotationLemma || 'Lemme non renseigné';
+        document.getElementById('comparison-term-lemma').textContent = detail.lemma || annotationLemma || 'Forme du dictionnaire non renseignée';
         document.getElementById('comparison-term-root').textContent = detail.root || 'Racine non renseignée pour cette forme';
         document.getElementById('comparison-term-literal').textContent = detail.literal || gloss || 'Sens littéral non renseigné';
         document.getElementById('comparison-term-role').textContent = detail.role || bridge[side]
@@ -4177,7 +4176,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const form = document.createElement('strong');
         form.textContent = grammar.form || target.textContent.trim();
         const lemma = document.createElement('span');
-        lemma.textContent = `Lemme : ${grammar.lemma || 'non renseigné'}`;
+        lemma.textContent = `Forme du dictionnaire : ${grammar.lemma || 'non renseignée'}`;
         const parsing = document.createElement('span');
         parsing.className = 'word-grammar-tooltip-parsing';
         parsing.textContent = grammar.abbreviation || grammar.parsing || '';

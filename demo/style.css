@@ -517,6 +517,17 @@ main {
 .mot-repetition { color: #1c718a !important; border-bottom-color: #1c718a !important; }
 .mot-traduction { color: #b05d16 !important; border-bottom-color: #b05d16 !important; }
 .mot-theologie { color: #8b1e1e !important; border-bottom-color: #8b1e1e !important; }
+.mot-info.mot-interest-local {
+    color: #70531f !important;
+    border: 0 !important;
+    border-bottom: 2px dotted #8b6b2f !important;
+    background: rgba(139, 107, 47, .06);
+}
+.mot-info.mot-keyword-major {
+    color: #8d2e12 !important;
+    border: 3px double #b8471b !important;
+    background: #fff4e8;
+}
 
 .annotation-help {
     margin: 14px 0 18px;
@@ -541,6 +552,8 @@ main {
 .legend-dot.translation { background: #b05d16; }
 .legend-dot.theology { background: #8b1e1e; }
 .legend-dot.analysis { background: #d35400; }
+.legend-dot.major { background: #b8471b; box-shadow: 0 0 0 2px #f2b894; }
+.legend-dot.local { background: #8b6b2f; }
 
 .homiletic-axes {
     margin-top: 24px;

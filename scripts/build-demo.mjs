@@ -17,7 +17,8 @@ const calendarYears = [2023, 2024, 2025, 2026, 2027];
 const demoOwnedFiles = [
   'app.js',
   'style.css',
-  'data/90_advent_2.json'
+  'data/90_advent_2.json',
+  'data/liturgical_path.json'
 ];
 const demoOverrides = new Map();
 
@@ -45,11 +46,17 @@ let indexHtml = await readFile(path.join(projectRoot, 'index.html'), 'utf8');
 indexHtml = indexHtml
   .replace('<title>Lectionnaire Interlinéaire Orthodoxe</title>', '<title>Lectionnaire Interlinéaire Orthodoxe — Démonstration</title>')
   .replace('<meta name="viewport" content="width=device-width, initial-scale=1.0">', '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <meta name="robots" content="noindex, nofollow">')
-  .replace(/href="style\.css\?[^\"]+"/, 'href="style.css?v=20260924-demo-3"')
+  .replace(/href="style\.css\?[^\"]+"/, 'href="style.css?v=20260924-demo-4"')
+  .replace('<div><dt>Lemme</dt><dd id="comparison-term-lemma"></dd></div>', '<div><dt>Forme du dictionnaire</dt><dd id="comparison-term-lemma"></dd></div>')
+  .replace('Cliquez sur un mot coloré pour ouvrir son explication.', 'Survolez un mot signalé pour sa grammaire, puis cliquez pour ouvrir sa fiche.')
+  .replace(
+    /<div class="annotation-legend" aria-label="Signification des couleurs">[\s\S]*?<\/div>/,
+    '<div class="annotation-legend" aria-label="Importance des mots expliqués">\n                    <span><i class="legend-dot major"></i>Mot-clé majeur</span>\n                    <span><i class="legend-dot local"></i>Mot d’intérêt local</span>\n                </div>'
+  )
   .replace(/\s*<h4>Contributions Communautaires<\/h4>[\s\S]*?<\/div>\s*(?=<\/section>)/, '\n')
   .replace(
     /<script src="app\.js\?[^\"]+"><\/script>/,
-    '<script src="demo-config.js"></script>\n    <script src="app.js?v=20260924-demo-3"></script>'
+    '<script src="demo-config.js"></script>\n    <script src="app.js?v=20260924-demo-4"></script>'
   );
 await writeFile(path.join(demoRoot, 'index.html'), indexHtml, 'utf8');
 
@@ -70,7 +77,7 @@ const demoConfig = `window.LECTIONARY_CONFIG = ${JSON.stringify({
   defaultSundayKey: allowedSundayKeys[0],
   calendarYears,
   defaultCalendarYear: 2026,
-  dataVersion: '20260924-demo-3'
+  dataVersion: '20260924-demo-4'
 }, null, 2)};\n`;
 await writeFile(path.join(demoRoot, 'demo-config.js'), demoConfig, 'utf8');
 
@@ -97,10 +104,15 @@ for (const year of calendarYears) {
   await writeJson(path.join(demoDataRoot, `calendar_${year}.json`), calendar);
 }
 
-await cp(
-  path.join(projectRoot, 'data', 'liturgical_path.json'),
-  path.join(demoDataRoot, 'liturgical_path.json')
-);
+const liturgicalPathOverride = demoOverrides.get('data/liturgical_path.json');
+if (liturgicalPathOverride) {
+  await writeFile(path.join(demoDataRoot, 'liturgical_path.json'), liturgicalPathOverride);
+} else {
+  await cp(
+    path.join(projectRoot, 'data', 'liturgical_path.json'),
+    path.join(demoDataRoot, 'liturgical_path.json')
+  );
+}
 
 await writeJson(path.join(demoRoot, 'manifest.json'), {
   kind: 'lectionary-demo',
