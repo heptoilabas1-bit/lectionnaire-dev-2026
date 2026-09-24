@@ -860,7 +860,26 @@
           },
           {
             "greek": "σῶσόν",
-            "gloss": "sauve"
+            "gloss": "sauve",
+            "annotation": {
+              "type": "grammaire",
+              "importance": "major",
+              "title": "Seigneur, sauve-moi",
+              "content": "L’impératif σῶσον donne au cri de Pierre la forme la plus brève de la prière : il ne décrit plus le danger, mais s’adresse directement au Seigneur.",
+              "grammar": {
+                "form": "σῶσον",
+                "lemma": "σῴζω",
+                "category": "Verbe",
+                "parsing": "Aoriste actif, impératif, deuxième personne du singulier",
+                "abbreviation": "AOR. ACT. IMP. 2 SG.",
+                "syntax": "Impératif adressé au Seigneur. Le pronom με, « moi », en est le complément direct."
+              },
+              "related": [
+                "Κύριε,",
+                "με.",
+                "σωθήσεται"
+              ]
+            }
           },
           {
             "greek": "με.",
@@ -907,6 +926,14 @@
               "importance": "major",
               "title": "La main qui arrache à l’abîme",
               "content": "Avant tout reproche, Jésus étend la main et saisit Pierre. Ce geste peut être rapproché de l’icône orthodoxe de la Descente aux enfers, où le Christ relève Adam : le salut n’est pas l’exploit de celui qui ne tombe jamais, mais l’action du Christ qui rejoint et relève.",
+              "grammar": {
+                "form": "χεῖρα",
+                "lemma": "χείρ",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément direct de ἐξέτεινεν, « il étendit ». L’article τήν accompagne le nom."
+              },
               "related": [
                 "ἐκτείνας",
                 "ἐπελάβετο",

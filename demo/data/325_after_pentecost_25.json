@@ -361,8 +361,17 @@
             "gloss": "prochain/celui_qui_est_près",
             "annotation": {
               "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Adverbe spatial *plesion* (près de, voisin). Le légiste comprend théoriquement la topographie spirituelle : l'alignement absolu sur le divin efface la distance avec l'autre, qui n'est plus un objet extérieur mais une extension de soi ('comme toi-même').",
+              "importance": "major",
+              "title": "Le prochain, celui qui est près",
+              "content": "πλησίον exprime d’abord la proximité. Dans le commandement cité par le légiste, le prochain est celui qui se trouve dans une relation de proximité et doit être aimé comme soi-même.",
+              "grammar": {
+                "form": "πλησίον",
+                "lemma": "πλησίον",
+                "category": "Adverbe employé substantivement",
+                "parsing": "Forme indéclinable",
+                "abbreviation": "ADV. SUBSTANTIVÉ, INDECL.",
+                "syntax": "Employé avec l’article τόν comme substantif : « le prochain ». Le génitif σου signifie « ton prochain »."
+              },
               "related": [
                 "τὸν",
                 "σου"
@@ -519,8 +528,17 @@
             "gloss": "prochain/proche",
             "annotation": {
               "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : En posant la question de l'identité du 'proche', le légiste veut tracer une frontière : 'Où commence le lointain que je n'ai pas l'obligation d'aimer ?'. Il demande au Christ de ratifier une topographie de la séparation.",
+              "importance": "major",
+              "title": "Qui est mon prochain ?",
+              "content": "Le légiste demande de définir le prochain. La parabole déplacera cette recherche de frontière vers une autre question : lequel des trois s’est fait prochain de l’homme blessé ?",
+              "grammar": {
+                "form": "πλησίον",
+                "lemma": "πλησίον",
+                "category": "Adverbe employé substantivement",
+                "parsing": "Forme indéclinable",
+                "abbreviation": "ADV. SUBSTANTIVÉ, INDECL.",
+                "syntax": "Attribut dans la question τίς ἐστίν μου πλησίον, littéralement « qui est proche de moi ? »."
+              },
               "related": [
                 "μου"
               ]
@@ -1374,9 +1392,18 @@
             "greek": "ἔλεος",
             "gloss": "miséricorde",
             "annotation": {
-              "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Le légiste est incapable de prononcer le mot 'Samaritain' à cause de sa rigidité égotique et tribale. Il est contraint d'admettre la vérité sous forme d'action : c'est la manifestation de la miséricorde pure qui définit l'appartenance à l'Axe vertical, et non l'étiquette religieuse.",
+              "type": "theologie",
+              "importance": "major",
+              "title": "Celui qui a fait miséricorde",
+              "content": "Le légiste répond en désignant l’action accomplie : « celui qui a fait miséricorde envers lui ». Jésus reprend cette réponse par l’ordre d’aller et de faire de même.",
+              "grammar": {
+                "form": "ἔλεος",
+                "lemma": "ἔλεος",
+                "category": "Nom neutre de la troisième déclinaison",
+                "parsing": "Accusatif neutre singulier",
+                "abbreviation": "ACC. NEUT. SG.",
+                "syntax": "Complément direct de ποιήσας, « ayant fait ». L’expression ποιεῖν ἔλεος signifie « faire miséricorde »."
+              },
               "related": [
                 "τὸ",
                 "μετ’"

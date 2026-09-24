@@ -83,6 +83,14 @@
               "importance": "major",
               "title": "Venir derrière le Christ",
               "content": "L’infinitif ἐλθεῖν dépend du désir libre exprimé par θέλει : Jésus n’impose pas ce chemin. Venir derrière lui ouvre le mouvement que poursuivent renoncer à soi-même, prendre sa croix et suivre.",
+              "grammar": {
+                "form": "ἐλθεῖν",
+                "lemma": "ἔρχομαι",
+                "category": "Infinitif aoriste actif",
+                "parsing": "Deuxième aoriste, infinitif actif",
+                "abbreviation": "AOR. 2 ACT. INF.",
+                "syntax": "Infinitif complémentaire de θέλει, « il veut ». Il exprime l’action librement désirée : venir derrière le Christ."
+              },
               "related": [
                 "ἀπαρνησάσθω",
                 "ἀράτω",
@@ -103,6 +111,14 @@
               "importance": "major",
               "title": "Qu’il renonce à lui-même",
               "content": "Le verbe ἀπαρνέομαι signifie renier ou désavouer. Avec ἑαυτόν, « soi-même », l’appel ne demande ni mépris de soi ni disparition de la personne. Il invite à renoncer à se prendre soi-même pour centre afin de marcher derrière le Christ. Ce renoncement demeure une réponse libre, annoncée par « si quelqu’un veut ».",
+              "grammar": {
+                "form": "ἀπαρνησάσθω",
+                "lemma": "ἀπαρνέομαι",
+                "category": "Verbe déponent",
+                "parsing": "Aoriste moyen, impératif, troisième personne du singulier",
+                "abbreviation": "AOR. MOY. IMP. 3 SG.",
+                "syntax": "Premier impératif de la séquence. Il gouverne le pronom réfléchi ἑαυτόν, « lui-même »."
+              },
               "related": [
                 "ἐλθεῖν,",
                 "ἀράτω",
@@ -131,6 +147,14 @@
               "importance": "major",
               "title": "Qu’il prenne : une réponse libre",
               "content": "Le verbe αἴρω signifie prendre, soulever, porter. L’impératif ἀράτω n’invite pas à rechercher la souffrance : il appelle chacun à consentir librement au chemin ouvert par le Christ, au lieu de fuir ce que la fidélité à l’Évangile lui demande de traverser.",
+              "grammar": {
+                "form": "ἀράτω",
+                "lemma": "αἴρω",
+                "category": "Verbe",
+                "parsing": "Aoriste actif, impératif, troisième personne du singulier",
+                "abbreviation": "AOR. ACT. IMP. 3 SG.",
+                "syntax": "Deuxième impératif de la séquence. Son complément direct est τὸν σταυρὸν αὐτοῦ, « sa croix »."
+              },
               "related": [
                 "ἐλθεῖν,",
                 "ἀπαρνησάσθω",
@@ -150,6 +174,14 @@
               "importance": "major",
               "title": "Qu’il prenne sa croix",
               "content": "σταυρός désigne la croix. La prendre ne signifie pas rechercher la souffrance ni y voir une punition divine. Le disciple consent à suivre le Christ jusque dans ce que la fidélité à l’Évangile lui demande de traverser. La croix reçoit ainsi son sens du don de soi et de la communion au Christ.",
+              "grammar": {
+                "form": "σταυρόν",
+                "lemma": "σταυρός",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct de ἀράτω, « qu’il prenne ». Le génitif αὐτοῦ précise « sa croix »."
+              },
               "related": [
                 "τὸν",
                 "αὐτοῦ"
@@ -177,6 +209,14 @@
               "importance": "major",
               "title": "Qu’il me suive : un chemin qui dure",
               "content": "Le présent impératif ἀκολουθείτω suggère une marche appelée à se poursuivre. Prendre sa croix n’est pas un geste isolé : la Croix reçoit son sens du fait de marcher derrière le Christ, dans une fidélité recommencée.",
+              "grammar": {
+                "form": "ἀκολουθείτω",
+                "lemma": "ἀκολουθέω",
+                "category": "Verbe",
+                "parsing": "Présent actif, impératif, troisième personne du singulier",
+                "abbreviation": "PRÉS. ACT. IMP. 3 SG.",
+                "syntax": "Troisième impératif de la séquence. Le présent exprime ici une marche appelée à durer ; μοι, « moi », indique celui qui est suivi."
+              },
               "related": [
                 "ἐλθεῖν,",
                 "ἀπαρνησάσθω",

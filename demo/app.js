@@ -4147,7 +4147,7 @@ document.addEventListener('DOMContentLoaded', () => {
             theologie: 'Lecture théologique'
         };
         const type = inferAnnotationType(normalized);
-        const structured = Boolean(normalized.grammar || normalized.lexical || normalized.local);
+        const structured = Boolean(normalized.grammar && (normalized.lexical || normalized.local));
         analysisDialog.classList.toggle('word-sheet-dialog', structured);
         const materialContent = structured
             ? [
