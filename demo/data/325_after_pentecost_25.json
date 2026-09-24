@@ -901,8 +901,79 @@
               "importance": "major",
               "title": "Être saisi de compassion",
               "content": "Le verbe σπλαγχνίζομαι exprime une compassion qui saisit jusque dans les entrailles. Le Samaritain ne se contente pas de voir le blessé : il se laisse atteindre et passe aussitôt au soin concret. La compassion devient ainsi un mouvement vers l’autre et une action.",
+              "grammar": {
+                "form": "ἐσπλαγχνίσθη",
+                "lemma": "σπλαγχνίζομαι",
+                "category": "Verbe déponent à forme passive",
+                "parsing": "Aoriste passif, indicatif, troisième personne du singulier, sens actif",
+                "abbreviation": "AOR. PASS. IND. 3 SG.",
+                "syntax": "Verbe principal dont le sujet est le Samaritain. Le participe ἰδών, « ayant vu », précède immédiatement la compassion puis les gestes de soin."
+              },
+              "lexical": {
+                "strong": "G4697",
+                "literal_senses": [
+                  "être remué dans ses entrailles",
+                  "être saisi de compassion",
+                  "éprouver une compassion qui porte à agir"
+                ],
+                "paradigm": "Forme du dictionnaire : σπλαγχνίζομαι ; aoriste passif déponent : ἐσπλαγχνίσθην. La forme ἐσπλαγχνίσθη est la troisième personne du singulier.",
+                "etymology": "Le verbe est formé sur σπλάγχνον, « entrailles, organes intérieurs », siège figuré de l’émotion profonde. Pour l’histoire du mot, la fiche renvoie à Chantraine, s.v. σπλάγχνον.",
+                "distinctions": [
+                  "La morphologie est passive, mais le verbe déponent possède ici un sens actif.",
+                  "Le mot ne décrit pas une idée abstraite de la compassion : il exprime un mouvement intérieur profond.",
+                  "Dans le récit, ce mouvement conduit immédiatement à s’approcher, panser, porter et prendre soin."
+                ],
+                "theological_horizon": "Dans l’Évangile selon Luc, cette compassion caractérise le Seigneur, le père qui accueille son fils et, ici, le Samaritain. Elle révèle une miséricorde qui voit, s’approche et agit."
+              },
+              "local": {
+                "reference": "Luc 10,33, vingt-cinquième dimanche après la Pentecôte",
+                "expression": "ἰδὼν ἐσπλαγχνίσθη",
+                "literal": "Ayant vu, il fut saisi aux entrailles.",
+                "translation": "En le voyant, il fut saisi de compassion.",
+                "syntax": "Le participe aoriste ἰδών précède le verbe principal ἐσπλαγχνίσθη. La vision du blessé ouvre le mouvement intérieur qui se déploie ensuite en actions concrètes.",
+                "commentary": "Le prêtre et le lévite voient également, mais passent à distance. Chez le Samaritain, voir devient compassion puis proximité. Le mot relie ainsi l’intériorité et le soin concret.",
+                "caution": "La compassion biblique ne se réduit ni à une émotion passagère ni à une opposition simpliste entre sentiment et devoir. Le récit la reconnaît à ses actes."
+              },
+              "occurrences": [
+                {
+                  "reference": "Luc 7,13",
+                  "greek": "ἰδὼν αὐτὴν ὁ κύριος ἐσπλαγχνίσθη ἐπ’ αὐτῇ",
+                  "literal": "L’ayant vue, le Seigneur fut saisi de compassion pour elle.",
+                  "context": "Jésus rencontre la veuve de Naïn qui accompagne son fils unique.",
+                  "theology": "La compassion du Seigneur précède la parole de consolation et le relèvement du mort."
+                },
+                {
+                  "reference": "Luc 10,33",
+                  "greek": "ἰδὼν ἐσπλαγχνίσθη",
+                  "literal": "Ayant vu, il fut saisi de compassion.",
+                  "context": "Le Samaritain rencontre l’homme laissé à demi mort.",
+                  "theology": "La compassion abolit la distance et devient soin du prochain.",
+                  "current": true
+                },
+                {
+                  "reference": "Luc 15,20",
+                  "greek": "ἰδὼν αὐτὸν ὁ πατὴρ αὐτοῦ ἐσπλαγχνίσθη",
+                  "literal": "Son père, l’ayant vu, fut saisi de compassion.",
+                  "context": "Le père aperçoit de loin le fils qui revient.",
+                  "theology": "La compassion court au-devant du fils avant toute justification de sa part."
+                }
+              ],
               "related": [
                 "ἰδὼν"
+              ],
+              "sources": [
+                {
+                  "label": "LSJ, s.v. σπλαγχνίζομαι, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CF%83%CF%80%CE%BB%CE%B1%CE%B3%CF%87%CE%BD%CE%AF%CE%B6%CE%BF%CE%BC%CE%B1%CE%B9"
+                },
+                {
+                  "label": "Texte grec de Luc 10,33",
+                  "url": "https://greekbible.com/luke/10/33"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. σπλάγχνον, référence bibliographique à contrôler sur l’édition utilisée",
+                  "url": ""
+                }
               ]
             }
           }

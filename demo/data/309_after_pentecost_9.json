@@ -718,7 +718,75 @@
               "importance": "major",
               "title": "Du vent regardé à la peur éprouvée",
               "content": "Le récit enchaîne βλέπων, « regardant », et ἐφοβήθη, « il eut peur ». La tempête extérieure devient une tempête intérieure lorsque le danger occupe tout le regard. Il ne s’agit pas de nier le vent, mais de ne pas lui abandonner l’orientation profonde de la personne.",
-              "related": ["ἄνεμον", "ἐφοβήθη,", "βλεπέτω", "σῶσόν"]
+              "grammar": {
+                "form": "βλέπων",
+                "lemma": "βλέπω",
+                "category": "Participe présent actif",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "PART. PRÉS. ACT. NOM. MASC. SG.",
+                "syntax": "Participe circonstanciel rattaché à Pierre, sujet de ἐφοβήθη. Le regard porté sur le vent accompagne immédiatement la naissance de la peur."
+              },
+              "lexical": {
+                "strong": "G991",
+                "literal_senses": [
+                  "voir, regarder",
+                  "porter son attention sur",
+                  "veiller, prendre garde selon le contexte"
+                ],
+                "paradigm": "Forme du dictionnaire : βλέπω ; thème verbal βλεπ-. Le participe présent actif masculin se présente ici sous la forme βλέπων.",
+                "etymology": "Le mot appartient à la famille de βλέπω, « voir, regarder ». Pour l’étymologie historique, la fiche renvoie à Chantraine sans imposer une reconstruction incertaine.",
+                "distinctions": [
+                  "βλέπω peut désigner la perception visuelle, mais aussi l’attention vigilante.",
+                  "Le contexte détermine si le regard constate, s’attache à un objet ou devient une invitation à veiller.",
+                  "Dans cette paire de lectures, βλέπων et βλεπέτω appartiennent au même verbe, mais n’ont ni la même forme ni la même fonction."
+                ],
+                "theological_horizon": "Le regard n’est pas seulement un organe de perception. Dans ces lectures, il manifeste l’orientation intérieure de la personne : se laisser saisir par la menace ou discerner comment bâtir sur le Christ."
+              },
+              "local": {
+                "reference": "Matthieu 14,30, neuvième dimanche après la Pentecôte",
+                "expression": "βλέπων δὲ τὸν ἄνεμον ἐφοβήθη",
+                "literal": "Mais regardant le vent, il eut peur.",
+                "translation": "Voyant la violence du vent, Pierre prit peur.",
+                "syntax": "Le participe βλέπων prépare le verbe principal ἐφοβήθη. Le texte rapproche ainsi directement l’objet du regard et la peur.",
+                "commentary": "Pierre ne cesse pas d’avancer parce que le vent existe, mais parce que la menace occupe désormais son regard. L’Apôtre répond à cette scène par βλεπέτω, « qu’il veille », en orientant l’attention vers la manière de construire sur l’unique fondement.",
+                "caution": "Le texte n’oppose pas la foi à la perception du danger. Il montre comment le regard peut perdre son orientation lorsqu’il ne demeure plus tourné vers le Christ."
+              },
+              "occurrences": [
+                {
+                  "reference": "Matthieu 14,30",
+                  "greek": "βλέπων δὲ τὸν ἄνεμον ἐφοβήθη",
+                  "literal": "Mais regardant le vent, il eut peur.",
+                  "context": "Pierre marche sur les eaux puis se laisse saisir par la menace.",
+                  "theology": "Le regard fixé sur le vent devient le lieu où la peur désoriente la marche.",
+                  "current": true
+                },
+                {
+                  "reference": "1 Corinthiens 3,10",
+                  "greek": "ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ",
+                  "literal": "Mais que chacun regarde comment il bâtit.",
+                  "context": "Paul appelle chaque bâtisseur à veiller sur son œuvre.",
+                  "theology": "Le même verbe devient vigilance : regarder comment l’on bâtit sur l’unique fondement, Jésus Christ."
+                }
+              ],
+              "related": ["ἄνεμον", "ἐφοβήθη,", "βλεπέτω", "σῶσόν"],
+              "sources": [
+                {
+                  "label": "LSJ, s.v. βλέπω, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CE%B2%CE%BB%CE%AD%CF%80%CF%89"
+                },
+                {
+                  "label": "Texte grec de Matthieu 14,30",
+                  "url": "https://greekbible.com/matthew/14/30"
+                },
+                {
+                  "label": "Texte grec de 1 Corinthiens 3,10",
+                  "url": "https://greekbible.com/1-corinthians/3/10"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. βλέπω, référence bibliographique à contrôler sur l’édition utilisée",
+                  "url": ""
+                }
+              ]
             }
           },
           {
