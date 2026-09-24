@@ -740,7 +740,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const connectionKindLabels = {
         same_form: 'Même forme grecque',
         same_lemma: 'Même forme du dictionnaire',
-        same_root: 'Même racine',
+        same_root: 'Racine identique',
         notion: 'Notion commune',
         structure: 'Structure',
         movement: 'Mouvement composé',
@@ -771,7 +771,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const connectionGreekBasisLabels = {
         same_form: 'Même forme grecque',
         same_lemma: 'Forme du dictionnaire identique',
-        same_root: 'Racine grecque commune',
+        same_root: 'Racine identique',
         movement: 'Correspondance de structure, sans racine commune'
     };
 
