@@ -34,6 +34,36 @@
           "key": "97_cross_after"
         }
       }
+    },
+    {
+      "date": "2024-11-10",
+      "key": "325_after_pentecost_25",
+      "official_title": "20ème dimanche après la Pentecôte. 8ème après la Croix. Ton 3",
+      "readings": {
+        "apostle": {
+          "reference": "Éphésiens 4, 1-7",
+          "key": "325_after_pentecost_25"
+        },
+        "gospel": {
+          "reference": "Luc 10, 25-37",
+          "key": "325_after_pentecost_25"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15",
+      "key": "90_advent_2",
+      "official_title": "25ème dimanche après la Pentecôte. 13ème après la Croix. Dimanche des Ancêtres. 5ème dimanche de l'Avent. Ton 8 A, H, V, P.",
+      "readings": {
+        "apostle": {
+          "reference": "Colossiens 1, 12-18",
+          "key": "90_advent_2"
+        },
+        "gospel": {
+          "reference": "Luc 14, 16-24",
+          "key": "90_advent_2"
+        }
+      }
     }
   ],
   "demo": {
@@ -41,7 +71,9 @@
     "notice": "Calendrier filtré pour la version de démonstration.",
     "available_pericopes": [
       "309_after_pentecost_9",
-      "97_cross_after"
+      "97_cross_after",
+      "90_advent_2",
+      "325_after_pentecost_25"
     ]
   }
 }

@@ -3,15 +3,22 @@
   "generated_from": "application-complete",
   "pericopes": [
     "309_after_pentecost_9",
-    "97_cross_after"
+    "97_cross_after",
+    "90_advent_2",
+    "325_after_pentecost_25"
   ],
-  "shared_engine": [
-    "../app.js",
-    "../style.css"
+  "isolated_engine": [
+    "app.js",
+    "style.css"
   ],
   "generated_files": [
+    "app.js",
+    "style.css",
+    "orthodox-cross.png",
     "data/309_after_pentecost_9.json",
     "data/97_cross_after.json",
+    "data/90_advent_2.json",
+    "data/325_after_pentecost_25.json",
     "data/calendar_2023.json",
     "data/calendar_2024.json",
     "data/calendar_2025.json",

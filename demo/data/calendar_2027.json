@@ -36,6 +36,21 @@
           "key": "97_cross_after"
         }
       }
+    },
+    {
+      "date": "2027-12-12",
+      "key": "90_advent_2",
+      "official_title": "Dimanche des Ancêtres du Seigneur.",
+      "readings": {
+        "apostle": {
+          "reference": "Colossiens 3, 4-11",
+          "key": "90_advent_2"
+        },
+        "gospel": {
+          "reference": "Luc 14, 16-24",
+          "key": "90_advent_2"
+        }
+      }
     }
   ],
   "demo": {
@@ -43,7 +58,9 @@
     "notice": "Calendrier filtré pour la version de démonstration.",
     "available_pericopes": [
       "309_after_pentecost_9",
-      "97_cross_after"
+      "97_cross_after",
+      "90_advent_2",
+      "325_after_pentecost_25"
     ]
   }
 }

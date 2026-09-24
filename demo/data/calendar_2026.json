@@ -36,6 +36,36 @@
       },
       "note": "Lectures propres au dimanche après l’Exaltation de la Sainte-Croix.",
       "official_title": "16e dimanche après la Pentecôte. Dimanche après la Croix."
+    },
+    {
+      "date": "2026-11-15",
+      "key": "325_after_pentecost_25",
+      "official_title": "24e dimanche après la Pentecôte. 1er dimanche de l’Avent.",
+      "readings": {
+        "apostle": {
+          "reference": "Éphésiens 4, 1-7",
+          "key": "325_after_pentecost_25"
+        },
+        "gospel": {
+          "reference": "Luc 10, 25-37",
+          "key": "325_after_pentecost_25"
+        }
+      }
+    },
+    {
+      "date": "2026-12-13",
+      "key": "90_advent_2",
+      "official_title": "28e dimanche après la Pentecôte — dimanche des Ancêtres — 5e dimanche de l’Avent",
+      "readings": {
+        "apostle": {
+          "reference": "Colossiens 3, 4-11",
+          "key": "90_advent_2"
+        },
+        "gospel": {
+          "reference": "Luc 14, 16-24",
+          "key": "90_advent_2"
+        }
+      }
     }
   ],
   "demo": {
@@ -43,7 +73,9 @@
     "notice": "Calendrier filtré pour la version de démonstration.",
     "available_pericopes": [
       "309_after_pentecost_9",
-      "97_cross_after"
+      "97_cross_after",
+      "90_advent_2",
+      "325_after_pentecost_25"
     ]
   }
 }
