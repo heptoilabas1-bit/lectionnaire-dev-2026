@@ -120,8 +120,17 @@
             "gloss": "il_monta",
             "annotation": {
               "type": "theologie",
+              "importance": "major",
               "title": "Monter seul pour prier",
               "content": "Ἀναβαίνω marque la montée de Jésus sur la montagne, à l’écart, pour prier. Cette verticalité précède son retour vers les disciples éprouvés : la communion au Père ne détourne pas de la détresse humaine, elle ouvre le mouvement par lequel le Christ vient les rejoindre.",
+              "grammar": {
+                "form": "ἀνέβη",
+                "lemma": "ἀναβαίνω",
+                "category": "Verbe",
+                "parsing": "Deuxième aoriste actif, indicatif, troisième personne du singulier",
+                "abbreviation": "AOR. 2 ACT. IND. 3 SG.",
+                "syntax": "Verbe principal dont Jésus est le sujet. Le groupe εἰς τὸ ὄρος indique le lieu vers lequel il monte."
+              },
               "related": [
                 "ὄρος",
                 "προσεύξασθαι",
@@ -151,7 +160,15 @@
             "annotation": {
               "type": "traduction",
               "title": "À l’écart, κατ’ ἰδίαν",
-              "content": "Approfondissement spirituel : L'expression *kat' idian* (en propre, à l'écart). Le Christ vient de nourrir 5000 hommes, mais Il ne se laisse pas absorber par la fusion collective. Pour que le Sujet subsiste dans le Royaume UN, il doit constamment se ressourcer dans la verticalité de la prière solitaire avec le Père, loin de la rumeur de la foule.",
+              "content": "L’expression κατ’ ἰδίαν signifie « à l’écart », « en particulier » ou « seul ». Après avoir renvoyé les foules, Jésus se retire pour prier. Le texte articule ainsi le service de la multitude et la solitude devant le Père.",
+              "grammar": {
+                "form": "ἰδίαν",
+                "lemma": "ἴδιος",
+                "category": "Adjectif employé adverbialement",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Employé dans l’expression figée κατ’ ἰδίαν après κατά avec l’accusatif : « à l’écart », « seul »."
+              },
               "related": [
                 "ὄρος",
                 "κατ’",
@@ -242,8 +259,17 @@
             "gloss": "étant_tourmentée/battue",
             "annotation": {
               "type": "analyse",
+              "importance": "major",
               "title": "La barque tourmentée",
-              "content": "Approfondissement spirituel : Le verbe *basanizo* (torturer, tourmenter). Séparée de l'Axe vertical, l'humanité (la barque) se retrouve à la merci des éléments du Monde duel. L'eau (symbole des forces de mort et de l'inconscient) et le vent contraire soumettent les disciples à la panique de la survie.",
+              "content": "βασανίζω exprime une épreuve violente : la barque est battue ou tourmentée par les vagues. Le participe prolonge la scène et fait sentir la durée de l’épreuve avant que Jésus rejoigne les disciples.",
+              "grammar": {
+                "form": "βασανιζόμενον",
+                "lemma": "βασανίζω",
+                "category": "Verbe",
+                "parsing": "Présent passif, participe, accusatif neutre singulier",
+                "abbreviation": "PRÉS. PASS. PART. ACC. NEUT. SG.",
+                "syntax": "S’accorde avec τὸ πλοῖον, « la barque », dans la construction ἦν ... βασανιζόμενον, « était tourmentée »."
+              },
               "related": [
                 "γῆς",
                 "ἀπεῖχεν,",
@@ -330,8 +356,17 @@
             "gloss": "marchant",
             "annotation": {
               "type": "analyse",
+              "importance": "major",
               "title": "Marcher sur la mer",
-              "content": "Approfondissement spirituel : Marcher sur la mer n'est pas une simple infraction spectaculaire aux lois physiques. C'est la démonstration que le Sujet incréé (le Christ) n'est soumis à aucune fatalité du Monde duel. Il domine le chaos, Il n'est pas englouti par la gravité du monde.",
+              "content": "Le participe περιπατῶν décrit Jésus venant vers les disciples en marchant sur la mer. Dans le langage biblique, la mer évoque une puissance que l’homme ne maîtrise pas ; le récit manifeste ici l’autorité du Christ et prépare son appel : « Confiance, c’est moi, n’ayez pas peur. »",
+              "grammar": {
+                "form": "περιπατῶν",
+                "lemma": "περιπατέω",
+                "category": "Verbe contracte",
+                "parsing": "Présent actif, participe, nominatif masculin singulier",
+                "abbreviation": "PRÉS. ACT. PART. NOM. MASC. SG.",
+                "syntax": "Participe accordé avec le sujet Jésus. Il décrit la manière dont il vient vers les disciples."
+              },
               "related": [
                 "πρὸς",
                 "αὐτοὺς",
@@ -415,7 +450,15 @@
             "annotation": {
               "type": "traduction",
               "title": "Un fantôme ?",
-              "content": "Approfondissement spirituel : Le mot *Phantasma* (illusion, apparition effrayante). L'Ego est incapable d'interpréter la Grâce. Face à l'irruption de la dimension divine, l'intelligence horizontale ne voit qu'une anomalie terrifiante. C'est l'aveuglement fondamental de la peur.",
+              "content": "φάντασμα désigne une apparition ou un fantôme. Dans la peur, les disciples interprètent mal ce qu’ils voient. La parole de Jésus ne nie pas leur effroi : elle leur révèle celui qui vient et les appelle à la confiance.",
+              "grammar": {
+                "form": "φάντασμα",
+                "lemma": "φάντασμα",
+                "category": "Nom neutre de la troisième déclinaison",
+                "parsing": "Nominatif neutre singulier",
+                "abbreviation": "NOM. NEUT. SG.",
+                "syntax": "Attribut dans la proposition φάντασμά ἐστιν, « c’est un fantôme ». L’accent supplémentaire vient de l’enclitique ἐστιν."
+              },
               "related": [
                 "λέγοντες",
                 "ὅτι",
@@ -498,8 +541,17 @@
             "gloss": "Je_suis",
             "annotation": {
               "type": "theologie",
+              "importance": "major",
               "title": "« C’est moi », ἐγώ εἰμι",
               "content": "Ἐγώ εἰμι signifie ici naturellement « c’est moi » ou « je suis ». Dans l’Évangile de Matthieu, prononcé par Jésus marchant sur la mer, l’expression peut faire entendre un écho théophanique ; cet écho spirituel ne transforme pas à lui seul la formule en citation explicite du Nom révélé à Moïse.",
+              "grammar": {
+                "form": "εἰμι",
+                "lemma": "εἰμί",
+                "category": "Verbe",
+                "parsing": "Présent actif, indicatif, première personne du singulier",
+                "abbreviation": "PRÉS. ACT. IND. 1 SG.",
+                "syntax": "Le pronom ἐγώ, exprimé alors que la personne est déjà portée par le verbe, donne du relief à l’identification : « moi, je suis », ou naturellement « c’est moi »."
+              },
               "related": [
                 "Θαρσεῖτε,",
                 "ἐγώ",
@@ -631,8 +683,17 @@
             "gloss": "étant_descendu",
             "annotation": {
               "type": "theologie",
+              "importance": "major",
               "title": "Pierre descend de la barque",
               "content": "Καταβαίνω désigne ici le geste concret par lequel Pierre quitte la barque sur la parole de Jésus. La descente n’est ni chute ni kénose par elle-même : elle devient un acte de confiance, bientôt éprouvé par la peur et sauvé par la main du Christ.",
+              "grammar": {
+                "form": "καταβάς",
+                "lemma": "καταβαίνω",
+                "category": "Verbe",
+                "parsing": "Deuxième aoriste actif, participe, nominatif masculin singulier",
+                "abbreviation": "AOR. 2 ACT. PART. NOM. MASC. SG.",
+                "syntax": "Participe circonstanciel accordé avec Πέτρος. Il précède l’action principale : après être descendu de la barque, Pierre marcha sur les eaux."
+              },
               "related": [
                 "πλοίου",
                 "Ἐλθέ.",
@@ -673,8 +734,17 @@
             "gloss": "eaux",
             "annotation": {
               "type": "analyse",
+              "importance": "major",
               "title": "Pierre marche sur les eaux",
               "content": "Pierre ne maîtrise pas la mer : il avance en réponse à l’appel du Christ. La scène ne promet pas au croyant une invulnérabilité ; elle montre que la foi est un mouvement de confiance, orienté vers Jésus et soutenu par lui jusque dans la défaillance.",
+              "grammar": {
+                "form": "ὕδατα",
+                "lemma": "ὕδωρ",
+                "category": "Nom neutre de la troisième déclinaison",
+                "parsing": "Accusatif neutre pluriel",
+                "abbreviation": "ACC. NEUT. PL.",
+                "syntax": "Complément de la préposition ἐπί avec l’accusatif : ἐπὶ τὰ ὕδατα, « sur les eaux »."
+              },
               "related": [
                 "ἐπὶ",
                 "τὰ",
@@ -696,8 +766,17 @@
             "gloss": "vers",
             "annotation": {
               "type": "traduction",
+              "importance": "major",
               "title": "Vers Jésus, πρὸς τὸν Ἰησοῦν",
               "content": "Πρός suivi de l’accusatif exprime ici la direction : Pierre vient « vers Jésus ». Le texte de Matthieu ne dit pas εἰς Χριστόν ; son mouvement concret permet néanmoins une lecture spirituelle de toute la vie chrétienne comme orientation vers le Christ.",
+              "grammar": {
+                "form": "πρός",
+                "lemma": "πρός",
+                "category": "Préposition",
+                "parsing": "Construite ici avec l’accusatif",
+                "abbreviation": "PRÉP. + ACC.",
+                "syntax": "Introduit le terme du mouvement : πρὸς τὸν Ἰησοῦν, « vers Jésus »."
+              },
               "related": [
                 "Ἐλθέ.",
                 "ἦλθεν",
@@ -836,8 +915,17 @@
             "gloss": "à_s'enfoncer/couler",
             "annotation": {
               "type": "racine",
+              "importance": "major",
               "title": "Commencer à s’enfoncer",
               "content": "Καταποντίζεσθαι décrit l’enfoncement de Pierre. Le texte ne condamne pas l’attention au réel : il met en scène un regard désormais dominé par la menace. La peur n’a pourtant pas le dernier mot, puisqu’elle devient immédiatement un cri adressé au Seigneur.",
+              "grammar": {
+                "form": "καταποντίζεσθαι",
+                "lemma": "καταποντίζω",
+                "category": "Verbe",
+                "parsing": "Présent passif, infinitif",
+                "abbreviation": "PRÉS. PASS. INF.",
+                "syntax": "Infinitif complémentaire de ἀρξάμενος, « ayant commencé ». Le présent décrit le processus en cours : Pierre commence à s’enfoncer."
+              },
               "related": [
                 "καὶ",
                 "ἀρξάμενος",
@@ -1014,8 +1102,17 @@
             "gloss": "étant_montés",
             "annotation": {
               "type": "theologie",
+              "importance": "major",
               "title": "Remonter ensemble dans la barque",
               "content": "Le même verbe ἀναβαίνω revient lorsque Jésus et Pierre remontent ensemble dans la barque. Pierre n’est pas élevé par une maîtrise retrouvée des eaux, mais ramené par Celui qui l’a saisi ; l’apaisement et la confession suivent ce salut reçu.",
+              "grammar": {
+                "form": "ἀναβάντων",
+                "lemma": "ἀναβαίνω",
+                "category": "Verbe",
+                "parsing": "Deuxième aoriste actif, participe, génitif masculin pluriel",
+                "abbreviation": "AOR. 2 ACT. PART. GÉN. MASC. PL.",
+                "syntax": "Avec αὐτῶν, forme un génitif absolu : « lorsqu’ils furent montés dans la barque ». Le pluriel réunit Jésus et Pierre."
+              },
               "related": [
                 "ἐπελάβετο",
                 "πλοῖον",
@@ -1318,8 +1415,17 @@
             "gloss": "édifice/construction",
             "annotation": {
               "type": "racine",
+              "importance": "major",
               "title": "L’édifice de Dieu",
-              "content": "Approfondissement spirituel : L'*oikodomē* (l'édifice). Nous retrouvons la racine de l'*oikos* (la maison). L'Église et le sujet humain ne sont pas des réalités vagues, mais une architecture sacrée en cours de construction.",
+              "content": "οἰκοδομή signifie construction ou édifice et garde la trace de οἶκος, « maison ». Après l’image du champ cultivé, Paul présente la communauté comme l’édifice qui appartient à Dieu. Cette image prépare celles du fondement et du sanctuaire.",
+              "grammar": {
+                "form": "οἰκοδομή",
+                "lemma": "οἰκοδομή",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Attribut du sujet pluriel de ἐστε : « vous êtes l’édifice de Dieu ». Le génitif Θεοῦ marque l’appartenance à Dieu."
+              },
               "related": [
                 "γεώργιον,",
                 "Θεοῦ",
@@ -1630,8 +1736,17 @@
             "gloss": "le_feu",
             "annotation": {
               "type": "analyse",
+              "importance": "major",
               "title": "L’œuvre éprouvée par le feu",
-              "content": "Approfondissement spirituel : Le Feu (*pyr*). Dans une lecture ecclésiologique, le feu divin n'est pas un châtiment matériel futur, mais l'irruption de la Lumière et de l'Amour incréé. Ce feu consume instantanément les illusions du Monde duel (le bois, le foin) et illumine la pureté du Sujet unifié (l'or, l'argent).",
+              "content": "Le feu manifeste et éprouve la qualité de l’œuvre bâtie sur le fondement. Paul ne décrit pas ici la destruction du sanctuaire, mais le jugement de ce que chacun a construit : l’œuvre durable apparaît, l’œuvre fragile se consume.",
+              "grammar": {
+                "form": "πυρί",
+                "lemma": "πῦρ",
+                "category": "Nom neutre de la troisième déclinaison",
+                "parsing": "Datif neutre singulier",
+                "abbreviation": "DAT. NEUT. SG.",
+                "syntax": "Complément de la préposition ἐν : ἐν πυρὶ ἀποκαλύπτεται, « elle est révélée dans le feu »."
+              },
               "related": [
                 "ὅτι",
                 "ἐν",
@@ -1796,7 +1911,15 @@
             "annotation": {
               "type": "analyse",
               "title": "Sauvé comme à travers le feu",
-              "content": "Approfondissement spirituel : L'expression *os dia pyros* (comme à travers le feu). C'est la kénose de l'Ego. L'homme qui a bâti sur de fausses certitudes voit ses structures psychologiques et égoïstes détruites par la Vérité divine. Il est sauvé, mais nu, dépouillé de ses masques.",
+              "content": "L’expression ὡς διὰ πυρός, « comme à travers le feu », distingue la personne de son œuvre. Celui dont l’ouvrage brûle subit une perte, mais Paul affirme qu’il sera lui-même sauvé. L’image invite à bâtir avec sérieux sans faire de l’œuvre humaine le fondement du salut.",
+              "grammar": {
+                "form": "πυρός",
+                "lemma": "πῦρ",
+                "category": "Nom neutre de la troisième déclinaison",
+                "parsing": "Génitif neutre singulier",
+                "abbreviation": "GÉN. NEUT. SG.",
+                "syntax": "Complément de διά avec le génitif dans l’expression ὡς διὰ πυρός, « comme à travers le feu »."
+              },
               "related": [
                 "ὡς",
                 "διὰ"
@@ -1926,8 +2049,17 @@
             "gloss": "détruit/corrompt",
             "annotation": {
               "type": "traduction",
+              "importance": "major",
               "title": "Ne pas corrompre le sanctuaire",
-              "content": "Approfondissement spirituel : Le verbe *phtheiro* signifie corrompre, profaner, altérer la pureté par un mélange. Introduire la fragmentation du Monde duel (les clans, les jugements) à l'intérieur du temple, c'est briser l'unité du Sujet et saboter la Demeure divine.",
+              "content": "φθείρω peut signifier détruire, corrompre ou ruiner. Le même verbe est repris dans la conséquence : celui qui détruit le sanctuaire de Dieu sera détruit par Dieu. Dans le contexte des divisions à Corinthe, l’avertissement protège la sainteté de la communauté.",
+              "grammar": {
+                "form": "φθείρει",
+                "lemma": "φθείρω",
+                "category": "Verbe",
+                "parsing": "Présent actif, indicatif, troisième personne du singulier",
+                "abbreviation": "PRÉS. ACT. IND. 3 SG.",
+                "syntax": "Le sujet est τις, « quelqu’un », et le complément direct τὸν ναὸν τοῦ θεοῦ, « le sanctuaire de Dieu »."
+              },
               "related": [
                 "τοῦ",
                 "θεοῦ",
