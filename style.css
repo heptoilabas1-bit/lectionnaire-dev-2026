@@ -1407,3 +1407,20 @@ footer { padding: 22px; color: #eadcae; text-align: center; background: #281018;
     .comparison-movement-relation { grid-column: 2; justify-content: flex-start; }
     .comparison-movement-apostle { grid-column: 2; }
 }
+/* Version de démonstration : le moteur reste commun à l’application complète. */
+.demo-mode .app-brand {
+    flex-wrap: wrap;
+}
+
+.demo-notice {
+    flex-basis: 100%;
+    margin: 0.35rem 0 0;
+    padding: 0.55rem 0.85rem;
+    border: 1px solid rgba(255, 255, 255, 0.52);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.14);
+    color: #fff8e8;
+    font-size: 0.88rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}

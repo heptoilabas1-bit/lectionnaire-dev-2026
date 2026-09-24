@@ -1,0 +1,1489 @@
+{
+  "gospel": {
+    "reference": "Marc 8, 34 - 9, 1",
+    "title": "Renoncer à soi-même et suivre le Christ",
+    "interlinear": [
+      {
+        "verse_number": 34,
+        "translations": {
+          "segond": "Puis, ayant appelé la foule avec ses disciples, il leur dit : Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge de sa croix, et qu'il me suive.",
+          "darby": "Et ayant appelé la foule avec ses disciples, il leur dit : Quiconque veut venir après moi, qu'il se renonce soi-même, et qu'il prenne sa croix, et me suive."
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "προσκαλεσάμενος",
+            "gloss": "ayant_appelé_à_soi"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὄχλον",
+            "gloss": "foule"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "μαθηταῖς",
+            "gloss": "disciples"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "il_dit"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Εἴ",
+            "gloss": "Si"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "θέλει",
+            "gloss": "veut"
+          },
+          {
+            "greek": "ὀπίσω",
+            "gloss": "derrière"
+          },
+          {
+            "greek": "μου",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐλθεῖν,",
+            "gloss": "venir",
+            "movement": {
+              "id": "venir-renoncer-prendre-suivre",
+              "step": 1,
+              "total": 4
+            },
+            "annotation": {
+              "type": "grammaire",
+              "title": "Venir derrière le Christ",
+              "content": "L’infinitif ἐλθεῖν dépend du désir libre exprimé par θέλει : Jésus n’impose pas ce chemin. Venir derrière lui ouvre le mouvement que poursuivent renoncer à soi-même, prendre sa croix et suivre.",
+              "related": [
+                "ἀπαρνησάσθω",
+                "ἀράτω",
+                "ἀκολουθείτω"
+              ]
+            }
+          },
+          {
+            "greek": "ἀπαρνησάσθω",
+            "gloss": "qu'il_renonce",
+            "movement": {
+              "id": "venir-renoncer-prendre-suivre",
+              "step": 2,
+              "total": 4
+            },
+            "annotation": {
+              "type": "racine",
+              "title": "Qu’il renonce à lui-même",
+              "content": "Approfondissement spirituel : Du verbe *aparneomai* (se renier complètement).ce n'est pas une mortification psychologique morbide, mais le refus radical du faux 'moi', de l'Ego fabriqué par le Monde duel (les masques, les rôles, les mécanismes de défense). Renoncer à ce moi illusoire est la condition *sine qua non* pour faire de la place au véritable 'Sujet'.",
+              "related": [
+                "ἐλθεῖν,",
+                "ἀράτω",
+                "ἀκολουθείτω"
+              ]
+            }
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "à_lui-même"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀράτω",
+            "gloss": "qu'il_charge/prenne",
+            "movement": {
+              "id": "venir-renoncer-prendre-suivre",
+              "step": 3,
+              "total": 4
+            },
+            "annotation": {
+              "type": "racine",
+              "title": "Qu’il prenne : une réponse libre",
+              "content": "Le verbe αἴρω signifie prendre, soulever, porter. L’impératif ἀράτω n’invite pas à rechercher la souffrance : il appelle chacun à consentir librement au chemin ouvert par le Christ, au lieu de fuir ce que la fidélité à l’Évangile lui demande de traverser.",
+              "related": [
+                "ἐλθεῖν,",
+                "ἀπαρνησάσθω",
+                "ἀκολουθείτω"
+              ]
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "la"
+          },
+          {
+            "greek": "σταυρὸν",
+            "gloss": "croix",
+            "annotation": {
+              "type": "analyse",
+              "title": "Qu’il prenne sa croix",
+              "content": "Approfondissement spirituel : La *croix* (stauros). Elle n'est pas une punition divine. Elle est le point d'intersection où l'horizontalité de notre histoire blessée est assumée et crucifiée par la verticalité divine. Porter sa croix, c'est cesser de fuir le réel et accepter que notre ego y soit brisé pour que jaillisse la vie eucharistique.",
+              "related": [
+                "τὸν",
+                "αὐτοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀκολουθείτω",
+            "gloss": "qu'il_suive",
+            "movement": {
+              "id": "venir-renoncer-prendre-suivre",
+              "step": 4,
+              "total": 4
+            },
+            "annotation": {
+              "type": "grammaire",
+              "title": "Qu’il me suive : un chemin qui dure",
+              "content": "Le présent impératif ἀκολουθείτω suggère une marche appelée à se poursuivre. Prendre sa croix n’est pas un geste isolé : la Croix reçoit son sens du fait de marcher derrière le Christ, dans une fidélité recommencée.",
+              "related": [
+                "ἐλθεῖν,",
+                "ἀπαρνησάσθω",
+                "ἀράτω"
+              ]
+            }
+          },
+          {
+            "greek": "μοι.",
+            "gloss": "moi"
+          }
+        ]
+      },
+      {
+        "verse_number": 35,
+        "translations": {
+          "segond": "Car celui qui voudra sauver sa vie la perdra, mais celui qui perdra sa vie à cause de moi et de la bonne nouvelle la sauvera.",
+          "darby": "Car quiconque voudra sauver sa vie la perdra ; et quiconque perdra sa vie à cause de moi et de l'évangile la sauvera."
+        },
+        "interlinear": [
+          {
+            "greek": "ὃς",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "θέλῃ",
+            "gloss": "veut"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ψυχὴν",
+            "gloss": "âme/vie",
+            "annotation": {
+              "type": "theologie",
+              "title": "Perdre et sauver sa vie",
+              "content": "Approfondissement spirituel : Le mot *psychē* désigne ici la vie psychologique, le moi individualisé qui cherche à se préserver, à posséder et à contrôler. Vouloir 'sauver' cette vie-là, c'est s'enfermer dans l'enfer du Monde duel. La 'perdre', c'est accepter la kénose de ce moi superficiel pour découvrir la véritable Vie incréée.",
+              "related": [
+                "τὴν",
+                "αὐτοῦ"
+              ]
+            }
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "σῶσαι,",
+            "gloss": "sauver"
+          },
+          {
+            "greek": "ἀπολέσει",
+            "gloss": "perdra"
+          },
+          {
+            "greek": "αὐτήν·",
+            "gloss": "elle"
+          },
+          {
+            "greek": "ὃς",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "δ’",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "quiconque"
+          },
+          {
+            "greek": "ἀπολέσει",
+            "gloss": "perdra"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ψυχὴν",
+            "gloss": "vie/âme"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἕνεκεν",
+            "gloss": "à_cause"
+          },
+          {
+            "greek": "ἐμοῦ",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "εὐαγγελίου,",
+            "gloss": "bonne_nouvelle/évangile"
+          },
+          {
+            "greek": "σώσει",
+            "gloss": "sauvera"
+          },
+          {
+            "greek": "αὐτήν.",
+            "gloss": "elle"
+          }
+        ]
+      },
+      {
+        "verse_number": 36,
+        "translations": {
+          "segond": "Et que sert-il à un homme de gagner le monde entier, s'il perd son âme ?",
+          "darby": "Car que profitera-t-il à un homme s'il gagne le monde entier, et qu'il fasse la perte de son âme ?"
+        },
+        "interlinear": [
+          {
+            "greek": "τί",
+            "gloss": "quoi"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὠφελεῖ",
+            "gloss": "sert/profite"
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "κερδῆσαι",
+            "gloss": "gagner"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "κόσμον",
+            "gloss": "monde",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Gagner le *kosmon* (le monde) est la tentation ultime du Monde duel : accumuler des objets, des territoires matériels ou des validations extérieures pour masquer le vide intérieur. C'est l'aliénation absolue où le sujet s'effondre en devenant esclave des objets qu'il possède.",
+              "related": [
+                "τὸν",
+                "ὅλον"
+              ]
+            }
+          },
+          {
+            "greek": "ὅλον",
+            "gloss": "entier"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ζημιωθῆναι",
+            "gloss": "perdre/faire_la_perte"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "ψυχὴν",
+            "gloss": "âme/vie"
+          },
+          {
+            "greek": "αὐτοῦ;",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 37,
+        "translations": {
+          "segond": "Que donnerait un homme en échange de son âme ?",
+          "darby": "ou que donnera un homme en échange de son âme ?"
+        },
+        "interlinear": [
+          {
+            "greek": "τί",
+            "gloss": "que"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "δοῖ",
+            "gloss": "donnerait"
+          },
+          {
+            "greek": "ἄνθρωπος",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "ἀντάλλαγμα",
+            "gloss": "en_échange",
+            "annotation": {
+              "type": "traduction",
+              "title": "Que donner en échange ?",
+              "content": "Approfondissement spirituel : Le mot *antallagma* désigne un prix de rachat, une monnaie d'échange. Le sujet humain (l'âme faite à l'image de Dieu) a une valeur absolue et infinie ; rien dans le monde des objets du Monde duel ne peut l'équilibrer. Essayer de troquer son être contre de l'avoir est l'erreur ontologique majeure.",
+              "related": [
+                "ἄνθρωπος",
+                "τῆς ψυχῆς"
+              ]
+            }
+          },
+          {
+            "greek": "τῆς ψυχῆς",
+            "gloss": "de_l'_âme"
+          },
+          {
+            "greek": "αὐτοῦ;",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 38,
+        "translations": {
+          "segond": "Car quiconque aura honte de moi et de mes paroles parmi cette génération adultère et pécheresse, le Fils de l'homme aura aussi honte de lui, quand il viendra dans la gloire de son Père, avec les saints anges.",
+          "darby": "Car quiconque aura eu honte de moi et de mes paroles parmi cette génération adultère et pécheresse, le fils de l'homme aura aussi honte de lui, quand il viendra dans la gloire de son Père, avec les saints anges."
+        },
+        "interlinear": [
+          {
+            "greek": "ὃς",
+            "gloss": "quiconque"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "si"
+          },
+          {
+            "greek": "ἐπαισχυνθῇ",
+            "gloss": "aura_honte"
+          },
+          {
+            "greek": "με",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἐμοὺς",
+            "gloss": "miens"
+          },
+          {
+            "greek": "λόγους",
+            "gloss": "mots/paroles"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "γενεᾷ",
+            "gloss": "génération"
+          },
+          {
+            "greek": "ταύτῃ",
+            "gloss": "celle-ci"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "μοιχανίδι",
+            "gloss": "adultère",
+            "annotation": {
+              "type": "analyse",
+              "title": "Approfondissement spirituel",
+              "content": "Approfondissement spirituel : Le mot *moichalis* (adultère) désigne prophétiquement la rupture d'alliance. l'attitude psychologique par excellence du Monde duel, c'est se détourner de l'Époux unique (le Sujet divin) pour s'accoupler à des idoles frelatées (les objets, les idéologies, le statut social). Avoir honte du Christ, c'est préférer le masque rassurant de la matrice sociétale à la nudité du vrai sujet.",
+              "related": [
+                "τῇ",
+                "καὶ"
+              ]
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἁμαρτωλῷ,",
+            "gloss": "pécheresse"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "υἱὸς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "ἀνθρώπου",
+            "gloss": "homme"
+          },
+          {
+            "greek": "ἐπαισχυνθήσεται",
+            "gloss": "aura_honte_de"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ὅταν",
+            "gloss": "quand"
+          },
+          {
+            "greek": "ἔλθῃ",
+            "gloss": "il_viendra"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "δόξῃ",
+            "gloss": "gloire"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "πατρὸς",
+            "gloss": "père"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἀγγέλων",
+            "gloss": "anges"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "les"
+          },
+          {
+            "greek": "ἁγίων.",
+            "gloss": "saints"
+          }
+        ]
+      },
+      {
+        "verse_number": "9, 1",
+        "translations": {
+          "segond": "Il leur dit encore : Je vous le dis en vérité, quelques-uns de ceux qui sont ici ne mourront point, qu'ils n'aient vu le royaume de Dieu venir avec puissance.",
+          "darby": "Et il leur dit : En vérité, je vous dis : Il y en a quelques-uns de ceux qui sont ici présents, qui ne goûteront point de la mort jusqu'à ce qu'ils aient vu le royaume de Dieu venu avec puissance."
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἔλεγεν",
+            "gloss": "il_disait"
+          },
+          {
+            "greek": "αὐτοῖς·",
+            "gloss": "à_eux"
+          },
+          {
+            "greek": "Ἀμὴν",
+            "gloss": "En_vérité"
+          },
+          {
+            "greek": "λέγω",
+            "gloss": "je_dis"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "εἰσίν",
+            "gloss": "il_y_en_a"
+          },
+          {
+            "greek": "τινες",
+            "gloss": "quelques-uns"
+          },
+          {
+            "greek": "ὧδε",
+            "gloss": "ici"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "de_ceux"
+          },
+          {
+            "greek": "ἑστηκότων",
+            "gloss": "étant_présents/debout"
+          },
+          {
+            "greek": "οἵτινες",
+            "gloss": "lesquels"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "non"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "pas"
+          },
+          {
+            "greek": "γεύσωνται",
+            "gloss": "goûteront"
+          },
+          {
+            "greek": "θανάτου",
+            "gloss": "de_mort"
+          },
+          {
+            "greek": "ἕως",
+            "gloss": "jusqu'à"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "ἴδωσιν",
+            "gloss": "ils_aient_vu"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "βασιλείαν",
+            "gloss": "royaume"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "ἐληλυθυῖαν",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "avec/dans"
+          },
+          {
+            "greek": "δυνάμει.",
+            "gloss": "puissance",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le Royaume venu avec puissance",
+              "content": "Approfondissement spirituel : L'expression *en dynamei* (avec puissance) désigne l'irruption des Énergies divines incréées dans l'épaisseur du temps linéaire. Le Royaume n'est pas une projection morale post-mortem ; c'est l'expérience vécue de la Transfiguration. Être debout (*hestēkotōn*), c'est être déjà éveillé à cette Présence qui rend la mort physique totalement inopérante.",
+              "related": [
+                "ἐν"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 34 - ἀπαρνησάσθω ἑαυτὸν : Traduit par 'renonce à lui-même'. Le préfixe *ap-* renforce l'action : il s'agit d'un désaveu total, d'une rupture définitive avec l'ancienne identité égocentrée. Ce n'est pas une simple privation morale, mais une kénose d'identité.\n• Verset 35 - ψυχὴν : Segond et Darby traduisent indifféremment par 'vie' au verset 35 et 'âme' aux versets 36-37. Ce glissement sémantique occulte le fait que c'est le même principe structurel (la *psyché*) qui est visé : le moi psychologique transitoire doit mourir pour laisser place au Sujet spirituel éternel.\n• Verset 1 (chapitre 9) - ἐληλυθυῖαν ἐν δυνάμει : Littéralement 'étant venu en puissance'. Le participe parfait indique une réalité déjà advenue et dont les effets se prolongent, ce que la formule de Segond ('venir avec puissance') tend à lisser au futur.\n\nAnalyse spirituelle :\nLe dimanche après l’Exaltation prolonge la contemplation de la Croix en appel concret à suivre le Christ. La Croix n'est pas l'exaltation doloriste de la souffrance, mais l'instrument géométrique de la subversion du 'Monde duel'. L'axe horizontal représente la trajectoire de l'humanité déchue : la circularité des conflits, la logique de survie, la peur du manque, l'esclavage de l'avoir et l'accumulation des objets mondains (*kosmon*).\n\nL'irruption du Christ plante au cœur de cette horizontalité un axe vertical absolu : le 'Royaume UN'. Porter sa croix, c'est accepter que notre Ego horizontal soit transpercé et cloué, afin de briser le mécanisme réflexe de conservation de soi ('sauver sa psyché'). C'est consentir à la kénose pour naître comme un véritable 'Sujet dans le Christ'. Le reniement de soi exigé n'est rien d'autre que la chute du masque théâtral pour faire face à Dieu 'sans ruse'. Après avoir exalté la Croix, le chrétien refuse de se laisser objectiver par la 'génération adultère' et s'ancre dans l'Énergie incréée (*dynamis*) qui transforme la mort en Pâques et fait de l'existence présente le tabernacle du Ciel ouvert.\n\nL’ordre des verbes demeure essentiel : vouloir venir, renoncer à soi-même, prendre sa croix et suivre. La croix ne désigne donc ni toute souffrance subie ni une recherche de douleur ; elle reçoit son sens du chemin derrière le Christ et pour l’Évangile.\n\nLa Croix visible renvoie ainsi à un passage intérieur : le Christ descend dans notre faiblesse afin de nous relever et de nous rendre participants de sa vie. Le dépouillement du disciple ne produit pas la grâce et ne mérite pas le salut ; il ouvre les mains pour recevoir le don qui le précède. La Croix devient alors arbre de vie : non parce que la douleur serait bonne en elle-même, mais parce que l’amour du Christ ouvre, jusque dans l’épreuve et la mort, un chemin vers la communion et la résurrection.\n\nCette lecture est également liturgique. Le signe de la Croix rappelle l’appartenance baptismale au Christ ; l’Eucharistie donne de communier à Celui qui s’est livré. Le mouvement ne s’arrête donc pas au renoncement : reçu du Christ, il porte des fruits de liberté, de fraternité et d’attention aux personnes blessées.",
+    "homiletic_axes": [
+      {
+        "title": "Derrière le Christ",
+        "content": "Jésus appelle la foule avec les disciples. Renoncer à soi et prendre sa croix ne forment pas une ascèse autonome : tout s’ordonne à le suivre.",
+        "keywords": [
+          "ἐλθεῖν,",
+          "ἀπαρνησάσθω",
+          "ἀράτω",
+          "ἀκολουθείτω"
+        ]
+      },
+      {
+        "title": "Perdre pour sauver",
+        "content": "Le même mot ψυχή désigne la vie que l’on veut préserver et celle qui est sauvée lorsqu’elle est donnée à cause du Christ et de l’Évangile.",
+        "keywords": [
+          "ψυχὴν",
+          "σῶσαι,",
+          "ἀπολέσει",
+          "σώσει"
+        ]
+      },
+      {
+        "title": "Crucifié avec le Christ, vivant en lui",
+        "content": "Paul exprime intérieurement le mouvement de l’Évangile : le moi autosuffisant ne règne plus, mais la personne vit dans la communion au Christ.",
+        "keywords": [
+          "συνεσταύρωμαι·",
+          "οὐκέτι",
+          "ἐγώ,",
+          "Χριστός·"
+        ]
+      },
+      {
+        "title": "La Croix reçue comme amour personnel",
+        "content": "Le Fils de Dieu n’est pas une idée : il « m’a aimé et s’est livré pour moi ». C’est cet amour qui permet de porter la croix sans dolorisme.",
+        "keywords": [
+          "ἀγαπήσαντός",
+          "παραδόντος",
+          "ἑαυτὸν",
+          "ἐμοῦ."
+        ]
+      },
+      {
+        "title": "La Croix, arbre de vie",
+        "content": "La Croix ne rend pas la souffrance désirable. Elle devient arbre de vie parce que l’amour du Christ ouvre un passage au cœur de ce qui semblait sans issue : la vie donnée n’est pas anéantie, elle est sauvée et reçue du Christ.",
+        "keywords": [
+          "σταυρὸν",
+          "σώσει",
+          "ζῇ"
+        ]
+      },
+      {
+        "title": "La puissance du Royaume dans la faiblesse",
+        "content": "Marc annonce le Royaume venu ἐν δυνάμει, tandis que Paul contemple le Fils qui s’est livré et qui vit en lui. La puissance divine ne supprime pas la faiblesse humaine : elle la traverse et y manifeste une vie que l’homme ne peut se donner seul.",
+        "keywords": [
+          "δυνάμει.",
+          "παραδόντος",
+          "ζῇ"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche après l’Exaltation de la Sainte-Croix : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression propre de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez ce don de la réponse à laquelle il ouvre."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : refus de l’appel, peur du manque, échec, profondeur, attachement, honte, jugement ou besoin de recommencer."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : cesser de tout porter seul, recevoir l’aide du Christ et de l’Église, poser un acte de fidélité, soutenir celui qui faiblit ou consentir à suivre sans rechercher la souffrance."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les interprétations symboliques comme une lecture spirituelle et non comme une traduction littérale des racines."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Prendre sa croix et vivre du Christ",
+        "reference": "Marc 8, 34 – 9, 1 ; Galates 2, 16-20",
+        "content": "L’Évangile appelle à suivre le Christ en prenant sa croix ; Paul témoigne de l’accomplissement intérieur de ce chemin : crucifié avec le Christ, il vit désormais de sa vie et de son amour.",
+        "connections": []
+      },
+      {
+        "title": "De la Croix à l’Eucharistie",
+        "reference": "Galates 2, 20 ; anamnèse et communion",
+        "content": "Celui qui s’est livré pour nous se donne à son Église. La communion ne célèbre pas la souffrance : elle unit les fidèles à la vie du Crucifié-Ressuscité et les envoie porter des fruits de liberté, de fraternité et de soin.",
+        "connections": []
+      },
+      {
+        "title": "Le signe baptismal de la Croix",
+        "reference": "Marc 8, 34 ; Romains 6, 3-11",
+        "content": "Prendre sa croix réveille la vocation reçue au baptême : mourir au péché avec le Christ afin de marcher dans une vie nouvelle. Le signe tracé sur le corps rend visible cette appartenance et appelle une réponse quotidienne.",
+        "connections": []
+      }
+    ]
+  },
+  "apostle": {
+    "reference": "Galates 2, 16-20",
+    "title": "Crucifié avec le Christ",
+    "interlinear": [
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "Néanmoins, sachant que ce n'est pas par les œuvres de la loi que l'homme est justifié, mais par la foi en Jésus Christ, nous aussi nous avons cru en Jésus Christ, afin d'être justifiés par la foi en Christ et non par les œuvres de la loi, parce que nulle chair ne sera justifiée par les œuvres de la loi.",
+          "darby": "Sachant néanmoins que l'homme n'est pas justifié sur le principe des œuvres de loi, ni autrement que par la foi en Jésus Christ, nous aussi, nous avons cru au Christ Jésus, afin que nous fussions justifiés sur le principe de la foi en Christ et non pas sur le principe des œuvres de loi : parce que sur le principe des œuvres de loi nulle chair ne sera justifiée."
+        },
+        "interlinear": [
+          {
+            "greek": "εἰδότες",
+            "gloss": "sachant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "que"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "δικαιοῦται",
+            "gloss": "est_justifié"
+          },
+          {
+            "greek": "ἄνθρωπος",
+            "gloss": "un_homme"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἔργων",
+            "gloss": "œuvres"
+          },
+          {
+            "greek": "νόμου,",
+            "gloss": "de_loi"
+          },
+          {
+            "greek": "ἐὰν",
+            "gloss": "sinon"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi/fidélité",
+            "annotation": {
+              "type": "traduction",
+              "title": "La foi ou la fidélité du Christ",
+              "content": "Le génitif πίστεως Χριστοῦ peut être traduit « foi en Christ » ou « fidélité du Christ ». Sans trancher artificiellement, le passage décentre la justification des œuvres de la loi vers la relation au Christ.",
+              "related": [
+                "Ἰησοῦ",
+                "Χριστοῦ,"
+              ]
+            }
+          },
+          {
+            "greek": "Ἰησοῦ",
+            "gloss": "de_Jésus"
+          },
+          {
+            "greek": "Χριστοῦ,",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἡμεῖς",
+            "gloss": "nous"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "en"
+          },
+          {
+            "greek": "Χριστὸν",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "Ἰησοῦν",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "ἐπιστεύσαμεν,",
+            "gloss": "avons_cru"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "δικαιωθῶμεν",
+            "gloss": "soyons_justifiés"
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "par"
+          },
+          {
+            "greek": "πίστεως",
+            "gloss": "foi/fidélité"
+          },
+          {
+            "greek": "Χριστοῦ",
+            "gloss": "du_Christ"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἔργων",
+            "gloss": "œuvres"
+          },
+          {
+            "greek": "νόμου,",
+            "gloss": "de_loi"
+          },
+          {
+            "greek": "διότι",
+            "gloss": "parce_que"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne_pas"
+          },
+          {
+            "greek": "δικαιωθήσεται",
+            "gloss": "sera_justifiée"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "par"
+          },
+          {
+            "greek": "ἔργων",
+            "gloss": "œuvres"
+          },
+          {
+            "greek": "νόμου",
+            "gloss": "de_loi"
+          },
+          {
+            "greek": "πᾶσα",
+            "gloss": "toute"
+          },
+          {
+            "greek": "σάρξ.",
+            "gloss": "chair"
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "translations": {
+          "segond": "Mais, tandis que nous cherchons à être justifiés par Christ, si nous étions aussi nous-mêmes trouvés pécheurs, Christ serait-il un ministre du péché ? Loin de là !",
+          "darby": "Or si, en cherchant à être justifiés en Christ, nous-mêmes aussi nous avons été trouvés pécheurs, Christ donc est ministre de péché ? Qu'ainsi n'advienne !"
+        },
+        "interlinear": [
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ζητοῦντες",
+            "gloss": "cherchant"
+          },
+          {
+            "greek": "δικαιωθῆναι",
+            "gloss": "être_justifiés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "Χριστῷ",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "εὑρέθημεν",
+            "gloss": "avons_été_trouvés"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "αὐτοὶ",
+            "gloss": "nous-mêmes"
+          },
+          {
+            "greek": "ἁμαρτωλοί,",
+            "gloss": "pécheurs"
+          },
+          {
+            "greek": "ἆρα",
+            "gloss": "donc"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ἁμαρτίας",
+            "gloss": "de_péché"
+          },
+          {
+            "greek": "διάκονος;",
+            "gloss": "serviteur"
+          },
+          {
+            "greek": "μὴ",
+            "gloss": "non"
+          },
+          {
+            "greek": "γένοιτο.",
+            "gloss": "qu’il_advienne"
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "translations": {
+          "segond": "Car, si je rebâtis les choses que j'ai détruites, je me constitue moi-même un transgresseur,",
+          "darby": "Car si ces mêmes choses que j'ai renversées, je les réédifie, je me constitue transgresseur moi-même."
+        },
+        "interlinear": [
+          {
+            "greek": "εἰ",
+            "gloss": "si"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "κατέλυσα",
+            "gloss": "j’ai_détruit"
+          },
+          {
+            "greek": "ταῦτα",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "πάλιν",
+            "gloss": "de_nouveau"
+          },
+          {
+            "greek": "οἰκοδομῶ,",
+            "gloss": "je_bâtis"
+          },
+          {
+            "greek": "παραβάτην",
+            "gloss": "transgresseur"
+          },
+          {
+            "greek": "ἐμαυτὸν",
+            "gloss": "moi-même"
+          },
+          {
+            "greek": "συνιστάνω.",
+            "gloss": "je_constitue"
+          }
+        ]
+      },
+      {
+        "verse_number": 19,
+        "translations": {
+          "segond": "car c'est par la loi que je suis mort à la loi, afin de vivre pour Dieu.",
+          "darby": "Car moi, par la loi, je suis mort à la loi, afin que je vive à Dieu."
+        },
+        "interlinear": [
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "par"
+          },
+          {
+            "greek": "νόμου",
+            "gloss": "loi"
+          },
+          {
+            "greek": "νόμῳ",
+            "gloss": "à_la_loi"
+          },
+          {
+            "greek": "ἀπέθανον,",
+            "gloss": "je_suis_mort"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "θεῷ",
+            "gloss": "pour_Dieu"
+          },
+          {
+            "greek": "ζήσω.",
+            "gloss": "je_vive"
+          }
+        ]
+      },
+      {
+        "verse_number": 20,
+        "translations": {
+          "segond": "J'ai été crucifié avec Christ ; et si je vis, ce n'est plus moi qui vis, c'est Christ qui vit en moi ; si je vis maintenant dans la chair, je vis dans la foi au Fils de Dieu, qui m'a aimé et qui s'est livré lui-même pour moi.",
+          "darby": "Je suis crucifié avec Christ ; et je ne vis plus, moi, mais Christ vit en moi ; et ce que je vis maintenant dans la chair, je le vis dans la foi, la foi au Fils de Dieu, qui m'a aimé et qui s'est livré lui-même pour moi."
+        },
+        "interlinear": [
+          {
+            "greek": "Χριστῷ",
+            "gloss": "avec_Christ"
+          },
+          {
+            "greek": "συνεσταύρωμαι·",
+            "gloss": "j’ai_été_crucifié",
+            "annotation": {
+              "type": "theologie",
+              "title": "J’ai été crucifié avec le Christ",
+              "content": "Le parfait de συσταυρόω indique une union à la Croix accomplie dont l’effet demeure. Paul ne glorifie pas la souffrance en elle-même : il annonce une vie nouvelle où le Christ vit en lui.",
+              "related": [
+                "Χριστῷ",
+                "ζῶ",
+                "Χριστός·"
+              ]
+            }
+          },
+          {
+            "greek": "ζῶ",
+            "gloss": "je_vis"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "οὐκέτι",
+            "gloss": "plus"
+          },
+          {
+            "greek": "ἐγώ,",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ζῇ",
+            "gloss": "vit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "ἐμοὶ",
+            "gloss": "moi",
+            "annotation": {
+              "type": "repetition",
+              "title": "En moi",
+              "content": "La répétition de ἐν situe la vie chrétienne dans une communion : le Christ vit « en moi », et la vie présente dans la chair est vécue « dans la foi ».",
+              "related": [
+                "Χριστός·",
+                "πίστει"
+              ]
+            }
+          },
+          {
+            "greek": "Χριστός·",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "νῦν",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "ζῶ",
+            "gloss": "je_vis"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "σαρκί,",
+            "gloss": "chair"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πίστει",
+            "gloss": "foi"
+          },
+          {
+            "greek": "ζῶ",
+            "gloss": "je_vis"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "υἱοῦ",
+            "gloss": "Fils"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de"
+          },
+          {
+            "greek": "θεοῦ,",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "ἀγαπήσαντός",
+            "gloss": "ayant_aimé",
+            "annotation": {
+              "type": "theologie",
+              "title": "Celui qui m’a aimé",
+              "content": "La confession devient personnelle : le Fils de Dieu m’a aimé et s’est livré pour moi. La Croix est d’abord reçue comme manifestation de cet amour.",
+              "related": [
+                "παραδόντος",
+                "ἐμοῦ."
+              ]
+            }
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "παραδόντος",
+            "gloss": "ayant_livré"
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "ὑπὲρ",
+            "gloss": "pour",
+            "annotation": {
+              "type": "theologie",
+              "title": "Pour moi : le don qui précède",
+              "content": "Ὑπὲρ ἐμοῦ signifie ici « pour moi », « en ma faveur ». Avant que le disciple prenne sa croix, le Fils s’est livré librement pour lui : la réponse chrétienne naît d’un amour déjà donné.",
+              "related": [
+                "παραδόντος",
+                "ἑαυτὸν",
+                "ἐμοῦ."
+              ]
+            }
+          },
+          {
+            "greek": "ἐμοῦ.",
+            "gloss": "moi"
+          }
+        ]
+      }
+    ],
+    "notes_translators": [],
+    "personal_analysis": "Notes sur le texte grec :\n• πίστις Χριστοῦ peut être entendue comme foi en Christ ou fidélité du Christ ; la construction ouvre un horizon plus large qu’une performance psychologique du croyant.\n• συνεσταύρωμαι est un parfait : « j’ai été crucifié avec » et cette union demeure.\n• οὐκέτι ἐγώ… Χριστός : Paul ne décrit pas l’anéantissement de la personne, mais une vie personnelle désormais reçue dans la communion au Christ.\n\nAnalyse spirituelle : après l’appel à prendre sa croix, l’Apôtre en révèle l’intériorisation baptismale : être crucifié avec le Christ afin que sa vie habite en nous. La kénose ne détruit pas le sujet ; elle délivre du moi autosuffisant et ouvre une existence relationnelle, vécue dans la foi au Fils qui « m’a aimé et s’est livré pour moi ».\n\nLe mouvement part donc du Christ et non de l’effort humain : « il m’a aimé » puis « il s’est livré pour moi ». La foi accueille ce don ; elle ne cherche pas à fabriquer la grâce. L’ancienne autosuffisance descend de son trône, mais la personne n’est ni effacée ni absorbée : elle devient pleinement vivante dans une communion où le Christ agit en elle.\n\nCette vie reçue possède une forme ecclésiale et eucharistique. Le « en moi » de Paul ne referme pas le croyant dans une expérience privée : uni au Corps livré, il apprend à se donner à son tour, à porter avec les autres leurs fardeaux et à manifester dans le monde la vie du Crucifié-Ressuscité.",
+    "homiletic_axes": [
+      {
+        "title": "La justification comme don reçu dans le Christ",
+        "content": "Après l’appel à renoncer à soi-même, Paul écarte toute autosuffisance religieuse : la vie juste n’est pas produite par l’accumulation des œuvres, elle est reçue dans la communion au Christ.",
+        "keywords": ["δικαιοῦται", "πίστεως", "Χριστοῦ"]
+      },
+      {
+        "title": "Crucifié avec le Christ, sans disparition de la personne",
+        "content": "Paul exprime de l’intérieur ce que signifie prendre sa croix : le moi autosuffisant cesse d’être le centre, mais la personne demeure et reçoit une vie nouvelle dans le Christ.",
+        "keywords": ["συνεσταύρωμαι·", "οὐκέτι", "Χριστός·"]
+      },
+      {
+        "title": "Vivre de l’amour du Fils qui se livre",
+        "content": "La Croix n’est ni recherche de souffrance ni mépris de soi. Elle devient chemin de vie parce qu’elle est d’abord le don personnel du Fils de Dieu qui aime et se livre.",
+        "keywords": ["ἀγαπήσαντός", "παραδόντος", "ἑαυτὸν"]
+      },
+      {
+        "title": "Le don précède la réponse",
+        "content": "Le disciple ne produit pas la vie nouvelle par sa propre kénose. Il répond dans la foi au Fils qui l’a aimé et s’est livré pour lui ; le dépouillement devient disponibilité à une grâce déjà offerte.",
+        "keywords": ["πίστει", "ἀγαπήσαντός", "ὑπὲρ", "ἐμοῦ."]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement votre entrée dans les deux lectures du dimanche après l’Exaltation de la Sainte-Croix : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression propre de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez ce don de la réponse à laquelle il ouvre."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : refus de l’appel, peur du manque, échec, profondeur, attachement, honte, jugement ou besoin de recommencer."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : cesser de tout porter seul, recevoir l’aide du Christ et de l’Église, poser un acte de fidélité, soutenir celui qui faiblit ou consentir à suivre sans rechercher la souffrance."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Présentez les interprétations symboliques comme une lecture spirituelle et non comme une traduction littérale des racines."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Communier à la vie du Crucifié-Ressuscité",
+        "reference": "Galates 2, 20 ; Divine Liturgie",
+        "content": "« Le Christ vit en moi » trouve un accomplissement ecclésial dans la communion : le fidèle reçoit Celui qui s’est livré pour lui afin que cette vie porte des fruits de charité, de service et de témoignage.",
+        "connections": []
+      }
+    ]
+  },
+  "reading_connections": {
+    "title":"Porter la Croix et laisser le Christ vivre en soi",
+    "summary":"L’appel de Jésus à se renier et porter sa croix reçoit chez Paul une formulation intérieure : être crucifié avec le Christ, ne plus vivre centré sur soi et recevoir sa vie dans la foi.",
+    "links":[
+      {
+        "directness":"direct","kind":"same_root","link_type":"cross_and_co_crucifixion","title":"Prendre sa croix — être crucifié avec le Christ",
+        "explanation":"Jésus demande de prendre τὸν σταυρόν ; Paul confesse Χριστῷ συνεσταύρωμαι. Le nom σταυρός et le verbe composé συσταυρόω partagent la racine σταυρ- et font passer de l’appel du disciple à l’union au Christ crucifié.",
+        "bridge_sentence":"Porter sa croix n’est pas cultiver la souffrance : c’est unir son existence au Christ crucifié et vivant.",
+        "homiletic_use":"Écarter l’idée que toute peine subie serait automatiquement « sa croix » ; le texte parle d’une marche libre derrière Jésus.",
+        "bridge":{"evidence":"Même racine σταυρ- : σταυρὸν / συνεσταύρωμαι","gospel":"ἀράτω τὸν σταυρὸν αὐτοῦ : qu’il prenne sa croix","relation":"L’acte demandé au disciple devient participation à la Croix du Christ","apostle":"Χριστῷ συνεσταύρωμαι : je suis crucifié avec le Christ","detail":"Le préfixe συν- de συσταυρόω exprime l’association avec le Christ."},
+        "term_details":{"gospel":[{"forms":["σταυρὸν"],"lemma":"σταυρός","root":"σταυρ- : croix","literal":"la croix","role":"Le disciple la prend dans un mouvement de suite volontaire."}],"apostle":[{"forms":["συνεσταύρωμαι"],"lemma":"συσταυρόω","root":"συν- + σταυρ- : crucifier avec","literal":"je suis crucifié avec","role":"Paul décrit son identité nouvelle par son union au Christ."}]},
+        "gospel":{"verses":["34"],"terms":["σταυρὸν"]},"apostle":{"verses":["20"],"terms":["συνεσταύρωμαι"]}
+      },
+      {
+        "directness":"direct","kind":"same_word","link_type":"self_denied_and_given","title":"Renoncer à soi-même — le Christ s’est donné lui-même",
+        "explanation":"Le disciple est appelé à renoncer ἑαυτόν ; Paul contemple le Fils qui a livré ἑαυτόν pour lui. Le même pronom ne place pas sur le même plan les deux actes : le don premier du Christ rend possible le décentrement du disciple.",
+        "bridge_sentence":"Le renoncement chrétien répond au don du Christ : il ne méprise pas la personne, il la libère de l’enfermement sur soi.",
+        "homiletic_use":"Prévenir toute lecture destructrice du renoncement à soi ; son modèle et sa source sont l’amour du Christ qui se donne.",
+        "bridge":{"evidence":"Même pronom réfléchi ἑαυτόν","gospel":"ἀπαρνησάσθω ἑαυτόν : qu’il renonce à lui-même","relation":"Le décentrement du disciple répond au don aimant et préalable du Christ","apostle":"παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ : qui s’est livré lui-même pour moi","detail":"L’identité formelle du pronom souligne une relation théologique, non une équivalence entre les sujets."},
+        "term_details":{"gospel":[{"forms":["ἑαυτὸν"],"lemma":"ἑαυτοῦ","root":"pronom réfléchi : soi-même","literal":"lui-même","role":"Le disciple cesse de faire de son moi le centre de sa marche."}],"apostle":[{"forms":["ἑαυτὸν"],"lemma":"ἑαυτοῦ","root":"pronom réfléchi : soi-même","literal":"lui-même","role":"Le Fils est le sujet libre du don accompli par amour."}]},
+        "gospel":{"verses":["34"],"terms":["ἑαυτὸν"]},"apostle":{"verses":["20"],"terms":["ἑαυτὸν"]}
+      },
+      {
+        "directness":"indirect","kind":"thematic","link_type":"lose_life_live_in_christ","title":"Perdre sa vie pour l’Évangile — le Christ vit en moi",
+        "explanation":"Jésus oppose vouloir sauver sa ψυχή et la perdre pour lui et pour l’Évangile. Paul affirme : « ce n’est plus moi qui vis, le Christ vit en moi ». Le paradoxe évangélique s’éclaire comme passage d’une vie possédée à une vie reçue.",
+        "bridge_sentence":"La vie sauvée n’est pas celle que le moi retient, mais celle que le Christ fait vivre dans la foi.",
+        "homiletic_use":"Ne pas fabriquer un lien étymologique entre ψυχή et ζάω ; faire entendre leur relation existentielle dans les deux passages.",
+        "bridge":{"evidence":"Correspondance thématique entre ψυχή à perdre/sauver et ζῶ orienté par le Christ","gospel":"ἀπολέσει τὴν ψυχὴν… σώσει αὐτήν : perdra sa vie… la sauvera","relation":"Le paradoxe de perdre pour sauver devient une existence dont le Christ est le centre vivant","apostle":"ζῶ δὲ οὐκέτι ἐγώ, ζῇ δὲ ἐν ἐμοὶ Χριστός : ce n’est plus moi qui vis, le Christ vit en moi","detail":"ψυχή et ζάω ne partagent pas de racine ; le lien est explicitement thématique."},
+        "term_details":{"gospel":[{"forms":["ψυχὴν","ἀπολέσει","σώσει"],"lemma":"ψυχή / ἀπόλλυμι / σῴζω","root":"vie-personne / perdre / sauver","literal":"vie / perdra / sauvera","role":"Jésus renverse la logique de conservation de soi."}],"apostle":[{"forms":["ζῶ","ζῇ"],"lemma":"ζάω","root":"ζη-/ζω- : vivre","literal":"je vis / il vit","role":"Paul reçoit sa vie présente de la présence du Christ en lui."}]},
+        "gospel":{"verses":["35"],"terms":["ψυχὴν","ἀπολέσει","σώσει"]},"apostle":{"verses":["19","20"],"terms":["ζήσω","ζῶ","ζῇ"]}
+      },
+      {
+        "directness":"indirect","kind":"movement","link_type":"discipleship_sequence","title":"Venir, renoncer, prendre, suivre — croire, se décentrer, être crucifié, vivre du Christ",
+        "explanation":"Marc déploie en quatre verbes le chemin du disciple. Paul n’en donne pas une traduction mot à mot, mais il en manifeste l’accomplissement intérieur : croire au Christ, ne plus vivre centré sur le moi, être crucifié avec lui et recevoir sa vie.",
+        "bridge_sentence":"Le chemin demandé par Jésus devient chez Paul une existence reçue : venir au Christ, quitter l’autosuffisance, participer à sa Croix et vivre de sa présence.",
+        "homiletic_use":"Faire entendre une progression et non quatre exigences séparées. Préciser que les correspondances avec Paul sont structurelles et théologiques, sans prétendre à une identité de racines grecques.",
+        "bridge":{"evidence":"Deux progressions complémentaires, sans racine grecque commune entre leurs quatre étapes","gospel":"ἐλθεῖν → ἀπαρνησάσθω → ἀράτω → ἀκολουθείτω","relation":"L’appel extérieur à marcher derrière Jésus devient une vie intérieurement unie au Christ","apostle":"ἐπιστεύσαμεν → οὐκέτι ἐγώ → συνεσταύρωμαι → ζῇ ἐν ἐμοὶ Χριστός","detail":"Le rapprochement suit la dynamique des deux textes ; il ne transforme pas ces verbes différents en synonymes."},
+        "movement_title":"De l’appel de Jésus à la vie du Christ en Paul",
+        "movement_map":[
+          {"gospel":{"greek":"ἐλθεῖν","sense":"venir derrière le Christ"},"relation":"répondre à l’appel","apostle":{"greek":"ἐπιστεύσαμεν","sense":"nous avons cru au Christ"}},
+          {"gospel":{"greek":"ἀπαρνησάσθω ἑαυτόν","sense":"renoncer à faire de soi le centre"},"relation":"quitter l’autosuffisance","apostle":{"greek":"οὐκέτι ἐγώ","sense":"ce n’est plus moi qui vis"}},
+          {"gospel":{"greek":"ἀράτω τὸν σταυρόν","sense":"prendre sa croix"},"relation":"participer à la Croix","apostle":{"greek":"Χριστῷ συνεσταύρωμαι","sense":"je suis crucifié avec le Christ"}},
+          {"gospel":{"greek":"ἀκολουθείτω μοι","sense":"qu’il me suive"},"relation":"recevoir une vie nouvelle","apostle":{"greek":"ζῇ ἐν ἐμοὶ Χριστός","sense":"le Christ vit en moi"}}
+        ],
+        "term_details":{
+          "gospel":[
+            {"forms":["ἐλθεῖν"],"lemma":"ἔρχομαι","root":"ἐρχ-/ἐλθ- : venir","literal":"venir","role":"Le désir libre d’aller derrière le Christ ouvre la progression."},
+            {"forms":["ἀπαρνησάσθω"],"lemma":"ἀπαρνέομαι","root":"ἀπ- + ἀρν- : renoncer, désavouer","literal":"qu’il renonce","role":"Le disciple cesse de faire de lui-même le centre."},
+            {"forms":["ἀράτω"],"lemma":"αἴρω","root":"ἀρ-/αἰρ- : lever, prendre, porter","literal":"qu’il prenne","role":"Il consent librement à porter sa croix."},
+            {"forms":["ἀκολουθείτω"],"lemma":"ἀκολουθέω","root":"ἀκολουθ- : suivre","literal":"qu’il suive","role":"Le présent impératif inscrit l’appel dans une marche durable."}
+          ],
+          "apostle":[
+            {"forms":["ἐπιστεύσαμεν"],"lemma":"πιστεύω","root":"πιστ- : foi, confiance, fidélité","literal":"nous avons cru","role":"La réponse commence par la confiance placée dans le Christ."},
+            {"forms":["οὐκέτι","ἐγώ"],"lemma":"οὐκέτι / ἐγώ","root":"négation temporelle / pronom personnel","literal":"ce n’est plus moi","role":"Le moi autosuffisant cesse d’être le centre de l’existence."},
+            {"forms":["συνεσταύρωμαι"],"lemma":"συσταυρόω","root":"συν- + σταυρ- : crucifier avec","literal":"je suis crucifié avec","role":"La croix portée devient participation à la Croix du Christ."},
+            {"forms":["ζῇ","Χριστός"],"lemma":"ζάω / Χριστός","root":"ζη-/ζω- : vivre","literal":"le Christ vit","role":"Suivre trouve son accomplissement dans une vie reçue de la présence du Christ."}
+          ]
+        },
+        "gospel":{"verses":["34"],"terms":["ἐλθεῖν","ἀπαρνησάσθω","ἀράτω","ἀκολουθείτω"]},
+        "apostle":{"verses":["16","20"],"terms":["ἐπιστεύσαμεν","οὐκέτι","ἐγώ","συνεσταύρωμαι","ζῇ","Χριστός"]}
+      }
+    ]
+  }
+}

@@ -2,11 +2,12 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const DATA_VERSION = '20260923-cross-movement-compare-1';
+    const APP_CONFIG = window.LECTIONARY_CONFIG || {};
+    const DATA_VERSION = APP_CONFIG.dataVersion || '20260923-cross-movement-compare-1';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
-    const liturgicalList = {
+    const fullLiturgicalList = {
         // --- Période du Triode ---
         '00_publican_pharisee': 'A. Dimanche du Publicain et du Pharisien',
         '01_prodigal_son': 'B. Dimanche du Fils Prodigue',
@@ -80,8 +81,19 @@ document.addEventListener('DOMContentLoaded', () => {
         // La Cananéenne possède une fiche canonique unique : 317_after_pentecost_17.
     };
 
+    const allowedSundayKeys = Array.isArray(APP_CONFIG.allowedSundayKeys)
+        ? new Set(APP_CONFIG.allowedSundayKeys)
+        : null;
+    const isSundayAvailable = key => Boolean(key) && (!allowedSundayKeys || allowedSundayKeys.has(key));
+    const liturgicalList = Object.fromEntries(
+        Object.entries(fullLiturgicalList).filter(([key]) => isSundayAvailable(key))
+    );
+    const configuredDefaultSunday = isSundayAvailable(APP_CONFIG.defaultSundayKey)
+        ? APP_CONFIG.defaultSundayKey
+        : Object.keys(liturgicalList)[0];
+
     // --- SÉCURITÉ : CHOIX PAR DÉFAUT ---
-    let currentSundayKey = '00_publican_pharisee';
+    let currentSundayKey = configuredDefaultSunday || '00_publican_pharisee';
     let currentReadingType = 'gospel';
     let currentTranslation = 'segond';
     let currentHomilyReference = '';
@@ -103,6 +115,28 @@ document.addEventListener('DOMContentLoaded', () => {
     let touchPrimedLiturgicalSundayButton = null;
     const liturgicalSundayTooltipData = new Map();
     const liturgicalCalendarTooltipData = new Map();
+
+    if (APP_CONFIG.demo) {
+        document.body.classList.add('demo-mode');
+        document.title = APP_CONFIG.documentTitle || 'Lectionnaire interlinéaire orthodoxe — Démonstration';
+        const appTitle = document.getElementById('app-title');
+        if (appTitle) appTitle.textContent = APP_CONFIG.appTitle || 'Lectionnaire Interlinéaire Orthodoxe';
+        const brand = document.querySelector('.app-brand');
+        if (brand) {
+            const notice = document.createElement('p');
+            notice.className = 'demo-notice';
+            notice.textContent = APP_CONFIG.demoNotice || 'Version de démonstration — deux péricopes complètes';
+            brand.appendChild(notice);
+        }
+        const configuredYears = Array.isArray(APP_CONFIG.calendarYears)
+            ? new Set(APP_CONFIG.calendarYears.map(String))
+            : null;
+        if (configuredYears) {
+            document.querySelectorAll('#calendar-year-select option').forEach(option => {
+                if (!configuredYears.has(option.value)) option.remove();
+            });
+        }
+    }
 
     const defaultHomilyTemplate = [
         {
@@ -2090,6 +2124,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!container) return;
         container.innerHTML = '';
         liturgicalSundayRows.forEach(row => {
+            const availableKeys = row.keys.filter(isSundayAvailable);
+            if (!availableKeys.length) return;
             const section = document.createElement('section');
             section.className = `liturgical-sunday-row sunday-row-${row.tone}`;
             section.setAttribute('aria-labelledby', `sunday-row-title-${row.id}`);
@@ -2102,7 +2138,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title.id = `sunday-row-title-${row.id}`;
             title.textContent = row.title;
             const count = document.createElement('span');
-            count.textContent = `${row.keys.length} accès`;
+            count.textContent = `${availableKeys.length} accès`;
             heading.append(eyebrow, title, count);
 
             const scroll = document.createElement('div');
@@ -2111,9 +2147,9 @@ document.addEventListener('DOMContentLoaded', () => {
             scroll.setAttribute('aria-label', `${row.title} — faire défiler les dimanches`);
             const grid = document.createElement('div');
             grid.className = 'liturgical-sunday-grid';
-            grid.style.setProperty('--sunday-count', String(row.keys.length));
+            grid.style.setProperty('--sunday-count', String(availableKeys.length));
 
-            row.keys.forEach((key, index) => {
+            availableKeys.forEach((key, index) => {
                 const fullLabel = liturgicalList[key] || key;
                 const button = document.createElement('button');
                 button.type = 'button';
@@ -2138,7 +2174,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const openLiturgicalStageReading = async (stage, readingType, compare = false) => {
-        if (!stage?.key) return;
+        if (!stage?.key || !isSundayAvailable(stage.key)) return;
         setSelectionMode('pericope');
         const sundaySelect = document.getElementById('sunday-select');
         if (sundaySelect) sundaySelect.value = stage.key;
@@ -2178,7 +2214,7 @@ document.addEventListener('DOMContentLoaded', () => {
         references.textContent = `Évangile : ${stage.readings.gospel} · Apôtre : ${stage.readings.apostle}`;
         const actions = document.createElement('div');
         actions.className = 'liturgical-stage-actions';
-        if (stage.key) {
+        if (stage.key && isSundayAvailable(stage.key)) {
             const gospelButton = document.createElement('button');
             gospelButton.type = 'button';
             gospelButton.textContent = 'Évangile interlinéaire';
@@ -2199,7 +2235,9 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             const pending = document.createElement('p');
             pending.className = 'liturgical-stage-pending';
-            pending.textContent = 'La place liturgique est décrite ; la fiche interlinéaire de cette fête reste à intégrer.';
+            pending.textContent = APP_CONFIG.demo && stage.key
+                ? 'Cette étape est visible pour situer le parcours, mais sa fiche complète n’appartient pas à cet échantillon.'
+                : 'La place liturgique est décrite ; la fiche interlinéaire de cette fête reste à intégrer.';
             actions.appendChild(pending);
         }
         readings.append(readingsTitle, references, actions);
@@ -2339,7 +2377,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 overview.appendChild(card);
             });
 
-            const journeys = [data.prototype, ...(data.additional_paths || [])].filter(Boolean);
+            const allJourneys = [data.prototype, ...(data.additional_paths || [])].filter(Boolean);
+            const journeys = APP_CONFIG.demo
+                ? allJourneys.filter(journey => (journey.stages || []).some(stage => isSundayAvailable(stage.key)))
+                : allJourneys;
             selectors.innerHTML = '';
             journeys.forEach((journey, index) => {
                 const button = document.createElement('button');
@@ -2393,6 +2434,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 3. FONCTION DE CHARGEMENT DES DONNÉES (FETCH) ---
     const loadTextContext = async (sundayKey, readingType) => {
+        if (!isSundayAvailable(sundayKey)) return;
         const existingHomilyFields = document.querySelectorAll('#homily-fields textarea');
         if (existingHomilyFields.length) {
             window.clearTimeout(homilySaveTimer);
@@ -2642,7 +2684,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: 'Pentecostaire', matches: key => /^2[1-9]_/.test(key) },
         { title: 'Cycle de Matthieu', matches: key => /^3(0[2-9]|1[0-7])_/.test(key) },
         { title: 'Cycle de Luc', matches: key => /^3(1[8-9]|2[0-9]|3[0-2])_/.test(key) },
-        { title: 'Nativité et Théophanie', matches: key => /^9[0-5]_/.test(key) }
+        { title: 'Nativité et Théophanie', matches: key => /^9[0-5]_/.test(key) },
+        { title: 'Autour de l’Exaltation de la Sainte-Croix', matches: key => /^9[67]_/.test(key) }
     ];
 
     const normalizeSearch = value => String(value || '')
@@ -2964,7 +3007,13 @@ document.addEventListener('DOMContentLoaded', () => {
             const dateFormatter = new Intl.DateTimeFormat('fr-FR', {
                 weekday: 'long', day: 'numeric', month: 'long'
             });
-            calendarSundays = calendar.sundays;
+            const visibleSundays = allowedSundayKeys
+                ? calendar.sundays.filter(sunday => {
+                    const readingKeys = [sunday.readings?.gospel?.key, sunday.readings?.apostle?.key];
+                    return isSundayAvailable(sunday.key) || readingKeys.some(isSundayAvailable);
+                })
+                : calendar.sundays;
+            calendarSundays = visibleSundays;
             currentCalendarEntry = null;
             if (calendarYearSelect) calendarYearSelect.value = String(calendar.year);
             if (calendarLegend) calendarLegend.hidden = calendar.status !== 'provisional';
@@ -2972,7 +3021,7 @@ document.addEventListener('DOMContentLoaded', () => {
             let currentMonth = '';
             let group = null;
 
-            calendar.sundays.forEach(sunday => {
+            visibleSundays.forEach(sunday => {
                 const date = new Date(`${sunday.date}T12:00:00`);
                 const month = monthFormatter.format(date);
                 if (month !== currentMonth) {
@@ -3042,8 +3091,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     String(today.getMonth() + 1).padStart(2, '0'),
                     String(today.getDate()).padStart(2, '0')
                 ].join('-');
-                const nextSunday = calendar.sundays.find(sunday => sunday.date >= localDate)
-                    || calendar.sundays[calendar.sundays.length - 1];
+                const nextSunday = visibleSundays.find(sunday => sunday.date >= localDate)
+                    || visibleSundays[visibleSundays.length - 1];
                 if (nextSunday) {
                     calendarSelect.value = nextSunday.date;
                     calendarSelect.dispatchEvent(new Event('change'));
@@ -3078,7 +3127,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     populateSundaySelect();
-    populateCalendarSelect();
+    populateCalendarSelect(Number(APP_CONFIG.defaultCalendarYear || 2026));
     loadTextContext(currentSundayKey, currentReadingType);
 
     // --- 5. ÉCOUTEURS D'ÉVÉNEMENTS ---

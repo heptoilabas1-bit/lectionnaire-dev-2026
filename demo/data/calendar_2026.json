@@ -1,0 +1,49 @@
+{
+  "year": 2026,
+  "source": {
+    "name": "Métropole Orthodoxe Roumaine d’Europe Occidentale et Méridionale — Doyenné de France",
+    "url": "https://www.mitropolia.eu/fr/site/155/"
+  },
+  "sundays": [
+    {
+      "date": "2026-08-02",
+      "key": "309_after_pentecost_9",
+      "official_title": "9e dimanche après la Pentecôte.",
+      "readings": {
+        "apostle": {
+          "reference": "1 Corinthiens 3, 9-17",
+          "key": "309_after_pentecost_9"
+        },
+        "gospel": {
+          "reference": "Matthieu 14, 22-34",
+          "key": "309_after_pentecost_9"
+        }
+      }
+    },
+    {
+      "date": "2026-09-20",
+      "key": "97_cross_after",
+      "doxologia_title": "Dimanche après l’Exaltation de la Sainte-Croix",
+      "readings": {
+        "apostle": {
+          "reference": "Galates 2, 16-20",
+          "key": "97_cross_after"
+        },
+        "gospel": {
+          "reference": "Marc 8, 34 - 9, 1",
+          "key": "97_cross_after"
+        }
+      },
+      "note": "Lectures propres au dimanche après l’Exaltation de la Sainte-Croix.",
+      "official_title": "16e dimanche après la Pentecôte. Dimanche après la Croix."
+    }
+  ],
+  "demo": {
+    "limited": true,
+    "notice": "Calendrier filtré pour la version de démonstration.",
+    "available_pericopes": [
+      "309_after_pentecost_9",
+      "97_cross_after"
+    ]
+  }
+}

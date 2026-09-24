@@ -1,0 +1,22 @@
+{
+  "kind": "lectionary-demo",
+  "generated_from": "application-complete",
+  "pericopes": [
+    "309_after_pentecost_9",
+    "97_cross_after"
+  ],
+  "shared_engine": [
+    "../app.js",
+    "../style.css"
+  ],
+  "generated_files": [
+    "data/309_after_pentecost_9.json",
+    "data/97_cross_after.json",
+    "data/calendar_2023.json",
+    "data/calendar_2024.json",
+    "data/calendar_2025.json",
+    "data/calendar_2026.json",
+    "data/calendar_2027.json",
+    "data/liturgical_path.json"
+  ]
+}

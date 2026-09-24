@@ -1,0 +1,32 @@
+{
+  "year": 2023,
+  "source": {
+    "name": "Métropole Orthodoxe Roumaine d’Europe Occidentale et Méridionale — Doyenné de France",
+    "file": "Calendrier-Liturgique-2023.pdf"
+  },
+  "sundays": [
+    {
+      "date": "2023-09-17",
+      "key": "97_cross_after",
+      "official_title": "15ème dimanche après la Pentecôte. Dimanche après la Croix. Ton 6",
+      "readings": {
+        "apostle": {
+          "reference": "Galates 2, 16-20",
+          "key": "97_cross_after"
+        },
+        "gospel": {
+          "reference": "Marc 8, 34 à 9, 1",
+          "key": "97_cross_after"
+        }
+      }
+    }
+  ],
+  "demo": {
+    "limited": true,
+    "notice": "Calendrier filtré pour la version de démonstration.",
+    "available_pericopes": [
+      "309_after_pentecost_9",
+      "97_cross_after"
+    ]
+  }
+}

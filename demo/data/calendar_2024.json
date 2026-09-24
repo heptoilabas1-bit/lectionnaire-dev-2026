@@ -1,0 +1,47 @@
+{
+  "year": 2024,
+  "source": {
+    "name": "Métropole Orthodoxe Roumaine d’Europe Occidentale et Méridionale — Doyenné de France",
+    "file": "Calendrier-Liturgique-2024.pdf"
+  },
+  "sundays": [
+    {
+      "date": "2024-08-25",
+      "key": "309_after_pentecost_9",
+      "official_title": "9ème dimanche après la Pentecôte. Ton 8",
+      "readings": {
+        "apostle": {
+          "reference": "1 Corinthiens 3, 9-17",
+          "key": "309_after_pentecost_9"
+        },
+        "gospel": {
+          "reference": "Matthieu 14, 22-34",
+          "key": "309_after_pentecost_9"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15",
+      "key": "97_cross_after",
+      "official_title": "12ème dimanche après la Pentecôte. Dimanche après la Croix. Ton 3",
+      "readings": {
+        "apostle": {
+          "reference": "Galates 2, 16-20",
+          "key": "97_cross_after"
+        },
+        "gospel": {
+          "reference": "Marc 8, 34-38",
+          "key": "97_cross_after"
+        }
+      }
+    }
+  ],
+  "demo": {
+    "limited": true,
+    "notice": "Calendrier filtré pour la version de démonstration.",
+    "available_pericopes": [
+      "309_after_pentecost_9",
+      "97_cross_after"
+    ]
+  }
+}
