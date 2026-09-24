@@ -166,7 +166,7 @@
             "annotation": {
               "type": "racine",
               "importance": "major",
-              "title": "εἷς, μία, ἕν — un, une",
+              "title": "εἷς, μία, ἕν, un, une",
               "grammar": {
                 "form": "μιᾶς",
                 "lemma": "εἷς, μία, ἕν",
@@ -185,20 +185,20 @@
                 "paradigm": "εἷς au masculin, μία au féminin, ἕν au neutre ; génitif féminin : μιᾶς.",
                 "etymology": "Le paradigme alterne les thèmes ἑν- au masculin-neutre et μι- au féminin. Pour l’étymologie historique, la fiche renvoie à Chantraine, s.v. εἷς, sans imposer ici une reconstruction incertaine.",
                 "distinctions": [
-                  "εἷς, μία, ἕν est le numéral « un ».",
-                  "ὁμός signifie « même, commun, identique » : il exprime une communauté, mais n’est pas le chiffre un.",
-                  "L’« alpha copulatif » désigne un élément de composition dans certains mots ; ce n’est pas un troisième numéral autonome et son identification doit être vérifiée mot par mot."
+                  "εἷς, μία, ἕν est le numéral « un » et nomme directement l’unité ou l’unicité selon le contexte.",
+                  "ὁμός signifie « même, commun, identique ». Il exprime ce que plusieurs ont en commun, sans être lui-même le chiffre un.",
+                  "L’« alpha copulatif » exprime une mise en commun dans certains mots composés. Il faut le distinguer de l’alpha privatif et vérifier sa valeur mot par mot."
                 ],
-                "theological_horizon": "Dans l’Écriture, εἷς peut confesser l’unicité divine — par exemple dans « le Seigneur est un ». Cette portée ne doit pas être appliquée automatiquement à chaque occurrence : en Luc 14,18, le mot appartient d’abord à une locution adverbiale."
+                "theological_horizon": "Dans la réflexion du père Pascal, l’Un constitue un attribut divin majeur. Le paradigme εἷς, μία, ἕν peut porter cette confession du Dieu Un, comme dans « le Seigneur est un ». La fiche distingue toutefois cet horizon théologique de la fonction grammaticale précise de chaque occurrence."
               },
               "local": {
-                "reference": "Luc 14,18 — dimanche des Saints Ancêtres",
+                "reference": "Luc 14,18, dimanche des Saints Ancêtres",
                 "expression": "ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι",
-                "literal": "Ils commencèrent, à partir d’une seule [disposition / pensée], tous à s’excuser.",
-                "translation": "Ils commencèrent tous, unanimement — ou d’un même mouvement — à s’excuser.",
+                "literal": "Ils commencèrent tous, à partir d’une seule [disposition ou pensée], à s’excuser.",
+                "translation": "Ils commencèrent tous à s’excuser, unanimement ou d’un même mouvement.",
                 "syntax": "ἀπό régit le génitif μιᾶς. La tournure est elliptique : on peut sous-entendre γνώμης, « pensée / disposition », ou comprendre une valeur adverbiale, « ensemble, unanimement ».",
-                "commentary": "Les excuses sont différentes, mais leur mouvement est commun : chacun laisse un bien légitime devenir un obstacle à l’invitation. L’unanimité porte paradoxalement sur le refus du repas offert.",
-                "caution": "Le texte décrit une convergence des refus ; il ne permet pas, à lui seul, de conclure à la disparition de la liberté personnelle dans un « ego collectif ». Cette interprétation doit rester une piste homilétique distincte de l’analyse grammaticale."
+                "commentary": "Le père Pascal propose d’entendre, derrière la traduction courante « unanimement », le mouvement « tous sortant de l’Un ». Les convives procèdent de l’unité offerte par Dieu, mais produisent ensemble le même refus. La diversité des excuses révèle ainsi une rupture commune avec la source de l’invitation.",
+                "caution": "« Tous sortant de l’Un » est une lecture théologique du sens littéral de ἀπὸ μιᾶς, non une traduction grammaticale suffisante à elle seule. La traduction courante « unanimement » demeure nécessaire pour rendre la tournure grecque en français."
               },
               "related": [
                 "ἀπὸ",
@@ -207,11 +207,11 @@
               ],
               "sources": [
                 {
-                  "label": "LSJ, s.v. εἷς — Logeion",
+                  "label": "LSJ, s.v. εἷς, Logeion",
                   "url": "https://logeion.uchicago.edu/%CE%B5%E1%BC%B7%CF%82"
                 },
                 {
-                  "label": "Scaife ATLAS — formes de εἷς",
+                  "label": "Scaife ATLAS, formes de εἷς",
                   "url": "https://atlas.perseus.tufts.edu/lemma/1073/"
                 },
                 {
@@ -219,7 +219,7 @@
                   "url": "https://greekbible.com/luke/14/18"
                 },
                 {
-                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. εἷς — référence bibliographique à contrôler sur l’édition utilisée",
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. εἷς, référence bibliographique à contrôler sur l’édition utilisée",
                   "url": ""
                 }
               ]
@@ -821,36 +821,36 @@
         "title": "L’invitation demande un accueil libre",
         "content": "Le repas est préparé et l’appel est adressé, mais chacun peut lui opposer ses priorités. Le drame de la parabole n’est pas le manque de don : c’est le refus d’entrer dans la communion offerte.",
         "keywords": [
-          "καλέω — appeler",
-          "ἔρχομαι — venir",
-          "παραιτέομαι — décliner/refuser"
+          "καλέω, appeler",
+          "ἔρχομαι, venir",
+          "παραιτέομαι, décliner/refuser"
         ]
       },
       {
         "title": "Se dépouiller de ce qui retient",
         "content": "Champ, bœufs et situation familiale deviennent des excuses lorsqu’ils ferment à l’appel. Paul invite précisément à faire mourir la convoitise et à se dépouiller du vieil homme : non à mépriser la création, mais à ne plus en faire une idole.",
         "keywords": [
-          "πλεονεξία — cupidité",
-          "νεκρόω — faire mourir",
-          "ἀπεκδύομαι — se dépouiller"
+          "πλεονεξία, cupidité",
+          "νεκρόω, faire mourir",
+          "ἀπεκδύομαι, se dépouiller"
         ]
       },
       {
         "title": "La maison se remplit des exclus",
         "content": "Pauvres, estropiés, aveugles et boiteux sont conduits au repas. La plénitude de la maison annonce une communauté où les anciennes catégories de séparation ne gouvernent plus, car le Christ est tout et en tous.",
         "keywords": [
-          "πτωχός — pauvre",
-          "γεμίζω — remplir",
-          "πάντα — toutes choses"
+          "πτωχός, pauvre",
+          "γεμίζω, remplir",
+          "πάντα, toutes choses"
         ]
       },
       {
         "title": "« Contrains-les d’entrer » : l’insistance de l’hospitalité",
         "content": "Le verbe ἀναγκάζω exprime ici l’insistance du maître envers ceux qui, laissés aux chemins et aux haies, pourraient ne pas se croire invités. Il ne peut servir à justifier une contrainte religieuse : dans la parabole, le maître veut que sa maison accueille ceux que personne n’attend.",
         "keywords": [
-          "ἀναγκάζω — presser/contraindre",
-          "εἰσέρχομαι — entrer",
-          "οἶκος — maison"
+          "ἀναγκάζω, presser/contraindre",
+          "εἰσέρχομαι, entrer",
+          "οἶκος, maison"
         ]
       }
     ],
@@ -1478,36 +1478,36 @@
         "title": "L’invitation demande un accueil libre",
         "content": "Le repas est préparé et l’appel est adressé, mais chacun peut lui opposer ses priorités. Le drame de la parabole n’est pas le manque de don : c’est le refus d’entrer dans la communion offerte.",
         "keywords": [
-          "καλέω — appeler",
-          "ἔρχομαι — venir",
-          "παραιτέομαι — décliner/refuser"
+          "καλέω, appeler",
+          "ἔρχομαι, venir",
+          "παραιτέομαι, décliner/refuser"
         ]
       },
       {
         "title": "Se dépouiller de ce qui retient",
         "content": "Champ, bœufs et situation familiale deviennent des excuses lorsqu’ils ferment à l’appel. Paul invite précisément à faire mourir la convoitise et à se dépouiller du vieil homme : non à mépriser la création, mais à ne plus en faire une idole.",
         "keywords": [
-          "πλεονεξία — cupidité",
-          "νεκρόω — faire mourir",
-          "ἀπεκδύομαι — se dépouiller"
+          "πλεονεξία, cupidité",
+          "νεκρόω, faire mourir",
+          "ἀπεκδύομαι, se dépouiller"
         ]
       },
       {
         "title": "La maison se remplit des exclus",
         "content": "Pauvres, estropiés, aveugles et boiteux sont conduits au repas. La plénitude de la maison annonce une communauté où les anciennes catégories de séparation ne gouvernent plus, car le Christ est tout et en tous.",
         "keywords": [
-          "πτωχός — pauvre",
-          "γεμίζω — remplir",
-          "πάντα — toutes choses"
+          "πτωχός, pauvre",
+          "γεμίζω, remplir",
+          "πάντα, toutes choses"
         ]
       },
       {
         "title": "« Contrains-les d’entrer » : l’insistance de l’hospitalité",
         "content": "Le verbe ἀναγκάζω exprime ici l’insistance du maître envers ceux qui, laissés aux chemins et aux haies, pourraient ne pas se croire invités. Il ne peut servir à justifier une contrainte religieuse : dans la parabole, le maître veut que sa maison accueille ceux que personne n’attend.",
         "keywords": [
-          "ἀναγκάζω — presser/contraindre",
-          "εἰσέρχομαι — entrer",
-          "οἶκος — maison"
+          "ἀναγκάζω, presser/contraindre",
+          "εἰσέρχομαι, entrer",
+          "οἶκος, maison"
         ]
       }
     ],
@@ -1563,7 +1563,7 @@
     "summary":"Le maître appelle largement, mais les premiers invités se dérobent derrière leurs possessions et leurs occupations. Paul appelle à déposer le vieil homme et à revêtir le nouveau, là où les anciennes séparations s’effacent parce que le Christ est tout et en tous.",
     "links":[
       {
-        "directness":"direct","kind":"same_word","link_type":"all_invited_all_in_christ","title":"Tous refusent — le Christ est tout et en tous",
+        "directness":"direct","kind":"same_word","link_type":"all_invited_all_in_christ","title":"Tous refusent, le Christ est tout et en tous",
         "explanation":"Luc écrit πάντες pour l’unanimité du refus initial ; Paul emploie τὰ πάντα καὶ ἐν πᾶσιν pour la totalité récapitulée dans le Christ. La famille de πᾶς oppose un “tous” fermé par l’excuse à un “tout” ouvert dans le Christ.",
         "bridge_sentence":"Lorsque tous les premiers invités se ferment, le Christ ouvre la totalité à ceux que les frontières tenaient dehors.",
         "homiletic_use":"Ne pas identifier les premiers invités à un peuple condamné : la parabole met chacun devant sa propre capacité à transformer un bien légitime en refus de l’appel.",
@@ -1572,7 +1572,7 @@
         "gospel":{"verses":["18"],"terms":["πάντες"]},"apostle":{"verses":["8","11"],"terms":["πάντα","πᾶσιν"]}
       },
       {
-        "directness":"direct","kind":"same_word","link_type":"servant_and_freedom","title":"Le serviteur envoyé — ni esclave ni homme libre",
+        "directness":"direct","kind":"same_word","link_type":"servant_and_freedom","title":"Le serviteur envoyé, ni esclave ni homme libre",
         "explanation":"Le δοῦλος du maître porte l’invitation dans les rues ; Paul affirme qu’en Christ la distinction δοῦλος, ἐλεύθερος ne définit plus l’appartenance. Le serviteur de la parabole devient ainsi l’instrument par lequel la maison s’ouvre à tous.",
         "bridge_sentence":"Dans la maison remplie par l’appel, ni la servitude ni le statut social ne déterminent la place : le Christ est en tous.",
         "homiletic_use":"Conserver le sens narratif du serviteur tout en montrant comment l’épître désamorce l’usage social de la catégorie esclave/libre.",
@@ -1581,10 +1581,10 @@
         "gospel":{"verses":["17","21","22","23"],"terms":["δοῦλον","δοῦλος","δούλῳ"]},"apostle":{"verses":["11"],"terms":["δοῦλος"]}
       },
       {
-        "directness":"direct","kind":"same_root","link_type":"come_to_new_life","title":"Venez, tout est prêt — quand le Christ paraîtra",
+        "directness":"direct","kind":"same_root","link_type":"come_to_new_life","title":"Venez, tout est prêt, quand le Christ paraîtra",
         "explanation":"L’invitation dit Ἔρχεσθε ; Paul annonce ὅταν ὁ Χριστὸς φανερωθῇ et rappelle que la colère ἔρχεται sur l’ancien mode de vie. La famille ἐρχ- place l’existence entre deux venues : l’appel présent et la manifestation du Christ notre vie.",
         "bridge_sentence":"Venir au festin, c’est déjà orienter sa vie vers la manifestation du Christ qui est notre vie.",
-        "homiletic_use":"Faire entendre le présent de l’appel : les excuses ne sont pas mauvaises par leur objet — champ, travail, mariage — mais parce qu’elles rendent indisponible à Celui qui vient.",
+        "homiletic_use":"Faire entendre le présent de l’appel : les excuses ne sont pas mauvaises par leur objet, champ, travail, mariage, mais parce qu’elles rendent indisponible à Celui qui vient.",
         "bridge":{"evidence":"Famille ἐρχ- : Ἔρχεσθε / ἔρχεται","gospel":"Ἔρχεσθε, ὅτι ἤδη ἕτοιμά ἐστιν : venez, car désormais tout est prêt","relation":"La venue demandée aux invités répond à la venue et à la manifestation du Christ","apostle":"ἔρχεται ἡ ὀργὴ τοῦ θεοῦ… ὁ Χριστὸς φανερωθῇ : vient la colère de Dieu… lorsque le Christ paraîtra","detail":"Le lien lexical porte sur ἔρχομαι ; φανερόω ajoute le thème distinct de la manifestation."},
         "term_details":{"gospel":[{"forms":["Ἔρχεσθε"],"lemma":"ἔρχομαι","root":"ἐρχ- : venir, aller","literal":"venez","role":"Le festin est prêt ; il reste aux invités à répondre par leur venue."}],"apostle":[{"forms":["ἔρχεται"],"lemma":"ἔρχομαι","root":"ἐρχ- : venir","literal":"vient","role":"Paul rappelle que la conduite présente est orientée vers l’intervention de Dieu."}]},
         "gospel":{"verses":["17"],"terms":["Ἔρχεσθε"]},"apostle":{"verses":["6"],"terms":["ἔρχεται"]}

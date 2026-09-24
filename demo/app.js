@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '24_paralytic': 'Dimanche du Paralytique (4e de Pâques)',
         '25_samaritan': 'Dimanche de la Samaritaine (5e de Pâques)',
         '26_blind_man': 'Dimanche de l\'Aveugle-né (6e de Pâques)',
-        '27_holy_fathers_1': 'Saints Pères du 1er Concile (7e de Pâques) — écho : Gethsémani',
+        '27_holy_fathers_1': 'Saints Pères du 1er Concile (7e de Pâques), écho : Gethsémani',
         '28_pentecost': 'PENTECÔTE - La Descente du Saint-Esprit',
         '29_all_saints': 'Dimanche de Tous les Saints (1er ap. Pentecôte)',
 
@@ -118,14 +118,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (APP_CONFIG.demo) {
         document.body.classList.add('demo-mode');
-        document.title = APP_CONFIG.documentTitle || 'Lectionnaire interlinéaire orthodoxe — Démonstration';
+        document.title = APP_CONFIG.documentTitle || 'Lectionnaire interlinéaire orthodoxe, Démonstration';
         const appTitle = document.getElementById('app-title');
         if (appTitle) appTitle.textContent = APP_CONFIG.appTitle || 'Lectionnaire Interlinéaire Orthodoxe';
         const brand = document.querySelector('.app-brand');
         if (brand) {
             const notice = document.createElement('p');
             notice.className = 'demo-notice';
-            notice.textContent = APP_CONFIG.demoNotice || 'Version de démonstration — deux péricopes complètes';
+            notice.textContent = APP_CONFIG.demoNotice || 'Version de démonstration, deux péricopes complètes';
             brand.appendChild(notice);
         }
         const configuredYears = Array.isArray(APP_CONFIG.calendarYears)
@@ -342,7 +342,7 @@ document.addEventListener('DOMContentLoaded', () => {
             .forEach(draft => {
                 const option = document.createElement('option');
                 option.value = draft.id;
-                option.textContent = `${draft.name} — ${new Date(draft.updatedAt).toLocaleDateString('fr-FR')}`;
+                option.textContent = `${draft.name}, ${new Date(draft.updatedAt).toLocaleDateString('fr-FR')}`;
                 select.appendChild(option);
             });
         select.value = collection.activeId;
@@ -357,7 +357,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!workspace || !target) return;
 
         const block = [
-            title ? `— ${title} —` : '',
+            title ? `(${title})` : '',
             content || '',
             keywords.length ? `Mots-clefs : ${keywords.join(' · ')}` : ''
         ].filter(Boolean).join('\n');
@@ -397,8 +397,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const gospelSection = gospelById.get(id);
             const apostleSection = apostleById.get(id);
             const prompts = [];
-            if (gospelSection?.prompt) prompts.push(`Évangile — ${gospelSection.prompt}`);
-            if (apostleSection?.prompt) prompts.push(`Apôtre — ${apostleSection.prompt}`);
+            if (gospelSection?.prompt) prompts.push(`Évangile, ${gospelSection.prompt}`);
+            if (apostleSection?.prompt) prompts.push(`Apôtre, ${apostleSection.prompt}`);
 
             const sourcePhase = gospelSection?.phase || apostleSection?.phase || fallback.phase;
             return {
@@ -523,7 +523,7 @@ document.addEventListener('DOMContentLoaded', () => {
             useButton.className = 'homily-reading-use';
             useButton.textContent = 'Garder cette référence dans le brouillon';
             useButton.addEventListener('click', () => addMaterialToHomily({
-                title: `${label.textContent} — ${reading.reference || reading.title || ''}`,
+                title: `${label.textContent}, ${reading.reference || reading.title || ''}`,
                 content: ''
             }));
             card.append(label, heading, details, interlinearDetails, useButton);
@@ -554,7 +554,7 @@ document.addEventListener('DOMContentLoaded', () => {
         template = [...template, ...customSteps]
             .sort((a, b) => (savedById.get(a.id)?.order ?? 999) - (savedById.get(b.id)?.order ?? 999));
 
-        if (title) title.textContent = `Construire l’homélie — ${currentHomilyReference || currentHomilyReadingTitle}`;
+        if (title) title.textContent = `Construire l’homélie, ${currentHomilyReference || currentHomilyReadingTitle}`;
         const collection = readHomilyCollection();
         const activeDraft = collection.drafts.find(item => item.id === collection.activeId);
         if (status) status.textContent = Object.keys(draft).length
@@ -563,15 +563,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const phases = {
             inspiration: {
-                title: 'Inspiration — recevoir la Parole',
+                title: 'Inspiration, recevoir la Parole',
                 description: 'Écouter les lectures et discerner leur mouvement propre.'
             },
             gestation: {
-                title: 'Gestation — laisser la Parole travailler',
+                title: 'Gestation, laisser la Parole travailler',
                 description: 'Relier la péricope à l’expérience de l’assemblée et à sa réponse.'
             },
             expiration: {
-                title: 'Expiration — transmettre',
+                title: 'Expiration, transmettre',
                 description: 'Donner au chemin parcouru une forme destinée à être proclamée.'
             }
         };
@@ -680,7 +680,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         return {
             title: activeDraft?.name
-                ? `${currentHomilyReadingTitle || 'Homélie'} — ${activeDraft.name}`
+                ? `${currentHomilyReadingTitle || 'Homélie'}, ${activeDraft.name}`
                 : currentHomilyReadingTitle || 'Homélie',
             reference: currentHomilyReference,
             sections
@@ -785,7 +785,7 @@ document.addEventListener('DOMContentLoaded', () => {
             (connection?.term_details?.[side] || []).map(term => term.lemma)
         ).filter(Boolean);
         return {
-            title: `Évangile ↔ Apôtre — ${connection?.title || 'Rapprochement'}`,
+            title: `Évangile ↔ Apôtre, ${connection?.title || 'Rapprochement'}`,
             content: [
                 `Nature du lien : ${linkType} (${greekBasis.toLowerCase()}).`,
                 bridge.gospel ? `Évangile : ${bridge.gospel}` : '',
@@ -855,7 +855,7 @@ document.addEventListener('DOMContentLoaded', () => {
             : 'Cette comparaison est encore en préparation';
         button.setAttribute('aria-label', available
             ? 'Comparer l’Évangile et l’Apôtre'
-            : 'Comparer l’Évangile et l’Apôtre — comparaison en préparation');
+            : 'Comparer l’Évangile et l’Apôtre, comparaison en préparation');
     };
 
     const connectionMatchesToken = (connection, side, token) =>
@@ -2150,7 +2150,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const scroll = document.createElement('div');
             scroll.className = 'liturgical-sunday-row-scroll';
             scroll.tabIndex = 0;
-            scroll.setAttribute('aria-label', `${row.title} — faire défiler les dimanches`);
+            scroll.setAttribute('aria-label', `${row.title}, faire défiler les dimanches`);
             const grid = document.createElement('div');
             grid.className = 'liturgical-sunday-grid';
             grid.style.setProperty('--sunday-count', String(availableKeys.length));
@@ -2280,7 +2280,7 @@ document.addEventListener('DOMContentLoaded', () => {
         title.textContent = journey.title;
         introduction.textContent = journey.introduction;
         const stageCount = Math.max((journey.stages || []).length, 1);
-        track.setAttribute('aria-label', `Étapes — ${journey.title}`);
+        track.setAttribute('aria-label', `Étapes, ${journey.title}`);
         track.style.setProperty('--stage-count', String(stageCount));
         track.style.setProperty('--long-columns', String(stageCount === 10 ? 5 : 4));
         track.classList.toggle('is-long', stageCount > 8);
@@ -2685,7 +2685,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 4. INITIALISATION ---
     const liturgicalGroups = [
-        { title: 'Triode — préparation au Carême', matches: key => /^0[0-3]_/.test(key) },
+        { title: 'Triode, préparation au Carême', matches: key => /^0[0-3]_/.test(key) },
         { title: 'Grand Carême', matches: key => /^1[0-5]_/.test(key) },
         { title: 'Pentecostaire', matches: key => /^2[1-9]_/.test(key) },
         { title: 'Cycle de Matthieu', matches: key => /^3(0[2-9]|1[0-7])_/.test(key) },
@@ -2765,7 +2765,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const themeDisplayLabel = keyword => {
-        const parts = String(keyword || '').split(/\s+[—–-]\s+/);
+        const parts = String(keyword || '').split(/\s+[, –-]\s+/);
         return (parts[1] || parts[0]).trim();
     };
 
@@ -3051,9 +3051,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     ? ` (${sourceTitle})`
                     : '';
                 const statePrefix = calendar.status === 'provisional'
-                    ? `${isLinked ? '● Relié' : '○ À valider'} — `
+                    ? `${isLinked ? '● Relié' : '○ À valider'}, `
                     : '';
-                option.textContent = `${statePrefix}${dateFormatter.format(date)} — ${relatedTitle}${sourceTitleSuffix}`;
+                option.textContent = `${statePrefix}${dateFormatter.format(date)}, ${relatedTitle}${sourceTitleSuffix}`;
                 group.appendChild(option);
             });
             calendarSelect.onchange = event => {
@@ -3118,11 +3118,11 @@ document.addEventListener('DOMContentLoaded', () => {
         const notes = document.getElementById('my-notes');
         const homileticAxes = document.getElementById('homiletic-axes-container');
         const liturgicalEchoes = document.getElementById('liturgical-echoes-container');
-        if (title) title.textContent = `${typeLabel} — ${reading?.reference || entry.official_title || entry.doxologia_title}`;
+        if (title) title.textContent = `${typeLabel}, ${reading?.reference || entry.official_title || entry.doxologia_title}`;
         const year = entry.date?.slice(0, 4) || '';
         if (mainText) mainText.innerHTML = `<p class="calendar-pending">Cette lecture du calendrier ${year} n’est pas encore reliée à une fiche validée dans l’application.</p>`;
         if (notes) notes.textContent = year === '2027'
-            ? 'Cette attribution restera en attente jusqu’à sa vérification dans le calendrier officiel de la Métropole Orthodoxe Roumaine — Doyenné de France.'
+            ? 'Cette attribution restera en attente jusqu’à sa vérification dans le calendrier officiel de la Métropole Orthodoxe Roumaine, Doyenné de France.'
             : 'La référence a été vérifiée dans le calendrier officiel. Son contenu ne sera ajouté qu’après identification de la source correspondante dans les données.';
         if (homileticAxes) homileticAxes.hidden = true;
         if (liturgicalEchoes) liturgicalEchoes.hidden = true;
@@ -4065,12 +4065,12 @@ document.addEventListener('DOMContentLoaded', () => {
         const token = target.dataset.comparisonToken || normalizeGreekToken(target.textContent);
         const detail = findComparisonTermDetail(connection, side, token) || {};
         const annotation = decodeTargetAnnotation(target) || {};
-        const annotationLemma = String(annotation.title || '').split(/\s+[—–-]\s+/)[0].trim();
+        const annotationLemma = String(annotation.title || '').split(/\s+[, –-]\s+/)[0].trim();
         const gloss = target.closest('.comparison-word-unit')?.querySelector('.inter-gloss')?.textContent?.trim();
         const bridge = connection.bridge || {};
         const sideLabel = side === 'apostle' ? 'Dans l’Apôtre' : 'Dans l’Évangile';
 
-        document.getElementById('comparison-term-title').textContent = `${target.textContent.trim()} — ${sideLabel}`;
+        document.getElementById('comparison-term-title').textContent = `${target.textContent.trim()}, ${sideLabel}`;
         document.getElementById('comparison-term-form').textContent = target.textContent.trim();
         document.getElementById('comparison-term-lemma').textContent = detail.lemma || annotationLemma || 'Forme du dictionnaire non renseignée';
         document.getElementById('comparison-term-root').textContent = detail.root || 'Racine non renseignée pour cette forme';

@@ -34,6 +34,7 @@ const readJson = async filePath => JSON.parse(await readFile(filePath, 'utf8'));
 const writeJson = async (filePath, value) => {
   await writeFile(filePath, `${JSON.stringify(value, null, 2)}\n`, 'utf8');
 };
+const removeEditorialDashes = text => text.replace(/\s*—\s*/g, ', ');
 const entryBelongsToDemo = entry => {
   if (allowedSet.has(entry.key)) return true;
   return ['gospel', 'apostle'].some(type => allowedSet.has(entry.readings?.[type]?.key));
@@ -46,7 +47,7 @@ let indexHtml = await readFile(path.join(projectRoot, 'index.html'), 'utf8');
 indexHtml = indexHtml
   .replace('<title>Lectionnaire Interlinéaire Orthodoxe</title>', '<title>Lectionnaire Interlinéaire Orthodoxe — Démonstration</title>')
   .replace('<meta name="viewport" content="width=device-width, initial-scale=1.0">', '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <meta name="robots" content="noindex, nofollow">')
-  .replace(/href="style\.css\?[^\"]+"/, 'href="style.css?v=20260924-demo-4"')
+  .replace(/href="style\.css\?[^\"]+"/, 'href="style.css?v=20260924-demo-5"')
   .replace('<div><dt>Lemme</dt><dd id="comparison-term-lemma"></dd></div>', '<div><dt>Forme du dictionnaire</dt><dd id="comparison-term-lemma"></dd></div>')
   .replace('Cliquez sur un mot coloré pour ouvrir son explication.', 'Survolez un mot signalé pour sa grammaire, puis cliquez pour ouvrir sa fiche.')
   .replace(
@@ -56,7 +57,7 @@ indexHtml = indexHtml
   .replace(/\s*<h4>Contributions Communautaires<\/h4>[\s\S]*?<\/div>\s*(?=<\/section>)/, '\n')
   .replace(
     /<script src="app\.js\?[^\"]+"><\/script>/,
-    '<script src="demo-config.js"></script>\n    <script src="app.js?v=20260924-demo-4"></script>'
+    '<script src="demo-config.js"></script>\n    <script src="app.js?v=20260924-demo-5"></script>'
   );
 await writeFile(path.join(demoRoot, 'index.html'), indexHtml, 'utf8');
 
@@ -77,7 +78,7 @@ const demoConfig = `window.LECTIONARY_CONFIG = ${JSON.stringify({
   defaultSundayKey: allowedSundayKeys[0],
   calendarYears,
   defaultCalendarYear: 2026,
-  dataVersion: '20260924-demo-4'
+  dataVersion: '20260924-demo-5'
 }, null, 2)};\n`;
 await writeFile(path.join(demoRoot, 'demo-config.js'), demoConfig, 'utf8');
 
@@ -131,5 +132,22 @@ await writeJson(path.join(demoRoot, 'manifest.json'), {
     'data/liturgical_path.json'
   ]
 });
+
+// Choix éditorial de la démo : aucune incise avec tiret cadratin. Les plages
+// chronologiques conservent leur tiret demi-cadratin (par ex. 2026–2027).
+const editorialTextFiles = [
+  'index.html',
+  'app.js',
+  'demo-config.js',
+  'manifest.json',
+  ...allowedSundayKeys.map(key => `data/${key}.json`),
+  ...calendarYears.map(year => `data/calendar_${year}.json`),
+  'data/liturgical_path.json'
+];
+for (const relativePath of editorialTextFiles) {
+  const filePath = path.join(demoRoot, relativePath);
+  const content = await readFile(filePath, 'utf8');
+  await writeFile(filePath, removeEditorialDashes(content), 'utf8');
+}
 
 console.log(`Démonstration générée dans ${demoRoot}`);
