@@ -979,8 +979,17 @@
             "gloss": "as-tu_douté",
             "annotation": {
               "type": "racine",
+              "importance": "major",
               "title": "Pourquoi as-tu douté ?",
               "content": "Διστάζω signifie hésiter ou douter. Son lien avec δίς, « deux fois », peut suggérer une hésitation entre deux appuis ; il faut toutefois distinguer cette méditation spirituelle du sens contextuel : Pierre cesse de s’en remettre pleinement à la parole du Christ.",
+              "grammar": {
+                "form": "ἐδίστασας",
+                "lemma": "διστάζω",
+                "category": "Verbe",
+                "parsing": "Aoriste actif, indicatif, deuxième personne du singulier",
+                "abbreviation": "AOR. ACT. IND. 2 SG.",
+                "syntax": "Verbe de la question εἰς τί ἐδίστασας, « pourquoi as-tu douté ? ». Le sujet sous-entendu est Pierre."
+              },
               "related": [
                 "εἰς",
                 "τί"
@@ -1273,8 +1282,17 @@
             "gloss": "co-ouvriers/collaborateurs",
             "annotation": {
               "type": "racine",
+              "importance": "major",
               "title": "Coopérateurs de Dieu",
-              "content": "Approfondissement spirituel : Le mot-clé *synergoi* pose le fondement de la synergie orthodoxe. Le salut et la déification ne sont ni une performance de l'Ego humain ni un décret arbitraire d'un Dieu lointain. C'est la co-opération amoureuse et libre de la volonté humaine avec l'Énergie divine incréée.",
+              "content": "σύνεργος unit σύν, « avec », et ἔργον, « œuvre ». Paul et Apollos ne sont ni la source de la croissance ni les propriétaires de l’Église : ils servent ensemble l’œuvre qui appartient à Dieu. Le mot éclaire la coopération humaine sans effacer la primauté de Dieu, qui seul fait croître.",
+              "grammar": {
+                "form": "συνεργοί",
+                "lemma": "σύνεργος",
+                "category": "Adjectif employé comme nom",
+                "parsing": "Nominatif masculin pluriel",
+                "abbreviation": "NOM. MASC. PL.",
+                "syntax": "Attribut du sujet de ἐσμεν, « nous sommes ». Θεοῦ précise que les collaborateurs appartiennent à Dieu et œuvrent à son service."
+              },
               "related": [
                 "γάρ",
                 "ἐσμεν",
@@ -1420,8 +1438,17 @@
             "gloss": "fondement",
             "annotation": {
               "type": "theologie",
+              "importance": "major",
               "title": "Le fondement posé",
-              "content": "Approfondissement spirituel : Le *themelion*. C'est le point d'ancrage fixe. Face à l'instabilité de la mer du Monde duel, le Christ est la seule réalité immuable. Hors de ce fondement vertical, toute construction de l'Ego finit invariablement par être engloutie par la tempête.",
+              "content": "Paul identifie explicitement le fondement à Jésus Christ. Les ministres peuvent bâtir et leur œuvre sera éprouvée, mais aucun autre fondement ne peut être posé. L’image répond à celle de la barque : la solidité ne vient pas de la maîtrise humaine, mais de l’appui reçu du Christ.",
+              "grammar": {
+                "form": "θεμέλιον",
+                "lemma": "θεμέλιος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct de θεῖναι, « poser ». L’adjectif ἄλλον, « autre », s’accorde avec lui."
+              },
               "related": [
                 "γὰρ",
                 "ἄλλον"
@@ -1802,8 +1829,17 @@
             "gloss": "temple/sanctuaire",
             "annotation": {
               "type": "traduction",
+              "importance": "major",
               "title": "Le sanctuaire de Dieu",
-              "content": "Approfondissement spirituel : Le terme *naos* désigne précisément le Saint des Saints, la crypte la plus intérieure où réside la Présence. L'être humain n'est pas un spectateur du divin, il en est le contenant sacré. C'est l'unification absolue de l'être dans le Royaume UN.",
+              "content": "ναός désigne le sanctuaire, plus précisément que ἱερόν, qui peut désigner l’ensemble du Temple. Ici, le pluriel « vous êtes » et le singulier « sanctuaire » soulignent la dimension ecclésiale : la communauté appartient à Dieu parce que son Esprit demeure en elle.",
+              "grammar": {
+                "form": "ναός",
+                "lemma": "ναός",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Attribut du sujet pluriel de ἐστε, « vous êtes ». Le singulier présente la communauté comme un seul sanctuaire de Dieu."
+              },
               "related": [
                 "οἴδατε",
                 "ὅτι",

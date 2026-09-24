@@ -479,8 +479,17 @@
             "gloss": "justifier",
             "annotation": {
               "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : L'obsession de l'Ego religieux : la *dikaiosyne* (justification). Face au vertige de l'Amour infini qui demande une reddition totale, l'Ego panique. Il veut se justifier, c'est-à-dire refermer le système, poser des limites intellectuelles pour prouver qu'il est déjà en règle.",
+              "importance": "major",
+              "title": "Voulant se justifier lui-même",
+              "content": "Le légiste ne demande plus seulement ce qu’enseigne la Loi : il cherche à se déclarer juste lui-même. La question « qui est mon prochain ? » tend ainsi à fixer une limite à l’obligation d’aimer. Jésus répondra en déplaçant la question vers l’action : se faire prochain.",
+              "grammar": {
+                "form": "δικαιῶσαι",
+                "lemma": "δικαιόω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste actif, infinitif",
+                "abbreviation": "AOR. ACT. INF.",
+                "syntax": "Infinitif complémentaire de θέλων, « voulant ». Il gouverne le pronom réfléchi ἑαυτόν, « lui-même »."
+              },
               "related": [
                 "θέλων",
                 "ἑαυτὸν"
@@ -777,8 +786,17 @@
             "gloss": "il_passa_outre_du_côté_opposé",
             "annotation": {
               "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Un verbe à triple fondation d'une complexité géométrique effarante : *anti-* (contre, à l'opposé), *para-* (à côté de) et *erchomai* (aller). La topographie de l'évitement pur. L'Ego religieux s'approche (*para*), voit la souffrance, mais crée immédiatement un mur protecteur en passant sur la ligne parallèle opposée (*anti*). C'est la préservation de la pureté rituelle aux dépens de l'Être.",
+              "importance": "major",
+              "title": "Il passa de l’autre côté",
+              "content": "ἀντιπαρέρχομαι décrit le passage de l’autre côté. Le prêtre voit l’homme blessé, mais cette vision ne devient ni approche ni soin. Le verbe rend visible la distance qu’il choisit de maintenir.",
+              "grammar": {
+                "form": "ἀντιπαρῆλθεν",
+                "lemma": "ἀντιπαρέρχομαι",
+                "category": "Verbe",
+                "parsing": "Deuxième aoriste actif, indicatif, troisième personne du singulier",
+                "abbreviation": "AOR. 2 ACT. IND. 3 SG.",
+                "syntax": "Verbe principal dont le sujet est le prêtre. Le participe ἰδών, « ayant vu », précède l’action de passer outre."
+              },
               "related": [
                 "αὐτὸν"
               ]
@@ -842,8 +860,17 @@
             "gloss": "passa_outre_du_côté_opposé",
             "annotation": {
               "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Répétition exacte du verbe géométrique *anti-para-erchomai*. La religion institutionnelle (le Prêtre puis le Lévite) est incapable de kénose. Elle constate la blessure ('ayant vu'), mais sa priorité absolue est la préservation de son propre statut rituel horizontal. Elle maintient la distance sanitaire (*anti-para*) pour ne pas être contaminée par la mort, s'enfermant ainsi dans sa propre mort spirituelle.",
+              "importance": "major",
+              "title": "Le même passage à distance",
+              "content": "Le même verbe est répété pour le Lévite. Comme le prêtre, il vient, voit, puis passe de l’autre côté. La répétition prépare le contraste avec le Samaritain, qui voit lui aussi, mais se laisse saisir de compassion et s’approche.",
+              "grammar": {
+                "form": "ἀντιπαρῆλθεν",
+                "lemma": "ἀντιπαρέρχομαι",
+                "category": "Verbe",
+                "parsing": "Deuxième aoriste actif, indicatif, troisième personne du singulier",
+                "abbreviation": "AOR. 2 ACT. IND. 3 SG.",
+                "syntax": "Verbe principal dont le sujet est le Lévite. Sa répétition exacte relie grammaticalement les deux refus d’approcher."
+              },
               "related": [
                 "ἰδὼν"
               ]
@@ -863,8 +890,17 @@
             "gloss": "Un_Samaritain",
             "annotation": {
               "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : La figure de l'hérétique, l'exclu du système religieux officiel. Dans la logique du Monde duel, il est l'ennemi. Le Christ choisit celui qui n'a aucun statut à défendre pour incarner l'irruption de la Grâce.",
+              "importance": "major",
+              "title": "Un Samaritain",
+              "content": "Le récit fait du Samaritain, tenu à distance par les auditeurs juifs de Jésus, celui qui accomplit concrètement le commandement d’aimer. Son identité rend le renversement plus vif : le prochain n’est pas défini par l’appartenance, mais reconnu dans la miséricorde exercée.",
+              "grammar": {
+                "form": "Σαμαρίτης",
+                "lemma": "Σαμαρίτης",
+                "category": "Nom masculin de la première déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Sujet de ἦλθεν, « il vint », puis de ἐσπλαγχνίσθη, « il fut saisi de compassion ». τις signifie « un certain »."
+              },
               "related": [
                 "δέ"
               ]
@@ -1716,8 +1752,17 @@
             "gloss": "vous_supportant/vous_soutenant",
             "annotation": {
               "type": "analyse",
+              "importance": "major",
               "title": "Se supporter dans l’amour",
               "content": "Le sens direct de ἀνέχομαι est supporter, endurer ou prendre patience avec quelqu’un. Sa formation avec ἀνά et ἔχω peut ensuite nourrir une méditation, sans constituer à elle seule une traduction : tenir ce que l’on porte, offrir à Dieu ses certitudes et soutenir l’autre plutôt que l’enfermer dans ses défaillances. Dans le verset, cette patience n’est ni résignation ni tolérance distante ; elle reçoit sa forme de l’agapè et rend possible l’unité.",
+              "grammar": {
+                "form": "ἀνεχόμενοι",
+                "lemma": "ἀνέχομαι",
+                "category": "Verbe déponent",
+                "parsing": "Présent moyen, participe, nominatif masculin pluriel",
+                "abbreviation": "PRÉS. MOY. PART. NOM. MASC. PL.",
+                "syntax": "Participe accordé avec les destinataires de l’exhortation. Il gouverne le génitif ἀλλήλων, « les uns les autres », et reçoit sa manière de ἐν ἀγάπῃ, « dans l’amour »."
+              },
               "related": [
                 "μακροθυμίας,",
                 "ἀλλήλων",
@@ -1780,8 +1825,17 @@
             "gloss": "unité",
             "annotation": {
               "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : La racine *hen* (Un). Le but ultime de la voie paulinienne : la Non-Dualité pure. L'Esprit ne gère pas un rassemblement politique d'Egos séparés, il révèle la matrice unique et sans couture de l'Être.",
+              "importance": "major",
+              "title": "L’unité de l’Esprit",
+              "content": "ἑνότης désigne l’unité. Paul ne demande pas de la fabriquer, mais de la garder : elle est donnée par l’Esprit et vécue dans le lien de la paix. Cette unité n’efface pas les personnes ; elle les rassemble dans l’unique Corps du Christ.",
+              "grammar": {
+                "form": "ἑνότητα",
+                "lemma": "ἑνότης",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément direct de τηρεῖν, « garder ». Le génitif τοῦ πνεύματος précise qu’il s’agit de l’unité de l’Esprit."
+              },
               "related": [
                 "τὴν",
                 "τοῦ"
@@ -1839,8 +1893,17 @@
             "gloss": "Un_seul",
             "annotation": {
               "type": "repetition",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : L'anaphore foudroyante de l'Un (*Hen*). C'est le battement de cœur du système métaphysique chrétien. Toute illusion de séparation doit s'effondrer devant la réalité du Un.",
+              "importance": "major",
+              "title": "Un seul Corps",
+              "content": "ἕν est ici la forme neutre de εἷς, μία, ἕν, « un ». Paul ouvre par l’unique Corps la série qui relie le Corps, l’Esprit, l’espérance, le Seigneur, la foi, le baptême, puis Dieu et Père de tous.",
+              "grammar": {
+                "form": "ἕν",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral",
+                "parsing": "Nominatif neutre singulier",
+                "abbreviation": "NOM. NEUT. SG.",
+                "syntax": "S’accorde avec σῶμα, nom neutre : ἓν σῶμα, « un seul Corps »."
+              },
               "related": [
                 "σῶμα"
               ]
@@ -1859,8 +1922,17 @@
             "gloss": "un_seul",
             "annotation": {
               "type": "repetition",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême). Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ). Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'.",
+              "importance": "major",
+              "title": "Un seul Esprit",
+              "content": "La même forme neutre ἕν relie l’unique Esprit à l’unique Corps. La répétition n’abolit pas les distinctions : elle confesse la source commune et la communion de ceux qui ont été appelés.",
+              "grammar": {
+                "form": "ἕν",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral",
+                "parsing": "Nominatif neutre singulier",
+                "abbreviation": "NOM. NEUT. SG.",
+                "syntax": "S’accorde avec πνεῦμα, nom neutre : ἓν πνεῦμα, « un seul Esprit »."
+              },
               "related": [
                 "καὶ",
                 "πνεῦμα,"
@@ -1884,27 +1956,27 @@
             "gloss": "vous_avez_été_appelés"
           },
           {
-            "greek": "ἓν",
-            "gloss": "un_seul",
-            "annotation": {
-              "type": "repetition",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême). Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ). Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'.",
-              "related": [
-                "ἐκλήθητε",
-                "μία"
-              ]
-            }
+            "greek": "ἐν",
+            "gloss": "dans"
           },
           {
-            "greek": "μία",
+            "greek": "μιᾷ",
             "gloss": "une_seule",
             "annotation": {
               "type": "repetition",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Le pronom féminin *Mia*. Cette unité de la foi s'oppose frontalement au mauvais *Diá* (l'esprit de division, le dia-bolos) et aux *dialogismoi* (les pensées calculantes) du légiste dans l'Évangile. La foi n'est pas une simple adhésion à un dogme qui exclurait les autres ; c'est l'unique fréquence de la Grâce sur laquelle l'âme 'entière' (*holos*) doit se caler pour cesser de diviser le monde en deux (les purs et les impurs, le prochain et l'étranger).",
+              "importance": "major",
+              "title": "Dans une seule espérance",
+              "content": "μιᾷ est la forme féminine au datif de εἷς, μία, ἕν. L’unique espérance répond à l’unique appel : les fidèles ne sont pas seulement réunis par une origine commune, mais orientés vers un même accomplissement en Christ.",
+              "grammar": {
+                "form": "μιᾷ",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "S’accorde avec ἐλπίδι après la préposition ἐν : ἐν μιᾷ ἐλπίδι, « dans une seule espérance »."
+              },
               "related": [
-                "ἓν",
+                "ἐν",
                 "ἐλπίδι"
               ]
             }
@@ -1939,8 +2011,17 @@
             "gloss": "Un_seul",
             "annotation": {
               "type": "repetition",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : L'injonction mathématique de l'Incréé continue (4ème occurrence du Un). Devant la fragmentation infinie du Monde duel (la Légion), Paul oppose l'Unité implacable de la Vérité.",
+              "importance": "major",
+              "title": "Un seul Seigneur",
+              "content": "εἷς est la forme masculine de εἷς, μία, ἕν. L’unité ecclésiale est ici rapportée à l’unique Seigneur : elle ne procède pas d’une uniformité imposée, mais d’une commune appartenance au Christ.",
+              "grammar": {
+                "form": "εἷς",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "S’accorde avec κύριος, nom masculin : εἷς κύριος, « un seul Seigneur »."
+              },
               "related": [
                 "κύριος,"
               ]
@@ -1955,8 +2036,17 @@
             "gloss": "une_seule",
             "annotation": {
               "type": "repetition",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Le pronom féminin *Mia*. Cette unité de la foi s'oppose frontalement au mauvais *Diá* (l'esprit de division, le dia-bolos) et aux *dialogismoi* (les pensées calculantes) du légiste dans l'Évangile. La foi n'est pas une simple adhésion à un dogme qui exclurait les autres ; c'est l'unique fréquence de la Grâce sur laquelle l'âme 'entière' (*holos*) doit se caler pour cesser de diviser le monde en deux (les purs et les impurs, le prochain et l'étranger).",
+              "importance": "major",
+              "title": "Une seule foi",
+              "content": "μία est la forme féminine de εἷς, μία, ἕν. Elle s’accorde avec πίστις et inscrit la foi dans la confession commune : un seul Seigneur, une seule foi, un seul baptême.",
+              "grammar": {
+                "form": "μία",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "S’accorde avec πίστις, nom féminin : μία πίστις, « une seule foi »."
+              },
               "related": [
                 "κύριος,",
                 "πίστις,"
@@ -1968,8 +2058,17 @@
             "gloss": "foi",
             "annotation": {
               "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : La *pistis* (l'adhésion, l'alignement). Puisqu'il n'y a qu'un seul Axe vertical (*Kyrios*), il ne peut y avoir qu'une seule modalité d'alignement. La foi n'est pas un catalogue de croyances diverses, c'est l'unique canal de réceptivité du Sujet.",
+              "importance": "major",
+              "title": "Une seule foi",
+              "content": "πίστις signifie foi, confiance et fidélité. Dans la confession « un seul Seigneur, une seule foi, un seul baptême », elle appartient à la série qui exprime l’unité reçue dans le Christ et vécue par l’Église.",
+              "grammar": {
+                "form": "πίστις",
+                "lemma": "πίστις",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Noyau du groupe nominal μία πίστις, « une seule foi », dans une confession nominale sans verbe exprimé."
+              },
               "related": [
                 "μία",
                 "ἓν"
@@ -1981,8 +2080,17 @@
             "gloss": "un_seul",
             "annotation": {
               "type": "repetition",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême). Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ). Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'.",
+              "importance": "major",
+              "title": "Un seul baptême",
+              "content": "ἕν est la forme neutre du même adjectif numéral. Le baptême unique est placé dans la même confession que le Seigneur et la foi : il manifeste l’entrée commune dans la mort et la résurrection du Christ.",
+              "grammar": {
+                "form": "ἕν",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral",
+                "parsing": "Nominatif neutre singulier",
+                "abbreviation": "NOM. NEUT. SG.",
+                "syntax": "S’accorde avec βάπτισμα, nom neutre : ἓν βάπτισμα, « un seul baptême »."
+              },
               "related": [
                 "πίστις,",
                 "βάπτισμα,"
@@ -2015,8 +2123,17 @@
             "gloss": "Un_seul",
             "annotation": {
               "type": "repetition",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : 7ème et ultime occurrence du mot 'Un' dans cette strophe. Le sommet de la pyramide ontologique.",
+              "importance": "major",
+              "title": "Un seul Dieu et Père de tous",
+              "content": "La série atteint sa source dans la confession d’un seul Dieu et Père de tous. Paul déploie ensuite cette relation par trois expressions : au-dessus de tous, par tous et en tous.",
+              "grammar": {
+                "form": "εἷς",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "S’accorde avec θεός et porte aussi sur πατήρ : « un seul Dieu et Père de tous »."
+              },
               "related": [
                 "θεὸς"
               ]

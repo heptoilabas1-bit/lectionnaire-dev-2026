@@ -262,8 +262,17 @@
             "gloss": "âme/vie",
             "annotation": {
               "type": "theologie",
+              "importance": "major",
               "title": "Perdre et sauver sa vie",
-              "content": "Approfondissement spirituel : Le mot *psychē* désigne ici la vie psychologique, le moi individualisé qui cherche à se préserver, à posséder et à contrôler. Vouloir 'sauver' cette vie-là, c'est s'enfermer dans l'enfer du Monde duel. La 'perdre', c'est accepter la kénose de ce moi superficiel pour découvrir la véritable Vie incréée.",
+              "content": "ψυχή peut désigner la vie ou l’âme. Le même mot traverse les versets 35 à 37 : la vie que l’on cherche à préserver, celle que l’on perd à cause du Christ et de l’Évangile, et celle qu’aucun gain matériel ne peut remplacer. Le paradoxe porte donc sur la totalité de l’existence offerte et reçue.",
+              "grammar": {
+                "form": "ψυχήν",
+                "lemma": "ψυχή",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément direct de σῶσαι, « sauver ». Le génitif αὐτοῦ signifie « sa vie »."
+              },
               "related": [
                 "τὴν",
                 "αὐτοῦ"
@@ -442,8 +451,17 @@
             "gloss": "en_échange",
             "annotation": {
               "type": "traduction",
+              "importance": "major",
               "title": "Que donner en échange ?",
-              "content": "Approfondissement spirituel : Le mot *antallagma* désigne un prix de rachat, une monnaie d'échange. Le sujet humain (l'âme faite à l'image de Dieu) a une valeur absolue et infinie ; rien dans le monde des objets du Monde duel ne peut l'équilibrer. Essayer de troquer son être contre de l'avoir est l'erreur ontologique majeure.",
+              "content": "ἀντάλλαγμα désigne ce qui est donné en échange. Après la question sur le gain du monde entier, Jésus fait apparaître l’impossibilité du calcul : aucun bien possédé ne peut être offert comme équivalent de la vie perdue.",
+              "grammar": {
+                "form": "ἀντάλλαγμα",
+                "lemma": "ἀντάλλαγμα",
+                "category": "Nom neutre de la troisième déclinaison",
+                "parsing": "Accusatif neutre singulier",
+                "abbreviation": "ACC. NEUT. SG.",
+                "syntax": "Complément direct de δοῖ, « donnerait ». Le génitif τῆς ψυχῆς αὐτοῦ précise ce pour quoi l’échange serait proposé."
+              },
               "related": [
                 "ἄνθρωπος",
                 "τῆς ψυχῆς"
@@ -742,8 +760,17 @@
             "gloss": "puissance",
             "annotation": {
               "type": "analyse",
+              "importance": "major",
               "title": "Le Royaume venu avec puissance",
-              "content": "Approfondissement spirituel : L'expression *en dynamei* (avec puissance) désigne l'irruption des Énergies divines incréées dans l'épaisseur du temps linéaire. Le Royaume n'est pas une projection morale post-mortem ; c'est l'expérience vécue de la Transfiguration. Être debout (*hestēkotōn*), c'est être déjà éveillé à cette Présence qui rend la mort physique totalement inopérante.",
+              "content": "L’expression ἐν δυνάμει signifie « avec puissance » ou « en puissance ». Le participe parfait ἐληλυθυῖαν présente le Royaume comme venu avec un effet qui demeure. La tradition liturgique rapproche cette annonce de la Transfiguration racontée immédiatement après.",
+              "grammar": {
+                "form": "δυνάμει",
+                "lemma": "δύναμις",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "Complément de la préposition ἐν. L’expression ἐν δυνάμει qualifie la venue du Royaume de Dieu."
+              },
               "related": [
                 "ἐν"
               ]
@@ -936,8 +963,17 @@
             "gloss": "foi/fidélité",
             "annotation": {
               "type": "traduction",
+              "importance": "major",
               "title": "La foi ou la fidélité du Christ",
               "content": "Le génitif πίστεως Χριστοῦ peut être traduit « foi en Christ » ou « fidélité du Christ ». Sans trancher artificiellement, le passage décentre la justification des œuvres de la loi vers la relation au Christ.",
+              "grammar": {
+                "form": "πίστεως",
+                "lemma": "πίστις",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Génitif féminin singulier",
+                "abbreviation": "GÉN. FÉM. SG.",
+                "syntax": "Complément de διά, qui se construit ici avec le génitif. Le génitif Ἰησοῦ Χριστοῦ dépend à son tour de πίστεως."
+              },
               "related": [
                 "Ἰησοῦ",
                 "Χριστοῦ,"
@@ -1233,8 +1269,17 @@
             "gloss": "j’ai_été_crucifié",
             "annotation": {
               "type": "theologie",
+              "importance": "major",
               "title": "J’ai été crucifié avec le Christ",
               "content": "Le parfait de συσταυρόω indique une union à la Croix accomplie dont l’effet demeure. Paul ne glorifie pas la souffrance en elle-même : il annonce une vie nouvelle où le Christ vit en lui.",
+              "grammar": {
+                "form": "συνεσταύρωμαι",
+                "lemma": "συσταυρόω",
+                "category": "Verbe",
+                "parsing": "Parfait moyen-passif, indicatif, première personne du singulier",
+                "abbreviation": "PARF. MOY.-PASS. IND. 1 SG.",
+                "syntax": "Le datif Χριστῷ exprime l’association : « avec le Christ ». Le parfait indique un événement accompli dont l’effet demeure dans le présent de Paul."
+              },
               "related": [
                 "Χριστῷ",
                 "ζῶ",
