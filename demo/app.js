@@ -464,7 +464,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const greek = document.createElement('span');
                     const annotation = word.annotation || word.analyse;
                     const movement = word.movement;
-                    greek.className = `greek-word${annotation ? ` mot-info mot-${inferAnnotationType(annotation)}` : ''}${movement ? ' mot-movement' : ''}`;
+                    greek.className = `greek-word${annotation ? ` mot-info mot-${inferAnnotationType(annotation)}${annotationImportanceClass(annotation)}` : ''}${movement ? ' mot-movement' : ''}`;
                     greek.textContent = word.greek || '';
                     if (movement) {
                         greek.dataset.movementGroup = movement.id || '';
@@ -731,6 +731,13 @@ document.addEventListener('DOMContentLoaded', () => {
         return 'analyse';
     };
 
+    const annotationImportanceClass = annotation => {
+        if (!annotation || typeof annotation !== 'object') return '';
+        if (annotation.importance === 'major') return ' mot-keyword-major';
+        if (annotation.importance === 'local') return ' mot-interest-local';
+        return '';
+    };
+
     const connectionKindLabels = {
         same_form: 'Même forme grecque',
         same_lemma: 'Même lemme',
@@ -890,7 +897,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const greek = document.createElement('span');
                     const annotation = word.annotation || word.analyse;
                     const token = normalizeGreekToken(word.greek);
-                    greek.className = `greek-word${annotation ? ` mot-info mot-${inferAnnotationType(annotation)}` : ''}`;
+                    greek.className = `greek-word${annotation ? ` mot-info mot-${inferAnnotationType(annotation)}${annotationImportanceClass(annotation)}` : ''}`;
                     greek.textContent = word.greek || '';
                     const matchingIndexes = fullConnections
                         ? fullConnections.map((item, index) => connectionMatchesToken(item, side, token) ? index : -1).filter(index => index >= 0)
@@ -2493,7 +2500,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             const annotation = word.annotation || word.analyse;
                             const annotationType = inferAnnotationType(annotation);
                             const movement = word.movement;
-                            const infoClass = `${annotation ? `mot-info mot-${annotationType}` : ''}${movement ? ' mot-movement' : ''}`.trim();
+                            const infoClass = `${annotation ? `mot-info mot-${annotationType}${annotationImportanceClass(annotation)}` : ''}${movement ? ' mot-movement' : ''}`.trim();
                             const dataAttr = annotation
                                 ? `data-annotation="${encodeURIComponent(JSON.stringify(annotation))}" tabindex="0" role="button"`
                                 : '';
@@ -3890,6 +3897,160 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    const addDefinitionField = (list, label, value) => {
+        if (!value) return;
+        const row = document.createElement('div');
+        const term = document.createElement('dt');
+        const description = document.createElement('dd');
+        term.textContent = label;
+        description.textContent = value;
+        row.append(term, description);
+        list.appendChild(row);
+    };
+
+    const appendTextList = (container, items) => {
+        if (!Array.isArray(items) || !items.length) return;
+        const list = document.createElement('ul');
+        items.forEach(item => {
+            const entry = document.createElement('li');
+            entry.textContent = item;
+            list.appendChild(entry);
+        });
+        container.appendChild(list);
+    };
+
+    const buildStructuredWordSheet = annotation => {
+        const sheet = document.createElement('article');
+        sheet.className = 'word-sheet';
+        const grammar = annotation.grammar || {};
+        const lexical = annotation.lexical || {};
+        const local = annotation.local || {};
+
+        const grammarCard = document.createElement('section');
+        grammarCard.className = 'word-sheet-grammar';
+        const grammarHeading = document.createElement('div');
+        const grammarKicker = document.createElement('span');
+        grammarKicker.className = 'word-sheet-kicker';
+        grammarKicker.textContent = 'Forme rencontrée';
+        const grammarTitle = document.createElement('strong');
+        grammarTitle.textContent = grammar.form || annotation.title || '';
+        grammarHeading.append(grammarKicker, grammarTitle);
+        const grammarBadge = document.createElement('span');
+        grammarBadge.className = 'word-sheet-grammar-badge';
+        grammarBadge.textContent = grammar.abbreviation || grammar.parsing || 'Analyse grammaticale';
+        grammarCard.append(grammarHeading, grammarBadge);
+        const grammarFields = document.createElement('dl');
+        grammarFields.className = 'word-sheet-fields word-sheet-grammar-fields';
+        addDefinitionField(grammarFields, 'Lemme', grammar.lemma);
+        addDefinitionField(grammarFields, 'Catégorie', grammar.category);
+        addDefinitionField(grammarFields, 'Morphologie', grammar.parsing);
+        addDefinitionField(grammarFields, 'Syntaxe', grammar.syntax);
+        grammarCard.appendChild(grammarFields);
+
+        const columns = document.createElement('div');
+        columns.className = 'word-sheet-columns';
+
+        const lexicalPanel = document.createElement('section');
+        lexicalPanel.className = 'word-sheet-panel word-sheet-universal';
+        const lexicalHeading = document.createElement('h4');
+        lexicalHeading.textContent = 'Fiche universelle du mot';
+        lexicalPanel.appendChild(lexicalHeading);
+        const lexicalFields = document.createElement('dl');
+        lexicalFields.className = 'word-sheet-fields';
+        addDefinitionField(lexicalFields, 'Lemme', grammar.lemma);
+        addDefinitionField(lexicalFields, 'Strong', lexical.strong);
+        addDefinitionField(lexicalFields, 'Paradigme', lexical.paradigm);
+        addDefinitionField(lexicalFields, 'Étymologie', lexical.etymology);
+        lexicalPanel.appendChild(lexicalFields);
+        if (Array.isArray(lexical.literal_senses) && lexical.literal_senses.length) {
+            const heading = document.createElement('h5');
+            heading.textContent = 'Sens principaux';
+            lexicalPanel.appendChild(heading);
+            appendTextList(lexicalPanel, lexical.literal_senses);
+        }
+        if (Array.isArray(lexical.distinctions) && lexical.distinctions.length) {
+            const heading = document.createElement('h5');
+            heading.textContent = 'Distinguer les expressions de l’unité';
+            lexicalPanel.appendChild(heading);
+            appendTextList(lexicalPanel, lexical.distinctions);
+        }
+        if (lexical.theological_horizon) {
+            const horizon = document.createElement('aside');
+            horizon.className = 'word-sheet-theology';
+            const heading = document.createElement('strong');
+            heading.textContent = 'Horizon théologique';
+            const content = document.createElement('p');
+            content.textContent = lexical.theological_horizon;
+            horizon.append(heading, content);
+            lexicalPanel.appendChild(horizon);
+        }
+
+        const localPanel = document.createElement('section');
+        localPanel.className = 'word-sheet-panel word-sheet-local';
+        const localHeading = document.createElement('h4');
+        localHeading.textContent = 'Dans cette péricope';
+        localPanel.appendChild(localHeading);
+        const localReference = document.createElement('p');
+        localReference.className = 'word-sheet-reference';
+        localReference.textContent = local.reference || '';
+        localPanel.appendChild(localReference);
+        const expression = document.createElement('blockquote');
+        expression.className = 'word-sheet-expression';
+        expression.textContent = local.expression || '';
+        localPanel.appendChild(expression);
+        const localFields = document.createElement('dl');
+        localFields.className = 'word-sheet-fields';
+        addDefinitionField(localFields, 'Littéralement', local.literal);
+        addDefinitionField(localFields, 'Traduction proposée', local.translation);
+        addDefinitionField(localFields, 'Construction', local.syntax);
+        localPanel.appendChild(localFields);
+        if (local.commentary) {
+            const heading = document.createElement('h5');
+            heading.textContent = 'Lecture théologique locale';
+            const content = document.createElement('p');
+            content.textContent = local.commentary;
+            localPanel.append(heading, content);
+        }
+        if (local.caution) {
+            const caution = document.createElement('aside');
+            caution.className = 'word-sheet-caution';
+            const heading = document.createElement('strong');
+            heading.textContent = 'Point de vigilance';
+            const content = document.createElement('p');
+            content.textContent = local.caution;
+            caution.append(heading, content);
+            localPanel.appendChild(caution);
+        }
+
+        columns.append(lexicalPanel, localPanel);
+        sheet.append(grammarCard, columns);
+
+        if (Array.isArray(annotation.sources) && annotation.sources.length) {
+            const sources = document.createElement('section');
+            sources.className = 'word-sheet-sources';
+            const heading = document.createElement('h4');
+            heading.textContent = 'Sources et vérifications';
+            const list = document.createElement('ul');
+            annotation.sources.forEach(source => {
+                const item = document.createElement('li');
+                if (source.url) {
+                    const link = document.createElement('a');
+                    link.href = source.url;
+                    link.target = '_blank';
+                    link.rel = 'noopener noreferrer';
+                    link.textContent = source.label;
+                    item.appendChild(link);
+                } else {
+                    item.textContent = source.label;
+                }
+                list.appendChild(item);
+            });
+            sources.append(heading, list);
+            sheet.appendChild(sources);
+        }
+        return sheet;
+    };
+
     const openComparisonTerm = target => {
         if (!comparisonTermDialog || !target || !currentLectionaryData) return;
         const indexes = String(target.dataset.connectionIndexes || '')
@@ -3933,19 +4094,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const openAnnotation = (target) => {
         if (!analysisDialog || !target) return;
-        const encoded = target.getAttribute('data-annotation');
-        if (!encoded) return;
-
-        let annotation;
-        try {
-            annotation = JSON.parse(decodeURIComponent(encoded));
-        } catch {
-            annotation = decodeURIComponent(encoded);
-        }
-
-        const normalized = typeof annotation === 'string'
-            ? { type: 'analyse', title: target.textContent, content: annotation }
-            : annotation;
+        const normalized = decodeTargetAnnotation(target);
+        if (!normalized) return;
 
         const labels = {
             analyse: 'Analyse',
@@ -3955,14 +4105,29 @@ document.addEventListener('DOMContentLoaded', () => {
             theologie: 'Lecture théologique'
         };
         const type = inferAnnotationType(normalized);
+        const structured = Boolean(normalized.grammar || normalized.lexical || normalized.local);
+        analysisDialog.classList.toggle('word-sheet-dialog', structured);
+        const materialContent = structured
+            ? [
+                normalized.local?.literal,
+                normalized.local?.translation,
+                normalized.local?.commentary,
+                normalized.lexical?.theological_horizon
+            ].filter(Boolean).join('\n\n')
+            : normalized.content || '';
         currentAnnotationMaterial = {
             title: normalized.title || target.textContent,
-            content: normalized.content || '',
+            content: materialContent,
             keywords: [target.textContent.trim()].filter(Boolean)
         };
-        document.getElementById('analysis-dialog-type').textContent = labels[type] || labels.analyse;
+        document.getElementById('analysis-dialog-type').textContent = structured
+            ? `${normalized.importance === 'major' ? 'Mot-clé majeur' : 'Fiche lexicale'} · forme et occurrence`
+            : labels[type] || labels.analyse;
         document.getElementById('analysis-dialog-title').textContent = normalized.title || target.textContent;
-        document.getElementById('analysis-dialog-content').textContent = normalized.content || '';
+        const content = document.getElementById('analysis-dialog-content');
+        content.innerHTML = '';
+        if (structured) content.appendChild(buildStructuredWordSheet(normalized));
+        else content.textContent = normalized.content || '';
 
         const related = document.getElementById('analysis-dialog-related');
         const relatedWords = Array.isArray(normalized.related) ? normalized.related : [];
@@ -3970,12 +4135,87 @@ document.addEventListener('DOMContentLoaded', () => {
         related.textContent = relatedWords.length ? `Mots liés : ${relatedWords.join(', ')}` : '';
 
         const source = document.getElementById('analysis-dialog-source');
-        source.hidden = !normalized.source;
-        source.textContent = normalized.source ? `Source : ${normalized.source}` : '';
+        source.hidden = structured || !normalized.source;
+        source.textContent = !structured && normalized.source ? `Source : ${normalized.source}` : '';
 
         if (typeof analysisDialog.showModal === 'function') analysisDialog.showModal();
         else analysisDialog.setAttribute('open', '');
     };
+
+    const ensureGrammarTooltip = () => {
+        let tooltip = document.getElementById('word-grammar-tooltip');
+        if (tooltip) return tooltip;
+        tooltip = document.createElement('aside');
+        tooltip.id = 'word-grammar-tooltip';
+        tooltip.className = 'word-grammar-tooltip';
+        tooltip.setAttribute('role', 'tooltip');
+        tooltip.hidden = true;
+        document.body.appendChild(tooltip);
+        return tooltip;
+    };
+
+    const positionGrammarTooltip = (tooltip, target) => {
+        const anchor = target.getBoundingClientRect();
+        const bounds = tooltip.getBoundingClientRect();
+        const margin = 10;
+        const left = Math.min(
+            window.innerWidth - bounds.width - margin,
+            Math.max(margin, anchor.left + (anchor.width / 2) - (bounds.width / 2))
+        );
+        let top = anchor.top - bounds.height - margin;
+        if (top < margin) top = Math.min(window.innerHeight - bounds.height - margin, anchor.bottom + margin);
+        tooltip.style.left = `${left}px`;
+        tooltip.style.top = `${Math.max(margin, top)}px`;
+    };
+
+    const showGrammarTooltip = target => {
+        const annotation = decodeTargetAnnotation(target);
+        if (!annotation?.grammar) return;
+        const grammar = annotation.grammar;
+        const tooltip = ensureGrammarTooltip();
+        tooltip.innerHTML = '';
+        const form = document.createElement('strong');
+        form.textContent = grammar.form || target.textContent.trim();
+        const lemma = document.createElement('span');
+        lemma.textContent = `Lemme : ${grammar.lemma || 'non renseigné'}`;
+        const parsing = document.createElement('span');
+        parsing.className = 'word-grammar-tooltip-parsing';
+        parsing.textContent = grammar.abbreviation || grammar.parsing || '';
+        const hint = document.createElement('small');
+        hint.textContent = 'Cliquez pour ouvrir la fiche complète.';
+        tooltip.append(form, lemma, parsing, hint);
+        tooltip.hidden = false;
+        target.setAttribute('aria-describedby', tooltip.id);
+        window.requestAnimationFrame(() => positionGrammarTooltip(tooltip, target));
+    };
+
+    const hideGrammarTooltip = target => {
+        const tooltip = document.getElementById('word-grammar-tooltip');
+        if (tooltip) tooltip.hidden = true;
+        if (target) target.removeAttribute('aria-describedby');
+    };
+
+    document.addEventListener('pointerover', event => {
+        const target = event.target.closest?.('.mot-info');
+        if (!target || target.contains(event.relatedTarget)) return;
+        showGrammarTooltip(target);
+    });
+
+    document.addEventListener('pointerout', event => {
+        const target = event.target.closest?.('.mot-info');
+        if (!target || target.contains(event.relatedTarget)) return;
+        hideGrammarTooltip(target);
+    });
+
+    document.addEventListener('focusin', event => {
+        const target = event.target.closest?.('.mot-info');
+        if (target) showGrammarTooltip(target);
+    });
+
+    document.addEventListener('focusout', event => {
+        const target = event.target.closest?.('.mot-info');
+        if (target) hideGrammarTooltip(target);
+    });
 
     document.addEventListener('click', (event) => {
         const comparisonTarget = event.target.closest('.comparison-term');
@@ -3987,6 +4227,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const target = event.target.closest('.mot-info');
         if (target) {
             event.preventDefault();
+            hideGrammarTooltip(target);
             openAnnotation(target);
         }
     });

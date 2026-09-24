@@ -14,6 +14,20 @@ const allowedSundayKeys = [
 ];
 const allowedSet = new Set(allowedSundayKeys);
 const calendarYears = [2023, 2024, 2025, 2026, 2027];
+const demoOwnedFiles = [
+  'app.js',
+  'style.css',
+  'data/90_advent_2.json'
+];
+const demoOverrides = new Map();
+
+for (const relativePath of demoOwnedFiles) {
+  try {
+    demoOverrides.set(relativePath, await readFile(path.join(demoRoot, relativePath)));
+  } catch {
+    // Lors de la première génération, la source complète sert de point de départ.
+  }
+}
 
 const readJson = async filePath => JSON.parse(await readFile(filePath, 'utf8'));
 const writeJson = async (filePath, value) => {
@@ -31,17 +45,20 @@ let indexHtml = await readFile(path.join(projectRoot, 'index.html'), 'utf8');
 indexHtml = indexHtml
   .replace('<title>Lectionnaire Interlinéaire Orthodoxe</title>', '<title>Lectionnaire Interlinéaire Orthodoxe — Démonstration</title>')
   .replace('<meta name="viewport" content="width=device-width, initial-scale=1.0">', '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <meta name="robots" content="noindex, nofollow">')
+  .replace(/href="style\.css\?[^\"]+"/, 'href="style.css?v=20260924-demo-3"')
   .replace(/\s*<h4>Contributions Communautaires<\/h4>[\s\S]*?<\/div>\s*(?=<\/section>)/, '\n')
   .replace(
     /<script src="app\.js\?[^\"]+"><\/script>/,
-    '<script src="demo-config.js"></script>\n    <script src="app.js?v=20260924-demo-2"></script>'
+    '<script src="demo-config.js"></script>\n    <script src="app.js?v=20260924-demo-3"></script>'
   );
 await writeFile(path.join(demoRoot, 'index.html'), indexHtml, 'utf8');
 
 // La démo conserve sa propre copie du moteur et des éléments visuels. Les
 // expérimentations menées ici ne modifient donc pas l'application complète.
 for (const asset of ['app.js', 'style.css', 'orthodox-cross.png']) {
-  await cp(path.join(projectRoot, asset), path.join(demoRoot, asset));
+  const override = demoOverrides.get(asset);
+  if (override) await writeFile(path.join(demoRoot, asset), override);
+  else await cp(path.join(projectRoot, asset), path.join(demoRoot, asset));
 }
 
 const demoConfig = `window.LECTIONARY_CONFIG = ${JSON.stringify({
@@ -53,15 +70,20 @@ const demoConfig = `window.LECTIONARY_CONFIG = ${JSON.stringify({
   defaultSundayKey: allowedSundayKeys[0],
   calendarYears,
   defaultCalendarYear: 2026,
-  dataVersion: '20260924-demo-2'
+  dataVersion: '20260924-demo-3'
 }, null, 2)};\n`;
 await writeFile(path.join(demoRoot, 'demo-config.js'), demoConfig, 'utf8');
 
 for (const key of allowedSundayKeys) {
-  await cp(
-    path.join(projectRoot, 'data', `${key}.json`),
-    path.join(demoDataRoot, `${key}.json`)
-  );
+  const relativePath = `data/${key}.json`;
+  const override = demoOverrides.get(relativePath);
+  if (override) await writeFile(path.join(demoRoot, relativePath), override);
+  else {
+    await cp(
+      path.join(projectRoot, 'data', `${key}.json`),
+      path.join(demoRoot, relativePath)
+    );
+  }
 }
 
 for (const year of calendarYears) {

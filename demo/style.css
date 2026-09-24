@@ -271,6 +271,55 @@ main {
     background-color: #ffeaa7; /* Jaune pâle au survol */
     cursor: pointer;
 }
+.mot-keyword-major {
+    margin: 0 .08rem;
+    padding: .08rem .28rem .12rem;
+    border: 3px double #b8471b;
+    border-radius: 6px;
+    background: #fff4e8;
+    color: #8d2e12;
+    font-weight: 700;
+    cursor: pointer;
+}
+.mot-keyword-major:hover,
+.mot-keyword-major:focus-visible {
+    background: #ffe2c7;
+    box-shadow: 0 0 0 3px rgba(184, 71, 27, .14);
+    outline: none;
+}
+.mot-interest-local {
+    border-bottom: 2px dotted #8b6b2f;
+    color: #70531f;
+}
+.word-grammar-tooltip {
+    position: fixed;
+    z-index: 160;
+    display: grid;
+    width: min(310px, calc(100vw - 20px));
+    box-sizing: border-box;
+    gap: 5px;
+    padding: 13px 15px;
+    border: 1px solid #b8471b;
+    border-radius: 9px;
+    background: #fffaf3;
+    color: #33271f;
+    box-shadow: 0 10px 30px rgba(55, 35, 20, .24);
+    font: .88rem/1.4 Arial, sans-serif;
+    pointer-events: none;
+}
+.word-grammar-tooltip[hidden] { display: none; }
+.word-grammar-tooltip strong { color: #8d2e12; font: 700 1.25rem/1.1 var(--font-serif); }
+.word-grammar-tooltip-parsing {
+    justify-self: start;
+    padding: 3px 7px;
+    border-radius: 999px;
+    background: #8d2e12;
+    color: #fff;
+    font-size: .72rem;
+    font-weight: 700;
+    letter-spacing: .04em;
+}
+.word-grammar-tooltip small { color: #74685d; }
 .mot-movement {
     position: relative;
     display: inline-block;
@@ -570,6 +619,10 @@ main {
     color: #27231d;
     box-shadow: 0 18px 60px rgba(0, 0, 0, .28);
 }
+.analysis-dialog.word-sheet-dialog {
+    width: min(1080px, calc(100vw - 32px));
+    max-height: min(88vh, 860px);
+}
 
 .analysis-dialog::backdrop { background: rgba(24, 20, 16, .62); }
 .analysis-dialog h3 { margin: 4px 35px 14px 0; color: #671717; }
@@ -582,6 +635,98 @@ main {
     text-transform: uppercase;
 }
 .analysis-dialog-content { white-space: pre-line; line-height: 1.65; }
+.word-sheet { white-space: normal; }
+.word-sheet-grammar {
+    display: grid;
+    grid-template-columns: minmax(150px, .55fr) minmax(180px, 1.45fr);
+    gap: 12px 20px;
+    align-items: center;
+    margin-bottom: 18px;
+    padding: 16px 18px;
+    border: 1px solid #d8b89d;
+    border-left: 5px solid #b8471b;
+    border-radius: 8px;
+    background: #fff7ed;
+}
+.word-sheet-grammar > div { display: grid; gap: 2px; }
+.word-sheet-kicker {
+    color: #866f5c;
+    font: 700 .7rem/1.2 Arial, sans-serif;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+.word-sheet-grammar > div strong { color: #7c2910; font: 700 1.55rem/1.2 var(--font-serif); }
+.word-sheet-grammar-badge {
+    justify-self: start;
+    padding: 5px 9px;
+    border-radius: 999px;
+    background: #8d2e12;
+    color: #fff;
+    font: 700 .75rem/1.2 Arial, sans-serif;
+    letter-spacing: .04em;
+}
+.word-sheet-grammar-fields { grid-column: 1 / -1; }
+.word-sheet-columns {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+    align-items: start;
+}
+.word-sheet-panel {
+    min-width: 0;
+    padding: 18px;
+    border: 1px solid #d8cfbd;
+    border-radius: 9px;
+    background: #fff;
+}
+.word-sheet-universal { border-top: 5px solid #365f89; }
+.word-sheet-local { border-top: 5px solid #8b6b2f; background: #fffdf7; }
+.word-sheet-panel h4,
+.word-sheet-sources h4 { margin: 0 0 13px; color: #3d3127; }
+.word-sheet-panel h5 { margin: 18px 0 7px; color: #6e321e; font-size: .92rem; }
+.word-sheet-panel p { margin: 7px 0 0; }
+.word-sheet-panel ul,
+.word-sheet-sources ul { margin: 7px 0 0; padding-left: 20px; }
+.word-sheet-panel li + li,
+.word-sheet-sources li + li { margin-top: 7px; }
+.word-sheet-fields { display: grid; gap: 0; margin: 0; }
+.word-sheet-fields > div {
+    display: grid;
+    grid-template-columns: minmax(110px, .38fr) minmax(0, 1fr);
+    gap: 12px;
+    padding: 9px 0;
+    border-top: 1px solid #ebe3d4;
+}
+.word-sheet-fields > div:first-child { border-top: 0; }
+.word-sheet-fields dt { color: #765c43; font: 700 .78rem/1.45 Arial, sans-serif; text-transform: uppercase; }
+.word-sheet-fields dd { margin: 0; line-height: 1.55; }
+.word-sheet-reference { color: #765c43; font-size: .86rem; font-weight: 700; }
+.word-sheet-expression {
+    margin: 14px 0;
+    padding: 11px 14px;
+    border-left: 4px solid #8b6b2f;
+    background: #f8f0dc;
+    color: #4f381a;
+    font: 1.08rem/1.55 var(--font-serif);
+}
+.word-sheet-theology,
+.word-sheet-caution {
+    margin-top: 18px;
+    padding: 13px 14px;
+    border-radius: 7px;
+}
+.word-sheet-theology { background: #edf4fa; color: #294b69; }
+.word-sheet-caution { background: #f6efe2; color: #604b2b; }
+.word-sheet-theology p,
+.word-sheet-caution p { margin: 5px 0 0; }
+.word-sheet-sources {
+    margin-top: 18px;
+    padding-top: 16px;
+    border-top: 1px solid #ddd2ba;
+    color: #5c554a;
+    font-size: .88rem;
+}
+.word-sheet-sources a { color: #315f88; }
 .analysis-dialog-related, .analysis-dialog-source {
     margin-top: 16px;
     padding-top: 12px;
@@ -827,6 +972,13 @@ main {
         line-height: 1.3;
     }
     .analysis-dialog-content { font-size: 1rem; line-height: 1.6; }
+    .analysis-dialog.word-sheet-dialog { width: calc(100vw - 12px); padding: 20px 14px 16px; }
+    .word-sheet-grammar { grid-template-columns: 1fr; padding: 14px; }
+    .word-sheet-grammar-fields { grid-column: 1; }
+    .word-sheet-columns { grid-template-columns: 1fr; }
+    .word-sheet-panel { padding: 15px; }
+    .word-sheet-fields > div { grid-template-columns: 1fr; gap: 3px; }
+    .word-sheet-grammar > div strong { font-size: 1.35rem; }
     .dialog-add-button { width: 100%; min-height: 44px; }
     .homily-workspace { padding: 17px; }
     .homily-reading-context { grid-template-columns: 1fr; }

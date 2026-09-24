@@ -163,7 +163,67 @@
           {
             "greek": "μιᾶς",
             "gloss": "une_[seule_voix]/unanimement",
-            "analyse": "Le comportement de ruche de l'Ego collectif. Face à la radicalité de l'Incréé, la Matrice réagit toujours d'une seule et même voix, produisant le même type de rejet gravitationnel."
+            "annotation": {
+              "type": "racine",
+              "importance": "major",
+              "title": "εἷς, μία, ἕν — un, une",
+              "grammar": {
+                "form": "μιᾶς",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Numéral cardinal employé adjectivement",
+                "parsing": "Génitif féminin singulier",
+                "abbreviation": "GÉN. FÉM. SG.",
+                "syntax": "Complément de la préposition ἀπό dans la locution ἀπὸ μιᾶς. Le substantif féminin sous-entendu n’est pas exprimé."
+              },
+              "lexical": {
+                "strong": "G1520",
+                "literal_senses": [
+                  "un, une",
+                  "un seul, une seule",
+                  "l’unité ou l’unicité selon le contexte"
+                ],
+                "paradigm": "εἷς au masculin, μία au féminin, ἕν au neutre ; génitif féminin : μιᾶς.",
+                "etymology": "Le paradigme alterne les thèmes ἑν- au masculin-neutre et μι- au féminin. Pour l’étymologie historique, la fiche renvoie à Chantraine, s.v. εἷς, sans imposer ici une reconstruction incertaine.",
+                "distinctions": [
+                  "εἷς, μία, ἕν est le numéral « un ».",
+                  "ὁμός signifie « même, commun, identique » : il exprime une communauté, mais n’est pas le chiffre un.",
+                  "L’« alpha copulatif » désigne un élément de composition dans certains mots ; ce n’est pas un troisième numéral autonome et son identification doit être vérifiée mot par mot."
+                ],
+                "theological_horizon": "Dans l’Écriture, εἷς peut confesser l’unicité divine — par exemple dans « le Seigneur est un ». Cette portée ne doit pas être appliquée automatiquement à chaque occurrence : en Luc 14,18, le mot appartient d’abord à une locution adverbiale."
+              },
+              "local": {
+                "reference": "Luc 14,18 — dimanche des Saints Ancêtres",
+                "expression": "ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι",
+                "literal": "Ils commencèrent, à partir d’une seule [disposition / pensée], tous à s’excuser.",
+                "translation": "Ils commencèrent tous, unanimement — ou d’un même mouvement — à s’excuser.",
+                "syntax": "ἀπό régit le génitif μιᾶς. La tournure est elliptique : on peut sous-entendre γνώμης, « pensée / disposition », ou comprendre une valeur adverbiale, « ensemble, unanimement ».",
+                "commentary": "Les excuses sont différentes, mais leur mouvement est commun : chacun laisse un bien légitime devenir un obstacle à l’invitation. L’unanimité porte paradoxalement sur le refus du repas offert.",
+                "caution": "Le texte décrit une convergence des refus ; il ne permet pas, à lui seul, de conclure à la disparition de la liberté personnelle dans un « ego collectif ». Cette interprétation doit rester une piste homilétique distincte de l’analyse grammaticale."
+              },
+              "related": [
+                "ἀπὸ",
+                "πάντες",
+                "παραιτεῖσθαι"
+              ],
+              "sources": [
+                {
+                  "label": "LSJ, s.v. εἷς — Logeion",
+                  "url": "https://logeion.uchicago.edu/%CE%B5%E1%BC%B7%CF%82"
+                },
+                {
+                  "label": "Scaife ATLAS — formes de εἷς",
+                  "url": "https://atlas.perseus.tufts.edu/lemma/1073/"
+                },
+                {
+                  "label": "Texte grec de Luc 14,18",
+                  "url": "https://greekbible.com/luke/14/18"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. εἷς — référence bibliographique à contrôler sur l’édition utilisée",
+                  "url": ""
+                }
+              ]
+            }
           },
           {
             "greek": "πάντες",
