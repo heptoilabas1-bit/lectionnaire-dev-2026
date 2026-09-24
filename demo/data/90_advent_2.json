@@ -189,7 +189,7 @@
                   "ὁμός signifie « même, commun, identique ». Il exprime ce que plusieurs ont en commun, sans être lui-même le chiffre un.",
                   "L’« alpha copulatif » exprime une mise en commun dans certains mots composés. Il faut le distinguer de l’alpha privatif et vérifier sa valeur mot par mot."
                 ],
-                "theological_horizon": "Dans la réflexion du père Pascal, l’Un constitue un attribut divin majeur. Le paradigme εἷς, μία, ἕν peut porter cette confession du Dieu Un, comme dans « le Seigneur est un ». La fiche distingue toutefois cet horizon théologique de la fonction grammaticale précise de chaque occurrence."
+                "theological_horizon": "Dans l’horizon théologique de cette fiche, l’Un constitue un attribut divin majeur. Le paradigme εἷς, μία, ἕν peut porter cette confession du Dieu Un, comme dans « le Seigneur est un ». La fiche distingue toutefois cet horizon théologique de la fonction grammaticale précise de chaque occurrence."
               },
               "local": {
                 "reference": "Luc 14,18, dimanche des Saints Ancêtres",
@@ -197,13 +197,58 @@
                 "literal": "Ils commencèrent tous, à partir d’une seule [disposition ou pensée], à s’excuser.",
                 "translation": "Ils commencèrent tous à s’excuser, unanimement ou d’un même mouvement.",
                 "syntax": "ἀπό régit le génitif μιᾶς. La tournure est elliptique : on peut sous-entendre γνώμης, « pensée / disposition », ou comprendre une valeur adverbiale, « ensemble, unanimement ».",
-                "commentary": "Le père Pascal propose d’entendre, derrière la traduction courante « unanimement », le mouvement « tous sortant de l’Un ». Les convives procèdent de l’unité offerte par Dieu, mais produisent ensemble le même refus. La diversité des excuses révèle ainsi une rupture commune avec la source de l’invitation.",
+                "commentary": "Une lecture théologique propose d’entendre, derrière la traduction courante « unanimement », le mouvement « tous sortant de l’Un ». Les convives procèdent de l’unité offerte par Dieu, mais produisent ensemble le même refus. La diversité des excuses révèle ainsi une rupture commune avec la source de l’invitation.",
                 "caution": "« Tous sortant de l’Un » est une lecture théologique du sens littéral de ἀπὸ μιᾶς, non une traduction grammaticale suffisante à elle seule. La traduction courante « unanimement » demeure nécessaire pour rendre la tournure grecque en français."
               },
               "related": [
                 "ἀπὸ",
                 "πάντες",
                 "παραιτεῖσθαι"
+              ],
+              "occurrences": [
+                {
+                  "reference": "Deutéronome 6,4 (LXX)",
+                  "greek": "Κύριος ὁ Θεὸς ἡμῶν Κύριος εἷς ἐστιν",
+                  "literal": "Le Seigneur notre Dieu, le Seigneur est un.",
+                  "context": "Confession fondamentale de l’unicité divine.",
+                  "theology": "εἷς qualifie directement le Seigneur et donne à la notion de l’Un son ancrage scripturaire premier."
+                },
+                {
+                  "reference": "Marc 12,29",
+                  "greek": "Κύριος ὁ Θεὸς ἡμῶν Κύριος εἷς ἐστιν",
+                  "literal": "Le Seigneur notre Dieu est l’unique Seigneur.",
+                  "context": "Le Christ reprend la confession d’Israël au commencement du premier commandement.",
+                  "theology": "L’unicité de Dieu fonde l’unité de l’amour demandé à la personne tout entière."
+                },
+                {
+                  "reference": "Jean 10,30",
+                  "greek": "ἐγὼ καὶ ὁ πατὴρ ἕν ἐσμεν",
+                  "literal": "Moi et le Père, nous sommes un.",
+                  "context": "Le neutre ἕν exprime l’unité sans confondre les personnes.",
+                  "theology": "Cette forme est un repère majeur pour parler de l’unité du Père et du Fils."
+                },
+                {
+                  "reference": "Jean 17,21",
+                  "greek": "ἵνα πάντες ἓν ὦσιν",
+                  "literal": "Afin que tous soient un.",
+                  "context": "Prière du Christ pour l’unité de ses disciples.",
+                  "theology": "L’unité ecclésiale est reçue comme participation à l’unité du Père et du Fils."
+                },
+                {
+                  "reference": "Éphésiens 4,5",
+                  "greek": "εἷς κύριος, μία πίστις, ἓν βάπτισμα",
+                  "literal": "Un seul Seigneur, une seule foi, un seul baptême.",
+                  "context": "Les trois genres du paradigme sont réunis dans une même confession ecclésiale.",
+                  "theology": "εἷς, μία et ἕν articulent ici l’unité du Seigneur, de la foi et du baptême."
+                },
+                {
+                  "reference": "Luc 14,18",
+                  "greek": "ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι",
+                  "literal": "Ils commencèrent tous, à partir d’une seule [disposition], à s’excuser.",
+                  "context": "Grand banquet, dimanche des Saints Ancêtres.",
+                  "theology": "Une lecture théologique propose d’entendre ici le mouvement « tous sortant de l’Un », derrière la traduction courante « unanimement ».",
+                  "current": true
+                }
               ],
               "sources": [
                 {

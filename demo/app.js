@@ -4024,6 +4024,49 @@ document.addEventListener('DOMContentLoaded', () => {
         columns.append(lexicalPanel, localPanel);
         sheet.append(grammarCard, columns);
 
+        if (Array.isArray(annotation.occurrences) && annotation.occurrences.length) {
+            const occurrences = document.createElement('section');
+            occurrences.className = 'word-sheet-occurrences';
+            const heading = document.createElement('h4');
+            heading.textContent = 'Occurrences repères et portée théologique';
+            const introduction = document.createElement('p');
+            introduction.className = 'word-sheet-occurrences-intro';
+            introduction.textContent = 'Ouvrez une occurrence pour distinguer la forme grecque, son contexte et sa portée théologique.';
+            const list = document.createElement('div');
+            list.className = 'word-sheet-occurrence-list';
+            annotation.occurrences.forEach(occurrence => {
+                const item = document.createElement('details');
+                item.className = `word-sheet-occurrence${occurrence.current ? ' is-current' : ''}`;
+                item.open = Boolean(occurrence.current);
+                const summary = document.createElement('summary');
+                const reference = document.createElement('strong');
+                reference.textContent = occurrence.reference || 'Occurrence';
+                summary.appendChild(reference);
+                if (occurrence.current) {
+                    const badge = document.createElement('span');
+                    badge.textContent = 'Cette péricope';
+                    summary.appendChild(badge);
+                }
+                const body = document.createElement('div');
+                body.className = 'word-sheet-occurrence-body';
+                if (occurrence.greek) {
+                    const greek = document.createElement('blockquote');
+                    greek.textContent = occurrence.greek;
+                    body.appendChild(greek);
+                }
+                const fields = document.createElement('dl');
+                fields.className = 'word-sheet-fields';
+                addDefinitionField(fields, 'Littéralement', occurrence.literal);
+                addDefinitionField(fields, 'Contexte', occurrence.context);
+                addDefinitionField(fields, 'Portée théologique', occurrence.theology);
+                body.appendChild(fields);
+                item.append(summary, body);
+                list.appendChild(item);
+            });
+            occurrences.append(heading, introduction, list);
+            sheet.appendChild(occurrences);
+        }
+
         if (Array.isArray(annotation.sources) && annotation.sources.length) {
             const sources = document.createElement('section');
             sources.className = 'word-sheet-sources';
