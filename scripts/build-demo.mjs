@@ -17,6 +17,8 @@ const calendarYears = [2023, 2024, 2025, 2026, 2027];
 const demoOwnedFiles = [
   'app.js',
   'style.css',
+  'data/309_after_pentecost_9.json',
+  'data/97_cross_after.json',
   'data/90_advent_2.json',
   'data/325_after_pentecost_25.json',
   'data/liturgical_path.json'
@@ -48,7 +50,7 @@ let indexHtml = await readFile(path.join(projectRoot, 'index.html'), 'utf8');
 indexHtml = indexHtml
   .replace('<title>Lectionnaire Interlinéaire Orthodoxe</title>', '<title>Lectionnaire Interlinéaire Orthodoxe — Démonstration</title>')
   .replace('<meta name="viewport" content="width=device-width, initial-scale=1.0">', '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <meta name="robots" content="noindex, nofollow">')
-  .replace(/href="style\.css\?[^\"]+"/, 'href="style.css?v=20260924-demo-7"')
+  .replace(/href="style\.css\?[^\"]+"/, 'href="style.css?v=20260924-demo-8"')
   .replace('<div><dt>Lemme</dt><dd id="comparison-term-lemma"></dd></div>', '<div><dt>Forme du dictionnaire</dt><dd id="comparison-term-lemma"></dd></div>')
   .replace('Cliquez sur un mot coloré pour ouvrir son explication.', 'Survolez un mot signalé pour sa grammaire, puis cliquez pour ouvrir sa fiche.')
   .replace(
@@ -58,7 +60,7 @@ indexHtml = indexHtml
   .replace(/\s*<h4>Contributions Communautaires<\/h4>[\s\S]*?<\/div>\s*(?=<\/section>)/, '\n')
   .replace(
     /<script src="app\.js\?[^\"]+"><\/script>/,
-    '<script src="demo-config.js"></script>\n    <script src="app.js?v=20260924-demo-7"></script>'
+    '<script src="demo-config.js"></script>\n    <script src="app.js?v=20260924-demo-8"></script>'
   );
 await writeFile(path.join(demoRoot, 'index.html'), indexHtml, 'utf8');
 
@@ -79,7 +81,7 @@ const demoConfig = `window.LECTIONARY_CONFIG = ${JSON.stringify({
   defaultSundayKey: allowedSundayKeys[0],
   calendarYears,
   defaultCalendarYear: 2026,
-  dataVersion: '20260924-demo-7'
+  dataVersion: '20260924-demo-8'
 }, null, 2)};\n`;
 await writeFile(path.join(demoRoot, 'demo-config.js'), demoConfig, 'utf8');
 
