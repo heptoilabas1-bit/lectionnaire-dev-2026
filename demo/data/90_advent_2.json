@@ -41,7 +41,20 @@
           {
             "greek": "δεῖπνον",
             "gloss": "un_souper/repas",
-            "analyse": "Le *Deipnon*. Le festin eschatologique. Métaphysiquement, c'est l'espace de la fusion absolue, l'endroit où le Sujet consomme et est consumé par la fréquence du Centre, abolissant la séparation et la faim égotique."
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Un grand souper",
+              "content": "δεῖπνον désigne le repas principal, souvent pris le soir. Dans la parabole, le grand souper devient l’image du Royaume offert : l’initiative appartient à celui qui invite.",
+              "grammar": {
+                "form": "δεῖπνον",
+                "lemma": "δεῖπνον",
+                "category": "Nom neutre de la deuxième déclinaison",
+                "parsing": "Accusatif neutre singulier",
+                "abbreviation": "ACC. NEUT. SG.",
+                "syntax": "Complément direct de ἐποίει, « il préparait ». L’adjectif μέγα s’accorde avec lui."
+              }
+            }
           },
           {
             "greek": "μέγα,",
@@ -83,7 +96,20 @@
           {
             "greek": "δοῦλον",
             "gloss": "esclave/serviteur",
-            "analyse": "Le *Doulos*. L'émetteur de la fréquence d'appel (les prophètes, le Logos). Celui qui n'a pas d'agenda personnel mais exécute parfaitement la volonté de la Source."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Il envoya son serviteur",
+              "content": "Le serviteur porte aux invités la parole du maître : tout est prêt. Dans la lecture ecclésiale, sa mission peut évoquer les prophètes et les envoyés de Dieu, sans effacer sa fonction dans le récit.",
+              "grammar": {
+                "form": "δοῦλον",
+                "lemma": "δοῦλος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct de ἀπέστειλεν, « il envoya ». Le génitif αὐτοῦ signifie « son serviteur »."
+              }
+            }
           },
           {
             "greek": "αὐτοῦ",
@@ -96,7 +122,19 @@
           {
             "greek": "ὥρᾳ",
             "gloss": "heure",
-            "analyse": "L'*Hora*. C'est le *Kairos* (le temps divin) qui vient intercepter le *Chronos* (le temps linéaire). L'invitation est une irruption verticale qui exige une disponibilité immédiate."
+            "annotation": {
+              "type": "analyse",
+              "title": "À l’heure du souper",
+              "content": "L’invitation devient actuelle à l’heure fixée : « Venez, car tout est déjà prêt. » Le temps de la préparation cède la place au temps de la réponse.",
+              "grammar": {
+                "form": "ὥρᾳ",
+                "lemma": "ὥρα",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "Datif de temps dans τῇ ὥρᾳ τοῦ δείπνου, « à l’heure du souper »."
+              }
+            }
           },
           {
             "greek": "τοῦ",
@@ -133,7 +171,20 @@
           {
             "greek": "ἕτοιμά",
             "gloss": "prêt/achevé",
-            "analyse": "Le *Pleroma* est accompli. L'Incréé a achevé l'architecture spirituelle ; il ne manque plus que la présence du Sujet pour saturer l'espace."
+            "annotation": {
+              "type": "traduction",
+              "importance": "major",
+              "title": "Tout est déjà prêt",
+              "content": "ἕτοιμος signifie prêt ou préparé. L’invitation ne demande pas aux convives d’achever le banquet : elle les appelle à entrer dans ce qui leur est offert.",
+              "grammar": {
+                "form": "ἕτοιμα",
+                "lemma": "ἕτοιμος",
+                "category": "Adjectif",
+                "parsing": "Nominatif neutre pluriel",
+                "abbreviation": "NOM. NEUT. PL.",
+                "syntax": "Attribut d’un sujet neutre pluriel sous-entendu dans ἤδη ἕτοιμά ἐστιν, « tout est déjà prêt »."
+              }
+            }
           },
           {
             "greek": "ἐστιν.",
@@ -167,104 +218,106 @@
               "type": "racine",
               "importance": "major",
               "title": "εἷς, μία, ἕν, un, une",
+              "content": "μιᾶς est ici la forme féminine au génitif singulier de εἷς, μία, ἕν. Dans ἀπὸ μιᾶς, la préposition ἀπό marque le point de départ : littéralement, « à partir d’une seule ». L’expression reçoit ensuite, dans cette péricope, une lecture théologique de l’unité.",
               "grammar": {
                 "form": "μιᾶς",
                 "lemma": "εἷς, μία, ἕν",
-                "category": "Numéral cardinal employé adjectivement",
+                "category": "Adjectif numéral cardinal",
                 "parsing": "Génitif féminin singulier",
                 "abbreviation": "GÉN. FÉM. SG.",
-                "syntax": "Complément de la préposition ἀπό dans la locution ἀπὸ μιᾶς. Le substantif féminin sous-entendu n’est pas exprimé."
+                "syntax": "Complément de la préposition ἀπό dans ἀπὸ μιᾶς. Le féminin peut reprendre une idée sous-entendue telle que γνώμη, « disposition, intention » ; l’ensemble fonctionne comme une locution adverbiale."
               },
               "lexical": {
                 "strong": "G1520",
                 "literal_senses": [
-                  "un, une",
-                  "un seul, une seule",
-                  "l’unité ou l’unicité selon le contexte"
+                  "un ou une",
+                  "un seul ou une seule",
+                  "l’unité selon le contexte"
                 ],
-                "paradigm": "εἷς au masculin, μία au féminin, ἕν au neutre ; génitif féminin : μιᾶς.",
-                "etymology": "Le paradigme alterne les thèmes ἑν- au masculin-neutre et μι- au féminin. Pour l’étymologie historique, la fiche renvoie à Chantraine, s.v. εἷς, sans imposer ici une reconstruction incertaine.",
+                "paradigm": "Masculin εἷς, féminin μία, neutre ἕν ; génitif masculin et neutre ἑνός, féminin μιᾶς.",
+                "etymology": "Ancien numéral indo-européen, avec des formes de thème différentes selon le genre et le cas. Voir Chantraine, s.v. εἷς.",
                 "distinctions": [
-                  "εἷς, μία, ἕν est le numéral « un » et nomme directement l’unité ou l’unicité selon le contexte.",
-                  "ὁμός signifie « même, commun, identique ». Il exprime ce que plusieurs ont en commun, sans être lui-même le chiffre un.",
-                  "L’« alpha copulatif » exprime une mise en commun dans certains mots composés. Il faut le distinguer de l’alpha privatif et vérifier sa valeur mot par mot."
+                  "εἷς, μία, ἕν exprime le nombre un et, selon le contexte, l’unicité.",
+                  "ὁμός signifie « même » et marque l’identité ou la communauté.",
+                  "L’alpha copulatif réunit dans certains composés ; il ne doit pas être confondu avec l’alpha privatif qui marque l’absence."
                 ],
-                "theological_horizon": "Dans l’horizon théologique de cette fiche, l’Un constitue un attribut divin majeur. Le paradigme εἷς, μία, ἕν peut porter cette confession du Dieu Un, comme dans « le Seigneur est un ». La fiche distingue toutefois cet horizon théologique de la fonction grammaticale précise de chaque occurrence."
+                "theological_horizon": "L’Écriture emploie εἷς, μία, ἕν pour confesser le Dieu Un et pour dire l’unité reçue de lui. Cette portée ne supprime jamais l’analyse propre à chaque phrase."
               },
               "local": {
-                "reference": "Luc 14,18, dimanche des Saints Ancêtres",
+                "reference": "Luc 14,18, dimanche des saints Ancêtres",
                 "expression": "ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι",
-                "literal": "Ils commencèrent tous, à partir d’une seule [disposition ou pensée], à s’excuser.",
-                "translation": "Ils commencèrent tous à s’excuser, unanimement ou d’un même mouvement.",
-                "syntax": "ἀπό régit le génitif μιᾶς. La tournure est elliptique : on peut sous-entendre γνώμης, « pensée / disposition », ou comprendre une valeur adverbiale, « ensemble, unanimement ».",
-                "commentary": "Une lecture théologique propose d’entendre, derrière la traduction courante « unanimement », le mouvement « tous sortant de l’Un ». Les convives procèdent de l’unité offerte par Dieu, mais produisent ensemble le même refus. La diversité des excuses révèle ainsi une rupture commune avec la source de l’invitation.",
-                "caution": "« Tous sortant de l’Un » est une lecture théologique du sens littéral de ἀπὸ μιᾶς, non une traduction grammaticale suffisante à elle seule. La traduction courante « unanimement » demeure nécessaire pour rendre la tournure grecque en français."
+                "literal": "Tous commencèrent, à partir d’une seule disposition, à s’excuser.",
+                "translation": "Tous, d’un même mouvement, commencèrent à s’excuser.",
+                "syntax": "ἀπό gouverne le génitif μιᾶς. La locution ἀπὸ μιᾶς décrit le caractère commun et simultané de leur réponse.",
+                "commentary": "La formule peut être entendue comme un contraste : les invités ont leur origine et leur vocation dans l’Un, mais ils donnent ensemble une réponse de refus. « Tous sortant de l’Un » est ici une lecture théologique du mouvement de la phrase, et non sa traduction grammaticale.",
+                "caution": "Il faut maintenir la distinction entre le sens syntaxique de la locution, « d’un même mouvement », et son approfondissement théologique."
               },
-              "related": [
-                "ἀπὸ",
-                "πάντες",
-                "παραιτεῖσθαι"
-              ],
               "occurrences": [
                 {
-                  "reference": "Deutéronome 6,4 (LXX)",
-                  "greek": "Κύριος ὁ Θεὸς ἡμῶν Κύριος εἷς ἐστιν",
-                  "literal": "Le Seigneur notre Dieu, le Seigneur est un.",
-                  "context": "Confession fondamentale de l’unicité divine.",
-                  "theology": "εἷς qualifie directement le Seigneur et donne à la notion de l’Un son ancrage scripturaire premier."
+                  "reference": "Deutéronome 6,4",
+                  "greek": "κύριος ὁ θεὸς ἡμῶν κύριος εἷς ἐστιν",
+                  "literal": "Le Seigneur notre Dieu est l’unique Seigneur.",
+                  "context": "Confession fondamentale d’Israël.",
+                  "theology": "L’unité divine fonde l’écoute et l’amour sans partage."
                 },
                 {
                   "reference": "Marc 12,29",
-                  "greek": "Κύριος ὁ Θεὸς ἡμῶν Κύριος εἷς ἐστιν",
+                  "greek": "κύριος ὁ θεὸς ἡμῶν κύριος εἷς ἐστιν",
                   "literal": "Le Seigneur notre Dieu est l’unique Seigneur.",
-                  "context": "Le Christ reprend la confession d’Israël au commencement du premier commandement.",
-                  "theology": "L’unicité de Dieu fonde l’unité de l’amour demandé à la personne tout entière."
+                  "context": "Jésus répond au premier commandement.",
+                  "theology": "L’amour de Dieu et celui du prochain sont enracinés dans la confession du Dieu Un."
                 },
                 {
                   "reference": "Jean 10,30",
                   "greek": "ἐγὼ καὶ ὁ πατὴρ ἕν ἐσμεν",
                   "literal": "Moi et le Père, nous sommes un.",
-                  "context": "Le neutre ἕν exprime l’unité sans confondre les personnes.",
-                  "theology": "Cette forme est un repère majeur pour parler de l’unité du Père et du Fils."
+                  "context": "Jésus parle de son unité avec le Père.",
+                  "theology": "Le neutre ἕν exprime l’unité sans confondre les personnes."
                 },
                 {
                   "reference": "Jean 17,21",
                   "greek": "ἵνα πάντες ἓν ὦσιν",
                   "literal": "Afin que tous soient un.",
-                  "context": "Prière du Christ pour l’unité de ses disciples.",
-                  "theology": "L’unité ecclésiale est reçue comme participation à l’unité du Père et du Fils."
+                  "context": "Prière du Christ pour ses disciples.",
+                  "theology": "L’unité ecclésiale est reçue de la communion du Père et du Fils."
                 },
                 {
                   "reference": "Éphésiens 4,5",
                   "greek": "εἷς κύριος, μία πίστις, ἓν βάπτισμα",
                   "literal": "Un seul Seigneur, une seule foi, un seul baptême.",
-                  "context": "Les trois genres du paradigme sont réunis dans une même confession ecclésiale.",
-                  "theology": "εἷς, μία et ἕν articulent ici l’unité du Seigneur, de la foi et du baptême."
+                  "context": "Acclamation de l’unité de l’Église.",
+                  "theology": "L’unité de la communauté répond à l’unicité du Seigneur et de son don.",
+                  "pericope_key": "325_after_pentecost_25",
+                  "reading_type": "apostle",
+                  "target_form": "μία"
                 },
                 {
                   "reference": "Luc 14,18",
                   "greek": "ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι",
-                  "literal": "Ils commencèrent tous, à partir d’une seule [disposition], à s’excuser.",
-                  "context": "Grand banquet, dimanche des Saints Ancêtres.",
-                  "theology": "Une lecture théologique propose d’entendre ici le mouvement « tous sortant de l’Un », derrière la traduction courante « unanimement ».",
-                  "current": true
+                  "literal": "Tous commencèrent, à partir d’une seule disposition, à s’excuser.",
+                  "context": "Les premiers invités refusent ensemble le grand souper.",
+                  "theology": "Le mouvement commun des refus devient le lieu d’un appel à retrouver l’unité reçue de Dieu.",
+                  "current": true,
+                  "pericope_key": "90_advent_2",
+                  "reading_type": "gospel",
+                  "target_form": "μιᾶς"
                 }
               ],
               "sources": [
+                {
+                  "label": "Strong G1520, εἷς",
+                  "url": "https://www.blueletterbible.org/lexicon/g1520/kjv/tr/0-1/"
+                },
                 {
                   "label": "LSJ, s.v. εἷς, Logeion",
                   "url": "https://logeion.uchicago.edu/%CE%B5%E1%BC%B7%CF%82"
                 },
                 {
-                  "label": "Scaife ATLAS, formes de εἷς",
-                  "url": "https://atlas.perseus.tufts.edu/lemma/1073/"
+                  "label": "Texte grec de Luc 14,18, Greek Bible",
+                  "url": "https://www.greekbible.com/luke/14/18"
                 },
                 {
-                  "label": "Texte grec de Luc 14,18",
-                  "url": "https://greekbible.com/luke/14/18"
-                },
-                {
-                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. εἷς, référence bibliographique à contrôler sur l’édition utilisée",
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. εἷς",
                   "url": ""
                 }
               ]
@@ -297,7 +350,19 @@
           {
             "greek": "Ἀγρὸν",
             "gloss": "Un_champ",
-            "analyse": "Premier pilier d'ancrage de la Matrice : la topographie matérielle, la propriété spatiale. L'Ego s'identifie à l'espace physique qu'il contrôle."
+            "annotation": {
+              "type": "analyse",
+              "title": "J’ai acheté un champ",
+              "content": "La première excuse s’appuie sur un bien nouvellement acquis. Le champ n’est pas mauvais en lui-même, mais il devient un obstacle lorsque sa possession prime sur l’appel reçu.",
+              "grammar": {
+                "form": "Ἀγρόν",
+                "lemma": "ἀγρός",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct de ἠγόρασα, « j’ai acheté »."
+              }
+            }
           },
           {
             "greek": "ἠγόρασα",
@@ -314,7 +379,20 @@
           {
             "greek": "ἀνάγκην",
             "gloss": "la_nécessité/l'obligation",
-            "analyse": "L'*Ananke*. L'Ego présente son illusion comme une loi physique insurmontable. 'Je suis obligé' : la captivité horizontale est perçue comme la seule réalité contraignante."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Je suis obligé d’aller le voir",
+              "content": "ἀνάγκη exprime la nécessité ou la contrainte. L’invité présente sa visite du champ comme inévitable, alors qu’il choisit en réalité de faire passer cette affaire avant le banquet.",
+              "grammar": {
+                "form": "ἀνάγκην",
+                "lemma": "ἀνάγκη",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément direct de ἔχω dans l’expression ἔχω ἀνάγκην, « j’ai nécessité, je suis obligé »."
+              }
+            }
           },
           {
             "greek": "ἐξελθὼν",
@@ -376,7 +454,19 @@
           {
             "greek": "βοῶν",
             "gloss": "de_bœufs",
-            "analyse": "Deuxième pilier d'ancrage : la cinétique économique. Le bœuf est la force motrice du monde antique. C'est l'addiction au travail horizontal, à l'entreprise et au mouvement mécanique du Monde duel."
+            "annotation": {
+              "type": "analyse",
+              "title": "Cinq paires de bœufs",
+              "content": "La deuxième excuse concerne l’activité économique et le travail. Comme le champ, les bœufs deviennent un obstacle non par leur nature, mais parce que leur vérification reçoit la priorité sur l’invitation.",
+              "grammar": {
+                "form": "βοῶν",
+                "lemma": "βοῦς",
+                "category": "Nom de la troisième déclinaison",
+                "parsing": "Génitif masculin pluriel",
+                "abbreviation": "GÉN. MASC. PL.",
+                "syntax": "Complément de ζεύγη, « paires » : πέντε ζεύγη βοῶν, « cinq paires de bœufs »."
+              }
+            }
           },
           {
             "greek": "ἠγόρασα",
@@ -397,7 +487,19 @@
           {
             "greek": "δοκιμάσαι",
             "gloss": "éprouver/tester",
-            "analyse": "Le verbe *dokimazo*. L'Ego veut vérifier et maîtriser ses outils de production matricielle plutôt que de faire confiance au saut quantique proposé par l'Incréé."
+            "annotation": {
+              "type": "analyse",
+              "title": "Je vais les essayer",
+              "content": "δοκιμάζω signifie éprouver, examiner ou vérifier. Le troisième mouvement de l’excuse consiste à contrôler un bien acquis plutôt qu’à répondre à une invitation déjà prête.",
+              "grammar": {
+                "form": "δοκιμάσαι",
+                "lemma": "δοκιμάζω",
+                "category": "Verbe",
+                "parsing": "Aoriste actif, infinitif",
+                "abbreviation": "AOR. ACT. INF.",
+                "syntax": "Infinitif exprimant le but après πορεύομαι : « je vais les essayer ». Le pronom αὐτά en est le complément direct."
+              }
+            }
           },
           {
             "greek": "αὐτά·",
@@ -447,7 +549,19 @@
           {
             "greek": "Γυναῖκα",
             "gloss": "Une_femme",
-            "analyse": "Troisième pilier d'ancrage : le contrat social et biologique de la dualité. La reproduction matricielle. Le Sujet est tellement immergé dans la fusion horizontale (le couple humain) qu'il est aveugle à la fusion verticale absolue (le Souper)."
+            "annotation": {
+              "type": "analyse",
+              "title": "J’ai épousé une femme",
+              "content": "La troisième excuse invoque le mariage. Le récit ne condamne pas l’union conjugale ; il montre qu’une relation bonne peut elle aussi être utilisée pour fermer l’oreille à l’appel de Dieu.",
+              "grammar": {
+                "form": "Γυναῖκα",
+                "lemma": "γυνή",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément direct de ἔγημα, « j’ai épousé »."
+              }
+            }
           },
           {
             "greek": "ἔγημα,",
@@ -472,7 +586,20 @@
           {
             "greek": "δύναμαι",
             "gloss": "je_suis_capable/je_peux",
-            "analyse": "La *Dynamis* (puissance) de l'homme est annulée par son propre Ego. Il n'a même pas la courtoisie de demander d'être excusé ; son hypnose biologique lui fait croire à une impuissance absolue ('je ne peux pas')."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Je ne peux pas venir",
+              "content": "δύναμαι exprime la capacité ou la possibilité. Le dernier invité ne demande même plus à être excusé : il transforme son choix en impossibilité et affirme simplement qu’il ne peut venir.",
+              "grammar": {
+                "form": "δύναμαι",
+                "lemma": "δύναμαι",
+                "category": "Verbe déponent",
+                "parsing": "Présent moyen, indicatif, première personne du singulier",
+                "abbreviation": "PRÉS. MOY. IND. 1 SG.",
+                "syntax": "Verbe principal accompagné de la négation οὐ. Il gouverne l’infinitif ἐλθεῖν, « venir »."
+              }
+            }
           },
           {
             "greek": "ἐλθεῖν.",
@@ -530,7 +657,19 @@
           {
             "greek": "ὀργισθεὶς",
             "gloss": "ayant_été_mis_en_colère",
-            "analyse": "L'*Orge* divine. Ce n'est pas un caprice émotionnel, c'est la friction absolue entre l'Énergie incréée et le mur de l'Ego. La Grâce ne tolère pas d'être subordonnée aux urgences chronologiques de l'homme."
+            "annotation": {
+              "type": "analyse",
+              "title": "Le maître fut irrité",
+              "content": "La colère du maître répond au refus unanime des premiers invités. Dans la parabole, elle ne met pas fin au banquet : elle provoque au contraire l’élargissement immédiat de l’invitation.",
+              "grammar": {
+                "form": "ὀργισθείς",
+                "lemma": "ὀργίζω",
+                "category": "Verbe",
+                "parsing": "Aoriste passif, participe, nominatif masculin singulier",
+                "abbreviation": "AOR. PASS. PART. NOM. MASC. SG.",
+                "syntax": "Participe circonstanciel accordé avec ὁ οἰκοδεσπότης, « le maître de maison »."
+              }
+            }
           },
           {
             "greek": "ὁ",
@@ -627,7 +766,20 @@
           {
             "greek": "χωλοὺς",
             "gloss": "boiteux",
-            "analyse": "Le renversement matriciel. Les Egos puissants, intégrés au monde (les possédants), ont bloqué la Grâce. La Source se tourne vers les 'ratés' de la Matrice : ceux dont la géométrie physique ou sociale est déjà fracturée (manque de force, de vue, de mobilité). Ayant moins de points d'ancrage dans l'illusion, ils n'ont aucune 'excuse' pour refuser le Réel."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Les pauvres et les blessés sont invités",
+              "content": "Les pauvres, les estropiés, les aveugles et les boiteux sont conduits au banquet. Ceux qui semblaient éloignés de la table deviennent les premiers bénéficiaires de l’invitation refusée.",
+              "grammar": {
+                "form": "χωλούς",
+                "lemma": "χωλός",
+                "category": "Adjectif employé comme nom",
+                "parsing": "Accusatif masculin pluriel",
+                "abbreviation": "ACC. MASC. PL.",
+                "syntax": "Complément direct de εἰσάγαγε, coordonné aux autres groupes désignant les personnes invitées."
+              }
+            }
           },
           {
             "greek": "εἰσάγαγε",
@@ -689,7 +841,20 @@
           {
             "greek": "τόπος",
             "gloss": "lieu/place",
-            "analyse": "Le *Topos*. L'architecture spirituelle du Pleroma est infinie. Contrairement à la Matrice qui est un système fermé avec des places limitées, l'Incréé ne connaît pas la rareté spatiale."
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Il y a encore de la place",
+              "content": "Après l’entrée des personnes venues des rues, le serviteur constate qu’il reste encore de la place. L’abondance du banquet dépasse le premier cercle des invités et ouvre la mission vers les chemins et les clôtures.",
+              "grammar": {
+                "form": "τόπος",
+                "lemma": "τόπος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Sujet de ἐστίν dans ἔτι τόπος ἐστίν, « il y a encore de la place »."
+              }
+            }
           },
           {
             "greek": "ἐστίν.",
@@ -755,7 +920,19 @@
           {
             "greek": "φραγμοὺς",
             "gloss": "haies/clôtures",
-            "analyse": "Les marges absolues, les frontières extérieures de la civilisation. Le Logos va chercher la Lumière fractalisée jusque dans les zones de non-droit de l'espace-temps."
+            "annotation": {
+              "type": "analyse",
+              "title": "Jusqu’aux chemins et aux clôtures",
+              "content": "L’ordre du maître atteint désormais les espaces extérieurs à la ville. L’invitation ne se contente pas des lieux habituels : elle cherche ceux qui sont restés aux marges.",
+              "grammar": {
+                "form": "φραγμούς",
+                "lemma": "φραγμός",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin pluriel",
+                "abbreviation": "ACC. MASC. PL.",
+                "syntax": "Complément de la préposition εἰς, coordonné à ὁδούς : « vers les chemins et les clôtures »."
+              }
+            }
           },
           {
             "greek": "καὶ",
@@ -764,7 +941,20 @@
           {
             "greek": "ἀνάγκασον",
             "gloss": "contrains/force",
-            "analyse": "Le verbe foudroyant : *anankazo* (lier par nécessité, forcer). L'Incréé exerce une gravité irrésistible. Face à l'engourdissement de ceux qui vivent dans les haies, la Grâce applique une 'violence' métaphysique pour les extraire de leur léthargie. L'arrachement à l'entropie n'est pas toujours doux."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Presse-les d’entrer",
+              "content": "ἀναγκάζω signifie contraindre, presser ou insister fortement. Dans le contexte, le serviteur doit vaincre l’hésitation de ceux qui ne se croient peut-être pas invités. Le verset ne justifie pas la violence religieuse.",
+              "grammar": {
+                "form": "ἀνάγκασον",
+                "lemma": "ἀναγκάζω",
+                "category": "Verbe",
+                "parsing": "Aoriste actif, impératif, deuxième personne du singulier",
+                "abbreviation": "AOR. ACT. IMP. 2 SG.",
+                "syntax": "Impératif adressé au serviteur. Il gouverne l’infinitif εἰσελθεῖν, « entrer »."
+              }
+            }
           },
           {
             "greek": "εἰσελθεῖν,",
@@ -789,7 +979,19 @@
           {
             "greek": "οἶκος·",
             "gloss": "maison",
-            "analyse": "L'*Oikos*. La structure géométrique divine doit atteindre sa pleine capacité vibratoire."
+            "annotation": {
+              "type": "theologie",
+              "title": "Afin que ma maison soit remplie",
+              "content": "La maison du maître est destinée à être remplie. L’élargissement de l’invitation manifeste une hospitalité qui cherche activement ceux que les premiers invités n’avaient pas envisagés.",
+              "grammar": {
+                "form": "οἶκος",
+                "lemma": "οἶκος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Sujet de γεμισθῇ, « soit remplie ». Le possessif μου signifie « ma maison »."
+              }
+            }
           }
         ]
       },
@@ -855,7 +1057,20 @@
           {
             "greek": "δείπνου.",
             "gloss": "souper",
-            "analyse": "La fermeture définitive de la porte. L'Ego qui a préféré la Matrice à l'Incréé est respecté dans son choix : il obtient l'exclusion ontologique qu'il a lui-même réclamée en s'excusant."
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Goûter au souper",
+              "content": "Le récit s’achève sur le contraste entre l’invitation offerte et le refus des premiers conviés. Goûter au souper suppose d’accueillir l’appel au moment où il est donné.",
+              "grammar": {
+                "form": "δείπνου",
+                "lemma": "δεῖπνον",
+                "category": "Nom neutre de la deuxième déclinaison",
+                "parsing": "Génitif neutre singulier",
+                "abbreviation": "GÉN. NEUT. SG.",
+                "syntax": "Complément du verbe γεύσεται, qui se construit avec le génitif : « goûtera de mon souper »."
+              }
+            }
           }
         ]
       }
@@ -972,7 +1187,20 @@
           {
             "greek": "φανερωθῇ,",
             "gloss": "sera_manifesté/apparaîtra",
-            "analyse": "Le verbe *phaneroo* (rendre visible, mettre en lumière). L'Épiphanie. L'Axe n'est pas une abstraction, c'est une fréquence qui finit irrémédiablement par percer le voile de l'espace-temps."
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Quand le Christ sera manifesté",
+              "content": "φανερόω signifie rendre visible ou manifester. Paul tient ensemble la vie déjà cachée avec le Christ et sa manifestation future : ce qui est reçu maintenant apparaîtra dans la gloire.",
+              "grammar": {
+                "form": "φανερωθῇ",
+                "lemma": "φανερόω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste passif, subjonctif, troisième personne du singulier",
+                "abbreviation": "AOR. PASS. SUBJ. 3 SG.",
+                "syntax": "Verbe de la proposition temporelle introduite par ὅταν, « lorsque ». Son sujet est Χριστός."
+              }
+            }
           },
           {
             "greek": "ἡ",
@@ -981,7 +1209,20 @@
           {
             "greek": "ζωὴ",
             "gloss": "vie",
-            "analyse": "La *Zoe*. Le Christ n'est pas le 'donneur' de vie, Il EST le principe vital lui-même, l'anti-entropie absolue."
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Le Christ, notre vie",
+              "content": "Paul ne dit pas seulement que le Christ donne la vie : il l’appelle « notre vie ». La vie chrétienne est ainsi comprise comme communion au Christ, cachée maintenant et appelée à être manifestée.",
+              "grammar": {
+                "form": "ζωή",
+                "lemma": "ζωή",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Apposition explicative à Χριστός : « le Christ, notre vie »."
+              }
+            }
           },
           {
             "greek": "ὑμῶν,",
@@ -1018,7 +1259,19 @@
           {
             "greek": "δόξῃ.",
             "gloss": "gloire",
-            "analyse": "La *Doxa*. Le rayonnement de la Présence divine. La manifestation de l'Incréé englobe instantanément tous les sujets qui se sont alignés sur lui."
+            "annotation": {
+              "type": "theologie",
+              "title": "Manifestés avec lui dans la gloire",
+              "content": "La manifestation du Christ entraîne celle des fidèles avec lui. La gloire n’est pas une réussite individuelle : elle est participation à la vie du Christ ressuscité.",
+              "grammar": {
+                "form": "δόξῃ",
+                "lemma": "δόξα",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "Complément de ἐν : ἐν δόξῃ, « dans la gloire »."
+              }
+            }
           }
         ]
       },
@@ -1032,7 +1285,20 @@
           {
             "greek": "Νεκρώσατε",
             "gloss": "Faites_mourir/Mortifiez",
-            "analyse": "Le verbe *nekroo*. Ordre radical. Il ne s'agit pas de 'gérer' ses défauts psychologiques, mais d'assécher littéralement l'alimentation énergétique des capteurs horizontaux de l'Ego."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Faites mourir ce qui vous détourne du Christ",
+              "content": "L’impératif demande une rupture réelle avec les comportements énumérés. Il ne condamne ni le corps ni la création, mais ce qui réduit l’autre à un objet et détourne le désir de sa vocation.",
+              "grammar": {
+                "form": "Νεκρώσατε",
+                "lemma": "νεκρόω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste actif, impératif, deuxième personne du pluriel",
+                "abbreviation": "AOR. ACT. IMP. 2 PL.",
+                "syntax": "Impératif adressé à la communauté. τὰ μέλη τὰ ἐπὶ τῆς γῆς en est le complément direct."
+              }
+            }
           },
           {
             "greek": "οὖν",
@@ -1061,7 +1327,19 @@
           {
             "greek": "γῆς,",
             "gloss": "terre",
-            "analyse": "Les 'membres sur la terre' ne désignent pas le corps physique, mais les points d'ancrage par lesquels l'Ego s'arrime à l'entropie de la Matrice."
+            "annotation": {
+              "type": "traduction",
+              "title": "Les membres qui sont sur la terre",
+              "content": "L’expression introduit la liste des conduites à faire mourir. Elle ne signifie pas que le corps matériel serait mauvais : Paul vise les pratiques terrestres opposées à la vie cachée avec le Christ.",
+              "grammar": {
+                "form": "γῆς",
+                "lemma": "γῆ",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Génitif féminin singulier",
+                "abbreviation": "GÉN. FÉM. SG.",
+                "syntax": "Complément de ἐπί avec le génitif : τὰ ἐπὶ τῆς γῆς, « ce qui est sur la terre »."
+              }
+            }
           },
           {
             "greek": "πορνείαν,",
@@ -1094,7 +1372,20 @@
           {
             "greek": "πλεονεξίαν",
             "gloss": "cupidité/volonté_d'avoir_plus",
-            "analyse": "La *pleonexia* (vouloir toujours plus). C'est le moteur central de l'Ego : le trou noir de l'insatisfaction perpétuelle."
+            "annotation": {
+              "type": "racine",
+              "importance": "major",
+              "title": "La cupidité qui est idolâtrie",
+              "content": "πλεονεξία désigne le désir d’avoir toujours davantage. Paul l’identifie à l’idolâtrie parce qu’elle accorde à la possession la place qui revient à Dieu.",
+              "grammar": {
+                "form": "πλεονεξίαν",
+                "lemma": "πλεονεξία",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Dernier terme de la liste gouvernée par Νεκρώσατε. Le relatif ἥτις la reprend ensuite."
+              }
+            }
           },
           {
             "greek": "ἥτις",
@@ -1107,7 +1398,20 @@
           {
             "greek": "εἰδωλολατρία,",
             "gloss": "idolâtrie",
-            "analyse": "L'équation foudroyante de Paul. L'avidité matérielle n'est pas un 'petit défaut', c'est l'essence même de l'idolâtrie : substituer l'objet fini à la Source infinie."
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "La cupidité est une idolâtrie",
+              "content": "εἰδωλολατρία signifie service ou culte des idoles. Paul dévoile la portée spirituelle de la cupidité : le bien possédé devient une idole lorsqu’il reçoit la confiance et le désir dus à Dieu.",
+              "grammar": {
+                "form": "εἰδωλολατρία",
+                "lemma": "εἰδωλολατρία",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Attribut dans ἥτις ἐστὶν εἰδωλολατρία, « laquelle est idolâtrie »."
+              }
+            }
           }
         ]
       },
@@ -1137,7 +1441,19 @@
           {
             "greek": "ὀργὴ",
             "gloss": "colère",
-            "analyse": "L'*Orge*. La friction ontologique entre la pureté de la Lumière et les structures d'opacité. Ce n'est pas une vengeance émotionnelle, c'est une réaction métaphysique."
+            "annotation": {
+              "type": "theologie",
+              "title": "La colère de Dieu vient",
+              "content": "Dans le langage biblique, la colère de Dieu nomme son opposition au péché qui détruit la personne et la communion. Elle ne doit pas être réduite à une réaction passionnelle semblable à la colère humaine.",
+              "grammar": {
+                "form": "ὀργή",
+                "lemma": "ὀργή",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Sujet du verbe ἔρχεται, « vient ». Le génitif τοῦ θεοῦ précise qu’il s’agit de la colère de Dieu."
+              }
+            }
           },
           {
             "greek": "τοῦ",
@@ -1195,7 +1511,19 @@
           {
             "greek": "περιεπατήσατέ",
             "gloss": "avez_marché",
-            "analyse": "Le verbe *peripateo* (marcher autour). La déambulation labyrinthique et sans but de l'homme duel prisonnier de la Matrice."
+            "annotation": {
+              "type": "analyse",
+              "title": "Vous marchiez autrefois dans ces conduites",
+              "content": "περιπατέω désigne souvent chez Paul la conduite de toute la vie. Les fidèles ont autrefois marché dans ces pratiques, mais leur vie est désormais cachée avec le Christ.",
+              "grammar": {
+                "form": "περιεπατήσατε",
+                "lemma": "περιπατέω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste actif, indicatif, deuxième personne du pluriel",
+                "abbreviation": "AOR. ACT. IND. 2 PL.",
+                "syntax": "Verbe principal dont les destinataires sont le sujet. ἐν οἷς signifie « dans lesquelles »."
+              }
+            }
           },
           {
             "greek": "ποτε,",
@@ -1237,7 +1565,20 @@
           {
             "greek": "ἀπόθεσθε",
             "gloss": "déposez/dépouillez-vous_de",
-            "analyse": "Le verbe *apo-tithemi* (enlever et mettre de côté). Se débarrasser de la peau de l'Ego comme on jette un vieux vêtement sale."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Rejetez maintenant toutes ces choses",
+              "content": "ἀποτίθημι signifie déposer, enlever ou mettre de côté, comme un vêtement. L’image prépare le contraste entre l’ancien homme dont on se dépouille et l’homme nouveau que l’on revêt.",
+              "grammar": {
+                "form": "ἀπόθεσθε",
+                "lemma": "ἀποτίθημι",
+                "category": "Verbe",
+                "parsing": "Aoriste moyen, impératif, deuxième personne du pluriel",
+                "abbreviation": "AOR. MOY. IMP. 2 PL.",
+                "syntax": "Impératif adressé à la communauté. τὰ πάντα, « toutes ces choses », en est le complément direct."
+              }
+            }
           },
           {
             "greek": "καὶ",
@@ -1274,7 +1615,19 @@
           {
             "greek": "αἰσχρολογίαν",
             "gloss": "parole_honteuse",
-            "analyse": "Toutes ces tares sont les manifestations de l'Ego en mode défensif ou offensif, cherchant à rabaisser l'Autre pour s'élever lui-même dans la géométrie horizontale."
+            "annotation": {
+              "type": "traduction",
+              "title": "La parole honteuse",
+              "content": "αἰσχρολογία désigne une parole honteuse, dégradante ou obscène. Paul place ainsi la manière de parler parmi les conduites incompatibles avec l’homme nouveau.",
+              "grammar": {
+                "form": "αἰσχρολογίαν",
+                "lemma": "αἰσχρολογία",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Terme de la liste gouvernée par ἀπόθεσθε. ἐκ τοῦ στόματος précise que cette parole sort de la bouche."
+              }
+            }
           },
           {
             "greek": "ἐκ",
@@ -1320,7 +1673,20 @@
           {
             "greek": "ἀπεκδυσάμενοι",
             "gloss": "vous_étant_dépouillés",
-            "analyse": "Le participe *apekdyomai* (enlever de sur soi). La Kénose identitaire."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Vous étant dépouillés de l’ancien homme",
+              "content": "Le participe prolonge l’image du vêtement retiré. Se dépouiller de l’ancien homme signifie rompre avec ses pratiques, non effacer la personne créée par Dieu.",
+              "grammar": {
+                "form": "ἀπεκδυσάμενοι",
+                "lemma": "ἀπεκδύομαι",
+                "category": "Verbe déponent",
+                "parsing": "Aoriste moyen, participe, nominatif masculin pluriel",
+                "abbreviation": "AOR. MOY. PART. NOM. MASC. PL.",
+                "syntax": "Participe accordé avec les destinataires. Il gouverne τὸν παλαιὸν ἄνθρωπον, « l’ancien homme »."
+              }
+            }
           },
           {
             "greek": "τὸν",
@@ -1333,7 +1699,20 @@
           {
             "greek": "ἄνθρωπον",
             "gloss": "homme",
-            "analyse": "Le *palaios anthropos*. L'ancien système d'exploitation, l'identité fragmentée fondée sur la peur, la survie et le *Chronos*."
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "L’ancien homme avec ses pratiques",
+              "content": "L’ancien homme désigne la manière de vivre marquée par le mensonge et les comportements énumérés. Paul oppose cette condition au renouvellement de l’homme nouveau selon l’image du Créateur.",
+              "grammar": {
+                "form": "ἄνθρωπον",
+                "lemma": "ἄνθρωπος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct de ἀπεκδυσάμενοι. L’adjectif παλαιόν signifie « ancien »."
+              }
+            }
           },
           {
             "greek": "σὺν",
@@ -1367,7 +1746,20 @@
           {
             "greek": "ἐνδυσάμενοι",
             "gloss": "ayant_revêtu",
-            "analyse": "Le verbe inverse : *endyomai* (plonger dans, revêtir). L'espace laissé vide par l'Ego est immédiatement saturé par la Présence."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Ayant revêtu l’homme nouveau",
+              "content": "Après le dépouillement vient le revêtement. La vie chrétienne n’est pas seulement abandon de pratiques anciennes : elle est réception d’une humanité renouvelée selon l’image du Créateur.",
+              "grammar": {
+                "form": "ἐνδυσάμενοι",
+                "lemma": "ἐνδύω",
+                "category": "Verbe",
+                "parsing": "Aoriste moyen, participe, nominatif masculin pluriel",
+                "abbreviation": "AOR. MOY. PART. NOM. MASC. PL.",
+                "syntax": "Participe accordé avec les destinataires. Il gouverne τὸν νέον, « le nouveau », avec ἄνθρωπον sous-entendu."
+              }
+            }
           },
           {
             "greek": "τὸν",
@@ -1388,7 +1780,20 @@
           {
             "greek": "ἀνακαινούμενον",
             "gloss": "est_renouvelé",
-            "analyse": "L'*anakainosis*. Ce n'est pas un nettoyage de surface, c'est une mutation constante de la conscience pour retrouver la fraîcheur originelle de la vibration divine."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "L’homme nouveau est renouvelé",
+              "content": "Le présent passif indique un renouvellement en cours et reçu. L’homme nouveau n’est pas une identité achevée par l’effort seul : il est continuellement renouvelé par Dieu.",
+              "grammar": {
+                "form": "ἀνακαινούμενον",
+                "lemma": "ἀνακαινόω",
+                "category": "Verbe contracte",
+                "parsing": "Présent passif, participe, accusatif masculin singulier",
+                "abbreviation": "PRÉS. PASS. PART. ACC. MASC. SG.",
+                "syntax": "Participe accordé avec τὸν νέον, « l’homme nouveau » sous-entendu. Le passif indique l’action reçue."
+              }
+            }
           },
           {
             "greek": "εἰς",
@@ -1397,7 +1802,20 @@
           {
             "greek": "ἐπίγνωσιν",
             "gloss": "connaissance_exacte",
-            "analyse": "L'*epi-gnosis*. L'expérience intime et non-duelle du Réel, qui remplace les croyances ou les théories."
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Renouvelé pour la connaissance",
+              "content": "ἐπίγνωσις désigne une connaissance pleine ou reconnue. Le renouvellement conduit à connaître selon l’image du Créateur, et non à accumuler une information séparée de la vie.",
+              "grammar": {
+                "form": "ἐπίγνωσιν",
+                "lemma": "ἐπίγνωσις",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément de la préposition εἰς : εἰς ἐπίγνωσιν, « pour la connaissance »."
+              }
+            }
           },
           {
             "greek": "κατ’",
@@ -1406,7 +1824,20 @@
           {
             "greek": "εἰκόνα",
             "gloss": "l'image",
-            "analyse": "L'*Eikon*. Le fractal pur. Le nouvel homme est le miroir parfait qui reflète la source, sans distorsion égotique."
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Selon l’image de son Créateur",
+              "content": "εἰκών signifie image. Le renouvellement de l’homme nouveau est orienté selon l’image de celui qui l’a créé : la vocation humaine se comprend à partir de Dieu et trouve son accomplissement dans le Christ.",
+              "grammar": {
+                "form": "εἰκόνα",
+                "lemma": "εἰκών",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément de κατά avec l’accusatif : κατ’ εἰκόνα, « selon l’image »."
+              }
+            }
           },
           {
             "greek": "τοῦ",
@@ -1432,7 +1863,19 @@
           {
             "greek": "ὅπου",
             "gloss": "où",
-            "analyse": "Le 'Où' topographique : dans cette nouvelle dimension (*le Nouvel Homme*)."
+            "annotation": {
+              "type": "traduction",
+              "title": "Là où le Christ est tout en tous",
+              "content": "ὅπου introduit la réalité de l’homme nouveau dans laquelle les oppositions énumérées ne déterminent plus la communion. Paul ne nie pas les histoires personnelles, mais leur refuse le pouvoir de séparer dans le Christ.",
+              "grammar": {
+                "form": "ὅπου",
+                "lemma": "ὅπου",
+                "category": "Adverbe relatif de lieu",
+                "parsing": "Forme indéclinable",
+                "abbreviation": "ADV. REL. INDECL.",
+                "syntax": "Introduit une proposition relative de lieu au sens figuré : « là où »."
+              }
+            }
           },
           {
             "greek": "οὐκ",
@@ -1453,7 +1896,19 @@
           {
             "greek": "Ἰουδαῖος,",
             "gloss": "Juif",
-            "analyse": "La pulvérisation de la dualité culturelle et religieuse."
+            "annotation": {
+              "type": "analyse",
+              "title": "Ni Grec ni Juif comme principe de séparation",
+              "content": "Paul cite d’abord l’opposition religieuse et culturelle entre Grec et Juif. Dans l’homme nouveau, cette différence ne fonde plus une hiérarchie d’accès au Christ.",
+              "grammar": {
+                "form": "Ἰουδαῖος",
+                "lemma": "Ἰουδαῖος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Terme coordonné dans la construction οὐκ ἔνι, « il n’y a pas »."
+              }
+            }
           },
           {
             "greek": "περιτομὴ",
@@ -1466,7 +1921,19 @@
           {
             "greek": "ἀκροβυστία,",
             "gloss": "incirconcision",
-            "analyse": "La pulvérisation de la dualité rituelle."
+            "annotation": {
+              "type": "analyse",
+              "title": "Ni circoncision ni incirconcision comme séparation",
+              "content": "L’opposition rituelle entre circoncision et incirconcision ne détermine plus l’appartenance à l’homme nouveau. Le Christ devient le principe commun de la communion.",
+              "grammar": {
+                "form": "ἀκροβυστία",
+                "lemma": "ἀκροβυστία",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Terme coordonné dans la série gouvernée par οὐκ ἔνι."
+              }
+            }
           },
           {
             "greek": "βάρβαρος,",
@@ -1483,7 +1950,19 @@
           {
             "greek": "ἐλεύθερος,",
             "gloss": "libre",
-            "analyse": "La pulvérisation de la dualité sociale et économique. Tous les 'champs' et 'bœufs' de la Parabole du Grand Souper sont effacés."
+            "annotation": {
+              "type": "analyse",
+              "title": "Ni esclave ni homme libre comme séparation",
+              "content": "La distinction sociale entre esclave et libre ne disparaît pas magiquement de la société, mais elle ne peut plus définir la valeur de la personne ni son accès à la communion en Christ.",
+              "grammar": {
+                "form": "ἐλεύθερος",
+                "lemma": "ἐλεύθερος",
+                "category": "Adjectif employé comme nom",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Coordonné à δοῦλος dans la série introduite par οὐκ ἔνι."
+              }
+            }
           },
           {
             "greek": "ἀλλὰ",
@@ -1512,7 +1991,20 @@
           {
             "greek": "Χριστός.",
             "gloss": "Christ",
-            "analyse": "L'absolu Non-Duel. *Panta kai en pasin Christos*. Il ne s'agit plus d'individus séparés adorant un Dieu extérieur, mais du Christ cosmique qui se manifeste comme l'unique Réalité vibratoire à travers toutes les formes."
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Le Christ est tout et en tous",
+              "content": "La série s’achève non par une abstraction, mais par le Christ. Il est « tout » comme accomplissement de l’homme nouveau et « en tous » comme principe de communion entre des personnes qui ne sont pas confondues.",
+              "grammar": {
+                "form": "Χριστός",
+                "lemma": "Χριστός",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Noyau de la proposition nominale ἀλλὰ τὰ πάντα καὶ ἐν πᾶσιν Χριστός, « mais le Christ est tout et en tous »."
+              }
+            }
           }
         ]
       }

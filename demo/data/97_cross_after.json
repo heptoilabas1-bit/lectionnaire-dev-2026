@@ -80,22 +80,21 @@
             },
             "annotation": {
               "type": "grammaire",
-              "importance": "major",
               "title": "Venir derrière le Christ",
               "content": "L’infinitif ἐλθεῖν dépend du désir libre exprimé par θέλει : Jésus n’impose pas ce chemin. Venir derrière lui ouvre le mouvement que poursuivent renoncer à soi-même, prendre sa croix et suivre.",
-              "grammar": {
-                "form": "ἐλθεῖν",
-                "lemma": "ἔρχομαι",
-                "category": "Infinitif aoriste actif",
-                "parsing": "Deuxième aoriste, infinitif actif",
-                "abbreviation": "AOR. 2 ACT. INF.",
-                "syntax": "Infinitif complémentaire de θέλει, « il veut ». Il exprime l’action librement désirée : venir derrière le Christ."
-              },
               "related": [
                 "ἀπαρνησάσθω",
                 "ἀράτω",
                 "ἀκολουθείτω"
-              ]
+              ],
+              "grammar": {
+                "form": "ἐλθεῖν",
+                "lemma": "ἔρχομαι",
+                "category": "Verbe déponent",
+                "parsing": "Deuxième aoriste actif de forme, infinitif",
+                "abbreviation": "AOR. 2 ACT. INF.",
+                "syntax": "Complément de θέλει : « si quelqu’un veut venir derrière moi »."
+              }
             }
           },
           {
@@ -108,22 +107,21 @@
             },
             "annotation": {
               "type": "racine",
-              "importance": "major",
               "title": "Qu’il renonce à lui-même",
-              "content": "Le verbe ἀπαρνέομαι signifie renier ou désavouer. Avec ἑαυτόν, « soi-même », l’appel ne demande ni mépris de soi ni disparition de la personne. Il invite à renoncer à se prendre soi-même pour centre afin de marcher derrière le Christ. Ce renoncement demeure une réponse libre, annoncée par « si quelqu’un veut ».",
+              "content": "Le verbe demande de cesser de se prendre soi-même pour centre. Ce renoncement ouvre le mouvement vers le Christ ; il ne signifie ni mépris de la personne ni destruction psychologique.",
+              "related": [
+                "ἐλθεῖν,",
+                "ἀράτω",
+                "ἀκολουθείτω"
+              ],
               "grammar": {
                 "form": "ἀπαρνησάσθω",
                 "lemma": "ἀπαρνέομαι",
                 "category": "Verbe déponent",
                 "parsing": "Aoriste moyen, impératif, troisième personne du singulier",
                 "abbreviation": "AOR. MOY. IMP. 3 SG.",
-                "syntax": "Premier impératif de la séquence. Il gouverne le pronom réfléchi ἑαυτόν, « lui-même »."
-              },
-              "related": [
-                "ἐλθεῖν,",
-                "ἀράτω",
-                "ἀκολουθείτω"
-              ]
+                "syntax": "Premier impératif de la réponse ; ἑαυτόν, « lui-même », en est le complément direct."
+              }
             }
           },
           {
@@ -144,22 +142,21 @@
             },
             "annotation": {
               "type": "racine",
-              "importance": "major",
               "title": "Qu’il prenne : une réponse libre",
               "content": "Le verbe αἴρω signifie prendre, soulever, porter. L’impératif ἀράτω n’invite pas à rechercher la souffrance : il appelle chacun à consentir librement au chemin ouvert par le Christ, au lieu de fuir ce que la fidélité à l’Évangile lui demande de traverser.",
+              "related": [
+                "ἐλθεῖν,",
+                "ἀπαρνησάσθω",
+                "ἀκολουθείτω"
+              ],
               "grammar": {
                 "form": "ἀράτω",
                 "lemma": "αἴρω",
                 "category": "Verbe",
                 "parsing": "Aoriste actif, impératif, troisième personne du singulier",
                 "abbreviation": "AOR. ACT. IMP. 3 SG.",
-                "syntax": "Deuxième impératif de la séquence. Son complément direct est τὸν σταυρὸν αὐτοῦ, « sa croix »."
-              },
-              "related": [
-                "ἐλθεῖν,",
-                "ἀπαρνησάσθω",
-                "ἀκολουθείτω"
-              ]
+                "syntax": "Deuxième impératif ; τὸν σταυρὸν αὐτοῦ en est le complément direct."
+              }
             }
           },
           {
@@ -171,21 +168,84 @@
             "gloss": "croix",
             "annotation": {
               "type": "analyse",
-              "importance": "major",
               "title": "Qu’il prenne sa croix",
-              "content": "σταυρός désigne la croix. La prendre ne signifie pas rechercher la souffrance ni y voir une punition divine. Le disciple consent à suivre le Christ jusque dans ce que la fidélité à l’Évangile lui demande de traverser. La croix reçoit ainsi son sens du don de soi et de la communion au Christ.",
+              "content": "La croix du disciple est liée au renoncement à soi et à la suite du Christ. Elle ne désigne pas toute souffrance en général et ne justifie pas la recherche de la douleur.",
+              "related": [
+                "τὸν",
+                "αὐτοῦ"
+              ],
+              "importance": "major",
+              "lexical": {
+                "strong": "G4716",
+                "literal_senses": [
+                  "croix",
+                  "poteau de supplice dans l’usage ancien",
+                  "Croix du Christ dans l’usage chrétien"
+                ],
+                "paradigm": "σταυρός, génitif σταυροῦ, accusatif σταυρόν.",
+                "etymology": "Le mot désigne anciennement un pieu ou poteau et prend dans le Nouveau Testament le sens de la croix de supplice. Voir Chantraine, s.v. σταυρός.",
+                "theological_horizon": "La Croix chrétienne ne glorifie pas la souffrance pour elle-même. Elle révèle l’amour du Christ livré librement et devient le lieu pascal où la mort est traversée vers la résurrection."
+              },
+              "local": {
+                "reference": "Marc 8,34, dimanche après l’Exaltation de la Croix",
+                "expression": "ἀράτω τὸν σταυρὸν αὐτοῦ",
+                "literal": "Qu’il prenne sa croix.",
+                "translation": "Qu’il prenne sa croix.",
+                "syntax": "σταυρόν est l’accusatif singulier, complément direct de ἀράτω ; αὐτοῦ signifie « sa ».",
+                "commentary": "La croix n’est ni toute difficulté rencontrée ni une souffrance recherchée. Elle reçoit son sens du renoncement à se prendre pour centre et de la fidélité au Christ suivi."
+              },
+              "occurrences": [
+                {
+                  "reference": "Marc 8,34",
+                  "greek": "ἀράτω τὸν σταυρὸν αὐτοῦ",
+                  "literal": "Qu’il prenne sa croix.",
+                  "context": "Appel à venir derrière Jésus.",
+                  "theology": "La croix du disciple est inséparable de la suite du Christ.",
+                  "current": true,
+                  "pericope_key": "97_cross_after",
+                  "reading_type": "gospel",
+                  "target_form": "σταυρὸν"
+                },
+                {
+                  "reference": "Galates 2,19",
+                  "greek": "Χριστῷ συνεσταύρωμαι",
+                  "literal": "Je suis crucifié avec le Christ.",
+                  "context": "Paul décrit sa vie nouvelle dans le Christ.",
+                  "theology": "Le verbe composé exprime une communion à la Croix dont l’effet demeure.",
+                  "pericope_key": "97_cross_after",
+                  "reading_type": "apostle",
+                  "target_form": "συνεσταύρωμαι·"
+                },
+                {
+                  "reference": "Galates 6,14",
+                  "greek": "ἐμοὶ μὴ γένοιτο καυχᾶσθαι εἰ μὴ ἐν τῷ σταυρῷ",
+                  "literal": "Pour moi, qu’il ne soit pas question de me glorifier, sinon dans la Croix.",
+                  "context": "Conclusion de l’épître aux Galates.",
+                  "theology": "La Croix devient l’unique gloire parce qu’elle révèle l’œuvre du Christ."
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G4716, σταυρός",
+                  "url": "https://www.blueletterbible.org/lexicon/g4716/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. σταυρός, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CF%83%CF%84%CE%B1%CF%85%CF%81%CF%8C%CF%82"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. σταυρός",
+                  "url": ""
+                }
+              ],
               "grammar": {
                 "form": "σταυρόν",
                 "lemma": "σταυρός",
                 "category": "Nom masculin de la deuxième déclinaison",
                 "parsing": "Accusatif masculin singulier",
                 "abbreviation": "ACC. MASC. SG.",
-                "syntax": "Complément direct de ἀράτω, « qu’il prenne ». Le génitif αὐτοῦ précise « sa croix »."
-              },
-              "related": [
-                "τὸν",
-                "αὐτοῦ"
-              ]
+                "syntax": "Complément direct de ἀράτω ; αὐτοῦ signifie « sa »."
+              }
             }
           },
           {
@@ -206,22 +266,82 @@
             },
             "annotation": {
               "type": "grammaire",
-              "importance": "major",
               "title": "Qu’il me suive : un chemin qui dure",
               "content": "Le présent impératif ἀκολουθείτω suggère une marche appelée à se poursuivre. Prendre sa croix n’est pas un geste isolé : la Croix reçoit son sens du fait de marcher derrière le Christ, dans une fidélité recommencée.",
-              "grammar": {
-                "form": "ἀκολουθείτω",
-                "lemma": "ἀκολουθέω",
-                "category": "Verbe",
-                "parsing": "Présent actif, impératif, troisième personne du singulier",
-                "abbreviation": "PRÉS. ACT. IMP. 3 SG.",
-                "syntax": "Troisième impératif de la séquence. Le présent exprime ici une marche appelée à durer ; μοι, « moi », indique celui qui est suivi."
-              },
               "related": [
                 "ἐλθεῖν,",
                 "ἀπαρνησάσθω",
                 "ἀράτω"
-              ]
+              ],
+              "importance": "major",
+              "lexical": {
+                "strong": "G190",
+                "literal_senses": [
+                  "suivre",
+                  "accompagner",
+                  "devenir disciple selon le contexte"
+                ],
+                "paradigm": "ἀκολουθέω, futur ἀκολουθήσω, aoriste ἠκολούθησα.",
+                "etymology": "Traditionnellement rapproché de ἀκόλουθος, « qui suit, compagnon de route ». Voir Chantraine, s.v. ἀκόλουθος.",
+                "theological_horizon": "Suivre le Christ ne désigne pas seulement l’imitation extérieure. Le verbe exprime une relation durable au Maître et un chemin vécu derrière lui."
+              },
+              "local": {
+                "reference": "Marc 8,34, dimanche après l’Exaltation de la Croix",
+                "expression": "ἀκολουθείτω μοι",
+                "literal": "Qu’il me suive.",
+                "translation": "Qu’il me suive.",
+                "syntax": "ἀκολουθείτω est un impératif présent actif à la troisième personne du singulier ; μοι désigne celui qui est suivi.",
+                "commentary": "Le présent impératif donne au mouvement une durée. Renoncer à soi et prendre sa croix reçoivent leur orientation du fait de marcher continuellement derrière le Christ."
+              },
+              "occurrences": [
+                {
+                  "reference": "Marc 8,34",
+                  "greek": "ἀράτω τὸν σταυρὸν αὐτοῦ καὶ ἀκολουθείτω μοι",
+                  "literal": "Qu’il prenne sa croix et qu’il me suive.",
+                  "context": "Appel adressé à la foule avec les disciples.",
+                  "theology": "La Croix reçoit son sens du chemin derrière le Christ.",
+                  "current": true,
+                  "pericope_key": "97_cross_after",
+                  "reading_type": "gospel",
+                  "target_form": "ἀκολουθείτω"
+                },
+                {
+                  "reference": "Matthieu 4,20",
+                  "greek": "ἀφέντες τὰ δίκτυα ἠκολούθησαν αὐτῷ",
+                  "literal": "Ayant laissé les filets, ils le suivirent.",
+                  "context": "Appel des premiers disciples.",
+                  "theology": "La suite du Christ engage une réponse concrète à son appel."
+                },
+                {
+                  "reference": "Jean 12,26",
+                  "greek": "ἐάν τις ἐμοὶ διακονῇ, ἐμοὶ ἀκολουθείτω",
+                  "literal": "Si quelqu’un me sert, qu’il me suive.",
+                  "context": "Jésus relie le service à sa propre route vers la Pâque.",
+                  "theology": "Suivre et servir sont unis dans la communion au chemin du Christ."
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G190, ἀκολουθέω",
+                  "url": "https://www.blueletterbible.org/lexicon/g190/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. ἀκολουθέω, Logeion",
+                  "url": "https://logeion.uchicago.edu/%E1%BC%80%CE%BA%CE%BF%CE%BB%CE%BF%CF%85%CE%B8%CE%AD%CF%89"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. ἀκόλουθος",
+                  "url": ""
+                }
+              ],
+              "grammar": {
+                "form": "ἀκολουθείτω",
+                "lemma": "ἀκολουθέω",
+                "category": "Verbe contracte",
+                "parsing": "Présent actif, impératif, troisième personne du singulier",
+                "abbreviation": "PRÉS. ACT. IMP. 3 SG.",
+                "syntax": "Troisième impératif ; μοι désigne celui qui est suivi."
+              }
             }
           },
           {
@@ -262,21 +382,84 @@
             "gloss": "âme/vie",
             "annotation": {
               "type": "theologie",
-              "importance": "major",
               "title": "Perdre et sauver sa vie",
-              "content": "ψυχή peut désigner la vie ou l’âme. Le même mot traverse les versets 35 à 37 : la vie que l’on cherche à préserver, celle que l’on perd à cause du Christ et de l’Évangile, et celle qu’aucun gain matériel ne peut remplacer. Le paradoxe porte donc sur la totalité de l’existence offerte et reçue.",
+              "content": "ψυχή désigne ici la vie que l’on cherche à préserver ou que l’on accepte de donner à cause du Christ et de l’Évangile. Le paradoxe porte sur l’existence entière.",
+              "related": [
+                "τὴν",
+                "αὐτοῦ"
+              ],
+              "importance": "major",
+              "lexical": {
+                "strong": "G5590",
+                "literal_senses": [
+                  "souffle de vie",
+                  "vie",
+                  "âme ou personne vivante selon le contexte"
+                ],
+                "paradigm": "ψυχή, génitif ψυχῆς, datif ψυχῇ, accusatif ψυχήν.",
+                "etymology": "Mot de la famille de ψύχω, associé au souffle et à la vie. Voir Chantraine, s.v. ψυχή.",
+                "theological_horizon": "ψυχή ne désigne pas toujours une partie séparée de l’être humain. Selon le contexte, le mot peut nommer la vie entière, la personne ou l’âme. La traduction doit suivre le mouvement du passage."
+              },
+              "local": {
+                "reference": "Marc 8,35-37, dimanche après l’Exaltation de la Croix",
+                "expression": "ὃς ἐὰν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι",
+                "literal": "Celui qui voudra sauver sa vie.",
+                "translation": "Celui qui voudra sauver sa vie la perdra.",
+                "syntax": "ψυχήν est l’accusatif singulier, complément direct de σῶσαι ; αὐτοῦ signifie « sa ».",
+                "commentary": "Le même mot traverse les trois versets. Il faut donc entendre ensemble la vie que l’on cherche à conserver, celle que l’on donne à cause du Christ et celle qu’aucun gain du monde ne peut remplacer."
+              },
+              "occurrences": [
+                {
+                  "reference": "Marc 8,35",
+                  "greek": "ὃς δ’ ἂν ἀπολέσει τὴν ψυχὴν αὐτοῦ ... σώσει αὐτήν",
+                  "literal": "Celui qui perdra sa vie ... la sauvera.",
+                  "context": "Paradoxe central de l’appel à suivre Jésus.",
+                  "theology": "La vie est reçue lorsqu’elle cesse d’être possédée contre le Christ et l’Évangile.",
+                  "current": true,
+                  "pericope_key": "97_cross_after",
+                  "reading_type": "gospel",
+                  "target_form": "ψυχὴν"
+                },
+                {
+                  "reference": "Marc 8,36",
+                  "greek": "ζημιωθῆναι τὴν ψυχὴν αὐτοῦ",
+                  "literal": "Perdre sa vie.",
+                  "context": "Question sur le gain du monde entier.",
+                  "theology": "Aucun gain extérieur ne compense la perte de la vie véritable.",
+                  "pericope_key": "97_cross_after",
+                  "reading_type": "gospel",
+                  "target_form": "ψυχὴν"
+                },
+                {
+                  "reference": "Jean 10,11",
+                  "greek": "ὁ ποιμὴν ὁ καλὸς τὴν ψυχὴν αὐτοῦ τίθησιν",
+                  "literal": "Le bon pasteur dépose sa vie.",
+                  "context": "Discours du Bon Pasteur.",
+                  "theology": "Le Christ manifeste la vie comme don libre pour les brebis."
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G5590, ψυχή",
+                  "url": "https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. ψυχή, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CF%88%CF%85%CF%87%CE%AE"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. ψυχή",
+                  "url": ""
+                }
+              ],
               "grammar": {
                 "form": "ψυχήν",
                 "lemma": "ψυχή",
                 "category": "Nom féminin de la première déclinaison",
                 "parsing": "Accusatif féminin singulier",
                 "abbreviation": "ACC. FÉM. SG.",
-                "syntax": "Complément direct de σῶσαι, « sauver ». Le génitif αὐτοῦ signifie « sa vie »."
-              },
-              "related": [
-                "τὴν",
-                "αὐτοῦ"
-              ]
+                "syntax": "Complément direct de σῶσαι ou de ἀπολέσει selon l’occurrence."
+              }
             }
           },
           {
@@ -317,7 +500,83 @@
           },
           {
             "greek": "ψυχὴν",
-            "gloss": "vie/âme"
+            "gloss": "vie/âme",
+            "annotation": {
+              "importance": "major",
+              "lexical": {
+                "strong": "G5590",
+                "literal_senses": [
+                  "souffle de vie",
+                  "vie",
+                  "âme ou personne vivante selon le contexte"
+                ],
+                "paradigm": "ψυχή, génitif ψυχῆς, datif ψυχῇ, accusatif ψυχήν.",
+                "etymology": "Mot de la famille de ψύχω, associé au souffle et à la vie. Voir Chantraine, s.v. ψυχή.",
+                "theological_horizon": "ψυχή ne désigne pas toujours une partie séparée de l’être humain. Selon le contexte, le mot peut nommer la vie entière, la personne ou l’âme. La traduction doit suivre le mouvement du passage."
+              },
+              "local": {
+                "reference": "Marc 8,35-37, dimanche après l’Exaltation de la Croix",
+                "expression": "ὃς ἐὰν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι",
+                "literal": "Celui qui voudra sauver sa vie.",
+                "translation": "Celui qui voudra sauver sa vie la perdra.",
+                "syntax": "ψυχήν est l’accusatif singulier, complément direct de σῶσαι ; αὐτοῦ signifie « sa ».",
+                "commentary": "Le même mot traverse les trois versets. Il faut donc entendre ensemble la vie que l’on cherche à conserver, celle que l’on donne à cause du Christ et celle qu’aucun gain du monde ne peut remplacer."
+              },
+              "occurrences": [
+                {
+                  "reference": "Marc 8,35",
+                  "greek": "ὃς δ’ ἂν ἀπολέσει τὴν ψυχὴν αὐτοῦ ... σώσει αὐτήν",
+                  "literal": "Celui qui perdra sa vie ... la sauvera.",
+                  "context": "Paradoxe central de l’appel à suivre Jésus.",
+                  "theology": "La vie est reçue lorsqu’elle cesse d’être possédée contre le Christ et l’Évangile.",
+                  "current": true,
+                  "pericope_key": "97_cross_after",
+                  "reading_type": "gospel",
+                  "target_form": "ψυχὴν"
+                },
+                {
+                  "reference": "Marc 8,36",
+                  "greek": "ζημιωθῆναι τὴν ψυχὴν αὐτοῦ",
+                  "literal": "Perdre sa vie.",
+                  "context": "Question sur le gain du monde entier.",
+                  "theology": "Aucun gain extérieur ne compense la perte de la vie véritable.",
+                  "pericope_key": "97_cross_after",
+                  "reading_type": "gospel",
+                  "target_form": "ψυχὴν"
+                },
+                {
+                  "reference": "Jean 10,11",
+                  "greek": "ὁ ποιμὴν ὁ καλὸς τὴν ψυχὴν αὐτοῦ τίθησιν",
+                  "literal": "Le bon pasteur dépose sa vie.",
+                  "context": "Discours du Bon Pasteur.",
+                  "theology": "Le Christ manifeste la vie comme don libre pour les brebis."
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G5590, ψυχή",
+                  "url": "https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. ψυχή, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CF%88%CF%85%CF%87%CE%AE"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. ψυχή",
+                  "url": ""
+                }
+              ],
+              "title": "Perdre et sauver sa vie",
+              "content": "ψυχή désigne ici la vie que l’on cherche à préserver ou que l’on accepte de donner à cause du Christ et de l’Évangile. Le paradoxe porte sur l’existence entière.",
+              "grammar": {
+                "form": "ψυχήν",
+                "lemma": "ψυχή",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément direct de σῶσαι ou de ἀπολέσει selon l’occurrence."
+              }
+            }
           },
           {
             "greek": "αὐτοῦ",
@@ -389,12 +648,21 @@
             "gloss": "monde",
             "annotation": {
               "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Gagner le *kosmon* (le monde) est la tentation ultime du Monde duel : accumuler des objets, des territoires matériels ou des validations extérieures pour masquer le vide intérieur. C'est l'aliénation absolue où le sujet s'effondre en devenant esclave des objets qu'il possède.",
+              "title": "Gagner le monde entier",
+              "content": "κόσμος désigne ici le monde envisagé comme totalité de ce que l’homme pourrait gagner. Jésus oppose ce gain maximal à la perte de la vie : l’accumulation ne peut remplacer ce qui permet de vivre devant Dieu.",
               "related": [
                 "τὸν",
                 "ὅλον"
-              ]
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "κόσμον",
+                "lemma": "κόσμος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct de κερδῆσαι, « gagner ». L’adjectif ὅλον signifie « entier »."
+              }
             }
           },
           {
@@ -451,21 +719,20 @@
             "gloss": "en_échange",
             "annotation": {
               "type": "traduction",
-              "importance": "major",
               "title": "Que donner en échange ?",
-              "content": "ἀντάλλαγμα désigne ce qui est donné en échange. Après la question sur le gain du monde entier, Jésus fait apparaître l’impossibilité du calcul : aucun bien possédé ne peut être offert comme équivalent de la vie perdue.",
+              "content": "ἀντάλλαγμα désigne ce qui est donné en échange. La question souligne qu’aucun gain extérieur ne peut rendre à l’être humain la vie perdue.",
+              "related": [
+                "ἄνθρωπος",
+                "τῆς ψυχῆς"
+              ],
               "grammar": {
                 "form": "ἀντάλλαγμα",
                 "lemma": "ἀντάλλαγμα",
                 "category": "Nom neutre de la troisième déclinaison",
                 "parsing": "Accusatif neutre singulier",
                 "abbreviation": "ACC. NEUT. SG.",
-                "syntax": "Complément direct de δοῖ, « donnerait ». Le génitif τῆς ψυχῆς αὐτοῦ précise ce pour quoi l’échange serait proposé."
-              },
-              "related": [
-                "ἄνθρωπος",
-                "τῆς ψυχῆς"
-              ]
+                "syntax": "Complément direct de δώσει : « que donnera un homme en échange de sa vie ? »."
+              }
             }
           },
           {
@@ -545,13 +812,22 @@
             "greek": "μοιχανίδι",
             "gloss": "adultère",
             "annotation": {
-              "type": "analyse",
-              "title": "Approfondissement spirituel",
-              "content": "Approfondissement spirituel : Le mot *moichalis* (adultère) désigne prophétiquement la rupture d'alliance. l'attitude psychologique par excellence du Monde duel, c'est se détourner de l'Époux unique (le Sujet divin) pour s'accoupler à des idoles frelatées (les objets, les idéologies, le statut social). Avoir honte du Christ, c'est préférer le masque rassurant de la matrice sociétale à la nudité du vrai sujet.",
+              "type": "theologie",
+              "title": "Une génération infidèle à l’Alliance",
+              "content": "μοιχαλίς signifie littéralement adultère. Dans le langage prophétique repris par Jésus, l’image peut aussi désigner l’infidélité du peuple à l’Alliance. Cette portée théologique complète le sens littéral sans le remplacer.",
               "related": [
                 "τῇ",
                 "καὶ"
-              ]
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "μοιχανίδι",
+                "lemma": "μοιχαλίς",
+                "category": "Adjectif de la troisième déclinaison",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "S’accorde avec γενεᾷ dans le groupe ἐν τῇ γενεᾷ ταύτῃ τῇ μοιχαλίδι, « dans cette génération adultère »."
+              }
             }
           },
           {
@@ -760,20 +1036,80 @@
             "gloss": "puissance",
             "annotation": {
               "type": "analyse",
-              "importance": "major",
               "title": "Le Royaume venu avec puissance",
-              "content": "L’expression ἐν δυνάμει signifie « avec puissance » ou « en puissance ». Le participe parfait ἐληλυθυῖαν présente le Royaume comme venu avec un effet qui demeure. La tradition liturgique rapproche cette annonce de la Transfiguration racontée immédiatement après.",
+              "content": "δύναμις désigne la puissance à l’œuvre. Le parfait ἐληλυθυῖαν présente le Royaume comme venu avec un effet qui demeure.",
+              "related": [
+                "ἐν"
+              ],
+              "importance": "major",
+              "lexical": {
+                "strong": "G1411",
+                "literal_senses": [
+                  "puissance, capacité",
+                  "force à l’œuvre",
+                  "acte puissant ou miracle selon le contexte"
+                ],
+                "paradigm": "δύναμις, génitif δυνάμεως, datif δυνάμει, accusatif δύναμιν.",
+                "etymology": "Nom de la famille de δύναμαι, « pouvoir, être capable ». Voir Chantraine, s.v. δύναμαι.",
+                "theological_horizon": "La puissance de Dieu n’est pas domination arbitraire. Dans l’Évangile, elle se manifeste dans l’action salvifique du Royaume, accomplie pleinement dans le Christ."
+              },
+              "local": {
+                "reference": "Marc 9,1, dimanche après l’Exaltation de la Croix",
+                "expression": "τὴν βασιλείαν τοῦ θεοῦ ἐληλυθυῖαν ἐν δυνάμει",
+                "literal": "Le Royaume de Dieu venu avec puissance.",
+                "translation": "Le Royaume de Dieu venu avec puissance.",
+                "syntax": "δυνάμει est le datif singulier après ἐν. Le participe parfait ἐληλυθυῖαν qualifie βασιλείαν.",
+                "commentary": "Le Royaume n’est pas seulement annoncé comme futur : le parfait le présente comme venu avec un effet qui demeure. La tradition liturgique rapproche cette parole de la Transfiguration qui suit immédiatement."
+              },
+              "occurrences": [
+                {
+                  "reference": "Marc 9,1",
+                  "greek": "τὴν βασιλείαν τοῦ θεοῦ ἐληλυθυῖαν ἐν δυνάμει",
+                  "literal": "Le Royaume de Dieu venu avec puissance.",
+                  "context": "Promesse placée juste avant la Transfiguration.",
+                  "theology": "La puissance du Royaume devient visible dans la gloire du Christ.",
+                  "current": true,
+                  "pericope_key": "97_cross_after",
+                  "reading_type": "gospel",
+                  "target_form": "δυνάμει."
+                },
+                {
+                  "reference": "1 Corinthiens 4,20",
+                  "greek": "οὐ γὰρ ἐν λόγῳ ἡ βασιλεία τοῦ θεοῦ ἀλλ’ ἐν δυνάμει",
+                  "literal": "Le Royaume de Dieu ne consiste pas en parole, mais en puissance.",
+                  "context": "Paul oppose la prétention verbale à l’action véritable de Dieu.",
+                  "theology": "La puissance du Royaume se reconnaît à ses effets et non au prestige du discours."
+                },
+                {
+                  "reference": "Actes 1,8",
+                  "greek": "λήμψεσθε δύναμιν ἐπελθόντος τοῦ ἁγίου πνεύματος",
+                  "literal": "Vous recevrez une puissance, le Saint-Esprit venant sur vous.",
+                  "context": "Promesse avant l’Ascension.",
+                  "theology": "La puissance reçue de l’Esprit ordonne les disciples au témoignage."
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G1411, δύναμις",
+                  "url": "https://www.blueletterbible.org/lexicon/g1411/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. δύναμις, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CE%B4%CF%8D%CE%BD%CE%B1%CE%BC%CE%B9%CF%82"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. δύναμαι",
+                  "url": ""
+                }
+              ],
               "grammar": {
                 "form": "δυνάμει",
                 "lemma": "δύναμις",
                 "category": "Nom féminin de la troisième déclinaison",
                 "parsing": "Datif féminin singulier",
                 "abbreviation": "DAT. FÉM. SG.",
-                "syntax": "Complément de la préposition ἐν. L’expression ἐν δυνάμει qualifie la venue du Royaume de Dieu."
-              },
-              "related": [
-                "ἐν"
-              ]
+                "syntax": "Complément de ἐν : « avec puissance »."
+              }
             }
           }
         ]
@@ -963,21 +1299,20 @@
             "gloss": "foi/fidélité",
             "annotation": {
               "type": "traduction",
-              "importance": "major",
-              "title": "La foi ou la fidélité du Christ",
-              "content": "Le génitif πίστεως Χριστοῦ peut être traduit « foi en Christ » ou « fidélité du Christ ». Sans trancher artificiellement, le passage décentre la justification des œuvres de la loi vers la relation au Christ.",
+              "title": "Par la foi du Christ",
+              "content": "πίστις signifie foi, confiance ou fidélité. L’expression grecque peut faire entendre la foi placée dans le Christ et, selon l’analyse du génitif, la fidélité du Christ lui-même.",
+              "related": [
+                "Ἰησοῦ",
+                "Χριστοῦ,"
+              ],
               "grammar": {
                 "form": "πίστεως",
                 "lemma": "πίστις",
                 "category": "Nom féminin de la troisième déclinaison",
                 "parsing": "Génitif féminin singulier",
                 "abbreviation": "GÉN. FÉM. SG.",
-                "syntax": "Complément de διά, qui se construit ici avec le génitif. Le génitif Ἰησοῦ Χριστοῦ dépend à son tour de πίστεως."
-              },
-              "related": [
-                "Ἰησοῦ",
-                "Χριστοῦ,"
-              ]
+                "syntax": "Complément dans l’expression διὰ πίστεως Χριστοῦ ; la relation du génitif Χριστοῦ doit être interprétée avec attention."
+              }
             }
           },
           {
@@ -1026,7 +1361,19 @@
           },
           {
             "greek": "πίστεως",
-            "gloss": "foi/fidélité"
+            "gloss": "foi/fidélité",
+            "annotation": {
+              "title": "Par la foi du Christ",
+              "content": "πίστις signifie foi, confiance ou fidélité. L’expression grecque peut faire entendre la foi placée dans le Christ et, selon l’analyse du génitif, la fidélité du Christ lui-même.",
+              "grammar": {
+                "form": "πίστεως",
+                "lemma": "πίστις",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Génitif féminin singulier",
+                "abbreviation": "GÉN. FÉM. SG.",
+                "syntax": "Complément dans l’expression διὰ πίστεως Χριστοῦ ; la relation du génitif Χριστοῦ doit être interprétée avec attention."
+              }
+            }
           },
           {
             "greek": "Χριστοῦ",
@@ -1269,22 +1616,21 @@
             "gloss": "j’ai_été_crucifié",
             "annotation": {
               "type": "theologie",
-              "importance": "major",
               "title": "J’ai été crucifié avec le Christ",
               "content": "Le parfait de συσταυρόω indique une union à la Croix accomplie dont l’effet demeure. Paul ne glorifie pas la souffrance en elle-même : il annonce une vie nouvelle où le Christ vit en lui.",
-              "grammar": {
-                "form": "συνεσταύρωμαι",
-                "lemma": "συσταυρόω",
-                "category": "Verbe",
-                "parsing": "Parfait moyen-passif, indicatif, première personne du singulier",
-                "abbreviation": "PARF. MOY.-PASS. IND. 1 SG.",
-                "syntax": "Le datif Χριστῷ exprime l’association : « avec le Christ ». Le parfait indique un événement accompli dont l’effet demeure dans le présent de Paul."
-              },
               "related": [
                 "Χριστῷ",
                 "ζῶ",
                 "Χριστός·"
-              ]
+              ],
+              "grammar": {
+                "form": "συνεσταύρωμαι",
+                "lemma": "συσταυρόω",
+                "category": "Verbe contracte",
+                "parsing": "Parfait passif, indicatif, première personne du singulier",
+                "abbreviation": "PARF. PASS. IND. 1 SG.",
+                "syntax": "Verbe principal avec Χριστῷ au datif : « j’ai été crucifié avec le Christ »."
+              }
             }
           },
           {
@@ -1320,12 +1666,21 @@
             "gloss": "moi",
             "annotation": {
               "type": "repetition",
-              "title": "En moi",
+              "title": "Le Christ vit en moi",
               "content": "La répétition de ἐν situe la vie chrétienne dans une communion : le Christ vit « en moi », et la vie présente dans la chair est vécue « dans la foi ».",
               "related": [
                 "Χριστός·",
                 "πίστει"
-              ]
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ἐμοί",
+                "lemma": "ἐγώ",
+                "category": "Pronom personnel",
+                "parsing": "Datif de la première personne du singulier",
+                "abbreviation": "DAT. 1 SG.",
+                "syntax": "Complément de la préposition ἐν : ἐν ἐμοί, « en moi »."
+              }
             }
           },
           {
@@ -1402,7 +1757,16 @@
               "related": [
                 "παραδόντος",
                 "ἐμοῦ."
-              ]
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ἀγαπήσαντος",
+                "lemma": "ἀγαπάω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste actif, participe, génitif masculin singulier",
+                "abbreviation": "AOR. ACT. PART. GÉN. MASC. SG.",
+                "syntax": "Participe articularisé accordé avec τοῦ υἱοῦ τοῦ θεοῦ, « le Fils de Dieu ». Le pronom με en est le complément direct."
+              }
             }
           },
           {
@@ -1426,13 +1790,22 @@
             "gloss": "pour",
             "annotation": {
               "type": "theologie",
-              "title": "Pour moi : le don qui précède",
-              "content": "Ὑπὲρ ἐμοῦ signifie ici « pour moi », « en ma faveur ». Avant que le disciple prenne sa croix, le Fils s’est livré librement pour lui : la réponse chrétienne naît d’un amour déjà donné.",
+              "title": "Il s’est livré pour moi",
+              "content": "ὑπὲρ ἐμοῦ signifie ici « pour moi », « en ma faveur ». Avant que le disciple prenne sa croix, le Fils s’est livré librement pour lui : la réponse chrétienne naît d’un amour déjà donné.",
               "related": [
                 "παραδόντος",
                 "ἑαυτὸν",
                 "ἐμοῦ."
-              ]
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ὑπέρ",
+                "lemma": "ὑπέρ",
+                "category": "Préposition",
+                "parsing": "Construite ici avec le génitif",
+                "abbreviation": "PRÉP. + GÉN.",
+                "syntax": "Introduit ἐμοῦ : ὑπὲρ ἐμοῦ, « pour moi », en dépendance de παραδόντος ἑαυτόν."
+              }
             }
           },
           {

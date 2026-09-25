@@ -3918,6 +3918,27 @@ document.addEventListener('DOMContentLoaded', () => {
         container.appendChild(list);
     };
 
+    const openOccurrenceInPericope = async occurrence => {
+        const sundayKey = occurrence?.pericope_key;
+        if (!sundayKey || !isSundayAvailable(sundayKey)) return;
+        const readingType = occurrence.reading_type || 'gospel';
+        if (analysisDialog?.open) analysisDialog.close();
+        setSelectionMode('pericope');
+        const sundaySelect = document.getElementById('sunday-select');
+        if (sundaySelect) sundaySelect.value = sundayKey;
+        await loadTextContext(sundayKey, readingType);
+
+        const expected = normalizeGreekToken(occurrence.target_form || occurrence.greek || '');
+        const target = [...document.querySelectorAll('#gospel-text .greek-word')]
+            .find(word => normalizeGreekToken(word.textContent) === expected);
+        const destination = target || document.getElementById('gospel-text');
+        destination?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        if (target) {
+            target.classList.add('occurrence-navigation-target');
+            window.setTimeout(() => target.classList.remove('occurrence-navigation-target'), 2800);
+        }
+    };
+
     const buildStructuredWordSheet = annotation => {
         const sheet = document.createElement('article');
         sheet.className = 'word-sheet';
@@ -4031,7 +4052,7 @@ document.addEventListener('DOMContentLoaded', () => {
             heading.textContent = 'Occurrences repères et portée théologique';
             const introduction = document.createElement('p');
             introduction.className = 'word-sheet-occurrences-intro';
-            introduction.textContent = 'Ouvrez une occurrence pour distinguer la forme grecque, son contexte et sa portée théologique.';
+            introduction.textContent = 'Ouvrez une occurrence pour distinguer la forme grecque, son contexte et sa portée théologique. Lorsqu’elle appartient à la démonstration, un bouton permet d’accéder directement à la péricope.';
             const list = document.createElement('div');
             list.className = 'word-sheet-occurrence-list';
             annotation.occurrences.forEach(occurrence => {
@@ -4060,6 +4081,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 addDefinitionField(fields, 'Contexte', occurrence.context);
                 addDefinitionField(fields, 'Portée théologique', occurrence.theology);
                 body.appendChild(fields);
+                if (occurrence.pericope_key && isSundayAvailable(occurrence.pericope_key)) {
+                    const action = document.createElement('button');
+                    action.type = 'button';
+                    action.className = 'word-sheet-occurrence-open';
+                    action.textContent = occurrence.current ? 'Revenir à ce mot dans la péricope' : 'Ouvrir cette péricope';
+                    action.addEventListener('click', event => {
+                        event.preventDefault();
+                        event.stopPropagation();
+                        openOccurrenceInPericope(occurrence);
+                    });
+                    body.appendChild(action);
+                }
                 item.append(summary, body);
                 list.appendChild(item);
             });
