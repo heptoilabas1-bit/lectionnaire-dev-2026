@@ -1,0 +1,3187 @@
+{
+  "gospel": {
+    "reference": "Luc 10, 25-37",
+    "title": "La parabole du bon Samaritain",
+    "interlinear": [
+      {
+        "verse_number": 25,
+        "translations": {
+          "segond": "Un docteur de la loi se leva, et dit à Jésus, pour l'éprouver : Maître, que dois-je faire pour hériter la vie éternelle ?",
+          "darby": "Et voici, un docteur de la loi se leva, l'éprouvant et disant : Maître, que faut-il que j'aie fait pour hériter de la vie éternelle ?"
+        },
+        "interlinear": [
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἰδοὺ",
+            "gloss": "voici"
+          },
+          {
+            "greek": "νομικός",
+            "gloss": "un_homme_de_loi"
+          },
+          {
+            "greek": "τις",
+            "gloss": "un_certain"
+          },
+          {
+            "greek": "ἀνέστη",
+            "gloss": "se_leva",
+            "annotation": {
+              "type": "analyse",
+              "title": "Il se leva pour interroger Jésus",
+              "content": "Le légiste se lève et prend la parole. Le récit précise aussitôt que sa question vise à mettre Jésus à l’épreuve : le geste extérieur ne suffit donc pas à qualifier son intention.",
+              "related": [
+                "τις",
+                "ἐκπειράζων"
+              ],
+              "grammar": {
+                "form": "ἀνέστη",
+                "lemma": "ἀνίστημι",
+                "category": "Verbe",
+                "parsing": "Deuxième aoriste actif, indicatif, troisième personne du singulier",
+                "abbreviation": "AOR. 2 ACT. IND. 3 SG.",
+                "syntax": "Verbe principal dont νομικός, « un légiste », est le sujet."
+              }
+            }
+          },
+          {
+            "greek": "ἐκπειράζων",
+            "gloss": "mettant_à_l'épreuve",
+            "annotation": {
+              "type": "analyse",
+              "title": "Mettant Jésus à l’épreuve",
+              "content": "ἐκπειράζω signifie éprouver ou tenter. Le participe dévoile l’intention qui accompagne la question du légiste : il ne vient pas encore comme un disciple qui demande à être enseigné.",
+              "related": [
+                "ἀνέστη",
+                "αὐτὸν"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ἐκπειράζων",
+                "lemma": "ἐκπειράζω",
+                "category": "Verbe",
+                "parsing": "Présent actif, participe, nominatif masculin singulier",
+                "abbreviation": "PRÉS. ACT. PART. NOM. MASC. SG.",
+                "syntax": "Participe circonstanciel accordé avec νομικός. Son complément direct est αὐτόν, « lui », c’est-à-dire Jésus."
+              }
+            }
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "λέγων·",
+            "gloss": "disant"
+          },
+          {
+            "greek": "Διδάσκαλε,",
+            "gloss": "Maître"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quoi/que"
+          },
+          {
+            "greek": "ποιήσας",
+            "gloss": "ayant_fait"
+          },
+          {
+            "greek": "ζωὴν",
+            "gloss": "vie"
+          },
+          {
+            "greek": "αἰώνιον",
+            "gloss": "éternelle"
+          },
+          {
+            "greek": "κληρονομήσω;",
+            "gloss": "hériterai-je",
+            "annotation": {
+              "type": "traduction",
+              "title": "Que ferai-je pour recevoir en héritage ?",
+              "content": "κληρονομέω signifie recevoir en héritage. La vie éternelle n’est donc pas présentée comme un objet fabriqué par l’homme, même si la question du légiste la relie à ce qu’il doit faire.",
+              "related": [
+                "αἰώνιον"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "κληρονομήσω",
+                "lemma": "κληρονομέω",
+                "category": "Verbe contracte",
+                "parsing": "Futur actif, indicatif, première personne du singulier",
+                "abbreviation": "FUT. ACT. IND. 1 SG.",
+                "syntax": "Verbe de la question. ζωὴν αἰώνιον, « la vie éternelle », en est le complément direct."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 26,
+        "translations": {
+          "segond": "Jésus lui dit : Qu'est-il écrit dans la loi ? Qu'y lis-tu ?",
+          "darby": "Et il lui dit : Qu'est-il écrit dans la loi ? comment lis-tu ?"
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "αὐτόν·",
+            "gloss": "lui"
+          },
+          {
+            "greek": "Ἐν",
+            "gloss": "Dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "la"
+          },
+          {
+            "greek": "νόμῳ",
+            "gloss": "loi"
+          },
+          {
+            "greek": "τί",
+            "gloss": "quoi"
+          },
+          {
+            "greek": "γέγραπται;",
+            "gloss": "est_écrit"
+          },
+          {
+            "greek": "πῶς",
+            "gloss": "comment"
+          },
+          {
+            "greek": "ἀναγινώσκεις;",
+            "gloss": "lis-tu",
+            "annotation": {
+              "type": "analyse",
+              "title": "Comment lis-tu ?",
+              "content": "Jésus ne demande pas seulement ce qui est écrit, mais comment le légiste le lit. La réponse fera tenir ensemble l’amour de Dieu et l’amour du prochain.",
+              "related": [
+                "πῶς"
+              ],
+              "grammar": {
+                "form": "ἀναγινώσκεις",
+                "lemma": "ἀναγινώσκω",
+                "category": "Verbe",
+                "parsing": "Présent actif, indicatif, deuxième personne du singulier",
+                "abbreviation": "PRÉS. ACT. IND. 2 SG.",
+                "syntax": "Verbe interrogatif dont le sujet est le légiste. Le présent porte sur sa manière habituelle de lire la Loi."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 27,
+        "translations": {
+          "segond": "Il répondit : Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, de toute ta force, et de toute ta pensée ; et ton prochain comme toi-même.",
+          "darby": "Et lui, répondant, dit : Tu aimeras le Seigneur ton Dieu de tout ton coeur, et de toute ton âme, et de toute ta force, et de toute ta pensée ; et ton prochain comme toi-même."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Celui-ci"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀποκριθεὶς",
+            "gloss": "ayant_répondu"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἀγαπήσεις",
+            "gloss": "Tu_aimeras"
+          },
+          {
+            "greek": "Κύριον",
+            "gloss": "Le_Seigneur",
+            "annotation": {
+              "type": "theologie",
+              "title": "Tu aimeras le Seigneur ton Dieu",
+              "content": "Le commandement commence par l’amour du Seigneur. L’amour du prochain qui suit ne lui est pas opposé : la parabole montrera comment l’amour reçu de Dieu prend corps dans la miséricorde.",
+              "related": [
+                "Ἀγαπήσεις",
+                "τὸν"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "Κύριον",
+                "lemma": "κύριος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct de ἀγαπήσεις, « tu aimeras ». L’article τόν l’accompagne."
+              }
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "θεόν",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ἐξ",
+            "gloss": "hors_de/depuis",
+            "annotation": {
+              "type": "repetition",
+              "title": "De tout ton être",
+              "content": "La préposition ἐκ est répétée devant le cœur, l’âme, la force et l’intelligence. Cette reprise insiste sur un amour sans réserve, engageant la personne entière.",
+              "related": [
+                "σου",
+                "ὅλης"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ἐξ",
+                "lemma": "ἐκ, ἐξ",
+                "category": "Préposition",
+                "parsing": "Construite avec le génitif",
+                "abbreviation": "PRÉP. + GÉN.",
+                "syntax": "La forme ἐξ est employée devant une voyelle. Elle introduit ici quatre compléments exprimant la totalité de l’engagement."
+              }
+            }
+          },
+          {
+            "greek": "ὅλης",
+            "gloss": "de_toute/entière",
+            "annotation": {
+              "type": "repetition",
+              "title": "De tout ton cœur",
+              "content": "ὅλος signifie entier ou tout entier. La première occurrence ouvre une quadruple reprise qui rassemble le cœur, l’âme, la force et l’intelligence.",
+              "related": [
+                "ἐξ",
+                "τῆς"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ὅλης",
+                "lemma": "ὅλος",
+                "category": "Adjectif",
+                "parsing": "Génitif féminin singulier",
+                "abbreviation": "GÉN. FÉM. SG.",
+                "syntax": "S’accorde avec καρδίας après ἐξ : « de tout ton cœur »."
+              }
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "le"
+          },
+          {
+            "greek": "καρδίας",
+            "gloss": "cœur"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/avec"
+          },
+          {
+            "greek": "ὅλῃ",
+            "gloss": "de_toute/entière",
+            "annotation": {
+              "type": "repetition",
+              "title": "Tout entière",
+              "content": "La répétition de ὅλος refuse un amour fragmentaire. Chaque terme de l’énumération est pris dans sa totalité et orienté vers l’unique commandement.",
+              "related": [
+                "ἐν",
+                "τῇ"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ὅλῃ",
+                "lemma": "ὅλος",
+                "category": "Adjectif",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "S’accorde successivement avec ψυχῇ, ἰσχύϊ et διανοίᾳ dans les groupes introduits par ἐν."
+              }
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ψυχῇ",
+            "gloss": "âme"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/avec"
+          },
+          {
+            "greek": "ὅλῃ",
+            "gloss": "de_toute/entière",
+            "annotation": {
+              "type": "repetition",
+              "title": "Tout entière",
+              "content": "La répétition de ὅλος refuse un amour fragmentaire. Chaque terme de l’énumération est pris dans sa totalité et orienté vers l’unique commandement.",
+              "related": [
+                "ἐν",
+                "τῇ"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ὅλῃ",
+                "lemma": "ὅλος",
+                "category": "Adjectif",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "S’accorde successivement avec ψυχῇ, ἰσχύϊ et διανοίᾳ dans les groupes introduits par ἐν."
+              }
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἰσχύϊ",
+            "gloss": "force"
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/avec"
+          },
+          {
+            "greek": "ὅλῃ",
+            "gloss": "de_toute/entière",
+            "annotation": {
+              "type": "repetition",
+              "title": "Tout entière",
+              "content": "La répétition de ὅλος refuse un amour fragmentaire. Chaque terme de l’énumération est pris dans sa totalité et orienté vers l’unique commandement.",
+              "related": [
+                "ἐν",
+                "τῇ"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ὅλῃ",
+                "lemma": "ὅλος",
+                "category": "Adjectif",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "S’accorde successivement avec ψυχῇ, ἰσχύϊ et διανοίᾳ dans les groupes introduits par ἐν."
+              }
+            }
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "la"
+          },
+          {
+            "greek": "διανοίᾳ",
+            "gloss": "pensée"
+          },
+          {
+            "greek": "σου,",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "πλησίον",
+            "gloss": "prochain/celui_qui_est_près",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ton prochain",
+              "content": "πλησίον signifie ce qui est proche et, avec l’article, « le prochain ». Le commandement associe l’amour du prochain à l’amour de Dieu.",
+              "related": [
+                "τὸν",
+                "σου"
+              ],
+              "importance": "major",
+              "lexical": {
+                "strong": "G4139",
+                "literal_senses": [
+                  "près, proche",
+                  "celui qui est proche, le prochain",
+                  "voisin selon le contexte"
+                ],
+                "paradigm": "Adverbe indéclinable, fréquemment employé comme substantif avec l’article.",
+                "etymology": "Forme liée à la famille de πέλας, « près ». Voir Chantraine, s.v. πέλας, et les notices lexicales de πλησίον.",
+                "theological_horizon": "Le prochain n’est pas seulement une catégorie déjà délimitée. Dans Luc 10, Jésus déplace la question vers l’acte par lequel une personne devient proche de l’homme blessé."
+              },
+              "local": {
+                "reference": "Luc 10,27, 25e dimanche après Pentecôte",
+                "expression": "τὸν πλησίον σου ὡς σεαυτόν",
+                "literal": "Ton proche comme toi-même.",
+                "translation": "Tu aimeras ton prochain comme toi-même.",
+                "syntax": "πλησίον est un adverbe substantivé par l’article τόν ; σου signifie « ton ».",
+                "commentary": "Le commandement associe sans les confondre l’amour de Dieu et l’amour du prochain. La parabole montrera comment cette proximité devient une action de miséricorde."
+              },
+              "occurrences": [
+                {
+                  "reference": "Luc 10,27",
+                  "greek": "τὸν πλησίον σου ὡς σεαυτόν",
+                  "literal": "Ton prochain comme toi-même.",
+                  "context": "Le légiste cite le double commandement d’amour.",
+                  "theology": "L’amour de Dieu engage la relation concrète à celui qui est proche.",
+                  "current": true,
+                  "pericope_key": "325_after_pentecost_25",
+                  "reading_type": "gospel",
+                  "target_form": "πλησίον"
+                },
+                {
+                  "reference": "Luc 10,29",
+                  "greek": "καὶ τίς ἐστίν μου πλησίον;",
+                  "literal": "Et qui est proche de moi ?",
+                  "context": "Le légiste cherche à définir son prochain.",
+                  "theology": "La parabole déplacera la recherche d’une limite vers l’action de se faire proche.",
+                  "pericope_key": "325_after_pentecost_25",
+                  "reading_type": "gospel",
+                  "target_form": "πλησίον;"
+                },
+                {
+                  "reference": "Luc 10,36",
+                  "greek": "τίς ... πλησίον δοκεῖ σοι γεγονέναι",
+                  "literal": "Lequel te semble être devenu le prochain ?",
+                  "context": "Jésus reformule la question après la parabole.",
+                  "theology": "Le prochain n’est plus seulement identifié : il le devient par la miséricorde."
+                },
+                {
+                  "reference": "Romains 13,10",
+                  "greek": "ἡ ἀγάπη τῷ πλησίον κακὸν οὐκ ἐργάζεται",
+                  "literal": "L’amour ne fait pas de mal au prochain.",
+                  "context": "Paul présente l’amour comme accomplissement de la Loi.",
+                  "theology": "La proximité se vérifie dans le refus du mal et l’accomplissement de l’amour."
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G4139, πλησίον",
+                  "url": "https://www.blueletterbible.org/lexicon/g4139/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. πλησίον, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CF%80%CE%BB%CE%B7%CF%83%CE%AF%CE%BF%CE%BD"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. πέλας",
+                  "url": ""
+                }
+              ],
+              "grammar": {
+                "form": "πλησίον",
+                "lemma": "πλησίον",
+                "category": "Adverbe substantivé",
+                "parsing": "Forme indéclinable",
+                "abbreviation": "ADV. SUBSTANTIVÉ",
+                "syntax": "Employé avec l’article τόν comme complément direct de ἀγαπήσεις."
+              }
+            }
+          },
+          {
+            "greek": "σου",
+            "gloss": "de_toi"
+          },
+          {
+            "greek": "ὡς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "σεαυτόν.",
+            "gloss": "toi-même"
+          }
+        ]
+      },
+      {
+        "verse_number": 28,
+        "translations": {
+          "segond": "Tu as bien répondu, lui dit Jésus ; fais cela, et tu vivras.",
+          "darby": "Et il lui dit : Tu as bien répondu ; fais cela, et tu vivras."
+        },
+        "interlinear": [
+          {
+            "greek": "εἶπεν",
+            "gloss": "Il_dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ὀρθῶς",
+            "gloss": "Droitement/exactement",
+            "annotation": {
+              "type": "traduction",
+              "title": "Tu as répondu correctement",
+              "content": "ὀρθῶς signifie correctement, justement. Jésus reconnaît la justesse de la réponse avant de conduire le légiste de la connaissance du commandement à sa mise en pratique.",
+              "related": [
+                "αὐτῷ·",
+                "ἀπεκρίθης·"
+              ],
+              "grammar": {
+                "form": "ὀρθῶς",
+                "lemma": "ὀρθῶς",
+                "category": "Adverbe",
+                "parsing": "Forme indéclinable",
+                "abbreviation": "ADV. INDECL.",
+                "syntax": "Modifie le verbe ἀπεκρίθης, « tu as répondu correctement »."
+              }
+            }
+          },
+          {
+            "greek": "ἀπεκρίθης·",
+            "gloss": "tu_as_répondu"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "ποίει",
+            "gloss": "fais",
+            "annotation": {
+              "type": "analyse",
+              "title": "Fais cela",
+              "content": "L’impératif présent appelle une pratique qui dure. La réponse exacte ne devient vivante qu’en prenant la forme concrète de l’amour et de la miséricorde.",
+              "related": [
+                "τοῦτο",
+                "καὶ"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ποίει",
+                "lemma": "ποιέω",
+                "category": "Verbe contracte",
+                "parsing": "Présent actif, impératif, deuxième personne du singulier",
+                "abbreviation": "PRÉS. ACT. IMP. 2 SG.",
+                "syntax": "Impératif adressé au légiste. Le pronom τοῦτο, « cela », reprend le double commandement."
+              }
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ζήσῃ.",
+            "gloss": "tu_vivras"
+          }
+        ]
+      },
+      {
+        "verse_number": 29,
+        "translations": {
+          "segond": "Mais lui, voulant se justifier, dit à Jésus : Et qui est mon prochain ?",
+          "darby": "Mais lui, voulant se justifier lui-même, dit à Jésus : Et qui est mon prochain ?"
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "θέλων",
+            "gloss": "voulant"
+          },
+          {
+            "greek": "δικαιῶσαι",
+            "gloss": "justifier",
+            "annotation": {
+              "type": "analyse",
+              "title": "Voulant se justifier",
+              "content": "Le légiste cherche à se déclarer juste en précisant les limites du commandement. Jésus répond en déplaçant la question de l’identité du prochain vers l’acte de se faire proche.",
+              "related": [
+                "θέλων",
+                "ἑαυτὸν"
+              ],
+              "grammar": {
+                "form": "δικαιῶσαι",
+                "lemma": "δικαιόω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste actif, infinitif",
+                "abbreviation": "AOR. ACT. INF.",
+                "syntax": "Infinitif complément de θέλων ; ἑαυτόν en est le complément direct."
+              }
+            }
+          },
+          {
+            "greek": "ἑαυτὸν",
+            "gloss": "lui-même"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦν·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "τίς",
+            "gloss": "qui"
+          },
+          {
+            "greek": "ἐστίν",
+            "gloss": "est"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "πλησίον;",
+            "gloss": "prochain/proche",
+            "annotation": {
+              "type": "analyse",
+              "title": "Qui est mon prochain ?",
+              "content": "La question cherche à définir le prochain. La parabole conduira à demander qui est devenu prochain de l’homme blessé.",
+              "related": [
+                "μου"
+              ],
+              "importance": "major",
+              "lexical": {
+                "strong": "G4139",
+                "literal_senses": [
+                  "près, proche",
+                  "celui qui est proche, le prochain",
+                  "voisin selon le contexte"
+                ],
+                "paradigm": "Adverbe indéclinable, fréquemment employé comme substantif avec l’article.",
+                "etymology": "Forme liée à la famille de πέλας, « près ». Voir Chantraine, s.v. πέλας, et les notices lexicales de πλησίον.",
+                "theological_horizon": "Dans la parabole, Jésus ne fournit pas une liste de personnes qui seraient ou non des prochains. Il montre comment la miséricorde transforme la proximité en relation vécue."
+              },
+              "local": {
+                "reference": "Luc 10,29, 25e dimanche après Pentecôte",
+                "expression": "καὶ τίς ἐστίν μου πλησίον;",
+                "literal": "Et qui est proche de moi ?",
+                "translation": "Et qui est mon prochain ?",
+                "syntax": "πλησίον est employé comme attribut dans une question ; μου signifie littéralement « de moi ».",
+                "commentary": "Le légiste cherche à définir le cercle de son obligation. Jésus répond en demandant qui est devenu prochain de l’homme blessé."
+              },
+              "occurrences": [
+                {
+                  "reference": "Luc 10,27",
+                  "greek": "τὸν πλησίον σου ὡς σεαυτόν",
+                  "literal": "Ton prochain comme toi-même.",
+                  "context": "Citation du commandement.",
+                  "theology": "Le prochain est placé au cœur de l’obéissance à Dieu.",
+                  "pericope_key": "325_after_pentecost_25",
+                  "reading_type": "gospel",
+                  "target_form": "πλησίον"
+                },
+                {
+                  "reference": "Luc 10,29",
+                  "greek": "καὶ τίς ἐστίν μου πλησίον;",
+                  "literal": "Et qui est proche de moi ?",
+                  "context": "Question du légiste.",
+                  "theology": "La recherche d’une définition prépare le renversement opéré par la parabole.",
+                  "current": true,
+                  "pericope_key": "325_after_pentecost_25",
+                  "reading_type": "gospel",
+                  "target_form": "πλησίον;"
+                },
+                {
+                  "reference": "Luc 10,36",
+                  "greek": "τίς ... πλησίον δοκεῖ σοι γεγονέναι",
+                  "literal": "Lequel te semble être devenu le prochain ?",
+                  "context": "Question finale de Jésus.",
+                  "theology": "La proximité devient une relation accomplie."
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G4139, πλησίον",
+                  "url": "https://www.blueletterbible.org/lexicon/g4139/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. πλησίον, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CF%80%CE%BB%CE%B7%CF%83%CE%AF%CE%BF%CE%BD"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. πέλας",
+                  "url": ""
+                }
+              ],
+              "grammar": {
+                "form": "πλησίον",
+                "lemma": "πλησίον",
+                "category": "Adverbe substantivé",
+                "parsing": "Forme indéclinable",
+                "abbreviation": "ADV. SUBSTANTIVÉ",
+                "syntax": "Attribut dans la question τίς ἐστίν μου πλησίον ; μου signifie « de moi »."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 30,
+        "translations": {
+          "segond": "Jésus reprit la parole, et dit : Un homme descendait de Jérusalem à Jéricho. Il tomba au milieu des brigands, qui le dépouillèrent, le chargèrent de coups, et s'en allèrent, le laissant à demi mort.",
+          "darby": "Et Jésus, reprenant, dit : Un homme descendit de Jérusalem à Jéricho, et tomba entre les mains des voleurs, qui aussi, l'ayant dépouillé et l'ayant couvert de blessures, s'en allèrent, le laissant à demi mort."
+        },
+        "interlinear": [
+          {
+            "greek": "ὑπολαβὼν",
+            "gloss": "Ayant_pris_la_parole"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἄνθρωπός",
+            "gloss": "Un_homme"
+          },
+          {
+            "greek": "τις",
+            "gloss": "certain"
+          },
+          {
+            "greek": "κατέβαινεν",
+            "gloss": "descendait",
+            "annotation": {
+              "type": "analyse",
+              "title": "Un homme descendait de Jérusalem",
+              "content": "Le verbe décrit d’abord un déplacement réel de Jérusalem vers Jéricho. Dans la lecture spirituelle traditionnelle, cette descente peut aussi évoquer l’humanité blessée, sans annuler le sens narratif concret.",
+              "related": [
+                "τις",
+                "ἀπὸ"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "κατέβαινεν",
+                "lemma": "καταβαίνω",
+                "category": "Verbe",
+                "parsing": "Imparfait actif, indicatif, troisième personne du singulier",
+                "abbreviation": "IMPF. ACT. IND. 3 SG.",
+                "syntax": "Verbe principal dont ἄνθρωπός τις, « un homme », est le sujet. L’imparfait installe l’action en cours."
+              }
+            }
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "depuis/de"
+          },
+          {
+            "greek": "Ἰερουσαλὴμ",
+            "gloss": "Jérusalem"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers"
+          },
+          {
+            "greek": "Ἰεριχὼ",
+            "gloss": "Jéricho"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "λῃσταῖς",
+            "gloss": "à_des_brigands"
+          },
+          {
+            "greek": "περιέπεσεν,",
+            "gloss": "tomba_au_milieu",
+            "annotation": {
+              "type": "racine",
+              "title": "Il tomba au milieu des brigands",
+              "content": "περιπίπτω signifie tomber au milieu de, rencontrer une épreuve ou être entouré par elle. L’homme devient la victime d’une violence qui le dépouille et le laisse sans secours.",
+              "related": [
+                "λῃσταῖς",
+                "οἳ"
+              ],
+              "grammar": {
+                "form": "περιέπεσεν",
+                "lemma": "περιπίπτω",
+                "category": "Verbe",
+                "parsing": "Deuxième aoriste actif, indicatif, troisième personne du singulier",
+                "abbreviation": "AOR. 2 ACT. IND. 3 SG.",
+                "syntax": "Le sujet est l’homme qui descendait. Le datif λῃσταῖς désigne ceux au milieu desquels il tombe."
+              }
+            }
+          },
+          {
+            "greek": "οἳ",
+            "gloss": "qui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἐκδύσαντες",
+            "gloss": "l'ayant_dépouillé/déshabillé",
+            "annotation": {
+              "type": "analyse",
+              "title": "L’ayant dépouillé",
+              "content": "Les brigands retirent à l’homme ses vêtements avant de le frapper. Le participe appartient à l’accumulation des violences subies par celui qui ne peut plus se secourir lui-même.",
+              "related": [
+                "καὶ",
+                "αὐτὸν"
+              ],
+              "grammar": {
+                "form": "ἐκδύσαντες",
+                "lemma": "ἐκδύω",
+                "category": "Verbe",
+                "parsing": "Aoriste actif, participe, nominatif masculin pluriel",
+                "abbreviation": "AOR. ACT. PART. NOM. MASC. PL.",
+                "syntax": "Participe accordé avec les brigands. Le pronom αὐτόν, « lui », en est le complément direct."
+              }
+            }
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πληγὰς",
+            "gloss": "des_coups/blessures"
+          },
+          {
+            "greek": "ἐπιθέντες",
+            "gloss": "ayant_imposé"
+          },
+          {
+            "greek": "ἀπῆλθον",
+            "gloss": "s'en_allèrent",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ils s’en allèrent",
+              "content": "Après avoir dépouillé et frappé l’homme, les brigands l’abandonnent. Leur départ laisse apparaître la gravité de son état et prépare la question de celui qui acceptera de s’arrêter.",
+              "related": [
+                "ἐπιθέντες",
+                "ἀφέντες"
+              ],
+              "grammar": {
+                "form": "ἀπῆλθον",
+                "lemma": "ἀπέρχομαι",
+                "category": "Verbe déponent",
+                "parsing": "Deuxième aoriste actif de forme, indicatif, troisième personne du pluriel",
+                "abbreviation": "AOR. 2 ACT. IND. 3 PL.",
+                "syntax": "Verbe principal dont les brigands sont le sujet. Le participe ἀφέντες précise qu’ils le laissent à demi-mort."
+              }
+            }
+          },
+          {
+            "greek": "ἀφέντες",
+            "gloss": "l'ayant_laissé"
+          },
+          {
+            "greek": "ἡμιθανῆ.",
+            "gloss": "à_demi-mort",
+            "annotation": {
+              "type": "traduction",
+              "title": "À demi-mort",
+              "content": "ἡμιθανής signifie à demi-mort. Le blessé est encore vivant, mais incapable de se relever seul. Sa situation appelle une proximité qui ne se contente pas de regarder.",
+              "related": [
+                "ἀφέντες"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ἡμιθανῆ",
+                "lemma": "ἡμιθανής",
+                "category": "Adjectif de la troisième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Attribut du complément αὐτόν après ἀφέντες : « le laissant à demi-mort »."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 31,
+        "translations": {
+          "segond": "Un sacrificateur, qui par hasard descendait par le même chemin, ayant vu cet homme, passa outre.",
+          "darby": "Or, par rencontre, un certain sacrificateur descendait par ce chemin-là ; et le voyant, il passa outre de l'autre côté."
+        },
+        "interlinear": [
+          {
+            "greek": "κατὰ",
+            "gloss": "Selon/par"
+          },
+          {
+            "greek": "συγκυρίαν",
+            "gloss": "coïncidence",
+            "annotation": {
+              "type": "traduction",
+              "title": "Par coïncidence",
+              "content": "κατὰ συγκυρίαν signifie par hasard ou par coïncidence. Le récit fait croiser le chemin du blessé et celui du prêtre, mais cette rencontre ne devient pas encore une relation de soin.",
+              "related": [
+                "κατὰ",
+                "δὲ"
+              ],
+              "grammar": {
+                "form": "συγκυρίαν",
+                "lemma": "συγκυρία",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément de κατά dans l’expression adverbiale κατὰ συγκυρίαν, « par coïncidence »."
+              }
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἱερεύς",
+            "gloss": "un_prêtre/sacrificateur"
+          },
+          {
+            "greek": "τις",
+            "gloss": "certain"
+          },
+          {
+            "greek": "κατέβαινεν",
+            "gloss": "descendait",
+            "annotation": {
+              "type": "repetition",
+              "title": "Le prêtre descendait par ce chemin",
+              "content": "Le même verbe que pour l’homme blessé situe le prêtre sur la même route. La proximité géographique ne devient pourtant pas proximité humaine : il voit et passe de l’autre côté.",
+              "related": [
+                "τις",
+                "ἐν"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "κατέβαινεν",
+                "lemma": "καταβαίνω",
+                "category": "Verbe",
+                "parsing": "Imparfait actif, indicatif, troisième personne du singulier",
+                "abbreviation": "IMPF. ACT. IND. 3 SG.",
+                "syntax": "Verbe principal dont ἱερεύς τις, « un prêtre », est le sujet. L’imparfait décrit son déplacement en cours."
+              }
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/par"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ὁδῷ",
+            "gloss": "chemin"
+          },
+          {
+            "greek": "ἐκείνῃ,",
+            "gloss": "ce...-là"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "l'ayant_vu"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἀντιπαρῆλθεν·",
+            "gloss": "il_passa_outre_du_côté_opposé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Il passa à distance",
+              "content": "Le verbe composé décrit le prêtre qui voit l’homme puis passe de l’autre côté. La vision ne devient ni approche ni soin.",
+              "related": [
+                "αὐτὸν"
+              ],
+              "grammar": {
+                "form": "ἀντιπαρῆλθεν",
+                "lemma": "ἀντιπαρέρχομαι",
+                "category": "Verbe déponent",
+                "parsing": "Deuxième aoriste actif de forme, indicatif, troisième personne du singulier",
+                "abbreviation": "AOR. 2 ACT. IND. 3 SG.",
+                "syntax": "Verbe principal dont le prêtre est le sujet."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 32,
+        "translations": {
+          "segond": "Un Lévite, qui arriva aussi dans ce lieu, l'ayant vu, passa outre.",
+          "darby": "Et pareillement aussi un Lévite, étant arrivé à cet endroit, vint et le vit, et passa outre de l'autre côté."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁμοίως",
+            "gloss": "Pareillement/de_même"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "Λευίτης",
+            "gloss": "un_Lévite"
+          },
+          {
+            "greek": "γενόμενος",
+            "gloss": "étant_arrivé"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon/sur"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "τόπον",
+            "gloss": "lieu"
+          },
+          {
+            "greek": "ἐλθὼν",
+            "gloss": "étant_venu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "ἀντιπαρῆλθεν.",
+            "gloss": "passa_outre_du_côté_opposé",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le Lévite passa également à distance",
+              "content": "La répétition exacte du verbe rapproche les deux réactions. Tous deux voient l’homme, mais aucun ne transforme cette vision en proximité.",
+              "related": [
+                "ἰδὼν"
+              ],
+              "grammar": {
+                "form": "ἀντιπαρῆλθεν",
+                "lemma": "ἀντιπαρέρχομαι",
+                "category": "Verbe déponent",
+                "parsing": "Deuxième aoriste actif de forme, indicatif, troisième personne du singulier",
+                "abbreviation": "AOR. 2 ACT. IND. 3 SG.",
+                "syntax": "Verbe principal dont le Lévite est le sujet."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 33,
+        "translations": {
+          "segond": "Mais un Samaritain, qui voyageait, étant venu là, fut ému de compassion lorsqu'il le vit.",
+          "darby": "Mais un certain Samaritain, faisant route, vint vers lui, et, le voyant, fut ému de compassion ;"
+        },
+        "interlinear": [
+          {
+            "greek": "Σαμαρίτης",
+            "gloss": "Un_Samaritain",
+            "annotation": {
+              "type": "analyse",
+              "title": "Un Samaritain",
+              "content": "Le récit confie le geste de miséricorde à un Samaritain, membre d’un groupe méprisé par beaucoup de Judéens. L’étranger devient le modèle de celui qui se fait proche.",
+              "related": [
+                "δέ"
+              ],
+              "grammar": {
+                "form": "Σαμαρίτης",
+                "lemma": "Σαμαρίτης",
+                "category": "Nom masculin de la première déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Sujet de ἦλθεν et, plus loin, de ἐσπλαγχνίσθη."
+              }
+            }
+          },
+          {
+            "greek": "δέ",
+            "gloss": "or"
+          },
+          {
+            "greek": "τις",
+            "gloss": "certain"
+          },
+          {
+            "greek": "ὁδεύων",
+            "gloss": "faisant_route/voyageant",
+            "annotation": {
+              "type": "racine",
+              "title": "Un Samaritain faisant route",
+              "content": "ὁδεύω signifie voyager ou faire route et dérive de ὁδός, le chemin. Le Samaritain n’est pas défini d’abord par une fonction cultuelle, mais comme un voyageur qui rencontre un homme blessé.",
+              "related": [
+                "τις",
+                "ἦλθεν"
+              ],
+              "grammar": {
+                "form": "ὁδεύων",
+                "lemma": "ὁδεύω",
+                "category": "Verbe",
+                "parsing": "Présent actif, participe, nominatif masculin singulier",
+                "abbreviation": "PRÉS. ACT. PART. NOM. MASC. SG.",
+                "syntax": "Participe accordé avec Σαμαρίτης. Il décrit la circonstance dans laquelle il vient près du blessé."
+              }
+            }
+          },
+          {
+            "greek": "ἦλθεν",
+            "gloss": "vint"
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "sur/contre"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἰδὼν",
+            "gloss": "ayant_vu"
+          },
+          {
+            "greek": "ἐσπλαγχνίσθη,",
+            "gloss": "fut_ému_aux_entrailles",
+            "annotation": {
+              "type": "theologie",
+              "title": "Être saisi de compassion",
+              "content": "Le verbe σπλαγχνίζομαι exprime une compassion qui saisit jusque dans les entrailles. Le Samaritain ne se contente pas de voir le blessé : il se laisse atteindre et passe aussitôt au soin concret.",
+              "related": [
+                "ἰδὼν"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ἐσπλαγχνίσθη",
+                "lemma": "σπλαγχνίζομαι",
+                "category": "Verbe déponent à forme passive",
+                "parsing": "Aoriste passif, indicatif, troisième personne du singulier, sens actif",
+                "abbreviation": "AOR. PASS. IND. 3 SG.",
+                "syntax": "Verbe principal dont le Samaritain est le sujet. Le participe ἰδών, « ayant vu », précède immédiatement la compassion."
+              },
+              "lexical": {
+                "strong": "G4697",
+                "literal_senses": [
+                  "être remué dans ses entrailles",
+                  "être saisi de compassion",
+                  "éprouver une compassion qui porte à agir"
+                ],
+                "paradigm": "σπλαγχνίζομαι ; aoriste passif déponent ἐσπλαγχνίσθην.",
+                "etymology": "Le verbe est formé sur σπλάγχνον, « entrailles, organes intérieurs », siège figuré de l’émotion profonde. Voir Chantraine, s.v. σπλάγχνον.",
+                "theological_horizon": "Dans l’Évangile selon Luc, cette compassion caractérise le Seigneur, le père qui accueille son fils et, ici, le Samaritain. Elle voit, s’approche et agit."
+              },
+              "local": {
+                "reference": "Luc 10,33, 25e dimanche après Pentecôte",
+                "expression": "ἰδὼν ἐσπλαγχνίσθη",
+                "literal": "Ayant vu, il fut saisi aux entrailles.",
+                "translation": "En le voyant, il fut saisi de compassion.",
+                "syntax": "Le participe aoriste ἰδών précède le verbe principal ἐσπλαγχνίσθη.",
+                "commentary": "Le prêtre et le Lévite voient également, mais passent à distance. Chez le Samaritain, voir devient compassion puis proximité et soin."
+              },
+              "occurrences": [
+                {
+                  "reference": "Luc 7,13",
+                  "greek": "ἰδὼν αὐτὴν ὁ κύριος ἐσπλαγχνίσθη ἐπ’ αὐτῇ",
+                  "literal": "L’ayant vue, le Seigneur fut saisi de compassion pour elle.",
+                  "context": "Jésus rencontre la veuve de Naïn.",
+                  "theology": "La compassion précède la consolation et le relèvement du mort."
+                },
+                {
+                  "reference": "Luc 10,33",
+                  "greek": "ἰδὼν ἐσπλαγχνίσθη",
+                  "literal": "Ayant vu, il fut saisi de compassion.",
+                  "context": "Le Samaritain rencontre l’homme laissé à demi-mort.",
+                  "theology": "La compassion abolit la distance et devient soin du prochain.",
+                  "current": true,
+                  "pericope_key": "325_after_pentecost_25",
+                  "reading_type": "gospel",
+                  "target_form": "ἐσπλαγχνίσθη,"
+                },
+                {
+                  "reference": "Luc 15,20",
+                  "greek": "ἰδὼν αὐτὸν ὁ πατὴρ αὐτοῦ ἐσπλαγχνίσθη",
+                  "literal": "Son père, l’ayant vu, fut saisi de compassion.",
+                  "context": "Le père aperçoit de loin le fils qui revient.",
+                  "theology": "La compassion court au-devant du fils avant toute justification."
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G4697, σπλαγχνίζομαι",
+                  "url": "https://www.blueletterbible.org/lexicon/g4697/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. σπλαγχνίζομαι, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CF%83%CF%80%CE%BB%CE%B1%CE%B3%CF%87%CE%BD%CE%AF%CE%B6%CE%BF%CE%BC%CE%B1%CE%B9"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. σπλάγχνον",
+                  "url": ""
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 34,
+        "translations": {
+          "segond": "Il s'approcha, et banda ses plaies, en y versant de l'huile et du vin ; puis il le mit sur sa propre monture, le conduisit à une hôtellerie, et prit soin de lui.",
+          "darby": "et s'approchant, il banda ses plaies, y versant de l'huile et du vin ; et l'ayant mis sur sa propre bête, il le mena dans l'hôtellerie et eut soin de lui."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "προσελθὼν",
+            "gloss": "s'étant_approché",
+            "annotation": {
+              "type": "analyse",
+              "title": "S’étant approché",
+              "content": "Après avoir vu et été saisi de compassion, le Samaritain s’approche. Ce mouvement répond directement au passage à distance du prêtre et du Lévite : la compassion devient proximité concrète.",
+              "related": [
+                "καὶ",
+                "κατέδησεν"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "προσελθών",
+                "lemma": "προσέρχομαι",
+                "category": "Verbe déponent",
+                "parsing": "Deuxième aoriste actif de forme, participe, nominatif masculin singulier",
+                "abbreviation": "AOR. 2 ACT. PART. NOM. MASC. SG.",
+                "syntax": "Participe accordé avec le Samaritain. Il précède les gestes par lesquels il soigne les blessures."
+              }
+            }
+          },
+          {
+            "greek": "κατέδησεν",
+            "gloss": "il_banda/lia"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "τραύματα",
+            "gloss": "plaies/blessures"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ἐπιχέων",
+            "gloss": "versant_sur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Versant de l’huile et du vin",
+              "content": "Le soin est décrit avec précision : le Samaritain verse de l’huile et du vin sur les blessures. La miséricorde prend ici la forme de gestes matériels adaptés à la détresse rencontrée.",
+              "related": [
+                "αὐτοῦ",
+                "ἔλαιον"
+              ],
+              "grammar": {
+                "form": "ἐπιχέων",
+                "lemma": "ἐπιχέω",
+                "category": "Verbe contracte",
+                "parsing": "Présent actif, participe, nominatif masculin singulier",
+                "abbreviation": "PRÉS. ACT. PART. NOM. MASC. SG.",
+                "syntax": "Participe accordé avec le Samaritain. ἔλαιον καὶ οἶνον sont ses compléments directs."
+              }
+            }
+          },
+          {
+            "greek": "ἔλαιον",
+            "gloss": "huile"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "οἶνον,",
+            "gloss": "vin",
+            "annotation": {
+              "type": "analyse",
+              "title": "L’huile et le vin du soin",
+              "content": "L’huile et le vin appartiennent aux moyens concrets du soin antique. Une lecture ecclésiale peut y discerner un écho sacramentel, mais le premier sens demeure celui du blessé effectivement soigné.",
+              "related": [
+                "καὶ",
+                "ἐπιβιβάσας"
+              ],
+              "grammar": {
+                "form": "οἶνον",
+                "lemma": "οἶνος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct du participe ἐπιχέων, coordonné à ἔλαιον."
+              }
+            }
+          },
+          {
+            "greek": "ἐπιβιβάσας",
+            "gloss": "l'ayant_fait_monter",
+            "annotation": {
+              "type": "analyse",
+              "title": "L’ayant fait monter sur sa monture",
+              "content": "Le Samaritain met le blessé sur sa propre monture. Il ne se limite pas au premier secours : il accepte de modifier son voyage et de porter la faiblesse de l’autre.",
+              "related": [
+                "οἶνον,",
+                "δὲ"
+              ],
+              "grammar": {
+                "form": "ἐπιβιβάσας",
+                "lemma": "ἐπιβιβάζω",
+                "category": "Verbe",
+                "parsing": "Aoriste actif, participe, nominatif masculin singulier",
+                "abbreviation": "AOR. ACT. PART. NOM. MASC. SG.",
+                "syntax": "Participe accordé avec le Samaritain. Le pronom αὐτόν est son complément direct et ἐπὶ τὸ ἴδιον κτῆνος indique la monture."
+              }
+            }
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἴδιον",
+            "gloss": "propre"
+          },
+          {
+            "greek": "κτῆνος",
+            "gloss": "bête/monture"
+          },
+          {
+            "greek": "ἤγαγεν",
+            "gloss": "il_conduisit"
+          },
+          {
+            "greek": "αὐτὸν",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "πανδοχεῖον",
+            "gloss": "une_hôtellerie",
+            "annotation": {
+              "type": "racine",
+              "title": "L’hôtellerie qui accueille",
+              "content": "πανδοχεῖον désigne une auberge ou une hôtellerie. Sa formation évoque un lieu qui reçoit tous les voyageurs. Dans la lecture ecclésiale de la parabole, elle peut devenir une image de l’Église qui accueille et poursuit le soin.",
+              "related": [
+                "εἰς",
+                "καὶ"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "πανδοχεῖον",
+                "lemma": "πανδοχεῖον",
+                "category": "Nom neutre de la deuxième déclinaison",
+                "parsing": "Accusatif neutre singulier",
+                "abbreviation": "ACC. NEUT. SG.",
+                "syntax": "Complément de la préposition εἰς après ἤγαγεν : « il le conduisit dans une hôtellerie »."
+              }
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐπεμελήθη",
+            "gloss": "il_prit_soin"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 35,
+        "translations": {
+          "segond": "Le lendemain, il tira deux deniers, les donna à l'hôte, et dit : Aie soin de lui, et ce que tu dépenseras de plus, je te le rendrai à mon retour.",
+          "darby": "Et le lendemain, en partant, il tira deux deniers et les donna à l'hôtelier, et lui dit : Aie soin de lui ; et ce que tu dépenseras de plus, moi, à mon retour, je te le rendrai."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "le"
+          },
+          {
+            "greek": "αὔριον",
+            "gloss": "lendemain"
+          },
+          {
+            "greek": "ἐκβαλὼν",
+            "gloss": "ayant_tiré_hors",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ayant sorti deux deniers",
+              "content": "ἐκβάλλω signifie ici sortir ou tirer de sa bourse. Le soin se prolonge par une dépense assumée : la miséricorde engage les ressources de celui qui s’est approché.",
+              "related": [
+                "αὔριον",
+                "δύο"
+              ],
+              "grammar": {
+                "form": "ἐκβαλών",
+                "lemma": "ἐκβάλλω",
+                "category": "Verbe",
+                "parsing": "Deuxième aoriste actif, participe, nominatif masculin singulier",
+                "abbreviation": "AOR. 2 ACT. PART. NOM. MASC. SG.",
+                "syntax": "Participe accordé avec le Samaritain. δύο δηνάρια, « deux deniers », en est le complément direct."
+              }
+            }
+          },
+          {
+            "greek": "δύο",
+            "gloss": "deux"
+          },
+          {
+            "greek": "δηνάρια",
+            "gloss": "deniers"
+          },
+          {
+            "greek": "ἔδωκεν",
+            "gloss": "donna"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "à_l'"
+          },
+          {
+            "greek": "πανδοχεῖ",
+            "gloss": "hôtelier"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ἐπιμελήθητι",
+            "gloss": "Prends_soin"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ὅ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "τι",
+            "gloss": "n'importe"
+          },
+          {
+            "greek": "ἂν",
+            "gloss": "éventuellement"
+          },
+          {
+            "greek": "προσδαπανήσῃς",
+            "gloss": "tu_dépenseras_en_plus",
+            "annotation": {
+              "type": "racine",
+              "title": "Ce que tu dépenseras en plus",
+              "content": "προσδαπανάω signifie dépenser en plus. Le Samaritain prévoit que le soin pourra dépasser la somme déjà versée et promet de prendre en charge ce surcroît.",
+              "related": [
+                "ἂν",
+                "ἐγὼ"
+              ],
+              "grammar": {
+                "form": "προσδαπανήσῃς",
+                "lemma": "προσδαπανάω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste actif, subjonctif, deuxième personne du singulier",
+                "abbreviation": "AOR. ACT. SUBJ. 2 SG.",
+                "syntax": "Employé avec ἄν dans une relative éventuelle : « ce que tu pourrais dépenser en plus »."
+              }
+            }
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "ἐπανέρχεσθαί",
+            "gloss": "revenir",
+            "annotation": {
+              "type": "analyse",
+              "title": "À mon retour",
+              "content": "Le Samaritain promet de revenir et de rembourser le surcroît. Le soin n’est donc pas abandonné à l’aubergiste : celui qui a commencé à secourir demeure responsable de son accomplissement.",
+              "related": [
+                "τῷ",
+                "με"
+              ],
+              "grammar": {
+                "form": "ἐπανέρχεσθαι",
+                "lemma": "ἐπανέρχομαι",
+                "category": "Verbe déponent",
+                "parsing": "Présent moyen, infinitif",
+                "abbreviation": "PRÉS. MOY. INF.",
+                "syntax": "Infinitif substantivé après ἐν τῷ. Le pronom με en est le sujet à l’accusatif : « lorsque je reviendrai »."
+              }
+            }
+          },
+          {
+            "greek": "με",
+            "gloss": "me"
+          },
+          {
+            "greek": "ἀποδώσω",
+            "gloss": "je_rendrai"
+          },
+          {
+            "greek": "σοι.",
+            "gloss": "à_toi"
+          }
+        ]
+      },
+      {
+        "verse_number": 36,
+        "translations": {
+          "segond": "Lequel de ces trois te semble avoir été le prochain de celui qui était tombé au milieu des brigands ?",
+          "darby": "Lequel de ces trois te semble avoir été le prochain de celui qui était tombé entre les voleurs ?"
+        },
+        "interlinear": [
+          {
+            "greek": "Τίς",
+            "gloss": "Qui"
+          },
+          {
+            "greek": "τούτων",
+            "gloss": "de_ceux-ci"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "τριῶν",
+            "gloss": "trois"
+          },
+          {
+            "greek": "πλησίον",
+            "gloss": "prochain/proche"
+          },
+          {
+            "greek": "δοκεῖ",
+            "gloss": "semble"
+          },
+          {
+            "greek": "σοι",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "γεγονέναι",
+            "gloss": "être_devenu",
+            "annotation": {
+              "type": "analyse",
+              "title": "Lequel est devenu le prochain ?",
+              "content": "Jésus ne demande plus de définir à l’avance qui mérite le nom de prochain. Il demande lequel des trois est devenu prochain de l’homme blessé. La proximité apparaît ainsi comme une relation accomplie dans la miséricorde.",
+              "related": [
+                "σοι",
+                "τοῦ"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "γεγονέναι",
+                "lemma": "γίνομαι",
+                "category": "Verbe déponent",
+                "parsing": "Parfait actif de forme, infinitif",
+                "abbreviation": "PARF. ACT. INF.",
+                "syntax": "Infinitif dépendant de δοκεῖ σοι, « te semble ». Le parfait présente la relation de prochain comme devenue effective."
+              }
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_celui"
+          },
+          {
+            "greek": "ἐμπεσόντος",
+            "gloss": "étant_tombé_dans"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "λῃστάς;",
+            "gloss": "brigands"
+          }
+        ]
+      },
+      {
+        "verse_number": 37,
+        "translations": {
+          "segond": "C'est celui qui a exercé la miséricorde envers lui, répondit le docteur de la loi. Et Jésus lui dit : Va, et toi, fais de même.",
+          "darby": "Et il dit : C'est celui qui a usé de miséricorde envers lui. Et Jésus lui dit : Va, et toi fais de même."
+        },
+        "interlinear": [
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ὁ",
+            "gloss": "Celui"
+          },
+          {
+            "greek": "ποιήσας",
+            "gloss": "ayant_fait/pratiqué"
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ἔλεος",
+            "gloss": "miséricorde",
+            "annotation": {
+              "type": "analyse",
+              "title": "Celui qui a fait miséricorde",
+              "content": "Le légiste répond par l’action : le prochain est celui qui a fait miséricorde. Jésus l’envoie accomplir à son tour ce qu’il vient de reconnaître.",
+              "related": [
+                "τὸ",
+                "μετ’"
+              ],
+              "importance": "major",
+              "lexical": {
+                "strong": "G1656",
+                "literal_senses": [
+                  "miséricorde",
+                  "pitié active",
+                  "secours accordé à celui qui souffre"
+                ],
+                "paradigm": "ἔλεος, génitif ἐλέους, nom neutre de la troisième déclinaison.",
+                "etymology": "L’étymologie ancienne est discutée ; la fiche retient le champ lexical de la compassion agissante et renvoie à Chantraine, s.v. ἔλεος.",
+                "theological_horizon": "La miséricorde biblique n’est pas une émotion distante. Elle se reconnaît à l’action qui rejoint, soigne et restaure celui qui est dans la détresse."
+              },
+              "local": {
+                "reference": "Luc 10,37, 25e dimanche après Pentecôte",
+                "expression": "ὁ ποιήσας τὸ ἔλεος μετ’ αὐτοῦ",
+                "literal": "Celui qui a fait la miséricorde avec lui.",
+                "translation": "Celui qui a exercé la miséricorde envers lui.",
+                "syntax": "ἔλεος est le complément direct de ποιήσας. L’expression ποιεῖν ἔλεος signifie « faire miséricorde ».",
+                "commentary": "Le légiste répond en désignant non une appartenance, mais une action. Jésus reprend alors le verbe faire : « Va, et toi aussi, fais de même. »"
+              },
+              "occurrences": [
+                {
+                  "reference": "Luc 10,37",
+                  "greek": "ὁ ποιήσας τὸ ἔλεος μετ’ αὐτοῦ",
+                  "literal": "Celui qui a fait miséricorde envers lui.",
+                  "context": "Réponse du légiste après la parabole.",
+                  "theology": "La miséricorde révèle celui qui est devenu prochain.",
+                  "current": true,
+                  "pericope_key": "325_after_pentecost_25",
+                  "reading_type": "gospel",
+                  "target_form": "ἔλεος"
+                },
+                {
+                  "reference": "Matthieu 9,13",
+                  "greek": "ἔλεος θέλω καὶ οὐ θυσίαν",
+                  "literal": "Je veux la miséricorde et non le sacrifice.",
+                  "context": "Jésus justifie son accueil des pécheurs.",
+                  "theology": "La miséricorde accomplit la volonté de Dieu au-delà d’une observance sans compassion."
+                },
+                {
+                  "reference": "Luc 1,50",
+                  "greek": "τὸ ἔλεος αὐτοῦ εἰς γενεὰς καὶ γενεάς",
+                  "literal": "Sa miséricorde est de génération en génération.",
+                  "context": "Cantique de la Mère de Dieu.",
+                  "theology": "La miséricorde appartient à la fidélité durable de Dieu."
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G1656, ἔλεος",
+                  "url": "https://www.blueletterbible.org/lexicon/g1656/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. ἔλεος, Logeion",
+                  "url": "https://logeion.uchicago.edu/%E1%BC%94%CE%BB%CE%B5%CE%BF%CF%82"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. ἔλεος",
+                  "url": ""
+                }
+              ],
+              "grammar": {
+                "form": "ἔλεος",
+                "lemma": "ἔλεος",
+                "category": "Nom neutre de la troisième déclinaison",
+                "parsing": "Accusatif neutre singulier",
+                "abbreviation": "ACC. NEUT. SG.",
+                "syntax": "Complément direct de ποιήσας : « celui qui a fait la miséricorde envers lui »."
+              }
+            }
+          },
+          {
+            "greek": "μετ’",
+            "gloss": "avec/envers"
+          },
+          {
+            "greek": "αὐτοῦ.",
+            "gloss": "lui"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Ἰησοῦς·",
+            "gloss": "Jésus"
+          },
+          {
+            "greek": "Πορεύου",
+            "gloss": "Va/fais_route"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "σὺ",
+            "gloss": "toi"
+          },
+          {
+            "greek": "ποίει",
+            "gloss": "fais/crée"
+          },
+          {
+            "greek": "ὁμοίως.",
+            "gloss": "pareillement"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur le texte grec :\n\n• ἀντιπαρῆλθεν est plus précis que le simple verbe « passer ». Le prêtre et le lévite passent de l’autre côté et organisent ainsi leur distance avec le blessé.\n• πανδοχεῖον désigne l’hôtellerie, littéralement un lieu capable de recevoir tous les voyageurs. Cette composition peut nourrir une lecture ecclésiale, sans épuiser le sens narratif du mot.\n• γεγονέναι vient de γίνομαι, « devenir ». Jésus ne demande pas seulement qui était le prochain, mais lequel des trois s’est fait prochain de l’homme blessé.\n\nAnalyse :\n\nLe légiste demande : « Qui est mon prochain ? » Sa question cherche une définition et peut-être une limite. Jésus déplace le problème : « Lequel s’est fait prochain ? » La proximité n’est plus une catégorie préalable, mais une action.\n\nLe prêtre et le lévite voient puis passent à distance. Le Samaritain voit, est saisi de compassion, s’approche, touche les plaies, transporte le blessé et organise la durée du soin. Le récit conduit ainsi du regard à la responsabilité concrète.\n\nUne lecture ancienne reconnaît dans le Samaritain une figure du Christ et dans l’hôtellerie une image de l’Église. Cette interprétation spirituelle demeure féconde lorsqu’elle ne remplace pas l’exigence immédiate de la parabole : aller et faire de même.",
+    "homiletic_axes": [
+      {
+        "title": "De la limite à la proximité",
+        "content": "Le légiste demande qui mérite d’être inclus ; Jésus demande qui s’est fait prochain. La proximité devient une action et non une catégorie préalable.",
+        "keywords": [
+          "πλησίον;",
+          "πλησίον"
+        ]
+      },
+      {
+        "title": "Passer à l’opposé ou s’approcher",
+        "content": "Le prêtre et le lévite créent de la distance ; le Samaritain interrompt son trajet et se rend proche du blessé.",
+        "keywords": [
+          "ἀντιπαρῆλθεν·",
+          "ἀντιπαρῆλθεν.",
+          "ἐσπλαγχνίσθη,"
+        ]
+      },
+      {
+        "title": "Une compassion qui prend soin",
+        "content": "La compassion engage les sens, les entrailles, les mains, le temps et les biens. Elle ne reste pas une émotion sans lendemain.",
+        "keywords": [
+          "ἐσπλαγχνίσθη,",
+          "ἀποδώσω"
+        ]
+      },
+      {
+        "title": "Un seul corps dans la patience",
+        "content": "Éphésiens fonde le soin du prochain dans l’unité reçue du Christ et gardée par l’humilité, la douceur et la patience.",
+        "keywords": [
+          "μακροθυμίας,",
+          "εἷς",
+          "χάρις"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement une entrée dans les deux lectures du 25e dimanche après la Pentecôte : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : enfermement, attente, blessure, isolement, accumulation, courbure, peur ou désir de retrouver une relation vivante."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : écouter, se laisser rejoindre, toucher avec délicatesse, devenir prochain, partager, se redresser ou recevoir la grâce."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes malades ou éprouvées."
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Se faire prochain dans l’unique Corps",
+        "reference": "Luc 10, 25-37 ; Éphésiens 4, 1-7",
+        "content": "Le Samaritain restaure concrètement une relation brisée ; l’Apôtre révèle que cette proximité trouve sa source dans l’unité du Corps, de l’Esprit, du Seigneur, de la foi et du baptême.",
+        "connections": []
+      }
+    ]
+  },
+  "apostle": {
+    "reference": "Éphésiens 4, 1-7",
+    "title": "L'unité dans l'Esprit",
+    "interlinear": [
+      {
+        "verse_number": 1,
+        "translations": {
+          "segond": "Je vous exhorte donc, moi, le prisonnier dans le Seigneur, à marcher d'une manière digne de la vocation qui vous a été adressée,",
+          "darby": "Je vous exhorte donc, moi, le prisonnier dans le Seigneur, à marcher d'une manière digne de l'appel dont vous avez été appelés,"
+        },
+        "interlinear": [
+          {
+            "greek": "Παρακαλῶ",
+            "gloss": "J'exhorte/J'appelle_auprès",
+            "annotation": {
+              "type": "racine",
+              "title": "Je vous exhorte",
+              "content": "παρακαλέω peut signifier appeler auprès de soi, exhorter, encourager ou consoler. Paul ne juxtapose pas une morale à la doctrine : il appelle les fidèles à vivre d’une manière accordée au don reçu.",
+              "related": [
+                "οὖν"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "Παρακαλῶ",
+                "lemma": "παρακαλέω",
+                "category": "Verbe contracte",
+                "parsing": "Présent actif, indicatif, première personne du singulier",
+                "abbreviation": "PRÉS. ACT. IND. 1 SG.",
+                "syntax": "Verbe principal dont Paul est le sujet. Il introduit ὑμᾶς suivi de l’infinitif περιπατῆσαι."
+              }
+            }
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "ὑμᾶς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "ἐγὼ",
+            "gloss": "moi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δέσμιος",
+            "gloss": "prisonnier/lié",
+            "annotation": {
+              "type": "analyse",
+              "title": "Prisonnier dans le Seigneur",
+              "content": "Paul se présente comme prisonnier dans le Seigneur. Sa captivité historique devient le lieu depuis lequel il exhorte l’Église à garder l’unité et à marcher dignement de l’appel.",
+              "related": [
+                "ὁ",
+                "ἐν"
+              ],
+              "grammar": {
+                "form": "δέσμιος",
+                "lemma": "δέσμιος",
+                "category": "Adjectif employé comme nom",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Apposition au pronom ἐγώ, « moi ». Le groupe ἐν κυρίῳ précise sa relation au Seigneur."
+              }
+            }
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "le_Seigneur"
+          },
+          {
+            "greek": "ἀξίως",
+            "gloss": "dignement/avec_juste_poids",
+            "annotation": {
+              "type": "analyse",
+              "title": "Marcher d’une manière digne de l’appel",
+              "content": "ἀξίως signifie d’une manière digne ou conforme. Il ne s’agit pas de mériter l’appel, mais d’accorder la conduite au don déjà reçu de Dieu.",
+              "related": [
+                "κυρίῳ",
+                "περιπατῆσαι"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ἀξίως",
+                "lemma": "ἀξίως",
+                "category": "Adverbe",
+                "parsing": "Forme indéclinable",
+                "abbreviation": "ADV. INDECL.",
+                "syntax": "Modifie περιπατῆσαι, « marcher ». Le génitif τῆς κλήσεως précise ce dont la conduite doit être digne."
+              }
+            }
+          },
+          {
+            "greek": "περιπατῆσαι",
+            "gloss": "marcher",
+            "annotation": {
+              "type": "analyse",
+              "title": "Marcher selon l’appel reçu",
+              "content": "Chez Paul, marcher désigne la conduite de toute la vie. L’appel reçu devient visible dans l’humilité, la douceur, la patience et le soin de l’unité.",
+              "related": [
+                "ἀξίως",
+                "τῆς"
+              ],
+              "grammar": {
+                "form": "περιπατῆσαι",
+                "lemma": "περιπατέω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste actif, infinitif",
+                "abbreviation": "AOR. ACT. INF.",
+                "syntax": "Infinitif complétant παρακαλῶ avec ὑμᾶς comme sujet à l’accusatif : « je vous exhorte à marcher »."
+              }
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "κλήσεως",
+            "gloss": "appel/vocation"
+          },
+          {
+            "greek": "ἧς",
+            "gloss": "dont"
+          },
+          {
+            "greek": "ἐκλήθητε,",
+            "gloss": "vous_fûtes_appelés"
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "translations": {
+          "segond": "en toute humilité et douceur, avec patience, vous supportant les uns les autres avec charité,",
+          "darby": "avec toute humilité et douceur, avec longanimité, vous supportant l'un l'autre dans l'amour ;"
+        },
+        "interlinear": [
+          {
+            "greek": "μετὰ",
+            "gloss": "Avec"
+          },
+          {
+            "greek": "πάσης",
+            "gloss": "toute"
+          },
+          {
+            "greek": "ταπεινοφροσύνης",
+            "gloss": "humilité/abaissement_mental",
+            "annotation": {
+              "type": "racine",
+              "title": "En toute humilité",
+              "content": "ταπεινοφροσύνη unit l’idée d’abaissement à celle de la disposition intérieure. L’humilité chrétienne n’est pas le mépris de soi, mais le refus de dominer l’autre et la disponibilité au don de Dieu.",
+              "related": [
+                "πάσης",
+                "καὶ"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ταπεινοφροσύνης",
+                "lemma": "ταπεινοφροσύνη",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Génitif féminin singulier",
+                "abbreviation": "GÉN. FÉM. SG.",
+                "syntax": "Complément de μετά avec le génitif dans l’énumération des dispositions qui accompagnent la marche chrétienne."
+              }
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πραΰτητος,",
+            "gloss": "douceur",
+            "annotation": {
+              "type": "analyse",
+              "title": "Avec douceur",
+              "content": "πραΰτης désigne la douceur qui renonce à la violence et à la domination. Elle n’est pas faiblesse, mais force pacifiée au service de la communion.",
+              "related": [
+                "καὶ",
+                "μετὰ"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "πραΰτητος",
+                "lemma": "πραΰτης",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Génitif féminin singulier",
+                "abbreviation": "GÉN. FÉM. SG.",
+                "syntax": "Complément de μετά avec le génitif, coordonné à ταπεινοφροσύνης."
+              }
+            }
+          },
+          {
+            "greek": "μετὰ",
+            "gloss": "avec"
+          },
+          {
+            "greek": "μακροθυμίας,",
+            "gloss": "patience/longanimité",
+            "annotation": {
+              "type": "racine",
+              "title": "Avec patience",
+              "content": "μακροθυμία désigne la patience ou la longanimité, littéralement la capacité à ne pas laisser la colère décider immédiatement. Elle rend possible le soutien mutuel dans l’amour.",
+              "related": [
+                "μετὰ",
+                "ἀνεχόμενοι"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "μακροθυμίας",
+                "lemma": "μακροθυμία",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Génitif féminin singulier",
+                "abbreviation": "GÉN. FÉM. SG.",
+                "syntax": "Complément de μετά avec le génitif. Il prépare le participe ἀνεχόμενοι, « vous supportant »."
+              }
+            }
+          },
+          {
+            "greek": "ἀνεχόμενοι",
+            "gloss": "vous_supportant/vous_soutenant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Se supporter dans l’amour",
+              "content": "Le sens direct de ἀνέχομαι est supporter, endurer ou prendre patience avec quelqu’un. Sa formation avec ἀνά et ἔχω peut ensuite nourrir une méditation, sans constituer à elle seule une traduction : tenir ce que l’on porte, offrir à Dieu ses certitudes et soutenir l’autre plutôt que l’enfermer dans ses défaillances. Dans le verset, cette patience n’est ni résignation ni tolérance distante ; elle reçoit sa forme de l’agapè et rend possible l’unité.",
+              "related": [
+                "μακροθυμίας,",
+                "ἀλλήλων",
+                "ἀγάπῃ"
+              ],
+              "grammar": {
+                "form": "ἀνεχόμενοι",
+                "lemma": "ἀνέχομαι",
+                "category": "Verbe déponent",
+                "parsing": "Présent moyen, participe, nominatif masculin pluriel",
+                "abbreviation": "PRÉS. MOY. PART. NOM. MASC. PL.",
+                "syntax": "Participe accordé avec les destinataires ; ἀλλήλων est son complément au génitif."
+              }
+            }
+          },
+          {
+            "greek": "ἀλλήλων",
+            "gloss": "les_uns_les_autres"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/en"
+          },
+          {
+            "greek": "ἀγάπῃ,",
+            "gloss": "amour"
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "translations": {
+          "segond": "vous efforçant de conserver l'unité de l'esprit par le lien de la paix.",
+          "darby": "vous appliquant à garder l'unité de l'Esprit par le lien de la paix."
+        },
+        "interlinear": [
+          {
+            "greek": "σπουδάζοντες",
+            "gloss": "vous_efforçant/vous_hâtant",
+            "annotation": {
+              "type": "analyse",
+              "title": "Vous appliquant à garder l’unité",
+              "content": "σπουδάζω signifie s’empresser, s’appliquer avec zèle. L’unité est un don de l’Esprit, mais sa garde demande une attention active de la communauté.",
+              "related": [
+                "τηρεῖν"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "σπουδάζοντες",
+                "lemma": "σπουδάζω",
+                "category": "Verbe",
+                "parsing": "Présent actif, participe, nominatif masculin pluriel",
+                "abbreviation": "PRÉS. ACT. PART. NOM. MASC. PL.",
+                "syntax": "Participe accordé avec les destinataires. Il gouverne l’infinitif τηρεῖν, « garder »."
+              }
+            }
+          },
+          {
+            "greek": "τηρεῖν",
+            "gloss": "de_garder/conserver",
+            "annotation": {
+              "type": "analyse",
+              "title": "Garder l’unité donnée",
+              "content": "τηρέω signifie garder, préserver ou observer. Paul ne demande pas de produire l’unité, mais de conserver dans la paix celle que donne l’Esprit.",
+              "related": [
+                "σπουδάζοντες",
+                "τὴν"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "τηρεῖν",
+                "lemma": "τηρέω",
+                "category": "Verbe contracte",
+                "parsing": "Présent actif, infinitif",
+                "abbreviation": "PRÉS. ACT. INF.",
+                "syntax": "Infinitif complémentaire de σπουδάζοντες. Son complément direct est τὴν ἑνότητα."
+              }
+            }
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "l'"
+          },
+          {
+            "greek": "ἑνότητα",
+            "gloss": "unité",
+            "annotation": {
+              "type": "analyse",
+              "title": "Garder l’unité de l’Esprit",
+              "content": "L’unité n’est pas fabriquée par la communauté : elle est celle de l’Esprit et doit être gardée dans le lien de la paix.",
+              "related": [
+                "τὴν",
+                "τοῦ"
+              ],
+              "grammar": {
+                "form": "ἑνότητα",
+                "lemma": "ἑνότης",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément direct de τηρεῖν, « garder »."
+              }
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "πνεύματος",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/par"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "le"
+          },
+          {
+            "greek": "συνδέσμῳ",
+            "gloss": "lien/jointure",
+            "annotation": {
+              "type": "racine",
+              "title": "Dans le lien de la paix",
+              "content": "σύνδεσμος désigne ce qui relie ou maintient ensemble. La paix n’est pas seulement absence de conflit : elle est le lien dans lequel l’unité de l’Esprit est gardée.",
+              "related": [
+                "τῷ",
+                "τῆς"
+              ],
+              "grammar": {
+                "form": "συνδέσμῳ",
+                "lemma": "σύνδεσμος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Datif masculin singulier",
+                "abbreviation": "DAT. MASC. SG.",
+                "syntax": "Complément de ἐν : ἐν τῷ συνδέσμῳ τῆς εἰρήνης, « dans le lien de la paix »."
+              }
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "εἰρήνης·",
+            "gloss": "paix"
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "translations": {
+          "segond": "Il y a un seul corps et un seul Esprit, comme aussi vous avez été appelés à une seule espérance par votre vocation ;",
+          "darby": "Il y a un seul corps et un seul Esprit, comme aussi vous avez été appelés pour une seule espérance de votre appel."
+        },
+        "interlinear": [
+          {
+            "greek": "Ἓν",
+            "gloss": "Un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Un seul corps",
+              "content": "La confession commence par l’unique corps. La diversité des membres n’abolit pas l’unité reçue dans le Christ.",
+              "related": [
+                "σῶμα"
+              ],
+              "grammar": {
+                "form": "ἕν",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral cardinal",
+                "parsing": "Nominatif neutre singulier",
+                "abbreviation": "NOM. NEUT. SG.",
+                "syntax": "S’accorde avec σῶμα dans une proposition nominale : « un seul corps »."
+              }
+            }
+          },
+          {
+            "greek": "σῶμα",
+            "gloss": "corps"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἓν",
+            "gloss": "un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Un seul Esprit",
+              "content": "L’unique Esprit anime l’unique corps et fonde l’appel commun de l’Église.",
+              "related": [
+                "καὶ",
+                "πνεῦμα,"
+              ],
+              "grammar": {
+                "form": "ἕν",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral cardinal",
+                "parsing": "Nominatif neutre singulier",
+                "abbreviation": "NOM. NEUT. SG.",
+                "syntax": "S’accorde avec πνεῦμα : « un seul Esprit »."
+              }
+            }
+          },
+          {
+            "greek": "πνεῦμα,",
+            "gloss": "Esprit"
+          },
+          {
+            "greek": "καθὼς",
+            "gloss": "comme"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ἐκλήθητε",
+            "gloss": "vous_avez_été_appelés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "un_seul"
+          },
+          {
+            "greek": "μιᾷ",
+            "gloss": "une_seule",
+            "annotation": {
+              "type": "analyse",
+              "title": "Dans une seule espérance",
+              "content": "La préposition ἐν gouverne le datif μιᾷ. Paul relie l’unique espérance à l’unique appel reçu par toute l’Église.",
+              "related": [
+                "ἓν",
+                "ἐλπίδι"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "μιᾷ",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral cardinal",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "S’accorde avec ἐλπίδι après la préposition ἐν : « dans une seule espérance »."
+              }
+            }
+          },
+          {
+            "greek": "ἐλπίδι",
+            "gloss": "espérance"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_l'"
+          },
+          {
+            "greek": "κλήσεως",
+            "gloss": "appel"
+          },
+          {
+            "greek": "ὑμῶν·",
+            "gloss": "de_vous"
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "translations": {
+          "segond": "il y a un seul Seigneur, une seule foi, un seul baptême,",
+          "darby": "un seul Seigneur, une seule foi, un seul baptême,"
+        },
+        "interlinear": [
+          {
+            "greek": "εἷς",
+            "gloss": "Un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Un seul Seigneur",
+              "content": "L’unité de l’Église reçoit son centre de l’unique Seigneur, Jésus Christ.",
+              "related": [
+                "κύριος,"
+              ],
+              "grammar": {
+                "form": "εἷς",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral cardinal",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "S’accorde avec κύριος : « un seul Seigneur »."
+              }
+            }
+          },
+          {
+            "greek": "κύριος,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "μία",
+            "gloss": "une_seule",
+            "annotation": {
+              "type": "repetition",
+              "title": "Une seule foi",
+              "content": "La foi est dite une parce qu’elle répond à l’unique Seigneur et rassemble l’Église dans une même confession.",
+              "related": [
+                "κύριος,",
+                "πίστις,"
+              ],
+              "grammar": {
+                "form": "μία",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral cardinal",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "S’accorde avec πίστις : « une seule foi »."
+              }
+            }
+          },
+          {
+            "greek": "πίστις,",
+            "gloss": "foi",
+            "annotation": {
+              "type": "analyse",
+              "title": "Une seule foi",
+              "content": "πίστις peut exprimer la foi, la confiance et la fidélité. Ici, elle nomme la foi commune qui répond à l’unique Seigneur.",
+              "related": [
+                "μία",
+                "ἓν"
+              ],
+              "importance": "major",
+              "lexical": {
+                "strong": "G4102",
+                "literal_senses": [
+                  "foi, confiance",
+                  "fidélité",
+                  "ce qui est cru ou confessé selon le contexte"
+                ],
+                "paradigm": "πίστις, génitif πίστεως, datif πίστει, accusatif πίστιν.",
+                "etymology": "Nom de la famille de πείθω, « persuader, faire confiance ». Voir Chantraine, s.v. πείθω.",
+                "theological_horizon": "La foi chrétienne unit confiance, confession et fidélité. Elle n’est pas seulement une opinion intérieure : elle reçoit le Christ et prend forme dans une vie ecclésiale."
+              },
+              "local": {
+                "reference": "Éphésiens 4,5, 25e dimanche après Pentecôte",
+                "expression": "εἷς κύριος, μία πίστις, ἓν βάπτισμα",
+                "literal": "Un seul Seigneur, une seule foi, un seul baptême.",
+                "translation": "Un seul Seigneur, une seule foi, un seul baptême.",
+                "syntax": "πίστις est un nominatif féminin singulier, déterminé par μία dans une confession sans verbe exprimé.",
+                "commentary": "L’unique foi ne désigne pas l’uniformité des tempéraments. Elle exprime la communion dans l’unique Seigneur reçue dans l’unique baptême."
+              },
+              "occurrences": [
+                {
+                  "reference": "Éphésiens 4,5",
+                  "greek": "εἷς κύριος, μία πίστις, ἓν βάπτισμα",
+                  "literal": "Un seul Seigneur, une seule foi, un seul baptême.",
+                  "context": "Confession de l’unité ecclésiale.",
+                  "theology": "La foi appartient à l’unité reçue du Seigneur et manifestée dans le baptême.",
+                  "current": true,
+                  "pericope_key": "325_after_pentecost_25",
+                  "reading_type": "apostle",
+                  "target_form": "πίστις,"
+                },
+                {
+                  "reference": "Galates 2,16",
+                  "greek": "διὰ πίστεως Ἰησοῦ Χριστοῦ",
+                  "literal": "Par la foi ou la fidélité de Jésus Christ.",
+                  "context": "Paul oppose la justification reçue dans la relation au Christ aux œuvres de la Loi.",
+                  "theology": "Le génitif ouvre un débat de traduction entre foi en Christ et fidélité du Christ.",
+                  "pericope_key": "97_cross_after",
+                  "reading_type": "apostle",
+                  "target_form": "πίστεως"
+                },
+                {
+                  "reference": "Hébreux 11,1",
+                  "greek": "ἔστιν δὲ πίστις ἐλπιζομένων ὑπόστασις",
+                  "literal": "La foi est la substance de ce qu’on espère.",
+                  "context": "Ouverture de la grande méditation sur la foi.",
+                  "theology": "La foi rend présente l’espérance et oriente l’existence vers la promesse de Dieu."
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G4102, πίστις",
+                  "url": "https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. πίστις, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CF%80%CE%AF%CF%83%CF%84%CE%B9%CF%82"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. πείθω",
+                  "url": ""
+                }
+              ],
+              "grammar": {
+                "form": "πίστις",
+                "lemma": "πίστις",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Noyau du groupe μία πίστις, « une seule foi »."
+              }
+            }
+          },
+          {
+            "greek": "ἓν",
+            "gloss": "un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Un seul baptême",
+              "content": "Le baptême est unique parce qu’il unit au même Christ et introduit dans le même corps.",
+              "related": [
+                "πίστις,",
+                "βάπτισμα,"
+              ],
+              "grammar": {
+                "form": "ἕν",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral cardinal",
+                "parsing": "Nominatif neutre singulier",
+                "abbreviation": "NOM. NEUT. SG.",
+                "syntax": "S’accorde avec βάπτισμα : « un seul baptême »."
+              }
+            }
+          },
+          {
+            "greek": "βάπτισμα,",
+            "gloss": "baptême",
+            "annotation": {
+              "type": "theologie",
+              "title": "Un seul baptême",
+              "content": "βάπτισμα désigne l’immersion baptismale. Dans la confession paulinienne, l’unique baptême appartient à la même unité que l’unique Seigneur et l’unique foi : il fait entrer dans la mort et la résurrection du Christ.",
+              "related": [
+                "ἓν"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "βάπτισμα",
+                "lemma": "βάπτισμα",
+                "category": "Nom neutre de la troisième déclinaison",
+                "parsing": "Nominatif neutre singulier",
+                "abbreviation": "NOM. NEUT. SG.",
+                "syntax": "Noyau du groupe ἓν βάπτισμα, « un seul baptême », dans une confession nominale sans verbe exprimé."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "translations": {
+          "segond": "un seul Dieu et Père de tous, qui est au-dessus de tous, et parmi tous, et en tous.",
+          "darby": "un seul Dieu et Père de tous, qui est au-dessus de tous, et par tous, et en nous tous."
+        },
+        "interlinear": [
+          {
+            "greek": "εἷς",
+            "gloss": "Un_seul",
+            "annotation": {
+              "type": "repetition",
+              "title": "Un seul Dieu et Père de tous",
+              "content": "La série atteint son sommet dans la confession de l’unique Dieu et Père, au-dessus de tous, agissant par tous et en tous.",
+              "related": [
+                "θεὸς"
+              ],
+              "grammar": {
+                "form": "εἷς",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral cardinal",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "S’accorde avec θεός : « un seul Dieu et Père de tous »."
+              }
+            }
+          },
+          {
+            "greek": "θεὸς",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πατὴρ",
+            "gloss": "Père"
+          },
+          {
+            "greek": "πάντων,",
+            "gloss": "de_tous"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "celui"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur/au-dessus_de",
+            "annotation": {
+              "type": "traduction",
+              "title": "Au-dessus de tous",
+              "content": "Paul confesse un seul Dieu et Père de tous, puis déploie cette relation en trois expressions : au-dessus de tous, par tous et en tous. La transcendance divine n’est donc pas séparée de son action et de sa présence.",
+              "related": [
+                "ὁ",
+                "πάντων"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ἐπί",
+                "lemma": "ἐπί",
+                "category": "Préposition",
+                "parsing": "Construite ici avec le génitif",
+                "abbreviation": "PRÉP. + GÉN.",
+                "syntax": "Introduit πάντων : ὁ ἐπὶ πάντων, « celui qui est au-dessus de tous »."
+              }
+            }
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "tous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_travers",
+            "annotation": {
+              "type": "traduction",
+              "title": "Par tous",
+              "content": "διά avec le génitif exprime ici le passage ou l’action à travers. L’expression est encadrée par « au-dessus de tous » et « en tous », dans une confession de la présence agissante de Dieu.",
+              "related": [
+                "καὶ",
+                "πάντων"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "διά",
+                "lemma": "διά",
+                "category": "Préposition",
+                "parsing": "Construite ici avec le génitif",
+                "abbreviation": "PRÉP. + GÉN.",
+                "syntax": "Introduit πάντων : διὰ πάντων, « par tous » ou « à travers tous »."
+              }
+            }
+          },
+          {
+            "greek": "πάντων",
+            "gloss": "tous"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans/en",
+            "annotation": {
+              "type": "repetition",
+              "title": "En tous",
+              "content": "La troisième expression place la présence de Dieu « en tous ». Elle achève la série sans confondre Dieu avec la création : le Père demeure au-dessus de tous, agit par tous et est présent en tous.",
+              "related": [
+                "καὶ",
+                "πᾶσιν."
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "ἐν",
+                "lemma": "ἐν",
+                "category": "Préposition",
+                "parsing": "Construite avec le datif",
+                "abbreviation": "PRÉP. + DAT.",
+                "syntax": "Introduit πᾶσιν : ἐν πᾶσιν, « en tous »."
+              }
+            }
+          },
+          {
+            "greek": "πᾶσιν.",
+            "gloss": "tous"
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "translations": {
+          "segond": "Mais à chacun de nous la grâce a été donnée selon la mesure du don de Christ.",
+          "darby": "Mais à chacun de nous la grâce a été donnée selon la mesure du don du Christ."
+        },
+        "interlinear": [
+          {
+            "greek": "Ἑνὶ",
+            "gloss": "À_un_seul/À_chacun"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or/mais"
+          },
+          {
+            "greek": "ἑκάστῳ",
+            "gloss": "chacun"
+          },
+          {
+            "greek": "ἡμῶν",
+            "gloss": "de_nous"
+          },
+          {
+            "greek": "ἐδόθη",
+            "gloss": "fut_donnée"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "χάρις",
+            "gloss": "grâce"
+          },
+          {
+            "greek": "κατὰ",
+            "gloss": "selon/vers_le_bas",
+            "annotation": {
+              "type": "traduction",
+              "title": "Selon la mesure du don",
+              "content": "κατά suivi de l’accusatif exprime ici la conformité : la grâce est donnée à chacun selon la mesure du don du Christ. L’unité ecclésiale ne supprime donc pas la diversité des dons.",
+              "related": [
+                "χάρις",
+                "τὸ"
+              ],
+              "grammar": {
+                "form": "κατά",
+                "lemma": "κατά",
+                "category": "Préposition",
+                "parsing": "Construite ici avec l’accusatif",
+                "abbreviation": "PRÉP. + ACC.",
+                "syntax": "Introduit τὸ μέτρον : κατὰ τὸ μέτρον, « selon la mesure »."
+              }
+            }
+          },
+          {
+            "greek": "τὸ",
+            "gloss": "la"
+          },
+          {
+            "greek": "μέτρον",
+            "gloss": "mesure",
+            "annotation": {
+              "type": "analyse",
+              "title": "La mesure du don du Christ",
+              "content": "μέτρον signifie mesure. Après la série de l’unique Corps, de l’unique Seigneur et de l’unique foi, Paul affirme que la grâce est donnée personnellement à chacun : unité ne signifie pas uniformité.",
+              "related": [
+                "τὸ",
+                "τῆς"
+              ],
+              "importance": "major",
+              "grammar": {
+                "form": "μέτρον",
+                "lemma": "μέτρον",
+                "category": "Nom neutre de la deuxième déclinaison",
+                "parsing": "Accusatif neutre singulier",
+                "abbreviation": "ACC. NEUT. SG.",
+                "syntax": "Complément de κατά avec l’accusatif. Le génitif τῆς δωρεᾶς τοῦ Χριστοῦ précise la mesure du don du Christ."
+              }
+            }
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "du"
+          },
+          {
+            "greek": "δωρεᾶς",
+            "gloss": "don/gratuité"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "Χριστοῦ.",
+            "gloss": "Christ"
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur le texte grec :\n\n• ταπεινοφροσύνη associe l’idée d’abaissement à celle de disposition intérieure. L’humilité demandée par Paul règle la manière de vivre avec les autres.\n• ἀνεχόμενοι signifie « vous supportant » ou « vous portant les uns les autres ». Le support mutuel est qualifié par l’amour et la patience.\n• διὰ πάντων peut se traduire « à travers tous ». Avec ἐπὶ πάντων et ἐν πᾶσιν, l’expression déploie la souveraineté et la présence agissante de Dieu sans confondre Dieu et la création.\n\nAnalyse :\n\nPaul ne demande pas à l’Église de fabriquer son unité. Elle reçoit un seul Corps, un seul Esprit, une seule espérance, un seul Seigneur, une seule foi, un seul baptême et un seul Dieu et Père. Les vertus nommées au début du passage servent à garder cette unité dans la vie réelle.\n\nL’humilité, la douceur, la patience et le support mutuel donnent une forme concrète à la communion. Elles rejoignent ainsi la parabole : se faire prochain, c’est consentir à porter une part du poids de l’autre.\n\nLe verset 7 maintient la diversité à l’intérieur de l’unité : la grâce est donnée à chacun selon la mesure du don du Christ. L’unité ecclésiale n’uniformise donc pas les personnes ; elle ordonne les dons différents au service du même Corps.",
+    "homiletic_axes": [
+      {
+        "title": "Une vocation qui prend la forme de l’humilité et de la patience",
+        "content": "Le Samaritain ne revendique aucun rang : il s’abaisse vers l’homme blessé et lui donne du temps. Paul décrit cette manière de marcher par l’humilité, la douceur, la patience et le support mutuel.",
+        "keywords": [
+          "ταπεινοφροσύνης",
+          "πραΰτητος,",
+          "μακροθυμίας,"
+        ]
+      },
+      {
+        "title": "Garder l’unité en se faisant prochain",
+        "content": "Jésus déplace la question de l’identité du prochain vers l’acte de se rendre proche. L’Apôtre montre que cette proximité garde concrètement l’unité reçue de l’Esprit dans le lien de la paix.",
+        "keywords": [
+          "τηρεῖν",
+          "ἑνότητα",
+          "εἰρήνης·"
+        ]
+      },
+      {
+        "title": "L’unité n’efface pas le don propre de chacun",
+        "content": "Un seul corps et un seul Esprit ne produisent pas une uniformité anonyme. La grâce est donnée à chacun selon la mesure du don du Christ, afin que chaque personne puisse servir la communion d’une manière singulière.",
+        "keywords": [
+          "Ἑνὶ",
+          "ἑκάστῳ",
+          "χάρις"
+        ]
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Choisissez librement une entrée dans les deux lectures du 25e dimanche après la Pentecôte : une parole, un geste, une opposition, une racine grecque ou leur écho mutuel."
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Mouvement des deux lectures",
+        "prompt": "Suivez la progression de l’Évangile, puis regardez comment l’Apôtre l’approfondit ou en montre le fruit. Une seule correspondance bien développée peut suffire."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle annoncée",
+        "prompt": "Formulez ce que Dieu accomplit et donne ici. Gardez le Christ au centre et distinguez clairement le don reçu de la réponse humaine."
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Expérience humaine rejointe",
+        "prompt": "Choisissez une expérience concrète réellement éclairée par les textes : enfermement, attente, blessure, isolement, accumulation, courbure, peur ou désir de retrouver une relation vivante."
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Passage proposé",
+        "prompt": "Ouvrez une réponse libre et praticable : écouter, se laisser rejoindre, toucher avec délicatesse, devenir prochain, partager, se redresser ou recevoir la grâce."
+      },
+      {
+        "id": "oral",
+        "phase": "proclamation",
+        "title": "6. Mise en voix",
+        "prompt": "Gardez une image dominante et une progression sobre. Distinguez le sens direct du texte de ses réceptions spirituelles et évitez toute culpabilisation des personnes malades ou éprouvées."
+      }
+    ],
+    "liturgical_echoes": []
+  },
+  "reading_connections": {
+    "title": "Marcher selon l’appel en devenant le prochain",
+    "summary": "Paul appelle à marcher d’une manière digne de la vocation, dans l’amour et l’unité, chacun recevant la grâce comme un don du Christ. La parabole montre ce chemin lorsque le Samaritain s’approche, soigne et donne pour l’homme blessé.",
+    "links": [
+      {
+        "directness": "direct",
+        "kind": "same_root",
+        "link_type": "love_in_action",
+        "title": "Se supporter dans l’amour, tu aimeras",
+        "explanation": "Paul situe l’ἀνεχόμενοι ἀλλήλων ἐν ἀγάπῃ au cœur de la vie communautaire ; la Loi répond Ἀγαπήσεις Dieu et le prochain. La famille ἀγαπ- unit le commandement reçu à sa mise en œuvre patiente.",
+        "bridge_sentence": "L’amour du Seigneur devient capacité de porter l’autre et de s’approcher de celui que la route a brisé.",
+        "homiletic_use": "Éviter un amour seulement affectif : chez Paul comme dans la parabole, il prend une forme durable, coûteuse et corporelle.",
+        "bridge": {
+          "evidence": "Même famille ἀγαπ- : ἀγάπῃ / Ἀγαπήσεις",
+          "gospel": "Ἀγαπήσεις Κύριον… καὶ τὸν πλησίον σου : tu aimeras le Seigneur… et ton prochain",
+          "relation": "Le commandement d’aimer reçoit une forme communautaire et concrète",
+          "apostle": "ἀνεχόμενοι ἀλλήλων ἐν ἀγάπῃ : vous supportant les uns les autres dans l’amour",
+          "detail": "Le nom ἀγάπη et le futur à valeur impérative ἀγαπήσεις appartiennent à la même famille."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "Ἀγαπήσεις"
+              ],
+              "lemma": "ἀγαπάω",
+              "root": "ἀγαπ- : aimer",
+              "literal": "tu aimeras",
+              "role": "L’amour de Dieu et du prochain résume l’orientation de la Loi."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "ἀγάπῃ"
+              ],
+              "lemma": "ἀγάπη",
+              "root": "ἀγαπ- : amour",
+              "literal": "dans l’amour",
+              "role": "L’amour est le milieu où patience et soutien mutuel deviennent possibles."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "27"
+          ],
+          "terms": [
+            "Ἀγαπήσεις"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "2"
+          ],
+          "terms": [
+            "ἀγάπῃ"
+          ]
+        }
+      },
+      {
+        "directness": "indirect",
+        "kind": "theology",
+        "link_type": "worthy_walk",
+        "title": "Marcher selon l’appel, va et fais de même",
+        "explanation": "Paul commande ἀξίως περιπατῆσαι, « marcher dignement » ; Jésus conclut Πορεύου καὶ σὺ ποίει ὁμοίως. Les verbes de marche diffèrent, mais les deux lectures refusent une connaissance qui ne devient pas chemin et action.",
+        "bridge_sentence": "La vocation chrétienne se vérifie sur la route, lorsque le disciple va et fait à son tour miséricorde.",
+        "homiletic_use": "Faire du déplacement une structure de l’homélie : voir, passer à distance ou s’approcher, prendre soin, puis repartir avec un commandement.",
+        "bridge": {
+          "evidence": "Champ du chemin, lexèmes distincts : περιπατέω / πορεύομαι",
+          "gospel": "Πορεύου καὶ σὺ ποίει ὁμοίως : va, et toi aussi fais de même",
+          "relation": "L’identité reçue par l’appel devient une conduite concrète",
+          "apostle": "ἀξίως περιπατῆσαι τῆς κλήσεως : marcher d’une manière digne de l’appel",
+          "detail": "Il s’agit d’une convergence d’action, non d’une racine grecque commune."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "Πορεύου",
+                "ποίει"
+              ],
+              "lemma": "πορεύομαι / ποιέω",
+              "root": "πορευ- : aller ; ποι- : faire",
+              "literal": "va / fais",
+              "role": "Jésus transforme la juste réponse du légiste en mission pratique."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "περιπατῆσαι",
+                "κλήσεως"
+              ],
+              "lemma": "περιπατέω / κλῆσις",
+              "root": "περι- + πατ- : marcher ; κλη- : appel",
+              "literal": "marcher / appel",
+              "role": "La conduite entière doit correspondre au don de la vocation."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "37"
+          ],
+          "terms": [
+            "Πορεύου",
+            "ποίει"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "1"
+          ],
+          "terms": [
+            "περιπατῆσαι",
+            "κλήσεως"
+          ]
+        }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_root",
+        "link_type": "gift_and_care",
+        "title": "La grâce donnée à chacun, il donna pour prendre soin",
+        "explanation": "Paul dit Ἑνὶ δὲ ἑκάστῳ… ἐδόθη ἡ χάρις selon la δωρεά du Christ. Le Samaritain ἔδωκεν deux deniers et promet ἀποδώσω. La famille δο-/δω- fait passer du don reçu du Christ au don engagé pour la guérison d’autrui.",
+        "bridge_sentence": "Le don du Christ devient chez le disciple une ressource mise au service du blessé.",
+        "homiletic_use": "Ne pas réduire les deux deniers à un symbole arbitraire : le sens direct suffit déjà, car la compassion accepte une dépense présente et une responsabilité future.",
+        "bridge": {
+          "evidence": "Famille du don δο-/δω- : ἐδόθη / δωρεᾶς et ἔδωκεν / ἀποδώσω",
+          "gospel": "ἔδωκεν τῷ πανδοχεῖ… ἀποδώσω σοι : il donna à l’aubergiste… je te rendrai",
+          "relation": "La grâce reçue se traduit en don concret et en soin continué",
+          "apostle": "ἑκάστῳ ἡμῶν ἐδόθη ἡ χάρις… τῆς δωρεᾶς τοῦ Χριστοῦ : à chacun de nous la grâce a été donnée… selon le don du Christ",
+          "detail": "Les formes relèvent de δίδωμι, rendre/donner, et du nom δωρεά, don."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "ἔδωκεν",
+                "ἀποδώσω"
+              ],
+              "lemma": "δίδωμι / ἀποδίδωμι",
+              "root": "δο-/δω- : donner, rendre",
+              "literal": "il donna / je rendrai",
+              "role": "Le soin du Samaritain mobilise ses biens et l’engage au-delà de l’instant."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "ἐδόθη",
+                "δωρεᾶς"
+              ],
+              "lemma": "δίδωμι / δωρεά",
+              "root": "δο-/δω- : donner, don",
+              "literal": "fut donnée / don",
+              "role": "La diversité des grâces vient d’un même Christ donateur."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "35"
+          ],
+          "terms": [
+            "ἔδωκεν",
+            "ἀποδώσω"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "7"
+          ],
+          "terms": [
+            "ἐδόθη",
+            "δωρεᾶς"
+          ]
+        }
+      }
+    ]
+  }
+}

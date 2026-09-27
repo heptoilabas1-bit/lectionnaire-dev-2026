@@ -1,0 +1,146 @@
+{
+  "title": "Le fil de l’année liturgique",
+  "introduction": "Cette version de démonstration présente quatre stations du cycle liturgique et permet d’ouvrir directement leurs péricopes.",
+  "overview": [
+    {
+      "title": "Quatre péricopes de démonstration",
+      "mobile": "Neuvième et vingt-cinquième dimanches après Pentecôte, dimanche des saints Ancêtres",
+      "fixed": [
+        "Dimanche après l’Exaltation de la Sainte Croix"
+      ]
+    }
+  ],
+  "prototype": {
+    "id": "demo",
+    "selector_label": "Quatre péricopes",
+    "title": "Quatre stations de l’année liturgique",
+    "introduction": "Chaque station ouvre une péricope complète de la démonstration, avec son Évangile, son Apôtre et ses outils d’étude.",
+    "stages": [
+      {
+        "id": "after-cross",
+        "key": "97_cross_after",
+        "short_label": "Après la Croix",
+        "title": "Dimanche après l’Exaltation de la Croix",
+        "position": "Dimanche propre suivant le 14 septembre, réception personnelle du mystère célébré",
+        "sense": "Renoncement, suite et vie",
+        "summary": "Prendre sa croix ne signifie pas rechercher la souffrance, mais suivre le Christ et recevoir sa vie. Paul exprime cette union sans disparition de la personne : le Christ vit en moi.",
+        "readings": {
+          "gospel": "Marc 8, 34 - 9, 1",
+          "apostle": "Galates 2, 16-20"
+        },
+        "comparison": false,
+        "links": [
+          {
+            "type": "liturgical",
+            "label": "Placement liturgique",
+            "text": "Après l’élévation liturgique de la Croix, l’Église entend son implication baptismale et quotidienne : renoncer à l’autosuffisance pour marcher derrière le Christ."
+          },
+          {
+            "type": "greek",
+            "label": "Lien grec direct",
+            "text": "σταυρός dans l’Évangile et συνεσταύρωμαι dans l’Apôtre partagent directement la racine de la Croix : porter sa croix est éclairé par « j’ai été crucifié avec le Christ »."
+          },
+          {
+            "type": "homiletic",
+            "label": "Vers la pêche de Luc",
+            "text": "Renoncer à soi prépare un nouveau commencement. Lorsque Luc reprend le récit de l’appel, Pierre lâche sa maîtrise, avance en profondeur sur une parole et laisse finalement tout pour suivre."
+          }
+        ]
+      },
+      {
+        "id": "good-samaritan",
+        "key": "325_after_pentecost_25",
+        "short_label": "Bon Samaritain",
+        "title": "Le Bon Samaritain",
+        "position": "Huitième dimanche de Luc, de la définition du prochain à l’acte de proximité",
+        "sense": "Descente, compassion et soin",
+        "summary": "La question « qui est mon prochain ? » devient une autre question : de qui vais-je me faire proche ? Le Samaritain voit, s’approche, soigne et confie l’homme blessé à une demeure d’accueil.",
+        "readings": {
+          "gospel": "Luc 10, 25-37",
+          "apostle": "Éphésiens 4, 1-7"
+        },
+        "comparison": false,
+        "links": [
+          {
+            "type": "liturgical",
+            "label": "Placement liturgique",
+            "text": "Après les guérisons où le Christ rejoint une personne dans la foule, l’Église entend l’ordre de reproduire ce mouvement : ne pas passer à distance, mais devenir soi-même prochain."
+          },
+          {
+            "type": "greek",
+            "label": "Lien de sens grec",
+            "text": "πλησίον, le prochain, et ἑνότης, l’unité, ne partagent pas de racine. Ils forment cependant un lien sémantique précis : l’unité de l’Esprit devient visible lorsque quelqu’un s’approche et porte l’autre avec patience."
+          },
+          {
+            "type": "homiletic",
+            "label": "Vers le riche insensé",
+            "text": "Le Samaritain dépense pour sauver une vie ; le riche du repère suivant accumule pour sécuriser la sienne. Les deux récits opposent une richesse qui circule à une richesse enfermée."
+          }
+        ]
+      },
+      {
+        "id": "holy-ancestors",
+        "key": "90_advent_2",
+        "short_label": "Saints Ancêtres",
+        "title": "Dimanche des Saints Ancêtres",
+        "position": "Deuxième dimanche avant la Nativité, l’invitation adressée à travers l’histoire",
+        "sense": "Appel, refus et maison remplie",
+        "summary": "Le grand repas est préparé, mais les premiers invités s’enferment dans leurs acquisitions et leurs occupations. L’appel rejoint alors les pauvres et les exclus afin que la maison soit remplie.",
+        "readings": {
+          "gospel": "Luc 14, 16-24",
+          "apostle": "Colossiens 3, 4-11"
+        },
+        "comparison": false,
+        "links": [
+          {
+            "type": "liturgical",
+            "label": "Placement liturgique",
+            "text": "En commémorant les Ancêtres, l’Église ne célèbre pas une noblesse du passé : elle entend l’invitation de Dieu parcourir l’histoire et appeler un peuple disponible à l’Incarnation."
+          },
+          {
+            "type": "greek",
+            "label": "Fil grec repris",
+            "text": "ἀπεκδυσάμενοι et ἐνδυσάμενοι, se dépouiller et se revêtir, reprennent l’Apôtre des dix lépreux. L’invitation au banquet demande de quitter les identités qui enferment pour revêtir l’homme nouveau."
+          },
+          {
+            "type": "homiletic",
+            "label": "Vers la généalogie",
+            "text": "La maison doit se remplir ; la généalogie montrera comment Dieu accueille une histoire humaine concrète, irrégulière et blessée pour y faire demeurer l’Emmanuel."
+          }
+        ]
+      },
+      {
+        "id": "walking-water",
+        "key": "309_after_pentecost_9",
+        "short_label": "Sur les eaux",
+        "title": "Jésus et Pierre sur les eaux",
+        "position": "Neuvième dimanche de Matthieu, la communauté éprouve son fondement dans la tempête",
+        "sense": "Peur, marche et main saisie",
+        "summary": "Pierre sort, marche, s’enfonce et est saisi par le Christ. L’Apôtre déplace la même question vers l’Église : sur quel fondement et avec quels matériaux bâtissons-nous ?",
+        "readings": {
+          "gospel": "Matthieu 14, 22-34",
+          "apostle": "1 Corinthiens 3, 9-17"
+        },
+        "comparison": false,
+        "links": [
+          {
+            "type": "liturgical",
+            "label": "Placement liturgique",
+            "text": "Après le repas partagé vient l’épreuve de la traversée. Le don reçu n’abolit pas la peur, mais rend possible l’appel : « Seigneur, sauve-moi. »"
+          },
+          {
+            "type": "greek",
+            "label": "Double écho grec",
+            "text": "περιπατέω rappelle Jésus marchant au début de l’appel des disciples ; οἰκοδομή prolonge l’édification du prochain rencontrée au dimanche des deux aveugles."
+          },
+          {
+            "type": "homiletic",
+            "label": "Vers l’enfant éprouvé",
+            "text": "Pierre découvre sa faiblesse au milieu des eaux ; le père du dimanche suivant apporte au Christ une impuissance plus douloureuse encore. Dans les deux cas, la foi devient un appel au secours."
+          }
+        ]
+      }
+    ]
+  },
+  "additional_paths": []
+}

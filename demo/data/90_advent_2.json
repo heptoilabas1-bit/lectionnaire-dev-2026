@@ -1,0 +1,2282 @@
+{
+  "gospel": {
+    "reference": "Luc 14, 16-24",
+    "title": "La parabole du grand souper",
+    "interlinear": [
+      {
+        "verse_number": 16,
+        "translations": {
+          "segond": "Et Jésus lui répondit : Un homme fit un grand souper, et il invita beaucoup de gens.",
+          "darby": "Mais il lui dit : Un homme fit un grand souper et convia beaucoup de gens."
+        },
+        "interlinear": [
+          {
+            "greek": "Ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἄνθρωπός",
+            "gloss": "Un_homme"
+          },
+          {
+            "greek": "τις",
+            "gloss": "quelqu'un"
+          },
+          {
+            "greek": "ἐποίει",
+            "gloss": "faisait/fit"
+          },
+          {
+            "greek": "δεῖπνον",
+            "gloss": "un_souper/repas",
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Un grand souper",
+              "content": "δεῖπνον désigne le repas principal, souvent pris le soir. Dans la parabole, le grand souper devient l’image du Royaume offert : l’initiative appartient à celui qui invite.",
+              "grammar": {
+                "form": "δεῖπνον",
+                "lemma": "δεῖπνον",
+                "category": "Nom neutre de la deuxième déclinaison",
+                "parsing": "Accusatif neutre singulier",
+                "abbreviation": "ACC. NEUT. SG.",
+                "syntax": "Complément direct de ἐποίει, « il préparait ». L’adjectif μέγα s’accorde avec lui."
+              }
+            }
+          },
+          {
+            "greek": "μέγα,",
+            "gloss": "grand"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐκάλεσεν",
+            "gloss": "il_appela/invita"
+          },
+          {
+            "greek": "πολλούς·",
+            "gloss": "beaucoup"
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "translations": {
+          "segond": "A l'heure du souper, il envoya son serviteur dire aux conviés : Venez, car tout est déjà prêt.",
+          "darby": "Et, à l'heure du souper, il envoya son esclave pour dire aux conviés : Venez, car déjà tout est prêt."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἀπέστειλεν",
+            "gloss": "il_envoya"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "δοῦλον",
+            "gloss": "esclave/serviteur",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Il envoya son serviteur",
+              "content": "Le serviteur porte aux invités la parole du maître : tout est prêt. Dans la lecture ecclésiale, sa mission peut évoquer les prophètes et les envoyés de Dieu, sans effacer sa fonction dans le récit.",
+              "grammar": {
+                "form": "δοῦλον",
+                "lemma": "δοῦλος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct de ἀπέστειλεν, « il envoya ». Le génitif αὐτοῦ signifie « son serviteur »."
+              }
+            }
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "τῇ",
+            "gloss": "à_l'"
+          },
+          {
+            "greek": "ὥρᾳ",
+            "gloss": "heure",
+            "annotation": {
+              "type": "analyse",
+              "title": "À l’heure du souper",
+              "content": "L’invitation devient actuelle à l’heure fixée : « Venez, car tout est déjà prêt. » Le temps de la préparation cède la place au temps de la réponse.",
+              "grammar": {
+                "form": "ὥρᾳ",
+                "lemma": "ὥρα",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "Datif de temps dans τῇ ὥρᾳ τοῦ δείπνου, « à l’heure du souper »."
+              }
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "du"
+          },
+          {
+            "greek": "δείπνου",
+            "gloss": "souper"
+          },
+          {
+            "greek": "εἰπεῖν",
+            "gloss": "dire"
+          },
+          {
+            "greek": "τοῖς",
+            "gloss": "aux"
+          },
+          {
+            "greek": "κεκλημένοις·",
+            "gloss": "ayant_été_appelés"
+          },
+          {
+            "greek": "Ἔρχεσθε,",
+            "gloss": "Venez"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "car"
+          },
+          {
+            "greek": "ἤδη",
+            "gloss": "déjà"
+          },
+          {
+            "greek": "ἕτοιμά",
+            "gloss": "prêt/achevé",
+            "annotation": {
+              "type": "traduction",
+              "importance": "major",
+              "title": "Tout est déjà prêt",
+              "content": "ἕτοιμος signifie prêt ou préparé. L’invitation ne demande pas aux convives d’achever le banquet : elle les appelle à entrer dans ce qui leur est offert.",
+              "grammar": {
+                "form": "ἕτοιμα",
+                "lemma": "ἕτοιμος",
+                "category": "Adjectif",
+                "parsing": "Nominatif neutre pluriel",
+                "abbreviation": "NOM. NEUT. PL.",
+                "syntax": "Attribut d’un sujet neutre pluriel sous-entendu dans ἤδη ἕτοιμά ἐστιν, « tout est déjà prêt »."
+              }
+            }
+          },
+          {
+            "greek": "ἐστιν.",
+            "gloss": "est"
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "translations": {
+          "segond": "Et tous unanimement se mirent à s'excuser. Le premier lui dit : J'ai acheté un champ, et je suis obligé d'aller le voir ; excuse-moi, je te prie.",
+          "darby": "Et ils se mirent tous, unanimement, à s'excuser. Le premier lui dit : J'ai acheté un champ, et il me faut nécessairement sortir et le voir ; je te prie, tiens-moi pour excusé."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἤρξαντο",
+            "gloss": "ils_commencèrent"
+          },
+          {
+            "greek": "ἀπὸ",
+            "gloss": "à_partir_de"
+          },
+          {
+            "greek": "μιᾶς",
+            "gloss": "une_[seule_voix]/unanimement",
+            "annotation": {
+              "type": "racine",
+              "importance": "major",
+              "title": "εἷς, μία, ἕν, un, une",
+              "content": "μιᾶς est ici la forme féminine au génitif singulier de εἷς, μία, ἕν. Dans ἀπὸ μιᾶς, la préposition ἀπό marque le point de départ : littéralement, « à partir d’une seule ». L’expression reçoit ensuite, dans cette péricope, une lecture théologique de l’unité.",
+              "grammar": {
+                "form": "μιᾶς",
+                "lemma": "εἷς, μία, ἕν",
+                "category": "Adjectif numéral cardinal",
+                "parsing": "Génitif féminin singulier",
+                "abbreviation": "GÉN. FÉM. SG.",
+                "syntax": "Complément de la préposition ἀπό dans ἀπὸ μιᾶς. Le féminin peut reprendre une idée sous-entendue telle que γνώμη, « disposition, intention » ; l’ensemble fonctionne comme une locution adverbiale."
+              },
+              "lexical": {
+                "strong": "G1520",
+                "literal_senses": [
+                  "un ou une",
+                  "un seul ou une seule",
+                  "l’unité selon le contexte"
+                ],
+                "paradigm": "Masculin εἷς, féminin μία, neutre ἕν ; génitif masculin et neutre ἑνός, féminin μιᾶς.",
+                "etymology": "Ancien numéral indo-européen, avec des formes de thème différentes selon le genre et le cas. Voir Chantraine, s.v. εἷς.",
+                "distinctions": [
+                  "εἷς, μία, ἕν exprime le nombre un et, selon le contexte, l’unicité.",
+                  "ὁμός signifie « même » et marque l’identité ou la communauté.",
+                  "L’alpha copulatif réunit dans certains composés ; il ne doit pas être confondu avec l’alpha privatif qui marque l’absence."
+                ],
+                "theological_horizon": "L’Écriture emploie εἷς, μία, ἕν pour confesser le Dieu Un et pour dire l’unité reçue de lui. Cette portée ne supprime jamais l’analyse propre à chaque phrase."
+              },
+              "local": {
+                "reference": "Luc 14,18, dimanche des saints Ancêtres",
+                "expression": "ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι",
+                "literal": "Tous commencèrent, à partir d’une seule disposition, à s’excuser.",
+                "translation": "Tous, d’un même mouvement, commencèrent à s’excuser.",
+                "syntax": "ἀπό gouverne le génitif μιᾶς. La locution ἀπὸ μιᾶς décrit le caractère commun et simultané de leur réponse.",
+                "commentary": "La formule peut être entendue comme un contraste : les invités ont leur origine et leur vocation dans l’Un, mais ils donnent ensemble une réponse de refus. « Tous sortant de l’Un » est ici une lecture théologique du mouvement de la phrase, et non sa traduction grammaticale.",
+                "caution": "Il faut maintenir la distinction entre le sens syntaxique de la locution, « d’un même mouvement », et son approfondissement théologique."
+              },
+              "occurrences": [
+                {
+                  "reference": "Deutéronome 6,4",
+                  "greek": "κύριος ὁ θεὸς ἡμῶν κύριος εἷς ἐστιν",
+                  "literal": "Le Seigneur notre Dieu est l’unique Seigneur.",
+                  "context": "Confession fondamentale d’Israël.",
+                  "theology": "L’unité divine fonde l’écoute et l’amour sans partage."
+                },
+                {
+                  "reference": "Marc 12,29",
+                  "greek": "κύριος ὁ θεὸς ἡμῶν κύριος εἷς ἐστιν",
+                  "literal": "Le Seigneur notre Dieu est l’unique Seigneur.",
+                  "context": "Jésus répond au premier commandement.",
+                  "theology": "L’amour de Dieu et celui du prochain sont enracinés dans la confession du Dieu Un."
+                },
+                {
+                  "reference": "Jean 10,30",
+                  "greek": "ἐγὼ καὶ ὁ πατὴρ ἕν ἐσμεν",
+                  "literal": "Moi et le Père, nous sommes un.",
+                  "context": "Jésus parle de son unité avec le Père.",
+                  "theology": "Le neutre ἕν exprime l’unité sans confondre les personnes."
+                },
+                {
+                  "reference": "Jean 17,21",
+                  "greek": "ἵνα πάντες ἓν ὦσιν",
+                  "literal": "Afin que tous soient un.",
+                  "context": "Prière du Christ pour ses disciples.",
+                  "theology": "L’unité ecclésiale est reçue de la communion du Père et du Fils."
+                },
+                {
+                  "reference": "Éphésiens 4,5",
+                  "greek": "εἷς κύριος, μία πίστις, ἓν βάπτισμα",
+                  "literal": "Un seul Seigneur, une seule foi, un seul baptême.",
+                  "context": "Acclamation de l’unité de l’Église.",
+                  "theology": "L’unité de la communauté répond à l’unicité du Seigneur et de son don.",
+                  "pericope_key": "325_after_pentecost_25",
+                  "reading_type": "apostle",
+                  "target_form": "μία"
+                },
+                {
+                  "reference": "Luc 14,18",
+                  "greek": "ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι",
+                  "literal": "Tous commencèrent, à partir d’une seule disposition, à s’excuser.",
+                  "context": "Les premiers invités refusent ensemble le grand souper.",
+                  "theology": "Le mouvement commun des refus devient le lieu d’un appel à retrouver l’unité reçue de Dieu.",
+                  "current": true,
+                  "pericope_key": "90_advent_2",
+                  "reading_type": "gospel",
+                  "target_form": "μιᾶς"
+                }
+              ],
+              "sources": [
+                {
+                  "label": "Strong G1520, εἷς",
+                  "url": "https://www.blueletterbible.org/lexicon/g1520/kjv/tr/0-1/"
+                },
+                {
+                  "label": "LSJ, s.v. εἷς, Logeion",
+                  "url": "https://logeion.uchicago.edu/%CE%B5%E1%BC%B7%CF%82"
+                },
+                {
+                  "label": "Texte grec de Luc 14,18, Greek Bible",
+                  "url": "https://www.greekbible.com/luke/14/18"
+                },
+                {
+                  "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. εἷς",
+                  "url": ""
+                }
+              ]
+            }
+          },
+          {
+            "greek": "πάντες",
+            "gloss": "tous"
+          },
+          {
+            "greek": "παραιτεῖσθαι.",
+            "gloss": "à_s'excuser/se_dérober"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "Le"
+          },
+          {
+            "greek": "πρῶτος",
+            "gloss": "premier"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "αὐτῷ·",
+            "gloss": "à_lui"
+          },
+          {
+            "greek": "Ἀγρὸν",
+            "gloss": "Un_champ",
+            "annotation": {
+              "type": "analyse",
+              "title": "J’ai acheté un champ",
+              "content": "La première excuse s’appuie sur un bien nouvellement acquis. Le champ n’est pas mauvais en lui-même, mais il devient un obstacle lorsque sa possession prime sur l’appel reçu.",
+              "grammar": {
+                "form": "Ἀγρόν",
+                "lemma": "ἀγρός",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct de ἠγόρασα, « j’ai acheté »."
+              }
+            }
+          },
+          {
+            "greek": "ἠγόρασα",
+            "gloss": "j'ai_acheté"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔχω",
+            "gloss": "j'ai"
+          },
+          {
+            "greek": "ἀνάγκην",
+            "gloss": "la_nécessité/l'obligation",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Je suis obligé d’aller le voir",
+              "content": "ἀνάγκη exprime la nécessité ou la contrainte. L’invité présente sa visite du champ comme inévitable, alors qu’il choisit en réalité de faire passer cette affaire avant le banquet.",
+              "grammar": {
+                "form": "ἀνάγκην",
+                "lemma": "ἀνάγκη",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément direct de ἔχω dans l’expression ἔχω ἀνάγκην, « j’ai nécessité, je suis obligé »."
+              }
+            }
+          },
+          {
+            "greek": "ἐξελθὼν",
+            "gloss": "étant_sorti"
+          },
+          {
+            "greek": "ἰδεῖν",
+            "gloss": "de_voir"
+          },
+          {
+            "greek": "αὐτόν·",
+            "gloss": "lui"
+          },
+          {
+            "greek": "ἐρωτῶ",
+            "gloss": "je_demande"
+          },
+          {
+            "greek": "σε,",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ἔχε",
+            "gloss": "aie/tiens"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "παρῃτημένον.",
+            "gloss": "excusé/refusé"
+          }
+        ]
+      },
+      {
+        "verse_number": 19,
+        "translations": {
+          "segond": "Un autre dit : J'ai acheté cinq paires de boeufs, et je vais les essayer ; excuse-moi, je te prie.",
+          "darby": "Et un autre dit : J'ai acheté cinq attelages de boeufs, et je vais les essayer ; je te prie, tiens-moi pour excusé."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἕτερος",
+            "gloss": "un_autre"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Ζεύγη",
+            "gloss": "Jougs/paires"
+          },
+          {
+            "greek": "βοῶν",
+            "gloss": "de_bœufs",
+            "annotation": {
+              "type": "analyse",
+              "title": "Cinq paires de bœufs",
+              "content": "La deuxième excuse concerne l’activité économique et le travail. Comme le champ, les bœufs deviennent un obstacle non par leur nature, mais parce que leur vérification reçoit la priorité sur l’invitation.",
+              "grammar": {
+                "form": "βοῶν",
+                "lemma": "βοῦς",
+                "category": "Nom de la troisième déclinaison",
+                "parsing": "Génitif masculin pluriel",
+                "abbreviation": "GÉN. MASC. PL.",
+                "syntax": "Complément de ζεύγη, « paires » : πέντε ζεύγη βοῶν, « cinq paires de bœufs »."
+              }
+            }
+          },
+          {
+            "greek": "ἠγόρασα",
+            "gloss": "j'ai_achetés"
+          },
+          {
+            "greek": "πέντε",
+            "gloss": "cinq"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "πορεύομαι",
+            "gloss": "je_fais_route/je_vais"
+          },
+          {
+            "greek": "δοκιμάσαι",
+            "gloss": "éprouver/tester",
+            "annotation": {
+              "type": "analyse",
+              "title": "Je vais les essayer",
+              "content": "δοκιμάζω signifie éprouver, examiner ou vérifier. Le troisième mouvement de l’excuse consiste à contrôler un bien acquis plutôt qu’à répondre à une invitation déjà prête.",
+              "grammar": {
+                "form": "δοκιμάσαι",
+                "lemma": "δοκιμάζω",
+                "category": "Verbe",
+                "parsing": "Aoriste actif, infinitif",
+                "abbreviation": "AOR. ACT. INF.",
+                "syntax": "Infinitif exprimant le but après πορεύομαι : « je vais les essayer ». Le pronom αὐτά en est le complément direct."
+              }
+            }
+          },
+          {
+            "greek": "αὐτά·",
+            "gloss": "eux"
+          },
+          {
+            "greek": "ἐρωτῶ",
+            "gloss": "je_demande"
+          },
+          {
+            "greek": "σε,",
+            "gloss": "à_toi"
+          },
+          {
+            "greek": "ἔχε",
+            "gloss": "tiens"
+          },
+          {
+            "greek": "με",
+            "gloss": "moi"
+          },
+          {
+            "greek": "παρῃτημένον.",
+            "gloss": "excusé"
+          }
+        ]
+      },
+      {
+        "verse_number": 20,
+        "translations": {
+          "segond": "Un autre dit : Je viens de me marier, et c'est pourquoi je ne puis aller.",
+          "darby": "Et un autre dit : J'ai épousé une femme, et à cause de cela je ne puis aller."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "ἕτερος",
+            "gloss": "un_autre"
+          },
+          {
+            "greek": "εἶπεν·",
+            "gloss": "dit"
+          },
+          {
+            "greek": "Γυναῖκα",
+            "gloss": "Une_femme",
+            "annotation": {
+              "type": "analyse",
+              "title": "J’ai épousé une femme",
+              "content": "La troisième excuse invoque le mariage. Le récit ne condamne pas l’union conjugale ; il montre qu’une relation bonne peut elle aussi être utilisée pour fermer l’oreille à l’appel de Dieu.",
+              "grammar": {
+                "form": "Γυναῖκα",
+                "lemma": "γυνή",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément direct de ἔγημα, « j’ai épousé »."
+              }
+            }
+          },
+          {
+            "greek": "ἔγημα,",
+            "gloss": "j'ai_épousée"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "διὰ",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "τοῦτο",
+            "gloss": "cela"
+          },
+          {
+            "greek": "οὐ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "δύναμαι",
+            "gloss": "je_suis_capable/je_peux",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Je ne peux pas venir",
+              "content": "δύναμαι exprime la capacité ou la possibilité. Le dernier invité ne demande même plus à être excusé : il transforme son choix en impossibilité et affirme simplement qu’il ne peut venir.",
+              "grammar": {
+                "form": "δύναμαι",
+                "lemma": "δύναμαι",
+                "category": "Verbe déponent",
+                "parsing": "Présent moyen, indicatif, première personne du singulier",
+                "abbreviation": "PRÉS. MOY. IND. 1 SG.",
+                "syntax": "Verbe principal accompagné de la négation οὐ. Il gouverne l’infinitif ἐλθεῖν, « venir »."
+              }
+            }
+          },
+          {
+            "greek": "ἐλθεῖν.",
+            "gloss": "venir"
+          }
+        ]
+      },
+      {
+        "verse_number": 21,
+        "translations": {
+          "segond": "Le serviteur, de retour, rapporta ces choses à son maître. Alors le maître de la maison irrité dit à son serviteur : Va promptement dans les places et dans les rues de la ville, et amène ici les pauvres, les estropiés, les aveugles et les boiteux.",
+          "darby": "Et l'esclave, de retour, rapporta ces choses à son maître. Alors le maître de la maison, en colère, dit à son esclave : Va-t'en promptement par les places et par les rues de la ville, et amène ici les pauvres, et les estropiés, et les aveugles, et les boiteux."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "παραγενόμενος",
+            "gloss": "étant_arrivé"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δοῦλος",
+            "gloss": "esclave"
+          },
+          {
+            "greek": "ἀπήγγειλεν",
+            "gloss": "rapporta/annonça"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "κυρίῳ",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "αὐτοῦ",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "ταῦτα.",
+            "gloss": "ces_choses"
+          },
+          {
+            "greek": "τότε",
+            "gloss": "Alors"
+          },
+          {
+            "greek": "ὀργισθεὶς",
+            "gloss": "ayant_été_mis_en_colère",
+            "annotation": {
+              "type": "analyse",
+              "title": "Le maître fut irrité",
+              "content": "La colère du maître répond au refus unanime des premiers invités. Dans la parabole, elle ne met pas fin au banquet : elle provoque au contraire l’élargissement immédiat de l’invitation.",
+              "grammar": {
+                "form": "ὀργισθείς",
+                "lemma": "ὀργίζω",
+                "category": "Verbe",
+                "parsing": "Aoriste passif, participe, nominatif masculin singulier",
+                "abbreviation": "AOR. PASS. PART. NOM. MASC. SG.",
+                "syntax": "Participe circonstanciel accordé avec ὁ οἰκοδεσπότης, « le maître de maison »."
+              }
+            }
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "οἰκοδεσπότης",
+            "gloss": "maître_de_maison"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "τῷ",
+            "gloss": "au"
+          },
+          {
+            "greek": "δούλῳ",
+            "gloss": "esclave"
+          },
+          {
+            "greek": "αὐτοῦ·",
+            "gloss": "de_lui"
+          },
+          {
+            "greek": "Ἔξελθε",
+            "gloss": "Sors"
+          },
+          {
+            "greek": "ταχέως",
+            "gloss": "promptement/rapidement"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πλατείας",
+            "gloss": "places"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ῥύμας",
+            "gloss": "rues"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "πόλεως,",
+            "gloss": "ville"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πτωχοὺς",
+            "gloss": "pauvres"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀναπήρους",
+            "gloss": "estropiés"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τυφλοὺς",
+            "gloss": "aveugles"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "χωλοὺς",
+            "gloss": "boiteux",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Les pauvres et les blessés sont invités",
+              "content": "Les pauvres, les estropiés, les aveugles et les boiteux sont conduits au banquet. Ceux qui semblaient éloignés de la table deviennent les premiers bénéficiaires de l’invitation refusée.",
+              "grammar": {
+                "form": "χωλούς",
+                "lemma": "χωλός",
+                "category": "Adjectif employé comme nom",
+                "parsing": "Accusatif masculin pluriel",
+                "abbreviation": "ACC. MASC. PL.",
+                "syntax": "Complément direct de εἰσάγαγε, coordonné aux autres groupes désignant les personnes invitées."
+              }
+            }
+          },
+          {
+            "greek": "εἰσάγαγε",
+            "gloss": "introduis/amène"
+          },
+          {
+            "greek": "ὧδε.",
+            "gloss": "ici"
+          }
+        ]
+      },
+      {
+        "verse_number": 22,
+        "translations": {
+          "segond": "Le serviteur dit : Maître, ce que tu as ordonné a été fait, et il y a encore de la place.",
+          "darby": "Et l'esclave dit : Maître, il a été fait comme tu as ordonné, et il y a encore de la place."
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δοῦλος·",
+            "gloss": "esclave"
+          },
+          {
+            "greek": "Κύριε,",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "γέγονεν",
+            "gloss": "c'est_fait/c'est_arrivé"
+          },
+          {
+            "greek": "ὃ",
+            "gloss": "ce_que"
+          },
+          {
+            "greek": "ἐπέταξας,",
+            "gloss": "tu_as_ordonné"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἔτι",
+            "gloss": "encore"
+          },
+          {
+            "greek": "τόπος",
+            "gloss": "lieu/place",
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Il y a encore de la place",
+              "content": "Après l’entrée des personnes venues des rues, le serviteur constate qu’il reste encore de la place. L’abondance du banquet dépasse le premier cercle des invités et ouvre la mission vers les chemins et les clôtures.",
+              "grammar": {
+                "form": "τόπος",
+                "lemma": "τόπος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Sujet de ἐστίν dans ἔτι τόπος ἐστίν, « il y a encore de la place »."
+              }
+            }
+          },
+          {
+            "greek": "ἐστίν.",
+            "gloss": "il_y_a/est"
+          }
+        ]
+      },
+      {
+        "verse_number": 23,
+        "translations": {
+          "segond": "Et le maître dit au serviteur : Va dans les chemins et le long des haies, et ceux que tu trouveras, contrains-les d'entrer, afin que ma maison soit remplie.",
+          "darby": "Et le maître dit à l'esclave : Va dans les chemins et le long des haies, et contrains les gens d'entrer, afin que ma maison soit remplie ;"
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "Et"
+          },
+          {
+            "greek": "εἶπεν",
+            "gloss": "dit"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "κύριος",
+            "gloss": "Seigneur"
+          },
+          {
+            "greek": "πρὸς",
+            "gloss": "vers/à"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "δοῦλον·",
+            "gloss": "esclave"
+          },
+          {
+            "greek": "Ἔξελθε",
+            "gloss": "Sors"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τὰς",
+            "gloss": "les"
+          },
+          {
+            "greek": "ὁδοὺς",
+            "gloss": "chemins/routes"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "φραγμοὺς",
+            "gloss": "haies/clôtures",
+            "annotation": {
+              "type": "analyse",
+              "title": "Jusqu’aux chemins et aux clôtures",
+              "content": "L’ordre du maître atteint désormais les espaces extérieurs à la ville. L’invitation ne se contente pas des lieux habituels : elle cherche ceux qui sont restés aux marges.",
+              "grammar": {
+                "form": "φραγμούς",
+                "lemma": "φραγμός",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin pluriel",
+                "abbreviation": "ACC. MASC. PL.",
+                "syntax": "Complément de la préposition εἰς, coordonné à ὁδούς : « vers les chemins et les clôtures »."
+              }
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀνάγκασον",
+            "gloss": "contrains/force",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Presse-les d’entrer",
+              "content": "ἀναγκάζω signifie contraindre, presser ou insister fortement. Dans le contexte, le serviteur doit vaincre l’hésitation de ceux qui ne se croient peut-être pas invités. Le verset ne justifie pas la violence religieuse.",
+              "grammar": {
+                "form": "ἀνάγκασον",
+                "lemma": "ἀναγκάζω",
+                "category": "Verbe",
+                "parsing": "Aoriste actif, impératif, deuxième personne du singulier",
+                "abbreviation": "AOR. ACT. IMP. 2 SG.",
+                "syntax": "Impératif adressé au serviteur. Il gouverne l’infinitif εἰσελθεῖν, « entrer »."
+              }
+            }
+          },
+          {
+            "greek": "εἰσελθεῖν,",
+            "gloss": "d'entrer"
+          },
+          {
+            "greek": "ἵνα",
+            "gloss": "afin_que"
+          },
+          {
+            "greek": "γεμισθῇ",
+            "gloss": "soit_remplie/saturée"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "la"
+          },
+          {
+            "greek": "οἶκος·",
+            "gloss": "maison",
+            "annotation": {
+              "type": "theologie",
+              "title": "Afin que ma maison soit remplie",
+              "content": "La maison du maître est destinée à être remplie. L’élargissement de l’invitation manifeste une hospitalité qui cherche activement ceux que les premiers invités n’avaient pas envisagés.",
+              "grammar": {
+                "form": "οἶκος",
+                "lemma": "οἶκος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Sujet de γεμισθῇ, « soit remplie ». Le possessif μου signifie « ma maison »."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 24,
+        "translations": {
+          "segond": "Car, je vous le dis, aucun de ces hommes qui avaient été invités ne goûtera de mon souper.",
+          "darby": "Car je vous dis qu'aucun de ces hommes qui ont été conviés ne goûtera de mon souper."
+        },
+        "interlinear": [
+          {
+            "greek": "λέγω",
+            "gloss": "Je_dis"
+          },
+          {
+            "greek": "γὰρ",
+            "gloss": "car"
+          },
+          {
+            "greek": "ὑμῖν",
+            "gloss": "à_vous"
+          },
+          {
+            "greek": "ὅτι",
+            "gloss": "qu'"
+          },
+          {
+            "greek": "οὐδεὶς",
+            "gloss": "aucun"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "des"
+          },
+          {
+            "greek": "ἀνδρῶν",
+            "gloss": "hommes"
+          },
+          {
+            "greek": "ἐκείνων",
+            "gloss": "ces"
+          },
+          {
+            "greek": "τῶν",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "κεκλημένων",
+            "gloss": "ayant_été_appelés"
+          },
+          {
+            "greek": "γεύσεταί",
+            "gloss": "goûtera"
+          },
+          {
+            "greek": "μου",
+            "gloss": "de_moi"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "le"
+          },
+          {
+            "greek": "δείπνου.",
+            "gloss": "souper",
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Goûter au souper",
+              "content": "Le récit s’achève sur le contraste entre l’invitation offerte et le refus des premiers conviés. Goûter au souper suppose d’accueillir l’appel au moment où il est donné.",
+              "grammar": {
+                "form": "δείπνου",
+                "lemma": "δεῖπνον",
+                "category": "Nom neutre de la deuxième déclinaison",
+                "parsing": "Génitif neutre singulier",
+                "abbreviation": "GÉN. NEUT. SG.",
+                "syntax": "Complément du verbe γεύσεται, qui se construit avec le génitif : « goûtera de mon souper »."
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur le texte grec :\n\n• ἀπὸ μιᾶς est habituellement traduit par « unanimement » ou « d’un même mouvement ». La construction associe ἀπό au génitif féminin μιᾶς et laisse sous-entendre une disposition ou une pensée commune.\n• ἀνάγκασον est un impératif fort : « presse-les d’entrer » ou « contrains-les ». Dans la parabole, il exprime l’insistance du maître pour que la maison soit remplie ; il ne peut servir à justifier une contrainte religieuse exercée sur les personnes.\n\nAnalyse :\n\nLe repas est préparé et l’invitation est gratuite, mais les premiers appelés laissent des biens légitimes devenir des obstacles : un champ, un travail, une relation familiale. La parabole ne condamne pas ces réalités ; elle révèle leur pouvoir lorsqu’elles occupent toute la place.\n\nLes excuses sont différentes, mais leur mouvement est commun. La traduction « unanimement » rend cette convergence du refus. Une lecture théologique peut aussi entendre, avec prudence, le paradoxe d’êtres qui procèdent de l’Un mais se détournent ensemble de l’unité offerte.\n\nL’appel s’étend alors aux pauvres, aux infirmes et à ceux qui se trouvent aux marges. Il ne s’agit pas de remplacer un peuple condamné par un autre, mais de montrer que nul titre ne donne droit au repas et que l’invitation de Dieu cherche ceux qui consentent à entrer.",
+    "homiletic_axes": [
+      {
+        "title": "L’invitation demande un accueil libre",
+        "content": "Le repas est préparé et l’appel est adressé, mais chacun peut lui opposer ses priorités. Le drame de la parabole n’est pas le manque de don : c’est le refus d’entrer dans la communion offerte.",
+        "keywords": [
+          "καλέω, appeler",
+          "ἔρχομαι, venir",
+          "παραιτέομαι, décliner/refuser"
+        ]
+      },
+      {
+        "title": "Se dépouiller de ce qui retient",
+        "content": "Champ, bœufs et situation familiale deviennent des excuses lorsqu’ils ferment à l’appel. Paul invite précisément à faire mourir la convoitise et à se dépouiller du vieil homme : non à mépriser la création, mais à ne plus en faire une idole.",
+        "keywords": [
+          "πλεονεξία, cupidité",
+          "νεκρόω, faire mourir",
+          "ἀπεκδύομαι, se dépouiller"
+        ]
+      },
+      {
+        "title": "La maison se remplit des exclus",
+        "content": "Pauvres, estropiés, aveugles et boiteux sont conduits au repas. La plénitude de la maison annonce une communauté où les anciennes catégories de séparation ne gouvernent plus, car le Christ est tout et en tous.",
+        "keywords": [
+          "πτωχός, pauvre",
+          "γεμίζω, remplir",
+          "πάντα, toutes choses"
+        ]
+      },
+      {
+        "title": "« Contrains-les d’entrer » : l’insistance de l’hospitalité",
+        "content": "Le verbe ἀναγκάζω exprime ici l’insistance du maître envers ceux qui, laissés aux chemins et aux haies, pourraient ne pas se croire invités. Il ne peut servir à justifier une contrainte religieuse : dans la parabole, le maître veut que sa maison accueille ceux que personne n’attend.",
+        "keywords": [
+          "ἀναγκάζω, presser/contraindre",
+          "εἰσέρχομαι, entrer",
+          "οἶκος, maison"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Quitter les excuses et revêtir l’homme nouveau",
+        "reference": "Luc 14, 16-24 ; Colossiens 3, 4-11",
+        "content": "Les attachements qui excusent le refus du repas correspondent à ce que Paul demande de déposer. L’invitation devient alors passage du vieil homme à l’homme nouveau et entrée dans une table où les séparations sont dépassées dans le Christ.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le grand repas » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, les déplacements et les oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que le Christ donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
+  },
+  "apostle": {
+    "reference": "Colossiens 3, 4-11",
+    "title": "L'homme nouveau",
+    "interlinear": [
+      {
+        "verse_number": 4,
+        "translations": {
+          "segond": "Quand Christ, votre vie, paraîtra, alors vous paraîtrez aussi avec lui dans la gloire.",
+          "darby": "Quand le Christ qui est notre vie, sera manifesté, alors vous aussi, vous serez manifestés avec lui en gloire."
+        },
+        "interlinear": [
+          {
+            "greek": "ὅταν",
+            "gloss": "Quand"
+          },
+          {
+            "greek": "ὁ",
+            "gloss": "le"
+          },
+          {
+            "greek": "Χριστὸς",
+            "gloss": "Christ"
+          },
+          {
+            "greek": "φανερωθῇ,",
+            "gloss": "sera_manifesté/apparaîtra",
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Quand le Christ sera manifesté",
+              "content": "φανερόω signifie rendre visible ou manifester. Paul tient ensemble la vie déjà cachée avec le Christ et sa manifestation future : ce qui est reçu maintenant apparaîtra dans la gloire.",
+              "grammar": {
+                "form": "φανερωθῇ",
+                "lemma": "φανερόω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste passif, subjonctif, troisième personne du singulier",
+                "abbreviation": "AOR. PASS. SUBJ. 3 SG.",
+                "syntax": "Verbe de la proposition temporelle introduite par ὅταν, « lorsque ». Son sujet est Χριστός."
+              }
+            }
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ζωὴ",
+            "gloss": "vie",
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Le Christ, notre vie",
+              "content": "Paul ne dit pas seulement que le Christ donne la vie : il l’appelle « notre vie ». La vie chrétienne est ainsi comprise comme communion au Christ, cachée maintenant et appelée à être manifestée.",
+              "grammar": {
+                "form": "ζωή",
+                "lemma": "ζωή",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Apposition explicative à Χριστός : « le Christ, notre vie »."
+              }
+            }
+          },
+          {
+            "greek": "ὑμῶν,",
+            "gloss": "de_vous"
+          },
+          {
+            "greek": "τότε",
+            "gloss": "alors"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "αὐτῷ",
+            "gloss": "lui"
+          },
+          {
+            "greek": "φανερωθήσεσθε",
+            "gloss": "serez_manifestés"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en/dans"
+          },
+          {
+            "greek": "δόξῃ.",
+            "gloss": "gloire",
+            "annotation": {
+              "type": "theologie",
+              "title": "Manifestés avec lui dans la gloire",
+              "content": "La manifestation du Christ entraîne celle des fidèles avec lui. La gloire n’est pas une réussite individuelle : elle est participation à la vie du Christ ressuscité.",
+              "grammar": {
+                "form": "δόξῃ",
+                "lemma": "δόξα",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Datif féminin singulier",
+                "abbreviation": "DAT. FÉM. SG.",
+                "syntax": "Complément de ἐν : ἐν δόξῃ, « dans la gloire »."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "translations": {
+          "segond": "Faites donc mourir les membres qui sont sur la terre, la débauche, l'impureté, les passions, les mauvais désirs, et la cupidité, qui est une idolâtrie.",
+          "darby": "Mortifiez donc vos membres qui sont sur la terre, la fornication, l'impureté, les affections déréglées, la mauvaise convoitise, et la cupidité, qui est de l'idolâtrie ;"
+        },
+        "interlinear": [
+          {
+            "greek": "Νεκρώσατε",
+            "gloss": "Faites_mourir/Mortifiez",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Faites mourir ce qui vous détourne du Christ",
+              "content": "L’impératif demande une rupture réelle avec les comportements énumérés. Il ne condamne ni le corps ni la création, mais ce qui réduit l’autre à un objet et détourne le désir de sa vocation.",
+              "grammar": {
+                "form": "Νεκρώσατε",
+                "lemma": "νεκρόω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste actif, impératif, deuxième personne du pluriel",
+                "abbreviation": "AOR. ACT. IMP. 2 PL.",
+                "syntax": "Impératif adressé à la communauté. τὰ μέλη τὰ ἐπὶ τῆς γῆς en est le complément direct."
+              }
+            }
+          },
+          {
+            "greek": "οὖν",
+            "gloss": "donc"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "μέλη",
+            "gloss": "membres"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "ceux"
+          },
+          {
+            "greek": "ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "la"
+          },
+          {
+            "greek": "γῆς,",
+            "gloss": "terre",
+            "annotation": {
+              "type": "traduction",
+              "title": "Les membres qui sont sur la terre",
+              "content": "L’expression introduit la liste des conduites à faire mourir. Elle ne signifie pas que le corps matériel serait mauvais : Paul vise les pratiques terrestres opposées à la vie cachée avec le Christ.",
+              "grammar": {
+                "form": "γῆς",
+                "lemma": "γῆ",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Génitif féminin singulier",
+                "abbreviation": "GÉN. FÉM. SG.",
+                "syntax": "Complément de ἐπί avec le génitif : τὰ ἐπὶ τῆς γῆς, « ce qui est sur la terre »."
+              }
+            }
+          },
+          {
+            "greek": "πορνείαν,",
+            "gloss": "débauche/fornication"
+          },
+          {
+            "greek": "ἀκαθαρσίαν,",
+            "gloss": "impureté"
+          },
+          {
+            "greek": "πάθος,",
+            "gloss": "passion/affection_déréglée"
+          },
+          {
+            "greek": "ἐπιθυμίαν",
+            "gloss": "désir/convoitise"
+          },
+          {
+            "greek": "κακήν,",
+            "gloss": "mauvais"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "τὴν",
+            "gloss": "la"
+          },
+          {
+            "greek": "πλεονεξίαν",
+            "gloss": "cupidité/volonté_d'avoir_plus",
+            "annotation": {
+              "type": "racine",
+              "importance": "major",
+              "title": "La cupidité qui est idolâtrie",
+              "content": "πλεονεξία désigne le désir d’avoir toujours davantage. Paul l’identifie à l’idolâtrie parce qu’elle accorde à la possession la place qui revient à Dieu.",
+              "grammar": {
+                "form": "πλεονεξίαν",
+                "lemma": "πλεονεξία",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Dernier terme de la liste gouvernée par Νεκρώσατε. Le relatif ἥτις la reprend ensuite."
+              }
+            }
+          },
+          {
+            "greek": "ἥτις",
+            "gloss": "laquelle"
+          },
+          {
+            "greek": "ἐστὶν",
+            "gloss": "est"
+          },
+          {
+            "greek": "εἰδωλολατρία,",
+            "gloss": "idolâtrie",
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "La cupidité est une idolâtrie",
+              "content": "εἰδωλολατρία signifie service ou culte des idoles. Paul dévoile la portée spirituelle de la cupidité : le bien possédé devient une idole lorsqu’il reçoit la confiance et le désir dus à Dieu.",
+              "grammar": {
+                "form": "εἰδωλολατρία",
+                "lemma": "εἰδωλολατρία",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Attribut dans ἥτις ἐστὶν εἰδωλολατρία, « laquelle est idolâtrie »."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "translations": {
+          "segond": "C'est à cause de ces choses que la colère de Dieu vient sur les fils de la rébellion,",
+          "darby": "à cause desquelles la colère de Dieu vient sur les fils de la désobéissance ;"
+        },
+        "interlinear": [
+          {
+            "greek": "δι’",
+            "gloss": "à_cause_de"
+          },
+          {
+            "greek": "ἃ",
+            "gloss": "lesquelles_[choses]"
+          },
+          {
+            "greek": "ἔρχεται",
+            "gloss": "vient"
+          },
+          {
+            "greek": "ἡ",
+            "gloss": "la"
+          },
+          {
+            "greek": "ὀργὴ",
+            "gloss": "colère",
+            "annotation": {
+              "type": "theologie",
+              "title": "La colère de Dieu vient",
+              "content": "Dans le langage biblique, la colère de Dieu nomme son opposition au péché qui détruit la personne et la communion. Elle ne doit pas être réduite à une réaction passionnelle semblable à la colère humaine.",
+              "grammar": {
+                "form": "ὀργή",
+                "lemma": "ὀργή",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Sujet du verbe ἔρχεται, « vient ». Le génitif τοῦ θεοῦ précise qu’il s’agit de la colère de Dieu."
+              }
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_le"
+          },
+          {
+            "greek": "θεοῦ",
+            "gloss": "Dieu"
+          },
+          {
+            "greek": "[ἐπὶ",
+            "gloss": "sur"
+          },
+          {
+            "greek": "τοὺς",
+            "gloss": "les"
+          },
+          {
+            "greek": "υἱοὺς",
+            "gloss": "fils"
+          },
+          {
+            "greek": "τῆς",
+            "gloss": "de_la"
+          },
+          {
+            "greek": "ἀπειθείας·]",
+            "gloss": "désobéissance/rébellion"
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "translations": {
+          "segond": "parmi lesquels vous marchiez autrefois, lorsque vous viviez dans ces péchés.",
+          "darby": "parmi lesquels vous aussi vous avez marché autrefois, quand vous viviez dans ces choses."
+        },
+        "interlinear": [
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "οἷς",
+            "gloss": "lesquelles/lesquels"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "περιεπατήσατέ",
+            "gloss": "avez_marché",
+            "annotation": {
+              "type": "analyse",
+              "title": "Vous marchiez autrefois dans ces conduites",
+              "content": "περιπατέω désigne souvent chez Paul la conduite de toute la vie. Les fidèles ont autrefois marché dans ces pratiques, mais leur vie est désormais cachée avec le Christ.",
+              "grammar": {
+                "form": "περιεπατήσατε",
+                "lemma": "περιπατέω",
+                "category": "Verbe contracte",
+                "parsing": "Aoriste actif, indicatif, deuxième personne du pluriel",
+                "abbreviation": "AOR. ACT. IND. 2 PL.",
+                "syntax": "Verbe principal dont les destinataires sont le sujet. ἐν οἷς signifie « dans lesquelles »."
+              }
+            }
+          },
+          {
+            "greek": "ποτε,",
+            "gloss": "autrefois"
+          },
+          {
+            "greek": "ὅτε",
+            "gloss": "quand"
+          },
+          {
+            "greek": "ἐζῆτε",
+            "gloss": "vous_viviez"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "dans"
+          },
+          {
+            "greek": "τούτοις·",
+            "gloss": "ces_choses"
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "translations": {
+          "segond": "Mais maintenant, renoncez à toutes ces choses, à la colère, à l'animosité, à la méchanceté, à la calomnie, aux paroles déshonnêtes qui pourraient sortir de votre bouche.",
+          "darby": "Mais maintenant, renoncez, vous aussi, à toutes ces choses : colère, courroux, malice, injures, paroles honteuses sortant de votre bouche."
+        },
+        "interlinear": [
+          {
+            "greek": "νυνὶ",
+            "gloss": "maintenant"
+          },
+          {
+            "greek": "δὲ",
+            "gloss": "or"
+          },
+          {
+            "greek": "ἀπόθεσθε",
+            "gloss": "déposez/dépouillez-vous_de",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Rejetez maintenant toutes ces choses",
+              "content": "ἀποτίθημι signifie déposer, enlever ou mettre de côté, comme un vêtement. L’image prépare le contraste entre l’ancien homme dont on se dépouille et l’homme nouveau que l’on revêt.",
+              "grammar": {
+                "form": "ἀπόθεσθε",
+                "lemma": "ἀποτίθημι",
+                "category": "Verbe",
+                "parsing": "Aoriste moyen, impératif, deuxième personne du pluriel",
+                "abbreviation": "AOR. MOY. IMP. 2 PL.",
+                "syntax": "Impératif adressé à la communauté. τὰ πάντα, « toutes ces choses », en est le complément direct."
+              }
+            }
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "aussi"
+          },
+          {
+            "greek": "ὑμεῖς",
+            "gloss": "vous"
+          },
+          {
+            "greek": "τὰ",
+            "gloss": "les"
+          },
+          {
+            "greek": "πάντα,",
+            "gloss": "toutes_[ces]_choses"
+          },
+          {
+            "greek": "ὀργήν,",
+            "gloss": "colère"
+          },
+          {
+            "greek": "θυμόν,",
+            "gloss": "animosité/fureur"
+          },
+          {
+            "greek": "κακίαν,",
+            "gloss": "méchanceté/malice"
+          },
+          {
+            "greek": "βλασφημίαν,",
+            "gloss": "calomnie/blasphème"
+          },
+          {
+            "greek": "αἰσχρολογίαν",
+            "gloss": "parole_honteuse",
+            "annotation": {
+              "type": "traduction",
+              "title": "La parole honteuse",
+              "content": "αἰσχρολογία désigne une parole honteuse, dégradante ou obscène. Paul place ainsi la manière de parler parmi les conduites incompatibles avec l’homme nouveau.",
+              "grammar": {
+                "form": "αἰσχρολογίαν",
+                "lemma": "αἰσχρολογία",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Terme de la liste gouvernée par ἀπόθεσθε. ἐκ τοῦ στόματος précise que cette parole sort de la bouche."
+              }
+            }
+          },
+          {
+            "greek": "ἐκ",
+            "gloss": "hors_de"
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "la"
+          },
+          {
+            "greek": "στόματος",
+            "gloss": "bouche"
+          },
+          {
+            "greek": "ὑμῶν·",
+            "gloss": "de_vous"
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "translations": {
+          "segond": "Ne mentez pas les uns aux autres, vous étant dépouillés du vieil homme et de ses oeuvres,",
+          "darby": "Ne mentez point l'un à l'autre, ayant dépouillé le vieil homme avec ses actions,"
+        },
+        "interlinear": [
+          {
+            "greek": "μὴ",
+            "gloss": "ne...pas"
+          },
+          {
+            "greek": "ψεύδεσθε",
+            "gloss": "mentez"
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/à"
+          },
+          {
+            "greek": "ἀλλήλους,",
+            "gloss": "les_uns_les_autres"
+          },
+          {
+            "greek": "ἀπεκδυσάμενοι",
+            "gloss": "vous_étant_dépouillés",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Vous étant dépouillés de l’ancien homme",
+              "content": "Le participe prolonge l’image du vêtement retiré. Se dépouiller de l’ancien homme signifie rompre avec ses pratiques, non effacer la personne créée par Dieu.",
+              "grammar": {
+                "form": "ἀπεκδυσάμενοι",
+                "lemma": "ἀπεκδύομαι",
+                "category": "Verbe déponent",
+                "parsing": "Aoriste moyen, participe, nominatif masculin pluriel",
+                "abbreviation": "AOR. MOY. PART. NOM. MASC. PL.",
+                "syntax": "Participe accordé avec les destinataires. Il gouverne τὸν παλαιὸν ἄνθρωπον, « l’ancien homme »."
+              }
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "παλαιὸν",
+            "gloss": "vieil/ancien"
+          },
+          {
+            "greek": "ἄνθρωπον",
+            "gloss": "homme",
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "L’ancien homme avec ses pratiques",
+              "content": "L’ancien homme désigne la manière de vivre marquée par le mensonge et les comportements énumérés. Paul oppose cette condition au renouvellement de l’homme nouveau selon l’image du Créateur.",
+              "grammar": {
+                "form": "ἄνθρωπον",
+                "lemma": "ἄνθρωπος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Accusatif masculin singulier",
+                "abbreviation": "ACC. MASC. SG.",
+                "syntax": "Complément direct de ἀπεκδυσάμενοι. L’adjectif παλαιόν signifie « ancien »."
+              }
+            }
+          },
+          {
+            "greek": "σὺν",
+            "gloss": "avec"
+          },
+          {
+            "greek": "ταῖς",
+            "gloss": "les"
+          },
+          {
+            "greek": "πράξεσιν",
+            "gloss": "pratiques/œuvres"
+          },
+          {
+            "greek": "αὐτοῦ,",
+            "gloss": "de_lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "translations": {
+          "segond": "et ayant revêtu l'homme nouveau, qui se renouvelle, dans la connaissance, selon l'image de celui qui l'a créé.",
+          "darby": "et ayant revêtu le nouvel homme qui est renouvelé en connaissance, selon l'image de celui qui l'a créé,"
+        },
+        "interlinear": [
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐνδυσάμενοι",
+            "gloss": "ayant_revêtu",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Ayant revêtu l’homme nouveau",
+              "content": "Après le dépouillement vient le revêtement. La vie chrétienne n’est pas seulement abandon de pratiques anciennes : elle est réception d’une humanité renouvelée selon l’image du Créateur.",
+              "grammar": {
+                "form": "ἐνδυσάμενοι",
+                "lemma": "ἐνδύω",
+                "category": "Verbe",
+                "parsing": "Aoriste moyen, participe, nominatif masculin pluriel",
+                "abbreviation": "AOR. MOY. PART. NOM. MASC. PL.",
+                "syntax": "Participe accordé avec les destinataires. Il gouverne τὸν νέον, « le nouveau », avec ἄνθρωπον sous-entendu."
+              }
+            }
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "le"
+          },
+          {
+            "greek": "νέον",
+            "gloss": "nouveau"
+          },
+          {
+            "greek": "[ἄνθρωπον]",
+            "gloss": "homme"
+          },
+          {
+            "greek": "τὸν",
+            "gloss": "celui_qui"
+          },
+          {
+            "greek": "ἀνακαινούμενον",
+            "gloss": "est_renouvelé",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "L’homme nouveau est renouvelé",
+              "content": "Le présent passif indique un renouvellement en cours et reçu. L’homme nouveau n’est pas une identité achevée par l’effort seul : il est continuellement renouvelé par Dieu.",
+              "grammar": {
+                "form": "ἀνακαινούμενον",
+                "lemma": "ἀνακαινόω",
+                "category": "Verbe contracte",
+                "parsing": "Présent passif, participe, accusatif masculin singulier",
+                "abbreviation": "PRÉS. PASS. PART. ACC. MASC. SG.",
+                "syntax": "Participe accordé avec τὸν νέον, « l’homme nouveau » sous-entendu. Le passif indique l’action reçue."
+              }
+            }
+          },
+          {
+            "greek": "εἰς",
+            "gloss": "vers/en"
+          },
+          {
+            "greek": "ἐπίγνωσιν",
+            "gloss": "connaissance_exacte",
+            "annotation": {
+              "type": "analyse",
+              "importance": "major",
+              "title": "Renouvelé pour la connaissance",
+              "content": "ἐπίγνωσις désigne une connaissance pleine ou reconnue. Le renouvellement conduit à connaître selon l’image du Créateur, et non à accumuler une information séparée de la vie.",
+              "grammar": {
+                "form": "ἐπίγνωσιν",
+                "lemma": "ἐπίγνωσις",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément de la préposition εἰς : εἰς ἐπίγνωσιν, « pour la connaissance »."
+              }
+            }
+          },
+          {
+            "greek": "κατ’",
+            "gloss": "selon"
+          },
+          {
+            "greek": "εἰκόνα",
+            "gloss": "l'image",
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Selon l’image de son Créateur",
+              "content": "εἰκών signifie image. Le renouvellement de l’homme nouveau est orienté selon l’image de celui qui l’a créé : la vocation humaine se comprend à partir de Dieu et trouve son accomplissement dans le Christ.",
+              "grammar": {
+                "form": "εἰκόνα",
+                "lemma": "εἰκών",
+                "category": "Nom féminin de la troisième déclinaison",
+                "parsing": "Accusatif féminin singulier",
+                "abbreviation": "ACC. FÉM. SG.",
+                "syntax": "Complément de κατά avec l’accusatif : κατ’ εἰκόνα, « selon l’image »."
+              }
+            }
+          },
+          {
+            "greek": "τοῦ",
+            "gloss": "de_celui"
+          },
+          {
+            "greek": "κτίσαντος",
+            "gloss": "ayant_créé"
+          },
+          {
+            "greek": "αὐτόν,",
+            "gloss": "lui"
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "translations": {
+          "segond": "Il n'y a ici ni Grec ni Juif, ni circoncis ni incirconcis, ni barbare ni Scythe, ni esclave ni libre ; mais Christ est tout et en tous.",
+          "darby": "où il n'y a pas Grec et Juif, circoncision et incirconcision, barbare, Scythe, esclave, homme libre ; mais où Christ est tout et en tous."
+        },
+        "interlinear": [
+          {
+            "greek": "ὅπου",
+            "gloss": "où",
+            "annotation": {
+              "type": "traduction",
+              "title": "Là où le Christ est tout en tous",
+              "content": "ὅπου introduit la réalité de l’homme nouveau dans laquelle les oppositions énumérées ne déterminent plus la communion. Paul ne nie pas les histoires personnelles, mais leur refuse le pouvoir de séparer dans le Christ.",
+              "grammar": {
+                "form": "ὅπου",
+                "lemma": "ὅπου",
+                "category": "Adverbe relatif de lieu",
+                "parsing": "Forme indéclinable",
+                "abbreviation": "ADV. REL. INDECL.",
+                "syntax": "Introduit une proposition relative de lieu au sens figuré : « là où »."
+              }
+            }
+          },
+          {
+            "greek": "οὐκ",
+            "gloss": "non / il_n'y_a_pas"
+          },
+          {
+            "greek": "ἔνι",
+            "gloss": "dedans"
+          },
+          {
+            "greek": "Ἕλλην",
+            "gloss": "Grec"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "Ἰουδαῖος,",
+            "gloss": "Juif",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ni Grec ni Juif comme principe de séparation",
+              "content": "Paul cite d’abord l’opposition religieuse et culturelle entre Grec et Juif. Dans l’homme nouveau, cette différence ne fonde plus une hiérarchie d’accès au Christ.",
+              "grammar": {
+                "form": "Ἰουδαῖος",
+                "lemma": "Ἰουδαῖος",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Terme coordonné dans la construction οὐκ ἔνι, « il n’y a pas »."
+              }
+            }
+          },
+          {
+            "greek": "περιτομὴ",
+            "gloss": "circoncision"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἀκροβυστία,",
+            "gloss": "incirconcision",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ni circoncision ni incirconcision comme séparation",
+              "content": "L’opposition rituelle entre circoncision et incirconcision ne détermine plus l’appartenance à l’homme nouveau. Le Christ devient le principe commun de la communion.",
+              "grammar": {
+                "form": "ἀκροβυστία",
+                "lemma": "ἀκροβυστία",
+                "category": "Nom féminin de la première déclinaison",
+                "parsing": "Nominatif féminin singulier",
+                "abbreviation": "NOM. FÉM. SG.",
+                "syntax": "Terme coordonné dans la série gouvernée par οὐκ ἔνι."
+              }
+            }
+          },
+          {
+            "greek": "βάρβαρος,",
+            "gloss": "barbare"
+          },
+          {
+            "greek": "Σκύθης,",
+            "gloss": "Scythe"
+          },
+          {
+            "greek": "δοῦλος,",
+            "gloss": "esclave"
+          },
+          {
+            "greek": "ἐλεύθερος,",
+            "gloss": "libre",
+            "annotation": {
+              "type": "analyse",
+              "title": "Ni esclave ni homme libre comme séparation",
+              "content": "La distinction sociale entre esclave et libre ne disparaît pas magiquement de la société, mais elle ne peut plus définir la valeur de la personne ni son accès à la communion en Christ.",
+              "grammar": {
+                "form": "ἐλεύθερος",
+                "lemma": "ἐλεύθερος",
+                "category": "Adjectif employé comme nom",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Coordonné à δοῦλος dans la série introduite par οὐκ ἔνι."
+              }
+            }
+          },
+          {
+            "greek": "ἀλλὰ",
+            "gloss": "mais"
+          },
+          {
+            "greek": "[τὰ]",
+            "gloss": "toutes"
+          },
+          {
+            "greek": "πάντα",
+            "gloss": "choses"
+          },
+          {
+            "greek": "καὶ",
+            "gloss": "et"
+          },
+          {
+            "greek": "ἐν",
+            "gloss": "en"
+          },
+          {
+            "greek": "πᾶσιν",
+            "gloss": "tous"
+          },
+          {
+            "greek": "Χριστός.",
+            "gloss": "Christ",
+            "annotation": {
+              "type": "theologie",
+              "importance": "major",
+              "title": "Le Christ est tout et en tous",
+              "content": "La série s’achève non par une abstraction, mais par le Christ. Il est « tout » comme accomplissement de l’homme nouveau et « en tous » comme principe de communion entre des personnes qui ne sont pas confondues.",
+              "grammar": {
+                "form": "Χριστός",
+                "lemma": "Χριστός",
+                "category": "Nom masculin de la deuxième déclinaison",
+                "parsing": "Nominatif masculin singulier",
+                "abbreviation": "NOM. MASC. SG.",
+                "syntax": "Noyau de la proposition nominale ἀλλὰ τὰ πάντα καὶ ἐν πᾶσιν Χριστός, « mais le Christ est tout et en tous »."
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur le texte grec :\n\n• Νεκρώσατε, « faites mourir », désigne une rupture effective avec ce qui détruit la communion. Le contexte nomme notamment la cupidité, qualifiée d’idolâtrie.\n• ἀπεκδυσάμενοι et ἐνδυσάμενοι forment le mouvement du dépouillement et du revêtement : quitter le vieil homme et revêtir l’homme nouveau.\n• ἀνακαινούμενον est un participe présent passif : l’homme nouveau est continuellement renouvelé selon l’image de son Créateur.\n\nAnalyse :\n\nPaul éclaire les refus du grand repas. L’attachement aux possessions, au pouvoir et aux passions enferme l’être humain dans ce qu’il possède ou convoite. La cupidité devient idolâtrie lorsqu’elle prend la place de Dieu et gouverne la relation aux autres.\n\nLe renouvellement chrétien n’est pas une simple amélioration morale. Il est un passage reçu dans le Christ : dépouiller ce qui divise, revêtir l’homme nouveau et apprendre une connaissance transformante selon l’image du Créateur.\n\nLa conclusion abolit toute prétention fondée sur l’origine, la culture ou le statut social : « le Christ est tout et en tous ». Cette unité ne supprime pas les personnes ; elle renverse les séparations qui empêchent de partager le même repas et de former un seul corps.",
+    "homiletic_axes": [
+      {
+        "title": "L’invitation demande un accueil libre",
+        "content": "Le repas est préparé et l’appel est adressé, mais chacun peut lui opposer ses priorités. Le drame de la parabole n’est pas le manque de don : c’est le refus d’entrer dans la communion offerte.",
+        "keywords": [
+          "καλέω, appeler",
+          "ἔρχομαι, venir",
+          "παραιτέομαι, décliner/refuser"
+        ]
+      },
+      {
+        "title": "Se dépouiller de ce qui retient",
+        "content": "Champ, bœufs et situation familiale deviennent des excuses lorsqu’ils ferment à l’appel. Paul invite précisément à faire mourir la convoitise et à se dépouiller du vieil homme : non à mépriser la création, mais à ne plus en faire une idole.",
+        "keywords": [
+          "πλεονεξία, cupidité",
+          "νεκρόω, faire mourir",
+          "ἀπεκδύομαι, se dépouiller"
+        ]
+      },
+      {
+        "title": "La maison se remplit des exclus",
+        "content": "Pauvres, estropiés, aveugles et boiteux sont conduits au repas. La plénitude de la maison annonce une communauté où les anciennes catégories de séparation ne gouvernent plus, car le Christ est tout et en tous.",
+        "keywords": [
+          "πτωχός, pauvre",
+          "γεμίζω, remplir",
+          "πάντα, toutes choses"
+        ]
+      },
+      {
+        "title": "« Contrains-les d’entrer » : l’insistance de l’hospitalité",
+        "content": "Le verbe ἀναγκάζω exprime ici l’insistance du maître envers ceux qui, laissés aux chemins et aux haies, pourraient ne pas se croire invités. Il ne peut servir à justifier une contrainte religieuse : dans la parabole, le maître veut que sa maison accueille ceux que personne n’attend.",
+        "keywords": [
+          "ἀναγκάζω, presser/contraindre",
+          "εἰσέρχομαι, entrer",
+          "οἶκος, maison"
+        ]
+      }
+    ],
+    "liturgical_echoes": [
+      {
+        "title": "Quitter les excuses et revêtir l’homme nouveau",
+        "reference": "Luc 14, 16-24 ; Colossiens 3, 4-11",
+        "content": "Les attachements qui excusent le refus du repas correspondent à ce que Paul demande de déposer. L’invitation devient alors passage du vieil homme à l’homme nouveau et entrée dans une table où les séparations sont dépassées dans le Christ.",
+        "connections": []
+      }
+    ],
+    "homily_template": [
+      {
+        "id": "theme",
+        "phase": "inspiration",
+        "title": "1. Parole centrale",
+        "prompt": "Quel mot ou mouvement relie les deux lectures de la péricope « Le grand repas » ?"
+      },
+      {
+        "id": "text",
+        "phase": "inspiration",
+        "title": "2. Écoute des deux lectures",
+        "prompt": "Observez les mots, les déplacements et les oppositions qui se répondent entre l’Évangile et l’Apôtre."
+      },
+      {
+        "id": "gospel",
+        "phase": "inspiration",
+        "title": "3. Bonne Nouvelle",
+        "prompt": "Qu’est-ce que le Christ donne, accomplit ou révèle lorsque les deux lectures sont entendues ensemble ?"
+      },
+      {
+        "id": "today",
+        "phase": "gestation",
+        "title": "4. Passage vers aujourd’hui",
+        "prompt": "Quelle situation humaine concrète cette parole vient-elle éclairer, guérir ou déplacer ?"
+      },
+      {
+        "id": "response",
+        "phase": "gestation",
+        "title": "5. Réponse proposée",
+        "prompt": "Quelle réponse libre et personnelle peut être proposée à l’assemblée, sans imposer une conclusion unique ?"
+      },
+      {
+        "id": "oral",
+        "phase": "expiration",
+        "title": "6. Homélie rédigée",
+        "prompt": "Rédigez une version orale personnelle : une entrée, un mouvement clair et une conclusion mémorable."
+      }
+    ]
+  },
+  "reading_connections": {
+    "title": "Quitter le vieil homme pour entrer au festin",
+    "summary": "Le maître appelle largement, mais les premiers invités se dérobent derrière leurs possessions et leurs occupations. Paul appelle à déposer le vieil homme et à revêtir le nouveau, là où les anciennes séparations s’effacent parce que le Christ est tout et en tous.",
+    "links": [
+      {
+        "directness": "direct",
+        "kind": "same_word",
+        "link_type": "all_invited_all_in_christ",
+        "title": "Tous refusent, le Christ est tout et en tous",
+        "explanation": "Luc écrit πάντες pour l’unanimité du refus initial ; Paul emploie τὰ πάντα καὶ ἐν πᾶσιν pour la totalité récapitulée dans le Christ. La famille de πᾶς oppose un “tous” fermé par l’excuse à un “tout” ouvert dans le Christ.",
+        "bridge_sentence": "Lorsque tous les premiers invités se ferment, le Christ ouvre la totalité à ceux que les frontières tenaient dehors.",
+        "homiletic_use": "Ne pas identifier les premiers invités à un peuple condamné : la parabole met chacun devant sa propre capacité à transformer un bien légitime en refus de l’appel.",
+        "bridge": {
+          "evidence": "Même famille πᾶς : πάντες / πάντα / πᾶσιν",
+          "gospel": "ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι : tous, unanimement, commencèrent à s’excuser",
+          "relation": "La totalité du refus humain est dépassée par la totalité inclusive du Christ",
+          "apostle": "τὰ πάντα καὶ ἐν πᾶσιν Χριστός : le Christ est tout et en tous",
+          "detail": "Les formes appartiennent au même adjectif πᾶς, décliné selon leur fonction."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "πάντες"
+              ],
+              "lemma": "πᾶς",
+              "root": "παντ- : tout, totalité",
+              "literal": "tous",
+              "role": "Le refus prend une forme collective et apparemment unanime."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "πάντα",
+                "πᾶσιν"
+              ],
+              "lemma": "πᾶς",
+              "root": "παντ- : tout, totalité",
+              "literal": "tout / en tous",
+              "role": "Le Christ traverse les catégories qui séparaient les êtres humains."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "18"
+          ],
+          "terms": [
+            "πάντες"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "8",
+            "11"
+          ],
+          "terms": [
+            "πάντα",
+            "πᾶσιν"
+          ]
+        }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_word",
+        "link_type": "servant_and_freedom",
+        "title": "Le serviteur envoyé, ni esclave ni homme libre",
+        "explanation": "Le δοῦλος du maître porte l’invitation dans les rues ; Paul affirme qu’en Christ la distinction δοῦλος, ἐλεύθερος ne définit plus l’appartenance. Le serviteur de la parabole devient ainsi l’instrument par lequel la maison s’ouvre à tous.",
+        "bridge_sentence": "Dans la maison remplie par l’appel, ni la servitude ni le statut social ne déterminent la place : le Christ est en tous.",
+        "homiletic_use": "Conserver le sens narratif du serviteur tout en montrant comment l’épître désamorce l’usage social de la catégorie esclave/libre.",
+        "bridge": {
+          "evidence": "Même nom δοῦλος : δοῦλον / δοῦλος",
+          "gospel": "ἀπέστειλεν τὸν δοῦλον αὐτοῦ : il envoya son serviteur",
+          "relation": "Le service de l’appel prépare une communauté où le statut ne sépare plus",
+          "apostle": "δοῦλος, ἐλεύθερος… ἐν πᾶσιν Χριστός : esclave, homme libre… le Christ en tous",
+          "detail": "Les cas grammaticaux diffèrent, mais le substantif est identique."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "δοῦλον",
+                "δοῦλος",
+                "δούλῳ"
+              ],
+              "lemma": "δοῦλος",
+              "root": "δουλ- : serviteur, esclave",
+              "literal": "serviteur",
+              "role": "Il transmet fidèlement l’appel et conduit ceux qui étaient exclus vers la maison."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "δοῦλος"
+              ],
+              "lemma": "δοῦλος",
+              "root": "δουλ- : esclave, serviteur",
+              "literal": "esclave",
+              "role": "Le statut social cesse d’être un principe de séparation dans le Christ."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "17",
+            "21",
+            "22",
+            "23"
+          ],
+          "terms": [
+            "δοῦλον",
+            "δοῦλος",
+            "δούλῳ"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "11"
+          ],
+          "terms": [
+            "δοῦλος"
+          ]
+        }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_root",
+        "link_type": "come_to_new_life",
+        "title": "Venez, tout est prêt, quand le Christ paraîtra",
+        "explanation": "L’invitation dit Ἔρχεσθε ; Paul annonce ὅταν ὁ Χριστὸς φανερωθῇ et rappelle que la colère ἔρχεται sur l’ancien mode de vie. La famille ἐρχ- place l’existence entre deux venues : l’appel présent et la manifestation du Christ notre vie.",
+        "bridge_sentence": "Venir au festin, c’est déjà orienter sa vie vers la manifestation du Christ qui est notre vie.",
+        "homiletic_use": "Faire entendre le présent de l’appel : les excuses ne sont pas mauvaises par leur objet, champ, travail, mariage, mais parce qu’elles rendent indisponible à Celui qui vient.",
+        "bridge": {
+          "evidence": "Famille ἐρχ- : Ἔρχεσθε / ἔρχεται",
+          "gospel": "Ἔρχεσθε, ὅτι ἤδη ἕτοιμά ἐστιν : venez, car désormais tout est prêt",
+          "relation": "La venue demandée aux invités répond à la venue et à la manifestation du Christ",
+          "apostle": "ἔρχεται ἡ ὀργὴ τοῦ θεοῦ… ὁ Χριστὸς φανερωθῇ : vient la colère de Dieu… lorsque le Christ paraîtra",
+          "detail": "Le lien lexical porte sur ἔρχομαι ; φανερόω ajoute le thème distinct de la manifestation."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "Ἔρχεσθε"
+              ],
+              "lemma": "ἔρχομαι",
+              "root": "ἐρχ- : venir, aller",
+              "literal": "venez",
+              "role": "Le festin est prêt ; il reste aux invités à répondre par leur venue."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "ἔρχεται"
+              ],
+              "lemma": "ἔρχομαι",
+              "root": "ἐρχ- : venir",
+              "literal": "vient",
+              "role": "Paul rappelle que la conduite présente est orientée vers l’intervention de Dieu."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "17"
+          ],
+          "terms": [
+            "Ἔρχεσθε"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "6"
+          ],
+          "terms": [
+            "ἔρχεται"
+          ]
+        }
+      }
+    ]
+  }
+}
