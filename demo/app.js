@@ -118,9 +118,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (APP_CONFIG.demo) {
         document.body.classList.add('demo-mode');
-        document.title = APP_CONFIG.documentTitle || 'Évangéliaire et apôtre interlinéaire GR/FR Orthodoxe, Démonstration';
+        document.title = APP_CONFIG.documentTitle || 'Évangéliaire et Apôtre interlinéaire GR/FR Orthodoxe, Démonstration';
         const appTitle = document.getElementById('app-title');
-        if (appTitle) appTitle.textContent = APP_CONFIG.appTitle || 'Évangéliaire et apôtre interlinéaire GR/FR Orthodoxe';
+        if (appTitle) appTitle.textContent = APP_CONFIG.appTitle || 'Évangéliaire et Apôtre interlinéaire GR/FR Orthodoxe';
         const brand = document.querySelector('.app-brand');
         if (brand) {
             const notice = document.createElement('p');
