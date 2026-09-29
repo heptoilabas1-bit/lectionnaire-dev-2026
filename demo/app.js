@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '322_after_pentecost_22': 'Le Riche et Lazare (5e de Luc)',
         '323_after_pentecost_23': 'Le Démoniaque de Gérasa (6e de Luc)',
         '324_after_pentecost_24': 'La Fille de Jaïre (7e de Luc)',
-        '325_after_pentecost_25': 'Le Bon Samaritain (8e de Luc)',
+        '325_after_pentecost_25': 'Le Bon Samaritain (25e dimanche après la Pentecôte)',
         '326_after_pentecost_26': 'Le Riche insensé (9e de Luc)',
         '327_after_pentecost_27': 'La Femme courbée (10e de Luc)',
         '328_after_pentecost_28': 'Les Dix Lépreux (12e de Luc)',
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '332_after_pentecost_32': 'Zachée (15e de Luc)',
 
         // --- Cycle de la Nativité et de la Théophanie ---
-        '90_advent_2': 'Les Saints Ancêtres (2e dimanche avant la Nativité)',
+        '90_advent_2': 'Le grand souper — Dimanche des ancêtres (28e dimanche après la Pentecôte = 2e dimanche avant la Nativité)',
         '91_advent_1': 'Généalogie du Seigneur (Dimanche avant la Nativité)',
         '92_nativity_after': 'La Fuite en Égypte (Dimanche après la Nativité)',
         '93_theophany_before': 'Commencement de l’Évangile (Dimanche avant la Théophanie)',
@@ -118,9 +118,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (APP_CONFIG.demo) {
         document.body.classList.add('demo-mode');
-        document.title = APP_CONFIG.documentTitle || 'Évangéliaire interlinéaire orthodoxe, Démonstration';
+        document.title = APP_CONFIG.documentTitle || 'Évangéliaire et apôtre interlinéaire GR/FR Orthodoxe, Démonstration';
         const appTitle = document.getElementById('app-title');
-        if (appTitle) appTitle.textContent = APP_CONFIG.appTitle || 'Évangéliaire interlinéaire orthodoxe';
+        if (appTitle) appTitle.textContent = APP_CONFIG.appTitle || 'Évangéliaire et apôtre interlinéaire GR/FR Orthodoxe';
         const brand = document.querySelector('.app-brand');
         if (brand) {
             const notice = document.createElement('p');
@@ -768,26 +768,21 @@ document.addEventListener('DOMContentLoaded', () => {
         resurrection: 'Mort → relèvement'
     };
 
-    const connectionGreekBasisLabels = {
-        same_form: 'Même forme grecque',
-        same_lemma: 'Forme du dictionnaire identique',
-        same_root: 'Racine identique',
-        movement: 'Correspondance de structure, sans racine commune'
-    };
+    const comparisonNature = connection =>
+        ['same_form', 'same_lemma', 'same_root', 'same_word'].includes(connection?.kind)
+            ? 'Racine identique'
+            : 'Rapprochement sémantique';
 
     const buildComparisonHomilyMaterial = connection => {
         const bridge = connection?.bridge || {};
-        const linkType = connectionLinkTypeLabels[connection?.link_type]
-            || connectionKindLabels[connection?.kind]
-            || 'Rapprochement';
-        const greekBasis = connectionGreekBasisLabels[connection?.kind] || 'Mots grecs différents';
+        const linkType = comparisonNature(connection);
         const lemmas = ['gospel', 'apostle'].flatMap(side =>
             (connection?.term_details?.[side] || []).map(term => term.lemma)
         ).filter(Boolean);
         return {
             title: `Évangile ↔ Apôtre, ${connection?.title || 'Rapprochement'}`,
             content: [
-                `Nature du lien : ${linkType} (${greekBasis.toLowerCase()}).`,
+                `Nature du lien : ${linkType}.`,
                 bridge.gospel ? `Évangile : ${bridge.gospel}` : '',
                 bridge.apostle ? `Apôtre : ${bridge.apostle}` : '',
                 bridge.relation ? `Relation : ${bridge.relation}` : '',
@@ -921,6 +916,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         greek.tabIndex = 0;
                         greek.setAttribute('role', 'button');
                         greek.setAttribute('aria-label', `Étudier ${word.greek || 'ce mot'} dans la comparaison`);
+                    } else if (!fullConnections) {
+                        unit.classList.add('is-secondary');
                     }
                     if (annotation) {
                         greek.dataset.annotation = encodeURIComponent(JSON.stringify(annotation));
@@ -961,13 +958,8 @@ document.addEventListener('DOMContentLoaded', () => {
         badges.className = 'comparison-badges';
         const relationType = document.createElement('span');
         relationType.className = `comparison-badge comparison-badge-${connection.directness || 'indirect'}`;
-        relationType.textContent = `Nature du lien · ${connectionLinkTypeLabels[connection.link_type]
-            || connectionKindLabels[connection.kind]
-            || 'Rapprochement'}`;
-        const greekBasis = document.createElement('span');
-        greekBasis.className = 'comparison-badge comparison-badge-kind';
-        greekBasis.textContent = connectionGreekBasisLabels[connection.kind] || 'Mots grecs différents';
-        badges.append(relationType, greekBasis);
+        relationType.textContent = `Nature du lien · ${comparisonNature(connection)}`;
+        badges.appendChild(relationType);
         const title = document.createElement('h3');
         title.textContent = connection.title || `Rapprochement ${index + 1}`;
         const explanation = document.createElement('p');
@@ -1285,7 +1277,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const fixedCycleFeasts = [
         { id: 'new-year', month: 8, day: 1, short: 'Nouvel an', title: 'Commencement de l’année liturgique' },
         { id: 'theotokos-nativity', month: 8, day: 8, short: 'Nativité M.D.D.', title: 'Nativité de la Mère de Dieu' },
-        { id: 'cross', month: 8, day: 14, short: 'Sainte-Croix', title: 'Exaltation de la Sainte-Croix' },
+        { id: 'cross', month: 8, day: 14, short: 'Exaltation de la Sainte Croix', title: 'Exaltation de la Sainte Croix' },
         { id: 'entry-theotokos', month: 10, day: 21, short: 'Entrée M.D.D.', title: 'Entrée au Temple de la Mère de Dieu' },
         { id: 'nativity', month: 11, day: 25, short: 'Nativité', title: 'Nativité du Seigneur' },
         { id: 'theophany', month: 0, day: 6, short: 'Théophanie', title: 'Théophanie du Seigneur' },
@@ -1313,6 +1305,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { day: -28, label: 'Croix', row: 0 },
         { day: -7, label: 'Rameaux', row: 1 },
         { day: 0, label: 'Pâques', main: true },
+        { day: 39, label: 'Ascension', row: 2 },
         { day: 49, label: 'Pentecôte', row: 0 },
         { day: 56, label: 'Tous les Saints', row: 1 },
         { day: 119, label: '10e Matthieu', row: 0 }
@@ -1629,7 +1622,7 @@ document.addEventListener('DOMContentLoaded', () => {
             ? 'Rang du cycle mobile'
             : (context.variant === 'fixed' ? 'Dimanche fixe' : 'Dimanche du cycle mobile');
         const title = document.createElement('strong');
-        const fixedTitle = context.fixedLabel || cleanLiturgicalSundayLabel(liturgicalList[context.key] || calendarEntry?.official_title || context.key || 'Dimanche');
+        const fixedTitle = context.fixedLabel || demoCalendarTitle(calendarEntry || {}) || cleanLiturgicalSundayLabel(liturgicalList[context.key] || calendarEntry?.official_title || context.key || 'Dimanche');
         title.textContent = context.correspondence
             ? (context.correspondencePending ? 'DP à valider' : `DP ${context.mobileRank}`)
             : fixedTitle;
@@ -1651,7 +1644,7 @@ document.addEventListener('DOMContentLoaded', () => {
             position.textContent = `En ${liturgicalYearLabel}, ce dimanche fixe rencontre le ${rank}${rank === 1 ? 'er' : 'e'} dimanche après la Pentecôte (DP ${rank}). Cette correspondance varie selon la date de Pâques.`;
         } else {
             position.textContent = calendarEntry?.official_title
-                ? `${calendarEntry.official_title} · ${formatPaschalOffset(exactOffset)}.`
+                ? `${demoCalendarTitle(calendarEntry) || calendarEntry.official_title} · ${formatPaschalOffset(exactOffset)}.`
                 : `${describeSundayPosition(context.key, context.offset, context.variant)} · ${formatPaschalOffset(context.offset)}.`;
         }
         const readings = document.createElement('div');
@@ -1723,7 +1716,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const attachLiturgicalSundayTooltip = (button, context, openReading) => {
         button.setAttribute('aria-describedby', 'liturgical-sunday-tooltip');
         const contextTitle = cleanLiturgicalSundayLabel(liturgicalList[context.key] || context.calendarEntry?.official_title || context.key || 'Dimanche');
-        const contextPosition = context.calendarEntry?.official_title || (context.key ? describeSundayPosition(context.key, context.offset, context.variant) : 'Dimanche du calendrier officiel');
+        const contextPosition = (context.calendarEntry && demoCalendarTitle(context.calendarEntry)) || context.calendarEntry?.official_title || (context.key ? describeSundayPosition(context.key, context.offset, context.variant) : 'Dimanche du calendrier officiel');
         button.setAttribute('aria-label', `${contextTitle}. ${contextPosition}. ${openReading ? 'Ouvrir la péricope.' : 'Références officielles seulement.'}`);
         let lastPointerType = '';
         button.addEventListener('pointerdown', event => { lastPointerType = event.pointerType; });
@@ -1802,11 +1795,30 @@ document.addEventListener('DOMContentLoaded', () => {
             block.textContent = segment.compact ? '' : segment.label;
             scale.appendChild(block);
         });
+        for (let rank = 1; rank <= 15; rank += 1) {
+            const center = 56 + (rank - 1) * 7;
+            const cell = document.createElement('span');
+            cell.className = 'mobile-dp-cell';
+            cell.style.left = `${cyclePercent(center - 3.5)}%`;
+            cell.style.width = `${cyclePercent(center + 3.5) - cyclePercent(center - 3.5)}%`;
+            cell.textContent = `DP ${rank}`;
+            cell.title = `${rank}${rank === 1 ? 'er' : 'e'} dimanche après la Pentecôte`;
+            scale.appendChild(cell);
+        }
         const paschaLabel = document.createElement('span');
         paschaLabel.className = 'mobile-ribbon-pascha-label';
         paschaLabel.style.left = `${cyclePercent(0)}%`;
         paschaLabel.textContent = 'Pâques';
         scale.appendChild(paschaLabel);
+        mobileCycleLandmarks.filter(item => !item.main).forEach(item => {
+            const marker = document.createElement('span');
+            marker.className = 'mobile-cycle-landmark';
+            marker.style.left = `${cyclePercent(item.day)}%`;
+            marker.style.setProperty('--landmark-row', String(item.row || 0));
+            marker.textContent = item.label;
+            marker.title = `${item.label}, repère du cycle mobile`;
+            scale.appendChild(marker);
+        });
         ribbon.appendChild(scale);
         const coreLane = document.createElement('section');
         coreLane.className = 'mobile-sunday-lane mobile-sunday-lane-core';
@@ -1840,7 +1852,21 @@ document.addEventListener('DOMContentLoaded', () => {
         return rank ? Number(rank[1]) : null;
     };
 
+    const demoCalendarTitle = entry => {
+        if (entry.key === '97_cross_after') return 'Dimanche après l’exaltation de la Sainte Croix';
+        if (entry.key === '325_after_pentecost_25') {
+            const rank = officialSundayRank(entry);
+            return `Le Bon Samaritain${rank ? ` (${rank}e dimanche après la Pentecôte)` : ''}`;
+        }
+        if (entry.key === '90_advent_2')
+            return 'Le grand souper — Dimanche des ancêtres (28e dimanche après la Pentecôte = 2e dimanche avant la Nativité)';
+        return null;
+    };
+
     const calendarSundayCardLabel = entry => {
+        if (entry.key === '97_cross_after') return 'D. après Croix';
+        if (entry.key === '90_advent_2') return 'Le grand souper';
+        if (entry.key === '325_after_pentecost_25') return 'Bon Samaritain';
         if (entry.key && liturgicalList[entry.key]) return cleanLiturgicalSundayLabel(liturgicalList[entry.key]);
         const title = entry.official_title || entry.key || 'Dimanche';
         if (/^Transfiguration/i.test(title)) return 'Transfiguration du Seigneur';
@@ -2057,7 +2083,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const dayInYear = cycleDayDifference(placement.date, yearStart);
             const marker = document.createElement('button');
             marker.type = 'button';
-            marker.className = `fixed-feast-marker${placement.id === selectedFixedFeastId ? ' active' : ''}`;
+            marker.className = `fixed-feast-marker fixed-feast-marker-${placement.id}${placement.id === selectedFixedFeastId ? ' active' : ''}`;
             marker.style.left = `${(dayInYear / yearDays) * 100}%`;
             marker.style.setProperty('--label-row', String(index % 3));
             marker.setAttribute('aria-label', `${placement.title}, ${formatLiturgicalDate(placement.date)}`);
@@ -2134,7 +2160,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!container) return;
         container.innerHTML = '';
         liturgicalSundayRows.forEach(row => {
-            const availableKeys = row.keys.filter(isSundayAvailable);
+            const availableKeys = row.keys.filter(key => Boolean(liturgicalList[key]));
             if (!availableKeys.length) return;
             const section = document.createElement('section');
             section.className = `liturgical-sunday-row sunday-row-${row.tone}`;
@@ -2148,7 +2174,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title.id = `sunday-row-title-${row.id}`;
             title.textContent = row.title;
             const count = document.createElement('span');
-            count.textContent = `${availableKeys.length} accès`;
+            count.textContent = `${availableKeys.filter(isSundayAvailable).length} péricopes à ouvrir`;
             heading.append(eyebrow, title, count);
 
             const scroll = document.createElement('div');
@@ -2158,27 +2184,43 @@ document.addEventListener('DOMContentLoaded', () => {
             const grid = document.createElement('div');
             grid.className = 'liturgical-sunday-grid';
             grid.style.setProperty('--sunday-count', String(availableKeys.length));
+            const description = document.createElement('div');
+            description.className = 'liturgical-catalog-description';
+            description.hidden = true;
+            description.setAttribute('aria-live', 'polite');
 
             availableKeys.forEach((key, index) => {
                 const fullLabel = liturgicalList[key] || key;
                 const button = document.createElement('button');
                 button.type = 'button';
-                button.className = `liturgical-sunday-card${key === currentSundayKey ? ' active' : ''}`;
+                const available = isSundayAvailable(key);
+                button.className = `liturgical-sunday-card${key === currentSundayKey ? ' active' : ''}${available ? '' : ' is-descriptive'}`;
                 button.dataset.sundayKey = key;
-                button.setAttribute('aria-label', `Ouvrir la péricope : ${fullLabel}`);
+                button.setAttribute('aria-label', `${available ? 'Ouvrir la péricope' : 'Voir le repère liturgique'} : ${fullLabel}`);
                 const number = document.createElement('span');
                 number.textContent = String(index + 1).padStart(2, '0');
                 const label = document.createElement('strong');
                 label.textContent = cleanLiturgicalSundayLabel(fullLabel);
                 const action = document.createElement('small');
-                action.textContent = 'Évangile · Apôtre';
+                action.textContent = available ? 'Évangile · Apôtre' : 'Repère liturgique';
                 button.append(number, label, action);
-                button.addEventListener('click', () => openLiturgicalStageReading({ key }, 'gospel'));
+                button.addEventListener('click', () => {
+                    if (available) return openLiturgicalStageReading({ key }, 'gospel');
+                    description.hidden = false;
+                    description.replaceChildren();
+                    const name = document.createElement('strong');
+                    name.textContent = fullLabel;
+                    const detail = document.createElement('p');
+                    detail.textContent = describeSundayPosition(key, 0, fixedSundayKeys.has(key) ? 'fixed' : 'cycle');
+                    const note = document.createElement('small');
+                    note.textContent = 'Repère du parcours ; texte interlinéaire réservé aux quatre péricopes de la démo.';
+                    description.append(name, detail, note);
+                });
                 grid.appendChild(button);
             });
 
             scroll.appendChild(grid);
-            section.append(heading, scroll);
+            section.append(heading, scroll, description);
             container.appendChild(section);
         });
     };
@@ -3048,10 +3090,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 option.className = isLinked ? 'calendar-option-linked' : 'calendar-option-pending';
                 option.dataset.status = isLinked ? 'linked' : 'pending';
                 const sourceTitle = sunday.official_title || sunday.doxologia_title;
-                const relatedTitle = sunday.key
+                const relatedTitle = demoCalendarTitle(sunday) || (sunday.key
                     ? liturgicalList[sunday.key] || sourceTitle
-                    : sourceTitle || liturgicalList[sunday.related_key];
-                const sourceTitleSuffix = sunday.key && sourceTitle && liturgicalList[sunday.key]
+                    : sourceTitle || liturgicalList[sunday.related_key]);
+                const sourceTitleSuffix = !demoCalendarTitle(sunday) && sunday.key && sourceTitle && liturgicalList[sunday.key]
                     ? ` (${sourceTitle})`
                     : '';
                 const statePrefix = calendar.status === 'provisional'
@@ -3997,53 +4039,54 @@ document.addEventListener('DOMContentLoaded', () => {
         const lexical = annotation.lexical || {};
         const local = annotation.local || {};
 
-        const grammarCard = document.createElement('section');
-        grammarCard.className = 'word-sheet-grammar';
-        const grammarHeading = document.createElement('div');
-        const grammarKicker = document.createElement('span');
-        grammarKicker.className = 'word-sheet-kicker';
-        grammarKicker.textContent = 'Forme rencontrée';
-        const grammarTitle = document.createElement('strong');
-        grammarTitle.textContent = grammar.form || annotation.title || '';
-        grammarHeading.append(grammarKicker, grammarTitle);
-        const grammarBadge = document.createElement('span');
-        grammarBadge.className = 'word-sheet-grammar-badge';
-        grammarBadge.textContent = grammar.abbreviation || grammar.parsing || 'Analyse grammaticale';
-        grammarCard.append(grammarHeading, grammarBadge);
-        const grammarFields = document.createElement('dl');
-        grammarFields.className = 'word-sheet-fields word-sheet-grammar-fields';
-        addDefinitionField(grammarFields, 'Forme du dictionnaire', grammar.lemma);
-        addDefinitionField(grammarFields, 'Catégorie', grammar.category);
-        addDefinitionField(grammarFields, 'Morphologie', grammar.parsing);
-        addDefinitionField(grammarFields, 'Syntaxe', grammar.syntax);
-        grammarCard.appendChild(grammarFields);
-
         const columns = document.createElement('div');
-        columns.className = 'word-sheet-columns';
+        columns.className = 'word-sheet-columns word-sheet-universal';
 
         const lexicalPanel = document.createElement('section');
-        lexicalPanel.className = 'word-sheet-panel word-sheet-universal';
+        lexicalPanel.className = 'word-sheet-panel';
         const lexicalHeading = document.createElement('h4');
         lexicalHeading.textContent = 'Fiche universelle du mot';
         lexicalPanel.appendChild(lexicalHeading);
+        const lemmaHelp = document.createElement('p');
+        lemmaHelp.className = 'word-sheet-lemma-help';
+        lemmaHelp.textContent = 'Lemme : forme sous laquelle le mot est présenté dans le dictionnaire.';
+        lexicalPanel.appendChild(lemmaHelp);
         const lexicalFields = document.createElement('dl');
         lexicalFields.className = 'word-sheet-fields';
-        addDefinitionField(lexicalFields, 'Forme du dictionnaire', grammar.lemma);
+        addDefinitionField(lexicalFields, 'Lemme', grammar.lemma);
         addDefinitionField(lexicalFields, 'Strong', lexical.strong);
         addDefinitionField(lexicalFields, 'Paradigme', lexical.paradigm);
         addDefinitionField(lexicalFields, 'Étymologie', lexical.etymology);
+        addDefinitionField(lexicalFields, 'Grammaire du paradigme', grammar.category);
         lexicalPanel.appendChild(lexicalFields);
+
+        const philologyPanel = document.createElement('section');
+        philologyPanel.className = 'word-sheet-panel word-sheet-philology';
+        const philologyHeading = document.createElement('h4');
+        philologyHeading.textContent = 'Éclairage philologique';
+        philologyPanel.appendChild(philologyHeading);
         if (Array.isArray(lexical.literal_senses) && lexical.literal_senses.length) {
             const heading = document.createElement('h5');
-            heading.textContent = 'Sens principaux';
-            lexicalPanel.appendChild(heading);
-            appendTextList(lexicalPanel, lexical.literal_senses);
+            heading.textContent = 'Polysémie et sens principaux';
+            philologyPanel.appendChild(heading);
+            appendTextList(philologyPanel, lexical.literal_senses);
         }
         if (Array.isArray(lexical.distinctions) && lexical.distinctions.length) {
             const heading = document.createElement('h5');
-            heading.textContent = 'Distinguer les expressions de l’unité';
-            lexicalPanel.appendChild(heading);
-            appendTextList(lexicalPanel, lexical.distinctions);
+            heading.textContent = 'Distinctions de sens et de racines';
+            philologyPanel.appendChild(heading);
+            appendTextList(philologyPanel, lexical.distinctions);
+        }
+        if (Array.isArray(lexical.wordplay) && lexical.wordplay.length) {
+            const heading = document.createElement('h5');
+            heading.textContent = 'Sonorités et paronomases';
+            philologyPanel.appendChild(heading);
+            appendTextList(philologyPanel, lexical.wordplay);
+        }
+        if (!philologyPanel.querySelector('ul')) {
+            const note = document.createElement('p');
+            note.textContent = 'Développements philologiques en cours de validation.';
+            philologyPanel.appendChild(note);
         }
         if (lexical.theological_horizon) {
             const horizon = document.createElement('aside');
@@ -4059,7 +4102,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const localPanel = document.createElement('section');
         localPanel.className = 'word-sheet-panel word-sheet-local';
         const localHeading = document.createElement('h4');
-        localHeading.textContent = 'Dans cette péricope';
+        localHeading.textContent = 'Forme rencontrée dans cette péricope';
         localPanel.appendChild(localHeading);
         const localReference = document.createElement('p');
         localReference.className = 'word-sheet-reference';
@@ -4071,6 +4114,11 @@ document.addEventListener('DOMContentLoaded', () => {
         localPanel.appendChild(expression);
         const localFields = document.createElement('dl');
         localFields.className = 'word-sheet-fields';
+        addDefinitionField(localFields, 'Forme rencontrée', grammar.form || annotation.title);
+        addDefinitionField(localFields, 'Forme du dictionnaire', grammar.lemma);
+        addDefinitionField(localFields, 'Catégorie', grammar.category);
+        addDefinitionField(localFields, 'Morphologie', grammar.parsing);
+        addDefinitionField(localFields, 'Fonction dans la phrase', grammar.syntax);
         addDefinitionField(localFields, 'Littéralement', local.literal);
         addDefinitionField(localFields, 'Traduction proposée', local.translation);
         addDefinitionField(localFields, 'Construction', local.syntax);
@@ -4093,8 +4141,26 @@ document.addEventListener('DOMContentLoaded', () => {
             localPanel.appendChild(caution);
         }
 
-        columns.append(lexicalPanel, localPanel);
-        sheet.append(grammarCard, columns);
+        columns.append(lexicalPanel, philologyPanel);
+        sheet.append(columns, localPanel);
+        const analyses = Array.isArray(annotation.analyses) ? annotation.analyses.filter(item => item?.url && item?.label) : [];
+        if (analyses.length) {
+            const section = document.createElement('nav');
+            section.className = 'word-sheet-contributions';
+            section.setAttribute('aria-label', 'Analyses complémentaires');
+            const heading = document.createElement('h4');
+            heading.textContent = 'Analyses complémentaires';
+            section.appendChild(heading);
+            analyses.forEach(item => {
+                const link = document.createElement('a');
+                link.href = item.url;
+                link.textContent = item.label;
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+                section.appendChild(link);
+            });
+            sheet.appendChild(section);
+        }
 
         if (Array.isArray(annotation.occurrences) && annotation.occurrences.length) {
             const occurrences = document.createElement('section');
@@ -4232,7 +4298,7 @@ document.addEventListener('DOMContentLoaded', () => {
         };
         const type = inferAnnotationType(normalized);
         const structured = Boolean(normalized.grammar && (normalized.lexical || normalized.local));
-        analysisDialog.classList.toggle('word-sheet-dialog', structured);
+        analysisDialog.classList.add('word-sheet-dialog');
         const materialContent = structured
             ? [
                 normalized.local?.literal,
@@ -4255,34 +4321,21 @@ document.addEventListener('DOMContentLoaded', () => {
         if (structured) content.appendChild(buildStructuredWordSheet(normalized));
         else {
             const grammar = normalized.grammar || {};
-            const fields = document.createElement('dl');
-            fields.className = 'demo-grammar-fields';
-            addDefinitionField(fields, 'Forme rencontrée', grammar.form || target.textContent.trim());
-            addDefinitionField(fields, 'Forme du dictionnaire', grammar.lemma);
-            addDefinitionField(fields, 'Catégorie', grammar.category);
-            addDefinitionField(fields, 'Morphologie', grammar.parsing);
-            addDefinitionField(fields, 'Fonction dans la phrase', grammar.syntax);
-            content.appendChild(fields);
-            const etymology = normalized.etymology;
-            if (etymology) {
-                const section = document.createElement('section');
-                section.className = 'demo-etymology';
-                const heading = document.createElement('h4');
-                heading.textContent = 'Étymologie';
-                const explanation = document.createElement('p');
-                explanation.textContent = etymology;
-                section.append(heading, explanation);
-                const lemma = String(normalized.etymologyLemma || grammar.lemma || '').split(/[;,]/)[0].trim();
-                if (lemma) {
-                    const link = document.createElement('a');
-                    link.href = `https://outils.biblissima.fr/fr/eulexis-web/?lemma=${encodeURIComponent(lemma)}&dict=Bailly`;
-                    link.target = '_blank';
-                    link.rel = 'noopener noreferrer';
-                    link.textContent = 'Consulter dans le Bailly (Eulexis)';
-                    section.appendChild(link);
-                }
-                content.appendChild(section);
-            }
+            const lemma = String(normalized.etymologyLemma || grammar.lemma || '').split(/[;,]/)[0].trim();
+            const sheet = buildStructuredWordSheet({
+                ...normalized,
+                grammar: { ...grammar, form: grammar.form || target.textContent.trim() },
+                lexical: { etymology: normalized.etymology },
+                local: {
+                    reference: currentLectionaryData?.[currentReadingType]?.reference || '',
+                    expression: target.textContent.trim()
+                },
+                sources: lemma ? [{
+                    label: 'Consulter dans le Bailly (Eulexis)',
+                    url: `https://outils.biblissima.fr/fr/eulexis-web/?lemma=${encodeURIComponent(lemma)}&dict=Bailly`
+                }] : []
+            });
+            content.appendChild(sheet);
             const analysis = document.createElement('section');
             analysis.className = 'demo-analysis';
             const heading = document.createElement('h4');
