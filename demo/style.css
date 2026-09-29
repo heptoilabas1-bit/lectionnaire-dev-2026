@@ -1403,11 +1403,12 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .fixed-feast-marker.active { color: #fff; border-color: #4b1018; background: #6b1c29; box-shadow: 0 5px 13px rgba(70,20,28,.22); }
 .fixed-feast-marker.active span { color: #4b1018; background: #f0d789; }
 .fixed-feast-marker:focus-visible { outline: 3px solid #315d89; outline-offset: 2px; }
-.fixed-feast-guide { position: absolute; top: 330px; z-index: 1; width: 1px; height: 278px; border-left: 1px dashed rgba(164,123,33,.35); transition: left .35s ease; }
-.fixed-feast-guide.active { z-index: 2; width: 3px; border-left: 0; background: rgba(107,28,41,.62); }
+.fixed-feast-guide { position: absolute; top: 330px; z-index: 5; width: 2px; height: 126px; border-left: 2px dashed rgba(49,93,137,.7); pointer-events: none; transition: left .35s ease; }
+.fixed-feast-guide.active { z-index: 6; border-left-color: #245783; }
+.fixed-feast-guide::after { position: absolute; bottom: -3px; left: -5px; width: 8px; height: 8px; border: 2px solid #245783; border-radius: 50%; background: #fff; content: ''; }
 .mobile-calendar-ribbon { position: relative; z-index: 4; display: grid; gap: 7px; width: auto; margin: 0 12px 12px; }
 .mobile-calendar-ribbon::before { display: none; }
-.mobile-ribbon-scale { position: relative; height: 120px; overflow: visible; border: 1px solid #d5c9b0; border-radius: 8px; background: rgba(255,253,248,.96); }
+.mobile-ribbon-scale { position: relative; height: 170px; overflow: visible; border: 1px solid #d5c9b0; border-radius: 8px; background: rgba(255,253,248,.96); }
 .mobile-ribbon-scale::before { position: absolute; top: 17px; right: 0; left: 0; height: 22px; border-radius: 7px; background: #dfeaf3; content: ''; }
 .mobile-ribbon-pascha-label { position: absolute; top: 1px; z-index: 4; padding: 1px 6px; transform: translateX(-50%); border-radius: 999px; color: #fff; background: #6b1c29; font-size: .68rem; font-weight: 900; }
 .mobile-ribbon-row { --ribbon-accent: #315d89; display: grid; grid-template-columns: 190px minmax(0, 1fr); min-height: 108px; overflow: hidden; border: 1px solid #d5c9b0; border-radius: 8px; background: #fffdf8; box-shadow: 0 2px 7px rgba(56,39,24,.07); }
@@ -1454,7 +1455,8 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .timeline-mobile-rank-marker.is-provisional:hover { color: #fff; }
 .timeline-mobile-rank-marker.is-provisional:hover small { color: #e8f2fa; }
 .timeline-mobile-rank-marker:focus-visible { z-index: 9; outline: 3px solid #d1aa3b; outline-offset: 2px; }
-.fixed-mobile-correspondence-guide { position: absolute; top: 131px; z-index: 1; height: 470px; border-left: 2px dashed rgba(49,93,137,.48); pointer-events: none; }
+.fixed-mobile-correspondence-guide { position: absolute; top: 131px; z-index: 6; height: 516px; border-left: 2px dashed #315d89; pointer-events: none; }
+.fixed-mobile-correspondence-guide::after { position: absolute; bottom: -4px; left: -5px; width: 8px; height: 8px; border: 2px solid #315d89; border-radius: 50%; background: #fff; content: ''; }
 .timeline-sunday-reference-only { border-style: dashed; }
 .timeline-sunday-reference-only::after { position: absolute; top: 4px; right: 5px; color: #8a631d; content: 'réf.'; font-size: .48rem; font-weight: 900; letter-spacing: .04em; text-transform: uppercase; }
 .liturgical-sunday-tooltip { position: fixed; z-index: 1000; display: grid; gap: 5px; width: min(340px, calc(100vw - 20px)); box-sizing: border-box; padding: 13px 14px; border: 1px solid #b99a59; border-top: 4px solid #6b1c29; border-radius: 9px; color: #363029; background: #fffdf8; box-shadow: 0 12px 30px rgba(43,28,18,.24); pointer-events: none; }
@@ -1489,7 +1491,7 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .fixed-ribbon-lane-feast:hover, .fixed-ribbon-lane-feast.active { color: #fff; border-color: #4b1018; background: #6b1c29; }
 .fixed-ribbon-lane-feast.active span { color: #f0d789; }
 .fixed-ribbon-lane-feast:focus-visible { outline: 3px solid #315d89; outline-offset: 2px; }
-.mobile-cycle-segment { position: absolute; top: 16px; z-index: 1; display: grid; place-items: center; height: 22px; overflow: hidden; border-right: 1px solid rgba(255,255,255,.72); color: #fff; font-size: .6rem; font-weight: 800; letter-spacing: .02em; text-align: center; white-space: nowrap; }
+.mobile-cycle-segment { position: absolute; top: 16px; z-index: 1; display: grid; place-items: center; height: 22px; overflow: hidden; border-right: 2px solid #fff; color: #fff; font-size: .6rem; font-weight: 800; letter-spacing: .02em; text-align: center; white-space: nowrap; }
 .mobile-dp-cell { position: absolute; top: 16px; z-index: 3; display: grid; place-items: center; box-sizing: border-box; height: 22px; border: 1px solid #a8c7df; color: #fff; background: #315d89; font-size: .51rem; font-weight: 800; white-space: nowrap; }
 .segment-triodion { background: #6c7890; }
 .segment-lent { background: #5c3465; }
@@ -1499,7 +1501,7 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .segment-matthew { background: #426e77; }
 .segment-after-pentecost { background: #315d89; }
 .segment-luke { background: #4b536d; }
-.mobile-cycle-landmark { position: absolute; top: calc(44px + (var(--landmark-row, 0) * 24px)); z-index: 3; padding: 3px 5px 3px 6px; transform: translateX(-50%); border-left: 1px solid #315d89; border-radius: 0 5px 5px 0; color: #364657; background: rgba(255,253,248,.94); font-size: .62rem; font-weight: 800; white-space: nowrap; }
+.mobile-cycle-landmark { position: absolute; top: calc(46px + (var(--landmark-row, 0) * 32px)); z-index: 3; padding: 4px 6px; transform: translateX(-50%); border: 1px solid #315d89; border-radius: 5px; color: #234b70; background: #f5faff; font-size: .68rem; font-weight: 800; white-space: nowrap; }
 .mobile-cycle-landmark.is-pascha { top: 0; padding: 1px 6px; transform: translateX(-50%); border: 0; border-radius: 999px; color: #fff; background: #6b1c29; font-size: .68rem; }
 .cycle-encounter-detail { display: grid; grid-template-columns: minmax(150px, .25fr) minmax(180px, .35fr) minmax(250px, 1fr); gap: 7px 18px; align-items: center; margin-top: 14px; padding: 13px 15px; border-left: 5px solid #6b1c29; border-radius: 7px; background: #fff9eb; }
 .cycle-encounter-detail .cycle-encounter-date { color: #76561c; font-size: .75rem; font-weight: 800; letter-spacing: .03em; text-transform: uppercase; }
