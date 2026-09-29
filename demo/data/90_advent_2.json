@@ -2110,6 +2110,125 @@
             "πᾶσιν"
           ]
         }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_word",
+        "link_type": "servant_and_freedom",
+        "title": "Le serviteur envoyé, ni esclave ni homme libre",
+        "explanation": "Le δοῦλος du maître porte l’invitation dans les rues ; Paul affirme qu’en Christ la distinction δοῦλος, ἐλεύθερος ne définit plus l’appartenance. Le serviteur de la parabole devient ainsi l’instrument par lequel la maison s’ouvre à tous.",
+        "bridge_sentence": "",
+        "homiletic_use": "",
+        "bridge": {
+          "evidence": "Même nom δοῦλος : δοῦλον / δοῦλος",
+          "gospel": "ἀπέστειλεν τὸν δοῦλον αὐτοῦ : il envoya son serviteur",
+          "relation": "Le service de l’appel prépare une communauté où le statut ne sépare plus",
+          "apostle": "δοῦλος, ἐλεύθερος… ἐν πᾶσιν Χριστός : esclave, homme libre… le Christ en tous",
+          "detail": "Les cas grammaticaux diffèrent, mais le substantif est identique."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "δοῦλον",
+                "δοῦλος",
+                "δούλῳ"
+              ],
+              "lemma": "δοῦλος",
+              "root": "δουλ- : serviteur, esclave",
+              "literal": "serviteur",
+              "role": "Il transmet fidèlement l’appel et conduit ceux qui étaient exclus vers la maison."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "δοῦλος"
+              ],
+              "lemma": "δοῦλος",
+              "root": "δουλ- : esclave, serviteur",
+              "literal": "esclave",
+              "role": "Le statut social cesse d’être un principe de séparation dans le Christ."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "17",
+            "21",
+            "22",
+            "23"
+          ],
+          "terms": [
+            "δοῦλον",
+            "δοῦλος",
+            "δούλῳ"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "11"
+          ],
+          "terms": [
+            "δοῦλος"
+          ]
+        }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_root",
+        "link_type": "come_to_new_life",
+        "title": "Venez, tout est prêt, quand le Christ paraîtra",
+        "explanation": "L’invitation dit Ἔρχεσθε ; Paul annonce ὅταν ὁ Χριστὸς φανερωθῇ et rappelle que la colère ἔρχεται sur l’ancien mode de vie. La famille ἐρχ- place l’existence entre deux venues : l’appel présent et la manifestation du Christ notre vie.",
+        "bridge_sentence": "",
+        "homiletic_use": "",
+        "bridge": {
+          "evidence": "Famille ἐρχ- : Ἔρχεσθε / ἔρχεται",
+          "gospel": "Ἔρχεσθε, ὅτι ἤδη ἕτοιμά ἐστιν : venez, car désormais tout est prêt",
+          "relation": "La venue demandée aux invités répond à la venue et à la manifestation du Christ",
+          "apostle": "ἔρχεται ἡ ὀργὴ τοῦ θεοῦ… ὁ Χριστὸς φανερωθῇ : vient la colère de Dieu… lorsque le Christ paraîtra",
+          "detail": "Le lien lexical porte sur ἔρχομαι ; φανερόω ajoute le thème distinct de la manifestation."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "Ἔρχεσθε"
+              ],
+              "lemma": "ἔρχομαι",
+              "root": "ἐρχ- : venir, aller",
+              "literal": "venez",
+              "role": "Le festin est prêt ; il reste aux invités à répondre par leur venue."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "ἔρχεται"
+              ],
+              "lemma": "ἔρχομαι",
+              "root": "ἐρχ- : venir",
+              "literal": "vient",
+              "role": "Paul rappelle que la conduite présente est orientée vers l’intervention de Dieu."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "17"
+          ],
+          "terms": [
+            "Ἔρχεσθε"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "6"
+          ],
+          "terms": [
+            "ἔρχεται"
+          ]
+        }
       }
     ]
   }
