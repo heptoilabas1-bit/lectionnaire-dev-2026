@@ -1492,7 +1492,10 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .fixed-ribbon-lane-feast.active span { color: #f0d789; }
 .fixed-ribbon-lane-feast:focus-visible { outline: 3px solid #315d89; outline-offset: 2px; }
 .mobile-cycle-segment { position: absolute; top: 16px; z-index: 1; display: grid; place-items: center; height: 22px; overflow: hidden; border-right: 2px solid #fff; color: #fff; font-size: .6rem; font-weight: 800; letter-spacing: .02em; text-align: center; white-space: nowrap; }
-.mobile-dp-cell { position: absolute; top: 16px; z-index: 3; display: grid; place-items: center; box-sizing: border-box; height: 22px; border: 1px solid #a8c7df; color: #fff; background: #315d89; font-size: .51rem; font-weight: 800; white-space: nowrap; }
+.mobile-dp-cell { position: absolute; top: 16px; z-index: 3; display: grid; place-items: center; box-sizing: border-box; height: 22px; padding: 0; border: 1px solid #a8c7df; color: #fff; background: #315d89; font-size: .51rem; font-weight: 800; white-space: nowrap; cursor: pointer; }
+.mobile-dp-cell:hover, .mobile-dp-cell:focus-visible { z-index: 7; outline: 2px solid #d1aa3b; outline-offset: 1px; background: #163b62; }
+.mobile-dp-cell.is-outside-source { border-style: dashed; background: #647a90; }
+.liturgical-tooltip-related { padding-top: 6px; border-top: 1px solid #bfd1e0; color: #234b70 !important; font-weight: 700; }
 .segment-triodion { background: #6c7890; }
 .segment-lent { background: #5c3465; }
 .segment-holy-week { background: #3c2745; }
