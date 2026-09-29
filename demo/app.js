@@ -1303,10 +1303,15 @@ document.addEventListener('DOMContentLoaded', () => {
         { day: -49, label: 'Pardon', row: 1 },
         { day: -42, label: 'Orthodoxie', row: 2 },
         { day: -28, label: 'Croix', row: 0 },
+        { day: -8, label: 'Lazare', row: 2 },
         { day: -7, label: 'Rameaux', row: 1 },
+        { day: -3, label: 'Jeudi saint', row: 0 },
+        { day: -2, label: 'Vendredi saint', row: 2 },
         { day: 0, label: 'Pâques', main: true },
+        { day: 24, label: 'Mi-Pentecôte', row: 0 },
         { day: 39, label: 'Ascension', row: 2 },
         { day: 49, label: 'Pentecôte', row: 0 },
+        { day: 50, label: 'Saint-Esprit', row: 2 },
         { day: 56, label: 'Tous les Saints', row: 1 },
         { day: 119, label: '10e Matthieu', row: 0 }
     ];
@@ -1795,16 +1800,6 @@ document.addEventListener('DOMContentLoaded', () => {
             block.textContent = segment.compact ? '' : segment.label;
             scale.appendChild(block);
         });
-        for (let rank = 1; rank <= 15; rank += 1) {
-            const center = 56 + (rank - 1) * 7;
-            const cell = document.createElement('span');
-            cell.className = 'mobile-dp-cell';
-            cell.style.left = `${cyclePercent(center - 3.5)}%`;
-            cell.style.width = `${cyclePercent(center + 3.5) - cyclePercent(center - 3.5)}%`;
-            cell.textContent = `DP ${rank}`;
-            cell.title = `${rank}${rank === 1 ? 'er' : 'e'} dimanche après la Pentecôte`;
-            scale.appendChild(cell);
-        }
         const paschaLabel = document.createElement('span');
         paschaLabel.className = 'mobile-ribbon-pascha-label';
         paschaLabel.style.left = `${cyclePercent(0)}%`;
@@ -1883,9 +1878,31 @@ document.addEventListener('DOMContentLoaded', () => {
         mobileTrack.innerHTML = '';
         fixedTrack.innerHTML = '';
         document.querySelectorAll('.fixed-mobile-correspondence-guide').forEach(guide => guide.remove());
+        document.querySelectorAll('.mobile-dp-cell').forEach(cell => cell.remove());
 
         const yearStart = utcDate(year, 8, 1);
         const nextYearStart = utcDate(year + 1, 8, 1);
+        const scale = document.querySelector('.mobile-ribbon-scale');
+        if (scale) {
+            [year, year + 1].forEach(paschaYear => {
+                const base = orthodoxPaschaDate(paschaYear);
+                const followingPascha = orthodoxPaschaDate(paschaYear + 1);
+                for (let rank = 1; rank <= 40; rank += 1) {
+                    const date = new Date(base.getTime() + (49 + rank * 7) * 86400000);
+                    if (date >= followingPascha || date >= new Date(followingPascha.getTime() - 70 * 86400000)) break;
+                    if (date < yearStart || date >= nextYearStart) continue;
+                    const offset = cycleDayDifference(date, pascha);
+                    if (offset < CYCLE_AXIS_MIN || offset > CYCLE_AXIS_MAX) continue;
+                    const cell = document.createElement('span');
+                    cell.className = 'mobile-dp-cell';
+                    cell.style.left = `${cyclePercent(offset - 3.5)}%`;
+                    cell.style.width = `${cyclePercent(offset + 3.5) - cyclePercent(offset - 3.5)}%`;
+                    cell.textContent = `DP ${rank}`;
+                    cell.title = `${rank}${rank === 1 ? 'er' : 'e'} dimanche après la Pentecôte · ${formatLiturgicalDate(date)}`;
+                    scale.appendChild(cell);
+                }
+            });
+        }
         const availableCalendars = calendars.filter(Boolean);
         const entries = availableCalendars.flatMap(calendar => (calendar.sundays || []).map(entry => ({
             ...entry,
@@ -1940,12 +1957,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 variant,
                 calendarEntry: entry,
                 calendarStatus: entry.calendarStatus,
-                referenceOnly: !entry.key,
+                referenceOnly: !entry.key || !isSundayAvailable(entry.key),
                 mobileRank: variant === 'fixed' ? mobileRank : null,
                 fixedLabel: fullLabel,
                 liturgicalYear: year
             };
-            attachLiturgicalSundayTooltip(button, context, entry.key ? () => openLiturgicalStageReading({ key: entry.key }, 'gospel') : null);
+            attachLiturgicalSundayTooltip(button, context, entry.key && isSundayAvailable(entry.key)
+                ? () => openLiturgicalStageReading({ key: entry.key }, 'gospel') : null);
             track.appendChild(button);
 
             const correspondencePending = variant === 'fixed' && !mobileRank && entry.calendarStatus === 'provisional';
@@ -2411,7 +2429,6 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('liturgical-path-title').textContent = data.title;
             document.getElementById('liturgical-path-introduction').textContent = data.introduction;
             renderCycleAlignment();
-            renderLiturgicalSundayRows();
             overview.innerHTML = '';
             (data.overview || []).forEach(period => {
                 const card = document.createElement('article');
