@@ -916,8 +916,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         greek.tabIndex = 0;
                         greek.setAttribute('role', 'button');
                         greek.setAttribute('aria-label', `Étudier ${word.greek || 'ce mot'} dans la comparaison`);
-                    } else if (!fullConnections) {
-                        unit.classList.add('is-secondary');
+                    } else if (annotation) {
+                        unit.classList.add('is-unlinked-special');
                     }
                     if (annotation) {
                         greek.dataset.annotation = encodeURIComponent(JSON.stringify(annotation));
