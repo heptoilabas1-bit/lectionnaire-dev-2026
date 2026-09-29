@@ -118,9 +118,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (APP_CONFIG.demo) {
         document.body.classList.add('demo-mode');
-        document.title = APP_CONFIG.documentTitle || 'Lectionnaire interlinéaire orthodoxe, Démonstration';
+        document.title = APP_CONFIG.documentTitle || 'Évangéliaire interlinéaire orthodoxe, Démonstration';
         const appTitle = document.getElementById('app-title');
-        if (appTitle) appTitle.textContent = APP_CONFIG.appTitle || 'Lectionnaire Interlinéaire Orthodoxe';
+        if (appTitle) appTitle.textContent = APP_CONFIG.appTitle || 'Évangéliaire interlinéaire orthodoxe';
         const brand = document.querySelector('.app-brand');
         if (brand) {
             const notice = document.createElement('p');
