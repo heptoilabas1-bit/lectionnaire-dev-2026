@@ -1171,7 +1171,10 @@ document.addEventListener('DOMContentLoaded', () => {
             button.dataset.connectionIndex = String(index);
             button.textContent = `${index + 1}. ${connection.title || 'Rapprochement'}`;
             button.setAttribute('aria-pressed', 'false');
-            button.addEventListener('click', () => applyComparisonFocus(index, { scroll: true }));
+            button.addEventListener('click', () => applyComparisonFocus(
+                focusedComparisonIndex === index ? null : index,
+                { scroll: true }
+            ));
             focusNav.appendChild(button);
         });
 
@@ -1182,7 +1185,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const title = document.createElement('h3');
         title.textContent = 'Les deux lectures intégrales';
         const instruction = document.createElement('p');
-        instruction.textContent = 'Choisissez un rapprochement : les autres mots s’effacent pour laisser apparaître son parcours dans les deux textes.';
+        instruction.textContent = 'Tous les rapprochements sont visibles. Choisissez-en un pour suivre son parcours dans les deux textes.';
         heading.append(title, instruction);
         const grid = document.createElement('div');
         grid.className = 'comparison-grid';
@@ -1245,7 +1248,7 @@ document.addEventListener('DOMContentLoaded', () => {
             document.querySelectorAll('[data-comparison-mode]').forEach(button => {
                 button.classList.toggle('active', button.dataset.comparisonMode === comparisonDisplayMode);
             });
-            focusedComparisonIndex = comparisonDisplayMode === 'full' ? 0 : null;
+            focusedComparisonIndex = null;
             if (comparisonDisplayMode === 'full') renderFullComparisons(linksContainer, data, links);
             else renderRelatedComparisons(linksContainer, data, links);
             applyComparisonFocus(focusedComparisonIndex);
