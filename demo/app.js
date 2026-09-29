@@ -2160,7 +2160,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!container) return;
         container.innerHTML = '';
         liturgicalSundayRows.forEach(row => {
-            const availableKeys = row.keys.filter(key => Boolean(liturgicalList[key]));
+            const availableKeys = row.keys.filter(key => Boolean(fullLiturgicalList[key]));
             if (!availableKeys.length) return;
             const section = document.createElement('section');
             section.className = `liturgical-sunday-row sunday-row-${row.tone}`;
@@ -2190,7 +2190,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description.setAttribute('aria-live', 'polite');
 
             availableKeys.forEach((key, index) => {
-                const fullLabel = liturgicalList[key] || key;
+                const fullLabel = fullLiturgicalList[key] || key;
                 const button = document.createElement('button');
                 button.type = 'button';
                 const available = isSundayAvailable(key);
