@@ -1,4 +1,4 @@
-# Lectionnaire interlinéaire orthodoxe, démonstration
+# Évangéliaire interlinéaire orthodoxe, démonstration
 
 Cette publication contient uniquement la version de démonstration limitée à quatre péricopes.
 
