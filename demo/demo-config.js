@@ -1,7 +1,7 @@
 window.LECTIONARY_CONFIG = {
   "demo": true,
-  "documentTitle": "Lectionnaire interlinéaire orthodoxe, Démonstration",
-  "appTitle": "Lectionnaire Interlinéaire Orthodoxe",
+  "documentTitle": "Évangéliaire interlinéaire orthodoxe, Démonstration",
+  "appTitle": "Évangéliaire interlinéaire orthodoxe",
   "demoNotice": "Démonstration, quatre péricopes ; traductions et analyses en cours de validation",
   "allowedSundayKeys": [
     "309_after_pentecost_9",
@@ -18,5 +18,5 @@ window.LECTIONARY_CONFIG = {
     2027
   ],
   "defaultCalendarYear": 2026,
-  "dataVersion": "20260929-demo-18"
+  "dataVersion": "20260929-demo-19"
 };
