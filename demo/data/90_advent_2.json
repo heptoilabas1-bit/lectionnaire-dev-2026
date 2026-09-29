@@ -243,10 +243,15 @@
                   "l’unité selon le contexte"
                 ],
                 "paradigm": "Masculin εἷς, féminin μία, neutre ἕν ; génitif masculin et neutre ἑνός, féminin μιᾶς.",
-                "etymology": "Ancien numéral indo-européen, avec des formes de thème différentes selon le genre et le cas. Voir Chantraine, s.v. εἷς."
+                "etymology": "Ancien numéral indo-européen, avec des formes de thème différentes selon le genre et le cas. Voir Chantraine, s.v. εἷς.",
+                "distinctions": [
+                  "εἷς, μία, ἕν exprime le nombre un et, selon le contexte, l’unicité.",
+                  "ὁμός signifie « même » et marque l’identité ou la communauté.",
+                  "L’alpha copulatif réunit dans certains composés ; il ne doit pas être confondu avec l’alpha privatif qui marque l’absence."
+                ]
               },
               "local": {
-                "reference": "Luc 14,18, dimanche des saints Ancêtres",
+                "reference": "Luc 14,18, dimanche des ancêtres",
                 "expression": "ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι",
                 "literal": "Tous commencèrent, à partir d’une seule disposition, à s’excuser.",
                 "translation": "Tous, d’un même mouvement, commencèrent à s’excuser.",
