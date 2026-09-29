@@ -1,7 +1,7 @@
 window.LECTIONARY_CONFIG = {
   "demo": true,
-  "documentTitle": "Évangéliaire et apôtre interlinéaire GR/FR Orthodoxe, Démonstration",
-  "appTitle": "Évangéliaire et apôtre interlinéaire GR/FR Orthodoxe",
+  "documentTitle": "Évangéliaire et Apôtre interlinéaire GR/FR Orthodoxe, Démonstration",
+  "appTitle": "Évangéliaire et Apôtre interlinéaire GR/FR Orthodoxe",
   "demoNotice": "Démonstration, quatre péricopes ; traductions et analyses en cours de validation",
   "allowedSundayKeys": [
     "309_after_pentecost_9",
@@ -18,5 +18,5 @@ window.LECTIONARY_CONFIG = {
     2027
   ],
   "defaultCalendarYear": 2026,
-  "dataVersion": "20260929-demo-30"
+  "dataVersion": "20260929-demo-31"
 };
