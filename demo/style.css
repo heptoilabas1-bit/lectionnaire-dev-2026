@@ -1282,7 +1282,7 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .comparison-word-unit { display: inline-flex; flex-direction: column; align-items: center; max-width: 100%; }
 .comparison-word-unit .greek-word { padding: 2px 3px; border-radius: 4px; font-size: 1.08rem; line-height: 1.3; }
 .comparison-word-unit .inter-gloss { max-width: 120px; overflow-wrap: anywhere; font-size: .7rem; line-height: 1.15; text-align: center; }
-.comparison-word-unit.is-secondary { opacity: .4; filter: grayscale(1); }
+.comparison-word-unit.is-secondary { opacity: 1; filter: none; }
 .connection-highlight { color: #1c2530 !important; border: 2px solid #4f87b8 !important; background: #e5f0f8; box-shadow: 0 2px 5px rgba(61, 42, 25, .12); font-weight: 800; }
 .connection-highlight.mot-keyword-major { border-color: #8e2738 !important; background: #e5f0f8; box-shadow: inset 0 0 0 2px #4f87b8, 0 2px 5px rgba(61, 42, 25, .12); }
 .comparison-term { cursor: pointer; }
@@ -1311,8 +1311,8 @@ main { padding: 28px clamp(14px, 3vw, 38px) 50px; }
 .comparison-focus-button:focus-visible { outline: 3px solid #c7a75b; outline-offset: 2px; }
 .comparison-full-view .comparison-word-unit .greek-word { transition: opacity .18s ease, filter .18s ease, transform .18s ease; }
 .comparison-full-view.has-focused-link .connection-highlight:not(.is-focused-term) { opacity: .2; filter: grayscale(1); }
-.comparison-full-view.has-focused-link .comparison-word-unit.is-muted { opacity: .38; filter: grayscale(1); }
-.comparison-full-view.has-focused-link .comparison-word-unit.is-muted .connection-highlight { opacity: 1; }
+.comparison-full-view.has-focused-link .comparison-word-unit.is-muted { opacity: 1; filter: none; }
+.comparison-full-view.has-focused-link .comparison-word-unit.is-muted .connection-highlight:not(.is-focused-term) { opacity: .25; filter: grayscale(1); }
 .comparison-full-view.has-focused-link .is-focused-term { transform: translateY(-1px); box-shadow: 0 3px 8px rgba(61,42,25,.22); }
 .comparison-full-explanations { display: grid; gap: 12px; }
 .comparison-full-explanation[hidden] { display: none; }
