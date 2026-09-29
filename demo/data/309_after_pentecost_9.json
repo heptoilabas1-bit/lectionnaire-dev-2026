@@ -2218,6 +2218,62 @@
       {
         "directness": "direct",
         "kind": "same_root",
+        "link_type": "vigilance",
+        "title": "Regarder le vent, regarder comment on bâtit",
+        "explanation": "Matthieu emploie βλέπων lorsque Pierre regarde le vent ; Paul emploie βλεπέτω pour demander à chacun de veiller à sa manière de bâtir. La même racine fait du regard un lieu de discernement.",
+        "bridge_sentence": "",
+        "homiletic_use": "",
+        "bridge": {
+          "evidence": "Racine directement commune βλεπ- : βλέπων / βλεπέτω",
+          "gospel": "βλέπων δὲ τὸν ἄνεμον ἐφοβήθη : regardant le vent, il eut peur",
+          "relation": "Le regard détermine la stabilité de l’action",
+          "apostle": "ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ : que chacun regarde comment il bâtit",
+          "detail": "Le participe décrit le regard qui détourne Pierre ; l’impératif appelle le bâtisseur à une vigilance durable."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "βλέπων"
+              ],
+              "lemma": "βλέπω",
+              "root": "βλεπ- : voir, regarder",
+              "literal": "regardant",
+              "role": "Le regard de Pierre se fixe sur la menace et la peur surgit."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "βλεπέτω"
+              ],
+              "lemma": "βλέπω",
+              "root": "βλεπ- : voir, veiller",
+              "literal": "qu’il regarde, qu’il veille",
+              "role": "Chacun doit discerner la qualité de sa construction."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "30"
+          ],
+          "terms": [
+            "βλέπων"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "10"
+          ],
+          "terms": [
+            "βλεπέτω"
+          ]
+        }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_root",
         "link_type": "salvation",
         "title": "Sauve-moi, lui-même sera sauvé",
         "explanation": "Le cri de Pierre et l’affirmation de Paul partagent la racine σω- : le disciple menacé appelle le Seigneur, tandis que le bâtisseur dont l’œuvre brûle peut encore être sauvé.",
