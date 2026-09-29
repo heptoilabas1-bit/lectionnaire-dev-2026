@@ -1,10 +1,10 @@
 {
   "title": "Le fil de l’année liturgique",
-  "introduction": "Cette version de démonstration présente quatre stations du cycle liturgique et permet d’ouvrir directement leurs péricopes.",
+  "introduction": "Les grandes fêtes et les dimanches du parcours sont visibles. Quatre péricopes donnent accès aux lectures et aux outils d’étude dans cette démonstration.",
   "overview": [
     {
       "title": "Quatre péricopes de démonstration",
-      "mobile": "Neuvième et vingt-cinquième dimanches après Pentecôte, dimanche des saints Ancêtres",
+      "mobile": "Neuvième et vingt-cinquième dimanches après la Pentecôte, dimanche des ancêtres",
       "fixed": [
         "Dimanche après l’Exaltation de la Sainte Croix"
       ]
@@ -14,13 +14,13 @@
     "id": "demo",
     "selector_label": "Quatre péricopes",
     "title": "Quatre stations de l’année liturgique",
-    "introduction": "Chaque station ouvre une péricope complète de la démonstration, avec son Évangile, son Apôtre et ses outils d’étude.",
+    "introduction": "Chaque station de démonstration ouvre son Évangile, son Apôtre et ses outils d’étude ; les autres repères du parcours restent descriptifs.",
     "stages": [
       {
         "id": "after-cross",
         "key": "97_cross_after",
         "short_label": "Après la Croix",
-        "title": "Dimanche après l’Exaltation de la Croix",
+        "title": "Dimanche après l’exaltation de la Sainte Croix",
         "position": "Dimanche propre suivant le 14 septembre, réception personnelle du mystère célébré",
         "sense": "Renoncement, suite et vie",
         "summary": "Prendre sa croix ne signifie pas rechercher la souffrance, mais suivre le Christ et recevoir sa vie. Paul exprime cette union sans disparition de la personne : le Christ vit en moi.",
@@ -52,7 +52,7 @@
         "key": "325_after_pentecost_25",
         "short_label": "Bon Samaritain",
         "title": "Le Bon Samaritain",
-        "position": "Huitième dimanche de Luc, de la définition du prochain à l’acte de proximité",
+        "position": "25e dimanche après la Pentecôte, de la définition du prochain à l’acte de proximité",
         "sense": "Descente, compassion et soin",
         "summary": "La question « qui est mon prochain ? » devient une autre question : de qui vais-je me faire proche ? Le Samaritain voit, s’approche, soigne et confie l’homme blessé à une demeure d’accueil.",
         "readings": {
@@ -81,8 +81,8 @@
       {
         "id": "holy-ancestors",
         "key": "90_advent_2",
-        "short_label": "Saints Ancêtres",
-        "title": "Dimanche des Saints Ancêtres",
+        "short_label": "Grand souper",
+        "title": "Le grand souper — Dimanche des ancêtres (28e dimanche après la Pentecôte = 2e dimanche avant la Nativité)",
         "position": "Deuxième dimanche avant la Nativité, l’invitation adressée à travers l’histoire",
         "sense": "Appel, refus et maison remplie",
         "summary": "Le grand repas est préparé, mais les premiers invités s’enferment dans leurs acquisitions et leurs occupations. L’appel rejoint alors les pauvres et les exclus afin que la maison soit remplie.",
