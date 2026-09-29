@@ -1720,7 +1720,7 @@ document.addEventListener('DOMContentLoaded', () => {
             : context.correspondence
             ? 'Repère bleu : correspondance valable pour l’année affichée.'
             : context.referenceOnly
-            ? 'Références officielles disponibles ; fiche interlinéaire détaillée à intégrer.'
+            ? 'Repère descriptif ; les lectures interlinéaires ne sont pas ouvertes ici.'
             : (touchPrimedLiturgicalSundayButton === button
                 ? 'Touchez une seconde fois pour ouvrir les lectures.'
                 : 'Cliquez pour ouvrir les lectures.');
@@ -1741,7 +1741,7 @@ document.addEventListener('DOMContentLoaded', () => {
             } else if (context.correspondence) {
                 button.setAttribute('aria-label', `DP ${context.mobileRank}. Correspondance ${liturgicalYearLabel} avec ${fixedTitle}. ${formatLiturgicalFullDate(officialDate)}.`);
             } else {
-                const actionLabel = context.referenceOnly ? 'Références officielles seulement.' : 'Ouvrir la péricope.';
+                const actionLabel = context.referenceOnly ? 'Repère descriptif seulement.' : 'Ouvrir la péricope.';
                 const annualLink = context.variant === 'fixed' && context.mobileRank
                     ? ` Correspondance ${liturgicalYearLabel} : DP ${context.mobileRank}.`
                     : '';
@@ -1777,7 +1777,9 @@ document.addEventListener('DOMContentLoaded', () => {
         button.setAttribute('aria-describedby', 'liturgical-sunday-tooltip');
         const contextTitle = cleanLiturgicalSundayLabel(liturgicalList[context.key] || context.calendarEntry?.official_title || context.key || 'Dimanche');
         const contextPosition = (context.calendarEntry && demoCalendarTitle(context.calendarEntry)) || context.calendarEntry?.official_title || (context.key ? describeSundayPosition(context.key, context.offset, context.variant) : 'Dimanche du calendrier officiel');
-        button.setAttribute('aria-label', `${contextTitle}. ${contextPosition}. ${openReading ? 'Ouvrir la péricope.' : 'Références officielles seulement.'}`);
+        button.setAttribute('aria-label', context.dpSeries
+            ? `DP ${context.dpSeries.rank} · ${context.dpSeries.entry?.[0] || 'rang annuel hors du tableau fourni'}. Repère descriptif.`
+            : `${contextTitle}. ${contextPosition}. ${openReading ? 'Ouvrir la péricope.' : 'Références descriptives seulement.'}`);
         let lastPointerType = '';
         button.addEventListener('pointerdown', event => { lastPointerType = event.pointerType; });
         button.addEventListener('mouseenter', () => showLiturgicalSundayTooltip(button, context));
@@ -2107,12 +2109,6 @@ document.addEventListener('DOMContentLoaded', () => {
             new Date(pascha.getTime() + day * 86400000), label
         ));
 
-        if (!entries.length) {
-            const note = document.createElement('span');
-            note.className = 'mobile-sunday-track-note';
-            note.textContent = 'Les cartes sans intitulé officiel intégré sont des repères calculés, sans lien vers les Écritures.';
-            mobileTrack.appendChild(note);
-        }
     };
 
     const setupCycleScrollSync = () => {
