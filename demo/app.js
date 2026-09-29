@@ -2411,6 +2411,7 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('liturgical-path-title').textContent = data.title;
             document.getElementById('liturgical-path-introduction').textContent = data.introduction;
             renderCycleAlignment();
+            renderLiturgicalSundayRows();
             overview.innerHTML = '';
             (data.overview || []).forEach(period => {
                 const card = document.createElement('article');
