@@ -1919,17 +1919,17 @@ document.addEventListener('DOMContentLoaded', () => {
         status.className = 'cycle-calendar-status';
         if (!availableCalendars.length) {
             status.classList.add('is-calculated');
-            status.textContent = 'Repères calculés uniquement : cette année sert à visualiser le déplacement de Pâques et des fêtes fixes. Aucun calendrier détaillé n’est intégré pour lui attribuer des dimanches ou des lectures.';
+            status.textContent = 'Repères dominicaux calculés autour de Pâques ; les intitulés et les lectures officiels de cette année restent à intégrer.';
         } else if (provisionalYears.length) {
             status.classList.add('is-provisional');
             const officialPart = officialYears.length ? `calendrier officiel ${officialYears.join(' et ')}` : '';
             const provisionalPart = `données ${provisionalYears.join(' et ')} provisoires`;
-            status.textContent = `Frise partielle : ${[officialPart, provisionalPart].filter(Boolean).join(' ; ')}. Les dimanches sans attribution validée ne sont pas affichés.`;
+            status.textContent = `Frise datée : ${[officialPart, provisionalPart].filter(Boolean).join(' ; ')}. Les dimanches sans intitulé officiel intégré portent un repère descriptif calculé.`;
         } else {
             const complete = officialYears.includes(year) && officialYears.includes(year + 1);
             status.textContent = complete
                 ? `Frise fondée sur les calendriers officiels ${year} et ${year + 1}.`
-                : `Frise partielle fondée sur le calendrier officiel ${officialYears.join(' et ')}. Les périodes sans calendrier intégré restent volontairement vides.`;
+                : `Frise fondée sur le calendrier officiel ${officialYears.join(' et ')} ; les autres dimanches portent un repère descriptif calculé.`;
         }
 
         entries.forEach(entry => {
@@ -2000,6 +2000,51 @@ document.addEventListener('DOMContentLoaded', () => {
                 document.getElementById('cycle-timeline')?.appendChild(guide);
             }
         });
+
+        const observedDates = new Set(entries.map(entry => entry.date));
+        const appendCalculatedSunday = (date, label, rank = null) => {
+            if (date < yearStart || date >= nextYearStart) return;
+            const dateKey = date.toISOString().slice(0, 10);
+            if (observedDates.has(dateKey)) return;
+            const offset = cycleDayDifference(date, pascha);
+            if (offset < CYCLE_AXIS_MIN || offset > CYCLE_AXIS_MAX) return;
+            const button = document.createElement('button');
+            button.type = 'button';
+            button.className = 'timeline-sunday timeline-sunday-cycle timeline-sunday-reference-only';
+            button.style.left = `${cyclePercent(offset)}%`;
+            const title = document.createElement('strong');
+            title.textContent = label;
+            const action = document.createElement('small');
+            action.textContent = `${formatLiturgicalDate(date)} · repère`;
+            button.append(title, action);
+            attachLiturgicalSundayTooltip(button, {
+                key: null, offset, variant: 'cycle', referenceOnly: true, hideReadings: true,
+                calendarEntry: { date: dateKey, official_title: label },
+                mobileRank: rank, fixedLabel: label, liturgicalYear: year
+            }, null);
+            mobileTrack.appendChild(button);
+        };
+        [year, year + 1].forEach(paschaYear => {
+            const base = orthodoxPaschaDate(paschaYear);
+            const followingPascha = orthodoxPaschaDate(paschaYear + 1);
+            for (let rank = 1; rank <= 40; rank += 1) {
+                const date = new Date(base.getTime() + (49 + rank * 7) * 86400000);
+                if (date >= new Date(followingPascha.getTime() - 70 * 86400000)) break;
+                appendCalculatedSunday(date, `DP ${rank} · dimanche après la Pentecôte`, rank);
+            }
+        });
+        const paschalSundays = [
+            [-70, 'Publicain et Pharisien'], [-63, 'Fils prodigue'], [-56, 'Jugement dernier'],
+            [-49, 'Dimanche du Pardon'], [-42, 'Dimanche de l’Orthodoxie'],
+            [-35, 'Grégoire Palamas'], [-28, 'Vénération de la Croix'],
+            [-21, 'Jean Climaque'], [-14, 'Marie l’Égyptienne'], [-7, 'Rameaux'],
+            [0, 'Pâques'], [7, 'Thomas'], [14, 'Myrophores'], [21, 'Paralytique'],
+            [28, 'Samaritaine'], [35, 'Aveugle-né'], [42, 'Pères du premier concile'],
+            [49, 'Pentecôte']
+        ];
+        paschalSundays.forEach(([day, label]) => appendCalculatedSunday(
+            new Date(pascha.getTime() + day * 86400000), label
+        ));
 
         if (!entries.length) {
             const note = document.createElement('span');
