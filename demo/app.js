@@ -1274,6 +1274,43 @@ document.addEventListener('DOMContentLoaded', () => {
     const CYCLE_AXIS_MIN = -260;
     const CYCLE_AXIS_MAX = 175;
     const CYCLE_AXIS_SPAN = CYCLE_AXIS_MAX - CYCLE_AXIS_MIN;
+    // Série de péricopes du tableau « dp_synthese2 » fourni par l’auteur.
+    // Le rang chronologique d’une année peut diverger de cette série (fêtes fixes et ajustements).
+    const dpReference = [
+        null,
+        ['Tous les Saints', 'Hébreux 11, 33 - 12, 2', 'Matthieu 10, 32-33.37-38 ; 19, 27-30'],
+        ['Appel des premiers disciples', 'Romains 2, 10-16', 'Matthieu 4, 18-23', [18]],
+        ['Lumière du corps', 'Romains 5, 1-10', 'Matthieu 6, 22-33'],
+        ['Le centurion', 'Romains 6, 18-23', 'Matthieu 8, 5-13'],
+        ['Les deux possédés', 'Romains 10, 1-10', 'Matthieu 8, 28 - 9, 1', [23]],
+        ['Le paralytique', 'Romains 12, 6-14', 'Matthieu 9, 1-8'],
+        ['Les deux aveugles', 'Romains 15, 1-7', 'Matthieu 9, 27-35'],
+        ['Multiplication des pains', '1 Corinthiens 1, 10-18', 'Matthieu 14, 14-22'],
+        ['Marche sur les eaux', '1 Corinthiens 3, 9-17', 'Matthieu 14, 22-34'],
+        ['Le lunatique', '1 Corinthiens 4, 9-16', 'Matthieu 17, 14-23'],
+        ['Le débiteur impitoyable', '1 Corinthiens 9, 2-12', 'Matthieu 18, 23-35'],
+        ['Le jeune homme riche', '1 Corinthiens 15, 1-11', 'Matthieu 19, 16-26', [25]],
+        ['Les vignerons', '1 Corinthiens 16, 13-24', 'Matthieu 21, 33-42'],
+        ['Les noces royales', '2 Corinthiens 1, 21 - 2, 4', 'Matthieu 22, 1-14', [28]],
+        ['Le plus grand commandement', '2 Corinthiens 4, 6-15', 'Matthieu 22, 35-46', [25]],
+        ['Les talents', '2 Corinthiens 6, 1-10', 'Matthieu 25, 14-30'],
+        ['La Cananéenne', '2 Corinthiens 6, 16 - 7, 1', 'Matthieu 15, 21-28'],
+        ['La pêche miraculeuse', '2 Corinthiens 9, 6-11', 'Luc 5, 1-11', [2]],
+        ['L’amour des ennemis', '2 Corinthiens 11, 31 - 12, 9', 'Luc 6, 31-36'],
+        ['Le fils de la veuve de Naïn', 'Galates 1, 11-19', 'Luc 7, 11-16'],
+        ['Le semeur', 'Galates 2, 16-20', 'Luc 8, 5-15'],
+        ['Le riche et Lazare', 'Galates 6, 11-18', 'Luc 16, 19-31'],
+        ['Le démoniaque de Gérasa', 'Éphésiens 2, 4-10', 'Luc 8, 26-39', [5]],
+        ['La fille de Jaïre', 'Éphésiens 2, 14-22', 'Luc 8, 41-56'],
+        ['Le Bon Samaritain', 'Éphésiens 4, 1-7', 'Luc 10, 25-37', [12, 15]],
+        ['Le riche insensé', 'Éphésiens 5, 8-19', 'Luc 12, 16-21'],
+        ['La femme courbée', 'Éphésiens 6, 10-17', 'Luc 13, 10-17'],
+        ['Le grand souper', 'Colossiens 1, 12-18', 'Luc 14, 16-24', [14]],
+        ['Les dix lépreux', 'Colossiens 3, 4-11', 'Luc 17, 12-19'],
+        ['Le jeune homme riche de Luc', 'Colossiens 3, 12-16', 'Luc 18, 18-27'],
+        ['L’aveugle de Jéricho', '1 Timothée 1, 15-17', 'Luc 18, 35-43'],
+        ['Zachée', '1 Timothée 4, 9-15', 'Luc 19, 1-10']
+    ];
     const fixedCycleFeasts = [
         { id: 'new-year', month: 8, day: 1, short: 'Nouvel an', title: 'Commencement de l’année liturgique' },
         { id: 'theotokos-nativity', month: 8, day: 8, short: 'Nativité M.D.D.', title: 'Nativité de la Mère de Dieu' },
@@ -1289,7 +1326,7 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
     const mobileCycleSegments = [
         { start: -260, end: -176, label: 'DP 11–17 · cycle de Matthieu', tone: 'after-pentecost' },
-        { start: -175, end: -71, label: 'DP 18–33 · cycle de Luc', tone: 'luke' },
+        { start: -175, end: -71, label: 'Cycle de Luc · rangs variables selon l’année', tone: 'luke' },
         { start: -70, end: -50, label: 'Triode', tone: 'triodion' },
         { start: -49, end: -8, label: 'Grand Carême', tone: 'lent' },
         { start: -7, end: -1, label: 'Semaine sainte', tone: 'holy-week', compact: true },
@@ -1623,12 +1660,16 @@ document.addEventListener('DOMContentLoaded', () => {
         tooltip.innerHTML = '';
         const cycle = document.createElement('span');
         cycle.className = 'liturgical-tooltip-cycle';
-        cycle.textContent = context.correspondence
+        cycle.textContent = context.dpSeries
+            ? 'Série DP du tableau de travail'
+            : context.correspondence
             ? 'Rang du cycle mobile'
             : (context.variant === 'fixed' ? 'Dimanche fixe' : 'Dimanche du cycle mobile');
         const title = document.createElement('strong');
         const fixedTitle = context.fixedLabel || demoCalendarTitle(calendarEntry || {}) || cleanLiturgicalSundayLabel(liturgicalList[context.key] || calendarEntry?.official_title || context.key || 'Dimanche');
-        title.textContent = context.correspondence
+        title.textContent = context.dpSeries
+            ? (context.dpSeries.entry ? `DP ${context.dpSeries.rank} · ${context.dpSeries.entry[0]}` : `DP ${context.dpSeries.rank} · rang annuel calculé`)
+            : context.correspondence
             ? (context.correspondencePending ? 'DP à valider' : `DP ${context.mobileRank}`)
             : fixedTitle;
         const exactDate = document.createElement('span');
@@ -1640,7 +1681,11 @@ document.addEventListener('DOMContentLoaded', () => {
         const liturgicalYearLabel = context.liturgicalYear
             ? `${context.liturgicalYear}–${context.liturgicalYear + 1}`
             : `${sliderYear}–${sliderYear + 1}`;
-        if (context.correspondencePending) {
+        if (context.dpSeries) {
+            position.textContent = context.dpSeries.entry
+                ? 'Références de la série DP fournies dans le tableau. Leur attribution à cette date doit être vérifiée dans le calendrier annuel.'
+                : 'Ce rang chronologique peut exister selon l’année, mais il dépasse la série DP 1–32 décrite dans le tableau fourni. Sa péricope doit être vérifiée dans le calendrier annuel.';
+        } else if (context.correspondencePending) {
             position.textContent = `Pour ${liturgicalYearLabel}, la correspondance de « ${fixedTitle} » avec un rang DP reste en attente du calendrier officiel.`;
         } else if (context.correspondence) {
             position.textContent = `En ${liturgicalYearLabel}, ce rang mobile rencontre « ${fixedTitle} ». Cette correspondance varie selon la date de Pâques.`;
@@ -1654,8 +1699,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         const readings = document.createElement('div');
         readings.className = 'liturgical-tooltip-readings';
-        const gospelReference = calendarEntry?.readings?.gospel?.reference || data?.gospel?.reference;
-        const apostleReference = calendarEntry?.readings?.apostle?.reference || data?.apostle?.reference;
+        const gospelReference = context.dpSeries?.entry?.[2] || calendarEntry?.readings?.gospel?.reference || data?.gospel?.reference;
+        const apostleReference = context.dpSeries?.entry?.[1] || calendarEntry?.readings?.apostle?.reference || data?.apostle?.reference;
         if (context.hideReadings) {
             readings.hidden = true;
         } else if (gospelReference || apostleReference) {
@@ -1665,10 +1710,12 @@ document.addEventListener('DOMContentLoaded', () => {
             apostle.innerHTML = `<b>Apôtre</b> ${apostleReference || 'à préciser'}`;
             readings.append(gospel, apostle);
         } else {
-            readings.textContent = 'Chargement des lectures…';
+            readings.textContent = context.dpSeries ? 'Références à vérifier dans le calendrier annuel.' : 'Chargement des lectures…';
         }
         const hint = document.createElement('small');
-        hint.textContent = context.correspondencePending
+        hint.textContent = context.dpSeries
+            ? 'Repère descriptif : aucune Écriture ne s’ouvre depuis cette case.'
+            : context.correspondencePending
             ? 'Repère bleu provisoire : aucun rang DP n’est affirmé sans validation.'
             : context.correspondence
             ? 'Repère bleu : correspondance valable pour l’année affichée.'
@@ -1679,9 +1726,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 : 'Cliquez pour ouvrir les lectures.');
         tooltip.append(cycle, title, exactDate, position);
         if (!context.hideReadings) tooltip.appendChild(readings);
+        if (context.dpSeries?.entry?.[3]?.length) {
+            const related = document.createElement('p');
+            related.className = 'liturgical-tooltip-related';
+            related.textContent = `Rapprochement thématique à explorer : ${context.dpSeries.entry[3].map(rank => `DP ${rank}`).join(', ')}.`;
+            tooltip.appendChild(related);
+        }
         tooltip.appendChild(hint);
         if (officialDate) {
-            if (context.correspondencePending) {
+            if (context.dpSeries) {
+                button.setAttribute('aria-label', `DP ${context.dpSeries.rank}, ${formatLiturgicalFullDate(officialDate)}. ${context.dpSeries.entry?.[0] || 'Péricope non documentée dans le tableau DP 1 à 32'}. Repère descriptif.`);
+            } else if (context.correspondencePending) {
                 button.setAttribute('aria-label', `Correspondance DP à valider pour ${liturgicalYearLabel} avec ${fixedTitle}. ${formatLiturgicalFullDate(officialDate)}.`);
             } else if (context.correspondence) {
                 button.setAttribute('aria-label', `DP ${context.mobileRank}. Correspondance ${liturgicalYearLabel} avec ${fixedTitle}. ${formatLiturgicalFullDate(officialDate)}.`);
@@ -1893,12 +1948,18 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (date < yearStart || date >= nextYearStart) continue;
                     const offset = cycleDayDifference(date, pascha);
                     if (offset < CYCLE_AXIS_MIN || offset > CYCLE_AXIS_MAX) continue;
-                    const cell = document.createElement('span');
-                    cell.className = 'mobile-dp-cell';
+                    const cell = document.createElement('button');
+                    cell.type = 'button';
+                    cell.className = `mobile-dp-cell${dpReference[rank] ? '' : ' is-outside-source'}`;
                     cell.style.left = `${cyclePercent(offset - 3.5)}%`;
                     cell.style.width = `${cyclePercent(offset + 3.5) - cyclePercent(offset - 3.5)}%`;
                     cell.textContent = `DP ${rank}`;
-                    cell.title = `${rank}${rank === 1 ? 'er' : 'e'} dimanche après la Pentecôte · ${formatLiturgicalDate(date)}`;
+                    attachLiturgicalSundayTooltip(cell, {
+                        key: null, offset, variant: 'cycle', referenceOnly: true,
+                        calendarEntry: { date: date.toISOString().slice(0, 10) },
+                        fixedLabel: `DP ${rank}`, dpSeries: { rank, entry: dpReference[rank] || null },
+                        liturgicalYear: year
+                    }, null);
                     scale.appendChild(cell);
                 }
             });
@@ -1924,7 +1985,7 @@ document.addEventListener('DOMContentLoaded', () => {
             status.classList.add('is-provisional');
             const officialPart = officialYears.length ? `calendrier officiel ${officialYears.join(' et ')}` : '';
             const provisionalPart = `données ${provisionalYears.join(' et ')} provisoires`;
-            status.textContent = `Frise datée : ${[officialPart, provisionalPart].filter(Boolean).join(' ; ')}. Les dimanches sans intitulé officiel intégré portent un repère descriptif calculé.`;
+            status.textContent = `Frise datée : ${[officialPart, provisionalPart].filter(Boolean).join(' ; ')}. Les cases DP sont des rangs datés ; les références du tableau DP 1–32 restent distinctes des lectures annuelles officielles.`;
         } else {
             const complete = officialYears.includes(year) && officialYears.includes(year + 1);
             status.textContent = complete
@@ -2049,7 +2110,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!entries.length) {
             const note = document.createElement('span');
             note.className = 'mobile-sunday-track-note';
-            note.textContent = 'Aucune carte dominicale n’est placée sans calendrier détaillé validé.';
+            note.textContent = 'Les cartes sans intitulé officiel intégré sont des repères calculés, sans lien vers les Écritures.';
             mobileTrack.appendChild(note);
         }
     };
