@@ -67,13 +67,13 @@ document.addEventListener('DOMContentLoaded', () => {
         '326_after_pentecost_26': 'Le Riche insensé (9e de Luc)',
         '327_after_pentecost_27': 'La Femme courbée (10e de Luc)',
         '328_after_pentecost_28': 'Les Dix Lépreux (12e de Luc)',
-        '329_after_pentecost_29': 'Le Grand Souper (11e de Luc)',
+        '329_after_pentecost_29': 'Le Banquet des noces (11e de Luc)',
         '330_after_pentecost_30': 'Le Jeune Homme Riche (13e de Luc)',
         '331_after_pentecost_31': 'L\'Aveugle de Jéricho (14e de Luc)',
         '332_after_pentecost_32': 'Zachée (15e de Luc)',
 
         // --- Cycle de la Nativité et de la Théophanie ---
-        '90_advent_2': 'Le grand souper — Dimanche des ancêtres (28e dimanche après la Pentecôte = 2e dimanche avant la Nativité)',
+        '90_advent_2': 'Le banquet des noces — Dimanche des ancêtres (28e dimanche après la Pentecôte = 2e dimanche avant la Nativité)',
         '91_advent_1': 'Généalogie du Seigneur (Dimanche avant la Nativité)',
         '92_nativity_after': 'La Fuite en Égypte (Dimanche après la Nativité)',
         '93_theophany_before': 'Commencement de l’Évangile (Dimanche avant la Théophanie)',
@@ -1308,7 +1308,7 @@ document.addEventListener('DOMContentLoaded', () => {
         ['Le Bon Samaritain', 'Éphésiens 4, 1-7', 'Luc 10, 25-37', [12, 15]],
         ['Le riche insensé', 'Éphésiens 5, 8-19', 'Luc 12, 16-21'],
         ['La femme courbée', 'Éphésiens 6, 10-17', 'Luc 13, 10-17'],
-        ['Le grand souper', 'Colossiens 1, 12-18', 'Luc 14, 16-24', [14]],
+        ['Le banquet des noces', 'Colossiens 1, 12-18', 'Luc 14, 16-24', [14]],
         ['Les dix lépreux', 'Colossiens 3, 4-11', 'Luc 17, 12-19'],
         ['Le jeune homme riche de Luc', 'Colossiens 3, 12-16', 'Luc 18, 18-27'],
         ['L’aveugle de Jéricho', '1 Timothée 1, 15-17', 'Luc 18, 35-43'],
@@ -1914,13 +1914,13 @@ document.addEventListener('DOMContentLoaded', () => {
             return `Le Bon Samaritain${rank ? ` (${rank}e dimanche après la Pentecôte)` : ''}`;
         }
         if (entry.key === '90_advent_2')
-            return 'Le grand souper — Dimanche des ancêtres (28e dimanche après la Pentecôte = 2e dimanche avant la Nativité)';
+            return 'Le banquet des noces — Dimanche des ancêtres (28e dimanche après la Pentecôte = 2e dimanche avant la Nativité)';
         return null;
     };
 
     const calendarSundayCardLabel = entry => {
         if (entry.key === '97_cross_after') return 'D. après Croix';
-        if (entry.key === '90_advent_2') return 'Le grand souper';
+        if (entry.key === '90_advent_2') return 'Le banquet des noces';
         if (entry.key === '325_after_pentecost_25') return 'Bon Samaritain';
         if (entry.key && liturgicalList[entry.key]) return cleanLiturgicalSundayLabel(liturgicalList[entry.key]);
         const title = entry.official_title || entry.key || 'Dimanche';
