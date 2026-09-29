@@ -1771,6 +1771,230 @@
             "συνεσταύρωμαι"
           ]
         }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_word",
+        "link_type": "self_denied_and_given",
+        "title": "Renoncer à soi-même, le Christ s’est donné lui-même",
+        "explanation": "Le disciple est appelé à renoncer ἑαυτόν ; Paul contemple le Fils qui a livré ἑαυτόν pour lui. Le même pronom ne place pas sur le même plan les deux actes : le don premier du Christ rend possible le décentrement du disciple.",
+        "bridge_sentence": "",
+        "homiletic_use": "",
+        "bridge": {
+          "evidence": "Même pronom réfléchi ἑαυτόν",
+          "gospel": "ἀπαρνησάσθω ἑαυτόν : qu’il renonce à lui-même",
+          "relation": "Le décentrement du disciple répond au don aimant et préalable du Christ",
+          "apostle": "παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ : qui s’est livré lui-même pour moi",
+          "detail": "L’identité formelle du pronom souligne une relation théologique, non une équivalence entre les sujets."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "ἑαυτὸν"
+              ],
+              "lemma": "ἑαυτοῦ",
+              "root": "pronom réfléchi : soi-même",
+              "literal": "lui-même",
+              "role": "Le disciple cesse de faire de son moi le centre de sa marche."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "ἑαυτὸν"
+              ],
+              "lemma": "ἑαυτοῦ",
+              "root": "pronom réfléchi : soi-même",
+              "literal": "lui-même",
+              "role": "Le Fils est le sujet libre du don accompli par amour."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "34"
+          ],
+          "terms": [
+            "ἑαυτὸν"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "20"
+          ],
+          "terms": [
+            "ἑαυτὸν"
+          ]
+        }
+      },
+      {
+        "directness": "indirect",
+        "kind": "movement",
+        "link_type": "discipleship_sequence",
+        "title": "Venir, renoncer, prendre, suivre, croire, se décentrer, être crucifié, vivre du Christ",
+        "explanation": "Marc déploie en quatre verbes le chemin du disciple. Paul n’en donne pas une traduction mot à mot, mais il en manifeste l’accomplissement intérieur : croire au Christ, ne plus vivre centré sur le moi, être crucifié avec lui et recevoir sa vie.",
+        "bridge_sentence": "",
+        "homiletic_use": "",
+        "bridge": {
+          "evidence": "Deux progressions complémentaires, sans racine grecque commune entre leurs quatre étapes",
+          "gospel": "ἐλθεῖν → ἀπαρνησάσθω → ἀράτω → ἀκολουθείτω",
+          "relation": "L’appel extérieur à marcher derrière Jésus devient une vie intérieurement unie au Christ",
+          "apostle": "ἐπιστεύσαμεν → οὐκέτι ἐγώ → συνεσταύρωμαι → ζῇ ἐν ἐμοὶ Χριστός",
+          "detail": "Le rapprochement suit la dynamique des deux textes ; il ne transforme pas ces verbes différents en synonymes."
+        },
+        "movement_title": "De l’appel de Jésus à la vie du Christ en Paul",
+        "movement_map": [
+          {
+            "gospel": {
+              "greek": "ἐλθεῖν",
+              "sense": "venir derrière le Christ"
+            },
+            "relation": "répondre à l’appel",
+            "apostle": {
+              "greek": "ἐπιστεύσαμεν",
+              "sense": "nous avons cru au Christ"
+            }
+          },
+          {
+            "gospel": {
+              "greek": "ἀπαρνησάσθω ἑαυτόν",
+              "sense": "renoncer à faire de soi le centre"
+            },
+            "relation": "quitter l’autosuffisance",
+            "apostle": {
+              "greek": "οὐκέτι ἐγώ",
+              "sense": "ce n’est plus moi qui vis"
+            }
+          },
+          {
+            "gospel": {
+              "greek": "ἀράτω τὸν σταυρόν",
+              "sense": "prendre sa croix"
+            },
+            "relation": "participer à la Croix",
+            "apostle": {
+              "greek": "Χριστῷ συνεσταύρωμαι",
+              "sense": "je suis crucifié avec le Christ"
+            }
+          },
+          {
+            "gospel": {
+              "greek": "ἀκολουθείτω μοι",
+              "sense": "qu’il me suive"
+            },
+            "relation": "recevoir une vie nouvelle",
+            "apostle": {
+              "greek": "ζῇ ἐν ἐμοὶ Χριστός",
+              "sense": "le Christ vit en moi"
+            }
+          }
+        ],
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "ἐλθεῖν"
+              ],
+              "lemma": "ἔρχομαι",
+              "root": "ἐρχ-/ἐλθ- : venir",
+              "literal": "venir",
+              "role": "Le désir libre d’aller derrière le Christ ouvre la progression."
+            },
+            {
+              "forms": [
+                "ἀπαρνησάσθω"
+              ],
+              "lemma": "ἀπαρνέομαι",
+              "root": "ἀπ- + ἀρν- : renoncer, désavouer",
+              "literal": "qu’il renonce",
+              "role": "Le disciple cesse de faire de lui-même le centre."
+            },
+            {
+              "forms": [
+                "ἀράτω"
+              ],
+              "lemma": "αἴρω",
+              "root": "ἀρ-/αἰρ- : lever, prendre, porter",
+              "literal": "qu’il prenne",
+              "role": "Il consent librement à porter sa croix."
+            },
+            {
+              "forms": [
+                "ἀκολουθείτω"
+              ],
+              "lemma": "ἀκολουθέω",
+              "root": "ἀκολουθ- : suivre",
+              "literal": "qu’il suive",
+              "role": "Le présent impératif inscrit l’appel dans une marche durable."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "ἐπιστεύσαμεν"
+              ],
+              "lemma": "πιστεύω",
+              "root": "πιστ- : foi, confiance, fidélité",
+              "literal": "nous avons cru",
+              "role": "La réponse commence par la confiance placée dans le Christ."
+            },
+            {
+              "forms": [
+                "οὐκέτι",
+                "ἐγώ"
+              ],
+              "lemma": "οὐκέτι / ἐγώ",
+              "root": "négation temporelle / pronom personnel",
+              "literal": "ce n’est plus moi",
+              "role": "Le moi autosuffisant cesse d’être le centre de l’existence."
+            },
+            {
+              "forms": [
+                "συνεσταύρωμαι"
+              ],
+              "lemma": "συσταυρόω",
+              "root": "συν- + σταυρ- : crucifier avec",
+              "literal": "je suis crucifié avec",
+              "role": "La croix portée devient participation à la Croix du Christ."
+            },
+            {
+              "forms": [
+                "ζῇ",
+                "Χριστός"
+              ],
+              "lemma": "ζάω / Χριστός",
+              "root": "ζη-/ζω- : vivre",
+              "literal": "le Christ vit",
+              "role": "Suivre trouve son accomplissement dans une vie reçue de la présence du Christ."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "34"
+          ],
+          "terms": [
+            "ἐλθεῖν",
+            "ἀπαρνησάσθω",
+            "ἀράτω",
+            "ἀκολουθείτω"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "16",
+            "20"
+          ],
+          "terms": [
+            "ἐπιστεύσαμεν",
+            "οὐκέτι",
+            "ἐγώ",
+            "συνεσταύρωμαι",
+            "ζῇ",
+            "Χριστός"
+          ]
+        }
       }
     ]
   }
