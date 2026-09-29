@@ -3883,6 +3883,53 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentAnnotationMaterial = null;
     let currentComparisonMaterial = null;
 
+    const makeDialogMovable = dialog => {
+        const handle = dialog?.querySelector('.dialog-drag-handle');
+        if (!handle) return;
+        let drag = null;
+        const place = (left, top) => {
+            const rect = dialog.getBoundingClientRect();
+            dialog.style.position = 'fixed';
+            dialog.style.inset = 'auto';
+            dialog.style.margin = '0';
+            dialog.style.left = `${Math.max(8, Math.min(left, window.innerWidth - rect.width - 8))}px`;
+            dialog.style.top = `${Math.max(8, Math.min(top, window.innerHeight - rect.height - 8))}px`;
+        };
+        handle.addEventListener('pointerdown', event => {
+            if (event.button !== 0 || !dialog.open) return;
+            const rect = dialog.getBoundingClientRect();
+            drag = { id: event.pointerId, dx: event.clientX - rect.left, dy: event.clientY - rect.top };
+            handle.setPointerCapture(event.pointerId);
+            event.preventDefault();
+        });
+        handle.addEventListener('pointermove', event => {
+            if (drag?.id === event.pointerId) place(event.clientX - drag.dx, event.clientY - drag.dy);
+        });
+        const stop = event => { if (drag?.id === event.pointerId) drag = null; };
+        handle.addEventListener('pointerup', stop);
+        handle.addEventListener('pointercancel', stop);
+        handle.addEventListener('keydown', event => {
+            const step = event.shiftKey ? 40 : 16;
+            const delta = { ArrowLeft: [-step, 0], ArrowRight: [step, 0], ArrowUp: [0, -step], ArrowDown: [0, step] }[event.key];
+            if (!delta) return;
+            event.preventDefault();
+            const rect = dialog.getBoundingClientRect();
+            place(rect.left + delta[0], rect.top + delta[1]);
+        });
+        window.addEventListener('resize', () => {
+            if (dialog.open && dialog.style.left) {
+                const rect = dialog.getBoundingClientRect();
+                place(rect.left, rect.top);
+            }
+        });
+        dialog.addEventListener('close', () => {
+            drag = null;
+            for (const property of ['position', 'inset', 'margin', 'left', 'top']) dialog.style.removeProperty(property);
+        });
+    };
+    makeDialogMovable(analysisDialog);
+    makeDialogMovable(comparisonTermDialog);
+
     const decodeTargetAnnotation = target => {
         const encoded = target?.getAttribute('data-annotation');
         if (!encoded) return null;
@@ -4197,12 +4244,51 @@ document.addEventListener('DOMContentLoaded', () => {
         };
         document.getElementById('analysis-dialog-type').textContent = structured
             ? `${normalized.importance === 'major' ? 'Mot-clé majeur' : 'Fiche lexicale'} · forme et occurrence`
-            : labels[type] || labels.analyse;
+            : normalized.content ? labels[type] || labels.analyse : 'Fiche grammaticale';
         document.getElementById('analysis-dialog-title').textContent = normalized.title || target.textContent;
         const content = document.getElementById('analysis-dialog-content');
         content.innerHTML = '';
         if (structured) content.appendChild(buildStructuredWordSheet(normalized));
-        else content.textContent = normalized.content || '';
+        else {
+            const grammar = normalized.grammar || {};
+            const fields = document.createElement('dl');
+            fields.className = 'demo-grammar-fields';
+            addDefinitionField(fields, 'Forme rencontrée', grammar.form || target.textContent.trim());
+            addDefinitionField(fields, 'Forme du dictionnaire', grammar.lemma);
+            addDefinitionField(fields, 'Catégorie', grammar.category);
+            addDefinitionField(fields, 'Morphologie', grammar.parsing);
+            addDefinitionField(fields, 'Fonction dans la phrase', grammar.syntax);
+            content.appendChild(fields);
+            const etymology = normalized.etymology;
+            if (etymology) {
+                const section = document.createElement('section');
+                section.className = 'demo-etymology';
+                const heading = document.createElement('h4');
+                heading.textContent = 'Étymologie';
+                const explanation = document.createElement('p');
+                explanation.textContent = etymology;
+                section.append(heading, explanation);
+                const lemma = String(normalized.etymologyLemma || grammar.lemma || '').split(/[;,]/)[0].trim();
+                if (lemma) {
+                    const link = document.createElement('a');
+                    link.href = `https://outils.biblissima.fr/fr/eulexis-web/?lemma=${encodeURIComponent(lemma)}&dict=Bailly`;
+                    link.target = '_blank';
+                    link.rel = 'noopener noreferrer';
+                    link.textContent = 'Consulter dans le Bailly (Eulexis)';
+                    section.appendChild(link);
+                }
+                content.appendChild(section);
+            }
+            const analysis = document.createElement('section');
+            analysis.className = 'demo-analysis';
+            const heading = document.createElement('h4');
+            heading.textContent = normalized.content ? 'Lecture du texte' : 'Lecture spirituelle';
+            const paragraph = document.createElement('p');
+            paragraph.textContent = normalized.content || 'Analyse en cours de validation.';
+            analysis.append(heading, paragraph);
+            content.appendChild(analysis);
+        }
+        if (addAnnotationToHomily) addAnnotationToHomily.hidden = !materialContent;
 
         const related = document.getElementById('analysis-dialog-related');
         const relatedWords = Array.isArray(normalized.related) ? normalized.related : [];
