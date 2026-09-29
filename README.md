@@ -1,4 +1,4 @@
-# Évangéliaire interlinéaire orthodoxe, démonstration
+# Évangéliaire et apôtre interlinéaire GR/FR Orthodoxe, démonstration
 
 Cette publication contient uniquement la version de démonstration limitée à quatre péricopes.
 
