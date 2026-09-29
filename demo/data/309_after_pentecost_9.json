@@ -119,9 +119,9 @@
             "greek": "ἀνέβη",
             "gloss": "il_monta",
             "annotation": {
-              "type": "theologie",
-              "title": "Monter seul pour prier",
-              "content": "Ἀναβαίνω marque la montée de Jésus sur la montagne, à l’écart, pour prier. Cette verticalité précède son retour vers les disciples éprouvés : la communion au Père ne détourne pas de la détresse humaine, elle ouvre le mouvement par lequel le Christ vient les rejoindre.",
+              "type": "grammaire",
+              "title": "ἀνέβη",
+              "content": "",
               "related": [
                 "ὄρος",
                 "προσεύξασθαι",
@@ -134,7 +134,9 @@
                 "parsing": "Deuxième aoriste actif, indicatif, troisième personne du singulier",
                 "abbreviation": "AOR. 2 ACT. IND. 3 SG.",
                 "syntax": "Verbe principal dont Jésus est le sujet."
-              }
+              },
+              "etymology": "Composé de ἀνά (« vers le haut ») et βαίνω (« aller ») : « monter ».",
+              "etymologyLemma": "ἀναβαίνω"
             }
           },
           {
@@ -157,9 +159,9 @@
             "greek": "ἰδίαν",
             "gloss": "l'écart",
             "annotation": {
-              "type": "traduction",
-              "title": "À l’écart, κατ’ ἰδίαν",
-              "content": "L’expression κατ’ ἰδίαν signifie « à part » ou « à l’écart ». Jésus se retire seul pour prier, avant de rejoindre les disciples éprouvés sur la mer.",
+              "type": "grammaire",
+              "title": "ἰδίαν",
+              "content": "",
               "related": [
                 "ὄρος",
                 "κατ’",
@@ -173,7 +175,9 @@
                 "parsing": "Accusatif féminin singulier",
                 "abbreviation": "ACC. FÉM. SG.",
                 "syntax": "Dans la locution adverbiale κατ’ ἰδίαν, avec un nom féminin sous-entendu."
-              }
+              },
+              "etymology": "Adjectif ancien « propre, particulier ». La forme ἰδίαν est son féminin accusatif singulier.",
+              "etymologyLemma": "ἴδιος"
             }
           },
           {
@@ -257,9 +261,9 @@
             "greek": "βασανιζόμενον",
             "gloss": "étant_tourmentée/battue",
             "annotation": {
-              "type": "analyse",
-              "title": "La barque tourmentée",
-              "content": "Le participe décrit la barque battue par les vagues. L’épreuve des disciples est concrète : la distance, le vent contraire et la nuit préparent la venue du Christ.",
+              "type": "grammaire",
+              "title": "βασανιζόμενον",
+              "content": "",
               "related": [
                 "γῆς",
                 "ἀπεῖχεν,",
@@ -273,7 +277,9 @@
                 "parsing": "Présent passif, participe, accusatif neutre singulier",
                 "abbreviation": "PRÉS. PASS. PART. ACC. NEUT. SG.",
                 "syntax": "S’accorde avec πλοῖον, « la barque », complément de εἶδεν sous-entendu dans le récit."
-              }
+              },
+              "etymology": "Verbe formé sur βάσανος (« épreuve, tourment ») : « tourmenter ».",
+              "etymologyLemma": "βασανίζω"
             }
           },
           {
@@ -353,9 +359,9 @@
             "greek": "περιπατῶν",
             "gloss": "marchant",
             "annotation": {
-              "type": "analyse",
-              "title": "Marchant sur la mer",
-              "content": "Le participe présente Jésus en train de marcher sur la mer. Le récit manifeste ainsi son autorité sur les eaux, souvent associées au chaos dans l’imaginaire biblique.",
+              "type": "grammaire",
+              "title": "περιπατῶν",
+              "content": "",
               "related": [
                 "πρὸς",
                 "αὐτοὺς",
@@ -369,7 +375,9 @@
                 "parsing": "Présent actif, participe, nominatif masculin singulier",
                 "abbreviation": "PRÉS. ACT. PART. NOM. MASC. SG.",
                 "syntax": "S’accorde avec Jésus, sujet du verbe ἦλθεν, « il vint »."
-              }
+              },
+              "etymology": "Formé de περί (« autour ») et πατέω (« fouler, marcher »).",
+              "etymologyLemma": "περιπατέω"
             }
           },
           {
@@ -445,9 +453,9 @@
             "greek": "Φάντασμά",
             "gloss": "Un_fantôme",
             "annotation": {
-              "type": "traduction",
-              "title": "Un fantôme ?",
-              "content": "Les disciples interprètent d’abord la venue de Jésus comme une apparition menaçante. Leur cri montre comment la peur peut rendre méconnaissable celui qui vient les sauver.",
+              "type": "grammaire",
+              "title": "Φάντασμά",
+              "content": "",
               "related": [
                 "λέγοντες",
                 "ὅτι",
@@ -461,7 +469,9 @@
                 "parsing": "Nominatif neutre singulier",
                 "abbreviation": "NOM. NEUT. SG.",
                 "syntax": "Attribut dans φάντασμά ἐστιν, « c’est un fantôme »."
-              }
+              },
+              "etymology": "Nom en -μα de la famille de φαντάζω / φαίνω (« faire apparaître ») : « apparition ».",
+              "etymologyLemma": "φάντασμα"
             }
           },
           {
@@ -537,9 +547,9 @@
             "greek": "εἰμι·",
             "gloss": "Je_suis",
             "annotation": {
-              "type": "theologie",
-              "title": "« C’est moi », ἐγώ εἰμι",
-              "content": "Ἐγώ εἰμι signifie ici naturellement « c’est moi » ou « je suis ». Dans l’Évangile de Matthieu, prononcé par Jésus marchant sur la mer, l’expression peut faire entendre un écho théophanique ; cet écho spirituel ne transforme pas à lui seul la formule en citation explicite du Nom révélé à Moïse.",
+              "type": "grammaire",
+              "title": "εἰμι·",
+              "content": "",
               "related": [
                 "Θαρσεῖτε,",
                 "ἐγώ",
@@ -553,7 +563,9 @@
                 "parsing": "Présent actif, indicatif, première personne du singulier",
                 "abbreviation": "PRÉS. ACT. IND. 1 SG.",
                 "syntax": "Avec ἐγώ exprimé : ἐγώ εἰμι, « c’est moi » ou « je suis »."
-              }
+              },
+              "etymology": "Verbe ancien « être », sans composition grecque interne transparente.",
+              "etymologyLemma": "εἰμί"
             }
           },
           {
@@ -678,9 +690,9 @@
             "greek": "καταβὰς",
             "gloss": "étant_descendu",
             "annotation": {
-              "type": "theologie",
-              "title": "Pierre descend de la barque",
-              "content": "Καταβαίνω désigne ici le geste concret par lequel Pierre quitte la barque sur la parole de Jésus. La descente n’est ni chute ni kénose par elle-même : elle devient un acte de confiance, bientôt éprouvé par la peur et sauvé par la main du Christ.",
+              "type": "grammaire",
+              "title": "καταβὰς",
+              "content": "",
               "related": [
                 "πλοίου",
                 "Ἐλθέ.",
@@ -693,7 +705,9 @@
                 "parsing": "Deuxième aoriste actif, participe, nominatif masculin singulier",
                 "abbreviation": "AOR. 2 ACT. PART. NOM. MASC. SG.",
                 "syntax": "Participe circonstanciel dont Pierre est le sujet : « étant descendu de la barque »."
-              }
+              },
+              "etymology": "Formé de κατά (« vers le bas ») et βαίνω (« aller, marcher »).",
+              "etymologyLemma": "καταβαίνω"
             }
           },
           {
@@ -728,9 +742,9 @@
             "greek": "ὕδατα",
             "gloss": "eaux",
             "annotation": {
-              "type": "analyse",
-              "title": "Pierre marche sur les eaux",
-              "content": "Pierre ne maîtrise pas la mer : il avance en réponse à l’appel du Christ. La scène ne promet pas au croyant une invulnérabilité ; elle montre que la foi est un mouvement de confiance, orienté vers Jésus et soutenu par lui jusque dans la défaillance.",
+              "type": "grammaire",
+              "title": "ὕδατα",
+              "content": "",
               "related": [
                 "ἐπὶ",
                 "τὰ",
@@ -744,7 +758,9 @@
                 "parsing": "Accusatif neutre pluriel",
                 "abbreviation": "ACC. NEUT. PL.",
                 "syntax": "Complément de ἐπί avec l’accusatif : « sur les eaux »."
-              }
+              },
+              "etymology": "Nom grec ancien « eau », génitif ὕδατος ; le thème ὑδατ- apparaît dans la flexion.",
+              "etymologyLemma": "ὕδωρ"
             }
           },
           {
@@ -759,9 +775,9 @@
             "greek": "πρὸς",
             "gloss": "vers",
             "annotation": {
-              "type": "traduction",
-              "title": "Vers Jésus, πρὸς τὸν Ἰησοῦν",
-              "content": "Πρός suivi de l’accusatif exprime ici la direction : Pierre vient « vers Jésus ». Le texte de Matthieu ne dit pas εἰς Χριστόν ; son mouvement concret permet néanmoins une lecture spirituelle de toute la vie chrétienne comme orientation vers le Christ.",
+              "type": "grammaire",
+              "title": "πρὸς",
+              "content": "",
               "related": [
                 "Ἐλθέ.",
                 "ἦλθεν",
@@ -775,7 +791,9 @@
                 "parsing": "Construite ici avec l’accusatif",
                 "abbreviation": "PRÉP. + ACC.",
                 "syntax": "Introduit τὸν Ἰησοῦν et exprime le mouvement vers Jésus."
-              }
+              },
+              "etymology": "Préposition ancienne « vers, auprès de », ici avec l’accusatif.",
+              "etymologyLemma": "πρός"
             }
           },
           {
@@ -872,7 +890,9 @@
                   "label": "Chantraine, Dictionnaire étymologique de la langue grecque, s.v. βλέπω",
                   "url": ""
                 }
-              ]
+              ],
+              "etymology": "Verbe grec ancien « voir, regarder » ; la forme βλέπων est son participe présent. Sa formation interne n’autorise pas une décomposition en préfixe et racine grecque courante.",
+              "etymologyLemma": "βλέπω"
             }
           },
           {
@@ -903,9 +923,9 @@
             "greek": "καταποντίζεσθαι",
             "gloss": "à_s'enfoncer/couler",
             "annotation": {
-              "type": "racine",
-              "title": "Commencer à s’enfoncer",
-              "content": "Καταποντίζεσθαι décrit l’enfoncement de Pierre. Le texte ne condamne pas l’attention au réel : il met en scène un regard désormais dominé par la menace. La peur n’a pourtant pas le dernier mot, puisqu’elle devient immédiatement un cri adressé au Seigneur.",
+              "type": "grammaire",
+              "title": "καταποντίζεσθαι",
+              "content": "",
               "related": [
                 "καὶ",
                 "ἀρξάμενος",
@@ -919,7 +939,9 @@
                 "parsing": "Présent moyen-passif, infinitif",
                 "abbreviation": "PRÉS. MOY.-PASS. INF.",
                 "syntax": "Complément de ἤρξατο, « il commença à s’enfoncer »."
-              }
+              },
+              "etymology": "Composé de κατά et πόντος (« mer »), avec -ίζω : « engloutir dans la mer ».",
+              "etymologyLemma": "καταποντίζω"
             }
           },
           {
@@ -947,47 +969,15 @@
                   "guérir ou rendre sain selon le contexte"
                 ],
                 "paradigm": "σῴζω, futur σώσω, aoriste ἔσωσα, parfait passif σέσωσμαι.",
-                "etymology": "Le verbe appartient à la famille de σῶς, « sain et sauf ». Pour l’histoire du mot, voir Chantraine, s.v. σῴζω.",
-                "theological_horizon": "Dans le Nouveau Testament, le salut peut désigner une délivrance concrète, une guérison et l’accomplissement du salut en Christ. Le contexte décide du premier sens, sans isoler ces dimensions les unes des autres."
+                "etymology": "Le verbe appartient à la famille de σῶς, « sain et sauf ». Pour l’histoire du mot, voir Chantraine, s.v. σῴζω."
               },
               "local": {
                 "reference": "Matthieu 14,30, 9e dimanche après Pentecôte",
                 "expression": "Κύριε, σῶσόν με",
                 "literal": "Seigneur, sauve-moi.",
                 "translation": "Seigneur, sauve-moi !",
-                "syntax": "σῶσον est un impératif aoriste actif à la deuxième personne du singulier ; με, « moi », en est le complément direct.",
-                "commentary": "La prière de Pierre naît au cœur du danger. Elle ne développe aucune justification : elle nomme le Seigneur et lui remet directement la vie menacée."
+                "syntax": "σῶσον est un impératif aoriste actif à la deuxième personne du singulier ; με, « moi », en est le complément direct."
               },
-              "occurrences": [
-                {
-                  "reference": "Matthieu 14,30",
-                  "greek": "Κύριε, σῶσόν με",
-                  "literal": "Seigneur, sauve-moi.",
-                  "context": "Pierre commence à s’enfoncer dans les eaux.",
-                  "theology": "Le salut est reçu comme l’action immédiate du Christ qui saisit et relève.",
-                  "current": true,
-                  "pericope_key": "309_after_pentecost_9",
-                  "reading_type": "gospel",
-                  "target_form": "σῶσόν"
-                },
-                {
-                  "reference": "Marc 8,35",
-                  "greek": "ὃς δ’ ἂν ἀπολέσει τὴν ψυχὴν αὐτοῦ ... σώσει αὐτήν",
-                  "literal": "Celui qui perdra sa vie ... la sauvera.",
-                  "context": "Appel à suivre le Christ et à perdre sa vie à cause de lui et de l’Évangile.",
-                  "theology": "Le salut de la vie apparaît paradoxalement dans le don de soi à la suite du Christ.",
-                  "pericope_key": "97_cross_after",
-                  "reading_type": "gospel",
-                  "target_form": "σῶσαι"
-                },
-                {
-                  "reference": "Éphésiens 2,8",
-                  "greek": "τῇ γὰρ χάριτί ἐστε σεσῳσμένοι διὰ πίστεως",
-                  "literal": "Car c’est par la grâce que vous êtes sauvés, par la foi.",
-                  "context": "Paul rapporte le salut à la grâce reçue dans la foi.",
-                  "theology": "La forme passive souligne que le salut est d’abord un don de Dieu."
-                }
-              ],
               "sources": [
                 {
                   "label": "Strong G4982, σῴζω",
@@ -1002,8 +992,8 @@
                   "url": ""
                 }
               ],
-              "title": "Sauve-moi",
-              "content": "L’impératif aoriste concentre le cri de Pierre dans une demande immédiate. Il ne décrit pas une capacité propre, mais appelle l’action décisive du Seigneur.",
+              "title": "σῶσόν",
+              "content": "",
               "grammar": {
                 "form": "σῶσον",
                 "lemma": "σῴζω",
@@ -1011,7 +1001,10 @@
                 "parsing": "Aoriste actif, impératif, deuxième personne du singulier",
                 "abbreviation": "AOR. ACT. IMP. 2 SG.",
                 "syntax": "Impératif adressé au Seigneur ; με, « moi », en est le complément direct."
-              }
+              },
+              "etymology": "Verbe ancien « sauver, préserver », sans préfixe grec transparent.",
+              "etymologyLemma": "σῴζω",
+              "type": "grammaire"
             }
           },
           {
@@ -1055,9 +1048,9 @@
             "greek": "χεῖρα",
             "gloss": "main",
             "annotation": {
-              "type": "theologie",
-              "title": "La main qui arrache à l’abîme",
-              "content": "Avant tout reproche, Jésus étend la main et saisit Pierre. Ce geste peut être rapproché de l’icône orthodoxe de la Descente aux enfers, où le Christ relève Adam : le salut n’est pas l’exploit de celui qui ne tombe jamais, mais l’action du Christ qui rejoint et relève.",
+              "type": "grammaire",
+              "title": "χεῖρα",
+              "content": "",
               "related": [
                 "ἐκτείνας",
                 "ἐπελάβετο",
@@ -1073,44 +1066,15 @@
                   "aide ou intervention selon le contexte"
                 ],
                 "paradigm": "χείρ, génitif χειρός, datif χειρί, accusatif χεῖρα.",
-                "etymology": "Nom ancien de la main, à flexion irrégulière. Pour les rapprochements indo-européens proposés, voir Chantraine, s.v. χείρ.",
-                "theological_horizon": "La main biblique peut désigner l’action, la puissance ou le secours. Lorsqu’elle est celle du Christ, le geste concret demeure premier et peut recevoir une portée de salut."
+                "etymology": "Nom ancien de la main, à flexion irrégulière. Pour les rapprochements indo-européens proposés, voir Chantraine, s.v. χείρ."
               },
               "local": {
                 "reference": "Matthieu 14,31, 9e dimanche après Pentecôte",
                 "expression": "ἐκτείνας τὴν χεῖρα ἐπελάβετο αὐτοῦ",
                 "literal": "Ayant étendu la main, il le saisit.",
                 "translation": "Jésus étendit aussitôt la main et le saisit.",
-                "syntax": "χεῖρα est l’accusatif singulier, complément direct de ἐκτείνας. L’article τήν accompagne le nom.",
-                "commentary": "Le secours précède le reproche. Jésus saisit Pierre avant de lui demander pourquoi il a douté : la correction est prononcée depuis une relation déjà restaurée."
+                "syntax": "χεῖρα est l’accusatif singulier, complément direct de ἐκτείνας. L’article τήν accompagne le nom."
               },
-              "occurrences": [
-                {
-                  "reference": "Matthieu 14,31",
-                  "greek": "ἐκτείνας τὴν χεῖρα ἐπελάβετο αὐτοῦ",
-                  "literal": "Ayant étendu la main, il le saisit.",
-                  "context": "Jésus arrache Pierre à l’enfoncement.",
-                  "theology": "Le salut est représenté comme une prise réelle du Christ qui relève celui qui crie vers lui.",
-                  "current": true,
-                  "pericope_key": "309_after_pentecost_9",
-                  "reading_type": "gospel",
-                  "target_form": "χεῖρα"
-                },
-                {
-                  "reference": "Jean 10,28",
-                  "greek": "οὐχ ἁρπάσει τις αὐτὰ ἐκ τῆς χειρός μου",
-                  "literal": "Personne ne les arrachera de ma main.",
-                  "context": "Jésus parle des brebis auxquelles il donne la vie éternelle.",
-                  "theology": "La main exprime la garde fidèle du Bon Pasteur."
-                },
-                {
-                  "reference": "Actes 11,21",
-                  "greek": "ἦν χεὶρ κυρίου μετ’ αὐτῶν",
-                  "literal": "La main du Seigneur était avec eux.",
-                  "context": "La mission porte du fruit à Antioche.",
-                  "theology": "La main du Seigneur désigne son action efficace accompagnant la mission."
-                }
-              ],
               "sources": [
                 {
                   "label": "Strong G5495, χείρ",
@@ -1132,7 +1096,9 @@
                 "parsing": "Accusatif féminin singulier",
                 "abbreviation": "ACC. FÉM. SG.",
                 "syntax": "Complément direct de ἐκτείνας, « ayant étendu la main »."
-              }
+              },
+              "etymology": "Nom ancien « main », génitif χειρός.",
+              "etymologyLemma": "χείρ"
             }
           },
           {
@@ -1171,9 +1137,9 @@
             "greek": "ἐδίστασας;",
             "gloss": "as-tu_douté",
             "annotation": {
-              "type": "racine",
-              "title": "Pourquoi as-tu douté ?",
-              "content": "Διστάζω signifie hésiter ou douter. Son lien avec δίς, « deux fois », peut suggérer une hésitation entre deux appuis ; il faut toutefois distinguer cette méditation spirituelle du sens contextuel : Pierre cesse de s’en remettre pleinement à la parole du Christ.",
+              "type": "grammaire",
+              "title": "ἐδίστασας;",
+              "content": "",
               "related": [
                 "εἰς",
                 "τί"
@@ -1185,7 +1151,9 @@
                 "parsing": "Aoriste actif, indicatif, deuxième personne du singulier",
                 "abbreviation": "AOR. ACT. IND. 2 SG.",
                 "syntax": "Verbe de la question introduite par εἰς τί, « pourquoi ? »."
-              }
+              },
+              "etymology": "Verbe de la famille de δίς (« deux fois ») : « hésiter, être partagé ».",
+              "etymologyLemma": "διστάζω"
             }
           }
         ]
@@ -1205,9 +1173,9 @@
             "greek": "ἀναβάντων",
             "gloss": "étant_montés",
             "annotation": {
-              "type": "theologie",
-              "title": "Remonter ensemble dans la barque",
-              "content": "Le même verbe ἀναβαίνω revient lorsque Jésus et Pierre remontent ensemble dans la barque. Pierre n’est pas élevé par une maîtrise retrouvée des eaux, mais ramené par Celui qui l’a saisi ; l’apaisement et la confession suivent ce salut reçu.",
+              "type": "grammaire",
+              "title": "ἀναβάντων",
+              "content": "",
               "related": [
                 "ἐπελάβετο",
                 "πλοῖον",
@@ -1220,7 +1188,9 @@
                 "parsing": "Deuxième aoriste actif, participe, génitif masculin pluriel",
                 "abbreviation": "AOR. 2 ACT. PART. GÉN. MASC. PL.",
                 "syntax": "Avec αὐτῶν, forme un génitif absolu : « lorsqu’ils furent montés dans la barque »."
-              }
+              },
+              "etymology": "Composé de ἀνά (« vers le haut ») et βαίνω (« aller ») : « monter ».",
+              "etymologyLemma": "ἀναβαίνω"
             }
           },
           {
@@ -1352,18 +1322,8 @@
         ]
       }
     ],
-    "personal_analysis": "Notes sur le texte grec :\n\n• Φάντασμα est justement rendu par « fantôme » ou « apparition ». Le mot dit d’abord ce que les disciples croient voir devant une présence qu’ils ne reconnaissent pas encore.\n• βλέπων, « regardant », est immédiatement suivi de ἐφοβήθη, « il eut peur ». La construction rapproche l’objet du regard et la naissance de la peur.\n• ἐδίστασας est traduit par « tu as douté ». Le verbe désigne ici une hésitation qui rend la marche instable, non une simple question intellectuelle.\n\nAnalyse :\n\nLe récit est construit comme une suite de mouvements. Jésus envoie les disciples vers l’autre rive, se retire pour prier, vient vers eux sur la mer puis appelle Pierre à venir. Pierre marche tant que son mouvement demeure orienté vers le Christ. Lorsqu’il se laisse saisir par le vent, il s’enfonce, mais son cri reçoit immédiatement une réponse : Jésus étend la main et le saisit.\n\nLa foi ne consiste donc pas à nier le danger ni à réussir sans défaillance. Elle demeure une relation au Christ, capable de devenir supplication au cœur même de la peur. La main tendue précède le reproche et manifeste que le salut est reçu avant d’être une performance.\n\nL’Apôtre donne le fondement de cette traversée : nul ne peut en poser un autre que Jésus Christ. Le regard de Pierre et la vigilance du bâtisseur se répondent par le même verbe βλέπω.",
+    "personal_analysis": "Version de démonstration : les développements spirituels de cette lecture sont en cours de relecture. Les fiches grammaticales et les rapprochements sélectionnés restent accessibles.",
     "homiletic_axes": [
-      {
-        "title": "Dans la tempête, une présence qui vient",
-        "content": "La barque est tourmentée par le vent contraire ; la tempête extérieure rejoint les peurs intérieures des disciples. Jésus vient pourtant à eux au cœur de la nuit et leur dit de ne pas craindre.",
-        "keywords": [
-          "πλοῖον",
-          "βασανιζόμενον",
-          "περιπατῶν",
-          "φοβεῖσθε."
-        ]
-      },
       {
         "title": "Venir vers Jésus, s’enfoncer, être saisi",
         "content": "Pierre marche πρὸς τὸν Ἰησοῦν, « vers Jésus ». Quand la peur l’envahit, son cri demeure encore orienté vers le Seigneur, dont la main le saisit avant toute explication.",
@@ -1372,26 +1332,6 @@
           "πρὸς",
           "σῶσόν",
           "χεῖρα"
-        ]
-      },
-      {
-        "title": "Le Christ, unique fondement",
-        "content": "L’Apôtre déplace l’image de l’instabilité vers l’édifice : la vie ecclésiale se construit sur le seul fondement déjà posé.",
-        "keywords": [
-          "οἰκοδομή",
-          "θεμέλιον",
-          "Ἰησοῦς",
-          "Χριστός."
-        ]
-      },
-      {
-        "title": "De la barque au sanctuaire",
-        "content": "Les disciples confessent le Fils de Dieu dans la barque ; Paul affirme que la communauté est le sanctuaire habité par l’Esprit.",
-        "keywords": [
-          "πλοίῳ",
-          "θεοῦ",
-          "ναὸς",
-          "πνεῦμα"
         ]
       }
     ],
@@ -1433,26 +1373,7 @@
         "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
       }
     ],
-    "liturgical_echoes": [
-      {
-        "title": "De la mer instable au fondement qui demeure",
-        "reference": "Matthieu 14, 22-34 ; 1 Corinthiens 3, 9-17",
-        "content": "Pierre ne tient pas par sa propre maîtrise de la mer, et l’Église ne tient pas par ses propres constructeurs. Le Christ saisit celui qui s’enfonce et demeure l’unique fondement de l’édifice habité par l’Esprit.",
-        "connections": []
-      },
-      {
-        "title": "La main du Christ et la Descente aux enfers",
-        "reference": "Matthieu 14, 31 ; icône de l’Anastasis",
-        "content": "La main tendue à Pierre fait écho au Christ qui saisit Adam pour l’arracher au séjour des morts. Dans les deux images, le salut commence par l’initiative du Christ : il descend vers celui qui s’enfonce et le relève.",
-        "connections": []
-      },
-      {
-        "title": "La liturgie, stabilité au milieu de la tourmente",
-        "reference": "Matthieu 14, 22-34 ; 1 Corinthiens 3, 16",
-        "content": "La liturgie ne supprime pas magiquement les tempêtes, mais elle rassemble les personnes dispersées autour du Christ et les révèle comme sanctuaire habité par l’Esprit. La prière personnelle et la prière ecclésiale s’y appellent mutuellement.",
-        "connections": []
-      }
-    ]
+    "liturgical_echoes": []
   },
   "apostle": {
     "reference": "1 Corinthiens 3, 9-17",
@@ -1481,9 +1402,9 @@
             "greek": "συνεργοί·",
             "gloss": "co-ouvriers/collaborateurs",
             "annotation": {
-              "type": "racine",
-              "title": "Coopérateurs de Dieu",
-              "content": "Paul décrit les ministres comme des collaborateurs appartenant à Dieu. La coopération n’efface ni l’initiative divine ni la responsabilité humaine.",
+              "type": "grammaire",
+              "title": "συνεργοί·",
+              "content": "",
               "related": [
                 "γάρ",
                 "ἐσμεν",
@@ -1497,7 +1418,9 @@
                 "parsing": "Nominatif masculin pluriel",
                 "abbreviation": "NOM. MASC. PL.",
                 "syntax": "Attribut du sujet « nous » dans θεοῦ γάρ ἐσμεν συνεργοί."
-              }
+              },
+              "etymology": "Composé de σύν (« avec ») et ἔργον (« travail, œuvre ») : « collaborateur ».",
+              "etymologyLemma": "συνεργός"
             }
           },
           {
@@ -1516,9 +1439,9 @@
             "greek": "οἰκοδομή",
             "gloss": "édifice/construction",
             "annotation": {
-              "type": "racine",
-              "title": "L’édifice de Dieu",
-              "content": "La communauté est appelée « édifice de Dieu ». L’image complète celle du champ et prépare le développement sur le fondement et la construction.",
+              "type": "grammaire",
+              "title": "οἰκοδομή",
+              "content": "",
               "related": [
                 "γεώργιον,",
                 "Θεοῦ",
@@ -1531,7 +1454,9 @@
                 "parsing": "Nominatif féminin singulier",
                 "abbreviation": "NOM. FÉM. SG.",
                 "syntax": "Attribut du sujet « vous » dans θεοῦ οἰκοδομή ἐστε."
-              }
+              },
+              "etymology": "Nom formé sur οἰκοδομέω, de οἶκος (« maison ») et δέμω (« bâtir ») : « construction ».",
+              "etymologyLemma": "οἰκοδομή"
             }
           },
           {
@@ -1658,7 +1583,9 @@
                 "parsing": "Accusatif masculin singulier",
                 "abbreviation": "ACC. MASC. SG.",
                 "syntax": "Complément direct de θεῖναι, « poser un fondement »."
-              }
+              },
+              "etymology": "Adjectif et nom « fondement, pierre de fondation », de la famille de τίθημι (« poser »).",
+              "etymologyLemma": "θεμέλιος"
             }
           },
           {
@@ -1835,9 +1762,9 @@
             "greek": "πυρὶ",
             "gloss": "le_feu",
             "annotation": {
-              "type": "analyse",
-              "title": "L’œuvre éprouvée par le feu",
-              "content": "Le feu éprouve la qualité de l’œuvre de chacun. Dans l’image paulinienne, il révèle ce qui demeure sur le fondement plutôt qu’il ne désigne une destruction arbitraire.",
+              "type": "grammaire",
+              "title": "πυρὶ",
+              "content": "",
               "related": [
                 "ὅτι",
                 "ἐν",
@@ -1851,7 +1778,9 @@
                 "parsing": "Datif neutre singulier",
                 "abbreviation": "DAT. NEUT. SG.",
                 "syntax": "Datif instrumental après ἀποκαλύπτεται : « elle est révélée par le feu »."
-              }
+              },
+              "etymology": "Nom grec ancien « feu », sans composition interne transparente.",
+              "etymologyLemma": "πῦρ"
             }
           },
           {
@@ -2008,9 +1937,9 @@
             "greek": "πυρός.",
             "gloss": "du_feu",
             "annotation": {
-              "type": "analyse",
-              "title": "Comme à travers le feu",
-              "content": "Même lorsque l’œuvre ne demeure pas, Paul maintient la possibilité du salut de la personne. La comparaison souligne un passage éprouvant et dépouillant.",
+              "type": "grammaire",
+              "title": "πυρός.",
+              "content": "",
               "related": [
                 "ὡς",
                 "διὰ"
@@ -2022,7 +1951,9 @@
                 "parsing": "Génitif neutre singulier",
                 "abbreviation": "GÉN. NEUT. SG.",
                 "syntax": "Complément de διά dans ὡς διὰ πυρός, « comme à travers le feu »."
-              }
+              },
+              "etymology": "Nom grec ancien « feu », sans composition interne transparente.",
+              "etymologyLemma": "πῦρ"
             }
           }
         ]
@@ -2050,9 +1981,9 @@
             "greek": "ναὸς",
             "gloss": "temple/sanctuaire",
             "annotation": {
-              "type": "traduction",
-              "title": "Le sanctuaire de Dieu",
-              "content": "ναός désigne le sanctuaire. Paul applique l’image à la communauté entière, habitée par l’Esprit de Dieu.",
+              "type": "grammaire",
+              "title": "ναὸς",
+              "content": "",
               "related": [
                 "οἴδατε",
                 "ὅτι",
@@ -2066,7 +1997,9 @@
                 "parsing": "Nominatif masculin singulier",
                 "abbreviation": "NOM. MASC. SG.",
                 "syntax": "Attribut du sujet « vous » : « vous êtes le sanctuaire de Dieu »."
-              }
+              },
+              "etymology": "Nom « sanctuaire, temple », de la famille de ναίω (« habiter ») selon l’analyse traditionnelle.",
+              "etymologyLemma": "ναός"
             }
           },
           {
@@ -2146,9 +2079,9 @@
             "greek": "φθείρει,",
             "gloss": "détruit/corrompt",
             "annotation": {
-              "type": "traduction",
-              "title": "Ne pas détruire le sanctuaire",
-              "content": "Le même verbe exprime l’atteinte portée au sanctuaire et la réponse de Dieu. La gravité vient de ce que la communauté appartient à Dieu et est sainte.",
+              "type": "grammaire",
+              "title": "φθείρει,",
+              "content": "",
               "related": [
                 "τοῦ",
                 "θεοῦ",
@@ -2162,7 +2095,9 @@
                 "parsing": "Présent actif, indicatif, troisième personne du singulier",
                 "abbreviation": "PRÉS. ACT. IND. 3 SG.",
                 "syntax": "Verbe de la condition : « si quelqu’un détruit le sanctuaire de Dieu »."
-              }
+              },
+              "etymology": "Verbe ancien « détruire, corrompre », sans préfixe dans cette forme.",
+              "etymologyLemma": "φθείρω"
             }
           },
           {
@@ -2224,7 +2159,7 @@
         ]
       }
     ],
-    "personal_analysis": "Notes sur le texte grec :\n\n• συνεργοί signifie « collaborateurs » ou « compagnons de travail ». Paul maintient ensemble l’action humaine et la priorité de Dieu, qui donne la croissance.\n• βλεπέτω, « qu’il regarde » ou « qu’il veille », appelle chacun à discerner comment il bâtit.\n• σωθήσεται est un futur passif : l’œuvre peut être éprouvée et disparaître, tandis que le salut demeure reçu.\n• φθείρει peut signifier détruire ou corrompre. Le mot souligne la gravité de ce qui porte atteinte au sanctuaire de Dieu.\n\nAnalyse :\n\nPaul distingue soigneusement le fondement, les bâtisseurs et les matériaux. Le fondement est déjà posé : Jésus Christ. Les ministres et les fidèles ne le remplacent pas ; ils sont responsables de la manière dont ils construisent sur lui.\n\nLe feu éprouve la qualité de l’œuvre sans réduire la personne à son ouvrage. Cette distinction protège à la fois de l’orgueil devant une réussite visible et du désespoir devant l’échec.\n\nEnfin, Paul parle au pluriel : « vous êtes le sanctuaire de Dieu ». La demeure de l’Esprit est personnelle et ecclésiale. La synergie chrétienne n’est donc ni passivité ni autosuffisance, mais coopération sous la grâce dans l’unique édifice du Christ.",
+    "personal_analysis": "Version de démonstration : les développements spirituels de cette lecture sont en cours de relecture. Les fiches grammaticales et les rapprochements sélectionnés restent accessibles.",
     "homiletic_axes": [
       {
         "title": "Bâtir sur le fondement déjà posé",
@@ -2233,24 +2168,6 @@
           "θεμέλιον",
           "Ἰησοῦς",
           "Χριστός."
-        ]
-      },
-      {
-        "title": "Collaborer sans s’approprier la croissance",
-        "content": "Les serviteurs travaillent réellement, mais le champ et l’édifice appartiennent à Dieu. La coopération avec la grâce libère aussi bien de la passivité que de l’illusion de tout produire par soi-même.",
-        "keywords": [
-          "συνεργοί·",
-          "γεώργιον,",
-          "οἰκοδομή"
-        ]
-      },
-      {
-        "title": "Une communauté habitée par l’Esprit",
-        "content": "La barque devient un lieu de confession ; Paul élargit cette image à l’Église, sanctuaire de Dieu. Prendre soin de la communion revient à respecter la demeure où l’Esprit habite.",
-        "keywords": [
-          "ναὸς",
-          "θεοῦ",
-          "πνεῦμα"
         ]
       }
     ],
@@ -2292,75 +2209,12 @@
         "prompt": "Gardez une image dominante et une progression sobre. Présentez les symboles et les mouvements de racines comme une lecture spirituelle, non comme une traduction littérale, et évitez les promesses automatiques."
       }
     ],
-    "liturgical_echoes": [
-      {
-        "title": "Recevoir le Corps, devenir corps ecclésial",
-        "reference": "1 Corinthiens 3, 16 ; liturgie eucharistique",
-        "content": "Dans le prolongement liturgique du texte, l’Eucharistie ne transforme pas seulement les dons offerts : elle transforme ceux qui communient et les rassemble en Église. Le pluriel de Paul, « vous êtes le sanctuaire de Dieu », interdit de réduire cette demeure à une expérience seulement individuelle.",
-        "connections": []
-      }
-    ]
+    "liturgical_echoes": []
   },
   "reading_connections": {
     "title": "Du regard vacillant au fondement qui demeure",
-    "summary": "Pierre marche vers Jésus puis s’enfonce lorsque son regard se laisse saisir par le vent ; Paul appelle chaque bâtisseur à veiller sur sa manière de construire, car l’unique fondement est Jésus Christ.",
+    "summary": "Un rapprochement grec entre l’Évangile et l’Apôtre est proposé dans cette démonstration.",
     "links": [
-      {
-        "directness": "direct",
-        "kind": "same_root",
-        "link_type": "vigilance",
-        "title": "Regarder le vent, regarder comment on bâtit",
-        "explanation": "Matthieu emploie βλέπων lorsque Pierre regarde le vent ; Paul emploie βλεπέτω pour demander à chacun de veiller à sa manière de bâtir. La même racine fait du regard un lieu de discernement.",
-        "bridge_sentence": "Ce que le disciple regarde oriente aussi la manière dont il construit.",
-        "homiletic_use": "Inviter à discerner non seulement l’œuvre accomplie, mais le regard intérieur qui la guide : peur du vent ou confiance dans le Christ.",
-        "bridge": {
-          "evidence": "Racine directement commune βλεπ- : βλέπων / βλεπέτω",
-          "gospel": "βλέπων δὲ τὸν ἄνεμον ἐφοβήθη : regardant le vent, il eut peur",
-          "relation": "Le regard détermine la stabilité de l’action",
-          "apostle": "ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ : que chacun regarde comment il bâtit",
-          "detail": "Le participe décrit le regard qui détourne Pierre ; l’impératif appelle le bâtisseur à une vigilance durable."
-        },
-        "term_details": {
-          "gospel": [
-            {
-              "forms": [
-                "βλέπων"
-              ],
-              "lemma": "βλέπω",
-              "root": "βλεπ- : voir, regarder",
-              "literal": "regardant",
-              "role": "Le regard de Pierre se fixe sur la menace et la peur surgit."
-            }
-          ],
-          "apostle": [
-            {
-              "forms": [
-                "βλεπέτω"
-              ],
-              "lemma": "βλέπω",
-              "root": "βλεπ- : voir, veiller",
-              "literal": "qu’il regarde, qu’il veille",
-              "role": "Chacun doit discerner la qualité de sa construction."
-            }
-          ]
-        },
-        "gospel": {
-          "verses": [
-            "30"
-          ],
-          "terms": [
-            "βλέπων"
-          ]
-        },
-        "apostle": {
-          "verses": [
-            "10"
-          ],
-          "terms": [
-            "βλεπέτω"
-          ]
-        }
-      },
       {
         "directness": "direct",
         "kind": "same_root",
@@ -2414,136 +2268,6 @@
           ],
           "terms": [
             "σωθήσεται"
-          ]
-        }
-      },
-      {
-        "directness": "indirect",
-        "kind": "theology",
-        "link_type": "foundation",
-        "title": "Venir vers Jésus, bâtir sur Jésus Christ",
-        "explanation": "Pierre sort de la barque pour venir vers Jésus ; Paul affirme qu’aucun autre fondement ne peut être posé que Jésus Christ. Le mouvement du disciple ne tient que par celui vers qui il avance.",
-        "bridge_sentence": "La foi n’est pas l’assurance de marcher seul : elle avance vers celui qui est déjà le fondement.",
-        "homiletic_use": "Unir l’image de la marche et celle de l’édifice : la stabilité chrétienne ne vient ni de l’eau ni de nos matériaux, mais de la relation au Christ.",
-        "bridge": {
-          "evidence": "Identité théologique explicite de la direction et du fondement : Jésus",
-          "gospel": "ἐλθεῖν πρὸς σὲ… ἦλθεν πρὸς τὸν Ἰησοῦν : venir vers toi… il vint vers Jésus",
-          "relation": "Le Christ est à la fois le terme de la marche et le fondement de l’édifice",
-          "apostle": "θεμέλιον… ὅς ἐστιν Ἰησοῦς Χριστός : le fondement est Jésus Christ",
-          "detail": "Le lien n’est pas fondé sur une racine commune, mais sur la même personne qui rend possibles l’avancée et la construction."
-        },
-        "term_details": {
-          "gospel": [
-            {
-              "forms": [
-                "πρὸς",
-                "Ἰησοῦν"
-              ],
-              "lemma": "πρός / Ἰησοῦς",
-              "root": "préposition de direction / nom propre",
-              "literal": "vers Jésus",
-              "role": "La marche de Pierre reçoit du Christ sa direction et son sens."
-            }
-          ],
-          "apostle": [
-            {
-              "forms": [
-                "θεμέλιον",
-                "Ἰησοῦς",
-                "Χριστός"
-              ],
-              "lemma": "θεμέλιος / Ἰησοῦς Χριστός",
-              "root": "θεμελι- : fondement",
-              "literal": "fondement / Jésus Christ",
-              "role": "Toute construction ecclésiale repose sur le Christ déjà posé."
-            }
-          ]
-        },
-        "gospel": {
-          "verses": [
-            "28",
-            "29"
-          ],
-          "terms": [
-            "πρὸς",
-            "Ἰησοῦν"
-          ]
-        },
-        "apostle": {
-          "verses": [
-            "11"
-          ],
-          "terms": [
-            "θεμέλιον",
-            "Ἰησοῦς",
-            "Χριστός"
-          ]
-        }
-      },
-      {
-        "directness": "indirect",
-        "kind": "theology",
-        "link_type": "church",
-        "title": "Saisi par le Christ, rendu à la communion",
-        "explanation": "Jésus étend la main et saisit Pierre avant de remonter avec lui dans la barque ; Paul s’adresse au pluriel à la communauté : « vous êtes le sanctuaire de Dieu ». Le salut personnel ne se referme pas sur l’individu, il le rend à la communion ecclésiale.",
-        "bridge_sentence": "La main qui relève Pierre le ramène dans la barque ; l’Esprit fait de la communauté une demeure.",
-        "homiletic_use": "Relier sans les confondre le secours personnel et la vie de l’Église : le Christ rejoint chacun, mais le relève au sein d’un peuple habité par l’Esprit.",
-        "bridge": {
-          "evidence": "Correspondance théologique et narrative, sans racine grecque commune",
-          "gospel": "ἐκτείνας τὴν χεῖρα ἐπελάβετο αὐτοῦ… ἀναβάντων αὐτῶν εἰς τὸ πλοῖον : étendant la main, il le saisit… ils remontèrent dans la barque",
-          "relation": "Du secours accordé à Pierre à la communion restaurée",
-          "apostle": "ναὸς θεοῦ ἐστε… τὸ πνεῦμα τοῦ θεοῦ οἰκεῖ ἐν ὑμῖν : vous êtes le sanctuaire de Dieu… l’Esprit de Dieu habite en vous",
-          "detail": "Matthieu conduit Pierre saisi par le Christ jusqu’à la barque et à la confession commune ; Paul révèle la communauté comme demeure de l’Esprit."
-        },
-        "term_details": {
-          "gospel": [
-            {
-              "forms": [
-                "χεῖρα",
-                "ἐπελάβετο",
-                "πλοῖον"
-              ],
-              "lemma": "χείρ / ἐπιλαμβάνομαι / πλοῖον",
-              "root": "geste de secours et retour à la barque",
-              "literal": "main / il saisit / barque",
-              "role": "Le Christ relève Pierre et remonte avec lui parmi les disciples."
-            }
-          ],
-          "apostle": [
-            {
-              "forms": [
-                "ναὸς",
-                "ἐστε",
-                "πνεῦμα",
-                "ὑμῖν"
-              ],
-              "lemma": "ναός / εἰμί / πνεῦμα / σύ",
-              "root": "sanctuaire, être, Esprit, vous",
-              "literal": "sanctuaire / vous êtes / Esprit / en vous",
-              "role": "Le pluriel désigne la communauté entière comme demeure de l’Esprit."
-            }
-          ]
-        },
-        "gospel": {
-          "verses": [
-            "31",
-            "32"
-          ],
-          "terms": [
-            "χεῖρα",
-            "ἐπελάβετο",
-            "πλοῖον"
-          ]
-        },
-        "apostle": {
-          "verses": [
-            "16"
-          ],
-          "terms": [
-            "ναὸς",
-            "ἐστε",
-            "πνεῦμα",
-            "ὑμῖν"
           ]
         }
       }
