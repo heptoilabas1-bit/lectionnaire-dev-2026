@@ -1137,6 +1137,10 @@ document.addEventListener('DOMContentLoaded', () => {
             term.classList.toggle('is-focused-term', focusedComparisonIndex !== null
                 && term.classList.contains(`comparison-term-link-${focusedComparisonIndex}`));
         });
+        linksContainer.querySelectorAll('.comparison-full-view .comparison-word-unit').forEach(unit => {
+            unit.classList.toggle('is-muted', focusedComparisonIndex !== null
+                && !unit.querySelector('.is-focused-term'));
+        });
         if (options.scroll && focusedComparisonIndex !== null) {
             linksContainer.querySelector(`.comparison-full-view .comparison-term-link-${focusedComparisonIndex}`)
                 ?.scrollIntoView({ behavior: 'smooth', block: 'center' });
