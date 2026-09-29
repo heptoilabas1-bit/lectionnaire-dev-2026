@@ -3004,6 +3004,66 @@
             "ἀγάπῃ"
           ]
         }
+      },
+      {
+        "directness": "direct",
+        "kind": "same_root",
+        "link_type": "gift_and_care",
+        "title": "La grâce donnée à chacun, il donna pour prendre soin",
+        "explanation": "Paul dit Ἑνὶ δὲ ἑκάστῳ… ἐδόθη ἡ χάρις selon la δωρεά du Christ. Le Samaritain ἔδωκεν deux deniers et promet ἀποδώσω. La famille δο-/δω- fait passer du don reçu du Christ au don engagé pour la guérison d’autrui.",
+        "bridge_sentence": "",
+        "homiletic_use": "",
+        "bridge": {
+          "evidence": "Famille du don δο-/δω- : ἐδόθη / δωρεᾶς et ἔδωκεν / ἀποδώσω",
+          "gospel": "ἔδωκεν τῷ πανδοχεῖ… ἀποδώσω σοι : il donna à l’aubergiste… je te rendrai",
+          "relation": "La grâce reçue se traduit en don concret et en soin continué",
+          "apostle": "ἑκάστῳ ἡμῶν ἐδόθη ἡ χάρις… τῆς δωρεᾶς τοῦ Χριστοῦ : à chacun de nous la grâce a été donnée… selon le don du Christ",
+          "detail": "Les formes relèvent de δίδωμι, rendre/donner, et du nom δωρεά, don."
+        },
+        "term_details": {
+          "gospel": [
+            {
+              "forms": [
+                "ἔδωκεν",
+                "ἀποδώσω"
+              ],
+              "lemma": "δίδωμι / ἀποδίδωμι",
+              "root": "δο-/δω- : donner, rendre",
+              "literal": "il donna / je rendrai",
+              "role": "Le soin du Samaritain mobilise ses biens et l’engage au-delà de l’instant."
+            }
+          ],
+          "apostle": [
+            {
+              "forms": [
+                "ἐδόθη",
+                "δωρεᾶς"
+              ],
+              "lemma": "δίδωμι / δωρεά",
+              "root": "δο-/δω- : donner, don",
+              "literal": "fut donnée / don",
+              "role": "La diversité des grâces vient d’un même Christ donateur."
+            }
+          ]
+        },
+        "gospel": {
+          "verses": [
+            "35"
+          ],
+          "terms": [
+            "ἔδωκεν",
+            "ἀποδώσω"
+          ]
+        },
+        "apostle": {
+          "verses": [
+            "7"
+          ],
+          "terms": [
+            "ἐδόθη",
+            "δωρεᾶς"
+          ]
+        }
       }
     ]
   }
