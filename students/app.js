@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const APP_CONFIG = window.LECTIONARY_CONFIG || {};
     if (APP_CONFIG.students) document.body.classList.add('student-mode');
-    const DATA_VERSION = APP_CONFIG.dataVersion || '20260930-students-1';
+    const DATA_VERSION = APP_CONFIG.dataVersion || '20260930-students-2';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -842,8 +842,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!button) return;
         const available = Boolean((APP_CONFIG.students || (Array.isArray(data?.reading_connections?.links)
             && data.reading_connections.links.length))
-            && data.gospel
-            && data.apostle);
+            && data?.gospel
+            && data?.apostle);
         button.disabled = false;
         button.classList.toggle('comparison-pending', !available);
         button.title = available
