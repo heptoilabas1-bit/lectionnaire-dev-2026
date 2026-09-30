@@ -18,5 +18,5 @@ window.LECTIONARY_CONFIG = {
     2027
   ],
   "defaultCalendarYear": 2026,
-  "dataVersion": "20260929-demo-32"
+  "dataVersion": "20260930-demo-33"
 };
