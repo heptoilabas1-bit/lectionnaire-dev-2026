@@ -3,7 +3,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     const APP_CONFIG = window.LECTIONARY_CONFIG || {};
-    const DATA_VERSION = APP_CONFIG.dataVersion || '20260923-cross-movement-compare-1';
+    const DATA_VERSION = APP_CONFIG.dataVersion || '20260930-demo-34';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -2959,8 +2959,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         keywords: Array.isArray(axis.keywords) ? axis.keywords : []
                     }));
                     const seenAnnotations = new Set();
-                    const annotations = (reading?.interlinear || []).flatMap(verse =>
-                        (verse.interlinear || []).flatMap(word => {
+                    const annotations = (reading?.interlinear || []).flatMap((verse, verseIndex) =>
+                        (verse.interlinear || []).flatMap((word, wordIndex) => {
                             const rawAnnotation = word.annotation || word.analyse;
                             if (!rawAnnotation) return [];
                             const annotation = typeof rawAnnotation === 'string'
@@ -2994,7 +2994,12 @@ document.addEventListener('DOMContentLoaded', () => {
                                 reference: reading.reference || '',
                                 readingTitle: reading.title || '',
                                 verse: verse.verse_number,
-                                title: annotation.title || word.greek || 'Mot grec',
+                                verseIndex,
+                                wordIndex,
+                                wordGloss: word.gloss || '',
+                                title: annotation.title === 'Approfondissement spirituel'
+                                    ? `${annotation.grammar?.form || word.greek || 'Mot grec'} · ${String(word.gloss || '').replace(/_/g, ' ')}`
+                                    : annotation.title || word.greek || 'Mot grec',
                                 content: annotation.content || '',
                                 keywords: [word.greek, word.gloss, ...lexicalTerms].filter(Boolean)
                             }];
@@ -3043,6 +3048,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const kindFilter = document.getElementById('theme-kind-filter')?.value || 'all';
         const readingFilter = document.getElementById('theme-reading-filter')?.value || 'all';
         const normalizedQuery = normalizeSearch(query.trim());
+        // These two expressions refer to different Greek forms; search their own glosses.
+        const singleFormQuery = /^(un seul|une seule)$/.test(normalizedQuery);
         results.innerHTML = '';
         if (normalizedQuery.length < 2) {
             status.textContent = 'Saisissez au moins deux lettres ou choisissez un thème fréquent.';
@@ -3051,6 +3058,11 @@ document.addEventListener('DOMContentLoaded', () => {
         const matches = index.filter(item => {
             if (kindFilter !== 'all' && item.kind !== kindFilter) return false;
             if (readingFilter !== 'all' && item.type !== readingFilter) return false;
+            if (singleFormQuery) {
+                if (item.kind !== 'annotation') return false;
+                const gloss = normalizeSearch(item.wordGloss).replace(/[_\[\]]/g, ' ').replace(/\s+/g, ' ').trim();
+                return new RegExp(`(?:^|[^a-z])${normalizedQuery}(?:$|[^a-z])`).test(gloss);
+            }
             return normalizeSearch([
                 item.sunday,
                 item.reference,
@@ -3082,14 +3094,24 @@ document.addEventListener('DOMContentLoaded', () => {
             keywords.textContent = item.keywords.join(' · ');
             const open = document.createElement('button');
             open.type = 'button';
-            open.textContent = 'Ouvrir cette péricope';
-            open.addEventListener('click', () => {
+            open.textContent = item.kind === 'annotation' ? 'Ouvrir la fiche de ce mot' : 'Ouvrir cette péricope';
+            open.addEventListener('click', async () => {
                 currentCalendarEntry = null;
                 const calendarSelect = document.getElementById('calendar-select');
                 const directSelect = document.getElementById('sunday-select');
                 if (calendarSelect) calendarSelect.value = '';
                 if (directSelect) directSelect.value = item.key;
-                loadTextContext(item.key, item.type);
+                setSelectionMode('pericope');
+                await loadTextContext(item.key, item.type);
+                if (item.kind === 'annotation') {
+                    const verse = document.querySelectorAll('#gospel-text .verse-row')[item.verseIndex];
+                    const word = verse?.querySelectorAll('.greek-word')[item.wordIndex];
+                    if (word?.hasAttribute('data-annotation')) {
+                        word.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        openAnnotation(word);
+                        return;
+                    }
+                }
                 document.getElementById('verse-title')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
             });
             article.append(context, heading, sunday, content);
