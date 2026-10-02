@@ -4,7 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const APP_CONFIG = window.LECTIONARY_CONFIG || {};
     if (APP_CONFIG.students) document.body.classList.add('student-mode');
-    const DATA_VERSION = APP_CONFIG.dataVersion || '20261001-students-3';
+    const studentAnalysisEnabled = () => !APP_CONFIG.students || APP_CONFIG.featuredPericopeKey === currentSundayKey;
+    const DATA_VERSION = APP_CONFIG.dataVersion || '20261002-students-neutral-1';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -463,8 +464,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     const unit = document.createElement('span');
                     unit.className = 'homily-interlinear-word';
                     const greek = document.createElement('span');
-                    const annotation = word.annotation || word.analyse;
-                    const movement = word.movement;
+                    const annotation = studentAnalysisEnabled() ? (word.annotation || word.analyse) : null;
+                    const movement = studentAnalysisEnabled() ? word.movement : null;
                     greek.className = `greek-word${annotation ? ` mot-info mot-${inferAnnotationType(annotation)}${annotationImportanceClass(annotation)}` : ''}${movement ? ' mot-movement' : ''}`;
                     greek.textContent = word.greek || '';
                     if (movement) {
@@ -890,14 +891,14 @@ document.addEventListener('DOMContentLoaded', () => {
                     const unit = document.createElement('span');
                     unit.className = 'comparison-word-unit';
                     const greek = document.createElement('span');
-                    const annotation = word.annotation || word.analyse;
+                    const annotation = studentAnalysisEnabled() ? (word.annotation || word.analyse) : null;
                     const token = normalizeGreekToken(word.greek);
                     greek.className = `greek-word${annotation ? ` mot-info mot-${inferAnnotationType(annotation)}${annotationImportanceClass(annotation)}` : ''}`;
                     greek.textContent = word.greek || '';
-                    const matchingIndexes = fullConnections
+                    const matchingIndexes = !studentAnalysisEnabled() ? [] : fullConnections
                         ? fullConnections.map((item, index) => connectionMatchesToken(item, side, token) ? index : -1).filter(index => index >= 0)
                         : (connectionMatchesToken(connection, side, token) ? [options.connectionIndex ?? 0] : []);
-                    const movement = word.movement;
+                    const movement = studentAnalysisEnabled() ? word.movement : null;
                     const movementIsCompared = movement && (fullConnections
                         ? matchingIndexes.some(index => fullConnections[index]?.link_type === 'discipleship_sequence')
                         : connection?.link_type === 'discipleship_sequence');
@@ -1185,7 +1186,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const title = document.createElement('h3');
         title.textContent = 'Les deux lectures intégrales';
         const instruction = document.createElement('p');
-        instruction.textContent = 'Tous les rapprochements sont visibles. Choisissez-en un pour suivre son parcours dans les deux textes.';
+        instruction.textContent = links.length ? 'Tous les rapprochements sont visibles. Choisissez-en un pour suivre son parcours dans les deux textes.' : '';
+        instruction.hidden = !links.length;
         heading.append(title, instruction);
         const grid = document.createElement('div');
         grid.className = 'comparison-grid';
@@ -1227,7 +1229,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const annotationHelp = document.querySelector('.annotation-help');
         if (!comparisonView || !linksContainer) return;
 
-        const links = Array.isArray(connections?.links) ? connections.links : [];
+        const links = studentAnalysisEnabled() && Array.isArray(connections?.links) ? connections.links : [];
 
         if (!links.length && APP_CONFIG.students) {
             if (comparisonTitle) comparisonTitle.textContent = 'Évangile et Apôtre';
@@ -2647,9 +2649,9 @@ document.addEventListener('DOMContentLoaded', () => {
                         verset.interlinear.forEach(word => {
 
                             //  Gestion des bulles d'info
-                            const annotation = word.annotation || word.analyse;
+                            const annotation = studentAnalysisEnabled() ? (word.annotation || word.analyse) : null;
                             const annotationType = inferAnnotationType(annotation);
-                            const movement = word.movement;
+                            const movement = studentAnalysisEnabled() ? word.movement : null;
                             const infoClass = `${annotation ? `mot-info mot-${annotationType}${annotationImportanceClass(annotation)}` : ''}${movement ? ' mot-movement' : ''}`.trim();
                             const dataAttr = annotation
                                 ? `data-annotation="${encodeURIComponent(JSON.stringify(annotation))}" tabindex="0" role="button"`

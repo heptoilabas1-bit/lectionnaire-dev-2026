@@ -1,1 +1,1 @@
-window.LECTIONARY_CONFIG = { students: true, featuredPericopeKey: null, defaultCalendarYear: 2026, dataVersion: '20261001-students-3' };
+window.LECTIONARY_CONFIG = { students: true, featuredPericopeKey: null, defaultCalendarYear: 2026, dataVersion: '20261002-students-neutral-1' };
