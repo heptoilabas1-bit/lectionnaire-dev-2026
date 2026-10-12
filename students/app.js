@@ -90,9 +90,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const liturgicalList = Object.fromEntries(
         Object.entries(fullLiturgicalList).filter(([key]) => isSundayAvailable(key))
     );
-    const configuredDefaultSunday = isSundayAvailable(APP_CONFIG.defaultSundayKey)
+    const entryParams = new URLSearchParams(window.location.search);
+    const explicitEntryKey = entryParams.get('pericope');
+    const legacyCourseLink = APP_CONFIG.students && /^20261012-students-course21(?:-|$)/.test(entryParams.get('v') || '');
+    const requestedEntryKey = Object.hasOwn(liturgicalList, explicitEntryKey || '')
+        ? explicitEntryKey
+        : legacyCourseLink ? '321_after_pentecost_21' : null;
+    let initialLinkedCalendarPending = Boolean(requestedEntryKey);
+    const configuredDefaultSunday = requestedEntryKey || (isSundayAvailable(APP_CONFIG.defaultSundayKey)
         ? APP_CONFIG.defaultSundayKey
-        : Object.keys(liturgicalList)[0];
+        : Object.keys(liturgicalList)[0]);
 
     // --- SÉCURITÉ : CHOIX PAR DÉFAUT ---
     let currentSundayKey = configuredDefaultSunday || '00_publican_pharisee';
@@ -3299,7 +3306,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
             const today = new Date();
-            if (today.getFullYear() === calendar.year) {
+            if (initialLinkedCalendarPending) {
+                initialLinkedCalendarPending = false;
+                const linkedEntry = visibleSundays.find(sunday => sunday.key === requestedEntryKey
+                    || sunday.readings?.gospel?.key === requestedEntryKey
+                    || sunday.readings?.apostle?.key === requestedEntryKey);
+                if (linkedEntry) {
+                    calendarSelect.value = linkedEntry.date;
+                    calendarSelect.dispatchEvent(new Event('change'));
+                }
+            } else if (today.getFullYear() === calendar.year) {
                 const localDate = [
                     today.getFullYear(),
                     String(today.getMonth() + 1).padStart(2, '0'),
