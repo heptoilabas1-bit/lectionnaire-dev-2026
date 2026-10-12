@@ -4522,7 +4522,7 @@ document.addEventListener('DOMContentLoaded', () => {
             : 'Étymologie en cours de vérification pour ce mot.';
         const explicitLemma = normalized.etymologyLemma || grammar?.lemma || normalized.lexical?.lemma;
         etymologySection.appendChild(etymologyHeading);
-        if (!grammar?.lemma) {
+        if (!grammar?.lemma && !normalized.course_only) {
             const lemmaLine = document.createElement('p');
             lemmaLine.className = 'analysis-dialog-etymology-lemma';
             lemmaLine.textContent = explicitLemma ? `Lemme : ${explicitLemma}` : 'Lemme : à identifier';
@@ -4531,7 +4531,7 @@ document.addEventListener('DOMContentLoaded', () => {
         etymologySection.appendChild(etymologyText);
         const baillyLemma = String(explicitLemma || target.textContent || '')
             .split(/[;,]/)[0].replace(/[^\p{Script=Greek}\p{Mark}\s]/gu, '').trim();
-        if (baillyLemma) {
+        if (baillyLemma && !normalized.course_only) {
             const baillyLink = document.createElement('a');
             baillyLink.className = 'analysis-dialog-etymology-source';
             baillyLink.href = `https://outils.biblissima.fr/fr/eulexis-web/?lemma=${encodeURIComponent(baillyLemma)}&dict=Bailly`;
@@ -4542,7 +4542,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 : 'Rechercher cette forme dans Eulexis';
             etymologySection.appendChild(baillyLink);
         }
-        if (!structured) content.appendChild(etymologySection);
+        if (!structured && (!normalized.course_only || etymology)) content.appendChild(etymologySection);
         if (normalized.content) {
             const existing = document.createElement('section');
             existing.className = grammar ? 'analysis-dialog-existing' : '';
