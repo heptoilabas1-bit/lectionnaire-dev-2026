@@ -2611,8 +2611,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         currentSundayKey = sundayKey;
         document.body.classList.toggle('student-featured', Boolean(APP_CONFIG.students && APP_CONFIG.featuredPericopeKey === sundayKey));
-        if (APP_CONFIG.students && annotationHelp) {
-            const helpText = annotationHelp.querySelector('p');
+        if (APP_CONFIG.students) {
+            const helpText = document.querySelector('.annotation-help p');
             if (helpText) helpText.textContent = 'Cliquez sur un mot signalé pour retrouver son explication dans le document du cours.';
         }
         currentReadingType = readingType;
