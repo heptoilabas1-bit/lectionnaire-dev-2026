@@ -967,6 +967,13 @@ document.addEventListener('DOMContentLoaded', () => {
         const explanation = document.createElement('p');
         explanation.textContent = connection.explanation || '';
         header.append(badges, title, explanation);
+        if (connection.author) {
+            const attribution = document.createElement('small');
+            attribution.className = 'analysis-author';
+            attribution.textContent = connection.author;
+            attribution.style.cssText = 'display:block;font-size:.78rem;color:#666;margin:4px 0 8px';
+            header.appendChild(attribution);
+        }
         return header;
     };
 
@@ -2717,6 +2724,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     const title = document.createElement('h5');
                     title.textContent = axis.title || 'Axe';
                     article.appendChild(title);
+                    if (axis.author) {
+                        const attribution = document.createElement('small');
+                        attribution.textContent = axis.author;
+                        attribution.style.cssText = 'display:block;font-size:.78rem;color:#666;margin:4px 0 8px';
+                        article.appendChild(attribution);
+                    }
                     if (axis.content) {
                         const content = document.createElement('p');
                         content.textContent = axis.content;
