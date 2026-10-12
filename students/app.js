@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const APP_CONFIG = window.LECTIONARY_CONFIG || {};
     if (APP_CONFIG.students) document.body.classList.add('student-mode');
     const studentAnalysisEnabled = () => !APP_CONFIG.students || APP_CONFIG.featuredPericopeKey === currentSundayKey;
-    const DATA_VERSION = APP_CONFIG.dataVersion || '20261012-students-sower-21';
+    const DATA_VERSION = APP_CONFIG.dataVersion || '20261012-students-luke-ranks';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '320_after_pentecost_20': 'Le Fils de la veuve de Naïn (3e de Luc)',
         '321_after_pentecost_21': '21e dimanche après la Pentecôte · du Divin Semeur (4e de Luc)',
         '322_after_pentecost_22': 'Le Riche et Lazare (5e de Luc)',
-        '323_after_pentecost_23': 'Le Démoniaque de Gérasa (6e de Luc)',
+        '323_after_pentecost_23': '23e dimanche après la Pentecôte · Le Démoniaque de Gérasa (6e de Luc)',
         '324_after_pentecost_24': 'La Fille de Jaïre (7e de Luc)',
         '325_after_pentecost_25': 'Le Bon Samaritain (25e dimanche après la Pentecôte)',
         '326_after_pentecost_26': 'Le Riche insensé (9e de Luc)',
