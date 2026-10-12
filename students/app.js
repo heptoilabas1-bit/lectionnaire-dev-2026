@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const APP_CONFIG = window.LECTIONARY_CONFIG || {};
     if (APP_CONFIG.students) document.body.classList.add('student-mode');
     const studentAnalysisEnabled = () => !APP_CONFIG.students || APP_CONFIG.featuredPericopeKey === currentSundayKey;
-    const DATA_VERSION = APP_CONFIG.dataVersion || '20261002-students-neutral-1';
+    const DATA_VERSION = APP_CONFIG.dataVersion || '20261012-students-sower-21';
     const versionedDataPath = path => `${path}?v=${DATA_VERSION}`;
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
@@ -59,9 +59,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // --- Cycle de Luc (Automne - Octoèque suite) ---
         '318_after_pentecost_18': 'La Pêche miraculeuse (1er de Luc)',
-        '319_after_pentecost_19': 'L\'Amour des ennemis (2e de Luc)',
+        '319_after_pentecost_19': '19e dimanche après la Pentecôte · L\'Amour des ennemis (2e de Luc)',
         '320_after_pentecost_20': 'Le Fils de la veuve de Naïn (3e de Luc)',
-        '321_after_pentecost_21': 'Le Semeur (4e de Luc)',
+        '321_after_pentecost_21': '21e dimanche après la Pentecôte · du Divin Semeur (4e de Luc)',
         '322_after_pentecost_22': 'Le Riche et Lazare (5e de Luc)',
         '323_after_pentecost_23': 'Le Démoniaque de Gérasa (6e de Luc)',
         '324_after_pentecost_24': 'La Fille de Jaïre (7e de Luc)',
@@ -1892,19 +1892,21 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const compactOfficialSundayPosition = (entry, date, variant) => {
-        const rank = entry.official_title?.match(/(\d+)(?:er|e|ème) dimanche après la Pentecôte/i);
+        const rank = officialSundayRank(entry);
         const position = variant === 'fixed'
             ? 'fixe'
-            : (rank ? `DP ${Number(rank[1])}` : 'cycle mobile');
+            : (rank ? `DP ${rank}` : 'cycle mobile');
         return `${formatLiturgicalDate(date)} · ${position}`;
     };
 
     const officialSundayRank = entry => {
+        if (Number.isInteger(entry.liturgical_rank)) return entry.liturgical_rank;
         const rank = entry.official_title?.match(/(\d+)(?:er|e|ème) dimanche après la Pentecôte/i);
         return rank ? Number(rank[1]) : null;
     };
 
     const demoCalendarTitle = entry => {
+        if (entry.liturgical_title) return entry.liturgical_title;
         if (entry.key === '97_cross_after') return 'Dimanche après l’exaltation de la Sainte Croix';
         if (entry.key === '325_after_pentecost_25') {
             const rank = officialSundayRank(entry);
@@ -1916,6 +1918,8 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const calendarSundayCardLabel = entry => {
+        if (entry.liturgical_rank === 21) return '21e · Divin Semeur';
+        if (entry.liturgical_rank === 19) return '19e · Amour des ennemis';
         if (entry.key === '97_cross_after') return 'D. après Croix';
         if (entry.key === '90_advent_2') return 'Le banquet des noces';
         if (entry.key === '325_after_pentecost_25') return 'Bon Samaritain';
