@@ -2620,7 +2620,7 @@ document.addEventListener('DOMContentLoaded', () => {
         document.body.classList.toggle('student-featured', Boolean(APP_CONFIG.students && APP_CONFIG.featuredPericopeKey === sundayKey));
         if (APP_CONFIG.students) {
             const helpText = document.querySelector('.annotation-help p');
-            if (helpText) helpText.textContent = 'Cliquez sur un mot signalé pour retrouver son explication dans le document du cours.';
+            if (helpText) helpText.textContent = 'Survolez un mot signalé pour consulter sa grammaire. Sur téléphone, touchez le mot pour retrouver sa grammaire et l’explication du cours.';
         }
         currentReadingType = readingType;
         currentLectionaryData = null;
@@ -4444,6 +4444,14 @@ document.addEventListener('DOMContentLoaded', () => {
         const detail = findComparisonTermDetail(connection, side, token) || {};
         const annotation = decodeTargetAnnotation(target) || {};
         const annotationLemma = String(annotation.title || '').split(/\s+[—–-]\s+/)[0].trim();
+        const existingGrammarCard = comparisonTermDialog.querySelector('.comparison-grammar-card');
+        if (existingGrammarCard) existingGrammarCard.remove();
+        if (annotation.grammar) {
+            const grammarCard = buildGrammarDialogCard(annotation.grammar, target);
+            grammarCard.classList.add('comparison-grammar-card');
+            const comparisonFields = comparisonTermDialog.querySelector('.comparison-term-fields');
+            if (comparisonFields) comparisonFields.before(grammarCard);
+        }
         const gloss = target.closest('.comparison-word-unit')?.querySelector('.inter-gloss')?.textContent?.trim();
         const bridge = connection.bridge || {};
         const sideLabel = side === 'apostle' ? 'Dans l’Apôtre' : 'Dans l’Évangile';
@@ -4493,7 +4501,7 @@ document.addEventListener('DOMContentLoaded', () => {
         heading.append(form, badge);
         const fields = document.createElement('dl');
         fields.className = 'grammar-dialog-fields';
-        appendGrammarField(fields, 'Lemme (forme du dictionnaire)', grammar.lemma);
+        appendGrammarField(fields, 'Forme du dictionnaire', grammar.lemma);
         appendGrammarField(fields, 'Catégorie', grammar.category);
         appendGrammarField(fields, 'Morphologie', grammar.parsing);
         appendGrammarField(fields, 'Fonction et construction', grammar.syntax);
